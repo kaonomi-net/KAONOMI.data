@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-missiles-hypersoniques",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Missiles hypersoniques",
+  "includedEntities": [
+    {
+      "entityName": "missile hypersonique",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "essai",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le développement des missiles hypersoniques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Russie",
+    "Chine",
+    "États-Unis"
+  ],
+  "questions": [
+    "Quel essai ?",
+    "Quelle vitesse ?",
+    "Quelle défense possible ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#DEFENSE",
+    "#MISSILES"
+  ],
+  "events": [],
+  "signals": [
+    "!COURSE-ARMEMENTS"
+  ],
+  "isDeleted": false
+}

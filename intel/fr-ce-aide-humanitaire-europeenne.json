@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-aide-humanitaire-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Aide humanitaire européenne",
+  "includedEntities": [
+    {
+      "entityName": "aide humanitaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'aide humanitaire de l'Union dans le monde.",
+  "isFuzzy": true,
+  "locations": [
+    "Gaza",
+    "Soudan",
+    "Ukraine"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ECHO",
+    "ONG",
+    "financements"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quelle crise ?",
+    "Quel accès ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@ANNONCE-AIDE"
+  ],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

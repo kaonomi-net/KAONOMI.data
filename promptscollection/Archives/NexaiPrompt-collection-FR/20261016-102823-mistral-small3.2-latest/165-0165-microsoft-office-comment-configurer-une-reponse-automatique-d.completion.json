@@ -1,0 +1,13 @@
+{
+  "index": 165,
+  "file": "0165-microsoft-office-comment-configurer-une-reponse-automatique-d.prompt.json",
+  "prompt": "Comment configurer une réponse automatique d'absence dans Outlook ?",
+  "promptWords": 9,
+  "completion": "Pour configurer une réponse automatique d'absence dans Outlook, vous pouvez suivre ces étapes :\n\n### Sur Outlook pour Windows :\n1. **Ouvrez Outlook** et cliquez sur **Fichier** dans le coin supérieur gauche.\n2. Sélectionnez **Autres outils** > **Paramètres du compte**.\n3. Dans la fenêtre qui s'ouvre, cliquez sur **Réponses automatiques**.\n4. Cochez la case **Envoyer des réponses automatiques**.\n5. Choisissez la période pendant laquelle vous souhaitez activer les réponses automatiques.\n6. Rédigez votre message d'absence dans les zones de texte fournies (vous pouvez personnaliser le message pour les personnes à l'intérieur ou à l'extérieur de votre organisation).\n7. Cliquez sur **OK** pour enregistrer vos modifications.\n\n### Sur Outlook pour Mac :\n1. **Ouvrez Outlook** et allez dans **Outlook** > **Préférences** dans la barre de menu.\n2. Cliquez sur **Réponses automatiques**.\n3. Cochez la case **Activer les réponses automatiques**.\n4. Sélectionnez la période de début et de fin.\n5. Rédigez votre message d'absence.\n6. Cliquez sur **OK** pour enregistrer.\n\n### Sur Outlook en ligne (Outlook Web App) :\n1. Connectez-vous à votre compte Outlook en ligne.\n2. Cliquez sur l'**icône d'engrenage** (Paramètres) en haut à droite et sélectionnez **Afficher tous les paramètres d'Outlook**.\n3. Dans le menu de gauche, choisissez **Réponses automatiques**.\n4. Cochez la case **Envoyer des réponses automatiques**.\n5. Définissez la période et rédigez votre message.\n6. Cliquez sur **Enregistrer** pour appliquer les modifications.\n\nSi vous avez besoin d'aide supplémentaire ou si vous utilisez une version différente d'Outlook, n'hésitez pas à me le préciser !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:58:08.5689042+02:00",
+  "durationSeconds": 8.7,
+  "stats": "mistral-small3.2:latest · 518 + 429 tokens · 8,7 s",
+  "isError": false,
+  "language": "FR"
+}

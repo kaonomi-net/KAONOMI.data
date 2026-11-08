@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-peur-et-phobies",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Peur et phobies",
+  "includedEntities": [
+    {
+      "entityName": "phobie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "peur",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recherches sur les peurs et les phobies.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "phobie sociale",
+    "avion",
+    "araignées"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel traitement ?",
+    "Quelle découverte ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#EMOTIONS",
+    "#PHOBIES"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "isDeleted": false
+}

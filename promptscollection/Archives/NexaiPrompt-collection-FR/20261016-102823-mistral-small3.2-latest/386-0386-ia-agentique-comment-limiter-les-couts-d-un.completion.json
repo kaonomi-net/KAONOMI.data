@@ -1,0 +1,13 @@
+{
+  "index": 386,
+  "file": "0386-ia-agentique-comment-limiter-les-couts-d-un.prompt.json",
+  "prompt": "Comment limiter les coûts d'un agent IA qui fait beaucoup d'appels au LLM ?",
+  "promptWords": 14,
+  "completion": "Pour limiter les coûts d'un agent IA qui fait beaucoup d'appels au LLM (Large Language Model), voici plusieurs stratégies que vous pouvez mettre en place :\n\n1. **Optimiser les requêtes** :\n   - **Réduire la longueur des prompts** : Plus le prompt est long, plus le coût de l'appel au LLM est élevé. Essayez de formuler des requêtes concises et précises.\n   - **Éviter les requêtes redondantes** : Stockez les réponses aux requêtes fréquentes dans une base de données (caching) pour éviter de répéter les mêmes appels.\n\n2. **Utiliser des modèles plus petits ou spécialisés** :\n   - **Choisir un modèle plus petit** : Les modèles plus petits sont généralement moins coûteux à utiliser, bien qu'ils puissent être moins performants.\n   - **Utiliser des modèles spécialisés** : Si votre agent IA a des besoins spécifiques (par exemple, la traduction ou la génération de code), utilisez des modèles spécialisés qui peuvent être plus économiques.\n\n3. **Limiter les appels inutiles** :\n   - **Implémenter une logique de contrôle** : Assurez-vous que l'agent IA n'appelle le LLM que lorsque c'est absolument nécessaire. Par exemple, vérifiez d'abord si la réponse peut être trouvée dans une base de connaissances interne.\n   - **Utiliser des règles de priorité** : Donnez la priorité aux requêtes les plus importantes ou urgentes.\n\n4. **Optimiser l'infrastructure** :\n   - **Utiliser des services en batch** : Si possible, regrouper les requêtes pour réduire le nombre d'appels individuels.\n   - **Choisir des fournisseurs avec des tarifs compétitifs** : Comparez les coûts des différents fournisseurs de LLM et choisissez celui qui offre le meilleur rapport qualité-prix.\n\n5. **Surveiller et analyser les coûts** :\n   - **Mettre en place des alertes de coût** : Configurez des alertes pour être informé lorsque les coûts dépassent un certain seuil.\n   - **Analyser les logs** : Examinez les logs des appels au LLM pour identifier les requêtes coûteuses et les optimiser.\n\n6. **Utiliser des techniques de compression** :\n   - **Compresser les données d'entrée et de sortie** : Réduire la taille des données échangées peut diminuer les coûts de traitement.\n\nEn combinant ces stratégies, vous pouvez significativement réduire les coûts associés à l'utilisation d'un agent IA faisant beaucoup d'appels au LLM.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:35:38.9764047+02:00",
+  "durationSeconds": 11.3,
+  "stats": "mistral-small3.2:latest · 526 + 560 tokens · 11,3 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-services-de-renseignement",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "services de renseignement",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Sabotage en Europe attribué à la Russie ; Terrorisme international ; Espionnage entre États.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les actes de sabotage en Europe soupçonnés d'être commandités par Moscou.",
+    "Surveiller l'activité des groupes terroristes internationaux.",
+    "Repérer les affaires d'espionnage entre États."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 33,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "services de renseignement",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#EUROPE",
+    "#SABOTAGE",
+    "#GUERRE-HYBRIDE",
+    "#TERRORISME",
+    "#SECURITE"
+  ],
+  "events": [
+    "@SABOTAGE",
+    "@ATTENTAT",
+    "@AFFAIRE-ESPIONNAGE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!FEAR",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Lituanie",
+    "Europe",
+    "Allemagne",
+    "incendies",
+    "arrestations",
+    "sabotage",
+    "Russie",
+    "Pologne",
+    "Syrie",
+    "Sahel"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

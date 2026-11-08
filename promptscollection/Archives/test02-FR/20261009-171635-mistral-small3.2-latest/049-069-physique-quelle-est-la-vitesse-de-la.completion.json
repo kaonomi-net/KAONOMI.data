@@ -1,0 +1,13 @@
+{
+  "index": 49,
+  "file": "069-physique-quelle-est-la-vitesse-de-la.prompt.json",
+  "prompt": "Quelle est la vitesse de la lumière et pourquoi ne peut-on pas la dépasser ?",
+  "promptWords": 15,
+  "completion": "La vitesse de la lumière dans le vide est d'environ 299 792 kilomètres par seconde (environ 1 079 252 848,8 km/h). Cette valeur est une constante universelle, notée \\( c \\), et elle est fondamentale en physique, notamment dans la théorie de la relativité restreinte d'Albert Einstein.\n\n### Pourquoi ne peut-on pas dépasser la vitesse de la lumière ?\nSelon la théorie de la relativité restreinte, plusieurs raisons expliquent pourquoi rien ne peut dépasser la vitesse de la lumière :\n\n1. **Masse infinie** : Pour accélérer un objet de masse \\( m \\) à la vitesse de la lumière, il faudrait une énergie infinie. La formule de l'énergie cinétique en relativité restreinte montre que l'énergie nécessaire augmente de manière exponentielle à mesure que la vitesse approche \\( c \\).\n\n2. **Conservation de l'énergie** : Aucune quantité finie d'énergie ne peut permettre à un objet de dépasser \\( c \\), car cela violerait les lois de la physique connues.\n\n3. **Effets relativistes** : À des vitesses proches de \\( c \\), des phénomènes comme la dilatation du temps et la contraction des longueurs deviennent significatifs. Si un objet atteignait \\( c \\), le temps s'arrêterait pour lui (dilatation du temps infinie), ce qui est physiquement impossible.\n\n4. **Causalité** : Dépasser la vitesse de la lumière entraînerait des paradoxes de causalité, comme la possibilité d'envoyer des informations dans le passé, ce qui violerait le principe de causalité en physique.\n\nEn résumé, la vitesse de la lumière est une limite fondamentale imposée par les lois de la physique, et aucun objet avec une masse au repos (comme les particules matérielles) ne peut l'atteindre ou la dépasser. Cependant, certaines particules sans masse (comme les photons) se déplacent toujours à \\( c \\) dans le vide.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:25:37.6338736+02:00",
+  "durationSeconds": 9.52,
+  "stats": "mistral-small3.2:latest · 525 + 419 tokens · 9,5 s",
+  "isError": false,
+  "language": "FR"
+}

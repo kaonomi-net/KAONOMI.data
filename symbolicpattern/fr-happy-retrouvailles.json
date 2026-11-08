@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-retrouvailles",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de se retrouver après une absence.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:retrouvailles)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:se\\s+retrouver)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:retrouv[ée](e|s|es)?\\s+enfin)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]union(s)?\\s+familiale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]unis)(?![\\w-])"
+  ],
+  "symbol": "retrouvailles",
+  "event": null,
+  "title": "Retrouvailles",
+  "tags": [
+    "#AMITIE",
+    "#FAMILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

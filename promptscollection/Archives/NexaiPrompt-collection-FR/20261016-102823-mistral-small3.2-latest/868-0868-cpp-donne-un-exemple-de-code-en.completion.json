@@ -1,0 +1,13 @@
+{
+  "index": 868,
+  "file": "0868-cpp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C++ qui illustre les threads (std::thread).",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en C++ qui illustre l'utilisation des threads avec `std::thread`. Ce code crée plusieurs threads qui exécutent une fonction simple en parallèle :\n\n```cpp\n#include <iostream>\n#include <thread>\n#include <vector>\n\n// Fonction exécutée par chaque thread\nvoid task(int id) {\n    std::cout << \"Thread \" << id << \" démarré.\" << std::endl;\n    // Simulation d'un travail\n    for (int i = 0; i < 3; ++i) {\n        std::cout << \"Thread \" << id << \" travaille... (\" << i << \")\" << std::endl;\n        std::this_thread::sleep_for(std::chrono::milliseconds(100));\n    }\n    std::cout << \"Thread \" << id << \" terminé.\" << std::endl;\n}\n\nint main() {\n    const int num_threads = 5;\n    std::vector<std::thread> threads;\n\n    // Création des threads\n    for (int i = 0; i < num_threads; ++i) {\n        threads.emplace_back(task, i);\n    }\n\n    // Attente de la fin de tous les threads\n    for (auto& thread : threads) {\n        thread.join();\n    }\n\n    std::cout << \"Tous les threads ont terminé. Programme principal terminé.\" << std::endl;\n    return 0;\n}\n```\n\n### Explications :\n1. **Fonction `task`** : C'est la fonction que chaque thread exécutera. Elle prend un identifiant en paramètre pour distinguer les threads.\n2. **Création des threads** : Dans la fonction `main`, on crée un vecteur de threads et on utilise une boucle pour lancer plusieurs threads qui exécutent la fonction `task`.\n3. **`thread.join()`** : Cette méthode est utilisée pour attendre que chaque thread se termine avant de continuer l'exécution du programme principal.\n\n### Compilation :\nPour compiler ce code, vous pouvez utiliser g++ avec l'option `-pthread` :\n```bash\ng++ -std=c++11 -pthread votre_fichier.cpp -o votre_programme\n```\n\nCe code montre comment lancer plusieurs threads en parallèle et comment attendre leur terminaison.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:32:56.8140919+02:00",
+  "durationSeconds": 9.42,
+  "stats": "mistral-small3.2:latest · 526 + 464 tokens · 9,4 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-crise-de-la-dette-souveraine",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Crise de la dette souveraine",
+  "includedEntities": [
+    {
+      "entityName": "dette souveraine",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "défaut",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "FMI",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les pays en risque de défaut de paiement.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "FMI",
+    "Banque mondiale",
+    "créanciers"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Quel plan de sauvetage ?",
+    "Quelles conditions ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ECONOMIE",
+    "#DETTE"
+  ],
+  "events": [
+    "@RISQUE-DEFAUT"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (le marché intérieur) : Révision des traités qui fixe l'achèvement du marché unique au 31 décembre 1992.",
+  "id": "eu-pol-acte-unique",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Acte unique européen",
+  "entityType": "LAW",
+  "description": "Révision des traités qui fixe l'achèvement du marché unique au 31 décembre 1992.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-traites",
+  "sentencesExemples": [
+    "Le Journal officiel de l'Union a publié « Acte unique européen ».",
+    "Les juristes de la Commission ont commenté « Acte unique européen ».",
+    "La mise en œuvre de « Acte unique européen » est suivie par la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "AUE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#MARCHEINTERIEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Acte%20unique%20europ%C3%A9en"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Marché intérieur",
+    "Marché unique"
+  ],
+  "isDeleted": false,
+  "startDate": "1986-02-17T00:00:00",
+  "endDate": null
+}

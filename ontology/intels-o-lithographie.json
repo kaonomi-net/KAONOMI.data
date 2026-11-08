@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-lithographie",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "lithographie",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : ASML.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'action ASML, plus grande capitalisation technologique européenne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "lithographie",
+  "tags": [
+    "#BOURSE",
+    "#IA",
+    "#SEMI-CONDUCTEURS"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Veldhoven",
+    "TSMC",
+    "Chine",
+    "EUV",
+    "ASML"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

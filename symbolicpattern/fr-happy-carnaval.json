@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-carnaval",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une fête costumée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:carnaval(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mardi\\s+gras)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]fil[ée](s)?\\s+costum[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]guisement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:masque(s)?\\s+de\\s+carnaval)(?![\\w-])"
+  ],
+  "symbol": "carnaval",
+  "event": null,
+  "title": "Carnaval",
+  "tags": [
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

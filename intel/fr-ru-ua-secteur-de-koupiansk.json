@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-secteur-de-koupiansk",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Secteur de Koupiansk",
+  "includedEntities": [
+    {
+      "entityName": "Koupiansk",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Oskil",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "combats",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les combats autour de Koupiansk et de la rivière Oskil.",
+  "isFuzzy": true,
+  "locations": [
+    "Koupiansk",
+    "Kharkiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "armée russe",
+    "tête de pont",
+    "évacuations"
+  ],
+  "questions": [
+    "Quelles avancées ?",
+    "La ville est-elle encerclée ?",
+    "Quelles évacuations ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#KHARKIV",
+    "#FRONT"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

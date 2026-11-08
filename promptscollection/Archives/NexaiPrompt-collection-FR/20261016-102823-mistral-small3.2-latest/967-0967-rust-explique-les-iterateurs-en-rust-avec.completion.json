@@ -1,0 +1,13 @@
+{
+  "index": 967,
+  "file": "0967-rust-explique-les-iterateurs-en-rust-avec.prompt.json",
+  "prompt": "Explique les itérateurs en Rust avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "Les itérateurs en Rust sont une manière élégante et efficace de manipuler des collections de données. Ils permettent de parcourir, transformer et filtrer des éléments de manière déclarative, ce qui rend le code plus lisible et moins sujet aux erreurs.\n\n### Concepts de base :\n1. **Itérateur** : Un objet qui implémente le trait `Iterator` et permet de parcourir une séquence d'éléments.\n2. **Méthodes de chaînage** : Les itérateurs en Rust peuvent être chaînés pour effectuer des opérations successives sur les éléments.\n3. **Lazy Evaluation** : Les itérateurs ne sont évalués que lorsqu'on appelle une méthode qui consomme l'itérateur (comme `collect`, `sum`, etc.).\n\n### Exemple simple :\nImaginons que nous avons une liste de nombres et que nous voulons :\n1. Filtrer les nombres pairs.\n2. Multiplier chaque nombre pair par 2.\n3. Collecter les résultats dans un nouveau vecteur.\n\nVoici comment cela peut être fait avec des itérateurs en Rust :\n\n```rust\nfn main() {\n    let numbers = vec![1, 2, 3, 4, 5, 6];\n\n    // Utilisation d'itérateurs pour filtrer, transformer et collecter\n    let result: Vec<i32> = numbers.iter()\n        .filter(|&&x| x % 2 == 0)  // Filtrer les nombres pairs\n        .map(|&x| x * 2)           // Multiplier chaque nombre pair par 2\n        .collect();                // Collecter les résultats dans un vecteur\n\n    println!(\"{:?}\", result);  // Affiche [4, 8, 12]\n}\n```\n\n### Explication :\n1. **`numbers.iter()`** : Crée un itérateur sur la collection `numbers`.\n2. **`.filter(|&&x| x % 2 == 0)`** : Filtre les éléments pour ne garder que les nombres pairs.\n3. **`.map(|&x| x * 2)`** : Transforme chaque élément pair en le multipliant par 2.\n4. **`.collect()`** : Consomme l'itérateur et collecte les résultats dans un nouveau vecteur.\n\n### Avantages des itérateurs en Rust :\n- **Sécurité** : Les itérateurs sont vérifiés à la compilation pour éviter les erreurs courantes comme les accès hors limites.\n- **Performance** : Les itérateurs sont souvent plus efficaces que les boucles traditionnelles grâce à l'optimisation du compilateur.\n- **Lisibilité** : Le code est plus expressif et facile à comprendre.\n\nLes itérateurs sont un outil puissant en Rust, et une fois maîtrisés, ils permettent d'écrire du code plus propre et plus efficace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:56:37.1658123+02:00",
+  "durationSeconds": 12.26,
+  "stats": "mistral-small3.2:latest · 520 + 604 tokens · 12,3 s",
+  "isError": false,
+  "language": "FR"
+}

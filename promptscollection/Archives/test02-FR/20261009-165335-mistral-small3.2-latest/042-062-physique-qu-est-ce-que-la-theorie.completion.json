@@ -1,0 +1,13 @@
+{
+  "index": 42,
+  "file": "062-physique-qu-est-ce-que-la-theorie.prompt.json",
+  "prompt": "Qu'est-ce que la théorie de la relativité d'Einstein ?",
+  "promptWords": 9,
+  "completion": "La théorie de la relativité d'Albert Einstein est un ensemble de deux théories fondamentales qui ont révolutionné notre compréhension de l'espace, du temps et de la gravité. Voici un aperçu des deux parties principales :\n\n### 1. **Relativité restreinte (1905)**\n   - **Principe de relativité** : Les lois de la physique sont les mêmes dans tous les référentiels inertiels (c'est-à-dire en mouvement rectiligne uniforme les uns par rapport aux autres).\n   - **Constante de la vitesse de la lumière** : La vitesse de la lumière dans le vide (\\(c\\)) est la même pour tous les observateurs, quelle que soit leur vitesse.\n   - **Dilatation du temps et contraction des longueurs** : Le temps s'écoule plus lentement pour un observateur en mouvement rapide par rapport à un observateur au repos, et les longueurs se contractent dans la direction du mouvement.\n   - **Équivalence masse-énergie** : La célèbre équation \\(E = mc^2\\) montre que la masse et l'énergie sont interchangeables.\n\n### 2. **Relativité générale (1915)**\n   - **Gravité comme courbure de l'espace-temps** : La gravité n'est pas une force, mais une conséquence de la courbure de l'espace-temps causée par la présence de masse et d'énergie.\n   - **Équations de champ d'Einstein** : Elles décrivent comment la matière et l'énergie influencent la courbure de l'espace-temps.\n   - **Prédictions** : La théorie prédit des phénomènes comme la déviation de la lumière par la gravité, l'expansion de l'univers, les trous noirs et les ondes gravitationnelles.\n\n### Impacts et applications\n- **Technologie** : Les systèmes de navigation par satellite (comme le GPS) tiennent compte des effets relativistes.\n- **Astrophysique** : La théorie de la relativité est essentielle pour comprendre les trous noirs, les étoiles à neutrons et l'évolution de l'univers.\n- **Philosophie** : Elle a profondément changé notre vision de l'univers, en montrant que l'espace et le temps sont interdépendants.\n\nSi vous souhaitez des détails sur un aspect spécifique de la théorie, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:00:47.3370406+02:00",
+  "durationSeconds": 10.5,
+  "stats": "mistral-small3.2:latest · 522 + 495 tokens · 10,5 s",
+  "isError": false,
+  "language": "FR"
+}

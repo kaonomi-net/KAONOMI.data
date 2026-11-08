@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cles-usb-et-attaques-physiques",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Clés USB et attaques physiques",
+  "includedEntities": [
+    {
+      "entityName": "clé USB",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "piégée",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques par périphériques piégés.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ports USB",
+    "câbles piégés",
+    "salons"
+  ],
+  "questions": [
+    "Quel dispositif ?",
+    "Quelle cible ?",
+    "Quelle parade ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SECURITE-PHYSIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

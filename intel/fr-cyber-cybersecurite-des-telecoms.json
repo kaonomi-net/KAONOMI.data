@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cybersecurite-des-telecoms",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cybersécurité des télécoms",
+  "includedEntities": [
+    {
+      "entityName": "télécoms",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "réseaux",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "5G",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la sécurité des réseaux de télécommunications.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Salt Typhoon",
+    "5G",
+    "opérateurs"
+  ],
+  "questions": [
+    "Quelle menace ?",
+    "Quel incident ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#TELECOMS",
+    "#INFRASTRUCTURES"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

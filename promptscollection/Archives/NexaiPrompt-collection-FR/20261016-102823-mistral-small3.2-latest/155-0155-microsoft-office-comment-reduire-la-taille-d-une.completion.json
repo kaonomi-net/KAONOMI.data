@@ -1,0 +1,13 @@
+{
+  "index": 155,
+  "file": "0155-microsoft-office-comment-reduire-la-taille-d-une.prompt.json",
+  "prompt": "Comment réduire la taille d'une présentation dans PowerPoint ?",
+  "promptWords": 9,
+  "completion": "Pour réduire la taille d'une présentation PowerPoint, vous pouvez suivre ces étapes :\n\n1. **Optimiser les images** :\n   - Compressez les images en allant dans **Fichier > Compresser les images**.\n   - Choisissez une résolution adaptée (96 ppp pour une utilisation à l'écran).\n\n2. **Supprimer les éléments inutiles** :\n   - Supprimez les diapositives, images, graphiques ou objets inutiles.\n\n3. **Utiliser des polices standard** :\n   - Évitez les polices personnalisées qui peuvent augmenter la taille du fichier.\n\n4. **Enregistrer dans un format plus léger** :\n   - Utilisez le format **PowerPoint 97-2003 (.ppt)** si vous n'avez pas besoin des fonctionnalités avancées des versions récentes.\n\n5. **Vérifier les médias intégrés** :\n   - Si votre présentation contient des vidéos ou des sons, essayez de les lier plutôt que de les intégrer.\n\n6. **Utiliser l'outil de réduction de taille** :\n   - Allez dans **Fichier > Informations > Réduire le fichier**.\n\n7. **Enregistrer dans un format compressé** :\n   - Utilisez **Fichier > Enregistrer sous** et choisissez un format comme **PDF** si la présentation doit être partagée sans modification.\n\nSi vous avez besoin d'aide supplémentaire ou d'informations plus détaillées, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:56:42.2711151+02:00",
+  "durationSeconds": 6.84,
+  "stats": "mistral-small3.2:latest · 518 + 324 tokens · 6,8 s",
+  "isError": false,
+  "language": "FR"
+}

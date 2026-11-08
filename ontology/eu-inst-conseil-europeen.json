@@ -1,0 +1,61 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique étrangère) : Réunion des chefs d'État ou de gouvernement qui fixe les orientations politiques générales de l'Union.",
+  "id": "eu-inst-conseil-europeen",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Conseil européen",
+  "entityType": "ORGANISATION",
+  "description": "Réunion des chefs d'État ou de gouvernement qui fixe les orientations politiques générales de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-institutions",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Conseil européen ».",
+    "« Conseil européen » joue un rôle dans la politique étrangère.",
+    "Les fonctionnaires de « Conseil européen » préparent les textes relatifs à la politique étrangère."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "sommet européen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Conseil%20europ%C3%A9en"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Président du Conseil européen",
+    "Bruxelles",
+    "Union européenne",
+    "Affaires étrangères",
+    "Commission européenne",
+    "Charles Michel",
+    "António Costa",
+    "Donald Tusk",
+    "Herman Van Rompuy",
+    "Enrico Letta",
+    "Statut de pays candidat accordé à l'Ukraine et à la Moldavie",
+    "Décision d'ouvrir les négociations d'adhésion avec l'Ukraine et la Moldavie",
+    "Accord du Conseil européen sur NextGenerationEU"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

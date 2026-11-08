@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-roskomnadzor",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "Roskomnadzor",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Censure d'internet en Russie ; Coupures d'internet mobile en Russie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les blocages de sites, de messageries et de VPN.",
+    "Suivre les coupures d'internet mobile justifiées par les drones."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Roskomnadzor",
+  "tags": [
+    "#RUSSIE",
+    "#CENSURE",
+    "#INTERNET"
+  ],
+  "events": [
+    "@BLOCAGE",
+    "@COUPURE"
+  ],
+  "signals": [
+    "!VIGILANCE",
+    "!PERTURBATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "WhatsApp",
+    "VPN",
+    "censure",
+    "internet",
+    "Telegram",
+    "internet mobile",
+    "liste blanche",
+    "régions",
+    "coupures",
+    "opérateurs"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

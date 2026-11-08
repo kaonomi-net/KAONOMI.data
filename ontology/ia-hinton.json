@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (l'apprentissage profond) : Chercheur britannico-canadien, figure de l'apprentissage profond : rétropropagation (1986), machines de Boltzmann, AlexNet (2012).",
+  "id": "ia-hinton",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Geoffrey Hinton",
+  "entityType": "PERSON",
+  "description": "Chercheur britannico-canadien, figure de l'apprentissage profond : rétropropagation (1986), machines de Boltzmann, AlexNet (2012). Prix Turing 2018 et prix Nobel de physique 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les articles de Geoffrey Hinton pour comprendre l'apprentissage profond.",
+    "Sans les idées de Geoffrey Hinton, l'histoire de l'apprentissage profond aurait été différente.",
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Geoffrey Hinton."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Geoff Hinton",
+    "parrain de l'apprentissage profond"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#APPRENTISSAGEPROFOND"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Geoffrey%20Hinton"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Rétropropagation du gradient",
+    "Dropout",
+    "Victoire d'AlexNet à ImageNet",
+    "Prix Turing 2018",
+    "Prix Nobel de physique 2024"
+  ],
+  "isDeleted": false,
+  "startDate": "1947-12-06T00:00:00",
+  "endDate": null
+}

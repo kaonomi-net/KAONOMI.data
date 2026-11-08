@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-memoire",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Mémoire",
+  "includedEntities": [
+    {
+      "entityName": "mémoire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "souvenirs",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les recherches sur la mémoire.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "faux souvenirs",
+    "oubli",
+    "consolidation"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quelle découverte ?",
+    "Quelle application ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#COGNITION",
+    "#MEMOIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

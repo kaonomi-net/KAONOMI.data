@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-fortinet",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Fortinet",
+  "includedEntities": [
+    {
+      "entityName": "Fortinet",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "FortiGate",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les vulnérabilités des pare-feu Fortinet.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "FortiOS",
+    "VPN SSL",
+    "exploitation"
+  ],
+  "questions": [
+    "Quelle faille ?",
+    "Quelle exploitation ?",
+    "Quel correctif ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-fonds-social-pour-le-climat",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Fonds social pour le climat",
+  "includedEntities": [
+    {
+      "entityName": "fonds social pour le climat",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "ménages",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le fonds destiné à compenser le coût de la transition pour les ménages.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ETS2",
+    "plans nationaux",
+    "précarité énergétique"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quels plans nationaux ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CLIMAT",
+    "#SOCIAL"
+  ],
+  "events": [],
+  "signals": [
+    "!CLIMAT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-programme-du-fmi-pour-l-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Programme du FMI pour l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "FMI",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le programme de financement du FMI et ses conditions.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington",
+    "Kyiv"
+  ],
+  "times": [
+    "revues trimestrielles"
+  ],
+  "relatedEntities": [
+    "réformes",
+    "dette",
+    "impôts"
+  ],
+  "questions": [
+    "Quelle tranche ?",
+    "Quelles conditions ?",
+    "Quelle évaluation ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#FMI",
+    "#FINANCEMENT"
+  ],
+  "events": [
+    "@VERSEMENT"
+  ],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique économique) : Commission des affaires économiques et monétaires du Parlement européen, chargée de la politique économique, les services financiers.",
+  "id": "eu-pe-econ",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission des affaires économiques et monétaires (ECON)",
+  "entityType": "ORGANISATION",
+  "description": "Commission des affaires économiques et monétaires du Parlement européen, chargée de la politique économique, les services financiers.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Commission des affaires économiques et monétaires (ECON) ».",
+    "« Commission des affaires économiques et monétaires (ECON) » joue un rôle dans la politique économique.",
+    "Les fonctionnaires de « Commission des affaires économiques et monétaires (ECON) » préparent les textes relatifs à la politique économique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ECON"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20des%20affaires%20%C3%A9conomiques%20et%20mon%C3%A9taires%20%28ECON%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Économie",
+    "Services financiers"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

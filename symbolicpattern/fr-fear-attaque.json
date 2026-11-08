@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-attaque",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une agression violente.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:attaque(s)?\\s+au\\s+couteau)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attaque(s)?\\s+[àa]\\s+l['’]arme\\s+blanche)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attaque(s)?\\s+arm[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attaque(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:agression(s)?\\s+arm[ée]e(s)?)(?![\\w-])"
+  ],
+  "symbol": "attaque",
+  "event": null,
+  "title": "Attaque",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

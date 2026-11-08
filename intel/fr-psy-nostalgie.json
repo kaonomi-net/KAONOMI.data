@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-nostalgie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Nostalgie",
+  "includedEntities": [
+    {
+      "entityName": "nostalgie",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "passé",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recherches et tendances autour de la nostalgie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "consommation",
+    "politique",
+    "bien-être"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quelle tendance ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#EMOTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

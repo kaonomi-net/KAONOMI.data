@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-embargo",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'interdiction de commercer avec un pays.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:embargo(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sanction(s)?\\s+[ée]conomique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mesures\\s+de\\s+r[ée]torsion)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gel\\s+des\\s+avoirs)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:boycott(s)?)(?![\\w-])"
+  ],
+  "symbol": "embargo",
+  "event": null,
+  "title": "Embargo",
+  "tags": [
+    "#FEAR",
+    "#GUERRE",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-decouplage",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "découplage",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Découplage entre la Chine et les États-Unis ; Ukraine et Moldavie découplées.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la séparation progressive des économies chinoise et américaine.",
+    "Suivre le débat sur l'avancée séparée de la Moldavie et de l'Ukraine."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "découplage",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#COMMERCE",
+    "#CHINE",
+    "#ETATS-UNIS",
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!FRAGMENTATION",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "chaînes d'approvisionnement",
+    "semi-conducteurs",
+    "investissements",
+    "Chine",
+    "États-Unis",
+    "Ukraine",
+    "Hongrie",
+    "Bruxelles",
+    "veto",
+    "Moldavie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

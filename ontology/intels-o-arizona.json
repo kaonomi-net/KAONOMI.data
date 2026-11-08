@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-arizona",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Arizona",
+  "entityType": "CITY",
+  "description": "Cité par 2 intels : TSMC et la fabrication de puces ; Budget belge et marchés.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre le premier fondeur mondial de semi-conducteurs.",
+    "Suivre les mesures budgétaires belges qui touchent les entreprises et les épargnants."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Arizona",
+  "tags": [
+    "#IA",
+    "#SEMI-CONDUCTEURS",
+    "#GEOPOLITIQUE",
+    "#ECONOMIE",
+    "#BELGIQUE",
+    "#BUDGET"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE-GEOPOLITIQUE",
+    "!ECONOMIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "puces",
+    "Apple",
+    "Taïwan",
+    "TSMC",
+    "Nvidia",
+    "Belgique",
+    "déficit",
+    "Bruxelles",
+    "taxe sur les plus-values",
+    "gouvernement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

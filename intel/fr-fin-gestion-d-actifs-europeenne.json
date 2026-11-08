@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-gestion-d-actifs-europeenne",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Gestion d'actifs européenne",
+  "includedEntities": [
+    {
+      "entityName": "gestion d'actifs",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "fusion",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la consolidation des gestionnaires d'actifs.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Amundi",
+    "Natixis",
+    "Generali"
+  ],
+  "questions": [
+    "Quelle fusion ?",
+    "Quel encours ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#GESTION-ACTIFS"
+  ],
+  "events": [
+    "@FUSION"
+  ],
+  "signals": [
+    "!CONSOLIDATION"
+  ],
+  "isDeleted": false
+}

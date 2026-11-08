@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-zero-trust",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Zero trust",
+  "includedEntities": [
+    {
+      "entityName": "zero trust",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "architecture",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'adoption des architectures zero trust.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "identités",
+    "segmentation",
+    "accès"
+  ],
+  "questions": [
+    "Quelle adoption ?",
+    "Quelle méthode ?",
+    "Quel retour d'expérience ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DEFENSE",
+    "#ZERO-TRUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

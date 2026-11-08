@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-terminator",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'image de la machine qui se retourne contre l'humain.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:terminator)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:skynet)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]volte\\s+des\\s+machines)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:machines\\s+qui\\s+prennent\\s+le\\s+pouvoir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:soul[èe]vement\\s+des\\s+robots)(?![\\w-])"
+  ],
+  "symbol": "terminator",
+  "event": null,
+  "title": "Terminator",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

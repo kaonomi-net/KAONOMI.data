@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-crachat",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "De la salive rejetée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:crachat(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crach(er|e|ent|[ée]|ait|oter)|glaviot(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mollard(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:postillon(s)?)(?![\\w-])"
+  ],
+  "symbol": "crachat",
+  "event": null,
+  "title": "Crachat",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

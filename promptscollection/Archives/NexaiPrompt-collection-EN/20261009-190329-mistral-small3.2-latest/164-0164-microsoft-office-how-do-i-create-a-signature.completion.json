@@ -1,0 +1,13 @@
+{
+  "index": 164,
+  "file": "0164-microsoft-office-how-do-i-create-a-signature.prompt.json",
+  "prompt": "How do I create a signature in Outlook?",
+  "promptWords": 8,
+  "completion": "Creating a signature in Outlook is a straightforward process. Here’s how you can do it:\n\n### For Outlook on the Web (Outlook.com or Office 365):\n1. **Sign in** to your Outlook account.\n2. **Click on the gear icon** (Settings) in the upper-right corner.\n3. **Select \"View all Outlook settings\"** at the bottom of the menu.\n4. **Go to the \"Mail\"** tab.\n5. **Click on \"Compose and reply\"** in the left sidebar.\n6. **Under \"Email signature,\"** type your signature in the text box.\n7. **Use the formatting tools** above the text box to customize your signature (e.g., font, size, color, etc.).\n8. **Check the box** \"Automatically include my signature on new messages\" if you want it to appear by default.\n9. **Click \"Save\"** to apply your changes.\n\n### For Outlook Desktop (Windows):\n1. **Open Outlook** and go to **File** > **Options**.\n2. **Select \"Mail\"** from the left sidebar.\n3. **Click on \"Signatures\"** under the \"Compose messages\" section.\n4. **In the \"Signatures and Stationery\"** window, select the email account you want to create the signature for (if you have multiple accounts).\n5. **Click \"New\"** and enter a name for your signature.\n6. **Type your signature** in the text box and use the formatting tools to customize it.\n7. **Click \"OK\"** to save your signature.\n8. **To set it to automatically include your signature**, go back to the \"Mail\" tab in the Options window and choose your signature from the \"Signatures\" dropdown menus for \"New messages\" and \"Replies/forwards.\"\n\n### For Outlook Desktop (Mac):\n1. **Open Outlook** and go to **Outlook** > **Preferences**.\n2. **Click on \"Signatures\"** under the \"Compose\" section.\n3. **Select the email account** you want to create the signature for.\n4. **Click the \"+\"** button to create a new signature.\n5. **Enter a name for your signature** and type your signature in the text box.\n6. **Use the formatting tools** to customize your signature.\n7. **Close the window** to save your signature.\n8. **To set it to automatically include your signature**, go back to the Signatures preferences and check the box next to your signature for \"New messages\" and \"Replies/forwards.\"",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:33:31.404638+02:00",
+  "durationSeconds": 12.95,
+  "stats": "mistral-small3.2:latest · 516 + 529 tokens · 12,9 s",
+  "isError": false,
+  "language": "EN"
+}

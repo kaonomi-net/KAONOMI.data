@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-rot",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un renvoi d'air bruyant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:rot(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rot(er|[ée]|ait)|[ée]ructation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:renvoi(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:roter\\s+[àa]\\s+table)(?![\\w-])"
+  ],
+  "symbol": "rot",
+  "event": null,
+  "title": "Rot",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

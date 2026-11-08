@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-haute-representante-kaja-kallas",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Haute représentante Kaja Kallas",
+  "includedEntities": [
+    {
+      "entityName": "Kaja Kallas",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "diplomatie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action de la haute représentante pour les affaires étrangères.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Russie",
+    "Ukraine",
+    "Moyen-Orient"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quelle initiative ?",
+    "Quelle tension avec les États membres ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#DIPLOMATIE",
+    "#KALLAS"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 102,
+  "file": "0102-microsoft-office-how-do-i-track-changes-in.prompt.json",
+  "prompt": "How do I track changes in a document in Word?",
+  "promptWords": 10,
+  "completion": "To track changes in a Microsoft Word document, you can use the \"Track Changes\" feature. Here’s how to do it:\n\n### **Steps to Track Changes in Word:**\n1. **Open your Word document.**\n2. **Go to the \"Review\" tab** in the Ribbon (top menu).\n3. **Click on \"Track Changes\"** in the \"Tracking\" group.\n   - This will enable tracking of insertions, deletions, and formatting changes.\n4. **Make your edits** in the document while Track Changes is on.\n   - Insertions will be underlined (usually in red or another color).\n   - Deletions will have a strikethrough.\n   - Comments and formatting changes will also be visible.\n\n### **Viewing and Managing Tracked Changes:**\n- **Accept or Reject Changes:**\n  - Go to the \"Review\" tab.\n  - Click on \"Next Change\" or \"Previous Change\" to navigate through changes.\n  - Use \"Accept\" or \"Reject\" to keep or remove each change.\n- **Show Markup Options:**\n  - Click the small arrow in the bottom-right corner of the \"Tracking\" group.\n  - Choose which types of changes to display (e.g., comments, insertions, deletions).\n\n### **Turning Off Track Changes:**\n- Go to the \"Review\" tab and click \"Track Changes\" again to turn it off.\n\nWould you like help with a specific version of Word (e.g., Word 2016, Word 2019, Word 365)? Let me know if you need further assistance!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:22:51.019611+02:00",
+  "durationSeconds": 7.97,
+  "stats": "mistral-small3.2:latest · 518 + 329 tokens · 8,0 s",
+  "isError": false,
+  "language": "EN"
+}

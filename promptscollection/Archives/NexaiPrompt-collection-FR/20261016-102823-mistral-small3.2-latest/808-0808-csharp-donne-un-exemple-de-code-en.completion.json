@@ -1,0 +1,13 @@
+{
+  "index": 808,
+  "file": "0808-csharp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C# qui illustre la sérialisation JSON avec System.Text.Json.",
+  "promptWords": 14,
+  "completion": "Voici un exemple de code en C# qui illustre la sérialisation et la désérialisation JSON avec `System.Text.Json` :\n\n```csharp\nusing System;\nusing System.Text.Json;\nusing System.Text.Json.Serialization;\n\npublic class Person\n{\n    public string Name { get; set; }\n    public int Age { get; set; }\n    public string Email { get; set; }\n}\n\nclass Program\n{\n    static void Main()\n    {\n        // Création d'un objet Person\n        var person = new Person\n        {\n            Name = \"Jean Dupont\",\n            Age = 30,\n            Email = \"jean.dupont@example.com\"\n        };\n\n        // Sérialisation de l'objet en JSON\n        string jsonString = JsonSerializer.Serialize(person, new JsonSerializerOptions { WriteIndented = true });\n        Console.WriteLine(\"JSON sérialisé :\");\n        Console.WriteLine(jsonString);\n\n        // Désérialisation du JSON en objet Person\n        Person deserializedPerson = JsonSerializer.Deserialize<Person>(jsonString);\n        Console.WriteLine(\"\\nObjet désérialisé :\");\n        Console.WriteLine($\"Nom : {deserializedPerson.Name}, Âge : {deserializedPerson.Age}, Email : {deserializedPerson.Email}\");\n    }\n}\n```\n\n### Explications :\n1. **Classe `Person`** : Une classe simple avec trois propriétés.\n2. **Sérialisation** : La méthode `JsonSerializer.Serialize` convertit l'objet `Person` en une chaîne JSON.\n3. **Désérialisation** : La méthode `JsonSerializer.Deserialize` convertit la chaîne JSON en un nouvel objet `Person`.\n\n### Options de sérialisation :\n- `WriteIndented = true` : Formate le JSON avec des indentations pour une meilleure lisibilité.\n\nCe code montre comment facilement sérialiser et désérialiser des objets avec `System.Text.Json` en C#.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:17:32.6918848+02:00",
+  "durationSeconds": 8.56,
+  "stats": "mistral-small3.2:latest · 530 + 408 tokens · 8,6 s",
+  "isError": false,
+  "language": "FR"
+}

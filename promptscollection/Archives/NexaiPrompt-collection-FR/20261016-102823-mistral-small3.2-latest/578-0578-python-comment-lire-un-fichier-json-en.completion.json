@@ -1,0 +1,13 @@
+{
+  "index": 578,
+  "file": "0578-python-comment-lire-un-fichier-json-en.prompt.json",
+  "prompt": "Comment lire un fichier JSON en Python ?",
+  "promptWords": 8,
+  "completion": "Pour lire un fichier JSON en Python, vous pouvez utiliser le module intégré `json`. Voici un exemple de code qui montre comment lire un fichier JSON :\n\n```python\nimport json\n\n# Chemin vers le fichier JSON\nfichier_json = 'chemin/vers/votre_fichier.json'\n\n# Ouvrir le fichier en mode lecture\nwith open(fichier_json, 'r', encoding='utf-8') as fichier:\n    # Charger le contenu du fichier JSON dans une variable Python\n    donnees = json.load(fichier)\n\n# Afficher les données\nprint(donnees)\n```\n\n### Explications :\n1. **Importation du module `json`** : Ce module fournit les fonctionnalités nécessaires pour travailler avec les fichiers JSON.\n2. **Ouverture du fichier** : Le fichier est ouvert en mode lecture (`'r'`) avec l'encodage UTF-8 pour gérer les caractères spéciaux.\n3. **Chargement des données** : La méthode `json.load()` lit le contenu du fichier et le convertit en un objet Python (généralement un dictionnaire ou une liste).\n4. **Affichage des données** : Les données chargées sont affichées à l'écran.\n\n### Exemple avec un fichier JSON simple :\nSupposons que votre fichier `data.json` contient :\n```json\n{\n    \"nom\": \"Jean\",\n    \"age\": 30,\n    \"ville\": \"Paris\"\n}\n```\n\nLe code ci-dessus affichera :\n```python\n{'nom': 'Jean', 'age': 30, 'ville': 'Paris'}\n```\n\nSi vous avez besoin de plus d'informations ou d'un exemple plus spécifique, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:21:35.1423882+02:00",
+  "durationSeconds": 7.24,
+  "stats": "mistral-small3.2:latest · 515 + 360 tokens · 7,2 s",
+  "isError": false,
+  "language": "FR"
+}

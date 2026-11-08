@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-automutilation",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Automutilation",
+  "includedEntities": [
+    {
+      "entityName": "automutilation",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "scarifications",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études sur l'automutilation chez les jeunes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "adolescentes",
+    "urgences",
+    "réseaux sociaux"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quelle hausse ?",
+    "Quelle prévention ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADOLESCENTS",
+    "#AUTOMUTILATION"
+  ],
+  "events": [],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

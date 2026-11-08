@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (l'action pour le climat) : Premier grand marché du carbone au monde, qui plafonne les émissions de l'industrie et de l'énergie.",
+  "id": "eu-pol-seqe",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Système d'échange de quotas d'émission de l'UE",
+  "entityType": "LAW",
+  "description": "Premier grand marché du carbone au monde, qui plafonne les émissions de l'industrie et de l'énergie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les entreprises doivent tenir compte de « Système d'échange de quotas d'émission de l'UE ».",
+    "« Système d'échange de quotas d'émission de l'UE » relève de l'action pour le climat.",
+    "« Système d'échange de quotas d'émission de l'UE » a fait l'objet de longues négociations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "SEQE",
+    "EU ETS",
+    "marché du carbone"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#ACTIONPOURCLIMAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Syst%C3%A8me%20d%27%C3%A9change%20de%20quotas%20d%27%C3%A9mission%20de%20l%27UE"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Action pour le climat",
+    "Direction générale de l'action pour le climat",
+    "Commission Barroso I",
+    "Mécanisme d'ajustement carbone aux frontières",
+    "Paquet « Ajustement à l'objectif 55 »",
+    "Fonds pour l'innovation"
+  ],
+  "isDeleted": false,
+  "startDate": "2005-01-01T00:00:00",
+  "endDate": null
+}

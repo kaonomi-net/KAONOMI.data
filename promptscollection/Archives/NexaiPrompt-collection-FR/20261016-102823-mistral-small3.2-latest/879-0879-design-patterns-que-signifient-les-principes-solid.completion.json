@@ -1,0 +1,13 @@
+{
+  "index": 879,
+  "file": "0879-design-patterns-que-signifient-les-principes-solid.prompt.json",
+  "prompt": "Que signifient les principes SOLID ?",
+  "promptWords": 6,
+  "completion": "Les principes SOLID sont un ensemble de cinq principes de conception logicielle qui visent à améliorer la maintenabilité, la compréhension et l'évolutivité du code. Ils ont été introduits par Robert C. Martin (alias \"Uncle Bob\") et sont largement utilisés dans la programmation orientée objet (POO). Voici ce que signifie chaque principe :\n\n1. **S - Single Responsibility Principle (SRP) - Principe de responsabilité unique**\n   Une classe doit avoir une seule raison de changer, c'est-à-dire qu'elle doit avoir une seule responsabilité. Cela signifie que chaque classe doit avoir un seul rôle bien défini et ne doit pas être responsable de plusieurs fonctionnalités.\n\n2. **O - Open/Closed Principle (OCP) - Principe ouvert/fermé**\n   Les entités logicielles (classes, modules, fonctions, etc.) doivent être ouvertes pour l'extension mais fermées pour la modification. Cela signifie que le comportement d'une entité peut être étendu sans la modifier directement, souvent en utilisant des mécanismes comme l'héritage ou les interfaces.\n\n3. **L - Liskov Substitution Principle (LSP) - Principe de substitution de Liskov**\n   Les objets d'une classe dérivée doivent pouvoir remplacer les objets de la classe de base sans altérer le bon fonctionnement du programme. En d'autres termes, les sous-classes doivent respecter les contrats définis par leurs classes parentes.\n\n4. **I - Interface Segregation Principle (ISP) - Principe de ségrégation des interfaces**\n   Il est préférable d'avoir plusieurs interfaces spécifiques plutôt qu'une seule interface générale. Cela signifie que les interfaces doivent être petites et ciblées, de sorte que les classes n'implémentent que les méthodes dont elles ont besoin.\n\n5. **D - Dependency Inversion Principle (DIP) - Principe d'inversion des dépendances**\n   Les modules de haut niveau ne doivent pas dépendre des modules de bas niveau, mais les deux doivent dépendre d'abstractions. De plus, les abstractions ne doivent pas dépendre des détails, mais les détails doivent dépendre des abstractions. Cela favorise la découplage des composants et facilite les tests et les modifications.\n\nCes principes aident à créer des logiciels plus modulaires, plus faciles à maintenir et à étendre.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:34:59.9537779+02:00",
+  "durationSeconds": 9.98,
+  "stats": "mistral-small3.2:latest · 515 + 490 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

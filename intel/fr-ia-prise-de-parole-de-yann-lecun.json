@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-prise-de-parole-de-yann-lecun",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Prise de parole de Yann LeCun",
+  "includedEntities": [
+    {
+      "entityName": "Yann LeCun",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Meta",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les positions de Yann LeCun sur l'avenir de l'IA.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "New York"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Meta",
+    "open source",
+    "AMI"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quel débat ?",
+    "Quel projet ?"
+  ],
+  "tags": [
+    "#IA",
+    "#PERSONNALITE",
+    "#RECHERCHE"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

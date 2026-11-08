@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique étrangère) : Commission des affaires étrangères du Parlement européen, chargée de la politique étrangère.",
+  "id": "eu-pe-afet",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission des affaires étrangères (AFET)",
+  "entityType": "ORGANISATION",
+  "description": "Commission des affaires étrangères du Parlement européen, chargée de la politique étrangère.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "« Commission des affaires étrangères (AFET) » joue un rôle dans la politique étrangère.",
+    "Les fonctionnaires de « Commission des affaires étrangères (AFET) » préparent les textes relatifs à la politique étrangère.",
+    "La délégation a rencontré des représentants de « Commission des affaires étrangères (AFET) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "AFET"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20des%20affaires%20%C3%A9trang%C3%A8res%20%28AFET%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Affaires étrangères"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

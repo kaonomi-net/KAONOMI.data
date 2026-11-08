@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-danger",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui menace la sécurité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:danger(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dangereu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]ril(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]rilleu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mortel(le|s|les)?)(?![\\w-])"
+  ],
+  "symbol": "danger",
+  "event": null,
+  "title": "Danger",
+  "tags": [
+    "#FEAR"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-reveillon",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le repas de fête de Noël ou du Nouvel An.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]veillon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nouvel\\s+an)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bonne\\s+ann[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:meilleurs\\s+v(œ|oe)ux)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:saint-sylvestre)(?![\\w-])"
+  ],
+  "symbol": "réveillon",
+  "event": null,
+  "title": "Réveillon",
+  "tags": [
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

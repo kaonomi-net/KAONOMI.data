@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-nourrisson",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'enfant qui tète encore.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:nourrisson(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nouveau\\s+venu)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nouvelle\\s+venue)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:petit\\s+ange)(?![\\w-])"
+  ],
+  "symbol": "nourrisson",
+  "event": null,
+  "title": "Nourrisson",
+  "tags": [
+    "#NAISSANCE",
+    "#ENFANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

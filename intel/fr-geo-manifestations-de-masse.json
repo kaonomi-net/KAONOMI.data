@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-manifestations-de-masse",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Manifestations de masse",
+  "includedEntities": [
+    {
+      "entityName": "manifestations",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "contestation",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "police",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les mouvements de contestation massifs dans le monde.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "gouvernement",
+    "répression",
+    "réseaux sociaux"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Quelles revendications ?",
+    "Quelle réponse du pouvoir ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#CONTESTATION",
+    "#SOCIETE"
+  ],
+  "events": [
+    "@MOBILISATION"
+  ],
+  "signals": [
+    "!INSTABILITE"
+  ],
+  "isDeleted": false
+}

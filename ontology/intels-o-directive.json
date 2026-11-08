@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-directive",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "directive",
+  "entityType": "LAW",
+  "description": "Cité par 3 intels : Directive NIS2 ; Retards de transposition et infractions ; Corruption dans les États membres.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre l'application de la directive NIS2 dans l'Union.",
+    "Suivre les procédures d'infraction contre les États membres.",
+    "Suivre la lutte européenne contre la corruption."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "directive",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CYBERSECURITE",
+    "#REGULATION",
+    "#NIS2",
+    "#INFRACTIONS",
+    "#DROIT"
+  ],
+  "events": [
+    "@PROCEDURE-INFRACTION"
+  ],
+  "signals": [
+    "!REGULATION",
+    "!CONFORMITE",
+    "!VIGILANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Europe",
+    "NIS2",
+    "sanctions",
+    "notification",
+    "entités essentielles",
+    "directives",
+    "Cour de justice",
+    "mises en demeure",
+    "transposition"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

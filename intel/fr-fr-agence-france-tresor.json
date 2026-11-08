@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-agence-france-tresor",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Agence France Trésor",
+  "includedEntities": [
+    {
+      "entityName": "Agence France Trésor",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "émissions",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le programme d'émissions de dette de l'État.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "adjudications"
+  ],
+  "relatedEntities": [
+    "OAT",
+    "demande",
+    "investisseurs"
+  ],
+  "questions": [
+    "Quel montant émis ?",
+    "Quelle demande ?",
+    "Quel taux obtenu ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#MARCHES"
+  ],
+  "events": [
+    "@ADJUDICATION"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

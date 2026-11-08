@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-message",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "message",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Messages d'Ursula von der Leyen sur X.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les messages publiés par la présidente sur les réseaux sociaux."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "message",
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#COMMUNICATION"
+  ],
+  "events": [],
+  "signals": [
+    "!COMMUNICATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "annonces",
+    "X",
+    "réactions",
+    "von der Leyen",
+    "condoléances"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

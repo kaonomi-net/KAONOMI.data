@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les modèles de langage) : La société chinoise DeepSeek publie en poids ouverts un modèle de raisonnement aux performances proches des meilleurs modèles fermés, pour un coût d'entraînement annoncé très bas.",
+  "id": "ia-deepseek-r1",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Publication de DeepSeek-R1",
+  "entityType": "EVENT",
+  "description": "La société chinoise DeepSeek publie en poids ouverts un modèle de raisonnement aux performances proches des meilleurs modèles fermés, pour un coût d'entraînement annoncé très bas.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "« Publication de DeepSeek-R1 » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « Publication de DeepSeek-R1 ».",
+    "On date souvent un tournant des modèles de langage à « Publication de DeepSeek-R1 »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 1,
+  "surpriseLevel": 4,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "sortie de DeepSeek-R1"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#MODELESLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Publication%20de%20DeepSeek-R1"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ChatGPT"
+  ],
+  "isDeleted": false,
+  "startDate": "2025-01-20T00:00:00",
+  "endDate": "2025-01-20T00:00:00"
+}

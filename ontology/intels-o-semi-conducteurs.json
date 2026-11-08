@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-semi-conducteurs",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "semi-conducteurs",
+  "entityType": "HARDWARE",
+  "description": "Cité par 5 intels : Découplage entre la Chine et les États-Unis ; Relocalisation industrielle ; Melexis ; Infineon ; Règlement sur les puces.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre la séparation progressive des économies chinoise et américaine.",
+    "Suivre le retour des productions stratégiques.",
+    "Suivre l'action Melexis et les puces pour l'automobile."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "semi-conducteurs",
+  "tags": [
+    "#SEMI-CONDUCTEURS",
+    "#GEOPOLITIQUE",
+    "#INDUSTRIE",
+    "#BOURSE",
+    "#COMMERCE",
+    "#CHINE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE",
+    "!RESULTATS",
+    "!FRAGMENTATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chine",
+    "États-Unis",
+    "prévisions",
+    "automobile",
+    "découplage",
+    "chaînes d'approvisionnement",
+    "investissements",
+    "relocalisation",
+    "Europe",
+    "subventions"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 995,
+  "file": "0995-rust-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Rust qui illustre les énumérations et le pattern matching.",
+  "promptWords": 15,
+  "completion": "Voici un exemple de code en Rust qui illustre les énumérations (enums) et le pattern matching :\n\n```rust\n// Définition d'une énumération représentant différents types de formes géométriques\nenum Shape {\n    Circle(f64),       // Un cercle avec un rayon\n    Rectangle(f64, f64), // Un rectangle avec une largeur et une hauteur\n    Triangle(f64, f64, f64), // Un triangle avec trois côtés\n}\n\n// Fonction qui calcule l'aire d'une forme en utilisant le pattern matching\nfn area(shape: &Shape) -> f64 {\n    match shape {\n        Shape::Circle(radius) => {\n            std::f64::consts::PI * radius * radius\n        }\n        Shape::Rectangle(width, height) => {\n            width * height\n        }\n        Shape::Triangle(a, b, c) => {\n            // Utilisation de la formule de Héron pour calculer l'aire d'un triangle\n            let s = (a + b + c) / 2.0;\n            (s * (s - a) * (s - b) * (s - c)).sqrt()\n        }\n    }\n}\n\nfn main() {\n    // Création de différentes formes\n    let circle = Shape::Circle(5.0);\n    let rectangle = Shape::Rectangle(4.0, 6.0);\n    let triangle = Shape::Triangle(3.0, 4.0, 5.0);\n\n    // Calcul et affichage des aires\n    println!(\"Aire du cercle: {}\", area(&circle));\n    println!(\"Aire du rectangle: {}\", area(&rectangle));\n    println!(\"Aire du triangle: {}\", area(&triangle));\n}\n```\n\nExplications :\n1. Nous définissons une énumération `Shape` avec trois variantes :\n   - `Circle` qui contient un rayon\n   - `Rectangle` qui contient une largeur et une hauteur\n   - `Triangle` qui contient trois côtés\n\n2. La fonction `area` utilise le pattern matching pour déterminer quelle variante de `Shape` elle reçoit et calcule l'aire en conséquence.\n\n3. Dans `main`, nous créons des instances de chaque forme et appelons la fonction `area` pour calculer et afficher leurs aires.\n\nCe code montre comment les énumérations permettent de représenter différents types de données de manière élégante, et comment le pattern matching permet de traiter chaque cas de manière spécifique.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T14:04:22.0577532+02:00",
+  "durationSeconds": 10.41,
+  "stats": "mistral-small3.2:latest · 527 + 518 tokens · 10,4 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-exaction",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une violence commise contre des civils.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:exaction(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crime(s)?\\s+de\\s+guerre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crime(s)?\\s+contre\\s+l['’]humanit[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:atrocit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:civils\\s+tu[ée]s)(?![\\w-])"
+  ],
+  "symbol": "exaction",
+  "event": null,
+  "title": "Exaction",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

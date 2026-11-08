@@ -1,0 +1,13 @@
+{
+  "index": 140,
+  "file": "0140-microsoft-office-comment-utiliser-la-valeur-cible-dans.prompt.json",
+  "prompt": "Comment utiliser la valeur cible dans Excel ?",
+  "promptWords": 8,
+  "completion": "La valeur cible dans Excel est une fonctionnalité utile pour résoudre des problèmes de calcul inverse. Elle permet de déterminer la valeur d'entrée nécessaire pour obtenir un résultat spécifique dans une formule. Voici comment l'utiliser :\n\n### Étapes pour utiliser la valeur cible :\n\n1. **Ouvrir l'outil Valeur cible** :\n   - Allez dans l'onglet **Données** (ou **Outils de données** dans certaines versions).\n   - Cliquez sur **Analyse des hypothèses** (ou **Quoi si** dans certaines versions).\n   - Sélectionnez **Valeur cible**.\n\n2. **Configurer la valeur cible** :\n   - **Cellule de formule** : Sélectionnez la cellule contenant la formule dont vous souhaitez modifier le résultat.\n   - **Valeur cible** : Entrez la valeur que vous souhaitez obtenir comme résultat.\n   - **Cellule de modification** : Sélectionnez la cellule dont vous souhaitez modifier la valeur pour atteindre le résultat souhaité.\n\n3. **Lancer la recherche** :\n   - Cliquez sur **OK**. Excel ajustera automatiquement la valeur de la cellule de modification pour obtenir le résultat souhaité.\n\n### Exemple pratique :\nSupposons que vous avez une formule dans la cellule `B2` qui calcule le total d'une vente (par exemple, `=A2*B1`). Si vous souhaitez savoir combien de ventes (`A2`) sont nécessaires pour atteindre un total de 1000, vous pouvez utiliser la valeur cible :\n- **Cellule de formule** : `B2`\n- **Valeur cible** : `1000`\n- **Cellule de modification** : `A2`\n\nExcel vous donnera la valeur de `A2` nécessaire pour que `B2` soit égal à 1000.\n\n### Remarques :\n- La valeur cible fonctionne mieux avec des formules simples et linéaires.\n- Si Excel ne trouve pas de solution, il affichera un message d'erreur.\n\nSi vous avez besoin d'aide pour une situation spécifique, n'hésitez pas à me le dire !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:54:29.2052239+02:00",
+  "durationSeconds": 9.01,
+  "stats": "mistral-small3.2:latest · 515 + 444 tokens · 9,0 s",
+  "isError": false,
+  "language": "FR"
+}

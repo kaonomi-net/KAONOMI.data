@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-calin",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un geste tendre où l'on serre quelqu'un.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:c[âa]lin(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:c[âa]lin(er|[ée]|[ée]e)|[ée]treinte(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:enlac[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dans\\s+(mes|ses|tes)\\s+bras)(?![\\w-])"
+  ],
+  "symbol": "câlin",
+  "event": null,
+  "title": "Câlin",
+  "tags": [
+    "#AMOUR",
+    "#FAMILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

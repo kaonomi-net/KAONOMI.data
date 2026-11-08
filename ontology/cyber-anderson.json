@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (l'ingénierie de la sécurité) : Chercheur britannique de Cambridge, auteur de « Security Engineering » et de travaux pionniers sur l'économie de la sécurité et la résistance des cartes à puce.",
+  "id": "cyber-anderson",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Ross Anderson",
+  "entityType": "PERSON",
+  "description": "Chercheur britannique de Cambridge, auteur de « Security Engineering » et de travaux pionniers sur l'économie de la sécurité et la résistance des cartes à puce.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Ross Anderson.",
+    "Les étudiants lisent les travaux de Ross Anderson pour comprendre l'ingénierie de la sécurité.",
+    "Sans Ross Anderson, l'histoire de l'ingénierie de la sécurité aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 2,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Ross J. Anderson"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#INGENIERIESECURITE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ross%20Anderson"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Carte à puce"
+  ],
+  "isDeleted": false,
+  "startDate": "1956-09-15T00:00:00",
+  "endDate": "2024-03-28T00:00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-centre-pour-la-cybersecurite-belgique",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Centre pour la cybersécurité Belgique",
+  "includedEntities": [
+    {
+      "entityName": "Centre pour la cybersécurité Belgique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "CCB",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les alertes et la mise en œuvre de NIS2 en Belgique.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Safeonweb",
+    "NIS2",
+    "alertes"
+  ],
+  "questions": [
+    "Quelle alerte ?",
+    "Quelle obligation ?",
+    "Quelle campagne ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#BELGIQUE",
+    "#CCB"
+  ],
+  "events": [
+    "@ALERTE-SECURITE"
+  ],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

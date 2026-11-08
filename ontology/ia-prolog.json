@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les langages de programmation) : Langage de programmation logique créé à Marseille par Alain Colmerauer et Philippe Roussel.",
+  "id": "ia-prolog",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "Prolog",
+  "entityType": "SOFTWARE",
+  "description": "Langage de programmation logique créé à Marseille par Alain Colmerauer et Philippe Roussel.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "En atelier, les élèves ont découvert Prolog et ses possibilités.",
+    "L'équipe a comparé Prolog avec d'autres outils des langages de programmation.",
+    "Prolog figure parmi les logiciels marquants des langages de programmation."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "PROgrammation en LOGique"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#LANGAGESPROGRAMMATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Prolog"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Lisp"
+  ],
+  "isDeleted": false,
+  "startDate": "1972-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-deminage-des-terres-agricoles",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Déminage des terres agricoles",
+  "includedEntities": [
+    {
+      "entityName": "déminage",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "mines",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le déminage des territoires repris et des terres agricoles.",
+  "isFuzzy": true,
+  "locations": [
+    "Kherson",
+    "Kharkiv",
+    "Zaporijia"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "démineurs",
+    "agriculture",
+    "aide internationale"
+  ],
+  "questions": [
+    "Quelle surface ?",
+    "Combien de victimes des mines ?",
+    "Quel soutien ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#DEMINAGE",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [
+    "!RECONSTRUCTION"
+  ],
+  "isDeleted": false
+}

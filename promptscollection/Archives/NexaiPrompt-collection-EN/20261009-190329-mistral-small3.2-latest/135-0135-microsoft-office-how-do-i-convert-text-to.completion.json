@@ -1,0 +1,13 @@
+{
+  "index": 135,
+  "file": "0135-microsoft-office-how-do-i-convert-text-to.prompt.json",
+  "prompt": "How do I convert text to numbers in Excel?",
+  "promptWords": 9,
+  "completion": "To convert text to numbers in Excel, you can follow these methods:\n\n### Method 1: Using the \"Text to Columns\" Feature\n1. **Select the cells** containing the text you want to convert to numbers.\n2. Go to the **Data** tab on the ribbon.\n3. Click on **Text to Columns**.\n4. In the **Convert Text to Columns Wizard**, choose **Delimited** and click **Next**.\n5. Choose the delimiter (if any) and click **Next**.\n6. Select **General** or **Text** as the column data format.\n7. Click **Finish**.\n\n### Method 2: Using the \"Value\" Function\n1. **Select a new column** next to the text you want to convert.\n2. In the first cell of the new column, enter the formula:\n   ```\n   =VALUE(A1)\n   ```\n   (Replace `A1` with the cell reference containing the text you want to convert.)\n3. Press **Enter**.\n4. Drag the fill handle (a small square at the bottom-right corner of the cell) down to apply the formula to other cells.\n\n### Method 3: Using the \"Find and Replace\" Feature\n1. **Select the cells** containing the text you want to convert.\n2. Press **Ctrl + H** to open the **Find and Replace** dialog box.\n3. In the **Find what** field, enter `'` (apostrophe) if the text is preceded by it.\n4. Leave the **Replace with** field empty.\n5. Click **Replace All**.\n\n### Method 4: Using the \"Number Format\" Option\n1. **Select the cells** containing the text.\n2. Right-click and choose **Format Cells**.\n3. In the **Format Cells** dialog box, go to the **Number** tab.\n4. Select **Number** or **General** as the category.\n5. Click **OK**.\n\nThese methods should help you convert text to numbers in Excel.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:28:24.303704+02:00",
+  "durationSeconds": 10.4,
+  "stats": "mistral-small3.2:latest · 517 + 410 tokens · 10,4 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la politique étrangère) : Le Royaume-Uni quitte l'Union européenne à minuit (heure de Bruxelles), le 31 janvier 2020.",
+  "id": "eu-ev-brexit",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Retrait du Royaume-Uni de l'Union européenne",
+  "entityType": "EVENT",
+  "description": "Le Royaume-Uni quitte l'Union européenne à minuit (heure de Bruxelles), le 31 janvier 2020.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "La presse européenne a largement couvert « Retrait du Royaume-Uni de l'Union européenne ».",
+    "« Retrait du Royaume-Uni de l'Union européenne » concerne la politique étrangère.",
+    "Les archives audiovisuelles de la Commission conservent des images de « Retrait du Royaume-Uni de l'Union européenne »."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Retrait%20du%20Royaume-Uni%20de%20l%27Union%20europ%C3%A9enne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Accord de retrait du Royaume-Uni",
+    "Affaires étrangères",
+    "Ursula von der Leyen",
+    "Charles Michel",
+    "Commission von der Leyen I",
+    "Londres",
+    "Royaume-Uni",
+    "Référendum sur l'appartenance du Royaume-Uni à l'UE"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-01-31T00:00:00",
+  "endDate": null
+}

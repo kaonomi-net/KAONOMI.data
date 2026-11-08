@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-sanguinaire",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui aime faire couler le sang.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sanguinaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:assoiff[ée](e|s|es)?\\s+de\\s+sang)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:impitoyable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:f[ée]roce(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:boucher(s)?\\s+sanguinaire(s)?)(?![\\w-])"
+  ],
+  "symbol": "sanguinaire",
+  "event": null,
+  "title": "Sanguinaire",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

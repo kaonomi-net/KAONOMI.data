@@ -1,0 +1,13 @@
+{
+  "index": 343,
+  "file": "0343-ia-rag-quelles-sont-les-etapes-d-un.prompt.json",
+  "prompt": "Quelles sont les étapes d'un pipeline RAG ?",
+  "promptWords": 8,
+  "completion": "Un pipeline RAG (Retrieval-Augmented Generation) est une approche qui combine la récupération d'informations pertinentes avec la génération de texte pour répondre à des questions ou produire des réponses. Voici les étapes typiques d'un pipeline RAG :\n\n1. **Encodage de la requête** :\n   - La requête utilisateur (question ou demande) est encodée en un vecteur numérique à l'aide d'un modèle de langage ou d'un encodeur spécialisé.\n\n2. **Récupération d'informations pertinentes** :\n   - Le vecteur encodé de la requête est utilisé pour rechercher dans une base de données de documents ou de connaissances (souvent une base de vecteurs) les informations les plus pertinentes.\n   - Cette étape peut utiliser des techniques de recherche par similarité (comme le cosinus ou la distance euclidienne) pour trouver les documents ou passages les plus proches de la requête.\n\n3. **Fusion des informations récupérées** :\n   - Les informations pertinentes récupérées sont fusionnées ou agrégées pour former un contexte enrichi qui sera utilisé pour générer la réponse.\n\n4. **Génération de la réponse** :\n   - Un modèle de génération de langage (comme un modèle de type Transformer) utilise le contexte enrichi pour générer une réponse cohérente et pertinente à la requête utilisateur.\n\n5. **Post-traitement (optionnel)** :\n   - La réponse générée peut être post-traitée pour améliorer sa lisibilité, sa cohérence ou sa pertinence, par exemple en supprimant les répétitions ou en ajustant le style.\n\n6. **Évaluation et rétroaction (optionnel)** :\n   - Dans certains cas, la réponse peut être évaluée pour sa qualité et des rétroactions peuvent être utilisées pour améliorer le modèle ou le processus de récupération.\n\nCes étapes peuvent varier en fonction des implémentations spécifiques et des besoins particuliers de l'application. Par exemple, certaines implémentations peuvent inclure des étapes supplémentaires de filtrage ou de réévaluation des informations récupérées.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:27:34.0707556+02:00",
+  "durationSeconds": 9.06,
+  "stats": "mistral-small3.2:latest · 518 + 446 tokens · 9,1 s",
+  "isError": false,
+  "language": "FR"
+}

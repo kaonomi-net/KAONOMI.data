@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-bilan-quotidien-de-l-etat-major-ukrainien",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Bilan quotidien de l'état-major ukrainien",
+  "includedEntities": [
+    {
+      "entityName": "état-major",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "affrontements",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les bilans quotidiens d'affrontements publiés par l'état-major ukrainien.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "chaque jour"
+  ],
+  "relatedEntities": [
+    "Ukrinform",
+    "secteurs",
+    "pertes"
+  ],
+  "questions": [
+    "Combien d'affrontements ?",
+    "Quel secteur le plus intense ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#FRONT",
+    "#BILAN"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

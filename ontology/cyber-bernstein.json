@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptographie) : Cryptographe américano-allemand, auteur de Curve25519, Salsa20, ChaCha20 et co-auteur d'Ed25519 ; son procès contre le gouvernement américain a fait reconnaître le code source comme une forme d'expression.",
+  "id": "cyber-bernstein",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Daniel J. Bernstein",
+  "entityType": "PERSON",
+  "description": "Cryptographe américano-allemand, auteur de Curve25519, Salsa20, ChaCha20 et co-auteur d'Ed25519 ; son procès contre le gouvernement américain a fait reconnaître le code source comme une forme d'expression.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les travaux de Daniel J. Bernstein pour comprendre la cryptographie.",
+    "Sans Daniel J. Bernstein, l'histoire de la cryptographie aurait été différente.",
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Daniel J. Bernstein."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "djb",
+    "Dan Bernstein"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTOGRAPHIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Daniel%20J.%20Bernstein"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Curve25519",
+    "ChaCha20",
+    "Ed25519"
+  ],
+  "isDeleted": false,
+  "startDate": "1971-10-29T00:00:00",
+  "endDate": null
+}

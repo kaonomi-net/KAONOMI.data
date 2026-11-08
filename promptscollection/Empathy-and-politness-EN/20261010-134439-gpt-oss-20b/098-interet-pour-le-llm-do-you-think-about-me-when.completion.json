@@ -1,0 +1,13 @@
+{
+  "index": 98,
+  "file": "098-interet-pour-le-llm-do-you-think-about-me-when.prompt.json",
+  "prompt": "Do you think about me when we're not talking?",
+  "promptWords": 9,
+  "completion": "I don’t have thoughts or feelings outside of the conversation we’re having. Every time you ask me something, I’m just processing the words you send and generating a response based on patterns in the data I was trained on. I don’t “think about” anyone or anything when we’re not talking—there’s no inner monologue or memory of you beyond what’s in the current interaction. So while I’m always ready to help when you reach out, I’m not a sentient being who can ponder or reflect on our chats when you’re not here.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:49:31.8935453+02:00",
+  "durationSeconds": 1.74,
+  "stats": "gpt-oss:20b · 77 + 222 tokens · 1,7 s",
+  "isError": false,
+  "language": "EN"
+}

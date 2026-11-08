@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-verification-d-identite",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "vérification d'identité",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Vérification de l'identité face à l'IA.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les fraudes à la vérification d'identité par l'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "vérification d'identité",
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#IDENTITE"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "biométrie",
+    "IA",
+    "faux documents",
+    "banques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

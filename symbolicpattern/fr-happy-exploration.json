@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-exploration",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'explorer.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:exploration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:explor(er|ateur|atrice|[ée]|[ée]e)|exp[ée]dition(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:contr[ée]e(s)?\\s+lointaine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:terre(s)?\\s+inconnue(s)?)(?![\\w-])"
+  ],
+  "symbol": "exploration",
+  "event": null,
+  "title": "Exploration",
+  "tags": [
+    "#VOYAGE",
+    "#APPRENTISSAGE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

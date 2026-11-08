@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-performance",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un résultat remarquable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:performance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:performant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:brillant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:excellent(e|s|es)?\\s+r[ée]sultat(s)?)(?![\\w-])"
+  ],
+  "symbol": "performance",
+  "event": null,
+  "title": "Performance",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-valeurs-boursieres-de-la-cybersecurite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Valeurs boursières de la cybersécurité",
+  "includedEntities": [
+    {
+      "entityName": "valeurs de la cybersécurité",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Bourse",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les valeurs de la cybersécurité en Bourse.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "CrowdStrike",
+    "Zscaler",
+    "Fortinet"
+  ],
+  "questions": [
+    "Quel mouvement ?",
+    "Quel résultat ?",
+    "Quelle valorisation ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#BOURSE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENDANCE"
+  ],
+  "isDeleted": false
+}

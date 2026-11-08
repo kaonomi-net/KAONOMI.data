@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la recherche) : Agence exécutive européenne pour la recherche, agence exécutive installée à Bruxelles qui gère des programmes pour la Commission.",
+  "id": "eu-ae-rea",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence exécutive européenne pour la recherche (REA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence exécutive européenne pour la recherche, agence exécutive installée à Bruxelles qui gère des programmes pour la Commission.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences-executives",
+  "sentencesExemples": [
+    "Le rapport annuel de « Agence exécutive européenne pour la recherche (REA) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Agence exécutive européenne pour la recherche (REA) ».",
+    "Les décisions de « Agence exécutive européenne pour la recherche (REA) » touchent la recherche."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "REA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#RECHERCHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20ex%C3%A9cutive%20europ%C3%A9enne%20pour%20la%20recherche%20%28REA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de la recherche et de l'innovation",
+    "Bruxelles",
+    "Recherche",
+    "Horizon Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

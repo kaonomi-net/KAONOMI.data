@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-poutine-et-les-veterans-de-la-guerre",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Poutine et les vétérans de la guerre",
+  "includedEntities": [
+    {
+      "entityName": "Poutine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "vétérans",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "nouvelle élite",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la promotion des vétérans de la guerre comme nouvelle élite russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Temps des héros",
+    "Douma",
+    "postes publics"
+  ],
+  "questions": [
+    "Quelles nominations ?",
+    "Combien de vétérans élus ?",
+    "Quel programme ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#RUSSIE",
+    "#VETERANS"
+  ],
+  "events": [],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

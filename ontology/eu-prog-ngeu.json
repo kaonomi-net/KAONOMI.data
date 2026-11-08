@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la politique économique) : Instrument de relance de 750 milliards d'euros (prix de 2018) financé par un emprunt commun, décidé en juillet 2020.",
+  "id": "eu-prog-ngeu",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "NextGenerationEU",
+  "entityType": "PROGRAMME",
+  "description": "Instrument de relance de 750 milliards d'euros (prix de 2018) financé par un emprunt commun, décidé en juillet 2020.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "L'appel à propositions de « NextGenerationEU » est ouvert.",
+    "La Commission gère « NextGenerationEU » avec les États membres ou ses agences.",
+    "Les bénéficiaires de « NextGenerationEU » sont publiés en ligne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "NGEU",
+    "plan de relance européen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NextGenerationEU"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale des affaires économiques et financières",
+    "Économie",
+    "Réformes",
+    "Facilité pour la reprise et la résilience",
+    "Accord du Conseil européen sur NextGenerationEU",
+    "Pandémie de COVID-19 en Europe"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-07-21T00:00:00",
+  "endDate": "2026-12-31T00:00:00"
+}

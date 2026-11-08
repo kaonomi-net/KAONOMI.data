@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-promotion",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une montée en grade.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:promotion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:promu(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:avancement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:augmentation(s)?\\s+de\\s+salaire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nouveau\\s+poste)(?![\\w-])"
+  ],
+  "symbol": "promotion",
+  "event": null,
+  "title": "Promotion",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

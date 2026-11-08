@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Luxembourg.",
+  "id": "pe10-mep-840",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Charles Goerens",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Luxembourg. Groupe politique : Renew Europe. Parti ou liste national : Parti démocratique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Charles Goerens siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Charles Goerens figure dans le relevé des votes par appel nominal.",
+    "Charles Goerens participe aux travaux des commissions parlementaires."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Charles GOERENS"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/840",
+    "https://fr.wikipedia.org/w/index.php?search=Charles%20Goerens"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Luxembourg",
+    "Parlement européen",
+    "Renew Europe",
+    "Parti démocratique (DP)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

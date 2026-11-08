@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-drones-iraniens-et-production-russe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Drones iraniens et production russe",
+  "includedEntities": [
+    {
+      "entityName": "Iran",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Shahed",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "production",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la coopération irano-russe sur les drones.",
+  "isFuzzy": true,
+  "locations": [
+    "Alabouga",
+    "Tatarstan"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Geran",
+    "usines",
+    "sanctions"
+  ],
+  "questions": [
+    "Quelle production mensuelle ?",
+    "Quelle dépendance à l'Iran ?",
+    "Quelles sanctions ?"
+  ],
+  "tags": [
+    "#IRAN",
+    "#RUSSIE",
+    "#DRONES"
+  ],
+  "events": [],
+  "signals": [
+    "!ESCALADE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-bilan-de-la-bce-et-resserrement-quantitatif",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Bilan de la BCE et resserrement quantitatif",
+  "includedEntities": [
+    {
+      "entityName": "bilan",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "resserrement quantitatif",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "BCE",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la réduction du bilan de la BCE.",
+  "isFuzzy": true,
+  "locations": [
+    "Francfort"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "APP",
+    "PEPP",
+    "liquidité"
+  ],
+  "questions": [
+    "Quel rythme ?",
+    "Quel effet sur les taux ?",
+    "Quel débat ?"
+  ],
+  "tags": [
+    "#BCE",
+    "#BILAN"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE-MONETAIRE"
+  ],
+  "isDeleted": false
+}

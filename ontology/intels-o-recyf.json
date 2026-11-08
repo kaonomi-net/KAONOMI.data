@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-recyf",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "ReCyF",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 1 intel : Référentiel Cyber France.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre le référentiel de l'ANSSI pour les entités soumises à NIS2."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "ReCyF",
+  "tags": [
+    "#CYBERSECURITE",
+    "#REGULATION",
+    "#ANSSI"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Référentiel Cyber France",
+    "conformité",
+    "mesures",
+    "ANSSI"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

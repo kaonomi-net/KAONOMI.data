@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-terroriste",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne qui commet des attentats.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:terroriste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:poseur(s)?\\s+de\\s+bombe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:assaillant(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:auteur(s)?\\s+de\\s+l['’]attentat)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:commando(s)?\\s+arm[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "terroriste",
+  "event": null,
+  "title": "Terroriste",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

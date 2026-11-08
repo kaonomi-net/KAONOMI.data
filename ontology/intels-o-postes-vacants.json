@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-postes-vacants",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "postes vacants",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Crise de la psychiatrie publique ; Pénurie de psychiatres.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les difficultés de la psychiatrie publique.",
+    "Suivre la pénurie de psychiatres."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "postes vacants",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PSYCHIATRIE",
+    "#HOPITAL",
+    "#PENURIE"
+  ],
+  "events": [],
+  "signals": [
+    "!CRISE",
+    "!ACCES-AUX-SOINS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "urgences",
+    "lits fermés",
+    "crise",
+    "psychiatrie",
+    "hôpital",
+    "Belgique",
+    "hôpitaux",
+    "pénurie",
+    "déserts médicaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

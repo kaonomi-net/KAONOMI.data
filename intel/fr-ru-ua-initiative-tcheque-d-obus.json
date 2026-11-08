@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-initiative-tcheque-d-obus",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Initiative tchèque d'obus",
+  "includedEntities": [
+    {
+      "entityName": "initiative tchèque",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "obus",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'achat d'obus hors d'Europe pour l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Prague"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "République tchèque",
+    "financement",
+    "livraisons"
+  ],
+  "questions": [
+    "Combien d'obus ?",
+    "Quel financement ?",
+    "L'initiative continue-t-elle ?"
+  ],
+  "tags": [
+    "#TCHEQUIE",
+    "#UKRAINE",
+    "#MUNITIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

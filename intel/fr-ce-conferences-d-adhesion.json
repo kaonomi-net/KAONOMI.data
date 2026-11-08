@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-conferences-d-adhesion",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Conférences d'adhésion",
+  "includedEntities": [
+    {
+      "entityName": "conférence d'adhésion",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "chapitres",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les conférences intergouvernementales d'adhésion.",
+  "isFuzzy": true,
+  "locations": [
+    "Luxembourg",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "chapitres",
+    "clusters",
+    "présidence"
+  ],
+  "questions": [
+    "Quels pays ?",
+    "Quels chapitres ouverts ou fermés ?",
+    "Quels blocages ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT"
+  ],
+  "events": [
+    "@CONFERENCE-ADHESION"
+  ],
+  "signals": [
+    "!ELARGISSEMENT"
+  ],
+  "isDeleted": false
+}

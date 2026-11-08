@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (le Pacte vert) : Frans Timmermans quitte la Commission pour mener la liste travailliste et écologiste aux élections néerlandaises.",
+  "id": "eu-ev-demission-timmermans",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Départ de Frans Timmermans de la Commission",
+  "entityType": "EVENT",
+  "description": "Frans Timmermans quitte la Commission pour mener la liste travailliste et écologiste aux élections néerlandaises.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "La chronologie de la Commission place « Départ de Frans Timmermans de la Commission » à sa date.",
+    "« Départ de Frans Timmermans de la Commission » est un jalon de l'histoire de de l'Union européenne.",
+    "Les historiens de la construction européenne reviennent sur « Départ de Frans Timmermans de la Commission »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#PACTEVERT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=D%C3%A9part%20de%20Frans%20Timmermans%20de%20la%20Commission"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pacte vert",
+    "Frans Timmermans",
+    "Maroš Šefčovič",
+    "Commission von der Leyen I",
+    "Action pour le climat (Commission von der Leyen I)"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-08-22T00:00:00",
+  "endDate": null
+}

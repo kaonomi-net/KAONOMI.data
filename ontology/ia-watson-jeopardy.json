@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (le traitement du langage) : Le système Watson d'IBM bat les champions Ken Jennings et Brad Rutter au jeu télévisé Jeopardy!.",
+  "id": "ia-watson-jeopardy",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Watson remporte Jeopardy!",
+  "entityType": "EVENT",
+  "description": "Le système Watson d'IBM bat les champions Ken Jennings et Brad Rutter au jeu télévisé Jeopardy!.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "Dans sa conférence, l'historien des sciences est revenu sur « Watson remporte Jeopardy! ».",
+    "On date souvent un tournant du traitement du langage à « Watson remporte Jeopardy! ».",
+    "« Watson remporte Jeopardy! » est un jalon de l'histoire de l'intelligence artificielle."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Watson à Jeopardy!"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#TRAITEMENTLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Watson%20remporte%20Jeopardy%21"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "IBM Watson"
+  ],
+  "isDeleted": false,
+  "startDate": "2011-02-16T00:00:00",
+  "endDate": "2011-02-16T00:00:00"
+}

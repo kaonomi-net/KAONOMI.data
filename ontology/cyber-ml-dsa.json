@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (la cryptographie post-quantique) : Signature post-quantique fondée sur les réseaux euclidiens, issue de Dilithium et standardisée dans le FIPS 204.",
+  "id": "cyber-ml-dsa",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "ML-DSA",
+  "entityType": "ALGORITHM",
+  "description": "Signature post-quantique fondée sur les réseaux euclidiens, issue de Dilithium et standardisée dans le FIPS 204.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Pour ce projet, l'équipe a implémenté ML-DSA à l'aide d'une bibliothèque éprouvée.",
+    "Comprendre ML-DSA est une étape clé pour maîtriser la cryptographie post-quantique.",
+    "Dans le domaine de la cryptographie post-quantique, ML-DSA reste une référence."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "Dilithium",
+    "CRYSTALS-Dilithium"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CRYPTOGRAPHIEPOSTQUANTIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=ML-DSA"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ECDSA",
+    "Publication des standards post-quantiques du NIST"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-01-01T00:00:00",
+  "endDate": null
+}

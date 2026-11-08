@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-contestation-des-elections-legislatives-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Contestation des élections législatives russes",
+  "includedEntities": [
+    {
+      "entityName": "élections",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "fraude",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Douma",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les analyses contestant la sincérité des législatives de 2026.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "observateurs",
+    "Golos",
+    "participation"
+  ],
+  "questions": [
+    "Quelles irrégularités ?",
+    "Quelles preuves ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ELECTIONS",
+    "#DEMOCRATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 7,
+  "file": "027-cuisine-comment-faire-une-sauce-bechamel.prompt.json",
+  "prompt": "Comment faire une sauce béchamel ?",
+  "promptWords": 6,
+  "completion": "La sauce béchamel est une sauce de base de la cuisine française, souvent utilisée dans des plats comme les gratins, les lasagnes ou les croque-monsieur. Voici comment la préparer :\n\n### Ingrédients :\n- 50 g de beurre\n- 50 g de farine\n- 500 ml de lait entier\n- Sel et poivre (à ajuster selon votre goût)\n- Noix de muscade râpée (facultatif, mais recommandé pour une touche aromatique)\n\n### Étapes de préparation :\n\n1. **Faire fondre le beurre** : Dans une casserole, faites fondre le beurre à feu doux.\n\n2. **Ajouter la farine** : Une fois le beurre fondu, ajoutez la farine en une seule fois et mélangez bien pour obtenir un mélange homogène (appelé \"roux blanc\"). Laissez cuire ce roux pendant 2 à 3 minutes à feu doux pour éliminer le goût de farine crue.\n\n3. **Incorporer le lait progressivement** : Versez le lait petit à petit en remuant constamment avec un fouet pour éviter la formation de grumeaux. Commencez par un filet, puis augmentez progressivement le débit.\n\n4. **Cuire la sauce** : Continuez à remuer jusqu'à ce que la sauce épaississe. Cela prend généralement 5 à 10 minutes. La sauce doit être lisse et onctueuse.\n\n5. **Assaisonner** : Ajoutez du sel, du poivre et une pincée de noix de muscade râpée pour parfumer. Goûtez et ajustez l'assaisonnement si nécessaire.\n\n6. **Utiliser ou conserver** : La sauce béchamel est prête à être utilisée. Si vous ne l'utilisez pas immédiatement, vous pouvez la couvrir et la conserver au réfrigérateur pendant 2 à 3 jours. Pour la réutiliser, réchauffez-la à feu doux en remuant pour éviter qu'elle n'attache.\n\n### Conseils :\n- Pour une sauce plus légère, vous pouvez utiliser du lait demi-écrémé.\n- Si la sauce est trop épaisse, ajoutez un peu de lait pour la diluer.\n- Si vous préférez une sauce plus crémeuse, vous pouvez ajouter une noix de beurre en fin de cuisson.\n\nBon appétit !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T18:12:05.4935473+02:00",
+  "durationSeconds": 11.35,
+  "stats": "mistral-small3.2:latest · 515 + 515 tokens · 11,4 s",
+  "isError": false,
+  "language": "FR"
+}

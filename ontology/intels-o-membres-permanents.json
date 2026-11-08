@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-membres-permanents",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "membres permanents",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Veto au Conseil de sécurité de l'ONU.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les votes et veto au Conseil de sécurité des Nations unies."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "membres permanents",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ONU",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@VOTE-ONU"
+  ],
+  "signals": [
+    "!BLOCAGE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "New York",
+    "Nations unies",
+    "résolution",
+    "veto",
+    "Conseil de sécurité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

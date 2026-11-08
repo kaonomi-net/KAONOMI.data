@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-amitie",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un lien d'affection entre amis.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:amiti[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:amical(e|es|aux|ement)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fraternit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:camaraderie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sororit[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "amitié",
+  "event": null,
+  "title": "Amitié",
+  "tags": [
+    "#AMITIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-ia-qui-decouvre-des-failles",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "IA qui découvre des failles",
+  "includedEntities": [
+    {
+      "entityName": "IA",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "failles",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "découverte",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les découvertes de vulnérabilités réelles par des modèles d'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Big Sleep",
+    "Mythos",
+    "open source"
+  ],
+  "questions": [
+    "Quelle faille ?",
+    "Quel modèle ?",
+    "Quel correctif ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#VULNERABILITE"
+  ],
+  "events": [
+    "@DECOUVERTE"
+  ],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

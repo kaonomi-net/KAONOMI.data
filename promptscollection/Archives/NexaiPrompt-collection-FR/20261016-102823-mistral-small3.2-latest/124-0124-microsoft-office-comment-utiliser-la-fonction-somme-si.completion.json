@@ -1,0 +1,13 @@
+{
+  "index": 124,
+  "file": "0124-microsoft-office-comment-utiliser-la-fonction-somme-si.prompt.json",
+  "prompt": "Comment utiliser la fonction SOMME.SI.ENS dans Excel ?",
+  "promptWords": 8,
+  "completion": "La fonction `SOMME.SI.ENS` (ou `SUMIFS` en anglais) dans Excel permet de sommer des valeurs dans une plage en fonction de plusieurs critères. Voici comment l'utiliser :\n\n### Syntaxe de la fonction\n```excel\nSOMME.SI.ENS(plage_somme; critère_plage1; critère1; [critère_plage2; critère2]; ...)\n```\n\n### Paramètres\n- **plage_somme** : La plage de cellules contenant les valeurs à sommer.\n- **critère_plage1** : La première plage de cellules à évaluer selon le critère1.\n- **critère1** : Le critère à appliquer à critère_plage1.\n- **[critère_plage2; critère2]** : Paires supplémentaires de plages de critères et de critères (jusqu'à 127 paires).\n\n### Exemple d'utilisation\nSupposons que vous avez les données suivantes dans une feuille Excel :\n\n| Nom       | Ville       | Ventes |\n|-----------|-------------|--------|\n| Alice     | Paris       | 150    |\n| Bob       | Lyon        | 200    |\n| Charlie   | Paris       | 180    |\n| David     | Lyon        | 120    |\n| Eve       | Marseille   | 90     |\n\nSi vous voulez sommer les ventes pour les personnes de Paris, vous pouvez utiliser la formule suivante :\n```excel\n=SOMME.SI.ENS(B2:B5; \"Paris\"; C2:C5)\n```\nCette formule retournera `330` (150 + 180).\n\n### Exemple avec plusieurs critères\nSi vous voulez sommer les ventes pour les personnes de Paris **et** dont les ventes sont supérieures à 100, vous pouvez utiliser :\n```excel\n=SOMME.SI.ENS(C2:C5; B2:B5; \"Paris\"; C2:C5; \">100\")\n```\nCette formule retournera `330` (150 + 180).\n\n### Remarques\n- Les critères peuvent être des valeurs, des expressions ou des références de cellules.\n- La fonction est sensible à la casse (les critères en majuscules et minuscules sont traités différemment).\n- Si vous avez besoin de plus d'informations ou d'exemples spécifiques, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:51:47.0709+02:00",
+  "durationSeconds": 10.66,
+  "stats": "mistral-small3.2:latest · 521 + 530 tokens · 10,7 s",
+  "isError": false,
+  "language": "FR"
+}

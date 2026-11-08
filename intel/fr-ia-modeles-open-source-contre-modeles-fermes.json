@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-modeles-open-source-contre-modeles-fermes",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Modèles open source contre modèles fermés",
+  "includedEntities": [
+    {
+      "entityName": "open source",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "modèle fermé",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "poids",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre le débat entre modèles ouverts et propriétaires.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Hugging Face",
+    "Meta",
+    "Mistral AI"
+  ],
+  "questions": [
+    "Quelle licence ?",
+    "Quels risques ?",
+    "Quel modèle domine ?"
+  ],
+  "tags": [
+    "#IA",
+    "#OPEN-SOURCE",
+    "#DEBAT"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

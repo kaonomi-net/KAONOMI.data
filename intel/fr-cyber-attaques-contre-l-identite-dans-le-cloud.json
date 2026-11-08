@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-attaques-contre-l-identite-dans-le-cloud",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Attaques contre l'identité dans le cloud",
+  "includedEntities": [
+    {
+      "entityName": "identités",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Entra ID",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cloud",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques visant les annuaires et identités cloud.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Okta",
+    "jetons OAuth",
+    "applications tierces"
+  ],
+  "questions": [
+    "Quelle attaque ?",
+    "Quelle victime ?",
+    "Quelle parade ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IDENTITES",
+    "#CLOUD"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

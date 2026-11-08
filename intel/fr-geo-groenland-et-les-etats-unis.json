@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-groenland-et-les-etats-unis",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Groenland et les États-Unis",
+  "includedEntities": [
+    {
+      "entityName": "Groenland",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "États-Unis",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "Danemark",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les ambitions américaines sur le Groenland et la réponse danoise.",
+  "isFuzzy": true,
+  "locations": [
+    "Groenland",
+    "Nuuk",
+    "Copenhague"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Arctique",
+    "terres rares",
+    "base de Pituffik"
+  ],
+  "questions": [
+    "Quelles déclarations ?",
+    "Quelle réaction du Danemark ?",
+    "Quelle position des Groenlandais ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ARCTIQUE",
+    "#ETATS-UNIS"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

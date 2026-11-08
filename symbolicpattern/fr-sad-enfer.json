@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-enfer",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le lieu de la damnation ; une situation insupportable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:enfer(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:infernal(e|es|aux)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:damn([ée]|[ée]e|[ée]s|[ée]es|ation))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:g[ée]henne)(?![\\w-])"
+  ],
+  "symbol": "enfer",
+  "event": null,
+  "title": "Enfer",
+  "tags": [
+    "#SURNATUREL"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

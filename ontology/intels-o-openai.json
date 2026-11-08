@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-openai",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "OpenAI",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 17 intels : Lancement d'un nouveau modèle d'OpenAI ; Génération de vidéo par IA ; Valorisation record d'OpenAI ; Partenariat Microsoft et OpenAI ; Bulle financière de l'IA ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les annonces de nouveaux modèles GPT et leurs capacités annoncées.",
+    "Surveiller les outils qui génèrent des vidéos réalistes.",
+    "Surveiller la valorisation d'OpenAI et ses tours de financement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "OpenAI",
+  "tags": [
+    "#IA",
+    "#OPENAI",
+    "#BOURSE",
+    "#MICROSOFT",
+    "#FINANCE",
+    "#PERSONNALITE"
+  ],
+  "events": [
+    "@LEVEE-DE-FONDS",
+    "@DECLARATION",
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!NOUVEAUTE",
+    "!BULLE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "San Francisco",
+    "Microsoft",
+    "Sam Altman",
+    "Anthropic",
+    "ChatGPT",
+    "valorisation",
+    "Google",
+    "Copilot",
+    "Redmond",
+    "Azure"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

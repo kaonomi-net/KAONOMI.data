@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-defacement-de-sites",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Défacement de sites",
+  "includedEntities": [
+    {
+      "entityName": "défacement",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "site",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les défacements de sites web.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "message politique",
+    "collectivités",
+    "revendication"
+  ],
+  "questions": [
+    "Quel site ?",
+    "Quel message ?",
+    "Quel groupe ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#HACKTIVISME"
+  ],
+  "events": [
+    "@DEFACEMENT"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

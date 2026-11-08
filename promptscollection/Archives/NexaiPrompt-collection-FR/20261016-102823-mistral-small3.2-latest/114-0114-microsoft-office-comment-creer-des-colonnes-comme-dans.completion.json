@@ -1,0 +1,13 @@
+{
+  "index": 114,
+  "file": "0114-microsoft-office-comment-creer-des-colonnes-comme-dans.prompt.json",
+  "prompt": "Comment créer des colonnes comme dans un journal dans Word ?",
+  "promptWords": 11,
+  "completion": "Pour créer des colonnes comme dans un journal dans Microsoft Word, vous pouvez suivre ces étapes :\n\n1. **Ouvrir votre document Word** : Lancez Microsoft Word et ouvrez le document où vous souhaitez ajouter des colonnes.\n\n2. **Sélectionner le texte** : Sélectionnez le texte que vous voulez disposer en colonnes. Si vous souhaitez que tout le document soit en colonnes, sélectionnez tout le texte (Ctrl + A).\n\n3. **Accéder à l'onglet \"Mise en page\"** : Cliquez sur l'onglet \"Mise en page\" dans le ruban en haut de la fenêtre.\n\n4. **Cliquer sur \"Colonnes\"** : Dans le groupe \"Mise en page\", cliquez sur \"Colonnes\".\n\n5. **Choisir le nombre de colonnes** : Un menu déroulant apparaîtra avec plusieurs options :\n   - **Une colonne** : Texte sur une seule colonne (par défaut).\n   - **Deux colonnes** : Texte disposé en deux colonnes.\n   - **Trois colonnes** : Texte disposé en trois colonnes.\n   - **Plus de colonnes** : Permet de choisir un nombre personnalisé de colonnes et d'ajuster l'espacement entre elles.\n\n6. **Personnaliser les colonnes (optionnel)** : Si vous choisissez \"Plus de colonnes\", une boîte de dialogue s'ouvrira où vous pourrez :\n   - Définir le nombre de colonnes.\n   - Ajuster l'espacement entre les colonnes.\n   - Choisir si vous voulez une ligne entre les colonnes.\n\n7. **Appliquer les colonnes** : Cliquez sur \"OK\" pour appliquer les colonnes à votre texte sélectionné.\n\n8. **Ajuster les colonnes (si nécessaire)** : Vous pouvez ajuster les colonnes en faisant glisser les séparateurs de colonnes qui apparaissent entre les colonnes.\n\nSi vous avez besoin d'aide supplémentaire ou si vous utilisez une version différente de Word, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:50:11.0580548+02:00",
+  "durationSeconds": 8.45,
+  "stats": "mistral-small3.2:latest · 518 + 417 tokens · 8,4 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-ami",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne liée par l'amitié.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ami(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:copain(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:copine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pote(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:meilleur(e|s|es)?\\s+ami(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "ami",
+  "event": null,
+  "title": "Ami",
+  "tags": [
+    "#AMITIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

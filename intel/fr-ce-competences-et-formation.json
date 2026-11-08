@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-competences-et-formation",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Compétences et formation",
+  "includedEntities": [
+    {
+      "entityName": "compétences",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "formation",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "union des compétences",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les initiatives européennes pour les compétences.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Roxana Mînzatu",
+    "formation professionnelle",
+    "numérique"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel financement ?",
+    "Quels résultats ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#EMPLOI",
+    "#COMPETENCES"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

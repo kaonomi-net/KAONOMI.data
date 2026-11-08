@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-lyon-et-gregory-doucet",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Lyon et Grégory Doucet",
+  "includedEntities": [
+    {
+      "entityName": "Grégory Doucet",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Lyon",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la mairie écologiste de Lyon et le recours de Jean-Michel Aulas.",
+  "isFuzzy": true,
+  "locations": [
+    "Lyon"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Jean-Michel Aulas",
+    "recours",
+    "métropole"
+  ],
+  "questions": [
+    "Quelle décision sur le recours ?",
+    "Quelles politiques ?",
+    "Quelles tensions ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#LYON",
+    "#ECOLOGISTES"
+  ],
+  "events": [
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

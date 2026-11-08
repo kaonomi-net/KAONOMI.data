@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-arnaque",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une escroquerie, souvent en ligne.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:arnaque(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arnaqu(er|[ée]|[ée]e|eur|eurs)|escroquerie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:escroc(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fraude(s)?)(?![\\w-])"
+  ],
+  "symbol": "arnaque",
+  "event": null,
+  "title": "Arnaque",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

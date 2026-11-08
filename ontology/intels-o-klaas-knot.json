@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-klaas-knot",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Klaas Knot",
+  "entityType": "PERSON",
+  "description": "Cité par 1 intel : Succession à la présidence de la BCE.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre la course à la succession de Christine Lagarde."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Klaas Knot",
+  "tags": [
+    "#BCE",
+    "#NOMINATION"
+  ],
+  "events": [
+    "@NOMINATION"
+  ],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "succession",
+    "Isabel Schnabel",
+    "Pablo Hernández de Cos",
+    "Francfort",
+    "BCE",
+    "Bruxelles",
+    "président"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

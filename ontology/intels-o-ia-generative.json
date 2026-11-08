@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ia-generative",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "IA générative",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Publicis et la publicité ; Hameçonnage généré par IA.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'action Publicis face à l'IA.",
+    "Suivre l'hameçonnage rédigé ou personnalisé par l'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "IA générative",
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#MEDIAS",
+    "#CYBERSECURITE",
+    "#IA",
+    "#HAMECONNAGE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "clients",
+    "Paris",
+    "Publicis",
+    "Arthur Sadoun",
+    "publicité",
+    "hameçonnage",
+    "clonage de sites",
+    "SMS",
+    "courriels"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

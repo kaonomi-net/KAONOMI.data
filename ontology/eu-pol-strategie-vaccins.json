@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la santé publique) : Achat conjoint de vaccins contre la COVID-19 par la Commission au nom des États membres.",
+  "id": "eu-pol-strategie-vaccins",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Stratégie de l'UE en matière de vaccins",
+  "entityType": "LAW",
+  "description": "Achat conjoint de vaccins contre la COVID-19 par la Commission au nom des États membres.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Stratégie de l'UE en matière de vaccins ».",
+    "La mise en œuvre de « Stratégie de l'UE en matière de vaccins » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Stratégie de l'UE en matière de vaccins »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Strat%C3%A9gie%20de%20l%27UE%20en%20mati%C3%A8re%20de%20vaccins"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Santé",
+    "Direction générale de la santé et de la sécurité alimentaire",
+    "Commission von der Leyen I",
+    "Pandémie de COVID-19 en Europe"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-06-17T00:00:00",
+  "endDate": null
+}

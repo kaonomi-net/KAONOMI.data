@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-hallucination",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une réponse inventée par une IA.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:hallucination(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hallucin(er|e|[ée]|[ée]e)|r[ée]ponse(s)?\\s+invent[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:erreur(s)?\\s+de\\s+l['’]ia)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:information(s)?\\s+fausse(s)?)(?![\\w-])"
+  ],
+  "symbol": "hallucination",
+  "event": null,
+  "title": "Hallucination",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

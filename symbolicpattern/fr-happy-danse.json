@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-danse",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le mouvement du corps en musique.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:danse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dans(er|e|ons|ent|ait|eur|euse|eurs|euses)|bal(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:valse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guinche(r)?)(?![\\w-])"
+  ],
+  "symbol": "danse",
+  "event": null,
+  "title": "Danse",
+  "tags": [
+    "#FETE",
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

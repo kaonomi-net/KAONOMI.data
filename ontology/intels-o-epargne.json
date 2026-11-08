@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-epargne",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "épargne",
+  "entityType": "DOMAIN",
+  "description": "Cité par 12 intels : Épargne des Français ; Emprunt national ; Moral des ménages ; Fonds monétaires et rendements ; Confiance des consommateurs ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'épargne des ménages et son rôle face à la dette.",
+    "Suivre les propositions d'un grand emprunt auprès des Français.",
+    "Suivre la confiance des ménages."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "épargne",
+  "tags": [
+    "#EPARGNE",
+    "#FRANCE",
+    "#ECONOMIE",
+    "#DETTE",
+    "#FINANCE",
+    "#MENAGES"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!EPARGNE",
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "consommation",
+    "France",
+    "confiance",
+    "emprunt national",
+    "inflation",
+    "ménages",
+    "PEA",
+    "fiscalité",
+    "marchés de capitaux",
+    "Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

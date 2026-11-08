@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-lobbying",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'influence d'intérêts privés sur les décisions.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:lobbying)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lobby(s|ies)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:conflit(s)?\\s+d['’]int[ée]r[êe]ts)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pantouflage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:trafic\\s+d['’]influence)(?![\\w-])"
+  ],
+  "symbol": "lobbying",
+  "event": null,
+  "title": "Lobbying",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

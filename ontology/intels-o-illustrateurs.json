@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-illustrateurs",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "illustrateurs",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : IA et création artistique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les débats entre artistes et IA générative."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "illustrateurs",
+  "tags": [
+    "#IA",
+    "#CULTURE",
+    "#DROIT-AUTEUR"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "artistes",
+    "art",
+    "droit d'auteur",
+    "musique",
+    "IA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

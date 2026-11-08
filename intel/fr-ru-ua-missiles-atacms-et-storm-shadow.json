@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-missiles-atacms-et-storm-shadow",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Missiles ATACMS et Storm Shadow",
+  "includedEntities": [
+    {
+      "entityName": "ATACMS",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Storm Shadow",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre l'usage des missiles occidentaux à longue portée.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "États-Unis",
+    "Royaume-Uni",
+    "Russie"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quelles restrictions ?",
+    "Quelle réaction russe ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#MISSILES",
+    "#ARMEMENT"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!ESCALADE"
+  ],
+  "isDeleted": false
+}

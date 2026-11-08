@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-bioterrorisme",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le terrorisme par des agents biologiques.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bioterrorisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arme(s)?\\s+biologique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:anthrax)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:agent(s)?\\s+pathog[èe]ne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:enveloppe(s)?\\s+contamin[ée]e(s)?)(?![\\w-])"
+  ],
+  "symbol": "bioterrorisme",
+  "event": null,
+  "title": "Bioterrorisme",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

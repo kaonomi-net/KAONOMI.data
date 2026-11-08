@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-victoire",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de gagner.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:victoire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:victorieu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vainqueur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:remport(er|[ée]|[ée]e)|battu\\s+le\\s+record)(?![\\w-])"
+  ],
+  "symbol": "victoire",
+  "event": null,
+  "title": "Victoire",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

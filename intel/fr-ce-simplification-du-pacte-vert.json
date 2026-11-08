@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-simplification-du-pacte-vert",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Simplification du Pacte vert",
+  "includedEntities": [
+    {
+      "entityName": "Pacte vert",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "simplification",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "omnibus",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les reculs et simplifications du Pacte vert.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "entreprises",
+    "ONG",
+    "Parlement"
+  ],
+  "questions": [
+    "Quelle règle allégée ?",
+    "Quelle critique ?",
+    "Quel vote ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CLIMAT",
+    "#SIMPLIFICATION"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

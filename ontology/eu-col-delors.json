@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la Commission européenne) : Commission Delors, collège des commissaires présidé par Jacques Delors, en fonction du 6 janvier 1985 au 22 janvier 1995.",
+  "id": "eu-col-delors",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission Delors",
+  "entityType": "ORGANISATION",
+  "description": "Commission Delors, collège des commissaires présidé par Jacques Delors, en fonction du 6 janvier 1985 au 22 janvier 1995.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-colleges",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Commission Delors ».",
+    "Les décisions de « Commission Delors » touchent la Commission européenne.",
+    "Le rapport annuel de « Commission Delors » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20Delors"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Jacques Delors",
+    "Commission européenne",
+    "Commission Thorn",
+    "Commission Santer",
+    "Présidence de la Commission (Commission Delors)",
+    "Espace Schengen",
+    "Marché unique"
+  ],
+  "isDeleted": false,
+  "startDate": "1985-01-06T00:00:00",
+  "endDate": "1995-01-22T00:00:00"
+}

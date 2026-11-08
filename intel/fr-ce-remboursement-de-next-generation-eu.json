@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-remboursement-de-next-generation-eu",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Remboursement de Next Generation EU",
+  "includedEntities": [
+    {
+      "entityName": "Next Generation EU",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "remboursement",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "dette commune",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le remboursement de la dette commune du plan de relance à partir de 2028.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "à partir de 2028"
+  ],
+  "relatedEntities": [
+    "intérêts",
+    "ressources propres",
+    "budget"
+  ],
+  "questions": [
+    "Quel coût annuel ?",
+    "Qui paie ?",
+    "Quel impact sur les programmes ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DETTE-COMMUNE",
+    "#BUDGET-UE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

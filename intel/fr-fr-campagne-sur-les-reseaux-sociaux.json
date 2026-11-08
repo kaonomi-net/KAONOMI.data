@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-campagne-sur-les-reseaux-sociaux",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Campagne sur les réseaux sociaux",
+  "includedEntities": [
+    {
+      "entityName": "réseaux sociaux",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "TikTok",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "campagne",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la campagne numérique des candidats.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "influenceurs",
+    "vidéos",
+    "audience"
+  ],
+  "questions": [
+    "Quel candidat domine ?",
+    "Quelle stratégie ?",
+    "Quels contenus viraux ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#CAMPAGNE",
+    "#NUMERIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

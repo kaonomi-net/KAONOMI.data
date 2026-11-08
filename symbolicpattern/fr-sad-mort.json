@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-mort",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La mort, la fin de la vie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:mort(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]c[èe]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tr[ée]pas)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]funt(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perte(s)?\\s+humaine(s)?)(?![\\w-])"
+  ],
+  "symbol": "mort",
+  "event": null,
+  "title": "Mort",
+  "tags": [
+    "#MORT",
+    "#DEUIL"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

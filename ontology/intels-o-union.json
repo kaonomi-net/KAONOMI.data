@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-union",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "union",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Parti communiste et Fabien Roussel ; Clémentine Autain et la gauche alternative ; Union des marchés de capitaux.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la position du PCF et de Fabien Roussel pour 2027.",
+    "Suivre le rôle de Clémentine Autain et des dissidents de LFI.",
+    "Suivre l'intégration des marchés de capitaux européens."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "union",
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#PCF",
+    "#GAUCHE",
+    "#UNION-EUROPEENNE",
+    "#FINANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE",
+    "!FINANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Nord",
+    "Fabien Roussel",
+    "Parti communiste",
+    "candidature",
+    "L'Après",
+    "Clémentine Autain",
+    "gauche",
+    "primaire",
+    "supervision",
+    "marchés de capitaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

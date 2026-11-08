@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-frelate",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Altéré, falsifié.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:frelat[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:falsifi[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:trafiqu[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:alcool\\s+frelat[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:produit(s)?\\s+frelat[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "frelaté",
+  "event": null,
+  "title": "Frelaté",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

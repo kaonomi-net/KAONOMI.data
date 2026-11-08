@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-laicite-et-religions",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Laïcité et religions",
+  "includedEntities": [
+    {
+      "entityName": "laïcité",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "religions",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les débats sur la laïcité.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "école",
+    "voile",
+    "sport"
+  ],
+  "questions": [
+    "Quelle polémique ?",
+    "Quelle loi ?",
+    "Quelles positions ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#LAICITE",
+    "#SOCIETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

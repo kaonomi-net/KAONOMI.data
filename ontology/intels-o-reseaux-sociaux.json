@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-reseaux-sociaux",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "réseaux sociaux",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 36 intels : Désinformation russe en Europe ; Manifestations de masse ; Désinformation d'État ; Deepfake d'une personnalité ; Désinformation générée par IA ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre les campagnes de désinformation russes visant l'Europe.",
+    "Repérer les mouvements de contestation massifs dans le monde.",
+    "Surveiller les campagnes de désinformation menées par des États."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "réseaux sociaux",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#FRANCE",
+    "#DESINFORMATION",
+    "#JEUNESSE",
+    "#NUMERIQUE",
+    "#ADOLESCENTS"
+  ],
+  "events": [
+    "@CAMPAGNE-DESINFORMATION",
+    "@MOBILISATION",
+    "@DEEPFAKE-DETECTE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!DEBAT",
+    "!SOCIETE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "plateformes",
+    "Viginum",
+    "TikTok",
+    "Europe",
+    "désinformation",
+    "jeunes",
+    "vérification de l'âge",
+    "mineurs",
+    "santé mentale",
+    "adolescentes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

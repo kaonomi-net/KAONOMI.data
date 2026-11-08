@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-vendeurs-a-decouvert",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Vendeurs à découvert",
+  "includedEntities": [
+    {
+      "entityName": "vente à découvert",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "fonds activiste",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques de vendeurs à découvert.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "rapport",
+    "cours",
+    "réponse de l'entreprise"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quelle accusation ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#ACTIVISME"
+  ],
+  "events": [
+    "@ATTAQUE-VENDEUR"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

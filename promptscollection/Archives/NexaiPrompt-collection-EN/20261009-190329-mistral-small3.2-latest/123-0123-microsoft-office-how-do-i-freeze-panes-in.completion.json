@@ -1,0 +1,13 @@
+{
+  "index": 123,
+  "file": "0123-microsoft-office-how-do-i-freeze-panes-in.prompt.json",
+  "prompt": "How do I freeze panes in Excel?",
+  "promptWords": 7,
+  "completion": "To freeze panes in Excel, follow these steps:\n\n1. **Open your Excel workbook** and go to the worksheet where you want to freeze panes.\n2. **Select the cell** that is just below the rows and just to the right of the columns you want to freeze. For example, if you want to freeze the first row and the first column, select cell B2.\n3. **Go to the \"View\" tab** on the Ribbon.\n4. **Click on \"Freeze Panes\"** in the \"Window\" group.\n5. **Choose the freezing option**:\n   - **Freeze Panes**: This will freeze both rows and columns up to the selected cell.\n   - **Freeze Top Row**: This will freeze the top row only.\n   - **Freeze First Column**: This will freeze the first column only.\n6. **To unfreeze panes**, go back to the \"View\" tab, click on \"Freeze Panes,\" and then select \"Unfreeze Panes.\"\n\nThis will keep the specified rows and/or columns visible while you scroll through the rest of the worksheet.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:26:08.6432495+02:00",
+  "durationSeconds": 6.61,
+  "stats": "mistral-small3.2:latest · 516 + 231 tokens · 6,6 s",
+  "isError": false,
+  "language": "EN"
+}

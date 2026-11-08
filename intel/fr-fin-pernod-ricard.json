@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-pernod-ricard",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Pernod Ricard",
+  "includedEntities": [
+    {
+      "entityName": "Pernod Ricard",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "spiritueux",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Pernod Ricard et le marché des spiritueux.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "cognac",
+    "Chine",
+    "droits de douane"
+  ],
+  "questions": [
+    "Quelle croissance ?",
+    "Quel effet des droits de douane ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#SPIRITUEUX"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

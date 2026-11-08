@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ville de l'Union européenne (la géographie européenne) : Bucarest, capitale de ce pays : Roumanie.",
+  "id": "eu-ville-bucarest",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "Bucarest",
+  "entityType": "CITY",
+  "description": "Bucarest, capitale de ce pays : Roumanie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-villes",
+  "sentencesExemples": [
+    "La délégation s'est rendue à Bucarest.",
+    "La réunion s'est tenue à Bucarest.",
+    "Bucarest apparaît sur la carte des implantations de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFD9",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#CITY",
+    "#GEOGRAPHIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Bucarest"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Roumanie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

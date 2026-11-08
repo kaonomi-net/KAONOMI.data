@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les affaires intérieures) : Juriste, ancien ministre autrichien des Finances, commissaire aux Affaires intérieures et à la Migration depuis 2024.",
+  "id": "eu-p-brunner",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Magnus Brunner",
+  "entityType": "PERSON",
+  "description": "Juriste, ancien ministre autrichien des Finances, commissaire aux Affaires intérieures et à la Migration depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Lors du point de presse de midi, une question portait sur Magnus Brunner.",
+    "Magnus Brunner est une figure de les affaires intérieures.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Magnus Brunner."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Brunner"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#AFFAIRESINTERIEURES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Magnus%20Brunner"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité autrichienne",
+    "Parti populaire autrichien (ÖVP)",
+    "Juriste",
+    "Ministre des Finances",
+    "Commissaire européen",
+    "Affaires intérieures et migration (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Affaires intérieures et sécurité",
+    "Migration et asile",
+    "Direction générale de la migration et des affaires intérieures"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

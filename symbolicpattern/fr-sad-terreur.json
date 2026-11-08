@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-terreur",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une peur extrême.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:terreur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:terrifi([ée]|[ée]e|[ée]s|[ée]es|ant|ante|er))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:terroris([ée]|[ée]e|[ée]s|[ée]es))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:horreur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:horrifi([ée]|[ée]e|[ée]s|ant|ante))(?![\\w-])"
+  ],
+  "symbol": "terreur",
+  "event": null,
+  "title": "Terreur",
+  "tags": [
+    "#FEAR"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": true
+}

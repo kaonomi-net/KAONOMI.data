@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-juntes-militaires-du-sahel",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Juntes militaires du Sahel",
+  "includedEntities": [
+    {
+      "entityName": "Sahel",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "junte",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Mali",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les régimes militaires du Mali, du Burkina Faso et du Niger.",
+  "isFuzzy": true,
+  "locations": [
+    "Bamako",
+    "Ouagadougou",
+    "Niamey"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Alliance des États du Sahel",
+    "CEDEAO",
+    "Russie"
+  ],
+  "questions": [
+    "Quelles alliances ?",
+    "Quelle situation sécuritaire ?",
+    "Quel calendrier électoral ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#SAHEL",
+    "#AFRIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!INSTABILITE"
+  ],
+  "isDeleted": false
+}

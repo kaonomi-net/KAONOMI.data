@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-authentification-multifacteur-obligatoire",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Authentification multifacteur obligatoire",
+  "includedEntities": [
+    {
+      "entityName": "authentification multifacteur",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "obligatoire",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la généralisation de l'authentification multifacteur.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "comptes",
+    "cloud",
+    "phishing-resistant"
+  ],
+  "questions": [
+    "Quel service l'impose ?",
+    "Quelle méthode ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DEFENSE",
+    "#MFA"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

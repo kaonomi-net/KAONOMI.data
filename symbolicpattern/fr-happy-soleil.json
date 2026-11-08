@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-soleil",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'astre qui donne la lumière et la chaleur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:soleil(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ensoleill[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rayon(s)?\\s+de\\s+soleil)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:radieux\\s+soleil)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:soleil\\s+levant)(?![\\w-])"
+  ],
+  "symbol": "soleil",
+  "event": null,
+  "title": "Soleil",
+  "tags": [
+    "#NATURE",
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

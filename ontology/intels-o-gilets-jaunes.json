@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-gilets-jaunes",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "gilets jaunes",
+  "entityType": "NORP",
+  "description": "Cité par 1 intel : Mouvements de colère citoyens.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-norp",
+  "sentencesExemples": [
+    "Repérer les mouvements citoyens de contestation."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "gilets jaunes",
+  "tags": [
+    "#FRANCE",
+    "#SOCIAL",
+    "#CONTESTATION"
+  ],
+  "events": [
+    "@MOBILISATION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bloquons tout",
+    "mouvement",
+    "colère",
+    "réseaux sociaux",
+    "blocage"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

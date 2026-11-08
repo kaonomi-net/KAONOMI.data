@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-mediatrice-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Médiatrice européenne",
+  "includedEntities": [
+    {
+      "entityName": "Médiatrice européenne",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "plainte",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions de la Médiatrice européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Teresa Anjinho",
+    "mauvaise administration",
+    "transparence"
+  ],
+  "questions": [
+    "Quelle plainte ?",
+    "Quelle conclusion ?",
+    "Quelle réponse de la Commission ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MEDIATRICE",
+    "#TRANSPARENCE"
+  ],
+  "events": [
+    "@DECISION"
+  ],
+  "signals": [
+    "!TRANSPARENCE"
+  ],
+  "isDeleted": false
+}

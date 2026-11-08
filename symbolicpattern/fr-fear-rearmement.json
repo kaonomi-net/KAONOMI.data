@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-rearmement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de s'armer à nouveau.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]armement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]arm(er|[ée]|[ée]e)|course\\s+aux\\s+armements)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:militarisation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:budget(s)?\\s+militaire(s)?)(?![\\w-])"
+  ],
+  "symbol": "réarmement",
+  "event": null,
+  "title": "Réarmement",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

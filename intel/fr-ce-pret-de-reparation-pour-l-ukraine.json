@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-pret-de-reparation-pour-l-ukraine",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Prêt de réparation pour l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "prêt de réparation",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "avoirs russes",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet de la Commission d'utiliser les avoirs russes gelés pour l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "sommets européens"
+  ],
+  "relatedEntities": [
+    "Euroclear",
+    "Belgique",
+    "210 milliards"
+  ],
+  "questions": [
+    "Une décision est-elle prise ?",
+    "Quel montant ?",
+    "Quelle position belge ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#UKRAINE",
+    "#AVOIRS-GELES"
+  ],
+  "events": [
+    "@DECISION-UE"
+  ],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

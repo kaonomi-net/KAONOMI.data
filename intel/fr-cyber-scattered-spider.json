@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-scattered-spider",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Scattered Spider",
+  "includedEntities": [
+    {
+      "entityName": "Scattered Spider",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "ingénierie sociale",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le groupe Scattered Spider et ses attaques par ingénierie sociale.",
+  "isFuzzy": true,
+  "locations": [
+    "Royaume-Uni",
+    "États-Unis"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "centres d'assistance",
+    "distribution",
+    "arrestations"
+  ],
+  "questions": [
+    "Quelle victime ?",
+    "Quelle technique ?",
+    "Quelles arrestations ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#INGENIERIE-SOCIALE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

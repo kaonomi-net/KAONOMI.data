@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-grands-parents",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les parents des parents.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:grands?-parents?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grand-m[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grand-p[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mamie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:papi(s)?)(?![\\w-])"
+  ],
+  "symbol": "grands-parents",
+  "event": null,
+  "title": "Grands-parents",
+  "tags": [
+    "#FAMILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

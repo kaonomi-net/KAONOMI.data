@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique énergétique) : Direction générale de l'énergie (DG ENER), service de la Commission européenne compétent pour la politique énergétique, le logement, placé sous l'autorité de Dan Jørgensen dans la Commission von der Leyen II.",
+  "id": "eu-dg-ener",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de l'énergie",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de l'énergie (DG ENER), service de la Commission européenne compétent pour la politique énergétique, le logement, placé sous l'autorité de Dan Jørgensen dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Les décisions de « Direction générale de l'énergie » touchent la politique énergétique.",
+    "Le rapport annuel de « Direction générale de l'énergie » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Direction générale de l'énergie »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG ENER"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEENERGETIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20l%27%C3%A9nergie"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Dan Jørgensen",
+    "Énergie",
+    "Logement",
+    "Agence de l'Union européenne pour la coopération des régulateurs de l'énergie (ACER)",
+    "Entreprise commune européenne pour ITER et le développement de l'énergie de fusion (Fusion for Energy)",
+    "Agence d'approvisionnement d'Euratom (AAE)",
+    "Plan REPowerEU"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

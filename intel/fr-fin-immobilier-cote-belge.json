@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-immobilier-cote-belge",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Immobilier coté belge",
+  "includedEntities": [
+    {
+      "entityName": "SIR",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "immobilier",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Belgique",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les sociétés immobilières réglementées belges.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "WDP",
+    "Cofinimmo",
+    "taux"
+  ],
+  "questions": [
+    "Quelle valorisation ?",
+    "Quel dividende ?",
+    "Quel effet des taux ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BELGIQUE",
+    "#IMMOBILIER"
+  ],
+  "events": [],
+  "signals": [
+    "!TENDANCE"
+  ],
+  "isDeleted": false
+}

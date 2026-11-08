@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-union-europeenne-et-japon",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Union européenne et Japon",
+  "includedEntities": [
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Japon",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "partenariat",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les relations entre l'Union et le Japon.",
+  "isFuzzy": true,
+  "locations": [
+    "Tokyo"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "sécurité",
+    "commerce",
+    "Indo-Pacifique"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quel sommet ?",
+    "Quelle coopération ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#JAPON",
+    "#PARTENARIAT"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

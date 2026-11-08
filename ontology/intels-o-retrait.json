@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-retrait",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "retrait",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : Troupes américaines en Europe ; Retrait de candidature ; Taxe sur les services numériques retirée ; Retrait de l'assurance européenne des dépôts.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'évolution de la présence militaire américaine en Europe.",
+    "Repérer les retraits ou renoncements de candidats.",
+    "Suivre le retrait de la proposition de taxe sur les services numériques de 2018."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "retrait",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ETATS-UNIS",
+    "#OTAN",
+    "#DEFENSE",
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027"
+  ],
+  "events": [
+    "@RETRAIT"
+  ],
+  "signals": [
+    "!DEBAT",
+    "!INCERTITUDE",
+    "!CAMPAGNE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Allemagne",
+    "Bruxelles",
+    "troupes américaines",
+    "Europe",
+    "Roumanie",
+    "Pologne",
+    "Pentagone",
+    "OTAN",
+    "ralliement",
+    "présidentielle"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

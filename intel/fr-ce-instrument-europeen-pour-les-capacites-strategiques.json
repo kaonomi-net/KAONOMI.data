@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-instrument-europeen-pour-les-capacites-strategiques",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Instrument européen pour les capacités stratégiques",
+  "includedEntities": [
+    {
+      "entityName": "instrument",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "capacités stratégiques",
+      "entityWeight": "60"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le nouvel instrument pour les capacités stratégiques prévu par le programme de travail 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "2027"
+  ],
+  "relatedEntities": [
+    "ravitaillement",
+    "renseignement",
+    "transport stratégique"
+  ],
+  "questions": [
+    "Quelles capacités ?",
+    "Quel budget ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DEFENSE",
+    "#PROGRAMME-2027"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "isDeleted": false
+}

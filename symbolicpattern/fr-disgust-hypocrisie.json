@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-hypocrisie",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de feindre des sentiments.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:hypocrisie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hypocrite(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:faux-cul(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:double\\s+discours)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tartuferie(s)?)(?![\\w-])"
+  ],
+  "symbol": "hypocrisie",
+  "event": null,
+  "title": "Hypocrisie",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

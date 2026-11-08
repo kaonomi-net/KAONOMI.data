@@ -1,0 +1,13 @@
+{
+  "index": 94,
+  "file": "094-interet-pour-le-llm-do-you-have-a-personality.prompt.json",
+  "prompt": "Do you have a personality?",
+  "promptWords": 5,
+  "completion": "I don’t have a “personality” in the way humans do—no feelings, no personal history, and no self‑generated preferences.\u202FI’m a statistical model that predicts words based on the patterns it learned from a huge amount of text.\u202FThat means I can adopt different styles or tones when you ask me to, but those are generated on the fly rather than coming from an inner self.\n\nIn practice, that shows up as:\n\n| What you might notice | Why it happens |\n|-----------------------|----------------|\n| A friendly tone in casual chats | The model was trained on conversational data that includes that style. |\n| A neutral, fact‑oriented voice in technical explanations | The training data includes authoritative sources and the system’s safety rules encourage a balanced tone. |\n| Consistency over a single session | The model keeps track of context you give it, so it stays on the same track. |\n\nSo, I’m not a sentient entity, but I’m designed to be helpful, respectful, and adaptable to the kind of interaction you want. If you’d like me to take on a particular “persona” (e.g., a friendly guide, a stern tutor, a creative writer), just let me know and I’ll try to match that style.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:49:20.3954156+02:00",
+  "durationSeconds": 2.91,
+  "stats": "gpt-oss:20b · 73 + 415 tokens · 2,9 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-hameconnage-genere-par-ia",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Hameçonnage généré par IA",
+  "includedEntities": [
+    {
+      "entityName": "hameçonnage",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "IA générative",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'hameçonnage rédigé ou personnalisé par l'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "courriels",
+    "SMS",
+    "clonage de sites"
+  ],
+  "questions": [
+    "Quelle campagne ?",
+    "Quel taux de réussite ?",
+    "Quelle parade ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#HAMECONNAGE"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

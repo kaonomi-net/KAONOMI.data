@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-kharkiv",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Kharkiv",
+  "entityType": "CITY",
+  "description": "Cité par 10 intels : Secteur de Koupiansk ; Pression sur la région de Kharkiv ; Bombes planantes russes ; Déminage des terres agricoles ; Coupures d'électricité en Ukraine ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les combats autour de Koupiansk et de la rivière Oskil.",
+    "Surveiller les opérations russes dans la région de Kharkiv.",
+    "Surveiller l'usage massif des bombes planantes guidées."
+  ],
+  "angryLevel": null,
+  "sadLevel": 10,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Kharkiv",
+  "tags": [
+    "#UKRAINE",
+    "#FRONT",
+    "#ENERGIE",
+    "#CIVILS",
+    "#KHARKIV",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT",
+    "@COUPURE",
+    "@FRAPPE-ENERGIE"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!MENACE",
+    "!TENSION-ENERGETIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Zaporijia",
+    "bombes planantes",
+    "drones",
+    "offensive",
+    "civils",
+    "Donbass",
+    "déminage",
+    "Kherson",
+    "mines",
+    "Kyiv"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

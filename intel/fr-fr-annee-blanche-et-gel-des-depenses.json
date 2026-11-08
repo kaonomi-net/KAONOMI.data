@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-annee-blanche-et-gel-des-depenses",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Année blanche et gel des dépenses",
+  "includedEntities": [
+    {
+      "entityName": "année blanche",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "gel",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le gel des prestations, des barèmes et des dépenses.",
+  "isFuzzy": true,
+  "locations": [
+    "Bercy"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "retraites",
+    "allocations",
+    "barème de l'impôt"
+  ],
+  "questions": [
+    "Quelles prestations gelées ?",
+    "Quel gain ?",
+    "Quelle contestation ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#ECONOMIES"
+  ],
+  "events": [],
+  "signals": [
+    "!BUDGET"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cybersecurite-ferroviaire",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cybersécurité ferroviaire",
+  "includedEntities": [
+    {
+      "entityName": "ferroviaire",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "signalisation",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les cyberattaques et sabotages visant le rail.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "SNCF",
+    "SNCB",
+    "signalisation"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quel impact ?",
+    "Quelle attribution ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FERROVIAIRE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

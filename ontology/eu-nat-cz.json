@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Nationalité de l'Union européenne (la citoyenneté européenne) : Nationalité des citoyens de ce pays : Tchéquie.",
+  "id": "eu-nat-cz",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "nationalité tchèque",
+  "entityType": "NORP",
+  "description": "Nationalité des citoyens de ce pays : Tchéquie. Les ressortissants sont appelés tchèques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-nationalites",
+  "sentencesExemples": [
+    "Les statistiques du personnel détaillent la répartition par nationalité, dont la nationalité tchèque.",
+    "La nationalité tchèque est représentée dans les institutions européennes.",
+    "La nationalité tchèque donne la citoyenneté européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDEAA",
+  "synonyms": [
+    "tchèque",
+    "tchèque"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#NORP",
+    "#CITOYENNETEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=nationalit%C3%A9%20tch%C3%A8que"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Tchéquie",
+    "Věra Jourová",
+    "Jozef Síkela"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

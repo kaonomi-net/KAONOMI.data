@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sanctions",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "sanctions",
+  "entityType": "LAW",
+  "description": "Cité par 34 intels : Poutine et l'Inde ; Revenus pétroliers et gaziers russes ; Flotte fantôme russe ; Exportations de pétrole vers l'Inde et la Chine ; Contournement des sanctions par les pays tiers ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre les relations entre la Russie et l'Inde.",
+    "Suivre les recettes tirées des hydrocarbures.",
+    "Suivre les pétroliers qui contournent les sanctions."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "sanctions",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#RUSSIE",
+    "#SANCTIONS",
+    "#CYBERSECURITE",
+    "#REGULATION",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@SANCTION",
+    "@MISE-EN-GARDE",
+    "@VISITE-OFFICIELLE"
+  ],
+  "signals": [
+    "!CONTOURNEMENT",
+    "!DIPLOMATIE",
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Russie",
+    "Chine",
+    "Washington",
+    "Iran",
+    "Union européenne",
+    "contournement",
+    "Ukraine",
+    "Inde",
+    "pétrole"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

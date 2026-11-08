@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-parlement-ukrainien",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Parlement ukrainien",
+  "includedEntities": [
+    {
+      "entityName": "Rada",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "vote",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les votes de la Verkhovna Rada.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "lois",
+    "mobilisation",
+    "budget"
+  ],
+  "questions": [
+    "Quelle loi ?",
+    "Quel vote ?",
+    "Quelle controverse ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#PARLEMENT",
+    "#POLITIQUE"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

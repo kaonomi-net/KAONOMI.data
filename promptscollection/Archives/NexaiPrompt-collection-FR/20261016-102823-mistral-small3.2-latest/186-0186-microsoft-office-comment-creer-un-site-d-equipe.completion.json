@@ -1,0 +1,13 @@
+{
+  "index": 186,
+  "file": "0186-microsoft-office-comment-creer-un-site-d-equipe.prompt.json",
+  "prompt": "Comment créer un site d'équipe dans SharePoint ?",
+  "promptWords": 8,
+  "completion": "Pour créer un site d'équipe dans SharePoint, voici les étapes à suivre :\n\n### **1. Se connecter à SharePoint**\n- Allez sur [SharePoint](https://www.microsoft365.com/fr-fr/sharepoint/sharepoint-online-overview?rtc=1) et connectez-vous avec votre compte Microsoft 365.\n\n### **2. Accéder au centre d'administration SharePoint**\n- Dans le menu de navigation, cliquez sur **Admin** (ou **Centre d'administration**).\n- Sélectionnez **SharePoint** dans la liste des services.\n\n### **3. Créer un nouveau site d'équipe**\n- Dans le centre d'administration SharePoint, cliquez sur **Sites** dans le menu de gauche.\n- Cliquez sur **Créer un site**.\n- Sélectionnez **Site d'équipe** (ou **Team site** en anglais).\n- Remplissez les informations demandées :\n  - **Nom du site** : Donnez un nom à votre site.\n  - **Description** (facultatif) : Ajoutez une description si nécessaire.\n  - **Propriétaire** : Sélectionnez le propriétaire du site.\n  - **Groupe Microsoft 365** : Choisissez un groupe existant ou créez-en un nouveau.\n  - **Autorisations** : Définissez les autorisations d'accès (privé ou public).\n\n### **4. Valider et créer le site**\n- Cliquez sur **Créer** pour finaliser la création du site.\n- Une fois le site créé, vous pouvez le personnaliser en ajoutant des pages, des listes, des bibliothèques de documents, etc.\n\n### **5. Accéder et gérer le site**\n- Vous pouvez accéder à votre site depuis le tableau de bord SharePoint ou via l'application Microsoft 365.\n- Pour gérer les paramètres, allez dans **Paramètres** (⚙) > **Paramètres du site**.\n\nSi vous avez besoin d'aide supplémentaire ou si vous souhaitez des informations plus détaillées, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:00:48.6382429+02:00",
+  "durationSeconds": 8.95,
+  "stats": "mistral-small3.2:latest · 517 + 441 tokens · 8,9 s",
+  "isError": false,
+  "language": "FR"
+}

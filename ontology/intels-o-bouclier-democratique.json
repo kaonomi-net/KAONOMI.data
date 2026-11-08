@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-bouclier-democratique",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "bouclier démocratique",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Lutte contre la désinformation russe ; Bouclier démocratique européen.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les mesures européennes contre la désinformation russe.",
+    "Suivre le projet de bouclier européen pour la démocratie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "bouclier démocratique",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DESINFORMATION",
+    "#RUSSIE",
+    "#DEMOCRATIE",
+    "#INGERENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!DESINFORMATION",
+    "!DEMOCRATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "désinformation",
+    "Bruxelles",
+    "médias",
+    "sanctions",
+    "Russie",
+    "Union européenne",
+    "ingérences",
+    "démocratie",
+    "élections"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

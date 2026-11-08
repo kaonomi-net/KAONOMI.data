@@ -1,0 +1,13 @@
+{
+  "index": 328,
+  "file": "0328-ia-llm-explain-the-context-window-in-simple.prompt.json",
+  "prompt": "Explain the context window in simple terms.",
+  "promptWords": 7,
+  "completion": "### What is a “context window” in a language model?\n\nThink of a language model as a very short‑memory assistant.  \nAt any moment it can only remember and consider the last **N** words (or “tokens”) it has seen.  \nThat slice of text—the last **N** words—is the **context window**.\n\n---\n\n#### 1. Why it matters\n\n- **Shorter window**  \n  The model looks at fewer words, so it might miss a crucial clue that’s just a few words earlier.  \n- **Longer window**  \n  The model can keep track of more distant information (e.g., a name introduced two paragraphs ago), but it also has to use more computational resources.\n\n---\n\n#### 2. A quick analogy\n\nImagine you’re reading a book and can only hold the last 10 pages in your mind at once.  \nIf you need to answer a question about something that happened 15 pages back, you can’t remember it unless you read ahead again.  \nThat “10‑page limit” is like the model’s context window.\n\n---\n\n#### 3. How it works in practice\n\n| Model | Typical context window | What you can do |\n|-------|------------------------|-----------------|\n| GPT‑3 (base) | 2,048 tokens (~ 1,500 words) | Handles short paragraphs, simple stories |\n| GPT‑4 (standard) | 8,192 tokens (~ 6,000 words) | Handles entire articles, more complex reasoning |\n| GPT‑4o (latest) | 128,000 tokens (~ 90,000 words) | Can keep track of a whole book or a long conversation |\n\n*Tokens* are roughly words, but some words split into multiple tokens and punctuation counts too.\n\n---\n\n#### 4. Practical tips\n\n1. **Keep your prompt concise**  \n   The more space you use for the prompt, the less left for the model’s answer.\n2. **Chunk long texts**  \n   If you need the model to analyze a long document, split it into smaller parts that fit the window and feed them one by one.\n3. **Remember the “memory” is limited**  \n   If you need the model to refer back to something that happened earlier in a conversation, keep that information near the end or repeat it.\n\n---\n\n#### 5. Bottom line\n\nThe context window is simply the “memory limit” of the model for a single pass.  \nA bigger window lets the model see more of the conversation or text at once, improving its ability to stay on topic and maintain coherence.  \nA smaller window keeps the model lightweight but can lose long‑range information.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T21:17:40.103641+02:00",
+  "durationSeconds": 6.39,
+  "stats": "gpt-oss:20b · 75 + 615 tokens · 6,4 s",
+  "isError": false,
+  "language": "EN"
+}

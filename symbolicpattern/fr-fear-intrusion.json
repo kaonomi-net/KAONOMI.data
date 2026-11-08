@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-intrusion",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'accès non autorisé à un système ou un compte.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:intrusion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:acc[èe]s\\s+non\\s+autoris[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:compte(s)?\\s+pirat[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mot(s)?\\s+de\\s+passe\\s+vol[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:identifiants\\s+vol[ée]s)(?![\\w-])"
+  ],
+  "symbol": "intrusion",
+  "event": null,
+  "title": "Intrusion",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

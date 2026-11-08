@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Lieu des attentats de Bruxelles de 2016 (l'attentat de l'aéroport) : Principal aéroport de Belgique, situé à Zaventem ; deux kamikazes s'y sont fait exploser dans le hall des départs le 22 mars 2016.",
+  "id": "be2016-aeroport",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Aéroport de Bruxelles-National",
+  "entityType": "LOCATION",
+  "description": "Principal aéroport de Belgique, situé à Zaventem ; deux kamikazes s'y sont fait exploser dans le hall des départs le 22 mars 2016.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-lieux",
+  "sentencesExemples": [
+    "Le lieu « Aéroport de Bruxelles-National » est lié aux attentats de 2016.",
+    "Le lieu « Aéroport de Bruxelles-National » apparaît sur la carte des faits établie par les enquêteurs.",
+    "Le lieu « Aéroport de Bruxelles-National » est cité dans les comptes rendus consacrés à l'attentat de l'aéroport."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 2,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCCD",
+  "synonyms": [
+    "Zaventem",
+    "Brussels Airport"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#LOCATION",
+    "#ATTENTATAEROPORT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=A%C3%A9roport%20de%20Bruxelles-National"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Taxi de la rue Max Roos",
+    "Démission de Jacqueline Galant",
+    "Attentat de l'aéroport de Bruxelles-National",
+    "Brussels Airport Company",
+    "Commémorations du 22 mars"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

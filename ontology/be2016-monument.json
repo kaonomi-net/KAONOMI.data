@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Objet des attentats de Bruxelles de 2016 (la mémoire des attentats) : Monument inauguré rue de la Loi le 22 mars 2017 en mémoire des victimes des attentats.",
+  "id": "be2016-monument",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Monument de la rue de la Loi",
+  "entityType": "MATERIAL",
+  "description": "Monument inauguré rue de la Loi le 22 mars 2017 en mémoire des victimes des attentats.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-objets",
+  "sentencesExemples": [
+    "Les rapports techniques décrivent « Monument de la rue de la Loi ».",
+    "« Monument de la rue de la Loi » fait partie des éléments retenus par l'enquête sur la mémoire des attentats.",
+    "Les enquêteurs ont analysé « Monument de la rue de la Loi »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 4,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDE9",
+  "synonyms": [
+    "mémorial des attentats"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#MATERIAL",
+    "#MEMOIREATTENTATS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Monument%20de%20la%20rue%20de%20la%20Loi"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Inauguration du monument de la rue de la Loi",
+    "Rue de la Loi",
+    "Commémorations du 22 mars"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

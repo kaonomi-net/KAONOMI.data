@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la sécurité alimentaire) : Sécurité de la chaîne alimentaire, de la ferme à la table.",
+  "id": "eu-dom-alimentation",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Sécurité alimentaire",
+  "entityType": "DOMAIN",
+  "description": "Sécurité de la chaîne alimentaire, de la ferme à la table.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Sécurité alimentaire » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Sécurité alimentaire ».",
+    "Plusieurs commissaires ont été chargés du domaine « Sécurité alimentaire »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#SECURITEALIMENTAIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=S%C3%A9curit%C3%A9%20alimentaire"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Santé et sécurité alimentaire (Commission von der Leyen I)",
+    "Stella Kyriakides",
+    "Agriculture et alimentation (Commission von der Leyen II)",
+    "Christophe Hansen",
+    "Santé et sécurité alimentaire (Commission Juncker)",
+    "Vytenis Andriukaitis",
+    "Direction générale de la santé et de la sécurité alimentaire",
+    "Autorité européenne de sécurité des aliments (EFSA)",
+    "Stratégie « De la ferme à la table »"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

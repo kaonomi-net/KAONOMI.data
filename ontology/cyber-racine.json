@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Classe de l'ontologie : Cybersécurité.",
+  "id": "cyber-racine",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Cybersécurité",
+  "entityType": "MISC",
+  "description": "Ensemble des moyens qui protègent les systèmes d'information, les réseaux et les données contre les attaques, les fuites et les pannes. Cette branche regroupe ses algorithmes, ses événements, son matériel et ses logiciels.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": null,
+  "sentencesExemples": [
+    "La branche « Cybersécurité » de l'ontologie regroupe les entrées de ce thème.",
+    "Pour explorer « Cybersécurité », ouvrez la branche dans la fenêtre de l'ontologie.",
+    "Chaque entrée de « Cybersécurité » est reliée à d'autres par des relations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": true,
+  "symbol": "\uD83D\uDCC2",
+  "synonyms": [
+    "sécurité informatique",
+    "sécurité des systèmes d'information",
+    "SSI"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ONTOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

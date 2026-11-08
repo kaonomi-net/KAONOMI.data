@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-prisons-et-surpopulation",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Prisons et surpopulation",
+  "includedEntities": [
+    {
+      "entityName": "prisons",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "surpopulation",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la surpopulation carcérale et les politiques pénitentiaires.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ministre de la Justice",
+    "places de prison",
+    "évasions"
+  ],
+  "questions": [
+    "Quel taux d'occupation ?",
+    "Quelles mesures ?",
+    "Quels incidents ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#JUSTICE",
+    "#PRISONS"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

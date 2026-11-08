@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-acier-et-aluminium",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Acier et aluminium",
+  "includedEntities": [
+    {
+      "entityName": "acier",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "aluminium",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prix de l'acier et de l'aluminium.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ArcelorMittal",
+    "Aperam",
+    "droits de douane"
+  ],
+  "questions": [
+    "Quel prix ?",
+    "Quelle protection ?",
+    "Quel effet sur les producteurs ?"
+  ],
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#ACIER"
+  ],
+  "events": [],
+  "signals": [
+    "!PRIX"
+  ],
+  "isDeleted": false
+}

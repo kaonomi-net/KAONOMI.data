@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-imagination",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La faculté d'imaginer.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:imagination(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:imagin(er|[ée]|[ée]e|atif|ative)|fantaisie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[êe]verie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:conte(s)?\\s+de\\s+f[ée]es)(?![\\w-])"
+  ],
+  "symbol": "imagination",
+  "event": null,
+  "title": "Imagination",
+  "tags": [
+    "#CREATION"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

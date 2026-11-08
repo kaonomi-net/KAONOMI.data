@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-von-der-leyen-et-les-attentats-ou-drames-en-europe",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Von der Leyen et les attentats ou drames en Europe",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "condoléances",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "victimes",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les réactions de la présidente aux drames qui frappent l'Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Cracovie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "drapeaux en berne",
+    "solidarité",
+    "États membres"
+  ],
+  "questions": [
+    "Quel drame ?",
+    "Quelle réaction ?",
+    "Quelle aide ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#SOLIDARITE"
+  ],
+  "events": [
+    "@CONDOLEANCES"
+  ],
+  "signals": [
+    "!SAD"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Miljöpartiet de gröna, parti ou liste de ce pays : Suède, qui compte 3 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-se-miljopartiet-de-grona",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Miljöpartiet de gröna",
+  "entityType": "ORGANISATION",
+  "description": "Miljöpartiet de gröna, parti ou liste de ce pays : Suède, qui compte 3 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "« Miljöpartiet de gröna » compte des élus au Parlement européen.",
+    "La presse a commenté le score de « Miljöpartiet de gröna » aux élections européennes.",
+    "Les positions de « Miljöpartiet de gröna » sont suivies à Bruxelles et à Strasbourg."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Milj%C3%B6partiet%20de%20gr%C3%B6na"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pär Holmgren",
+    "Alice Kuhnke",
+    "Isabella Lövin",
+    "Suède",
+    "Les Verts/Alliance libre européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

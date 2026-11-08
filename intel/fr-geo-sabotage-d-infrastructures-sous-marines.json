@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-sabotage-d-infrastructures-sous-marines",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Sabotage d'infrastructures sous-marines",
+  "includedEntities": [
+    {
+      "entityName": "câbles sous-marins",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "sabotage",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "gazoduc",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les atteintes aux câbles et gazoducs sous-marins.",
+  "isFuzzy": true,
+  "locations": [
+    "mer Baltique",
+    "mer du Nord"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "navires",
+    "OTAN",
+    "télécommunications"
+  ],
+  "questions": [
+    "Quelle infrastructure ?",
+    "Quel navire soupçonné ?",
+    "Quelle enquête ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#INFRASTRUCTURES",
+    "#SABOTAGE"
+  ],
+  "events": [
+    "@SABOTAGE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la défense européenne) : Document de la Commission et du haut représentant sur les capacités de défense européennes.",
+  "id": "eu-pol-livre-blanc-defense",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Livre blanc sur l'avenir de la défense européenne",
+  "entityType": "LAW",
+  "description": "Document de la Commission et du haut représentant sur les capacités de défense européennes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "« Livre blanc sur l'avenir de la défense européenne » relève de la défense européenne.",
+    "« Livre blanc sur l'avenir de la défense européenne » a fait l'objet de longues négociations.",
+    "Les entreprises doivent tenir compte de « Livre blanc sur l'avenir de la défense européenne »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#DEFENSEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Livre%20blanc%20sur%20l%27avenir%20de%20la%20d%C3%A9fense%20europ%C3%A9enne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Défense",
+    "Direction générale de l'industrie de la défense et de l'espace",
+    "Commission von der Leyen II",
+    "Plan ReArm Europe / Préparation 2030"
+  ],
+  "isDeleted": false,
+  "startDate": "2025-03-19T00:00:00",
+  "endDate": null
+}

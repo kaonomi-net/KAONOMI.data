@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-article-7-du-traite",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Article 7 du traité",
+  "includedEntities": [
+    {
+      "entityName": "article 7",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "sanctions",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les procédures de l'article 7 contre les États membres.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Hongrie",
+    "droits de vote",
+    "Conseil"
+  ],
+  "questions": [
+    "Quelle étape ?",
+    "Quel pays ?",
+    "Quel vote ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ETAT-DE-DROIT",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!PRESSION"
+  ],
+  "isDeleted": false
+}

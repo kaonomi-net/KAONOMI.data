@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-presidence-du-conseil-de-l-union",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Présidence du Conseil de l'Union",
+  "includedEntities": [
+    {
+      "entityName": "présidence du Conseil",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "priorités",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les priorités et résultats de la présidence tournante du Conseil.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "semestre"
+  ],
+  "relatedEntities": [
+    "Danemark",
+    "Chypre",
+    "Irlande"
+  ],
+  "questions": [
+    "Quelles priorités ?",
+    "Quels accords obtenus ?",
+    "Quels échecs ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CONSEIL",
+    "#PRESIDENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-aeronautique",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "aéronautique",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Droits de douane américains et économie française ; Commerce extérieur.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'impact des droits de douane américains sur la France.",
+    "Suivre la balance commerciale française."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "aéronautique",
+  "tags": [
+    "#FRANCE",
+    "#COMMERCE",
+    "#ETATS-UNIS",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION-COMMERCIALE",
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "exportations",
+    "luxe",
+    "États-Unis",
+    "vins et spiritueux",
+    "droits de douane",
+    "déficit commercial",
+    "commerce extérieur",
+    "énergie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-taudis",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un logement misérable et sale.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:taudis)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gourbi(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bouge(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:porcherie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]curie(s)?\\s+(immonde|crasseuse)(s)?)(?![\\w-])"
+  ],
+  "symbol": "taudis",
+  "event": null,
+  "title": "Taudis",
+  "tags": [
+    "#DISGUST",
+    "#INSALUBRITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

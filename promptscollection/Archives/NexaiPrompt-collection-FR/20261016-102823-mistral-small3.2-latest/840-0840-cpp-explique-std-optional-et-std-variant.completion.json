@@ -1,0 +1,13 @@
+{
+  "index": 840,
+  "file": "0840-cpp-explique-std-optional-et-std-variant.prompt.json",
+  "prompt": "Explique std::optional et std::variant en C++ avec un exemple simple.",
+  "promptWords": 10,
+  "completion": "En C++, `std::optional` et `std::variant` sont deux types utilitaires introduits dans C++17 pour gérer des valeurs qui peuvent ne pas être présentes ou qui peuvent prendre plusieurs types différents.\n\n### `std::optional`\n\n`std::optional` est utilisé pour représenter une valeur qui peut être présente ou absente. C'est utile lorsque vous voulez indiquer qu'une valeur peut ne pas être disponible, sans avoir à utiliser des pointeurs ou des valeurs sentinelles comme `nullptr` ou `-1`.\n\n#### Exemple de `std::optional` :\n```cpp\n#include <iostream>\n#include <optional>\n\nstd::optional<int> findValue(int key) {\n    if (key == 42) {\n        return 10; // Retourne une valeur\n    } else {\n        return std::nullopt; // Retourne une valeur absente\n    }\n}\n\nint main() {\n    auto result = findValue(42);\n    if (result) {\n        std::cout << \"Valeur trouvée : \" << *result << std::endl;\n    } else {\n        std::cout << \"Valeur non trouvée\" << std::endl;\n    }\n    return 0;\n}\n```\n\n### `std::variant`\n\n`std::variant` est utilisé pour représenter une valeur qui peut être de plusieurs types différents. C'est utile lorsque vous voulez stocker une valeur qui peut être de plusieurs types, sans avoir à utiliser des unions ou des classes de type visiteur.\n\n#### Exemple de `std::variant` :\n```cpp\n#include <iostream>\n#include <variant>\n#include <string>\n\nint main() {\n    std::variant<int, std::string> data;\n\n    data = 42; // Stocke un entier\n    std::cout << \"Valeur entière : \" << std::get<int>(data) << std::endl;\n\n    data = \"Hello\"; // Stocke une chaîne de caractères\n    std::cout << \"Valeur chaîne : \" << std::get<std::string>(data) << std::endl;\n\n    // Utilisation de std::visit pour traiter les différents types\n    std::visit([](auto&& arg) {\n        std::cout << \"Valeur actuelle : \" << arg << std::endl;\n    }, data);\n\n    return 0;\n}\n```\n\n### Comparaison\n- `std::optional` est utilisé pour représenter une valeur qui peut être présente ou absente.\n- `std::variant` est utilisé pour représenter une valeur qui peut être de plusieurs types différents.\n\nCes deux types sont très utiles pour écrire du code plus sûr et plus expressif en C++.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:24:40.2337454+02:00",
+  "durationSeconds": 10.83,
+  "stats": "mistral-small3.2:latest · 524 + 551 tokens · 10,8 s",
+  "isError": false,
+  "language": "FR"
+}

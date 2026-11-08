@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Allemagne.",
+  "id": "pe10-mep-197443",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Andreas Glück",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Allemagne. Groupe politique : Renew Europe. Parti ou liste national : Freie Demokratische Partei.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Andreas Glück participe aux travaux des commissions parlementaires.",
+    "Andreas Glück siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Andreas Glück figure dans le relevé des votes par appel nominal."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Andreas GLÜCK"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/197443",
+    "https://fr.wikipedia.org/w/index.php?search=Andreas%20Gl%C3%BCck"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Allemagne",
+    "Parlement européen",
+    "Renew Europe",
+    "Parti libéral-démocrate (FDP)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

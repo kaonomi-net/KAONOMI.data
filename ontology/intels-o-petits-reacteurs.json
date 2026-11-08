@@ -1,0 +1,56 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-petits-reacteurs",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "petits réacteurs",
+  "entityType": "HARDWARE",
+  "description": "Cité par 2 intels : Uranium et nucléaire ; Nucléaire dans la politique européenne.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre le marché de l'uranium porté par le nucléaire et les centres de données.",
+    "Suivre la place du nucléaire dans les politiques et financements européens."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "petits réacteurs",
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#URANIUM",
+    "#UNION-EUROPEENNE",
+    "#ENERGIE",
+    "#NUCLEAIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!PRIX",
+    "!ENERGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nucléaire",
+    "IA",
+    "Orano",
+    "uranium",
+    "Allemagne",
+    "France",
+    "Bruxelles",
+    "énergie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

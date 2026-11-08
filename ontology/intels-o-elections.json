@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-elections",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "élections",
+  "entityType": "EVENT",
+  "description": "Cité par 12 intels : Contestation des élections législatives russes ; Gouverneurs et régions russes ; Ingérence russe dans les élections européennes ; Élections en Ukraine en temps de guerre ; Opposition de Mykhaïlo Fedorov ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les analyses contestant la sincérité des législatives de 2026.",
+    "Suivre les nominations, démissions et arrestations de gouverneurs.",
+    "Surveiller l'ingérence russe dans les scrutins européens."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "élections",
+  "tags": [
+    "#ELECTIONS",
+    "#DEMOCRATIE",
+    "#INGERENCE",
+    "#UKRAINE",
+    "#POLITIQUE",
+    "#RUSSIE"
+  ],
+  "events": [
+    "@NOMINATION",
+    "@INGERENCE",
+    "@ELECTION"
+  ],
+  "signals": [
+    "!DEBAT",
+    "!INCERTITUDE",
+    "!VIGILANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Zelensky",
+    "ingérence",
+    "Kyiv",
+    "sondages",
+    "Fedorov",
+    "Europe",
+    "désinformation",
+    "participation",
+    "Golos",
+    "observateurs"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

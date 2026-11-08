@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-grand-paris-et-metropoles",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Grand Paris et métropoles",
+  "includedEntities": [
+    {
+      "entityName": "Grand Paris",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "métropole",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les enjeux des grandes métropoles.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Lyon",
+    "Marseille"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "transports",
+    "logement",
+    "Grand Paris Express"
+  ],
+  "questions": [
+    "Quel projet ?",
+    "Quel retard ?",
+    "Quel financement ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#METROPOLES",
+    "#TERRITOIRES"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

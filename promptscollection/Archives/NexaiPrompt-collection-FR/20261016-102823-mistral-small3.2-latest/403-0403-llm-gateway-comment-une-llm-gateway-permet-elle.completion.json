@@ -1,0 +1,13 @@
+{
+  "index": 403,
+  "file": "0403-llm-gateway-comment-une-llm-gateway-permet-elle.prompt.json",
+  "prompt": "Comment une LLM Gateway permet-elle de router les requêtes entre plusieurs modèles ?",
+  "promptWords": 13,
+  "completion": "Une LLM Gateway (Large Language Model Gateway) est une interface qui permet de gérer et de router les requêtes entre plusieurs modèles de langage. Voici comment elle fonctionne généralement :\n\n1. **Réception des requêtes** : La gateway reçoit les requêtes des utilisateurs ou des applications clientes. Ces requêtes peuvent être des questions, des commandes ou tout autre type de texte à traiter.\n\n2. **Analyse de la requête** : La gateway analyse la requête pour déterminer quel modèle est le plus approprié pour y répondre. Cette analyse peut se baser sur plusieurs critères :\n   - Le type de requête (question, traduction, génération de texte, etc.)\n   - La complexité de la requête\n   - Les préférences de l'utilisateur ou de l'application cliente\n   - Les capacités spécifiques des modèles disponibles\n\n3. **Sélection du modèle** : En fonction de l'analyse, la gateway sélectionne le modèle le plus adapté. Par exemple :\n   - Un modèle spécialisé dans la traduction pour les requêtes de traduction\n   - Un modèle plus petit et plus rapide pour les requêtes simples\n   - Un modèle plus grand et plus puissant pour les requêtes complexes\n\n4. **Routing de la requête** : La gateway envoie la requête au modèle sélectionné.\n\n5. **Réception et traitement de la réponse** : La gateway reçoit la réponse du modèle, peut la traiter si nécessaire (par exemple, pour la formatter ou l'enrichir), et la renvoie à l'utilisateur ou à l'application cliente.\n\n6. **Gestion des erreurs et des temps d'attente** : La gateway peut également gérer les erreurs (par exemple, si un modèle est indisponible) et les temps d'attente (par exemple, en mettant en cache les réponses fréquentes).\n\n7. **Analyse et amélioration** : La gateway peut analyser les performances des différents modèles et les requêtes pour améliorer le routing à l'avenir.\n\nEn résumé, une LLM Gateway agit comme un intermédiaire intelligent entre les utilisateurs et les modèles de langage, permettant d'optimiser l'utilisation des ressources et d'améliorer l'expérience utilisateur.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:38:34.4539663+02:00",
+  "durationSeconds": 9.04,
+  "stats": "mistral-small3.2:latest · 523 + 448 tokens · 9,0 s",
+  "isError": false,
+  "language": "FR"
+}

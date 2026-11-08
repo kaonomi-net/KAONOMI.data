@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-un-club-sportif-ou-une-federation",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre un club sportif ou une fédération",
+  "includedEntities": [
+    {
+      "entityName": "fédération",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "licenciés",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "fuite",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les fuites de données des fédérations et clubs sportifs.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "licenciés",
+    "données personnelles",
+    "hameçonnage"
+  ],
+  "questions": [
+    "Quelle fédération ?",
+    "Combien de licenciés ?",
+    "Quelles données ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SPORT",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

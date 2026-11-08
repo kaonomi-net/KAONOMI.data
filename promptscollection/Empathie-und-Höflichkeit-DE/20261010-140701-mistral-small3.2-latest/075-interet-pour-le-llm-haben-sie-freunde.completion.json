@@ -1,0 +1,13 @@
+{
+  "index": 75,
+  "file": "075-interet-pour-le-llm-haben-sie-freunde.prompt.json",
+  "prompt": "Haben Sie Freunde?",
+  "promptWords": 3,
+  "completion": "Als KI habe ich keine persönlichen Erfahrungen, Gefühle oder Freunde wie ein Mensch. Ich bin ein Programm, das darauf ausgelegt ist, Ihnen bei Fragen und Problemen zu helfen. Ich kann jedoch so programmiert sein, dass ich freundlich und hilfsbereit wirke, um eine angenehme Interaktion zu gewährleisten. Wie kann ich Ihnen heute helfen?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:10:01.6514959+02:00",
+  "durationSeconds": 1.73,
+  "stats": "mistral-small3.2:latest · 512 + 78 tokens · 1,7 s",
+  "isError": false,
+  "language": "DE"
+}

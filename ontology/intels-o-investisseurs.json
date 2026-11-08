@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-investisseurs",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "investisseurs",
+  "entityType": "PROFESSION",
+  "description": "Cité par 9 intels : Reconstruction de l'Ukraine ; Introduction en bourse d'une entreprise d'IA ; Agence France Trésor ; Bourse de Paris et instabilité politique ; Sentiment des investisseurs ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les conférences et financements pour la reconstruction.",
+    "Surveiller les entrées en bourse des entreprises d'IA.",
+    "Suivre le programme d'émissions de dette de l'État."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "investisseurs",
+  "tags": [
+    "#BOURSE",
+    "#FRANCE",
+    "#UKRAINE",
+    "#RECONSTRUCTION",
+    "#FINANCEMENT",
+    "#MARCHES"
+  ],
+  "events": [
+    "@CONFERENCE",
+    "@INTRODUCTION-BOURSE",
+    "@ADJUDICATION"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!RECONSTRUCTION",
+    "!INVESTISSEMENT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "reconstruction",
+    "Ukraine",
+    "Kyiv",
+    "Rome",
+    "banques",
+    "Paris",
+    "flux",
+    "fonds",
+    "Banque mondiale",
+    "Londres"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

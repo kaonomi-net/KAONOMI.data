@@ -1,0 +1,64 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la santé publique) : Direction générale de la santé et de la sécurité alimentaire (DG SANTE), service de la Commission européenne compétent pour la santé publique, la sécurité alimentaire, le bien-être animal, placé sous l'autorité de Olivér Várhelyi dans la Commission von der Leyen II.",
+  "id": "eu-dg-santedg",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de la santé et de la sécurité alimentaire",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de la santé et de la sécurité alimentaire (DG SANTE), service de la Commission européenne compétent pour la santé publique, la sécurité alimentaire, le bien-être animal, placé sous l'autorité de Olivér Várhelyi dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Les décisions de « Direction générale de la santé et de la sécurité alimentaire » touchent la santé publique.",
+    "Le rapport annuel de « Direction générale de la santé et de la sécurité alimentaire » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Direction générale de la santé et de la sécurité alimentaire »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG SANTE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20la%20sant%C3%A9%20et%20de%20la%20s%C3%A9curit%C3%A9%20alimentaire"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Olivér Várhelyi",
+    "Santé",
+    "Sécurité alimentaire",
+    "Bien-être animal",
+    "Agence exécutive européenne pour la santé et le numérique (HaDEA)",
+    "Agence européenne des médicaments (EMA)",
+    "Centre européen de prévention et de contrôle des maladies (ECDC)",
+    "Autorité européenne de sécurité des aliments (EFSA)",
+    "Office communautaire des variétés végétales (OCVV)",
+    "Stratégie « De la ferme à la table »",
+    "Stratégie de l'UE en matière de vaccins",
+    "Union européenne de la santé",
+    "Plan européen pour vaincre le cancer",
+    "Espace européen des données de santé",
+    "Programme « L'UE pour la santé »"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

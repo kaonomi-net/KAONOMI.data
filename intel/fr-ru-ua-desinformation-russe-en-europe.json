@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-desinformation-russe-en-europe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Désinformation russe en Europe",
+  "includedEntities": [
+    {
+      "entityName": "désinformation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Doppelgänger",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les campagnes de désinformation russes visant l'Europe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "élections"
+  ],
+  "relatedEntities": [
+    "Viginum",
+    "faux sites",
+    "réseaux sociaux"
+  ],
+  "questions": [
+    "Quelle campagne ?",
+    "Quelle cible ?",
+    "Quelle audience ?"
+  ],
+  "tags": [
+    "#EUROPE",
+    "#DESINFORMATION",
+    "#RUSSIE"
+  ],
+  "events": [
+    "@CAMPAGNE-DESINFORMATION"
+  ],
+  "signals": [
+    "!DESINFORMATION"
+  ],
+  "isDeleted": false
+}

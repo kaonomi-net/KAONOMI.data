@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-relation-entre-poutine-et-xi-jinping",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Relation entre Poutine et Xi Jinping",
+  "includedEntities": [
+    {
+      "entityName": "Poutine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Xi Jinping",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les rencontres et déclarations communes de Poutine et Xi Jinping.",
+  "isFuzzy": true,
+  "locations": [
+    "Pékin",
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "partenariat sans limites",
+    "énergie",
+    "New START"
+  ],
+  "questions": [
+    "Quels accords ?",
+    "Quelle déclaration commune ?",
+    "Quel soutien sur l'Ukraine ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#CHINE",
+    "#ALLIANCE"
+  ],
+  "events": [
+    "@RENCONTRE-DIRIGEANTS"
+  ],
+  "signals": [
+    "!ALLIANCE"
+  ],
+  "isDeleted": false
+}

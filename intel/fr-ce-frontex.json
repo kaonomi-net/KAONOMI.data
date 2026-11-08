@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-frontex",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Frontex",
+  "includedEntities": [
+    {
+      "entityName": "Frontex",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "frontières",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action et les controverses de l'agence Frontex.",
+  "isFuzzy": true,
+  "locations": [
+    "Varsovie",
+    "Méditerranée"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "refoulements",
+    "effectifs",
+    "droits fondamentaux"
+  ],
+  "questions": [
+    "Quelle opération ?",
+    "Quelle controverse ?",
+    "Quels effectifs ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MIGRATION",
+    "#FRONTEX"
+  ],
+  "events": [],
+  "signals": [
+    "!MIGRATION"
+  ],
+  "isDeleted": false
+}

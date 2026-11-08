@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-art",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'expression de la beauté.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:art(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:artiste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:artistique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:peinture(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:po[ée]sie(s)?)(?![\\w-])"
+  ],
+  "symbol": "art",
+  "event": null,
+  "title": "Art",
+  "tags": [
+    "#CREATION",
+    "#BEAUTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

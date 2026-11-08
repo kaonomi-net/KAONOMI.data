@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-livret-a",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Livret A",
+  "includedEntities": [
+    {
+      "entityName": "Livret A",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "taux",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le taux et la collecte du Livret A.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [
+    "février et août"
+  ],
+  "relatedEntities": [
+    "inflation",
+    "Banque de France",
+    "collecte"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quelle collecte ?",
+    "Quelle révision ?"
+  ],
+  "tags": [
+    "#EPARGNE",
+    "#FRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!EPARGNE"
+  ],
+  "isDeleted": false
+}

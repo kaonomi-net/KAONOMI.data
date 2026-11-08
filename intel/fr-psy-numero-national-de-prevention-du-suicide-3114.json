@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-numero-national-de-prevention-du-suicide-3114",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Numéro national de prévention du suicide 3114",
+  "includedEntities": [
+    {
+      "entityName": "3114",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "prévention du suicide",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'activité du numéro national de prévention du suicide.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "appels",
+    "écoutants",
+    "campagnes"
+  ],
+  "questions": [
+    "Combien d'appels ?",
+    "Quelle évolution ?",
+    "Quel financement ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE"
+  ],
+  "events": [],
+  "signals": [
+    "!PREVENTION"
+  ],
+  "isDeleted": false
+}

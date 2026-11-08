@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-cour-des-comptes-et-finances-publiques",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Cour des comptes et finances publiques",
+  "includedEntities": [
+    {
+      "entityName": "Cour des comptes",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "rapport",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les rapports de la Cour des comptes sur les finances publiques.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pierre Moscovici",
+    "dérapage",
+    "dépenses"
+  ],
+  "questions": [
+    "Quelles conclusions ?",
+    "Quel dérapage ?",
+    "Quelles recommandations ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#CONTROLE"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!VERIFICATION"
+  ],
+  "isDeleted": false
+}

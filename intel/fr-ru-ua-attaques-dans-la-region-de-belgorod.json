@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-attaques-dans-la-region-de-belgorod",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Attaques dans la région de Belgorod",
+  "includedEntities": [
+    {
+      "entityName": "Belgorod",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "attaque",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les frappes et incursions dans la région frontalière de Belgorod.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgorod",
+    "Chebekino"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Chouvaïev",
+    "frontière",
+    "évacuations"
+  ],
+  "questions": [
+    "Quel bilan ?",
+    "Quelles évacuations ?",
+    "Quelle réaction des autorités ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#BELGOROD",
+    "#FRONTIERE"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

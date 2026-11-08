@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'administration européenne) : Service d'audit interne (IAS), service de la Commission européenne compétent pour l'administration européenne, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "id": "eu-dg-ias",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Service d'audit interne",
+  "entityType": "ORGANISATION",
+  "description": "Service d'audit interne (IAS), service de la Commission européenne compétent pour l'administration européenne, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Service d'audit interne ».",
+    "Les décisions de « Service d'audit interne » touchent l'administration européenne.",
+    "Le rapport annuel de « Service d'audit interne » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "IAS"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#ADMINISTRATIONEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Service%20d%27audit%20interne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Auditeur interne",
+    "Commission européenne",
+    "Piotr Serafin",
+    "Administration"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

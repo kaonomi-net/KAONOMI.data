@@ -1,0 +1,13 @@
+{
+  "index": 28,
+  "file": "048-intelligence-artificielle-qu-est-ce-qu-une-hallucination.prompt.json",
+  "prompt": "Qu'est-ce qu'une hallucination d'un modèle d'IA ?",
+  "promptWords": 7,
+  "completion": "Une hallucination d'un modèle d'IA est un phénomène où le modèle génère des informations, des réponses ou des contenus qui semblent plausibles ou cohérents, mais qui sont en réalité faux, inventés ou sans fondement dans les données sur lesquelles il a été entraîné.\n\nVoici quelques caractéristiques des hallucinations des modèles d'IA :\n\n1. **Fausseté** : Les informations produites sont incorrectes ou inexactes.\n2. **Confiance** : Le modèle peut présenter ces informations avec une grande assurance, comme si elles étaient vraies.\n3. **Cohérence apparente** : Les réponses peuvent sembler logiques ou cohérentes dans le contexte de la conversation, même si elles sont fausses.\n4. **Absence de source** : Les informations hallucinées ne sont pas basées sur des données réelles ou des connaissances vérifiables.\n\nLes hallucinations peuvent se produire pour plusieurs raisons, notamment :\n- **Limites des données d'entraînement** : Le modèle peut essayer de combler des lacunes dans ses connaissances en inventant des réponses.\n- **Complexité du langage** : Le modèle peut mal interpréter des requêtes ambiguës ou complexes.\n- **Surconfiance** : Certains modèles ont tendance à répondre avec assurance même lorsqu'ils ne sont pas sûrs de la réponse.\n\nPour éviter les hallucinations, il est important de :\n- **Vérifier les informations** : Croiser les réponses de l'IA avec des sources fiables.\n- **Poser des questions précises** : Éviter les requêtes trop vagues ou ouvertes.\n- **Utiliser des outils de vérification** : Si disponible, utiliser des outils pour confirmer les informations.\n\nSi vous avez des questions spécifiques sur les hallucinations ou sur la manière de les éviter, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:58:32.2037174+02:00",
+  "durationSeconds": 8.52,
+  "stats": "mistral-small3.2:latest · 521 + 387 tokens · 8,5 s",
+  "isError": false,
+  "language": "FR"
+}

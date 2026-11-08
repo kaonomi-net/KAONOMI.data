@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-temoins",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "témoins",
+  "entityType": "PROFESSION",
+  "description": "Cité par 2 intels : Commissions d'enquête parlementaires ; Traumatisme collectif après un attentat.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les commissions d'enquête et leurs auditions.",
+    "Suivre la prise en charge psychologique après un attentat ou une catastrophe."
+  ],
+  "angryLevel": null,
+  "sadLevel": 50,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "témoins",
+  "tags": [
+    "#FRANCE",
+    "#PARLEMENT",
+    "#CONTROLE",
+    "#PSYCHOLOGIE",
+    "#TRAUMA",
+    "#ATTENTAT"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!TRANSPARENCE",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Sénat",
+    "commission d'enquête",
+    "Assemblée nationale",
+    "audition",
+    "auditions",
+    "rapport",
+    "victimes",
+    "traumatisme collectif",
+    "cellules d'urgence médico-psychologique",
+    "attentat"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

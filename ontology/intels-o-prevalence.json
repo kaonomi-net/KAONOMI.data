@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-prevalence",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "prévalence",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Dépression ; Épidémiologie des troubles psychiques ; Rapport de l'OMS sur la santé mentale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'actualité de la dépression.",
+    "Suivre les chiffres de prévalence des troubles psychiques.",
+    "Suivre les rapports de l'Organisation mondiale de la santé sur la santé mentale."
+  ],
+  "angryLevel": null,
+  "sadLevel": 33,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "prévalence",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#DEPRESSION",
+    "#EPIDEMIOLOGIE",
+    "#OMS",
+    "#SANTE-MENTALE"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OMS",
+    "symptômes",
+    "dépression",
+    "études",
+    "traitements",
+    "troubles psychiques",
+    "Belgique",
+    "Santé publique France",
+    "enquêtes",
+    "monde"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

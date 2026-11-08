@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-paquet-elargissement-2026",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Paquet élargissement 2026",
+  "includedEntities": [
+    {
+      "entityName": "paquet élargissement",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "2026",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le paquet élargissement publié le 4 novembre 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "4 novembre 2026"
+  ],
+  "relatedEntities": [
+    "Marta Kos",
+    "rapports par pays",
+    "feuilles de route"
+  ],
+  "questions": [
+    "Quelles conclusions ?",
+    "Quels pays progressent ?",
+    "Quels reculs ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!ELARGISSEMENT"
+  ],
+  "isDeleted": false
+}

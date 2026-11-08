@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-avenir",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le temps à venir, plein de promesses.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:avenir(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:futur\\s+radieux)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lendemain(s)?\\s+qui\\s+chante(nt)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:demain\\s+sera\\s+meilleur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:promesse(s)?)(?![\\w-])"
+  ],
+  "symbol": "avenir",
+  "event": null,
+  "title": "Avenir",
+  "tags": [
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

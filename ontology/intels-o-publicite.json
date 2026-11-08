@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-publicite",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "publicité",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Publicis et la publicité ; Meta Platforms ; Jeux d'argent et paris sportifs.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'action Publicis face à l'IA.",
+    "Suivre l'action Meta et ses dépenses dans l'IA.",
+    "Suivre l'addiction aux jeux d'argent et aux paris sportifs."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "publicité",
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#MEDIAS",
+    "#IA",
+    "#META",
+    "#PSYCHOLOGIE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Publicis",
+    "Arthur Sadoun",
+    "IA générative",
+    "clients",
+    "Menlo Park",
+    "dette",
+    "Meta",
+    "superintelligence",
+    "Zuckerberg"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

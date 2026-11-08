@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-diagnostic",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "diagnostic",
+  "entityType": "DOMAIN",
+  "description": "Cité par 6 intels : IA et diagnostic médical ; TDAH chez l'enfant ; Autisme ; Troubles des apprentissages ; IA et diagnostic des troubles psychiques ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'usage de l'IA pour aider au diagnostic médical.",
+    "Suivre le trouble du déficit de l'attention avec ou sans hyperactivité chez l'enfant.",
+    "Suivre l'actualité de l'autisme."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "diagnostic",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#IA",
+    "#DIAGNOSTIC",
+    "#ENFANCE",
+    "#SANTE",
+    "#TDAH"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!OPPORTUNITE",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "IA",
+    "école",
+    "recherche",
+    "hôpitaux",
+    "radiologie",
+    "HAS",
+    "dispositif médical",
+    "médecine",
+    "enfants",
+    "TDAH"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

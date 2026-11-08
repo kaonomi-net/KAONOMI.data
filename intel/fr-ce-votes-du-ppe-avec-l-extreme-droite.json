@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-votes-du-ppe-avec-l-extreme-droite",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Votes du PPE avec l'extrême droite",
+  "includedEntities": [
+    {
+      "entityName": "PPE",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "extrême droite",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "vote",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les votes où le PPE s'allie avec les groupes de droite radicale.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Manfred Weber",
+    "Patriotes",
+    "ECR"
+  ],
+  "questions": [
+    "Sur quel texte ?",
+    "Quelle majorité alternative ?",
+    "Quelles réactions de la gauche ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#PPE",
+    "#ALLIANCES"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

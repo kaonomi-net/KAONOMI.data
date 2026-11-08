@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-emprunt-national",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Emprunt national",
+  "includedEntities": [
+    {
+      "entityName": "emprunt national",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "épargne",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les propositions d'un grand emprunt auprès des Français.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Bercy",
+    "candidats",
+    "épargne"
+  ],
+  "questions": [
+    "Qui le propose ?",
+    "À quel taux ?",
+    "Quelle faisabilité ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#EPARGNE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-longue-portee",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "longue portée",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Missiles ukrainiens à longue portée ; Missiles Tomahawk pour l'Ukraine ; Missiles Taurus.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'usage des missiles de production ukrainienne à longue portée.",
+    "Suivre le débat sur la fourniture de missiles Tomahawk à l'Ukraine.",
+    "Suivre le débat sur la livraison de missiles Taurus allemands."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "longue portée",
+  "tags": [
+    "#UKRAINE",
+    "#MISSILES",
+    "#INDUSTRIE-DEFENSE",
+    "#ETATS-UNIS",
+    "#ALLEMAGNE"
+  ],
+  "events": [
+    "@DECISION",
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!ESCALADE",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Russie",
+    "Flamingo",
+    "missile",
+    "industrie ukrainienne",
+    "Neptune",
+    "Kremlin",
+    "missiles",
+    "Trump",
+    "Washington",
+    "Tomahawk"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

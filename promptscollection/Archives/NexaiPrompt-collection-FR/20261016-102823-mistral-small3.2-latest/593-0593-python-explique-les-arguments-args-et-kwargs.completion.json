@@ -1,0 +1,13 @@
+{
+  "index": 593,
+  "file": "0593-python-explique-les-arguments-args-et-kwargs.prompt.json",
+  "prompt": "Explique les arguments *args et **kwargs en Python avec un exemple simple.",
+  "promptWords": 12,
+  "completion": "En Python, les arguments `*args` et `**kwargs` sont utilisés pour passer un nombre variable d'arguments à une fonction. Voici une explication simple avec des exemples :\n\n### `*args` (Arguments arbitraires)\n- Permet de passer un nombre variable de **arguments positionnels** à une fonction.\n- Les arguments sont regroupés dans un **tuple**.\n\n#### Exemple avec `*args` :\n```python\ndef ma_fonction(*args):\n    for argument in args:\n        print(argument)\n\nma_fonction(1, 2, 3, \"bonjour\")\n```\n**Sortie :**\n```\n1\n2\n3\nbonjour\n```\n\n### `**kwargs` (Arguments de mots-clés arbitraires)\n- Permet de passer un nombre variable de **arguments nommés** (mots-clés) à une fonction.\n- Les arguments sont regroupés dans un **dictionnaire**.\n\n#### Exemple avec `**kwargs` :\n```python\ndef ma_fonction(**kwargs):\n    for cle, valeur in kwargs.items():\n        print(f\"{cle} : {valeur}\")\n\nma_fonction(nom=\"Alice\", age=25, ville=\"Paris\")\n```\n**Sortie :**\n```\nnom : Alice\nage : 25\nville : Paris\n```\n\n### Combinaison de `*args` et `**kwargs`\nOn peut aussi les utiliser ensemble dans une même fonction.\n\n#### Exemple combiné :\n```python\ndef ma_fonction(*args, **kwargs):\n    print(\"Arguments positionnels :\", args)\n    print(\"Arguments nommés :\", kwargs)\n\nma_fonction(1, 2, 3, nom=\"Bob\", age=30)\n```\n**Sortie :**\n```\nArguments positionnels : (1, 2, 3)\nArguments nommés : {'nom': 'Bob', 'age': 30}\n```\n\n### Utilité\n- `*args` et `**kwargs` sont très utiles pour créer des fonctions flexibles, comme des décorateurs ou des wrappers.\n- Ils permettent aussi de rediriger des arguments vers d'autres fonctions (par exemple, dans les classes ou les fonctions d'ordre supérieur).\n\nSi tu veux un exemple plus concret ou une explication supplémentaire, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:24:10.4435951+02:00",
+  "durationSeconds": 9.51,
+  "stats": "mistral-small3.2:latest · 523 + 479 tokens · 9,5 s",
+  "isError": false,
+  "language": "FR"
+}

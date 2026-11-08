@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-modele-de-raisonnement",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Modèle de raisonnement",
+  "includedEntities": [
+    {
+      "entityName": "raisonnement",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "chaîne de pensée",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "modèle",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les modèles qui raisonnent par étapes avant de répondre.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "OpenAI o3",
+    "DeepSeek R1",
+    "Claude"
+  ],
+  "questions": [
+    "Quels progrès en mathématiques ?",
+    "Quel coût de calcul ?",
+    "Le raisonnement est-il fiable ?"
+  ],
+  "tags": [
+    "#IA",
+    "#RAISONNEMENT",
+    "#LLM"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!NOUVEAUTE"
+  ],
+  "isDeleted": false
+}

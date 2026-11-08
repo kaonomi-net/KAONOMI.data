@@ -1,0 +1,13 @@
+{
+  "index": 331,
+  "file": "0331-ia-llm-explique-le-prompt-engineering-de-facon.prompt.json",
+  "prompt": "Explique le prompt engineering de façon simple.",
+  "promptWords": 7,
+  "completion": "Le **prompt engineering** est l'art de formuler des questions ou des instructions de manière claire et précise pour obtenir la meilleure réponse possible d'un modèle de langage comme moi.\n\nImagine que tu demandes à un ami de te recommander un restaurant. Si tu dis simplement *\"Trouve-moi un bon restaurant\"*, il pourrait te proposer n'importe quoi. Mais si tu précises *\"Trouve-moi un bon restaurant italien près de chez moi, avec des options végétariennes\"*, tu auras une réponse plus adaptée à tes besoins.\n\nAvec le prompt engineering, c'est la même logique :\n- **Sois clair** : Évite les ambiguïtés.\n- **Sois précis** : Donne des détails pour guider la réponse.\n- **Sois concis** : Va à l'essentiel pour des résultats plus pertinents.\n\nPar exemple, au lieu de demander *\"Parle-moi de l'histoire\"*, tu pourrais dire *\"Résume en 3 points clés l'histoire de la Révolution française\"*.\n\nEn résumé, le prompt engineering, c'est comme bien poser une question pour obtenir exactement la réponse que tu cherches ! \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:25:34.3806315+02:00",
+  "durationSeconds": 4.82,
+  "stats": "mistral-small3.2:latest · 516 + 233 tokens · 4,8 s",
+  "isError": false,
+  "language": "FR"
+}

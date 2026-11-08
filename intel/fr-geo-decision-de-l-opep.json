@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-decision-de-l-opep",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Décision de l'OPEP+",
+  "includedEntities": [
+    {
+      "entityName": "OPEP",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "production",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "pétrole",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les décisions de production des pays exportateurs de pétrole.",
+  "isFuzzy": true,
+  "locations": [
+    "Vienne",
+    "Riyad"
+  ],
+  "times": [
+    "réunion ministérielle"
+  ],
+  "relatedEntities": [
+    "Arabie saoudite",
+    "Russie",
+    "quotas"
+  ],
+  "questions": [
+    "Quelle baisse ou hausse de production ?",
+    "Quel impact sur les prix ?",
+    "Quels désaccords ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ENERGIE",
+    "#OPEP"
+  ],
+  "events": [
+    "@DECISION-OPEP"
+  ],
+  "signals": [
+    "!PRIX-ENERGIE"
+  ],
+  "isDeleted": false
+}

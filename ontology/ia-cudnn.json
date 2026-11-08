@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (le calcul accéléré) : Bibliothèque de NVIDIA de primitives optimisées pour les réseaux de neurones profonds sur GPU.",
+  "id": "ia-cudnn",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "cuDNN",
+  "entityType": "SOFTWARE",
+  "description": "Bibliothèque de NVIDIA de primitives optimisées pour les réseaux de neurones profonds sur GPU.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé cuDNN avec d'autres outils du calcul accéléré.",
+    "cuDNN figure parmi les logiciels marquants du calcul accéléré.",
+    "En atelier, les élèves ont découvert cuDNN et ses possibilités."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "CUDA Deep Neural Network library"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#CALCULACCELERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=cuDNN"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "TensorFlow",
+    "PyTorch",
+    "CUDA"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-01-01T00:00:00",
+  "endDate": null
+}

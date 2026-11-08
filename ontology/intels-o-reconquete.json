@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-reconquete",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "Reconquête",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 4 intels : Ralliements au RN ; Reconquête et Éric Zemmour ; Marion Maréchal ; Sarah Knafo.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les personnalités qui rejoignent ou soutiennent le RN.",
+    "Suivre la candidature et les positions d'Éric Zemmour.",
+    "Suivre le rôle de Marion Maréchal dans la campagne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Reconquête",
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#RECONQUETE",
+    "#RN",
+    "#CAMPAGNE",
+    "#DROITE"
+  ],
+  "events": [
+    "@RALLIEMENT",
+    "@CANDIDATURE"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Marion Maréchal",
+    "RN",
+    "Éric Zemmour",
+    "Parlement européen",
+    "Rassemblement national",
+    "ralliement",
+    "anciens ministres",
+    "élus",
+    "Paris",
+    "sondages"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

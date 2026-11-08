@@ -1,0 +1,13 @@
+{
+  "index": 338,
+  "file": "0338-ia-llm-quelles-sont-les-bonnes-pratiques-concernant.prompt.json",
+  "prompt": "Quelles sont les bonnes pratiques concernant la fenêtre de contexte ?",
+  "promptWords": 11,
+  "completion": "La fenêtre de contexte est un élément essentiel dans les conversations avec les assistants virtuels comme moi. Voici quelques bonnes pratiques à suivre pour optimiser son utilisation :\n\n1. **Clarté et concision** : Soyez clair et concis dans vos demandes. Plus votre question est précise, plus je pourrai vous fournir une réponse pertinente.\n\n2. **Contexte suffisant** : Fournissez suffisamment de contexte pour que je comprenne bien votre demande. Par exemple, si vous posez une question technique, précisez le domaine ou le sujet spécifique.\n\n3. **Évitez les ambiguïtés** : Si votre question peut être interprétée de différentes manières, précisez ce que vous attendez. Par exemple, si vous demandez des informations sur un événement, précisez la date ou le lieu.\n\n4. **Mise à jour du contexte** : Si la conversation dérive vers un autre sujet, n'hésitez pas à reformuler ou à préciser votre demande pour recentrer le contexte.\n\n5. **Utilisation des outils** : Si votre question nécessite des informations spécifiques ou à jour, je peux utiliser des outils pour vous fournir une réponse plus précise. Assurez-vous de fournir suffisamment de détails pour que je puisse utiliser ces outils efficacement.\n\n6. **Feedback** : Si ma réponse ne correspond pas à ce que vous attendiez, n'hésitez pas à me le faire savoir et à fournir des informations supplémentaires pour clarifier votre demande.\n\nEn suivant ces bonnes pratiques, vous pouvez aider à garantir que vos interactions avec moi sont aussi efficaces et productives que possible.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:26:28.4144467+02:00",
+  "durationSeconds": 6.75,
+  "stats": "mistral-small3.2:latest · 519 + 331 tokens · 6,8 s",
+  "isError": false,
+  "language": "FR"
+}

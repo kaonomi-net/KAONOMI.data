@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (l'action pour le climat) : Ensemble de propositions législatives pour réduire les émissions nettes d'au moins 55 % d'ici à 2030.",
+  "id": "eu-pol-fit-for-55",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Paquet « Ajustement à l'objectif 55 »",
+  "entityType": "LAW",
+  "description": "Ensemble de propositions législatives pour réduire les émissions nettes d'au moins 55 % d'ici à 2030.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Paquet « Ajustement à l'objectif 55 » ».",
+    "La mise en œuvre de « Paquet « Ajustement à l'objectif 55 » » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Paquet « Ajustement à l'objectif 55 » »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "Fit for 55"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#ACTIONPOURCLIMAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Paquet%20%C2%AB%20Ajustement%20%C3%A0%20l%27objectif%2055%20%C2%BB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Action pour le climat",
+    "Énergie",
+    "Direction générale de l'action pour le climat",
+    "Commission von der Leyen I",
+    "Loi européenne sur le climat",
+    "Système d'échange de quotas d'émission de l'UE",
+    "Fonds social pour le climat"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-07-14T00:00:00",
+  "endDate": null
+}

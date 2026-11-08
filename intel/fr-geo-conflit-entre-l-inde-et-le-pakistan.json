@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-conflit-entre-l-inde-et-le-pakistan",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Conflit entre l'Inde et le Pakistan",
+  "includedEntities": [
+    {
+      "entityName": "Inde",
+      "entityWeight": "35"
+    },
+    {
+      "entityName": "Pakistan",
+      "entityWeight": "35"
+    },
+    {
+      "entityName": "Cachemire",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les tensions entre deux puissances nucléaires autour du Cachemire.",
+  "isFuzzy": true,
+  "locations": [
+    "Cachemire",
+    "ligne de contrôle"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "attentat",
+    "frappes",
+    "armes nucléaires"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quelle riposte ?",
+    "Quelle médiation ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#INDE",
+    "#PAKISTAN",
+    "#NUCLEAIRE"
+  ],
+  "events": [
+    "@INCIDENT-FRONTALIER"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-sirene",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'alarme qui annonce un danger.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sir[èe]ne(s)?\\s+d['’]alerte)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:alerte(s)?\\s+a[ée]rienne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:alerte(s)?\\s+g[ée]n[ée]rale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sir[èe]ne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:abri(s)?\\s+anti-a[ée]rien(s)?)(?![\\w-])"
+  ],
+  "symbol": "sirène",
+  "event": null,
+  "title": "Sirène",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

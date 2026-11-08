@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-aimants",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "aimants",
+  "entityType": "HARDWARE",
+  "description": "Cité par 3 intels : Terres rares et métaux critiques ; Terres rares et métaux critiques ; Terres rares et dépendance à la Chine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre la concurrence pour les terres rares et métaux stratégiques.",
+    "Suivre les prix et l'offre des métaux critiques.",
+    "Suivre les restrictions chinoises sur les terres rares et la réponse européenne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "aimants",
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#TERRES-RARES",
+    "#GEOPOLITIQUE",
+    "#UNION-EUROPEENNE",
+    "#CHINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEPENDANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "terres rares",
+    "Chine",
+    "métaux critiques",
+    "Groenland",
+    "Afrique",
+    "exportations",
+    "batteries",
+    "restrictions",
+    "Pékin",
+    "stocks"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

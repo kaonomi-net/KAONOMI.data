@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-chomeur",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne sans emploi.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ch[ôo]meu(r|rs|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inscrit(e|s|es)?\\s+[àa]\\s+p[ôo]le\\s+emploi)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inscrit(e|s|es)?\\s+[àa]\\s+france\\s+travail)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sans\\s+travail)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:au\\s+ch[ôo]mage)(?![\\w-])"
+  ],
+  "symbol": "chômeur",
+  "event": null,
+  "title": "Chômeur",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

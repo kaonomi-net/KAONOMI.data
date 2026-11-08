@@ -1,0 +1,13 @@
+{
+  "index": 387,
+  "file": "0387-ia-agentique-comment-deboguer-un-agent-ia-qui.prompt.json",
+  "prompt": "Comment déboguer un agent IA qui boucle ou se trompe d'outil ?",
+  "promptWords": 12,
+  "completion": "Déboguer un agent IA qui boucle ou utilise le mauvais outil peut être un défi, mais voici quelques étapes pour identifier et résoudre ces problèmes :\n\n### 1. **Identifier le problème**\n   - **Bouclage** : L'agent utilise le même outil de manière répétitive sans progresser.\n   - **Mauvais outil** : L'agent choisit un outil inapproprié pour la tâche.\n\n### 2. **Analyser les logs et les traces**\n   - Examinez les logs de l'agent pour voir la séquence des appels d'outils et les entrées/sorties.\n   - Identifiez où l'agent commence à boucler ou à utiliser le mauvais outil.\n\n### 3. **Vérifier les règles de sélection des outils**\n   - Assurez-vous que les critères de sélection des outils sont clairs et précis.\n   - Vérifiez que l'agent a accès à tous les outils nécessaires et qu'ils sont correctement configurés.\n\n### 4. **Tester les outils individuellement**\n   - Testez chaque outil séparément pour vous assurer qu'ils fonctionnent comme prévu.\n   - Vérifiez que les outils ne retournent pas de résultats inattendus ou erronés.\n\n### 5. **Ajouter des contraintes ou des limites**\n   - Limitez le nombre de fois qu'un outil peut être utilisé dans une boucle.\n   - Ajoutez des vérifications pour éviter les appels redondants.\n\n### 6. **Améliorer la logique de l'agent**\n   - Revoyez la logique de l'agent pour vous assurer qu'il comprend bien la tâche et choisit les outils appropriés.\n   - Ajoutez des étapes de validation ou de confirmation avant d'utiliser un outil.\n\n### 7. **Utiliser des outils de débogage**\n   - Utilisez des outils de débogage ou des environnements de test pour simuler des scénarios et observer le comportement de l'agent.\n\n### 8. **Mettre à jour les données d'entraînement**\n   - Si l'agent utilise des données d'entraînement, assurez-vous qu'elles sont à jour et pertinentes.\n\n### 9. **Consulter la documentation**\n   - Consultez la documentation des outils et de l'agent pour voir s'il y a des limitations ou des comportements connus.\n\n### 10. **Demander de l'aide**\n   - Si le problème persiste, consultez les forums de support ou contactez le support technique pour obtenir de l'aide.\n\nEn suivant ces étapes, vous devriez être en mesure d'identifier et de résoudre les problèmes de bouclage ou de mauvais outil dans votre agent IA.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:35:50.2905513+02:00",
+  "durationSeconds": 11.33,
+  "stats": "mistral-small3.2:latest · 524 + 564 tokens · 11,3 s",
+  "isError": false,
+  "language": "FR"
+}

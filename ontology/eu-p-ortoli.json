@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la présidence de la Commission) : Haut fonctionnaire et ancien ministre français de l'Économie et des Finances, président de la Commission de 1973 à 1977.",
+  "id": "eu-p-ortoli",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "François-Xavier Ortoli",
+  "entityType": "PERSON",
+  "description": "Haut fonctionnaire et ancien ministre français de l'Économie et des Finances, président de la Commission de 1973 à 1977.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-presidents-commission",
+  "sentencesExemples": [
+    "Le portrait de François-Xavier Ortoli figure dans le dossier consacré à la présidence de la Commission.",
+    "La presse européenne a longuement commenté le parcours de François-Xavier Ortoli.",
+    "Les manuels sur les institutions européennes citent François-Xavier Ortoli."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Ortoli"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PRESIDENCECOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fran%C3%A7ois-Xavier%20Ortoli"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission Ortoli",
+    "nationalité française",
+    "Haut fonctionnaire national",
+    "Ministre des Finances",
+    "Président de la Commission européenne",
+    "Présidence de la Commission (Commission Ortoli)",
+    "Communication et présidence"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

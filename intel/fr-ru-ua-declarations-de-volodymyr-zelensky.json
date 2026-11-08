@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-declarations-de-volodymyr-zelensky",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Déclarations de Volodymyr Zelensky",
+  "includedEntities": [
+    {
+      "entityName": "Zelensky",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "déclaration",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les déclarations du président ukrainien.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "discours du soir",
+    "négociations",
+    "alliés"
+  ],
+  "questions": [
+    "Quel message ?",
+    "Quelle demande aux alliés ?",
+    "Quelle position sur la paix ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ZELENSKY"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

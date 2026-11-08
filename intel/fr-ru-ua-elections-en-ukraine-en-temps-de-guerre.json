@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-elections-en-ukraine-en-temps-de-guerre",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Élections en Ukraine en temps de guerre",
+  "includedEntities": [
+    {
+      "entityName": "élections",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "loi martiale",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur la tenue d'élections pendant la guerre.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Zelensky",
+    "Fedorov",
+    "sondages"
+  ],
+  "questions": [
+    "Une élection est-elle envisagée ?",
+    "Quelle position de Zelensky ?",
+    "Que veulent les Ukrainiens ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ELECTIONS",
+    "#DEMOCRATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

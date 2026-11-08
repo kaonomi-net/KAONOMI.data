@@ -1,0 +1,13 @@
+{
+  "index": 122,
+  "file": "0122-microsoft-office-how-do-i-remove-duplicates-from.prompt.json",
+  "prompt": "How do I remove duplicates from a list in Excel?",
+  "promptWords": 10,
+  "completion": "To remove duplicates from a list in Excel, you can use the \"Remove Duplicates\" feature. Here’s how to do it:\n\n### Steps to Remove Duplicates:\n1. **Select the Data Range**:\n   - Click and drag to highlight the column or range of cells that contains the data you want to check for duplicates.\n\n2. **Go to the Data Tab**:\n   - In the Excel ribbon, click on the **Data** tab.\n\n3. **Click \"Remove Duplicates\"**:\n   - In the **Data Tools** group, click on **Remove Duplicates**. This will open the **Remove Duplicates** dialog box.\n\n4. **Choose Columns to Check**:\n   - In the dialog box, Excel will automatically select the column(s) you’ve highlighted. If you want to check for duplicates across multiple columns, make sure all relevant columns are selected.\n\n5. **Click \"OK\"**:\n   - Click **OK** to remove the duplicates. Excel will display a message telling you how many duplicates were removed and how many unique values remain.\n\n### Example:\nIf you have a list of names in column A and want to remove duplicate names:\n1. Select column A.\n2. Go to **Data** > **Remove Duplicates**.\n3. Click **OK**.\n\nExcel will keep one instance of each unique name and remove the duplicates.\n\n### Note:\n- This action cannot be undone using the Undo button (Ctrl+Z), so it’s a good idea to back up your data or work on a copy of your spreadsheet before removing duplicates.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:26:00.1654658+02:00",
+  "durationSeconds": 8.45,
+  "stats": "mistral-small3.2:latest · 518 + 316 tokens · 8,4 s",
+  "isError": false,
+  "language": "EN"
+}

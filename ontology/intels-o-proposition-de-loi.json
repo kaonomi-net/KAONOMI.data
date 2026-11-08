@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-proposition-de-loi",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "proposition de loi",
+  "entityType": "LAW",
+  "description": "Cité par 1 intel : Propositions de loi adoptées.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre les propositions de loi votées par le Parlement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "proposition de loi",
+  "tags": [
+    "#FRANCE",
+    "#PARLEMENT",
+    "#LOI"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "vote",
+    "niche parlementaire",
+    "adoptée",
+    "Parlement",
+    "groupes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

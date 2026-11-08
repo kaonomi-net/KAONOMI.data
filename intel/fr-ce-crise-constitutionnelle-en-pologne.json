@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-crise-constitutionnelle-en-pologne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Crise constitutionnelle en Pologne",
+  "includedEntities": [
+    {
+      "entityName": "Pologne",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "crise constitutionnelle",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Tribunal constitutionnel",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le conflit entre le président Nawrocki et le gouvernement Tusk.",
+  "isFuzzy": true,
+  "locations": [
+    "Varsovie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Karol Nawrocki",
+    "Donald Tusk",
+    "von der Leyen"
+  ],
+  "questions": [
+    "Quelle escalade ?",
+    "Quelle position de la Commission ?",
+    "Quelle issue ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#POLOGNE",
+    "#ETAT-DE-DROIT"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

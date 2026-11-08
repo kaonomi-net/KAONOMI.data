@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-saisie",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La confiscation de biens pour dettes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:saisie(s)?\\s+(sur\\s+salaire|immobili[èe]re|des\\s+biens)|saisie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:confiscation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:biens\\s+saisis)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vente\\s+aux\\s+ench[èe]res\\s+forc[ée]e)(?![\\w-])"
+  ],
+  "symbol": "saisie",
+  "event": null,
+  "title": "Saisie",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

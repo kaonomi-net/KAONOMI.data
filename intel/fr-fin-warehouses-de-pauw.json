@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-warehouses-de-pauw",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Warehouses De Pauw",
+  "includedEntities": [
+    {
+      "entityName": "Warehouses De Pauw",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "WDP",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action WDP et l'immobilier logistique.",
+  "isFuzzy": false,
+  "locations": [
+    "Wolvertem"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "entrepôts",
+    "taux",
+    "centres de données"
+  ],
+  "questions": [
+    "Quel résultat ?",
+    "Quel projet ?",
+    "Quel effet des taux ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#IMMOBILIER"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

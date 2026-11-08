@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-climat-et-transition-ecologique",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Climat et transition écologique",
+  "includedEntities": [
+    {
+      "entityName": "transition écologique",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "climat",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "écologie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les politiques climatiques et leur place dans la campagne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ZFE",
+    "rénovation",
+    "planification"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel recul ?",
+    "Quelles promesses ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#CLIMAT",
+    "#ECOLOGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-neuralink",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "Neuralink",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Interfaces cerveau-machine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les interfaces cerveau-machine et leurs enjeux."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Neuralink",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#NEUROTECH"
+  ],
+  "events": [
+    "@ANNONCE"
+  ],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "implant",
+    "paralysie",
+    "interface cerveau-machine",
+    "Clinatec"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

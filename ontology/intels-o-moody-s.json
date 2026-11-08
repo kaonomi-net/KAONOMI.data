@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-moody-s",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "Moody's",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Note de Moody's ; Notation souveraine de la France.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre la note de Moody's, Aa3 avec perspective négative depuis octobre 2026.",
+    "Suivre les décisions des agences de notation sur la France."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Moody's",
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#NOTATION"
+  ],
+  "events": [
+    "@DECISION-NOTATION",
+    "@NOTATION"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "note",
+    "perspective négative",
+    "dégradation",
+    "budget",
+    "Paris",
+    "Fitch",
+    "S&P",
+    "notation",
+    "France"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

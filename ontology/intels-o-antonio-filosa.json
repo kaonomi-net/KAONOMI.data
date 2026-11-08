@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-antonio-filosa",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Antonio Filosa",
+  "entityType": "PERSON",
+  "description": "Cité par 1 intel : Stellantis.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre l'action Stellantis et son redressement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Antonio Filosa",
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#AUTOMOBILE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESTRUCTURATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "États-Unis",
+    "Stellantis",
+    "Amsterdam",
+    "droits de douane",
+    "automobile"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

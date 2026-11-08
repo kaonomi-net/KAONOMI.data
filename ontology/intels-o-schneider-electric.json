@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-schneider-electric",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "Schneider Electric",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Schneider Electric.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'action Schneider Electric, portée par l'électrification et les centres de données."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Schneider Electric",
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#IA"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "réseaux électriques",
+    "prévisions",
+    "IA",
+    "centres de données"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

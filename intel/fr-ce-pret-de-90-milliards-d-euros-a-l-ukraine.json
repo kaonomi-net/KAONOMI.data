@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-pret-de-90-milliards-d-euros-a-l-ukraine",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Prêt de 90 milliards d'euros à l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "90 milliards",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "prêt",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le prêt européen de 90 milliards d'euros à l'Ukraine pour 2026 et 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "budget européen",
+    "tranches",
+    "conditions"
+  ],
+  "questions": [
+    "Quelles tranches versées ?",
+    "Quelles conditions ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#UKRAINE",
+    "#FINANCEMENT"
+  ],
+  "events": [
+    "@VERSEMENT"
+  ],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

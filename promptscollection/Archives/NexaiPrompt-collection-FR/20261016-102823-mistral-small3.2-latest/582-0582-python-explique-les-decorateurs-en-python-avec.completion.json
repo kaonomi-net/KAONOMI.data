@@ -1,0 +1,13 @@
+{
+  "index": 582,
+  "file": "0582-python-explique-les-decorateurs-en-python-avec.prompt.json",
+  "prompt": "Explique les décorateurs en Python avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "Les décorateurs en Python sont une fonctionnalité puissante qui permet de modifier ou d'étendre le comportement d'une fonction ou d'une méthode sans changer son code source. Un décorateur est une fonction qui prend une autre fonction en argument, ajoute une certaine fonctionnalité, et retourne une nouvelle fonction.\n\nVoici un exemple simple pour illustrer le concept de décorateur :\n\n```python\ndef mon_decorateur(fonction):\n    def wrapper():\n        print(\"Avant l'exécution de la fonction\")\n        fonction()\n        print(\"Après l'exécution de la fonction\")\n    return wrapper\n\n@mon_decorateur\ndef ma_fonction():\n    print(\"Exécution de ma_fonction\")\n\nma_fonction()\n```\n\nExplication :\n1. `mon_decorateur` est une fonction qui prend une autre fonction (`fonction`) en argument.\n2. `wrapper` est une fonction interne qui ajoute du comportement avant et après l'appel de `fonction`.\n3. Le `@mon_decorateur` est la syntaxe pour appliquer le décorateur à `ma_fonction`.\n4. Quand `ma_fonction()` est appelée, elle est en réalité exécutée via `wrapper`.\n\nSortie attendue :\n```\nAvant l'exécution de la fonction\nExécution de ma_fonction\nAprès l'exécution de la fonction\n```\n\nLes décorateurs sont très utiles pour des tâches comme le logging, le timing, la gestion des erreurs, etc.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:22:23.6476619+02:00",
+  "durationSeconds": 6.14,
+  "stats": "mistral-small3.2:latest · 519 + 304 tokens · 6,1 s",
+  "isError": false,
+  "language": "FR"
+}

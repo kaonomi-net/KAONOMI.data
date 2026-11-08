@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-melania-trump",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "Melania Trump",
+  "entityType": "PERSON",
+  "description": "Cité par 2 intels : Cessez-le-feu local d'Olechky ; Rôle de Melania Trump.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre la trêve locale d'Olechky et l'évacuation des habitants.",
+    "Suivre le rôle de Melania Trump dans les initiatives humanitaires et de trêve."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Melania Trump",
+  "tags": [
+    "#CESSEZ-LE-FEU",
+    "#UKRAINE",
+    "#KHERSON",
+    "#ETATS-UNIS",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@TREVE"
+  ],
+  "signals": [
+    "!DESESCALADE",
+    "!HUMANITAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Olechky",
+    "cessez-le-feu",
+    "évacuation",
+    "rive gauche du Dniepr",
+    "Kherson",
+    "Maison Blanche",
+    "enfants",
+    "Washington"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

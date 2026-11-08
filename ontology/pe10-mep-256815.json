@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Slovénie.",
+  "id": "pe10-mep-256815",
+  "dateCreated": "2026-10-31 20:22:44",
+  "name": "Marjan Šarec",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Slovénie. Groupe politique : Renew Europe. Parti ou liste national : Gibanje Svoboda.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Marjan Šarec siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Marjan Šarec figure dans le relevé des votes par appel nominal.",
+    "Marjan Šarec participe aux travaux des commissions parlementaires."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Marjan ŠAREC"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256815",
+    "https://fr.wikipedia.org/w/index.php?search=Marjan%20%C5%A0arec"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Slovénie",
+    "Parlement européen",
+    "Renew Europe",
+    "Mouvement Liberté (Gibanje Svoboda)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

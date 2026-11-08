@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ecologistes",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "écologistes",
+  "entityType": "NORP",
+  "description": "Cité par 3 intels : Primaire de la gauche ; Union de la gauche ; Score de la gauche dans les sondages.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-norp",
+  "sentencesExemples": [
+    "Suivre l'organisation et les résultats d'une primaire à gauche.",
+    "Suivre les tentatives d'union ou les divisions de la gauche.",
+    "Suivre le score cumulé et dispersé des candidats de gauche."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "écologistes",
+  "tags": [
+    "#FRANCE",
+    "#GAUCHE",
+    "#PRESIDENTIELLE-2027",
+    "#SONDAGES"
+  ],
+  "events": [
+    "@PRIMAIRE"
+  ],
+  "signals": [
+    "!CAMPAGNE",
+    "!STRATEGIE",
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "PS",
+    "gauche",
+    "LFI",
+    "primaire",
+    "union de la gauche",
+    "Nouveau Front populaire",
+    "Glucksmann",
+    "Mélenchon",
+    "intentions de vote",
+    "sondage"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

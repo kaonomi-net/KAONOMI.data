@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique commerciale) : Direction générale du commerce et de la sécurité économique (DG TRADE), service de la Commission européenne compétent pour la politique commerciale, la sécurité économique, placé sous l'autorité de Maroš Šefčovič dans la Commission von der Leyen II.",
+  "id": "eu-dg-trade",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale du commerce et de la sécurité économique",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale du commerce et de la sécurité économique (DG TRADE), service de la Commission européenne compétent pour la politique commerciale, la sécurité économique, placé sous l'autorité de Maroš Šefčovič dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "« Direction générale du commerce et de la sécurité économique » joue un rôle dans la politique commerciale.",
+    "Les fonctionnaires de « Direction générale du commerce et de la sécurité économique » préparent les textes relatifs à la politique commerciale.",
+    "La délégation a rencontré des représentants de « Direction générale du commerce et de la sécurité économique »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG TRADE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUECOMMERCIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20du%20commerce%20et%20de%20la%20s%C3%A9curit%C3%A9%20%C3%A9conomique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Maroš Šefčovič",
+    "Commerce",
+    "Sécurité économique",
+    "Accord de commerce et de coopération entre l'UE et le Royaume-Uni",
+    "Conclusion des négociations UE-Mercosur",
+    "Accord commercial UE–États-Unis de Turnberry"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

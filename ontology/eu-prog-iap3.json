@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (l'élargissement) : Soutien aux pays candidats dans leurs réformes.",
+  "id": "eu-prog-iap3",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Instrument d'aide de préadhésion III",
+  "entityType": "PROGRAMME",
+  "description": "Soutien aux pays candidats dans leurs réformes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "« Instrument d'aide de préadhésion III » finance des projets dans l'élargissement.",
+    "Le projet a reçu un financement de « Instrument d'aide de préadhésion III ».",
+    "Le bilan de « Instrument d'aide de préadhésion III » a été présenté au Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "IAP III"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Instrument%20d%27aide%20de%20pr%C3%A9adh%C3%A9sion%20III"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de l'élargissement et du voisinage oriental",
+    "Élargissement",
+    "Cadre financier pluriannuel 2021-2027"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-01-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

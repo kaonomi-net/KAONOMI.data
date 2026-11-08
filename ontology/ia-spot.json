@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (la robotique) : Robot quadrupède agile de Boston Dynamics, commercialisé à partir de 2019 pour l'inspection industrielle.",
+  "id": "ia-spot",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Boston Dynamics Spot",
+  "entityType": "HARDWARE",
+  "description": "Robot quadrupède agile de Boston Dynamics, commercialisé à partir de 2019 pour l'inspection industrielle.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Lors du salon, le stand présentait Boston Dynamics Spot en démonstration.",
+    "Le laboratoire utilise Boston Dynamics Spot pour ses travaux dans le domaine de la robotique.",
+    "Le technicien a installé Boston Dynamics Spot dans la salle des machines."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Spot"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#ROBOTIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Boston%20Dynamics%20Spot"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ASIMO"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-01-01T00:00:00",
+  "endDate": null
+}

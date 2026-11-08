@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-mise-en-vente-de-bases-de-donnees",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Mise en vente de bases de données",
+  "includedEntities": [
+    {
+      "entityName": "base de données",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "mise en vente",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les bases de données volées mises en vente.",
+  "isFuzzy": true,
+  "locations": [
+    "dark web"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "prix",
+    "échantillons",
+    "authenticité"
+  ],
+  "questions": [
+    "Quelle base ?",
+    "Quel prix ?",
+    "Est-elle authentique ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DARK-WEB",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

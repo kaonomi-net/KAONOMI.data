@@ -1,0 +1,13 @@
+{
+  "index": 111,
+  "file": "0111-microsoft-office-how-do-i-insert-an-automatic.prompt.json",
+  "prompt": "How do I insert an automatic bibliography in Word?",
+  "promptWords": 9,
+  "completion": "To insert an automatic bibliography in Microsoft Word, you can use the built-in citation and bibliography features. Here’s how to do it:\n\n### Steps to Insert an Automatic Bibliography in Word:\n\n1. **Add Citations:**\n   - Place your cursor where you want to insert the citation.\n   - Go to the **References** tab on the Ribbon.\n   - Click on **Insert Citation** and then choose **Add New Source**.\n   - Fill in the details of the source (e.g., book, article, website) and click **OK**.\n\n2. **Generate the Bibliography:**\n   - Place your cursor where you want the bibliography to appear (usually at the end of the document).\n   - Go to the **References** tab.\n   - Click on **Bibliography** and choose a style (e.g., APA, MLA, Chicago).\n\n### Notes:\n- The bibliography will automatically update as you add or remove citations.\n- You can change the bibliography style at any time by clicking on the bibliography and selecting a different style from the **References** tab.\n\nIf you need more specific instructions or are using a different version of Word, please let me know!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:24:01.3565318+02:00",
+  "durationSeconds": 6.17,
+  "stats": "mistral-small3.2:latest · 517 + 241 tokens · 6,2 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (les accélérateurs d'IA) : Quatrième génération de TPU, assemblée en pods de 4 096 puces reliées par des commutateurs optiques.",
+  "id": "ia-tpu-v4",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Google TPU v4",
+  "entityType": "HARDWARE",
+  "description": "Quatrième génération de TPU, assemblée en pods de 4 096 puces reliées par des commutateurs optiques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Lors du salon, le stand présentait Google TPU v4 en démonstration.",
+    "Le laboratoire utilise Google TPU v4 pour ses travaux dans le domaine des accélérateurs d'IA.",
+    "Le technicien a installé Google TPU v4 dans la salle des machines."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "TPU v4"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#ACCELERATEURSIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Google%20TPU%20v4"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "JAX",
+    "Google TPU v1"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-01-01T00:00:00",
+  "endDate": null
+}

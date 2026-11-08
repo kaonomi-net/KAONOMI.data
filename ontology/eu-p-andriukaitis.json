@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la santé publique) : Chirurgien, ancien ministre lituanien de la Santé, commissaire à la Santé et à la Sécurité alimentaire de 2014 à 2019.",
+  "id": "eu-p-andriukaitis",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Vytenis Andriukaitis",
+  "entityType": "PERSON",
+  "description": "Chirurgien, ancien ministre lituanien de la Santé, commissaire à la Santé et à la Sécurité alimentaire de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Le portrait de Vytenis Andriukaitis figure dans le dossier consacré à la santé publique.",
+    "La presse européenne a longuement commenté le parcours de Vytenis Andriukaitis.",
+    "Les manuels sur les institutions européennes citent Vytenis Andriukaitis."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Andriukaitis"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Vytenis%20Andriukaitis"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité lituanienne",
+    "Parti social-démocrate lituanien",
+    "Médecin",
+    "Ministre de la Santé",
+    "Commissaire européen",
+    "Santé et sécurité alimentaire (Commission Juncker)",
+    "Commission Juncker",
+    "Santé",
+    "Sécurité alimentaire"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

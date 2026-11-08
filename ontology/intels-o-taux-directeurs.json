@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-taux-directeurs",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "taux directeurs",
+  "entityType": "PRODUCT",
+  "description": "Cité par 2 intels : Banque centrale européenne et dette française ; Décision de la BCE sur les taux.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre le rôle de la BCE face aux tensions sur la dette française.",
+    "Suivre les décisions de politique monétaire de la Banque centrale européenne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "taux directeurs",
+  "tags": [
+    "#BCE",
+    "#FRANCE",
+    "#DETTE",
+    "#TAUX"
+  ],
+  "events": [
+    "@DECISION-TAUX"
+  ],
+  "signals": [
+    "!STABILITE",
+    "!POLITIQUE-MONETAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Francfort",
+    "BCE",
+    "TPI",
+    "rachats",
+    "dette",
+    "Christine Lagarde",
+    "inflation",
+    "taux de dépôt à 2,50 %",
+    "Lagarde"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

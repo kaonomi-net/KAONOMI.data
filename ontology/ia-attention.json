@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (le traitement du langage) : Mécanisme qui pondère dynamiquement les éléments d'une séquence selon leur pertinence, introduit pour la traduction automatique par Bahdanau, Cho et Bengio.",
+  "id": "ia-attention",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Mécanisme d'attention",
+  "entityType": "ALGORITHM",
+  "description": "Mécanisme qui pondère dynamiquement les éléments d'une séquence selon leur pertinence, introduit pour la traduction automatique par Bahdanau, Cho et Bengio.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Pour ce projet, l'équipe a implémenté Mécanisme d'attention en quelques lignes de Python.",
+    "Comprendre Mécanisme d'attention est une étape clé pour maîtriser le traitement du langage.",
+    "Dans le domaine du traitement du langage, Mécanisme d'attention reste une référence."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "attention neuronale"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#TRAITEMENTLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=M%C3%A9canisme%20d%27attention"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Yoshua Bengio",
+    "Transformeur"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-01-01T00:00:00",
+  "endDate": null
+}

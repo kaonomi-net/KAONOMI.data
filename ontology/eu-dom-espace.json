@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la politique spatiale) : Programmes spatiaux de l'Union : navigation, observation de la Terre et connectivité sécurisée.",
+  "id": "eu-dom-espace",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Espace",
+  "entityType": "DOMAIN",
+  "description": "Programmes spatiaux de l'Union : navigation, observation de la Terre et connectivité sécurisée.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Plusieurs commissaires ont été chargés du domaine « Espace ».",
+    "Le domaine « Espace » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Espace »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#POLITIQUESPATIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Espace"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conseil Compétitivité (COMPET)",
+    "Marché intérieur (Commission von der Leyen I)",
+    "Thierry Breton",
+    "Défense et espace (Commission von der Leyen II)",
+    "Andrius Kubilius",
+    "Direction générale de l'industrie de la défense et de l'espace",
+    "Agence de l'Union européenne pour le programme spatial (EUSPA)",
+    "Centre satellitaire de l'Union européenne (SatCen)",
+    "Copernicus",
+    "Galileo",
+    "IRIS²"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

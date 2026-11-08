@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-opinion-publique-sur-l-elargissement",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Opinion publique sur l'élargissement",
+  "includedEntities": [
+    {
+      "entityName": "opinion",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "élargissement",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sondage",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'opinion des Européens sur l'élargissement.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Eurobaromètre",
+    "Ukraine",
+    "Balkans"
+  ],
+  "questions": [
+    "Quel soutien ?",
+    "Quelles différences entre pays ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#OPINION"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

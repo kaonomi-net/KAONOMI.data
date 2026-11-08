@@ -1,0 +1,13 @@
+{
+  "index": 601,
+  "file": "0601-python-explique-la-serialisation-json-en-python.prompt.json",
+  "prompt": "Explique la sérialisation JSON en Python avec un exemple simple.",
+  "promptWords": 10,
+  "completion": "La sérialisation JSON en Python consiste à convertir des objets Python en une chaîne de caractères au format JSON (JavaScript Object Notation), et inversement. Cela permet de stocker ou de transmettre des données de manière structurée et lisible.\n\n### Exemple simple de sérialisation JSON en Python\n\n1. **Sérialisation (Python vers JSON)** :\n   Utilisez le module `json` pour convertir un dictionnaire Python en une chaîne JSON.\n\n```python\nimport json\n\n# Dictionnaire Python\ndata = {\n    \"nom\": \"Alice\",\n    \"age\": 30,\n    \"ville\": \"Paris\",\n    \"hobbies\": [\"lecture\", \"musique\", \"randonnée\"]\n}\n\n# Sérialisation en JSON\njson_data = json.dumps(data, ensure_ascii=False, indent=4)\n\nprint(\"Données JSON:\")\nprint(json_data)\n```\n\n**Sortie :**\n```json\n{\n    \"nom\": \"Alice\",\n    \"age\": 30,\n    \"ville\": \"Paris\",\n    \"hobbies\": [\n        \"lecture\",\n        \"musique\",\n        \"randonnée\"\n    ]\n}\n```\n\n2. **Désérialisation (JSON vers Python)** :\n   Convertissez une chaîne JSON en un dictionnaire Python.\n\n```python\n# Chaîne JSON\njson_string = '''\n{\n    \"nom\": \"Alice\",\n    \"age\": 30,\n    \"ville\": \"Paris\",\n    \"hobbies\": [\"lecture\", \"musique\", \"randonnée\"]\n}\n'''\n\n# Désérialisation en Python\npython_data = json.loads(json_string)\n\nprint(\"\\nDonnées Python:\")\nprint(python_data)\nprint(type(python_data))  # <class 'dict'>\n```\n\n**Sortie :**\n```python\nDonnées Python:\n{'nom': 'Alice', 'age': 30, 'ville': 'Paris', 'hobbies': ['lecture', 'musique', 'randonnée']}\n<class 'dict'>\n```\n\n### Explications :\n- `json.dumps()` : Convertit un objet Python en une chaîne JSON.\n  - `ensure_ascii=False` : Permet d'afficher correctement les caractères non-ASCII (comme les accents).\n  - `indent=4` : Affiche le JSON avec un indentage pour une meilleure lisibilité.\n- `json.loads()` : Convertit une chaîne JSON en un objet Python (ici, un dictionnaire).\n\n### Cas d'utilisation :\n- Stockage de données dans des fichiers (`.json`).\n- Transmission de données via des API (ex : requêtes HTTP).\n- Configuration d'applications.\n\nSi vous avez besoin d'autres exemples ou d'explications supplémentaires, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:25:38.3589844+02:00",
+  "durationSeconds": 11.38,
+  "stats": "mistral-small3.2:latest · 522 + 579 tokens · 11,4 s",
+  "isError": false,
+  "language": "FR"
+}

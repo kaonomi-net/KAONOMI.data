@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-otages",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "otages",
+  "entityType": "PROFESSION",
+  "description": "Cité par 3 intels : Conflit à Gaza ; Piraterie au large de la Somalie ; Iran et l'Union européenne.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre l'évolution du conflit à Gaza et la situation humanitaire.",
+    "Surveiller les actes de piraterie dans l'océan Indien.",
+    "Suivre la politique européenne envers l'Iran."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "otages",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#MOYEN-ORIENT",
+    "#GAZA",
+    "#CONFLIT",
+    "#MARITIME",
+    "#PIRATERIE"
+  ],
+  "events": [
+    "@EVOLUTION-CONFLIT",
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!HUMANITAIRE",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Hamas",
+    "Rafah",
+    "Égypte",
+    "Gaza",
+    "aide humanitaire",
+    "Israël",
+    "piraterie",
+    "navires marchands",
+    "golfe d'Aden",
+    "Somalie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 638,
+  "file": "0638-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre les dataclasses.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en Python qui illustre l'utilisation des dataclasses, introduites dans Python 3.7 via le module `dataclasses`. Les dataclasses permettent de définir des classes principalement utilisées pour stocker des données, en réduisant la quantité de code boilerplate.\n\n```python\nfrom dataclasses import dataclass\n\n@dataclass\nclass Personne:\n    nom: str\n    age: int\n    ville: str = \"Paris\"  # Valeur par défaut\n\n    def dire_bonjour(self):\n        return f\"Bonjour, je m'appelle {self.nom} et j'ai {self.age} ans.\"\n\n# Création d'une instance de Personne\npersonne1 = Personne(nom=\"Alice\", age=30)\n\n# Affichage de l'instance (grâce à __repr__ généré automatiquement)\nprint(personne1)  # Output: Personne(nom='Alice', age=30, ville='Paris')\n\n# Utilisation de la méthode\nprint(personne1.dire_bonjour())  # Output: Bonjour, je m'appelle Alice et j'ai 30 ans.\n\n# Création d'une autre instance avec la valeur par défaut\npersonne2 = Personne(nom=\"Bob\", age=25, ville=\"Lyon\")\nprint(personne2)  # Output: Personne(nom='Bob', age=25, ville='Lyon')\n```\n\n### Explications :\n1. **Définition de la dataclass** : Le décorateur `@dataclass` génère automatiquement des méthodes comme `__init__`, `__repr__`, `__eq__`, etc.\n2. **Champs** : Les champs `nom`, `age` et `ville` sont définis avec leurs types. `ville` a une valeur par défaut.\n3. **Méthode personnalisée** : La méthode `dire_bonjour` est ajoutée manuellement.\n4. **Création d'instances** : Les instances `personne1` et `personne2` sont créées avec et sans la valeur par défaut.\n\nLes dataclasses sont particulièrement utiles pour créer des objets simples et immuables (si on utilise `frozen=True` dans le décorateur).",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:36:13.5259192+02:00",
+  "durationSeconds": 9.65,
+  "stats": "mistral-small3.2:latest · 523 + 473 tokens · 9,6 s",
+  "isError": false,
+  "language": "FR"
+}

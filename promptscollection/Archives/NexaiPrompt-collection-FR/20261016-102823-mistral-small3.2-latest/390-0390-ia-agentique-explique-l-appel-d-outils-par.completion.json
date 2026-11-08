@@ -1,0 +1,13 @@
+{
+  "index": 390,
+  "file": "0390-ia-agentique-explique-l-appel-d-outils-par.prompt.json",
+  "prompt": "Explique l'appel d'outils par un agent de façon simple.",
+  "promptWords": 9,
+  "completion": "L'appel d'outils par un agent, c'est un peu comme quand tu demandes à un assistant (comme moi) de faire quelque chose pour toi, mais que je ne peux pas tout faire tout seul. Alors, j'utilise des \"outils\" pour obtenir des informations ou accomplir des tâches spécifiques.\n\nPar exemple, si tu me demandes la météo actuelle, je n'ai pas cette information directement dans ma base de connaissances. Alors, j'utilise un outil spécialisé pour aller chercher cette info en temps réel.\n\nEn résumé, c'est comme si je demandais à un expert de me donner un coup de main pour répondre à ta question de la manière la plus précise possible. \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:36:13.6506367+02:00",
+  "durationSeconds": 3.09,
+  "stats": "mistral-small3.2:latest · 522 + 146 tokens · 3,1 s",
+  "isError": false,
+  "language": "FR"
+}

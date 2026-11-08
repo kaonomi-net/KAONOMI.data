@@ -1,0 +1,13 @@
+{
+  "index": 130,
+  "file": "0130-microsoft-office-how-do-i-create-a-simple.prompt.json",
+  "prompt": "How do I create a simple VBA macro in Excel?",
+  "promptWords": 10,
+  "completion": "Creating a simple VBA (Visual Basic for Applications) macro in Excel involves a few straightforward steps. Here's a guide to help you get started:\n\n### Step 1: Open the VBA Editor\n1. **Open Excel**: Start by opening your Excel workbook.\n2. **Press Alt + F11**: This will open the VBA Editor (also known as the Visual Basic Editor).\n\n### Step 2: Insert a New Module\n1. In the VBA Editor, go to **Insert** > **Module**. This will create a new module where you can write your VBA code.\n\n### Step 3: Write Your VBA Code\n1. In the module, you can write your VBA code. Here's a simple example that displays a message box when run:\n\n```vba\nSub SimpleMacro()\n    MsgBox \"Hello, this is my first VBA macro!\"\nEnd Sub\n```\n\n### Step 4: Save Your Workbook\n1. **Save your workbook as a Macro-Enabled Workbook**: Go to **File** > **Save As**, and choose **Excel Macro-Enabled Workbook (*.xlsm)** from the dropdown menu. This ensures that your macros are saved with the workbook.\n\n### Step 5: Run Your Macro\n1. **Close the VBA Editor**: You can close the VBA Editor and return to your Excel workbook.\n2. **Run the Macro**:\n   - Press **Alt + F8** to open the \"Macro\" dialog box.\n   - Select your macro (e.g., `SimpleMacro`) and click **Run**.\n\n### Additional Tips\n- **Recording a Macro**: If you're new to VBA, you can start by recording a macro. Go to **View** > **Macros** > **Record Macro**, perform the actions you want to automate, and then stop the recording. Excel will generate the VBA code for you.\n- **Editing Macros**: You can always go back to the VBA Editor to edit or enhance your macros.\n\nWould you like help with a specific type of macro or have any other questions?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:27:28.274511+02:00",
+  "durationSeconds": 10.7,
+  "stats": "mistral-small3.2:latest · 518 + 420 tokens · 10,7 s",
+  "isError": false,
+  "language": "EN"
+}

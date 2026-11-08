@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-alzheimer",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "Alzheimer",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Maladie d'Alzheimer.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la recherche et les traitements contre la maladie d'Alzheimer."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Alzheimer",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ALZHEIMER",
+    "#NEUROLOGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "démence",
+    "donanémab",
+    "lécanémab",
+    "prévention"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

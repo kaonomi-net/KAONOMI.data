@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-rapports-de-l-onu-sur-les-droits-humains",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Rapports de l'ONU sur les droits humains",
+  "includedEntities": [
+    {
+      "entityName": "rapport",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "ONU",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "droits humains",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les rapports onusiens sur la guerre.",
+  "isFuzzy": true,
+  "locations": [
+    "Genève",
+    "New York"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Conseil des droits de l'homme",
+    "commission d'enquête",
+    "HCDH"
+  ],
+  "questions": [
+    "Quelles conclusions ?",
+    "Quels crimes documentés ?",
+    "Quelle réaction des parties ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ONU",
+    "#DROITS-HUMAINS"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

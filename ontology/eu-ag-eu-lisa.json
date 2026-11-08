@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les affaires intérieures) : Agence de l'Union européenne pour la gestion opérationnelle des systèmes d'information à grande échelle (eu-LISA), organe de l'Union créé en 2011 et installé dans cette ville : Tallinn.",
+  "id": "eu-ag-eu-lisa",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence de l'Union européenne pour la gestion opérationnelle des systèmes d'information à grande échelle (eu-LISA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence de l'Union européenne pour la gestion opérationnelle des systèmes d'information à grande échelle (eu-LISA), organe de l'Union créé en 2011 et installé dans cette ville : Tallinn.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Agence de l'Union européenne pour la gestion opérationnelle des systèmes d'information à grande échelle (eu-LISA) » préparent les textes relatifs aux affaires intérieures.",
+    "La délégation a rencontré des représentants de « Agence de l'Union européenne pour la gestion opérationnelle des systèmes d'information à grande échelle (eu-LISA) ».",
+    "« Agence de l'Union européenne pour la gestion opérationnelle des systèmes d'information à grande échelle (eu-LISA) » joue un rôle dans les affaires intérieures."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "eu-LISA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#AFFAIRESINTERIEURES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20de%20l%27Union%20europ%C3%A9enne%20pour%20la%20gestion%20op%C3%A9rationnelle%20des%20syst%C3%A8mes%20d%27information%20%C3%A0%20grande%20%C3%A9chelle%20%28eu-LISA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Tallinn",
+    "Direction générale de la migration et des affaires intérieures",
+    "Affaires intérieures et sécurité",
+    "Numérique"
+  ],
+  "isDeleted": false,
+  "startDate": "2011-01-01T00:00:00",
+  "endDate": null
+}

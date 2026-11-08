@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (l'élargissement) : Adhésion de la Bulgarie et de la Roumanie.",
+  "id": "eu-ev-elargissement-2007",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Élargissement de 2007",
+  "entityType": "EVENT",
+  "description": "Adhésion de la Bulgarie et de la Roumanie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les historiens de la construction européenne reviennent sur « Élargissement de 2007 ».",
+    "La chronologie de la Commission place « Élargissement de 2007 » à sa date.",
+    "« Élargissement de 2007 » est un jalon de l'histoire de de l'Union européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89largissement%20de%202007"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Élargissement",
+    "José Manuel Barroso",
+    "Commission Barroso I",
+    "Bulgarie",
+    "Roumanie"
+  ],
+  "isDeleted": false,
+  "startDate": "2007-01-01T00:00:00",
+  "endDate": null
+}

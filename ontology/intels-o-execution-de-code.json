@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-execution-de-code",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "exécution de code",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Citrix NetScaler ; Microsoft SharePoint ; Vulnérabilité critique CVSS 10.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les vulnérabilités critiques de Citrix NetScaler, dont les zero-days de septembre 2026.",
+    "Suivre les vulnérabilités de SharePoint, dont la zero-day exploitée de juillet 2026.",
+    "Repérer les vulnérabilités notées au maximum."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "exécution de code",
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#CITRIX",
+    "#MICROSOFT"
+  ],
+  "events": [
+    "@VULNERABILITE",
+    "@ZERO-DAY"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "correctifs",
+    "vulnérabilité",
+    "Citrix",
+    "passerelles",
+    "NetScaler",
+    "SharePoint",
+    "serveurs sur site",
+    "CVSS",
+    "critique",
+    "sans authentification"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 174,
+  "file": "0174-microsoft-office-how-do-i-block-junk-email.prompt.json",
+  "prompt": "How do I block junk email in Outlook?",
+  "promptWords": 8,
+  "completion": "To block junk email in Outlook, you can follow these steps:\n\n### **For Outlook on the Web (Outlook.com or Office 365):**\n1. **Open Outlook** in your web browser.\n2. **Select the Junk email** folder from the left-hand menu.\n3. **Right-click** on the email you want to block and select **Mark as junk**.\n4. **Choose** whether to mark it as junk for just this sender or for all similar senders.\n5. **To block a sender manually**:\n   - Go to **Settings (⚙️) > View all Outlook settings**.\n   - Select **Mail > Junk email**.\n   - Under **Blocked senders and domains**, add the email address or domain you want to block.\n\n### **For Outlook Desktop (Windows or Mac):**\n1. **Open Outlook** and go to the **Home** tab.\n2. **Select the Junk email** folder.\n3. **Right-click** on the email you want to block and choose **Junk > Block sender**.\n4. **To manually block a sender**:\n   - Go to **File > Options > Mail**.\n   - Select **Junk email** and then **Blocked Senders**.\n   - Click **Add** and enter the email address or domain you want to block.\n\nWould you like help with any specific version of Outlook?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:35:16.1684776+02:00",
+  "durationSeconds": 7.84,
+  "stats": "mistral-small3.2:latest · 516 + 284 tokens · 7,8 s",
+  "isError": false,
+  "language": "EN"
+}

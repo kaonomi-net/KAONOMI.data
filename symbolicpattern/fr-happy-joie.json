@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-joie",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un sentiment vif de plaisir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:joie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]joui(r|e|s|es|ssance|ssances)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:liesse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ga[îi]t[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exultation(s)?)(?![\\w-])"
+  ],
+  "symbol": "joie",
+  "event": null,
+  "title": "Joie",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

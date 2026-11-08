@@ -1,0 +1,13 @@
+{
+  "index": 590,
+  "file": "0590-python-explique-les-dataclasses-en-python-avec.prompt.json",
+  "prompt": "Explique les dataclasses en Python avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "Les dataclasses en Python sont une fonctionnalité introduite dans Python 3.7 (via le module `dataclasses`) qui permet de créer facilement des classes principalement destinées à stocker des données. Elles réduisent la quantité de code boilerplate nécessaire pour définir des classes simples avec des attributs.\n\n### Caractéristiques principales des dataclasses :\n1. **Génération automatique** : Les méthodes comme `__init__()`, `__repr__()`, `__eq__()` sont générées automatiquement.\n2. **Simplicité** : Moins de code à écrire pour des classes de données.\n3. **Typage** : Utilisation des annotations de type pour définir les attributs.\n\n### Exemple simple :\n\n```python\nfrom dataclasses import dataclass\n\n@dataclass\nclass Personne:\n    nom: str\n    age: int\n    ville: str = \"Paris\"  # Valeur par défaut\n\n# Création d'une instance\npersonne1 = Personne(nom=\"Alice\", age=30)\npersonne2 = Personne(nom=\"Bob\", age=25, ville=\"Lyon\")\n\n# Affichage automatique grâce à __repr__\nprint(personne1)  # Affiche: Personne(nom='Alice', age=30, ville='Paris')\nprint(personne2)  # Affiche: Personne(nom='Bob', age=25, ville='Lyon')\n\n# Comparaison automatique grâce à __eq__\nprint(personne1 == personne2)  # Affiche: False\n```\n\n### Explications :\n- Le décorateur `@dataclass` génère automatiquement les méthodes spéciales.\n- Les attributs sont définis avec des annotations de type (`nom: str`, `age: int`, etc.).\n- Les valeurs par défaut peuvent être spécifiées (comme `ville=\"Paris\"`).\n- Les instances peuvent être comparées, affichées, etc., sans avoir à écrire de code supplémentaire.\n\nLes dataclasses sont particulièrement utiles pour créer des objets de données simples et lisibles, comme des enregistrements ou des structures de données.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:23:33.5266619+02:00",
+  "durationSeconds": 8.55,
+  "stats": "mistral-small3.2:latest · 520 + 433 tokens · 8,5 s",
+  "isError": false,
+  "language": "FR"
+}

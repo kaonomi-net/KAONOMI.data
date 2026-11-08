@@ -1,0 +1,13 @@
+{
+  "index": 100,
+  "file": "100-interet-pour-le-llm-als-u-een-plek-ter-wereld.prompt.json",
+  "prompt": "Als u één plek ter wereld zou kunnen bezoeken, welke zou u kiezen?",
+  "promptWords": 13,
+  "completion": "Wat een mooie vraag! Als ik één plek ter wereld zou kunnen bezoeken, zou ik waarschijnlijk kiezen voor Japan. Het land biedt een unieke mix van traditionele cultuur en moderne innovatie. Denk aan de serene tempels van Kioto, de drukke straten van Tokio, de natuurlijke schoonheid van de Japanse Alpen, en de heerlijke keuken. Elke stad en regio heeft iets unieks te bieden, en de gastvrijheid van de Japanse mensen maakt het bezoek nog speciaal. Maar natuurlijk hangt het ook af van wat je het liefst doet: avontuur, ontspanning, cultuur, of iets anders? \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:23:55.9141045+02:00",
+  "durationSeconds": 3.76,
+  "stats": "mistral-small3.2:latest · 526 + 158 tokens · 3,8 s",
+  "isError": false,
+  "language": "NL"
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-emdr",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "EMDR",
+  "includedEntities": [
+    {
+      "entityName": "EMDR",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "traumatisme",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage et les preuves de l'EMDR.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "stress post-traumatique",
+    "études",
+    "formation"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quelle indication ?",
+    "Quel débat ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#THERAPIES",
+    "#TRAUMA"
+  ],
+  "events": [],
+  "signals": [
+    "!THERAPIE"
+  ],
+  "isDeleted": false
+}

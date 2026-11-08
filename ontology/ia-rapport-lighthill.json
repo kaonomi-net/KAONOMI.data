@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (le financement de la recherche) : Rapport de James Lighthill pour le Science Research Council britannique, très critique envers l'IA, qui a provoqué des coupes de crédits au Royaume-Uni.",
+  "id": "ia-rapport-lighthill",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Rapport Lighthill",
+  "entityType": "EVENT",
+  "description": "Rapport de James Lighthill pour le Science Research Council britannique, très critique envers l'IA, qui a provoqué des coupes de crédits au Royaume-Uni.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "La frise chronologique de la salle de cours place « Rapport Lighthill » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Rapport Lighthill ».",
+    "L'événement « Rapport Lighthill » a marqué durablement l'histoire du financement de la recherche."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 2,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Artificial Intelligence: A General Survey"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#FINANCEMENTRECHERCHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Rapport%20Lighthill"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Premier hiver de l'IA"
+  ],
+  "isDeleted": false,
+  "startDate": "1973-01-01T00:00:00",
+  "endDate": "1973-01-01T00:00:00"
+}

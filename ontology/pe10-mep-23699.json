@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Tchéquie.",
+  "id": "pe10-mep-23699",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Kateřina Konečná",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Tchéquie. Groupe politique : Patriotes pour l'Europe (PfE). Parti ou liste national : Komunistická strana Čech a Moravy.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Kateřina Konečná participe aux travaux des commissions parlementaires.",
+    "Kateřina Konečná siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Kateřina Konečná figure dans le relevé des votes par appel nominal."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Kateřina KONEČNÁ"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/23699",
+    "https://fr.wikipedia.org/w/index.php?search=Kate%C5%99ina%20Kone%C4%8Dn%C3%A1"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Tchéquie",
+    "Parlement européen",
+    "Patriotes pour l'Europe (PfE)",
+    "Komunistická strana Čech a Moravy"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

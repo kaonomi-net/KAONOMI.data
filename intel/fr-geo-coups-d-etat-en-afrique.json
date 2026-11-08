@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-coups-d-etat-en-afrique",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Coups d'État en Afrique",
+  "includedEntities": [
+    {
+      "entityName": "coup d'État",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "militaires",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "Afrique",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les prises de pouvoir militaires sur le continent africain.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Union africaine",
+    "CEDEAO",
+    "junte"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Qui prend le pouvoir ?",
+    "Quelles sanctions ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#AFRIQUE",
+    "#COUP-ETAT"
+  ],
+  "events": [
+    "@COUP-ETAT"
+  ],
+  "signals": [
+    "!INSTABILITE",
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

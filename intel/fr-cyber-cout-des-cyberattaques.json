@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cout-des-cyberattaques",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Coût des cyberattaques",
+  "includedEntities": [
+    {
+      "entityName": "coût",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cyberattaques",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "milliards",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le coût économique des cyberattaques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "études",
+    "entreprises",
+    "PME"
+  ],
+  "questions": [
+    "Quel coût ?",
+    "Quelle étude ?",
+    "Quels secteurs ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ECONOMIE",
+    "#INDICATEURS"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

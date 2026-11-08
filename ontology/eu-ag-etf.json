@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les compétences) : Fondation européenne pour la formation (ETF), organe de l'Union créé en 1990 et installé dans cette ville : Turin.",
+  "id": "eu-ag-etf",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Fondation européenne pour la formation (ETF)",
+  "entityType": "ORGANISATION",
+  "description": "Fondation européenne pour la formation (ETF), organe de l'Union créé en 1990 et installé dans cette ville : Turin.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Le rapport annuel de « Fondation européenne pour la formation (ETF) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Fondation européenne pour la formation (ETF) ».",
+    "Les décisions de « Fondation européenne pour la formation (ETF) » touchent les compétences."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ETF"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#COMPETENCES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fondation%20europ%C3%A9enne%20pour%20la%20formation%20%28ETF%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Turin",
+    "Direction générale de l'emploi, des affaires sociales et de l'inclusion",
+    "Compétences"
+  ],
+  "isDeleted": false,
+  "startDate": "1990-01-01T00:00:00",
+  "endDate": null
+}

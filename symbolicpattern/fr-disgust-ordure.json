@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-ordure",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui est jeté ; une personne méprisable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ordure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ordures\\s+m[ée]nag[èe]res)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tas\\s+d['’]ordures)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:raclure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pourriture(s)?\\s+humaine(s)?)(?![\\w-])"
+  ],
+  "symbol": "ordure",
+  "event": null,
+  "title": "Ordure",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

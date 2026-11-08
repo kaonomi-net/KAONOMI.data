@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-vitalite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'énergie de la vie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vitalit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vital(e|es|aux)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dynamisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]tillant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plein(e|s|es)?\\s+d['’]entrain)(?![\\w-])"
+  ],
+  "symbol": "vitalité",
+  "event": null,
+  "title": "Vitalité",
+  "tags": [
+    "#VIE",
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

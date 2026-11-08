@@ -1,0 +1,13 @@
+{
+  "index": 23,
+  "file": "043-intelligence-artificielle-comment-fonctionne-un-grand-modele-de.prompt.json",
+  "prompt": "Comment fonctionne un grand modèle de langage comme ChatGPT ?",
+  "promptWords": 10,
+  "completion": "Un grand modèle de langage comme ChatGPT fonctionne grâce à des techniques avancées d'intelligence artificielle, en particulier l'apprentissage profond (deep learning). Voici les étapes clés de son fonctionnement :\n\n1. **Collecte de données** : Le modèle est entraîné sur d'énormes quantités de texte provenant de diverses sources (livres, articles, sites web, etc.). Ces données sont utilisées pour apprendre les structures linguistiques et les relations entre les mots.\n\n2. **Prétraitement des données** : Les textes sont nettoyés et transformés en un format que le modèle peut comprendre, souvent en utilisant des techniques comme le tokenization (découpage en mots ou sous-mots).\n\n3. **Entraînement du modèle** : Le modèle utilise un réseau de neurones pour apprendre à prédire le mot suivant dans une phrase, en ajustant ses paramètres pour minimiser l'erreur entre ses prédictions et les mots réels. Cette phase peut prendre des semaines sur des supercalculateurs.\n\n4. **Architecture du modèle** : Les grands modèles de langage utilisent souvent une architecture appelée \"Transformer\", qui permet de traiter les séquences de texte de manière efficace et de capturer les relations à long terme entre les mots.\n\n5. **Génération de texte** : Une fois entraîné, le modèle peut générer du texte en prédisant séquentiellement les mots les plus probables, en tenant compte du contexte fourni par l'utilisateur.\n\n6. **Affinement et ajustement** : Après l'entraînement initial, le modèle peut être affiné en utilisant des techniques comme le \"fine-tuning\" ou le \"reinforcement learning from human feedback\" (RLHF) pour améliorer sa précision et son utilité.\n\n7. **Interaction avec l'utilisateur** : Lorsque vous posez une question, le modèle utilise son apprentissage pour générer une réponse cohérente et pertinente, en tenant compte du contexte de la conversation.\n\nCes modèles sont capables de comprendre et de générer du texte dans de nombreux domaines, mais ils ne possèdent pas de conscience ni de compréhension véritable. Ils fonctionnent en identifiant des motifs dans les données et en générant des réponses basées sur ces motifs.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:57:44.4908636+02:00",
+  "durationSeconds": 9.83,
+  "stats": "mistral-small3.2:latest · 519 + 462 tokens · 9,8 s",
+  "isError": false,
+  "language": "FR"
+}

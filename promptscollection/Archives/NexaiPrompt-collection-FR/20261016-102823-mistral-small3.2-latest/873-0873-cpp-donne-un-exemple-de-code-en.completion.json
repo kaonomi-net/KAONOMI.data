@@ -1,0 +1,13 @@
+{
+  "index": 873,
+  "file": "0873-cpp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C++ qui illustre constexpr.",
+  "promptWords": 10,
+  "completion": "Voici un exemple de code en C++ qui illustre l'utilisation de `constexpr` :\n\n```cpp\n#include <iostream>\n\n// Fonction constexpr\nconstexpr int factorial(int n) {\n    return (n <= 1) ? 1 : n * factorial(n - 1);\n}\n\nint main() {\n    // Utilisation de constexpr à la compilation\n    constexpr int fact5 = factorial(5);\n    std::cout << \"Factorial de 5 (calculé à la compilation) : \" << fact5 << std::endl;\n\n    // Utilisation de constexpr à l'exécution\n    int input;\n    std::cout << \"Entrez un nombre : \";\n    std::cin >> input;\n\n    // Note : factorial(input) ne peut pas être utilisé ici car input n'est pas une constante connue à la compilation\n    std::cout << \"Factorial de \" << input << \" (calculé à l'exécution) : \" << factorial(input) << std::endl;\n\n    return 0;\n}\n```\n\n### Explications :\n1. **`constexpr`** : La fonction `factorial` est déclarée `constexpr`, ce qui signifie qu'elle peut être évaluée à la compilation si ses arguments sont des constantes connues à la compilation.\n2. **`fact5`** : La valeur de `fact5` est calculée à la compilation grâce à `constexpr`.\n3. **`input`** : La valeur de `input` est lue à l'exécution, donc `factorial(input)` est évalué à l'exécution.\n\n### Remarque :\n- Les fonctions `constexpr` peuvent être utilisées à la fois à la compilation et à l'exécution, mais elles doivent être capables de s'exécuter à la compilation si leurs arguments le permettent.\n- En C++11 et versions ultérieures, `constexpr` peut également être utilisé pour des variables dont la valeur est connue à la compilation.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:33:53.2216586+02:00",
+  "durationSeconds": 8.23,
+  "stats": "mistral-small3.2:latest · 521 + 405 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

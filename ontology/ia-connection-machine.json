@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul parallèle) : Supercalculateur massivement parallèle de Thinking Machines conçu par Danny Hillis, avec jusqu'à 65 536 processeurs.",
+  "id": "ia-connection-machine",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Connection Machine",
+  "entityType": "HARDWARE",
+  "description": "Supercalculateur massivement parallèle de Thinking Machines conçu par Danny Hillis, avec jusqu'à 65 536 processeurs.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Connection Machine a marqué l'histoire du matériel consacré au calcul parallèle.",
+    "La fiche technique de Connection Machine détaille ses performances.",
+    "Pour ce projet d'IA, l'équipe a comparé Connection Machine à d'autres solutions matérielles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "CM-1",
+    "Thinking Machines CM"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULPARALLELE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Connection%20Machine"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NVIDIA Tesla V100"
+  ],
+  "isDeleted": false,
+  "startDate": "1985-01-01T00:00:00",
+  "endDate": null
+}

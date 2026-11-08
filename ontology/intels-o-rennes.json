@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-rennes",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "Rennes",
+  "entityType": "CITY",
+  "description": "Cité par 3 intels : Bretagne et Pays basque ; Cyberdéfense militaire ; Conférences de sécurité offensive.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les revendications régionales en Bretagne et au Pays basque.",
+    "Suivre la cyberdéfense des armées.",
+    "Suivre les découvertes présentées aux grandes conférences de sécurité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Rennes",
+  "tags": [
+    "#CYBERSECURITE",
+    "#FRANCE",
+    "#REGIONS",
+    "#IDENTITE",
+    "#DEFENSE",
+    "#MILITAIRE"
+  ],
+  "events": [
+    "@CONFERENCE"
+  ],
+  "signals": [
+    "!POLITIQUE",
+    "!DEFENSE",
+    "!VEILLE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "langues régionales",
+    "Pays basque",
+    "Bayonne",
+    "Bretagne",
+    "logement",
+    "autonomie",
+    "exercices",
+    "ComCyber",
+    "lutte informatique offensive"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

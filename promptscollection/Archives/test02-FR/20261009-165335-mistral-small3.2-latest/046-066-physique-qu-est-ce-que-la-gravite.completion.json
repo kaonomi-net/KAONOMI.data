@@ -1,0 +1,13 @@
+{
+  "index": 46,
+  "file": "066-physique-qu-est-ce-que-la-gravite.prompt.json",
+  "prompt": "Qu'est-ce que la gravité ?",
+  "promptWords": 5,
+  "completion": "La gravité est l'une des quatre forces fondamentales de la nature, aux côtés de l'électromagnétisme, de la force nucléaire forte et de la force nucléaire faible. Elle est responsable de l'attraction mutuelle entre deux masses. Plus précisément, la gravité est la force qui attire tout objet avec une masse vers un autre objet avec une masse.\n\nVoici quelques points clés pour mieux comprendre la gravité :\n\n1. **Loi de la gravitation universelle de Newton** : Formulée par Isaac Newton au XVIIe siècle, cette loi stipule que la force gravitationnelle entre deux objets est proportionnelle au produit de leurs masses et inversement proportionnelle au carré de la distance qui les sépare. La formule est \\( F = G \\frac{m_1 m_2}{r^2} \\), où \\( F \\) est la force gravitationnelle, \\( G \\) est la constante gravitationnelle, \\( m_1 \\) et \\( m_2 \\) sont les masses des deux objets, et \\( r \\) est la distance entre eux.\n\n2. **Théorie de la relativité générale d'Einstein** : Albert Einstein a révolutionné notre compréhension de la gravité avec sa théorie de la relativité générale en 1915. Selon Einstein, la gravité n'est pas une force, mais une courbure de l'espace-temps causée par la présence de masse et d'énergie. Les objets suivent des trajectoires appelées géodésiques dans cet espace-temps courbé.\n\n3. **Effets de la gravité** : La gravité est ce qui maintient les planètes en orbite autour du Soleil, les lunes en orbite autour des planètes, et les objets sur Terre au sol. Elle est également responsable des marées, des mouvements des galaxies, et de nombreux autres phénomènes cosmologiques.\n\n4. **Gravité terrestre** : La force gravitationnelle à la surface de la Terre est ce que nous ressentons comme notre poids. Elle est approximativement de 9,81 m/s², ce qui signifie qu'un objet tombant librement accélère à cette vitesse chaque seconde.\n\n5. **Gravité et énergie** : La gravité est également liée à l'énergie. Par exemple, l'énergie potentielle gravitationnelle d'un objet dépend de sa masse et de sa hauteur par rapport à un point de référence.\n\nSi tu as des questions plus spécifiques sur la gravité, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:01:20.8630282+02:00",
+  "durationSeconds": 11.01,
+  "stats": "mistral-small3.2:latest · 515 + 515 tokens · 11,0 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la défense européenne) : Plan annoncé par Ursula von der Leyen pour mobiliser jusqu'à 800 milliards d'euros en faveur de la défense.",
+  "id": "eu-pol-rearm",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Plan ReArm Europe / Préparation 2030",
+  "entityType": "LAW",
+  "description": "Plan annoncé par Ursula von der Leyen pour mobiliser jusqu'à 800 milliards d'euros en faveur de la défense.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Plan ReArm Europe / Préparation 2030 ».",
+    "La mise en œuvre de « Plan ReArm Europe / Préparation 2030 » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Plan ReArm Europe / Préparation 2030 »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "ReArm Europe"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#DEFENSEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Plan%20ReArm%20Europe%20/%20Pr%C3%A9paration%202030"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Défense",
+    "Direction générale de l'industrie de la défense et de l'espace",
+    "Commission von der Leyen II",
+    "Livre blanc sur l'avenir de la défense européenne",
+    "Instrument SAFE (Action pour la sécurité de l'Europe)"
+  ],
+  "isDeleted": false,
+  "startDate": "2025-03-04T00:00:00",
+  "endDate": null
+}

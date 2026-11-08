@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-tabac",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "tabac",
+  "entityType": "MATERIAL",
+  "description": "Cité par 4 intels : Olivér Várhelyi et la santé ; Ressources propres de l'Union ; Plan cancer et santé publique ; Tabac et vapotage.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre l'action du commissaire à la santé et au bien-être animal.",
+    "Suivre les nouvelles recettes proposées pour le budget européen.",
+    "Suivre les politiques européennes de santé publique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "tabac",
+  "tags": [
+    "#SANTE",
+    "#UNION-EUROPEENNE",
+    "#COMMISSION-EUROPEENNE",
+    "#VARHELYI",
+    "#BUDGET-UE",
+    "#FISCALITE"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE",
+    "!BUDGET"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Olivér Várhelyi",
+    "santé",
+    "médicaments",
+    "bien-être animal",
+    "ressources propres",
+    "recettes",
+    "taxe carbone aux frontières",
+    "grandes entreprises",
+    "cancer"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

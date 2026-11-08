@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-moisson",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La récolte des céréales.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:moisson(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:moissonn(er|[ée]|[ée]e)|bl[ée](s)?\\s+m[ûu]r(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vendange(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]pis)(?![\\w-])"
+  ],
+  "symbol": "moisson",
+  "event": null,
+  "title": "Moisson",
+  "tags": [
+    "#NATURE",
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

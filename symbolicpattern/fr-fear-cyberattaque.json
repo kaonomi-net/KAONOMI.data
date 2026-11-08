@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-cyberattaque",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une attaque contre des systèmes informatiques.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cyberattaque(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cyber-attaque(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attaque(s)?\\s+informatique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attaque(s)?\\s+par\\s+d[ée]ni\\s+de\\s+service)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ddos)(?![\\w-])"
+  ],
+  "symbol": "cyberattaque",
+  "event": null,
+  "title": "Cyberattaque",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-passation",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "passation",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Passation de pouvoir à l'Élysée.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la passation de pouvoir entre Emmanuel Macron et son successeur."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "passation",
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#TRANSITION"
+  ],
+  "events": [
+    "@PASSATION"
+  ],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "investiture",
+    "nouveau président",
+    "gouvernement",
+    "Élysée",
+    "Premier ministre"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

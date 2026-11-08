@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-escroc",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne qui trompe pour voler.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:escroc(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:escroquerie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arnaqueu(r|rs|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:filou(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:truand(s)?)(?![\\w-])"
+  ],
+  "symbol": "escroc",
+  "event": null,
+  "title": "Escroc",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

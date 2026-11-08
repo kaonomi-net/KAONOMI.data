@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-ministre-de-la-justice",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Ministre de la Justice",
+  "includedEntities": [
+    {
+      "entityName": "ministre de la Justice",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Chancellerie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions et déclarations du garde des Sceaux.",
+  "isFuzzy": true,
+  "locations": [
+    "place Vendôme"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "prisons",
+    "narcotrafic",
+    "magistrats"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quelle déclaration ?",
+    "Quelle polémique ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#JUSTICE",
+    "#GOUVERNEMENT"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-conseil-d-etat",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Conseil d'État",
+  "includedEntities": [
+    {
+      "entityName": "Conseil d'État",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "décision",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions du Conseil d'État.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "référés",
+    "libertés",
+    "élections"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quel domaine ?",
+    "Quelle portée ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#INSTITUTIONS",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@DECISION"
+  ],
+  "signals": [
+    "!INSTITUTIONS"
+  ],
+  "isDeleted": false
+}

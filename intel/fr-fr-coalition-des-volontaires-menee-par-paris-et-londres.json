@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-coalition-des-volontaires-menee-par-paris-et-londres",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Coalition des volontaires menée par Paris et Londres",
+  "includedEntities": [
+    {
+      "entityName": "coalition des volontaires",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "Keir Starmer",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la coalition franco-britannique pour garantir un cessez-le-feu.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Londres"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "force de réassurance",
+    "Ukraine",
+    "Europe"
+  ],
+  "questions": [
+    "Quels pays participent ?",
+    "Quels engagements ?",
+    "Quel déploiement ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!GARANTIES"
+  ],
+  "isDeleted": false
+}

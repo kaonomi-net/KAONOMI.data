@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-catalogue-kev-de-la-cisa",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Catalogue KEV de la CISA",
+  "includedEntities": [
+    {
+      "entityName": "CISA",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "KEV",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "vulnérabilités exploitées",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les ajouts au catalogue des vulnérabilités activement exploitées de la CISA.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "BOD 26-04",
+    "échéances",
+    "agences fédérales"
+  ],
+  "questions": [
+    "Quelle vulnérabilité ajoutée ?",
+    "Quel produit ?",
+    "Quelle échéance ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#CISA"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

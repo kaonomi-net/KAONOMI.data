@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-vote-a-la-majorite-qualifiee",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "vote à la majorité qualifiée",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Réforme de l'Union avant l'élargissement.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le débat sur la réforme des institutions avant de nouveaux élargissements."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "vote à la majorité qualifiée",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#INSTITUTIONS",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!INSTITUTIONS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "traités",
+    "unanimité",
+    "élargissement",
+    "Bruxelles",
+    "réforme",
+    "budget"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

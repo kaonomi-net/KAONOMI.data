@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-controle-de-la-cnil-sur-l-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Contrôle de la CNIL sur l'IA",
+  "includedEntities": [
+    {
+      "entityName": "CNIL",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "données personnelles",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions de la CNIL sur les systèmes d'IA.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "RGPD",
+    "sanction",
+    "mise en demeure"
+  ],
+  "questions": [
+    "Quelle entreprise est visée ?",
+    "Quelle sanction ?",
+    "Quelles données en cause ?"
+  ],
+  "tags": [
+    "#IA",
+    "#CNIL",
+    "#RGPD",
+    "#DONNEES"
+  ],
+  "events": [
+    "@DECISION-AUTORITE"
+  ],
+  "signals": [
+    "!CONFORMITE"
+  ],
+  "isDeleted": false
+}

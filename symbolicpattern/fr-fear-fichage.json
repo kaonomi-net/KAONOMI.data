@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-fichage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La collecte des informations personnelles.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fichage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:donn[ée]es\\s+personnelles)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:collecte\\s+de\\s+donn[ée]es)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exploitation\\s+des\\s+donn[ée]es)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:donn[ée]es\\s+priv[ée]es)(?![\\w-])"
+  ],
+  "symbol": "fichage",
+  "event": null,
+  "title": "Fichage",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

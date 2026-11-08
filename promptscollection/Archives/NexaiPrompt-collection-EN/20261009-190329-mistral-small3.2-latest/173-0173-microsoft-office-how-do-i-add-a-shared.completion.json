@@ -1,0 +1,13 @@
+{
+  "index": 173,
+  "file": "0173-microsoft-office-how-do-i-add-a-shared.prompt.json",
+  "prompt": "How do I add a shared mailbox in Outlook?",
+  "promptWords": 9,
+  "completion": "To add a shared mailbox in Outlook, follow these steps:\n\n### **For Outlook on the Web (Outlook on the Internet)**\n1. **Sign in** to your Outlook account via the web (Outlook on the web).\n2. **Click on your profile icon** (top-right corner) and select **Open another mailbox**.\n3. **Enter the name or email address** of the shared mailbox.\n4. **Click Open**. The shared mailbox will now appear in your folder list.\n\n### **For Outlook Desktop (Windows)**\n1. **Open Outlook** and go to **File** > **Account Settings** > **Account Settings**.\n2. In the **Email** tab, click **Change**.\n3. Click **More Settings**.\n4. Go to the **Advanced** tab.\n5. Under **Mailboxes**, click **Add**.\n6. Enter the name or email address of the shared mailbox.\n7. Click **OK** and then **Next** > **Finish**.\n8. Restart Outlook to see the shared mailbox.\n\n### **For Outlook for Mac**\n1. **Open Outlook** and go to **Tools** > **Accounts**.\n2. Select your email account and click **Advanced**.\n3. In the **Delegates** tab, click the **+** button.\n4. Enter the name or email address of the shared mailbox.\n5. Click **Add** and then **Done**.\n6. Restart Outlook to see the shared mailbox.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:35:07.8125126+02:00",
+  "durationSeconds": 8.32,
+  "stats": "mistral-small3.2:latest · 518 + 303 tokens · 8,3 s",
+  "isError": false,
+  "language": "EN"
+}

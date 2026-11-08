@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul accéléré) : Carte graphique présentée par NVIDIA comme le premier « GPU », intégrant la transformation et l'éclairage en matériel.",
+  "id": "ia-geforce-256",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "NVIDIA GeForce 256",
+  "entityType": "HARDWARE",
+  "description": "Carte graphique présentée par NVIDIA comme le premier « GPU », intégrant la transformation et l'éclairage en matériel.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Lors du salon, le stand présentait NVIDIA GeForce 256 en démonstration.",
+    "Le laboratoire utilise NVIDIA GeForce 256 pour ses travaux dans le domaine du calcul accéléré.",
+    "Le technicien a installé NVIDIA GeForce 256 dans la salle des machines."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "GeForce 256"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULACCELERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NVIDIA%20GeForce%20256"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NVIDIA Tesla V100"
+  ],
+  "isDeleted": false,
+  "startDate": "1999-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-alphafold-et-la-biologie",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "AlphaFold et la biologie",
+  "includedEntities": [
+    {
+      "entityName": "AlphaFold",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "protéines",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage de l'IA pour prédire la structure des protéines.",
+  "isFuzzy": true,
+  "locations": [
+    "Londres"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "DeepMind",
+    "biologie",
+    "médicaments"
+  ],
+  "questions": [
+    "Quelle découverte ?",
+    "Quel impact sur la recherche médicale ?",
+    "Quel accès aux données ?"
+  ],
+  "tags": [
+    "#IA",
+    "#SCIENCE",
+    "#BIOLOGIE"
+  ],
+  "events": [
+    "@DECOUVERTE"
+  ],
+  "signals": [
+    "!PERCEE"
+  ],
+  "isDeleted": false
+}

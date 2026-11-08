@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-opa",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "OPA",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Retraits de la cote à Bruxelles ; Offre publique d'achat.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les offres publiques qui retirent des sociétés de la Bourse de Bruxelles.",
+    "Repérer les offres publiques d'achat sur des sociétés cotées."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "OPA",
+  "tags": [
+    "#BOURSE",
+    "#OPA",
+    "#BELGIQUE"
+  ],
+  "events": [
+    "@OFFRE"
+  ],
+  "signals": [
+    "!OPERATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "retrait de la cote",
+    "actionnaires minoritaires",
+    "fonds",
+    "familles",
+    "Paris",
+    "prime",
+    "régulateur",
+    "offre",
+    "actionnaires"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

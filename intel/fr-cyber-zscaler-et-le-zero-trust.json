@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-zscaler-et-le-zero-trust",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Zscaler et le zero trust",
+  "includedEntities": [
+    {
+      "entityName": "Zscaler",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "zero trust",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre Zscaler et le marché du zero trust.",
+  "isFuzzy": true,
+  "locations": [
+    "San José"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "SASE",
+    "résultats",
+    "acquisitions"
+  ],
+  "questions": [
+    "Quelle croissance ?",
+    "Quelle acquisition ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ENTREPRISES",
+    "#ZERO-TRUST"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

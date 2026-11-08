@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-fonds-europeen-de-la-defense",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Fonds européen de la défense",
+  "includedEntities": [
+    {
+      "entityName": "Fonds européen de la défense",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "recherche",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les projets financés par le Fonds européen de la défense.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "recherche",
+    "prototypes",
+    "industrie"
+  ],
+  "questions": [
+    "Quels projets ?",
+    "Quel montant ?",
+    "Quels pays ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DEFENSE",
+    "#RECHERCHE"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "isDeleted": false
+}

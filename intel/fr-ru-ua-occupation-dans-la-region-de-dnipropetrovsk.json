@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-occupation-dans-la-region-de-dnipropetrovsk",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Occupation dans la région de Dnipropetrovsk",
+  "includedEntities": [
+    {
+      "entityName": "Dnipropetrovsk",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "villages",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "occupation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les avancées et reprises de villages dans la région de Dnipropetrovsk.",
+  "isFuzzy": true,
+  "locations": [
+    "Dnipropetrovsk",
+    "Mejova"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "armée russe",
+    "contre-attaques",
+    "limite administrative"
+  ],
+  "questions": [
+    "Quels villages pris ou repris ?",
+    "Quelle profondeur ?",
+    "Quelles évacuations ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#DNIPROPETROVSK",
+    "#FRONT"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

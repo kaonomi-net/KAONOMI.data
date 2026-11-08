@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-israel",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Israël",
+  "entityType": "COUNTRY",
+  "description": "Cité par 9 intels : Conflit à Gaza ; Confrontation entre Israël et l'Iran ; Liban et Hezbollah ; Normalisation entre Israël et l'Arabie saoudite ; Reconnaissance de l'État de Palestine ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre l'évolution du conflit à Gaza et la situation humanitaire.",
+    "Surveiller les échanges militaires directs entre Israël et l'Iran.",
+    "Surveiller la situation au Liban et le long de la frontière avec Israël."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Israël",
+  "tags": [
+    "#MOYEN-ORIENT",
+    "#GEOPOLITIQUE",
+    "#DIPLOMATIE",
+    "#IRAN",
+    "#ISRAEL",
+    "#CYBERSECURITE"
+  ],
+  "events": [
+    "@REVENDICATION",
+    "@EVOLUTION-CONFLIT",
+    "@FRAPPES"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!TENSION",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Gaza",
+    "aide humanitaire",
+    "Iran",
+    "États-Unis",
+    "Liban",
+    "Moyen-Orient",
+    "accord d'association",
+    "Hamas",
+    "Rafah",
+    "Égypte"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

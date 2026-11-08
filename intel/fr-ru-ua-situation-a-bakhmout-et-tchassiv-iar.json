@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-situation-a-bakhmout-et-tchassiv-iar",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Situation à Bakhmout et Tchassiv Iar",
+  "includedEntities": [
+    {
+      "entityName": "Tchassiv Iar",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Bakhmout",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation dans le secteur de Bakhmout et Tchassiv Iar.",
+  "isFuzzy": true,
+  "locations": [
+    "Tchassiv Iar",
+    "Bakhmout"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Kostiantynivka",
+    "hauteurs",
+    "canal"
+  ],
+  "questions": [
+    "Quelles positions ?",
+    "Quels assauts ?",
+    "Quelle menace sur Kostiantynivka ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#DONBASS",
+    "#FRONT"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

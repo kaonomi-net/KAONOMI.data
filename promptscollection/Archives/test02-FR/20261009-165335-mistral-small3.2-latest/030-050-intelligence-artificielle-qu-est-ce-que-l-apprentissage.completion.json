@@ -1,0 +1,13 @@
+{
+  "index": 30,
+  "file": "050-intelligence-artificielle-qu-est-ce-que-l-apprentissage.prompt.json",
+  "prompt": "Qu'est-ce que l'apprentissage supervisé et non supervisé ?",
+  "promptWords": 8,
+  "completion": "L'apprentissage supervisé et non supervisé sont deux types fondamentaux d'apprentissage automatique (machine learning). Voici une explication de chacun :\n\n### Apprentissage supervisé\nL'apprentissage supervisé est une méthode où le modèle est entraîné sur un ensemble de données étiquetées. Cela signifie que chaque exemple d'entraînement est associé à une sortie connue (ou étiquette). Le but est d'apprendre une fonction de mapping entre les entrées et les sorties.\n\n**Exemples d'applications :**\n- Classification (par exemple, spam vs non-spam)\n- Régression (par exemple, prédire le prix d'une maison)\n\n**Caractéristiques :**\n- Données étiquetées nécessaires\n- Le modèle apprend à partir des erreurs de prédiction\n- Utilisé lorsque les sorties sont connues à l'avance\n\n### Apprentissage non supervisé\nL'apprentissage non supervisé est une méthode où le modèle est entraîné sur des données non étiquetées. Le but est de découvrir des structures cachées ou des motifs dans les données.\n\n**Exemples d'applications :**\n- Clustering (par exemple, segmentation de clients)\n- Réduction de dimension (par exemple, analyse en composantes principales)\n\n**Caractéristiques :**\n- Données non étiquetées\n- Le modèle cherche des motifs ou des structures\n- Utilisé lorsque les sorties ne sont pas connues à l'avance\n\n### Comparaison\n- **Supervisé** : Utilise des données étiquetées pour prédire des sorties spécifiques.\n- **Non supervisé** : Utilise des données non étiquetées pour découvrir des motifs ou des structures.\n\nSi vous avez besoin de plus de détails ou d'exemples spécifiques, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:58:51.5279821+02:00",
+  "durationSeconds": 7.97,
+  "stats": "mistral-small3.2:latest · 522 + 363 tokens · 8,0 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-fraude",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une tromperie pour obtenir un avantage.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fraude(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fraud(er|eur|eurs|euse|uleux|uleuse)|triche(r|rie|ur|use)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:malversation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]tournement(s)?\\s+de\\s+fonds)(?![\\w-])"
+  ],
+  "symbol": "fraude",
+  "event": null,
+  "title": "Fraude",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

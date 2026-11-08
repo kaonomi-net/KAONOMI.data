@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-retard-de-la-france-sur-nis2",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Retard de la France sur NIS2",
+  "includedEntities": [
+    {
+      "entityName": "France",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "NIS2",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Cour de justice",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la procédure européenne contre la France pour retard de transposition de NIS2.",
+  "isFuzzy": false,
+  "locations": [
+    "Bruxelles",
+    "Luxembourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Commission européenne",
+    "infraction",
+    "Cour de justice"
+  ],
+  "questions": [
+    "Quelle étape ?",
+    "Quel risque d'amende ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#REGULATION",
+    "#FRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFORMITE"
+  ],
+  "isDeleted": false
+}

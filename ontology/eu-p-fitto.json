@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique de cohésion) : Ancien président de la région des Pouilles et ministre italien des Affaires européennes, vice-président exécutif chargé de la cohésion et des réformes depuis 2024.",
+  "id": "eu-p-fitto",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Raffaele Fitto",
+  "entityType": "PERSON",
+  "description": "Ancien président de la région des Pouilles et ministre italien des Affaires européennes, vice-président exécutif chargé de la cohésion et des réformes depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Lors du point de presse de midi, une question portait sur Raffaele Fitto.",
+    "Raffaele Fitto est une figure de la politique de cohésion.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Raffaele Fitto."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Fitto"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUECOHESION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Raffaele%20Fitto"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité italienne",
+    "Frères d'Italie (FdI)",
+    "Président de région",
+    "Député européen",
+    "Ministre des Affaires européennes",
+    "Commissaire européen",
+    "Cohésion et réformes (Commission von der Leyen II)",
+    "Vice-président exécutif de la Commission",
+    "Commission von der Leyen II",
+    "Cohésion et politique régionale",
+    "Réformes",
+    "Direction générale de la politique régionale et urbaine"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

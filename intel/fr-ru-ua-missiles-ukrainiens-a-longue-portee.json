@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-missiles-ukrainiens-a-longue-portee",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Missiles ukrainiens à longue portée",
+  "includedEntities": [
+    {
+      "entityName": "missile",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Flamingo",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "longue portée",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage des missiles de production ukrainienne à longue portée.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Neptune",
+    "industrie ukrainienne",
+    "Russie"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quelle portée ?",
+    "Quelle production ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#MISSILES",
+    "#INDUSTRIE-DEFENSE"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

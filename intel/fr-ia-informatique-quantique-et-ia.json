@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-informatique-quantique-et-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Informatique quantique et IA",
+  "includedEntities": [
+    {
+      "entityName": "quantique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les promesses de l'informatique quantique pour l'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "IBM",
+    "Google",
+    "Pasqal"
+  ],
+  "questions": [
+    "Quel avantage réel ?",
+    "Combien de qubits ?",
+    "Quelle échéance ?"
+  ],
+  "tags": [
+    "#IA",
+    "#QUANTIQUE",
+    "#PROSPECTIVE"
+  ],
+  "events": [],
+  "signals": [
+    "!SPECULATION"
+  ],
+  "isDeleted": false
+}

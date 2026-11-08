@@ -1,0 +1,13 @@
+{
+  "index": 50,
+  "file": "070-physique-qu-est-ce-qu-un-atome.prompt.json",
+  "prompt": "Qu'est-ce qu'un atome ?",
+  "promptWords": 4,
+  "completion": "**Un atome** est la plus petite unité fondamentale d’un élément chimique qui conserve toutes ses propriétés.  \n\n| Élément | Description |\n|---------|-------------|\n| **Noyau** | Au centre, composé de **protons** (chargés positivement) et de **neutrons** (neutres). Le nombre de protons définit l’**numéro atomique** (p.\u202Fex. 6 pour le carbone). |\n| **Électrons** | Chargés négativement, ils occupent des **orbitales** autour du noyau. Le nombre d’électrons (dans un atome neutre) est égal au nombre de protons. |\n| **Mass number (A)** | Somme du nombre de protons et de neutrons. Différents arrangements de neutrons donnent des **isotopes** (même élément, masse différente). |\n\n---\n\n### Pourquoi l’on parle d’« atomique » ?\n\n- **Structure de base** : un noyau central entouré d’un nuage électronique.  \n- **Interprétation quantique** : les électrons ne suivent pas de trajectoires précises, mais occupent des **énergies discrètes** (c’est ce que Bohr et Schrödinger ont formalisé).  \n- **Loi de conservation** : l’atome conserve son identité lorsqu’il participe à des réactions chimiques, mais ses électrons peuvent être réarrangés, créant ainsi des **lien chimiques**.\n\n---\n\n#### Historique rapide\n\n1. **Dalton (1803)** – idée d’atome indivisible, élément de base.  \n2. **Thomson (1897)** – modèle « pastèque » (électrons dans un nuage de charge positive).  \n3. **Rutherford (1911)** – modèle noyau‑électron après les expériences de diffraction d’électrons.  \n4. **Bohr (1913)** – quantification des niveaux d’énergie.  \n5. **Mécanique quantique (années 1920‑30)** – modèles orbitaux et probabilistes.\n\n---\n\n### En résumé\n\nUn atome est une petite “balle” composée d’un noyau dense (protons + neutrons) entouré d’un nuage d’électrons. Son numéro atomique indique l'élément, son nombre de neutrons crée des isotopes, et les interactions entre électrons et noyau permettent les réactions chimiques et les propriétés physiques.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T17:44:43.1413492+02:00",
+  "durationSeconds": 7.08,
+  "stats": "gpt-oss:20b · 75 + 724 tokens · 7,1 s",
+  "isError": false,
+  "language": "FR"
+}

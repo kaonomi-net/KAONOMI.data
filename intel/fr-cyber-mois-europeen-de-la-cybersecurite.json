@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-mois-europeen-de-la-cybersecurite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Mois européen de la cybersécurité",
+  "includedEntities": [
+    {
+      "entityName": "mois européen de la cybersécurité",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "sensibilisation",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le mois européen de la cybersécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [
+    "octobre"
+  ],
+  "relatedEntities": [
+    "ENISA",
+    "campagnes",
+    "grand public"
+  ],
+  "questions": [
+    "Quel thème ?",
+    "Quelles actions ?",
+    "Quel bilan ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SENSIBILISATION",
+    "#EUROPE"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!FORMATION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 629,
+  "file": "0629-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre les listes en compréhension.",
+  "promptWords": 13,
+  "completion": "Voici un exemple de code en Python qui illustre les listes en compréhension (list comprehensions) :\n\n```python\n# Exemple 1 : Création d'une liste de carrés de nombres de 0 à 9\ncarrés = [x**2 for x in range(10)]\nprint(carrés)  # Affichage : [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]\n\n# Exemple 2 : Filtrer les nombres pairs d'une liste\nnombres = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\nnombres_pairs = [x for x in nombres if x % 2 == 0]\nprint(nombres_pairs)  # Affichage : [2, 4, 6, 8, 10]\n\n# Exemple 3 : Transformation avec condition\nmots = [\"chat\", \"chien\", \"oiseau\", \"poisson\"]\nmots_longueurs = [len(mot) if mot != \"poisson\" else 0 for mot in mots]\nprint(mots_longueurs)  # Affichage : [4, 5, 6, 0]\n\n# Exemple 4 : Utilisation de fonctions dans une compréhension\ndef est_premier(n):\n    if n < 2:\n        return False\n    for i in range(2, int(n**0.5) + 1):\n        if n % i == 0:\n            return False\n    return True\n\nnombres_premiers = [x for x in range(20) if est_premier(x)]\nprint(nombres_premiers)  # Affichage : [2, 3, 5, 7, 11, 13, 17, 19]\n```\n\nLes listes en compréhension permettent de créer de nouvelles listes de manière concise et lisible. Elles combinent souvent une boucle `for` avec une condition `if` pour filtrer ou transformer les éléments.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:34:48.5843541+02:00",
+  "durationSeconds": 9.62,
+  "stats": "mistral-small3.2:latest · 524 + 461 tokens · 9,6 s",
+  "isError": false,
+  "language": "FR"
+}

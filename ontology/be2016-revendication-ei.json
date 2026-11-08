@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (les attentats du 22 mars 2016) : L'État islamique revendique les attentats de Bruxelles le jour même.",
+  "id": "be2016-revendication-ei",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Revendication par l'État islamique",
+  "entityType": "EVENT",
+  "description": "L'État islamique revendique les attentats de Bruxelles le jour même.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "La frise chronologique du dossier place « Revendication par l'État islamique » à sa date.",
+    "La presse belge a largement couvert « Revendication par l'État islamique ».",
+    "L'événement « Revendication par l'État islamique » s'inscrit dans les attentats du 22 mars 2016."
+  ],
+  "angryLevel": 5,
+  "sadLevel": 4,
+  "happyLevel": 0,
+  "fearLevel": 4,
+  "surpriseLevel": 2,
+  "disgustLevel": 5,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "revendication des attentats"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#ATTENTATS22MARS2016"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Revendication%20par%20l%27%C3%89tat%20islamique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "État islamique",
+    "Attentat de l'aéroport de Bruxelles-National",
+    "Attentat de la station Maelbeek"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-03-22T00:00:00",
+  "endDate": "2016-03-22T00:00:00"
+}

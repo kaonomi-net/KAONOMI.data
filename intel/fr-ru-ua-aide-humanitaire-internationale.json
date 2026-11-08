@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-aide-humanitaire-internationale",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Aide humanitaire internationale",
+  "includedEntities": [
+    {
+      "entityName": "aide humanitaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'aide humanitaire et ses besoins de financement.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ONU",
+    "ONG",
+    "donateurs"
+  ],
+  "questions": [
+    "Quel besoin ?",
+    "Quels financements ?",
+    "Quel accès ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#HUMANITAIRE",
+    "#AIDE"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la justice) : Agence des droits fondamentaux de l'Union européenne (FRA), organe de l'Union créé en 2007 et installé dans cette ville : Vienne.",
+  "id": "eu-ag-fra",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence des droits fondamentaux de l'Union européenne (FRA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence des droits fondamentaux de l'Union européenne (FRA), organe de l'Union créé en 2007 et installé dans cette ville : Vienne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Agence des droits fondamentaux de l'Union européenne (FRA) ».",
+    "« Agence des droits fondamentaux de l'Union européenne (FRA) » joue un rôle dans la justice.",
+    "Les fonctionnaires de « Agence des droits fondamentaux de l'Union européenne (FRA) » préparent les textes relatifs à la justice."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "FRA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20des%20droits%20fondamentaux%20de%20l%27Union%20europ%C3%A9enne%20%28FRA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Vienne",
+    "Direction générale de la justice et des consommateurs",
+    "Justice",
+    "Valeurs et transparence"
+  ],
+  "isDeleted": false,
+  "startDate": "2007-01-01T00:00:00",
+  "endDate": null
+}

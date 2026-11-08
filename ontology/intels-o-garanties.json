@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-garanties",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "garanties",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Position de la Belgique sur les avoirs gelés ; Reconstruction de l'Ukraine et la Commission.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la position belge, principal obstacle au prêt de réparation.",
+    "Suivre le rôle de la Commission dans la reconstruction de l'Ukraine."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "garanties",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#BELGIQUE",
+    "#AVOIRS-GELES",
+    "#UKRAINE",
+    "#RECONSTRUCTION"
+  ],
+  "events": [
+    "@CONFERENCE"
+  ],
+  "signals": [
+    "!BLOCAGE",
+    "!RECONSTRUCTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "avoirs gelés",
+    "Bart De Wever",
+    "risques",
+    "Bruxelles",
+    "Euroclear",
+    "Kyiv",
+    "reconstruction",
+    "Ukraine",
+    "BEI"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

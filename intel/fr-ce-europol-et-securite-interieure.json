@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-europol-et-securite-interieure",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Europol et sécurité intérieure",
+  "includedEntities": [
+    {
+      "entityName": "Europol",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sécurité",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le renforcement d'Europol et la lutte contre la criminalité.",
+  "isFuzzy": true,
+  "locations": [
+    "La Haye"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "criminalité organisée",
+    "narcotrafic",
+    "terrorisme"
+  ],
+  "questions": [
+    "Quelle opération ?",
+    "Quel nouveau mandat ?",
+    "Quels résultats ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SECURITE",
+    "#EUROPOL"
+  ],
+  "events": [],
+  "signals": [
+    "!SECURITE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ofdt",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "OFDT",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Rapport de l'OFDT.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les publications de l'Observatoire français des drogues et des tendances addictives."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "OFDT",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADDICTIONS",
+    "#RAPPORT"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "jeunes",
+    "tendances",
+    "consommations",
+    "drogues",
+    "France"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

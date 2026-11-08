@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-anonymous",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Anonymous",
+  "includedEntities": [
+    {
+      "entityName": "Anonymous",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "hackers",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les opérations revendiquées par Anonymous.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "opérations",
+    "fuites",
+    "cibles"
+  ],
+  "questions": [
+    "Quelle opération ?",
+    "Quelle cible ?",
+    "Quel impact ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#HACKTIVISME"
+  ],
+  "events": [
+    "@REVENDICATION"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (les réformes structurelles) : Appui aux réformes des États membres et plans nationaux pour la reprise et la résilience.",
+  "id": "eu-dom-reformes",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Réformes",
+  "entityType": "DOMAIN",
+  "description": "Appui aux réformes des États membres et plans nationaux pour la reprise et la résilience.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Réformes » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Réformes » passent par le Parlement et le Conseil.",
+    "La conférence portait sur les réformes structurelles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#REFORMESSTRUCTURELLES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A9formes"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Cohésion et réformes (Commission von der Leyen I)",
+    "Elisa Ferreira",
+    "Cohésion et réformes (Commission von der Leyen II)",
+    "Raffaele Fitto",
+    "Direction générale de l'appui aux réformes structurelles",
+    "Règlement établissant la facilité pour la reprise et la résilience",
+    "NextGenerationEU",
+    "Facilité pour la reprise et la résilience"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

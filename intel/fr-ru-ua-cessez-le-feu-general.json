@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-cessez-le-feu-general",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Cessez-le-feu général",
+  "includedEntities": [
+    {
+      "entityName": "cessez-le-feu",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "ligne de front",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "accord",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [
+    {
+      "entityName": "Olechky",
+      "entityWeight": ""
+    }
+  ],
+  "triggerLevel": 60,
+  "instructions": "Repérer toute annonce de cessez-le-feu sur l'ensemble du front.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "médiateurs",
+    "observateurs",
+    "ONU"
+  ],
+  "questions": [
+    "Qui annonce le cessez-le-feu ?",
+    "Quand entre-t-il en vigueur ?",
+    "Qui le contrôle ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#CESSEZ-LE-FEU"
+  ],
+  "events": [
+    "@CESSEZ-LE-FEU"
+  ],
+  "signals": [
+    "!DESESCALADE"
+  ],
+  "isDeleted": false
+}

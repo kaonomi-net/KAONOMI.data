@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-georgie-entre-moscou-et-l-europe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Géorgie entre Moscou et l'Europe",
+  "includedEntities": [
+    {
+      "entityName": "Géorgie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Rêve géorgien",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution politique de la Géorgie et sa relation à la Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Tbilissi"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "manifestations",
+    "Union européenne",
+    "loi sur les agents étrangers"
+  ],
+  "questions": [
+    "Quelle orientation ?",
+    "Quelles manifestations ?",
+    "Quelles sanctions ?"
+  ],
+  "tags": [
+    "#GEORGIE",
+    "#RUSSIE",
+    "#DEMOCRATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

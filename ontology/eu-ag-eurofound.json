@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'emploi) : Fondation européenne pour l'amélioration des conditions de vie et de travail (Eurofound), organe de l'Union créé en 1975 et installé dans cette ville : Dublin.",
+  "id": "eu-ag-eurofound",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Fondation européenne pour l'amélioration des conditions de vie et de travail (Eurofound)",
+  "entityType": "ORGANISATION",
+  "description": "Fondation européenne pour l'amélioration des conditions de vie et de travail (Eurofound), organe de l'Union créé en 1975 et installé dans cette ville : Dublin.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Fondation européenne pour l'amélioration des conditions de vie et de travail (Eurofound) ».",
+    "« Fondation européenne pour l'amélioration des conditions de vie et de travail (Eurofound) » joue un rôle dans l'emploi.",
+    "Les fonctionnaires de « Fondation européenne pour l'amélioration des conditions de vie et de travail (Eurofound) » préparent les textes relatifs à l'emploi."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "Eurofound"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fondation%20europ%C3%A9enne%20pour%20l%27am%C3%A9lioration%20des%20conditions%20de%20vie%20et%20de%20travail%20%28Eurofound%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Dublin",
+    "Direction générale de l'emploi, des affaires sociales et de l'inclusion",
+    "Emploi et droits sociaux"
+  ],
+  "isDeleted": false,
+  "startDate": "1975-01-01T00:00:00",
+  "endDate": null
+}

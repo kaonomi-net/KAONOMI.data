@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la politique industrielle) : Signé à Paris, il crée la CECA, première communauté européenne, dont la Haute Autorité préfigure la Commission.",
+  "id": "eu-pol-traite-ceca",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Traité instituant la Communauté européenne du charbon et de l'acier",
+  "entityType": "LAW",
+  "description": "Signé à Paris, il crée la CECA, première communauté européenne, dont la Haute Autorité préfigure la Commission.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-traites",
+  "sentencesExemples": [
+    "Le Journal officiel de l'Union a publié « Traité instituant la Communauté européenne du charbon et de l'acier ».",
+    "Les juristes de la Commission ont commenté « Traité instituant la Communauté européenne du charbon et de l'acier ».",
+    "La mise en œuvre de « Traité instituant la Communauté européenne du charbon et de l'acier » est suivie par la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "traité de Paris"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#POLITIQUEINDUSTRIELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Trait%C3%A9%20instituant%20la%20Communaut%C3%A9%20europ%C3%A9enne%20du%20charbon%20et%20de%20l%27acier"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Industrie",
+    "Paris"
+  ],
+  "isDeleted": false,
+  "startDate": "1951-04-18T00:00:00",
+  "endDate": null
+}

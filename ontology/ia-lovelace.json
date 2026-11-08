@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (la programmation) : Mathématicienne britannique, autrice des notes sur la machine analytique de Babbage où figure le premier algorithme destiné à une machine ; elle y discute déjà des limites de la « pensée » des machines.",
+  "id": "ia-lovelace",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Ada Lovelace",
+  "entityType": "PERSON",
+  "description": "Mathématicienne britannique, autrice des notes sur la machine analytique de Babbage où figure le premier algorithme destiné à une machine ; elle y discute déjà des limites de la « pensée » des machines.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les articles de Ada Lovelace pour comprendre la programmation.",
+    "Sans les idées de Ada Lovelace, l'histoire de la programmation aurait été différente.",
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Ada Lovelace."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Augusta Ada King",
+    "comtesse de Lovelace"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#PROGRAMMATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ada%20Lovelace"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Alan Turing"
+  ],
+  "isDeleted": false,
+  "startDate": "1815-12-10T00:00:00",
+  "endDate": "1852-11-27T00:00:00"
+}

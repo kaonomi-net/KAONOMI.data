@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cryptographie-et-cryptomonnaies",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cryptographie et cryptomonnaies",
+  "includedEntities": [
+    {
+      "entityName": "cryptomonnaies",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "clés privées",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la sécurité cryptographique des portefeuilles et blockchains.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "bitcoin",
+    "signatures",
+    "quantique"
+  ],
+  "questions": [
+    "Quelle menace ?",
+    "Quelle migration ?",
+    "Quel vol ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#CRYPTO"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cloudflare",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cloudflare",
+  "includedEntities": [
+    {
+      "entityName": "Cloudflare",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "panne",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre Cloudflare, ses pannes et ses rapports sur les menaces.",
+  "isFuzzy": true,
+  "locations": [
+    "San Francisco"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "DDoS",
+    "post-quantique",
+    "panne"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quel rapport ?",
+    "Quelle annonce ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ENTREPRISES",
+    "#INTERNET"
+  ],
+  "events": [],
+  "signals": [
+    "!RESILIENCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-verification-de-l-identite-face-a-l-ia",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Vérification de l'identité face à l'IA",
+  "includedEntities": [
+    {
+      "entityName": "vérification d'identité",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les fraudes à la vérification d'identité par l'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "faux documents",
+    "biométrie",
+    "banques"
+  ],
+  "questions": [
+    "Quelle fraude ?",
+    "Quel secteur ?",
+    "Quelle parade ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#IDENTITE"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

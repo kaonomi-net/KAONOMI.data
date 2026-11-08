@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Prerod – Stranka Vladimirja Prebiliča, parti ou liste de ce pays : Slovénie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-si-prerod-stranka-vladimirja-prebilica",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Prerod – Stranka Vladimirja Prebiliča",
+  "entityType": "ORGANISATION",
+  "description": "Prerod – Stranka Vladimirja Prebiliča, parti ou liste de ce pays : Slovénie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les eurodéputés de « Prerod – Stranka Vladimirja Prebiliča » ont été élus en juin 2024.",
+    "« Prerod – Stranka Vladimirja Prebiliča » est représenté dans le Parlement européen.",
+    "Le programme européen de « Prerod – Stranka Vladimirja Prebiliča » a été publié avant le scrutin."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Prerod%20%E2%80%93%20Stranka%20Vladimirja%20Prebili%C4%8Da"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Vladimir Prebilič",
+    "Slovénie",
+    "Les Verts/Alliance libre européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

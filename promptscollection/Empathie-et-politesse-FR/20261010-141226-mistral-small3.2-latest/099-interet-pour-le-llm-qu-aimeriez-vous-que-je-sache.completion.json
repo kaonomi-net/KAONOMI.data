@@ -1,0 +1,13 @@
+{
+  "index": 99,
+  "file": "099-interet-pour-le-llm-qu-aimeriez-vous-que-je-sache.prompt.json",
+  "prompt": "Qu'aimeriez-vous que je sache sur vous ?",
+  "promptWords": 7,
+  "completion": "Je suis ravi que vous posiez la question ! Voici quelques points clés à connaître sur moi :\n\n1. **Je suis un modèle de langage** : Je suis conçu pour comprendre et générer du texte dans de nombreuses langues, y compris le français. Mon but est de vous aider, informer et engager des conversations utiles.\n\n2. **Je suis basé sur des données jusqu'en octobre 2023** : Mon savoir s'arrête à cette date. Pour des informations plus récentes, je peux utiliser des outils si nécessaire.\n\n3. **Je suis transparent sur mes limites** : Si je ne sais pas quelque chose ou si une question est ambiguë, je vous le ferai savoir et je vous demanderai de clarifier.\n\n4. **Je respecte votre confidentialité** : Je ne stocke pas vos données personnelles et je ne partage pas d'informations sensibles.\n\n5. **Je suis polyvalent** : Je peux vous aider avec des questions factuelles, des conseils, des traductions, des explications, et bien plus encore.\n\n6. **Je suis toujours en apprentissage** : Vos retours m'aident à m'améliorer, alors n'hésitez pas à me donner votre avis !\n\nEn résumé, je suis là pour vous aider de la manière la plus précise et utile possible. Si vous avez des questions spécifiques sur mes capacités, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:16:07.9927071+02:00",
+  "durationSeconds": 5.93,
+  "stats": "mistral-small3.2:latest · 519 + 293 tokens · 5,9 s",
+  "isError": false,
+  "language": "FR"
+}

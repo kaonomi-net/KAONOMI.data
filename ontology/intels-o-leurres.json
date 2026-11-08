@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-leurres",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "leurres",
+  "entityType": "HARDWARE",
+  "description": "Cité par 1 intel : Vagues de drones Shahed.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre les attaques massives de drones de type Shahed."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "leurres",
+  "tags": [
+    "#RUSSIE",
+    "#DRONES",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Iran",
+    "drones",
+    "Shahed",
+    "défense antiaérienne",
+    "Geran"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

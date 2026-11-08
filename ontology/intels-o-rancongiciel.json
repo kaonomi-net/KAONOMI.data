@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-rancongiciel",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "rançongiciel",
+  "entityType": "DOMAIN",
+  "description": "Cité par 16 intels : Cyberattaque assistée par IA ; Cybercriminalité visant la France ; Cybersécurité dans la finance ; Rançongiciel contre ISAE-Supméca ; Cyberattaque contre une collectivité ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Surveiller l'usage de l'IA par les attaquants informatiques.",
+    "Suivre les cyberattaques contre les institutions françaises.",
+    "Repérer les cyberattaques visant les institutions financières."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "rançongiciel",
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#CYBER",
+    "#EDUCATION",
+    "#IA",
+    "#MENACE"
+  ],
+  "events": [
+    "@RANCONGICIEL",
+    "@CYBERATTAQUE",
+    "@INCIDENT-SECURITE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "cyberattaque",
+    "affiliés",
+    "ANSSI",
+    "collectivité",
+    "étudiants",
+    "Belgique",
+    "France",
+    "double extorsion",
+    "Europe",
+    "santé"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-porte-parole-dmitri-peskov",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Porte-parole Dmitri Peskov",
+  "includedEntities": [
+    {
+      "entityName": "Peskov",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Kremlin",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les déclarations du porte-parole du Kremlin.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Poutine",
+    "négociations",
+    "Occident"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quel démenti ?",
+    "Quel message ?"
+  ],
+  "tags": [
+    "#KREMLIN",
+    "#COMMUNICATION"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!COMMUNICATION"
+  ],
+  "isDeleted": false
+}

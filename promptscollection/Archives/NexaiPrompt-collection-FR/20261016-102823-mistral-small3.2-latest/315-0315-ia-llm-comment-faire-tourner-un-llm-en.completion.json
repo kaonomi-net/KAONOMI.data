@@ -1,0 +1,13 @@
+{
+  "index": 315,
+  "file": "0315-ia-llm-comment-faire-tourner-un-llm-en.prompt.json",
+  "prompt": "Comment faire tourner un LLM en local avec Ollama ?",
+  "promptWords": 10,
+  "completion": "Pour faire tourner un LLM (Large Language Model) en local avec Ollama, voici les étapes générales à suivre :\n\n### 1. **Installer Ollama**\n   - **Sur Linux/macOS** :\n     ```bash\n     curl -fsSL https://ollama.com/install.sh | sh\n     ```\n   - **Sur Windows** :\n     Téléchargez l'installateur depuis le [site officiel d'Ollama](https://ollama.com/).\n\n### 2. **Télécharger un Modèle**\n   Ollama propose plusieurs modèles pré-entraînés. Vous pouvez en lister la disponibilité avec :\n   ```bash\n   ollama list\n   ```\n   Pour télécharger un modèle spécifique (par exemple, `llama2`), utilisez :\n   ```bash\n   ollama pull llama2\n   ```\n\n### 3. **Lancer le Modèle en Local**\n   Une fois le modèle téléchargé, vous pouvez l'utiliser via l'interface en ligne de commande :\n   ```bash\n   ollama run llama2\n   ```\n   Cela ouvrira une session interactive avec le modèle.\n\n### 4. **Utiliser le Modèle via une API (Optionnel)**\n   Ollama expose également une API locale. Vous pouvez interagir avec le modèle via des requêtes HTTP. Par exemple, avec `curl` :\n   ```bash\n   curl http://localhost:11434/api/generate -d '{\n     \"model\": \"llama2\",\n     \"prompt\": \"Bonjour, comment ça va ?\"\n   }'\n   ```\n\n### 5. **Personnalisation (Optionnel)**\n   - **Paramètres du Modèle** : Vous pouvez ajuster des paramètres comme la température ou le nombre de tokens générés via l'API ou la ligne de commande.\n   - **Fine-Tuning** : Ollama ne prend pas encore en charge le fine-tuning directement, mais vous pouvez utiliser d'autres outils comme `transformers` de Hugging Face pour cette étape, puis charger le modèle fine-tuné avec Ollama.\n\n### Remarques\n- **Configuration Matérielle** : Assurez-vous que votre machine dispose de suffisamment de RAM et de puissance de calcul (GPU recommandé pour les modèles plus grands).\n- **Documentation** : Consultez la [documentation officielle d'Ollama](https://ollama.com/docs) pour des instructions détaillées et des mises à jour.\n\nSi vous avez des questions spécifiques ou des étapes qui ne fonctionnent pas, n'hésitez pas à demander plus de détails !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:23:14.2819014+02:00",
+  "durationSeconds": 11.31,
+  "stats": "mistral-small3.2:latest · 519 + 544 tokens · 11,3 s",
+  "isError": false,
+  "language": "FR"
+}

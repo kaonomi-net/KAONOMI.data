@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-hcdh",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "HCDH",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Bilan des victimes civiles de l'ONU ; Rapports de l'ONU sur les droits humains.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les bilans des victimes civiles publiés par l'ONU.",
+    "Suivre les rapports onusiens sur la guerre."
+  ],
+  "angryLevel": null,
+  "sadLevel": 50,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "HCDH",
+  "tags": [
+    "#UKRAINE",
+    "#ONU",
+    "#CIVILS",
+    "#DROITS-HUMAINS"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!SAD",
+    "!JUSTICE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ONU",
+    "Genève",
+    "victimes civiles",
+    "mission de surveillance",
+    "enfants",
+    "New York",
+    "droits humains",
+    "commission d'enquête",
+    "rapport",
+    "Conseil des droits de l'homme"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

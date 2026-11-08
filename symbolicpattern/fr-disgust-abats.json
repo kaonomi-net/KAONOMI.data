@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-abats",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les parties internes des animaux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:abats)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tripes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:boyaux)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:entrailles)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:visc[èe]res)(?![\\w-])"
+  ],
+  "symbol": "abats",
+  "event": null,
+  "title": "Abats",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

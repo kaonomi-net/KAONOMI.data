@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-renew-europe",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Renew Europe",
+  "includedEntities": [
+    {
+      "entityName": "Renew Europe",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "libéraux",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la position du groupe centriste Renew Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Valérie Hayer",
+    "majorité",
+    "votes"
+  ],
+  "questions": [
+    "Quel vote ?",
+    "Quelle exigence ?",
+    "Quelle division interne ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#RENEW"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

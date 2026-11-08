@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-position-du-rn-sur-la-russie-et-l-ukraine",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Position du RN sur la Russie et l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "Rassemblement national",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les positions du RN sur la guerre en Ukraine.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Marine Le Pen",
+    "Jordan Bardella",
+    "OTAN"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quelle évolution ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#UKRAINE"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

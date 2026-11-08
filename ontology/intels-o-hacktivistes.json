@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-hacktivistes",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "hacktivistes",
+  "entityType": "PROFESSION",
+  "description": "Cité par 11 intels : Cyberguerre liée à l'Iran ; Hacktivistes pro-iraniens ; Hacktivistes prorusses ; DDoS contre des sites gouvernementaux ; DDoS contre les banques et les transports ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les cyberattaques liées à la guerre avec l'Iran depuis février 2026.",
+    "Suivre les hacktivistes pro-iraniens actifs depuis février 2026.",
+    "Suivre les hacktivistes prorusses visant l'Europe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "hacktivistes",
+  "tags": [
+    "#CYBERSECURITE",
+    "#HACKTIVISME",
+    "#IRAN",
+    "#RUSSIE",
+    "#DDOS",
+    "#INFRASTRUCTURES"
+  ],
+  "events": [
+    "@CYBERATTAQUE",
+    "@REVENDICATION",
+    "@DDOS"
+  ],
+  "signals": [
+    "!MENACE",
+    "!ALERTE",
+    "!VEILLE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Europe",
+    "automates",
+    "eau",
+    "Handala",
+    "Cyber Army of Russia",
+    "Telegram",
+    "DDoS",
+    "collectivités",
+    "Iran",
+    "APT iraniens"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

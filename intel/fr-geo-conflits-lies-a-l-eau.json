@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-conflits-lies-a-l-eau",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Conflits liés à l'eau",
+  "includedEntities": [
+    {
+      "entityName": "eau",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "barrage",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sécheresse",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les tensions autour des ressources en eau.",
+  "isFuzzy": true,
+  "locations": [
+    "Nil",
+    "Tigre et Euphrate",
+    "Mékong"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Éthiopie",
+    "Égypte",
+    "Turquie"
+  ],
+  "questions": [
+    "Quel barrage ?",
+    "Quels pays en conflit ?",
+    "Quelle médiation ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#EAU",
+    "#RESSOURCES"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

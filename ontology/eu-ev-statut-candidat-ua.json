@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (l'élargissement) : Le Conseil européen accorde le statut de candidat sur recommandation de la Commission.",
+  "id": "eu-ev-statut-candidat-ua",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Statut de pays candidat accordé à l'Ukraine et à la Moldavie",
+  "entityType": "EVENT",
+  "description": "Le Conseil européen accorde le statut de candidat sur recommandation de la Commission.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "La presse européenne a largement couvert « Statut de pays candidat accordé à l'Ukraine et à la Moldavie ».",
+    "« Statut de pays candidat accordé à l'Ukraine et à la Moldavie » concerne l'élargissement.",
+    "Les archives audiovisuelles de la Commission conservent des images de « Statut de pays candidat accordé à l'Ukraine et à la Moldavie »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Statut%20de%20pays%20candidat%20accord%C3%A9%20%C3%A0%20l%27Ukraine%20et%20%C3%A0%20la%20Moldavie"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Élargissement",
+    "Ursula von der Leyen",
+    "Olivér Várhelyi",
+    "Commission von der Leyen I",
+    "Invasion de l'Ukraine par la Russie",
+    "Ukraine",
+    "Moldavie",
+    "Conseil européen"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-06-23T00:00:00",
+  "endDate": null
+}

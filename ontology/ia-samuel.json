@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (l'apprentissage automatique) : Informaticien américain d'IBM, auteur d'un programme de jeu de dames qui apprenait de ses parties ; il a popularisé l'expression « machine learning » en 1959.",
+  "id": "ia-samuel",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Arthur Samuel",
+  "entityType": "PERSON",
+  "description": "Informaticien américain d'IBM, auteur d'un programme de jeu de dames qui apprenait de ses parties ; il a popularisé l'expression « machine learning » en 1959.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Arthur Samuel est l'une des figures marquantes de l'apprentissage automatique.",
+    "Lors de la conférence, l'oratrice a cité Arthur Samuel pour illustrer les progrès de l'apprentissage automatique.",
+    "Une biographie de Arthur Samuel rappelle son rôle dans l'apprentissage automatique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Arthur Lee Samuel"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#APPRENTISSAGEAUTOMATIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Arthur%20Samuel"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Algorithme minimax"
+  ],
+  "isDeleted": false,
+  "startDate": "1901-12-05T00:00:00",
+  "endDate": "1990-07-29T00:00:00"
+}

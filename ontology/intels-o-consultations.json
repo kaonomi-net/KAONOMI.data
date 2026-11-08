@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-consultations",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "consultations",
+  "entityType": "EVENT",
+  "description": "Cité par 2 intels : Article 5 de l'OTAN ; Incursions aériennes dans les pays baltes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Surveiller toute invocation de l'article 5 ou de l'article 4 de l'OTAN.",
+    "Suivre les violations de l'espace aérien balte par des avions ou des drones russes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "consultations",
+  "tags": [
+    "#OTAN",
+    "#SECURITE",
+    "#ALLIANCE",
+    "#BALTES",
+    "#GUERRE-HYBRIDE",
+    "#ESPACE-AERIEN"
+  ],
+  "events": [
+    "@CONSULTATION-OTAN",
+    "@INCURSION"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OTAN",
+    "agression",
+    "article 5",
+    "alliés",
+    "Lituanie",
+    "chasseurs",
+    "Estonie",
+    "incursion",
+    "espace aérien",
+    "Lettonie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

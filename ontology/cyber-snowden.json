@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la surveillance de masse) : Ancien sous-traitant de la NSA, lanceur d'alerte qui a révélé en 2013 les programmes de surveillance de masse américains et britanniques.",
+  "id": "cyber-snowden",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Edward Snowden",
+  "entityType": "PERSON",
+  "description": "Ancien sous-traitant de la NSA, lanceur d'alerte qui a révélé en 2013 les programmes de surveillance de masse américains et britanniques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les travaux de Edward Snowden pour comprendre la surveillance de masse.",
+    "Sans Edward Snowden, l'histoire de la surveillance de masse aurait été différente.",
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Edward Snowden."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "E. Snowden"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#SURVEILLANCEMASSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Edward%20Snowden"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Révélations d'Edward Snowden",
+    "Tor"
+  ],
+  "isDeleted": false,
+  "startDate": "1983-06-21T00:00:00",
+  "endDate": null
+}

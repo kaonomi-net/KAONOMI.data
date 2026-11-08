@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-negociations-de-paix-entre-la-russie-et-l-ukraine",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Négociations de paix entre la Russie et l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "négociations",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les pourparlers et propositions de cessez-le-feu entre la Russie et l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Istanbul",
+    "Genève",
+    "Riyad"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "médiateurs",
+    "États-Unis",
+    "Turquie"
+  ],
+  "questions": [
+    "Qui participe ?",
+    "Quelles conditions sont posées ?",
+    "Un cessez-le-feu est-il annoncé ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#UKRAINE",
+    "#RUSSIE",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@NEGOCIATIONS"
+  ],
+  "signals": [
+    "!DESESCALADE"
+  ],
+  "isDeleted": false
+}

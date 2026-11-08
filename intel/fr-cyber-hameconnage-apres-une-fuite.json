@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-hameconnage-apres-une-fuite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Hameçonnage après une fuite",
+  "includedEntities": [
+    {
+      "entityName": "fuite",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "hameçonnage",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "victimes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les arnaques qui exploitent une fuite de données récente.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "faux conseillers",
+    "appels",
+    "SMS"
+  ],
+  "questions": [
+    "Quelle fuite exploitée ?",
+    "Quelle arnaque ?",
+    "Quelle alerte ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES",
+    "#HAMECONNAGE"
+  ],
+  "events": [],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

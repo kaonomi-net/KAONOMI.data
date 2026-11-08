@@ -1,0 +1,13 @@
+{
+  "index": 874,
+  "file": "0874-cpp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C++ qui illustre les modules de C++20.",
+  "promptWords": 13,
+  "completion": "Voici un exemple de code en C++20 qui illustre l'utilisation des modules. Les modules permettent de mieux organiser le code en séparant les déclarations (interface) et les définitions (implémentation), ce qui améliore la compilation et la maintenabilité.\n\n### Fichier `math_module.ixx` (interface du module)\n```cpp\n// Déclaration du module\nexport module math_module;\n\n// Déclarations des fonctions exportées\nexport int add(int a, int b);\nexport int multiply(int a, int b);\n```\n\n### Fichier `math_module.cpp` (implémentation du module)\n```cpp\n// Implémentation du module\nmodule math_module;\n\n// Définitions des fonctions\nint add(int a, int b) {\n    return a + b;\n}\n\nint multiply(int a, int b) {\n    return a * b;\n}\n```\n\n### Fichier `main.cpp` (utilisation du module)\n```cpp\n// Importation du module\nimport math_module;\n\n#include <iostream>\n\nint main() {\n    int a = 5, b = 3;\n\n    std::cout << \"Addition: \" << add(a, b) << std::endl;\n    std::cout << \"Multiplication: \" << multiply(a, b) << std::endl;\n\n    return 0;\n}\n```\n\n### Explications :\n1. **`math_module.ixx`** : Ce fichier contient l'interface du module. Les fonctions `add` et `multiply` sont déclarées avec le mot-clé `export`, ce qui les rend disponibles pour les utilisateurs du module.\n2. **`math_module.cpp`** : Ce fichier contient l'implémentation des fonctions déclarées dans l'interface. Le module est référencé avec `module math_module;`.\n3. **`main.cpp`** : Ce fichier importe le module avec `import math_module;` et utilise les fonctions `add` et `multiply`.\n\n### Compilation (avec g++) :\nPour compiler ce code, vous pouvez utiliser la commande suivante (en supposant que vous utilisez g++) :\n```sh\ng++ -std=c++20 -fmodules-ts main.cpp math_module.cpp -o math_example\n```\n\nCet exemple montre comment les modules de C++20 permettent de mieux structurer le code et d'améliorer la modularité.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:34:01.4687744+02:00",
+  "durationSeconds": 9.92,
+  "stats": "mistral-small3.2:latest · 527 + 493 tokens · 9,9 s",
+  "isError": false,
+  "language": "FR"
+}

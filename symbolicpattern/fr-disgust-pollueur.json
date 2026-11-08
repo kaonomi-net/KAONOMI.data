@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-pollueur",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Celui qui salit l'environnement.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pollueur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]cocide(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:greenwashing)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]versement(s)?\\s+toxique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]gazage(s)?\\s+sauvage(s)?)(?![\\w-])"
+  ],
+  "symbol": "pollueur",
+  "event": null,
+  "title": "Pollueur",
+  "tags": [
+    "#DISGUST",
+    "#MORAL",
+    "#INSALUBRITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

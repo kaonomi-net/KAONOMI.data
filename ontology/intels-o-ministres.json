@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ministres",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "ministres",
+  "entityType": "PROFESSION",
+  "description": "Cité par 5 intels : Remaniements à Kyiv ; Ralliements à Édouard Philippe ; Gouvernement de Sébastien Lecornu ; Remaniement ministériel ; Lobbying et conflits d'intérêts.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les changements au gouvernement et dans l'administration présidentielle.",
+    "Repérer les soutiens qui rejoignent Édouard Philippe.",
+    "Suivre l'action et la survie du gouvernement de Sébastien Lecornu."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "ministres",
+  "tags": [
+    "#FRANCE",
+    "#GOUVERNEMENT",
+    "#UKRAINE",
+    "#POLITIQUE",
+    "#HORIZONS",
+    "#CAMPAGNE"
+  ],
+  "events": [
+    "@NOMINATION",
+    "@RALLIEMENT",
+    "@REMANIEMENT"
+  ],
+  "signals": [
+    "!GOUVERNANCE",
+    "!CAMPAGNE",
+    "!CRISE-POLITIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "remaniement",
+    "gouvernement",
+    "Matignon",
+    "Kyiv",
+    "Rada",
+    "chef de cabinet",
+    "Édouard Philippe",
+    "ralliement",
+    "élus",
+    "Renaissance"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

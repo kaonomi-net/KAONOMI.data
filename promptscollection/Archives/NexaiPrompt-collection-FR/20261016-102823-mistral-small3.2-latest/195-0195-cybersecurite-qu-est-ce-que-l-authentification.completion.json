@@ -1,0 +1,13 @@
+{
+  "index": 195,
+  "file": "0195-cybersecurite-qu-est-ce-que-l-authentification.prompt.json",
+  "prompt": "Qu'est-ce que l'authentification multifacteur (MFA) ?",
+  "promptWords": 6,
+  "completion": "L'authentification multifacteur (MFA), ou *multi-factor authentication* en anglais, est un processus de sécurité qui nécessite que l'utilisateur fournisse deux ou plusieurs formes de preuve pour vérifier son identité avant d'accéder à un système, une application ou un service. Contrairement à l'authentification à facteur unique (comme un simple mot de passe), le MFA ajoute une ou plusieurs couches de sécurité supplémentaires pour réduire les risques de compromission des comptes.\n\n### Les trois principaux types de facteurs d'authentification sont :\n\n1. **Quelque chose que l'utilisateur sait** (connaissance) :\n   - Mot de passe\n   - Réponse à une question secrète\n\n2. **Quelque chose que l'utilisateur possède** (possession) :\n   - Code envoyé par SMS ou via une application d'authentification (comme Google Authenticator ou Authy)\n   - Clé de sécurité physique (comme YubiKey)\n   - Carte à puce\n\n3. **Quelque chose que l'utilisateur est** (intrinsèque) :\n   - Empreinte digitale (biométrie)\n   - Reconnaissance faciale\n   - Scan de l'iris\n\n### Exemples d'utilisation du MFA :\n- Connexion à un compte bancaire en ligne\n- Accès à un compte professionnel (comme Microsoft 365 ou Google Workspace)\n- Connexion à un réseau d'entreprise\n\n### Avantages du MFA :\n- **Sécurité renforcée** : Même si un mot de passe est volé, un attaquant aura besoin d'un deuxième facteur pour accéder au compte.\n- **Réduction des risques de piratage** : Les attaques par force brute ou phishing sont beaucoup plus difficiles à réussir.\n- **Conformité aux réglementations** : De nombreuses industries exigent le MFA pour se conformer aux normes de sécurité (comme le RGPD en Europe).\n\nEn résumé, le MFA est une méthode essentielle pour protéger les données sensibles et les comptes en ligne contre les cybermenaces.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:02:27.8317361+02:00",
+  "durationSeconds": 8.71,
+  "stats": "mistral-small3.2:latest · 524 + 433 tokens · 8,7 s",
+  "isError": false,
+  "language": "FR"
+}

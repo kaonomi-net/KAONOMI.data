@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-renseignement",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "renseignement",
+  "entityType": "DOMAIN",
+  "description": "Cité par 5 intels : Mobilisation des troupes russes vers le Donbass ; Partage du renseignement américain ; Drones au-dessus des sites militaires ; Espionnage entre États ; Instrument européen pour les capacités stratégiques.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les concentrations de troupes russes vers le Donbass.",
+    "Suivre le partage de renseignements entre Washington et Kyiv.",
+    "Surveiller les survols de bases et sites sensibles en Europe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "renseignement",
+  "tags": [
+    "#RENSEIGNEMENT",
+    "#ESPIONNAGE",
+    "#RUSSIE",
+    "#DONBASS",
+    "#FRONT",
+    "#ETATS-UNIS"
+  ],
+  "events": [
+    "@INCURSION",
+    "@AFFAIRE-ESPIONNAGE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!SOUTIEN",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "renforts",
+    "Donbass",
+    "armée russe",
+    "offensive",
+    "réserves",
+    "ciblage",
+    "Ukraine",
+    "suspension",
+    "satellites",
+    "États-Unis"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

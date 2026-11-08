@@ -1,0 +1,13 @@
+{
+  "index": 13,
+  "file": "033-cuisine-comment-faire-une-vinaigrette-equilibree.prompt.json",
+  "prompt": "Comment faire une vinaigrette équilibrée ?",
+  "promptWords": 6,
+  "completion": "Pour faire une vinaigrette équilibrée, il est important de respecter certaines proportions et d'utiliser des ingrédients de qualité. Voici une recette de base et quelques conseils pour obtenir une vinaigrette bien équilibrée en saveurs :\n\n### Ingrédients de base :\n- **3 parties d'huile** (de préférence une huile neutre comme l'huile de tournesol ou une huile aromatique comme l'huile d'olive)\n- **1 partie de vinaigre** (vinaigre de vin, vinaigre balsamique, vinaigre de cidre, etc.)\n- **Sel et poivre** (au goût)\n- **Optionnel** : moutarde, herbes fraîches, échalote, ail, miel, ou autres aromates selon vos préférences\n\n### Étapes :\n1. **Mélangez les ingrédients** : Dans un bol, versez l'huile et le vinaigre. Ajoutez le sel et le poivre.\n2. **Émulsionnez** : Fouettez vigoureusement jusqu'à ce que le mélange devienne homogène et légèrement épais. Vous pouvez aussi utiliser un petit mixeur plongeant pour une émulsion plus stable.\n3. **Ajoutez les options** : Si vous utilisez de la moutarde, des herbes ou d'autres ingrédients, incorporez-les après avoir mélangé l'huile et le vinaigre.\n\n### Conseils pour un équilibre parfait :\n- **Ratio huile/vinaigre** : Le ratio classique est de 3:1, mais vous pouvez ajuster selon vos goûts. Pour une vinaigrette plus douce, augmentez légèrement la quantité de vinaigre.\n- **Assaisonnement** : Goûtez et ajustez le sel et le poivre en fonction de vos préférences.\n- **Variantes** : Pour adoucir la vinaigrette, vous pouvez ajouter une touche de miel ou de sirop d'érable. Pour plus de corps, un peu de moutarde à l'ancienne ou de yaourt nature peut être utilisé.\n\n### Exemple de vinaigrette équilibrée :\n- 3 cuillères à soupe d'huile d'olive\n- 1 cuillère à soupe de vinaigre balsamique\n- 1 cuillère à café de moutarde à l'ancienne\n- Sel et poivre au goût\n\nN'hésitez pas à expérimenter avec différentes combinaisons pour trouver celle qui vous plaît le plus !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:18:45.3978433+02:00",
+  "durationSeconds": 11.79,
+  "stats": "mistral-small3.2:latest · 518 + 549 tokens · 11,8 s",
+  "isError": false,
+  "language": "FR"
+}

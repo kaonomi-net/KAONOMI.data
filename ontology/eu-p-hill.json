@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les services financiers) : Membre conservateur de la Chambre des lords, commissaire à la Stabilité financière et aux Services financiers de 2014 à sa démission après le référendum sur le Brexit en 2016.",
+  "id": "eu-p-hill",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Jonathan Hill",
+  "entityType": "PERSON",
+  "description": "Membre conservateur de la Chambre des lords, commissaire à la Stabilité financière et aux Services financiers de 2014 à sa démission après le référendum sur le Brexit en 2016.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Lors du point de presse de midi, une question portait sur Jonathan Hill.",
+    "Jonathan Hill est une figure de les services financiers.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Jonathan Hill."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Hill"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#SERVICESFINANCIERS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Jonathan%20Hill"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité britannique",
+    "Parti conservateur",
+    "Haut fonctionnaire national",
+    "Commissaire européen",
+    "Stabilité financière, services financiers et union des marchés des capitaux (Commission Juncker)",
+    "Commission Juncker",
+    "Services financiers",
+    "Union de l'épargne et des investissements",
+    "Julian King",
+    "Référendum sur l'appartenance du Royaume-Uni à l'UE"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

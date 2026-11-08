@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-office-europeen-de-lutte-antifraude",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Office européen de lutte antifraude",
+  "includedEntities": [
+    {
+      "entityName": "OLAF",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "fraude",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "fonds européens",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les enquêtes de l'OLAF sur la fraude aux fonds européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Parquet européen",
+    "subventions",
+    "récupérations"
+  ],
+  "questions": [
+    "Quelle enquête ?",
+    "Quel montant ?",
+    "Quel pays ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#FRAUDE",
+    "#OLAF"
+  ],
+  "events": [
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!SCANDALE"
+  ],
+  "isDeleted": false
+}

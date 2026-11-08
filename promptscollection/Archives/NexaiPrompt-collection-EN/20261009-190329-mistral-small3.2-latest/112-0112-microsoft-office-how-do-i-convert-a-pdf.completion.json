@@ -1,0 +1,13 @@
+{
+  "index": 112,
+  "file": "0112-microsoft-office-how-do-i-convert-a-pdf.prompt.json",
+  "prompt": "How do I convert a PDF into an editable document in Word?",
+  "promptWords": 12,
+  "completion": "To convert a PDF into an editable Word document, you can follow these steps:\n\n1. **Using Microsoft Word (2013 or later):**\n   - Open Microsoft Word.\n   - Click on **File** > **Open**.\n   - Browse to the location of your PDF file, select it, and click **Open**.\n   - Word will prompt you to convert the PDF. Click **OK**.\n   - The PDF will be converted to an editable Word document.\n\n2. **Using Adobe Acrobat (Pro version):**\n   - Open the PDF in Adobe Acrobat.\n   - Click on **File** > **Export To** > **Microsoft Word** > **Word Document**.\n   - Choose the location to save the file and click **Save**.\n   - The PDF will be converted to a Word document.\n\n3. **Using Online Conversion Tools:**\n   - There are several online tools available that can convert PDFs to Word documents. Some popular ones include Smallpdf, PDF2DOC, and iLovePDF.\n   - Upload your PDF file to the website, and download the converted Word document.\n\n4. **Using Google Docs:**\n   - Upload the PDF to your Google Drive.\n   - Right-click on the PDF file and select **Open with** > **Google Docs**.\n   - Google Docs will convert the PDF to an editable document.\n\nNote that the quality of the conversion may vary depending on the complexity of the PDF. Simple text documents usually convert well, but complex layouts, images, or tables might not convert perfectly and may require manual adjustments.\n\nWould you like more detailed instructions for any of these methods?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:24:07.5562489+02:00",
+  "durationSeconds": 7.99,
+  "stats": "mistral-small3.2:latest · 520 + 331 tokens · 8,0 s",
+  "isError": false,
+  "language": "EN"
+}

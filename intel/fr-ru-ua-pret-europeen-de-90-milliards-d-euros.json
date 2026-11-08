@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-pret-europeen-de-90-milliards-d-euros",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Prêt européen de 90 milliards d'euros",
+  "includedEntities": [
+    {
+      "entityName": "prêt",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "90 milliards",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le prêt européen de 90 milliards d'euros à l'Ukraine pour 2026 et 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Conseil européen",
+    "budget européen",
+    "Kyiv"
+  ],
+  "questions": [
+    "Quels versements ?",
+    "Quelles conditions ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#UKRAINE",
+    "#FINANCEMENT"
+  ],
+  "events": [
+    "@VERSEMENT"
+  ],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-grand-public",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "grand public",
+  "entityType": "NORP",
+  "description": "Cité par 1 intel : Mois européen de la cybersécurité.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-norp",
+  "sentencesExemples": [
+    "Suivre le mois européen de la cybersécurité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "grand public",
+  "tags": [
+    "#CYBERSECURITE",
+    "#SENSIBILISATION",
+    "#EUROPE"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!FORMATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Europe",
+    "campagnes",
+    "mois européen de la cybersécurité",
+    "sensibilisation",
+    "ENISA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

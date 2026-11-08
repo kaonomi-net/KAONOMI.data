@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Tchéquie.",
+  "id": "pe10-mep-256846",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Ondřej Kolář",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Tchéquie. Groupe politique : Parti populaire européen (PPE). Parti ou liste national : TOP 09.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Le vote de Ondřej Kolář figure dans le relevé des votes par appel nominal.",
+    "Ondřej Kolář participe aux travaux des commissions parlementaires.",
+    "Ondřej Kolář siège au Parlement européen depuis la législature 2024-2029."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Ondřej KOLÁŘ"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256846",
+    "https://fr.wikipedia.org/w/index.php?search=Ond%C5%99ej%20Kol%C3%A1%C5%99"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Tchéquie",
+    "Parlement européen",
+    "Parti populaire européen (PPE)",
+    "TOP 09"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

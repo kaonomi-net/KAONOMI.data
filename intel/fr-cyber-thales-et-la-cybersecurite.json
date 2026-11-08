@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-thales-et-la-cybersecurite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Thales et la cybersécurité",
+  "includedEntities": [
+    {
+      "entityName": "Thales",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cybersécurité",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [
+    {
+      "entityName": "philosophe",
+      "entityWeight": ""
+    }
+  ],
+  "triggerLevel": 60,
+  "instructions": "Suivre les activités cyber de Thales.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Imperva",
+    "chiffrement",
+    "défense"
+  ],
+  "questions": [
+    "Quel contrat ?",
+    "Quelle acquisition ?",
+    "Quel résultat ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ENTREPRISES",
+    "#FRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

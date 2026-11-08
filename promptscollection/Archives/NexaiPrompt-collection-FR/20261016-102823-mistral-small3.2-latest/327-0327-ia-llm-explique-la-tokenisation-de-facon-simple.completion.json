@@ -1,0 +1,13 @@
+{
+  "index": 327,
+  "file": "0327-ia-llm-explique-la-tokenisation-de-facon-simple.prompt.json",
+  "prompt": "Explique la tokenisation de façon simple.",
+  "promptWords": 6,
+  "completion": "La tokenisation est un processus qui consiste à découper un texte en petites unités appelées \"tokens\". Ces tokens peuvent être des mots, des chiffres, des signes de ponctuation, ou même des parties de mots, selon le niveau de granularité souhaité.\n\n### Exemple simple :\nPrenons la phrase : *\"Bonjour, comment ça va ?\"*\n\nUne tokenisation basique pourrait donner :\n- \"Bonjour\"\n- \",\"\n- \" \"\n- \"comment\"\n- \" \"\n- \"ça\"\n- \" \"\n- \"va\"\n- \"?\"\n\n### Pourquoi faire ça ?\nLa tokenisation est une étape essentielle dans le traitement automatique du langage naturel (NLP). Elle permet aux modèles de compréhension ou de génération de texte de manipuler et d'analyser le texte de manière structurée.\n\n### Cas particuliers :\n- **Mots composés** : Certains systèmes peuvent regrouper des mots comme \"porte-monnaie\" en un seul token.\n- **Raccourcis** : Des mots comme \"l'appli\" peuvent être tokenisés en \"l\" et \"appli\".\n- **Langues à espaces** : En anglais ou en français, les espaces aident à séparer les mots. Mais pour des langues comme le chinois, la tokenisation est plus complexe car il n'y a pas d'espaces entre les mots.\n\nEn résumé, la tokenisation est comme une \"découpe en morceaux\" du texte pour faciliter son analyse ou sa transformation par un ordinateur.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:25:13.4332963+02:00",
+  "durationSeconds": 6.26,
+  "stats": "mistral-small3.2:latest · 516 + 309 tokens · 6,3 s",
+  "isError": false,
+  "language": "FR"
+}

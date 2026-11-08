@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (le connexionnisme) : Psychologue américain, co-auteur en 1986 de l'article qui a popularisé la rétropropagation du gradient et figure du mouvement connexionniste (PDP).",
+  "id": "ia-rumelhart",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "David Rumelhart",
+  "entityType": "PERSON",
+  "description": "Psychologue américain, co-auteur en 1986 de l'article qui a popularisé la rétropropagation du gradient et figure du mouvement connexionniste (PDP).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de David Rumelhart.",
+    "Les étudiants lisent les articles de David Rumelhart pour comprendre le connexionnisme.",
+    "Sans les idées de David Rumelhart, l'histoire du connexionnisme aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "David E. Rumelhart"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#CONNEXIONNISME"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=David%20Rumelhart"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Rétropropagation du gradient"
+  ],
+  "isDeleted": false,
+  "startDate": "1942-06-12T00:00:00",
+  "endDate": "2011-03-13T00:00:00"
+}

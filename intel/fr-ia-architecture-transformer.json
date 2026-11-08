@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-architecture-transformer",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Architecture Transformer",
+  "includedEntities": [
+    {
+      "entityName": "Transformer",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "attention",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les évolutions de l'architecture Transformer et ses alternatives.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Google",
+    "Mamba",
+    "modèles de langage"
+  ],
+  "questions": [
+    "Quelle amélioration ?",
+    "Quel gain d'efficacité ?",
+    "Quelle alternative émerge ?"
+  ],
+  "tags": [
+    "#IA",
+    "#RECHERCHE",
+    "#ARCHITECTURE"
+  ],
+  "events": [],
+  "signals": [
+    "!RECHERCHE"
+  ],
+  "isDeleted": false
+}

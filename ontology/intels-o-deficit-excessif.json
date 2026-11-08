@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-deficit-excessif",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "déficit excessif",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Procédure de déficit excessif ; Pacte de stabilité et procédures de déficit.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la procédure européenne pour déficit excessif visant la France.",
+    "Suivre l'application des règles budgétaires européennes aux États membres."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "déficit excessif",
+  "tags": [
+    "#DETTE",
+    "#FRANCE",
+    "#EUROPE",
+    "#UNION-EUROPEENNE",
+    "#REGLES-BUDGETAIRES"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "pacte de stabilité",
+    "Bruxelles",
+    "Commission européenne",
+    "recommandations",
+    "trajectoire",
+    "Italie",
+    "clause dérogatoire défense",
+    "France"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

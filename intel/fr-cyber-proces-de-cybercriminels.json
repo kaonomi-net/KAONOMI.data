@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-proces-de-cybercriminels",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Procès de cybercriminels",
+  "includedEntities": [
+    {
+      "entityName": "procès",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "pirates",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "condamnation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les procès de cybercriminels.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "tribunal",
+    "peine",
+    "victimes"
+  ],
+  "questions": [
+    "Quel procès ?",
+    "Quelle peine ?",
+    "Quel précédent ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@CONDAMNATION"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

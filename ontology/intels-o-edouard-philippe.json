@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-edouard-philippe",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "Édouard Philippe",
+  "entityType": "PERSON",
+  "description": "Cité par 2 intels : Candidature d'Édouard Philippe ; Ralliements à Édouard Philippe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre la candidature d'Édouard Philippe et de Horizons.",
+    "Repérer les soutiens qui rejoignent Édouard Philippe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Édouard Philippe",
+  "tags": [
+    "#FRANCE",
+    "#HORIZONS",
+    "#PRESIDENTIELLE-2027",
+    "#CAMPAGNE"
+  ],
+  "events": [
+    "@CANDIDATURE",
+    "@RALLIEMENT"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Horizons",
+    "bloc central",
+    "Le Havre",
+    "sondages",
+    "ralliement",
+    "ministres",
+    "Renaissance",
+    "élus"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

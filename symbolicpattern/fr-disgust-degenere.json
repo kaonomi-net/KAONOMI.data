@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-degenere",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui a perdu toute qualité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]g[ée]n[ée]r[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]g[ée]n[ée]rescence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tar[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]bile(s)?\\s+profond(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tordu(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "dégénéré",
+  "event": null,
+  "title": "Dégénéré",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

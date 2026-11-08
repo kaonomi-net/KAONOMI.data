@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-ignoble",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "D'une bassesse qui écœure.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ignoble(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ignominieu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vil(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[ée]prisable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:indigne(s)?)(?![\\w-])"
+  ],
+  "symbol": "ignoble",
+  "event": null,
+  "title": "Ignoble",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

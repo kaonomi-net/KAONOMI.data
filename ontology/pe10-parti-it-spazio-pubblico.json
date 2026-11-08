@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Spazio Pubblico, parti ou liste de ce pays : Italie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-it-spazio-pubblico",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Spazio Pubblico",
+  "entityType": "ORGANISATION",
+  "description": "Spazio Pubblico, parti ou liste de ce pays : Italie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les positions de « Spazio Pubblico » sont suivies à Bruxelles et à Strasbourg.",
+    "« Spazio Pubblico » compte des élus au Parlement européen.",
+    "La presse a commenté le score de « Spazio Pubblico » aux élections européennes."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Spazio%20Pubblico"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pina Picierno",
+    "Italie",
+    "Renew Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

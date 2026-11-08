@@ -1,0 +1,13 @@
+{
+  "index": 790,
+  "file": "0790-csharp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C# qui illustre async et await.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en C# qui illustre l'utilisation des mots-clés `async` et `await` pour gérer des opérations asynchrones :\n\n```csharp\nusing System;\nusing System.Threading.Tasks;\nusing System.Net.Http;\n\nclass Program\n{\n    static async Task Main(string[] args)\n    {\n        Console.WriteLine(\"Début de l'exécution asynchrone\");\n\n        // Appel à une méthode asynchrone\n        string result = await FetchDataAsync();\n\n        Console.WriteLine($\"Données reçues : {result}\");\n        Console.WriteLine(\"Fin de l'exécution asynchrone\");\n    }\n\n    static async Task<string> FetchDataAsync()\n    {\n        using (HttpClient client = new HttpClient())\n        {\n            // Simule une requête HTTP asynchrone\n            HttpResponseMessage response = await client.GetAsync(\"https://jsonplaceholder.typicode.com/posts/1\");\n            response.EnsureSuccessStatusCode();\n            string responseBody = await response.Content.ReadAsStringAsync();\n            return responseBody;\n        }\n    }\n}\n```\n\n### Explications :\n1. **`async`** : Le mot-clé `async` est utilisé pour marquer une méthode comme asynchrone. Dans cet exemple, `Main` et `FetchDataAsync` sont des méthodes asynchrones.\n2. **`await`** : Le mot-clé `await` est utilisé pour attendre la fin d'une opération asynchrone sans bloquer le thread d'exécution. Ici, `await client.GetAsync(...)` et `await response.Content.ReadAsStringAsync()` permettent d'attendre la réponse du serveur sans bloquer le programme.\n3. **`Task<string>`** : La méthode `FetchDataAsync` retourne un `Task<string>`, indiquant qu'elle effectuera une opération asynchrone et retournera une chaîne de caractères (`string`) une fois terminée.\n\nCet exemple montre comment utiliser `async` et `await` pour effectuer une requête HTTP de manière asynchrone, ce qui est particulièrement utile pour éviter de bloquer l'interface utilisateur ou d'autres opérations dans une application.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:14:15.8402815+02:00",
+  "durationSeconds": 9.15,
+  "stats": "mistral-small3.2:latest · 523 + 446 tokens · 9,1 s",
+  "isError": false,
+  "language": "FR"
+}

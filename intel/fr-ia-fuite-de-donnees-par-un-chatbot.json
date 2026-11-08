@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-fuite-de-donnees-par-un-chatbot",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Fuite de données par un chatbot",
+  "includedEntities": [
+    {
+      "entityName": "fuite de données",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "chatbot",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "confidentiel",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Repérer les fuites d'informations confidentielles via des assistants d'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Samsung",
+    "ChatGPT",
+    "entreprise"
+  ],
+  "questions": [
+    "Quelles données ont fuité ?",
+    "Comment ?",
+    "Quelles mesures prises ?"
+  ],
+  "tags": [
+    "#IA",
+    "#CYBERSECURITE",
+    "#DONNEES"
+  ],
+  "events": [
+    "@INCIDENT-SECURITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

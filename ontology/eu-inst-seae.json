@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique étrangère) : Service diplomatique de l'Union, placé sous l'autorité du haut représentant.",
+  "id": "eu-inst-seae",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Service européen pour l'action extérieure",
+  "entityType": "ORGANISATION",
+  "description": "Service diplomatique de l'Union, placé sous l'autorité du haut représentant.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-institutions",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Service européen pour l'action extérieure » préparent les textes relatifs à la politique étrangère.",
+    "La délégation a rencontré des représentants de « Service européen pour l'action extérieure ».",
+    "« Service européen pour l'action extérieure » joue un rôle dans la politique étrangère."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "SEAE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Service%20europ%C3%A9en%20pour%20l%27action%20ext%C3%A9rieure"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Haut représentant pour les affaires étrangères et la politique de sécurité",
+    "Bruxelles",
+    "Union européenne",
+    "Affaires étrangères",
+    "Kaja Kallas",
+    "Josep Borrell",
+    "Federica Mogherini",
+    "Agence européenne de défense (AED)",
+    "Institut d'études de sécurité de l'Union européenne (IESUE)",
+    "Centre satellitaire de l'Union européenne (SatCen)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

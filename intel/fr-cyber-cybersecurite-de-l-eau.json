@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cybersecurite-de-l-eau",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cybersécurité de l'eau",
+  "includedEntities": [
+    {
+      "entityName": "eau",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "station d'épuration",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les attaques contre les installations d'eau potable et d'assainissement.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "automates",
+    "collectivités",
+    "hacktivistes"
+  ],
+  "questions": [
+    "Quelle installation ?",
+    "Quel impact ?",
+    "Quel attaquant ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#EAU",
+    "#INFRASTRUCTURES"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

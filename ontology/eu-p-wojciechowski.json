@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'agriculture) : Ancien juge, député européen et membre de la Cour des comptes européenne, commissaire à l'Agriculture de 2019 à 2024.",
+  "id": "eu-p-wojciechowski",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Janusz Wojciechowski",
+  "entityType": "PERSON",
+  "description": "Ancien juge, député européen et membre de la Cour des comptes européenne, commissaire à l'Agriculture de 2019 à 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Janusz Wojciechowski.",
+    "Lors du point de presse de midi, une question portait sur Janusz Wojciechowski.",
+    "Janusz Wojciechowski est une figure de l'agriculture."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Wojciechowski"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Janusz%20Wojciechowski"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité polonaise",
+    "Droit et justice (PiS)",
+    "Juge",
+    "Député européen",
+    "Membre de la Cour des comptes européenne",
+    "Commissaire européen",
+    "Agriculture (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Agriculture",
+    "Cour des comptes européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

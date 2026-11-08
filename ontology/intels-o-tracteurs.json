@@ -1,0 +1,56 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-tracteurs",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "tracteurs",
+  "entityType": "HARDWARE",
+  "description": "Cité par 2 intels : Agriculteurs contre les accords commerciaux ; Colère des agriculteurs européens.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre les mobilisations agricoles contre les accords commerciaux.",
+    "Suivre les mobilisations des agriculteurs contre la politique européenne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "tracteurs",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AGRICULTURE",
+    "#COMMERCE",
+    "#MOBILISATION"
+  ],
+  "events": [
+    "@MOBILISATION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Mercosur",
+    "Strasbourg",
+    "manifestation",
+    "agriculteurs",
+    "Bruxelles",
+    "Copa-Cogeca",
+    "accords commerciaux",
+    "normes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

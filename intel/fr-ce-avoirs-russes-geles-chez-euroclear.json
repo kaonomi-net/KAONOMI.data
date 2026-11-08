@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-avoirs-russes-geles-chez-euroclear",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Avoirs russes gelés chez Euroclear",
+  "includedEntities": [
+    {
+      "entityName": "Euroclear",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "avoirs russes",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le sort des quelque 210 milliards d'euros d'avoirs russes immobilisés chez Euroclear.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Belgique",
+    "gel illimité",
+    "prêt de réparation"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quels risques juridiques ?",
+    "Quelle garantie ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AVOIRS-GELES",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!PRESSION-ECONOMIQUE"
+  ],
+  "isDeleted": false
+}

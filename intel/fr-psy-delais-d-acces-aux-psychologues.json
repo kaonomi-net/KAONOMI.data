@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-delais-d-acces-aux-psychologues",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Délais d'accès aux psychologues",
+  "includedEntities": [
+    {
+      "entityName": "délais",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "rendez-vous",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "psychologue",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les délais pour consulter un psychologue ou un psychiatre.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "enquêtes",
+    "territoires",
+    "enfants"
+  ],
+  "questions": [
+    "Quel délai ?",
+    "Quelle région ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ACCES-AUX-SOINS"
+  ],
+  "events": [],
+  "signals": [
+    "!ACCES-AUX-SOINS"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-macron-et-la-chine",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Macron et la Chine",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Xi Jinping",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les relations entre la France et la Chine.",
+  "isFuzzy": true,
+  "locations": [
+    "Pékin",
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "commerce",
+    "véhicules électriques",
+    "cognac"
+  ],
+  "questions": [
+    "Quel déplacement ?",
+    "Quels accords ?",
+    "Quels différends commerciaux ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#CHINE",
+    "#DIPLOMATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

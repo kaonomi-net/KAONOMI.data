@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-automates",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "automates",
+  "entityType": "HARDWARE",
+  "description": "Cité par 5 intels : Hacktivisme ciblant les systèmes industriels ; Cyber Army of Russia ; Pentest des systèmes industriels ; Cybersécurité des systèmes industriels ; Cybersécurité de l'eau.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre les hacktivistes qui s'en prennent aux automates industriels exposés.",
+    "Suivre le groupe Cyber Army of Russia.",
+    "Suivre les tests d'intrusion sur les systèmes industriels."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "automates",
+  "tags": [
+    "#CYBERSECURITE",
+    "#OT",
+    "#HACKTIVISME",
+    "#INFRASTRUCTURES",
+    "#RUSSIE",
+    "#PENTEST"
+  ],
+  "events": [
+    "@CYBERATTAQUE",
+    "@REVENDICATION"
+  ],
+  "signals": [
+    "!MENACE",
+    "!DEFENSE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "hacktivistes",
+    "SCADA",
+    "eau",
+    "sûreté",
+    "OT",
+    "systèmes industriels",
+    "interfaces exposées",
+    "énergie",
+    "Cyber Army of Russia",
+    "sanctions américaines"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 36,
+  "file": "056-intelligence-artificielle-qu-est-ce-que-le-rag.prompt.json",
+  "prompt": "Qu'est-ce que le RAG (Retrieval Augmented Generation) ?",
+  "promptWords": 8,
+  "completion": "Le RAG (Retrieval-Augmented Generation) est une technique avancée en traitement automatique du langage (NLP) qui combine deux approches : la récupération d'informations (retrieval) et la génération de texte (generation). Voici une explication détaillée :\n\n### 1. **Récupération d'informations (Retrieval)**\nCette étape consiste à extraire des informations pertinentes à partir d'une base de données ou d'un corpus de documents. Par exemple, si un utilisateur pose une question, le système recherche des passages ou des documents qui pourraient contenir des réponses pertinentes.\n\n### 2. **Génération de texte (Generation)**\nUne fois les informations récupérées, un modèle de langage (comme un grand modèle de langage) utilise ces informations pour générer une réponse cohérente et pertinente. Le modèle peut reformuler, synthétiser ou compléter les informations récupérées pour produire une réponse naturelle.\n\n### 3. **Combinaison des deux approches**\nLe RAG combine ces deux étapes pour améliorer la qualité des réponses. Par exemple, un système RAG pourrait :\n- **Récupérer** des articles scientifiques pertinents sur un sujet donné.\n- **Générer** une réponse synthétique en s'appuyant sur ces articles, plutôt que de se fier uniquement à ses connaissances pré-entraînées.\n\n### Avantages du RAG\n- **Précision** : En s'appuyant sur des sources externes, le système peut fournir des réponses plus précises et à jour.\n- **Flexibilité** : Il peut répondre à des questions sur des sujets variés sans nécessiter un entraînement spécifique pour chaque domaine.\n- **Transparence** : Les sources utilisées pour générer la réponse peuvent être fournies, ce qui améliore la confiance dans le système.\n\n### Applications\n- **Chatbots et assistants virtuels** : Pour répondre à des questions complexes en s'appuyant sur des bases de connaissances.\n- **Systèmes de support client** : Pour fournir des réponses personnalisées basées sur des documents internes.\n- **Recherche d'informations** : Pour synthétiser des informations à partir de multiples sources.\n\nEn résumé, le RAG est une méthode puissante qui améliore la capacité des systèmes de génération de texte à fournir des réponses précises et contextuellement pertinentes en s'appuyant sur des informations externes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:59:47.589418+02:00",
+  "durationSeconds": 10.57,
+  "stats": "mistral-small3.2:latest · 523 + 499 tokens · 10,6 s",
+  "isError": false,
+  "language": "FR"
+}

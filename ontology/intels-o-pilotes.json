@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-pilotes",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "pilotes",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Avions F-16 en Ukraine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre l'usage et les pertes des F-16 en Ukraine."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "pilotes",
+  "tags": [
+    "#UKRAINE",
+    "#AVIATION",
+    "#ARMEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "F-16",
+    "Pays-Bas",
+    "Danemark",
+    "avions"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

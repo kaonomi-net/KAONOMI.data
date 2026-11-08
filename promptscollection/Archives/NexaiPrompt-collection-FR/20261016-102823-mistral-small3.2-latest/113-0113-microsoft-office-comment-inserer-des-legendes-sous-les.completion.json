@@ -1,0 +1,13 @@
+{
+  "index": 113,
+  "file": "0113-microsoft-office-comment-inserer-des-legendes-sous-les.prompt.json",
+  "prompt": "Comment insérer des légendes sous les images dans Word ?",
+  "promptWords": 10,
+  "completion": "Pour insérer des légendes sous les images dans Microsoft Word, voici les étapes à suivre :\n\n1. **Sélectionnez l'image** : Cliquez sur l'image à laquelle vous souhaitez ajouter une légende.\n\n2. **Accédez à l'onglet \"Références\"** : Dans le ruban en haut de l'écran, cliquez sur l'onglet \"Références\".\n\n3. **Insérez une légende** :\n   - Cliquez sur le bouton \"Insérer une légende\" dans le groupe \"Légendes\".\n   - Une boîte de dialogue s'ouvre. Vous pouvez choisir un label (par exemple, \"Figure\", \"Image\", etc.) et personnaliser le texte de la légende.\n\n4. **Positionnez la légende** : Par défaut, la légende apparaît sous l'image. Vous pouvez la déplacer en la sélectionnant et en la glissant à l'endroit souhaité.\n\n5. **Personnalisez le style** : Vous pouvez modifier la police, la taille et le style de la légende comme pour un texte normal.\n\nSi vous avez besoin d'aide supplémentaire ou si vous utilisez une version spécifique de Word, n'hésitez pas à me le préciser !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:50:05.7404088+02:00",
+  "durationSeconds": 5.31,
+  "stats": "mistral-small3.2:latest · 519 + 256 tokens · 5,3 s",
+  "isError": false,
+  "language": "FR"
+}

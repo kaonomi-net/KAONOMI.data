@@ -1,0 +1,13 @@
+{
+  "index": 64,
+  "file": "084-mathematiques-qu-est-ce-qu-un-nombre.prompt.json",
+  "prompt": "Qu'est-ce qu'un nombre premier ?",
+  "promptWords": 5,
+  "completion": "Un **nombre premier** est un nombre entier supérieur à\u202F1 qui possède exactement deux diviseurs distincts : 1 et lui‑même. En d’autres termes, il ne peut pas être divisé sans reste par aucun autre nombre que 1 et lui.\n\n### Exemple\n- 2 est premier (diviseurs\u202F: 1,\u202F2).\n- 3 est premier (diviseurs\u202F: 1,\u202F3).\n- 4 n’est pas premier car il est divisible par 1,\u202F2,\u202F4.\n\n### Propriétés rapides\n- Le plus petit nombre premier est 2, le seul pair.\n- Après 2, tous les nombres premiers sont impairs.\n- La recherche de nombres premiers de grande taille est essentielle en cryptographie (ex. RSA).\n\nEn résumé, un nombre premier est un entier “indivisible” (à part par 1 et lui‑même).",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T18:42:54.0223216+02:00",
+  "durationSeconds": 3.57,
+  "stats": "gpt-oss:20b · 75 + 240 tokens · 3,6 s",
+  "isError": false,
+  "language": "FR"
+}

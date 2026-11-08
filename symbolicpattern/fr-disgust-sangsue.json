@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-sangsue",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un ver qui suce le sang.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sangsue(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:parasite(s)?\\s+suceur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:suceur(s)?\\s+de\\s+sang)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vampire(s)?)(?![\\w-])"
+  ],
+  "symbol": "sangsue",
+  "event": null,
+  "title": "Sangsue",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

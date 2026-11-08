@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-maladie-d-alzheimer",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Maladie d'Alzheimer",
+  "includedEntities": [
+    {
+      "entityName": "Alzheimer",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "démence",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la recherche et les traitements contre la maladie d'Alzheimer.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "lécanémab",
+    "donanémab",
+    "prévention"
+  ],
+  "questions": [
+    "Quel traitement ?",
+    "Quelle autorisation ?",
+    "Quelle étude ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ALZHEIMER",
+    "#NEUROLOGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE"
+  ],
+  "isDeleted": false
+}

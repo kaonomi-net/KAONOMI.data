@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la politique économique) : Portefeuille détenu par Jyrki Katainen, vice-président, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "id": "eu-pf-juncker-katainen",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Emploi, croissance, investissement et compétitivité (Commission Juncker)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Jyrki Katainen, vice-président, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Emploi, croissance, investissement et compétitivité (Commission Juncker) ».",
+    "Le portefeuille « Emploi, croissance, investissement et compétitivité (Commission Juncker) » couvre la politique économique.",
+    "La lettre de mission du portefeuille « Emploi, croissance, investissement et compétitivité (Commission Juncker) » fixe les objectifs en matière de la politique économique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Emploi%2C%20croissance%2C%20investissement%20et%20comp%C3%A9titivit%C3%A9%20%28Commission%20Juncker%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Jyrki Katainen",
+    "Commission Juncker",
+    "Vice-président de la Commission",
+    "Économie",
+    "Emploi et droits sociaux"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-11-01T00:00:00",
+  "endDate": "2019-11-30T00:00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 77,
+  "file": "077-interet-pour-le-llm-wie-alt-sind-sie.prompt.json",
+  "prompt": "Wie alt sind Sie?",
+  "promptWords": 4,
+  "completion": "Ich weiß nicht, wie oder wann ich entwickelt wurde.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:10:04.9873192+02:00",
+  "durationSeconds": 0.48,
+  "stats": "mistral-small3.2:latest · 512 + 13 tokens · 0,5 s",
+  "isError": false,
+  "language": "DE"
+}

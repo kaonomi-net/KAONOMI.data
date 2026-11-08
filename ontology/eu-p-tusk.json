@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la vie politique européenne) : Historien de formation, président du Conseil européen de 2014 à 2019 et Premier ministre de Pologne.",
+  "id": "eu-p-tusk",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Donald Tusk",
+  "entityType": "PERSON",
+  "description": "Historien de formation, président du Conseil européen de 2014 à 2019 et Premier ministre de Pologne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-dirigeants",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Donald Tusk.",
+    "Lors du point de presse de midi, une question portait sur Donald Tusk.",
+    "Donald Tusk est une figure de la vie politique européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Tusk"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#VIEPOLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Donald%20Tusk"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité polonaise",
+    "Plateforme civique (PO)",
+    "Historien",
+    "Chef de gouvernement",
+    "Président du Conseil européen",
+    "Conseil européen"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

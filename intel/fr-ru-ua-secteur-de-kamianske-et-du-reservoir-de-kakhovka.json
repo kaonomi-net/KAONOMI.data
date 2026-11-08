@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-secteur-de-kamianske-et-du-reservoir-de-kakhovka",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Secteur de Kamianske et du réservoir de Kakhovka",
+  "includedEntities": [
+    {
+      "entityName": "Kamianske",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Kakhovka",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation le long de l'ancien réservoir de Kakhovka.",
+  "isFuzzy": true,
+  "locations": [
+    "Kamianske",
+    "Vassylivka"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "barrage détruit",
+    "Dniepr",
+    "armée russe"
+  ],
+  "questions": [
+    "Quels mouvements ?",
+    "Quelles frappes ?",
+    "Quelle situation de l'eau ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ZAPORIJIA",
+    "#FRONT"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

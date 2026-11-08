@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la vie politique européenne) : Économiste, ancienne directrice générale à la Commission et vice-présidente du gouvernement espagnol, présidente de la Banque européenne d'investissement depuis 2024.",
+  "id": "eu-p-calvino",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Nadia Calviño",
+  "entityType": "PERSON",
+  "description": "Économiste, ancienne directrice générale à la Commission et vice-présidente du gouvernement espagnol, présidente de la Banque européenne d'investissement depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-dirigeants",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Nadia Calviño.",
+    "Les manuels sur les institutions européennes citent Nadia Calviño.",
+    "Le portrait de Nadia Calviño figure dans le dossier consacré à la vie politique européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Calviño",
+    "Calvino"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#VIEPOLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Nadia%20Calvi%C3%B1o"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité espagnole",
+    "Économiste",
+    "Fonctionnaire européen",
+    "Ministre de l'Économie",
+    "Banque européenne d'investissement",
+    "Président de la Banque européenne d'investissement",
+    "Werner Hoyer"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

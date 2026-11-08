@@ -1,0 +1,13 @@
+{
+  "index": 155,
+  "file": "0155-microsoft-office-how-do-i-reduce-the-size.prompt.json",
+  "prompt": "How do I reduce the size of a presentation in PowerPoint?",
+  "promptWords": 11,
+  "completion": "To reduce the size of a PowerPoint presentation, you can follow these steps:\n\n### 1. **Compress Images**\n   - Select the images in your presentation.\n   - Go to the **Picture Format** tab.\n   - Click on **Compress Pictures**.\n   - Choose **Apply to all pictures in this file**.\n   - Select **Email (96 ppi)** for a good balance between quality and file size.\n\n### 2. **Use Embedded Fonts**\n   - Go to **File** > **Options**.\n   - Select **Save**.\n   - Check the box **Embed fonts in the file**.\n   - Choose **Embed all characters** to ensure all fonts are embedded.\n\n### 3. **Remove Hidden Data and Personal Information**\n   - Go to **File** > **Info**.\n   - Click on **Check for Issues** > **Inspect Document**.\n   - Select the types of hidden data you want to remove and click **Inspect**.\n   - Click **Remove All** for each type of hidden data.\n\n### 4. **Save in a Compressed Format**\n   - Go to **File** > **Save As**.\n   - Choose **PowerPoint Presentation (*.pptx)** or **PowerPoint 97-2003 Presentation (*.ppt)** for a smaller file size.\n   - Click **Save**.\n\n### 5. **Optimize Media**\n   - If your presentation contains audio or video, ensure they are compressed.\n   - Go to **File** > **Options** > **Advanced**.\n   - Under **Image Size and Quality**, adjust the settings as needed.\n\n### 6. **Remove Unnecessary Slides and Objects**\n   - Delete any slides or objects that are not needed.\n   - Simplify complex slides to reduce file size.\n\n### 7. **Use the \"Save As\" Option to Reduce Size**\n   - Go to **File** > **Save As**.\n   - Choose **PowerPoint Presentation (*.pptx)**.\n   - Click **Save**.\n\nBy following these steps, you can significantly reduce the size of your PowerPoint presentation.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:32:04.128642+02:00",
+  "durationSeconds": 10.93,
+  "stats": "mistral-small3.2:latest · 520 + 438 tokens · 10,9 s",
+  "isError": false,
+  "language": "EN"
+}

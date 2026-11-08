@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (l'informatique embarquée) : Carte à microcontrôleur libre née à Ivrea en Italie, très utilisée pour prototyper capteurs et objets connectés.",
+  "id": "ia-arduino",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Arduino",
+  "entityType": "HARDWARE",
+  "description": "Carte à microcontrôleur libre née à Ivrea en Italie, très utilisée pour prototyper capteurs et objets connectés.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Pour ce projet d'IA, l'équipe a comparé Arduino à d'autres solutions matérielles.",
+    "Arduino a marqué l'histoire du matériel consacré à l'informatique embarquée.",
+    "La fiche technique de Arduino détaille ses performances."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "carte Arduino"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#INFORMATIQUEEMBARQUEE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Arduino"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Raspberry Pi"
+  ],
+  "isDeleted": false,
+  "startDate": "2005-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-securite-en-mer-noire",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Sécurité en mer Noire",
+  "includedEntities": [
+    {
+      "entityName": "mer Noire",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "drones",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "navires",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la réponse européenne aux attaques de drones contre des navires en mer Noire.",
+  "isFuzzy": true,
+  "locations": [
+    "Roumanie",
+    "Bulgarie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "von der Leyen",
+    "stratégie mer Noire",
+    "OTAN"
+  ],
+  "questions": [
+    "Quelle attaque ?",
+    "Quelle réponse ?",
+    "Quel financement ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MER-NOIRE",
+    "#SECURITE"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!SECURITE"
+  ],
+  "isDeleted": false
+}

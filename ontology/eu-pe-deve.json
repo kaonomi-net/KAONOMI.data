@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les partenariats internationaux) : Commission du développement du Parlement européen, chargée de les partenariats internationaux.",
+  "id": "eu-pe-deve",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission du développement (DEVE)",
+  "entityType": "ORGANISATION",
+  "description": "Commission du développement du Parlement européen, chargée de les partenariats internationaux.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "Les décisions de « Commission du développement (DEVE) » touchent les partenariats internationaux.",
+    "Le rapport annuel de « Commission du développement (DEVE) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Commission du développement (DEVE) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DEVE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#PARTENARIATSINTERNATIONAUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20du%20d%C3%A9veloppement%20%28DEVE%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Partenariats internationaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

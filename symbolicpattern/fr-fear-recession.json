@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-recession",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le recul de l'activité économique.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]cession(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]cessionniste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:croissance\\s+n[ée]gative)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ralentissement(s)?\\s+[ée]conomique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]pression\\s+[ée]conomique)(?![\\w-])"
+  ],
+  "symbol": "récession",
+  "event": null,
+  "title": "Récession",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

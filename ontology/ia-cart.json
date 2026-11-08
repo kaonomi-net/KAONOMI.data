@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (la classification) : Méthode d'apprentissage d'arbres de classification et de régression par divisions binaires successives, publiée par Breiman, Friedman, Olshen et Stone.",
+  "id": "ia-cart",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Arbres de décision CART",
+  "entityType": "ALGORITHM",
+  "description": "Méthode d'apprentissage d'arbres de classification et de régression par divisions binaires successives, publiée par Breiman, Friedman, Olshen et Stone.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Arbres de décision CART est enseigné dans tous les cours consacrés à la classification.",
+    "Le notebook compare Arbres de décision CART aux autres méthodes de la classification.",
+    "La chercheuse a présenté une variante de Arbres de décision CART lors du séminaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "arbre de décision",
+    "CART"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#CLASSIFICATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Arbres%20de%20d%C3%A9cision%20CART"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Leo Breiman",
+    "Forêts aléatoires",
+    "Gradient boosting",
+    "ID3"
+  ],
+  "isDeleted": false,
+  "startDate": "1984-01-01T00:00:00",
+  "endDate": null
+}

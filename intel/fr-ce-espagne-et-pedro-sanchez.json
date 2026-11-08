@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-espagne-et-pedro-sanchez",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Espagne et Pedro Sánchez",
+  "includedEntities": [
+    {
+      "entityName": "Espagne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Pedro Sánchez",
+      "entityWeight": "60"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les positions espagnoles dans l'Union.",
+  "isFuzzy": true,
+  "locations": [
+    "Madrid"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "défense",
+    "Palestine",
+    "catalan"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quel désaccord ?",
+    "Quelle initiative ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ESPAGNE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

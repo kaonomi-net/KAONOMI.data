@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-banque-nationale-de-belgique",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Banque nationale de Belgique",
+  "includedEntities": [
+    {
+      "entityName": "Banque nationale de Belgique",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "BNB",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les analyses et prévisions de la Banque nationale de Belgique.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pierre Wunsch",
+    "croissance belge",
+    "banques"
+  ],
+  "questions": [
+    "Quelle prévision ?",
+    "Quelle alerte ?",
+    "Quel message ?"
+  ],
+  "tags": [
+    "#BANQUES-CENTRALES",
+    "#BELGIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

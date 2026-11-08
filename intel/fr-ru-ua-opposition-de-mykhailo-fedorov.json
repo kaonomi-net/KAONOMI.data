@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-opposition-de-mykhailo-fedorov",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Opposition de Mykhaïlo Fedorov",
+  "includedEntities": [
+    {
+      "entityName": "Fedorov",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "élections",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les positions de l'ancien ministre de la Défense Mykhaïlo Fedorov.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Zelensky",
+    "élections",
+    "défense"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quelle ambition politique ?",
+    "Quel soutien ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#POLITIQUE",
+    "#OPPOSITION"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-chimie-europeenne-en-crise",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Chimie européenne en crise",
+  "includedEntities": [
+    {
+      "entityName": "chimie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Europe",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "crise",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la crise de la chimie européenne et ses effets sur Syensqo et Solvay.",
+  "isFuzzy": true,
+  "locations": [
+    "Anvers",
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "énergie",
+    "Chine",
+    "fermetures"
+  ],
+  "questions": [
+    "Quelle fermeture ?",
+    "Quelle mesure européenne ?",
+    "Quel effet sur les valeurs ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CHIMIE",
+    "#INDUSTRIE"
+  ],
+  "events": [],
+  "signals": [
+    "!CRISE"
+  ],
+  "isDeleted": false
+}

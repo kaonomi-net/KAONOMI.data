@@ -1,0 +1,13 @@
+{
+  "index": 20,
+  "file": "040-cuisine-comment-conserver-les-herbes-aromatiques-fraiches.prompt.json",
+  "prompt": "Comment conserver les herbes aromatiques fraîches plus longtemps ?",
+  "promptWords": 9,
+  "completion": "Pour conserver les herbes aromatiques fraîches plus longtemps, voici quelques méthodes efficaces :\n\n1. **Dans un verre d'eau** :\n   - Coupez les tiges et placez les herbes dans un verre d'eau, comme un bouquet de fleurs.\n   - Couvrez-les légèrement avec un sac en plastique pour maintenir l'humidité.\n   - Changez l'eau tous les deux jours et conservez à température ambiante ou au réfrigérateur selon l'herbe.\n\n2. **Enveloppées dans un torchon humide** :\n   - Lavez et séchez délicatement les herbes.\n   - Enveloppez-les dans un torchon propre légèrement humide.\n   - Placez le tout dans un sac en plastique perforé ou un récipient hermétique.\n   - Conservez au réfrigérateur.\n\n3. **Dans du papier absorbant** :\n   - Lavez et séchez les herbes.\n   - Enveloppez-les dans du papier absorbant légèrement humide.\n   - Placez-les dans un sac en plastique ou un récipient hermétique.\n   - Conservez au réfrigérateur.\n\n4. **Congélation** :\n   - Lavez, séchez et hachez les herbes.\n   - Placez-les dans des bacs à glaçons avec un peu d'eau ou d'huile d'olive.\n   - Congèle les cubes et utilisez-les directement dans vos plats.\n\n5. **Séchage** :\n   - Suspendez les herbes tête en bas dans un endroit sec et aéré.\n   - Une fois séchées, conservez-les dans un bocal hermétique à l'abri de la lumière.\n\nLe choix de la méthode dépend du type d'herbes (basilic, persil, coriandre, etc.) et de la durée de conservation souhaitée.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:20:26.3605637+02:00",
+  "durationSeconds": 8.77,
+  "stats": "mistral-small3.2:latest · 519 + 385 tokens · 8,8 s",
+  "isError": false,
+  "language": "FR"
+}

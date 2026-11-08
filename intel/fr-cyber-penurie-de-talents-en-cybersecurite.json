@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-penurie-de-talents-en-cybersecurite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Pénurie de talents en cybersécurité",
+  "includedEntities": [
+    {
+      "entityName": "pénurie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "talents",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cybersécurité",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le manque de professionnels de la cybersécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "formations",
+    "recrutement",
+    "salaires"
+  ],
+  "questions": [
+    "Combien de postes vacants ?",
+    "Quelle formation ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#EMPLOI",
+    "#FORMATION"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 109,
+  "file": "0109-microsoft-office-comment-inserer-un-saut-de-section.prompt.json",
+  "prompt": "Comment insérer un saut de section dans Word ?",
+  "promptWords": 9,
+  "completion": "Pour insérer un saut de section dans Microsoft Word, vous pouvez suivre ces étapes :\n\n1. **Placez le curseur** à l'endroit où vous souhaitez insérer le saut de section.\n2. **Allez dans l'onglet \"Mise en page\"** (ou \"Disposition\" selon la version de Word).\n3. **Cliquez sur \"Sauts\"**, puis choisissez **\"Page suivante\"** sous la section \"Sauts de section\".\n\nCette action insérera un saut de section et commencera une nouvelle section sur une nouvelle page.\n\nSi vous avez besoin d'une version plus récente des instructions ou d'une aide spécifique, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:49:42.9365246+02:00",
+  "durationSeconds": 3.17,
+  "stats": "mistral-small3.2:latest · 517 + 146 tokens · 3,2 s",
+  "isError": false,
+  "language": "FR"
+}

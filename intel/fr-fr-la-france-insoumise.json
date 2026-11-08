@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-la-france-insoumise",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "La France insoumise",
+  "includedEntities": [
+    {
+      "entityName": "La France insoumise",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "LFI",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'activité et les positions de La France insoumise.",
+  "isFuzzy": true,
+  "locations": [
+    "Assemblée nationale"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Jean-Luc Mélenchon",
+    "Manuel Bompard",
+    "Mathilde Panot"
+  ],
+  "questions": [
+    "Quelle initiative ?",
+    "Quelle polémique ?",
+    "Quelle alliance ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#LFI",
+    "#GAUCHE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

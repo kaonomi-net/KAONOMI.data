@@ -1,0 +1,13 @@
+{
+  "index": 134,
+  "file": "0134-microsoft-office-comment-corriger-l-erreur-ref-dans.prompt.json",
+  "prompt": "Comment corriger l'erreur #REF! dans Excel ?",
+  "promptWords": 7,
+  "completion": "L'erreur #REF! dans Excel apparaît généralement lorsque une référence de cellule est invalide. Voici quelques causes courantes et leurs solutions :\n\n1. **Suppression ou déplacement de cellules référencées** :\n   - Si vous supprimez ou déplacez des cellules référencées dans une formule, Excel ne peut plus trouver la référence et affiche #REF!.\n   - *Solution* : Vérifiez et mettez à jour les références dans la formule.\n\n2. **Suppression de lignes ou colonnes** :\n   - Si vous supprimez une ligne ou une colonne contenant des cellules référencées dans une formule, Excel ne peut plus trouver la référence.\n   - *Solution* : Restaurez la ligne ou la colonne supprimée ou mettez à jour la formule.\n\n3. **Nom de plage invalide** :\n   - Si vous utilisez un nom de plage dans une formule et que ce nom est supprimé ou modifié, Excel affiche #REF!.\n   - *Solution* : Vérifiez que le nom de plage existe toujours et est correctement orthographié.\n\n4. **Référence circulaire** :\n   - Si une formule fait référence à elle-même directement ou indirectement, Excel affiche #REF!.\n   - *Solution* : Modifiez la formule pour éviter la référence circulaire.\n\n5. **Utilisation de la fonction INDIRECTE avec une référence invalide** :\n   - Si la fonction INDIRECTE contient une référence invalide, Excel affiche #REF!.\n   - *Solution* : Vérifiez l'argument de la fonction INDIRECTE.\n\nPour corriger l'erreur, vous pouvez :\n- Cliquer sur la cellule contenant l'erreur et vérifier la formule.\n- Utiliser la fonctionnalité \"Vérifier les erreurs\" dans Excel pour obtenir des suggestions de correction.\n- Vérifier les références et les noms de plage utilisés dans la formule.\n\nSi vous avez une situation spécifique avec l'erreur #REF!, n'hésitez pas à la décrire pour obtenir une aide plus ciblée.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:53:30.4258605+02:00",
+  "durationSeconds": 8.99,
+  "stats": "mistral-small3.2:latest · 519 + 445 tokens · 9,0 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Nationalité de l'Union européenne (la citoyenneté européenne) : Nationalité des citoyens de ce pays : Slovénie.",
+  "id": "eu-nat-si",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "nationalité slovène",
+  "entityType": "NORP",
+  "description": "Nationalité des citoyens de ce pays : Slovénie. Les ressortissants sont appelés slovènes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-nationalites",
+  "sentencesExemples": [
+    "Plusieurs commissaires ont la nationalité slovène.",
+    "Les fonctionnaires européens de nationalité slovène travaillent dans toutes les directions générales.",
+    "Le collège compte un membre de nationalité slovène."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDEAA",
+  "synonyms": [
+    "slovène",
+    "slovène"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#NORP",
+    "#CITOYENNETEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=nationalit%C3%A9%20slov%C3%A8ne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Slovénie",
+    "Janez Lenarčič",
+    "Marta Kos",
+    "Violeta Bulc"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-education-nationale",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Éducation nationale",
+  "includedEntities": [
+    {
+      "entityName": "Éducation nationale",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "école",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "enseignants",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les réformes et difficultés de l'école.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "rentrée scolaire"
+  ],
+  "relatedEntities": [
+    "enseignants",
+    "postes",
+    "niveau des élèves"
+  ],
+  "questions": [
+    "Quelle réforme ?",
+    "Quels postes supprimés ?",
+    "Quels résultats ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#EDUCATION",
+    "#SOCIAL"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

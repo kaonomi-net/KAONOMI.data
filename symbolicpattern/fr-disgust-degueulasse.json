@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-degueulasse",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Très sale ou répugnant (familier).",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]gueulasse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]gueu)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]gueulasserie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crade(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cradingue(s)?)(?![\\w-])"
+  ],
+  "symbol": "dégueulasse",
+  "event": null,
+  "title": "Dégueulasse",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

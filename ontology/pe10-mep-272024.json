@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Tchéquie.",
+  "id": "pe10-mep-272024",
+  "dateCreated": "2026-10-31 20:22:44",
+  "name": "Antonín Staněk",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Tchéquie. Groupe politique : Patriotes pour l'Europe (PfE). Parti ou liste national : Motoristé sobě.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Antonín Staněk participe aux travaux des commissions parlementaires.",
+    "Antonín Staněk siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Antonín Staněk figure dans le relevé des votes par appel nominal."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Antonín STANĚK"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/272024",
+    "https://fr.wikipedia.org/w/index.php?search=Anton%C3%ADn%20Stan%C4%9Bk"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Tchéquie",
+    "Parlement européen",
+    "Patriotes pour l'Europe (PfE)",
+    "Motoristé sobě"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

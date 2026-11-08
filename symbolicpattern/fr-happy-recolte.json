@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-recolte",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de cueillir les fruits du travail.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]colte(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]colt(er|[ée]|[ée]e)|cueillette(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cueill(ir|i|ie)|fruits\\s+du\\s+travail)(?![\\w-])"
+  ],
+  "symbol": "récolte",
+  "event": null,
+  "title": "Récolte",
+  "tags": [
+    "#NATURE",
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

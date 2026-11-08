@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-puce-ia-concurrente-de-nvidia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Puce IA concurrente de Nvidia",
+  "includedEntities": [
+    {
+      "entityName": "AMD",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "TPU",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "puce",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 40,
+  "instructions": "Repérer les alternatives aux GPU Nvidia pour l'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Google",
+    "Intel",
+    "Groq"
+  ],
+  "questions": [
+    "Quelles performances ?",
+    "Quel prix ?",
+    "Quels clients ?"
+  ],
+  "tags": [
+    "#IA",
+    "#SEMI-CONDUCTEURS",
+    "#CONCURRENCE"
+  ],
+  "events": [
+    "@LANCEMENT-MATERIEL"
+  ],
+  "signals": [
+    "!CONCURRENCE"
+  ],
+  "isDeleted": false
+}

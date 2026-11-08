@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-terreur",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une peur extrême et collective.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:terreur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:terroris([ée]|[ée]e|[ée]s|[ée]es|er)|terrifi([ée]|[ée]e|[ée]s|[ée]es|ant|ante|er)|semer\\s+la\\s+terreur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:climat\\s+de\\s+terreur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:horrifi([ée]|[ée]e|[ée]s|ant|ante))(?![\\w-])"
+  ],
+  "symbol": "terreur",
+  "event": null,
+  "title": "Terreur",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

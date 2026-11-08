@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-commission-des-reclamations-pour-l-ukraine",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Commission des réclamations pour l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "registre des dommages",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "réclamations",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le mécanisme d'indemnisation des dommages de guerre en Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "La Haye"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Conseil de l'Europe",
+    "victimes",
+    "avoirs russes"
+  ],
+  "questions": [
+    "Combien de demandes ?",
+    "Quel financement ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#UKRAINE",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-danube-et-roumanie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Danube et Roumanie",
+  "includedEntities": [
+    {
+      "entityName": "Danube",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Roumanie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "drones",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les frappes près du Danube et les débris tombés en Roumanie.",
+  "isFuzzy": true,
+  "locations": [
+    "Ismaïl",
+    "Reni",
+    "Roumanie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "OTAN",
+    "ports",
+    "drones"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Des débris en Roumanie ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#ROUMANIE",
+    "#DANUBE",
+    "#OTAN"
+  ],
+  "events": [
+    "@INCURSION"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

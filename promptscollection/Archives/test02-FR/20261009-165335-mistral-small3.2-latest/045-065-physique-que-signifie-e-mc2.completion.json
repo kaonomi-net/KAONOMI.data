@@ -1,0 +1,13 @@
+{
+  "index": 45,
+  "file": "065-physique-que-signifie-e-mc2.prompt.json",
+  "prompt": "Que signifie E = mc² ?",
+  "promptWords": 6,
+  "completion": "L'équation \\( E = mc^2 \\) est l'une des équations les plus célèbres de la physique, formulée par Albert Einstein dans le cadre de sa théorie de la relativité restreinte en 1905. Voici ce qu'elle signifie :\n\n- **\\( E \\)** : Représente l'énergie.\n- **\\( m \\)** : Représente la masse (une mesure de la quantité de matière).\n- **\\( c \\)** : Représente la vitesse de la lumière dans le vide, qui est une constante universelle d'environ 300 000 kilomètres par seconde.\n\nL'équation montre que la masse et l'énergie sont deux formes interchangeables d'une même chose. En d'autres termes, une petite quantité de matière peut être convertie en une très grande quantité d'énergie, et vice versa. Cela signifie que la masse est une forme concentrée d'énergie.\n\nPar exemple, si on convertissait 1 gramme de matière en énergie pure, cela libérerait environ 90 pétajoules d'énergie (soit environ l'énergie consommée par les États-Unis en quelques jours).\n\nCette équation a des implications profondes, notamment dans le domaine de la physique nucléaire, où la conversion de masse en énergie est à la base des réactions nucléaires (fission et fusion).",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:01:14.3734974+02:00",
+  "durationSeconds": 6.47,
+  "stats": "mistral-small3.2:latest · 514 + 273 tokens · 6,5 s",
+  "isError": false,
+  "language": "FR"
+}

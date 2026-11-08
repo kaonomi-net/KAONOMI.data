@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-chomage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le manque d'emploi.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ch[ôo]mage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sans\\s+emploi)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:demandeur(s)?\\s+d['’]emploi)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perte(s)?\\s+d['’]emploi)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:taux\\s+de\\s+ch[ôo]mage)(?![\\w-])"
+  ],
+  "symbol": "chômage",
+  "event": null,
+  "title": "Chômage",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

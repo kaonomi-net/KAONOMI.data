@@ -1,0 +1,13 @@
+{
+  "index": 170,
+  "file": "0170-microsoft-office-how-do-i-schedule-a-teams.prompt.json",
+  "prompt": "How do I schedule a Teams meeting in Outlook?",
+  "promptWords": 9,
+  "completion": "To schedule a Teams meeting in Outlook, follow these steps:\n\n### **On Desktop (Outlook for Windows or Mac):**\n1. **Open Outlook** and go to the **Calendar** view.\n2. Click on **New Teams Meeting** (or **New Appointment** and then select **Add a Teams Meeting**).\n3. Fill in the meeting details:\n   - **Subject**: Enter a title for the meeting.\n   - **Required Attendees**: Add email addresses of the participants.\n   - **Optional Attendees**: Add any optional participants.\n   - **Location**: You can leave this blank or add a virtual location if needed.\n   - **Start Time & End Time**: Set the duration of the meeting.\n4. **Add a Message (Optional)**: Include an agenda or additional details in the body of the invite.\n5. Click **Send** to schedule the meeting.\n\n### **On the Web (Outlook on the Web):**\n1. **Open Outlook on the Web** and go to the **Calendar** section.\n2. Click **New Event** (or **New Meeting**).\n3. In the meeting window, click **Add a Teams meeting** (a Microsoft Teams icon will appear in the meeting details).\n4. Fill in the meeting details (subject, attendees, time, etc.).\n5. Click **Save** to schedule the meeting.\n\n### **On Mobile (Outlook App for iOS/Android):**\n1. **Open the Outlook app** and tap the **Calendar** icon.\n2. Tap the **+ (New Event)** button.\n3. Tap **Add a Teams meeting** (a Teams icon will appear in the event details).\n4. Fill in the meeting details (subject, attendees, time, etc.).\n5. Tap **Send** to schedule the meeting.\n\nOnce scheduled, the meeting details (including the Teams link) will be sent to all attendees via email.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:34:36.5858052+02:00",
+  "durationSeconds": 10.12,
+  "stats": "mistral-small3.2:latest · 517 + 389 tokens · 10,1 s",
+  "isError": false,
+  "language": "EN"
+}

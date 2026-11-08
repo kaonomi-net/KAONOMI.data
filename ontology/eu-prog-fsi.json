@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (les affaires intérieures) : Soutien à la lutte contre le terrorisme et la criminalité organisée.",
+  "id": "eu-prog-fsi",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Fonds pour la sécurité intérieure",
+  "entityType": "PROGRAMME",
+  "description": "Soutien à la lutte contre le terrorisme et la criminalité organisée.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "La Commission gère « Fonds pour la sécurité intérieure » avec les États membres ou ses agences.",
+    "Les bénéficiaires de « Fonds pour la sécurité intérieure » sont publiés en ligne.",
+    "L'appel à propositions de « Fonds pour la sécurité intérieure » est ouvert."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "FSI"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#AFFAIRESINTERIEURES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fonds%20pour%20la%20s%C3%A9curit%C3%A9%20int%C3%A9rieure"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de la migration et des affaires intérieures",
+    "Affaires intérieures et sécurité",
+    "Cadre financier pluriannuel 2021-2027"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-01-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

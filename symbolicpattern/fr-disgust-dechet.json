@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-dechet",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui reste et que l'on jette.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]chet(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]tritus)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rebut(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]sidu(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]bris)(?![\\w-])"
+  ],
+  "symbol": "déchet",
+  "event": null,
+  "title": "Déchet",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

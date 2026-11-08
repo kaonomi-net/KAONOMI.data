@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-exercice",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "exercice",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Exercices de l'OTAN sur le flanc est ; Exercice de crise cyber.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les exercices militaires de l'OTAN près de la Russie.",
+    "Suivre les exercices de gestion de crise cyber."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "exercice",
+  "tags": [
+    "#EXERCICE",
+    "#OTAN",
+    "#DEFENSE",
+    "#CYBERSECURITE",
+    "#CRISE"
+  ],
+  "events": [
+    "@MANOEUVRES-MILITAIRES",
+    "@EXERCICE"
+  ],
+  "signals": [
+    "!TENSION",
+    "!DEFENSE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OTAN",
+    "flanc est",
+    "forces de réaction",
+    "Roumanie",
+    "Steadfast",
+    "Pologne",
+    "Baltes",
+    "Russie",
+    "Europe",
+    "Locked Shields"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

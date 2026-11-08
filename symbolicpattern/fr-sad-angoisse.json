@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-angoisse",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une inquiétude profonde, une oppression.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:angoisse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:angoiss([ée]|[ée]e|[ée]s|[ée]es|ant|ante|er))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:anxi[ée]t[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:anxieu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:panique(s)?)(?![\\w-])"
+  ],
+  "symbol": "angoisse",
+  "event": null,
+  "title": "Angoisse",
+  "tags": [
+    "#FEAR",
+    "#DETRESSE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": true
+}

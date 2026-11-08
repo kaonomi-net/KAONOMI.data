@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (l'éthique de l'IA) : Lettre du Future of Life Institute demandant une pause de six mois dans l'entraînement des systèmes plus puissants que GPT-4.",
+  "id": "ia-lettre-pause",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Lettre ouverte pour une pause de l'IA",
+  "entityType": "EVENT",
+  "description": "Lettre du Future of Life Institute demandant une pause de six mois dans l'entraînement des systèmes plus puissants que GPT-4.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "La frise chronologique de la salle de cours place « Lettre ouverte pour une pause de l'IA » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Lettre ouverte pour une pause de l'IA ».",
+    "L'événement « Lettre ouverte pour une pause de l'IA » a marqué durablement l'histoire de l'éthique de l'IA."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Pause Giant AI Experiments"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#ETHIQUEIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Lettre%20ouverte%20pour%20une%20pause%20de%20l%27IA"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Lancement de GPT-4"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-03-22T00:00:00",
+  "endDate": "2023-03-22T00:00:00"
+}

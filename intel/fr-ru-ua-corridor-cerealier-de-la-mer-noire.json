@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-corridor-cerealier-de-la-mer-noire",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Corridor céréalier de la mer Noire",
+  "includedEntities": [
+    {
+      "entityName": "corridor",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "céréales",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "mer Noire",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le fonctionnement du corridor maritime ukrainien.",
+  "isFuzzy": true,
+  "locations": [
+    "Odessa",
+    "Bosphore"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "exportations",
+    "assurances",
+    "attaques"
+  ],
+  "questions": [
+    "Quels volumes ?",
+    "Quelles attaques ?",
+    "Quel coût d'assurance ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#CEREALES",
+    "#MER-NOIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!SECURITE-ALIMENTAIRE"
+  ],
+  "isDeleted": false
+}

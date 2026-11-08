@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la traque d'intrus) : Astronome américain qui a traqué en 1986-1987 un espion informatique à partir d'une erreur comptable de 75 cents, récit de « The Cuckoo's Egg ».",
+  "id": "cyber-stoll",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Clifford Stoll",
+  "entityType": "PERSON",
+  "description": "Astronome américain qui a traqué en 1986-1987 un espion informatique à partir d'une erreur comptable de 75 cents, récit de « The Cuckoo's Egg ».",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Clifford Stoll.",
+    "Les étudiants lisent les travaux de Clifford Stoll pour comprendre la traque d'intrus.",
+    "Sans Clifford Stoll, l'histoire de la traque d'intrus aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Cliff Stoll"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#TRAQUEINTRUS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Clifford%20Stoll"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Traque de l'espion de « The Cuckoo's Egg »"
+  ],
+  "isDeleted": false,
+  "startDate": "1950-06-04T00:00:00",
+  "endDate": null
+}

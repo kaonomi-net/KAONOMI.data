@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-exportateurs",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "exportateurs",
+  "entityType": "PROFESSION",
+  "description": "Cité par 2 intels : Rouble ; Droits de douane et marchés.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre l'évolution du rouble face au dollar et au yuan.",
+    "Suivre l'effet des droits de douane sur les marchés et les entreprises."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "exportateurs",
+  "tags": [
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#MONNAIE",
+    "#ECONOMIE",
+    "#COMMERCE",
+    "#BOURSE"
+  ],
+  "events": [
+    "@HAUSSE-TARIFS"
+  ],
+  "signals": [
+    "!ECONOMIE",
+    "!TENSION-COMMERCIALE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "taux de change",
+    "rouble",
+    "Banque de Russie",
+    "yuan",
+    "Pékin",
+    "inflation",
+    "Trump",
+    "Washington",
+    "droits de douane",
+    "Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

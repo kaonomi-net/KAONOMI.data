@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-rapatriement",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "rapatriement",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Rapatriement des corps de soldats.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les échanges de corps de soldats tués."
+  ],
+  "angryLevel": null,
+  "sadLevel": 100,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "rapatriement",
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@ECHANGE"
+  ],
+  "signals": [
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "médiateurs",
+    "soldats",
+    "corps",
+    "identification",
+    "familles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

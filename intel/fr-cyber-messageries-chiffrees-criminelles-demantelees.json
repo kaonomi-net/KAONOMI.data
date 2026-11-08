@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-messageries-chiffrees-criminelles-demantelees",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Messageries chiffrées criminelles démantelées",
+  "includedEntities": [
+    {
+      "entityName": "messagerie chiffrée",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "criminelle",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "démantelée",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le démantèlement de messageries chiffrées utilisées par le crime organisé.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "EncroChat",
+    "Sky ECC",
+    "Ghost"
+  ],
+  "questions": [
+    "Quelle messagerie ?",
+    "Combien d'utilisateurs ?",
+    "Quelles arrestations ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CRIME-ORGANISE",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@DEMANTELEMENT"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-radicalisation",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Radicalisation",
+  "includedEntities": [
+    {
+      "entityName": "radicalisation",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "jeunes",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recherches sur les processus de radicalisation.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "réseaux sociaux",
+    "extrémisme",
+    "prévention"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel profil ?",
+    "Quelle prévention ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#RADICALISATION"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

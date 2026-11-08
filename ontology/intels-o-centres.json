@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-centres",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "centres",
+  "entityType": "LOCATION",
+  "description": "Cité par 1 intel : Auteurs de violences et prise en charge.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les programmes de prise en charge des auteurs de violences."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "centres",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#VIOLENCES",
+    "#PREVENTION"
+  ],
+  "events": [],
+  "signals": [
+    "!PREVENTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "stages",
+    "prise en charge",
+    "auteurs de violences",
+    "récidive",
+    "France"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

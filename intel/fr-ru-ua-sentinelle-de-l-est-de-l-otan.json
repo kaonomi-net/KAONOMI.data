@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-sentinelle-de-l-est-de-l-otan",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Sentinelle de l'Est de l'OTAN",
+  "includedEntities": [
+    {
+      "entityName": "Eastern Sentry",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "drones",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le renforcement de la défense aérienne sur le flanc est après les incursions de drones.",
+  "isFuzzy": true,
+  "locations": [
+    "Pologne",
+    "Roumanie",
+    "Baltes"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "défense antiaérienne",
+    "chasseurs",
+    "radars"
+  ],
+  "questions": [
+    "Quels moyens ?",
+    "Quelles interceptions ?",
+    "Quels pays contribuent ?"
+  ],
+  "tags": [
+    "#OTAN",
+    "#DRONES",
+    "#DEFENSE-ANTIAERIENNE"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

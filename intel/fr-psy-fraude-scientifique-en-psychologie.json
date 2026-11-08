@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-fraude-scientifique-en-psychologie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Fraude scientifique en psychologie",
+  "includedEntities": [
+    {
+      "entityName": "fraude scientifique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "rétractation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les fraudes et rétractations en psychologie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "données falsifiées",
+    "revues",
+    "chercheurs"
+  ],
+  "questions": [
+    "Quel chercheur ?",
+    "Quelle étude ?",
+    "Quelle sanction ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#RECHERCHE",
+    "#FRAUDE"
+  ],
+  "events": [
+    "@RETRACTATION"
+  ],
+  "signals": [
+    "!SCANDALE"
+  ],
+  "isDeleted": false
+}

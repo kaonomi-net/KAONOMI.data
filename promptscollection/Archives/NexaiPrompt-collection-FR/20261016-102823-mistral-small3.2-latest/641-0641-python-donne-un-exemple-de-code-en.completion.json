@@ -1,0 +1,13 @@
+{
+  "index": 641,
+  "file": "0641-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre les arguments *args et **kwargs.",
+  "promptWords": 14,
+  "completion": "Voici un exemple de code en Python qui illustre l'utilisation des arguments `*args` et `**kwargs` :\n\n```python\ndef exemple_fonction(*args, **kwargs):\n    # Affichage des arguments positionnels (*args)\n    print(\"Arguments positionnels (*args):\")\n    for i, arg in enumerate(args):\n        print(f\"Argument {i}: {arg}\")\n\n    # Affichage des arguments nommés (**kwargs)\n    print(\"\\nArguments nommés (**kwargs):\")\n    for nom, valeur in kwargs.items():\n        print(f\"{nom}: {valeur}\")\n\n# Appel de la fonction avec des arguments positionnels et nommés\nexemple_fonction(1, 2, 3, nom=\"Alice\", age=25, ville=\"Paris\")\n```\n\n### Explication :\n- `*args` permet de passer un nombre variable d'arguments positionnels à une fonction. Ils sont accessibles sous forme de tuple.\n- `**kwargs` permet de passer un nombre variable d'arguments nommés à une fonction. Ils sont accessibles sous forme de dictionnaire.\n\n### Sortie attendue :\n```\nArguments positionnels (*args):\nArgument 0: 1\nArgument 1: 2\nArgument 2: 3\n\nArguments nommés (**kwargs):\nnom: Alice\nage: 25\nville: Paris\n```\n\nCet exemple montre comment une fonction peut accepter à la fois des arguments positionnels et nommés de manière flexible.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:36:47.061902+02:00",
+  "durationSeconds": 6.26,
+  "stats": "mistral-small3.2:latest · 526 + 307 tokens · 6,3 s",
+  "isError": false,
+  "language": "FR"
+}

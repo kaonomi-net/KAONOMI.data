@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-ia-et-sante-mentale",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "IA et santé mentale",
+  "includedEntities": [
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "chatbot",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Surveiller les effets des compagnons IA sur la santé mentale.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "adolescents",
+    "dépendance",
+    "psychologues"
+  ],
+  "questions": [
+    "Quel cas signalé ?",
+    "Quelle dépendance ?",
+    "Quelles protections ?"
+  ],
+  "tags": [
+    "#IA",
+    "#SANTE-MENTALE",
+    "#ETHIQUE"
+  ],
+  "events": [
+    "@SIGNALEMENT"
+  ],
+  "signals": [
+    "!VIGILANCE",
+    "!SAD"
+  ],
+  "isDeleted": false
+}

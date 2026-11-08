@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Elliniki Lusi-Greek Solution, parti ou liste de ce pays : Grèce, qui compte 2 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-el-elliniki-lusi-greek-solution",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Elliniki Lusi-Greek Solution",
+  "entityType": "ORGANISATION",
+  "description": "Elliniki Lusi-Greek Solution, parti ou liste de ce pays : Grèce, qui compte 2 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "La presse a commenté le score de « Elliniki Lusi-Greek Solution » aux élections européennes.",
+    "Les positions de « Elliniki Lusi-Greek Solution » sont suivies à Bruxelles et à Strasbourg.",
+    "« Elliniki Lusi-Greek Solution » compte des élus au Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Elliniki%20Lusi-Greek%20Solution"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Galato Alexandraki",
+    "Emmanouil Fragkos",
+    "Grèce",
+    "Conservateurs et réformistes européens (ECR)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

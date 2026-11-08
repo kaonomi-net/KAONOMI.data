@@ -1,0 +1,13 @@
+{
+  "index": 73,
+  "file": "073-interet-pour-le-llm-haben-sie-einen-namen.prompt.json",
+  "prompt": "Haben Sie einen Namen?",
+  "promptWords": 4,
+  "completion": "Ich habe keinen Namen.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:09:59.9663894+02:00",
+  "durationSeconds": 0.35,
+  "stats": "mistral-small3.2:latest · 513 + 6 tokens · 0,3 s",
+  "isError": false,
+  "language": "DE"
+}

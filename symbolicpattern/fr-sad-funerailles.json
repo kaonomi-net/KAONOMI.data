@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-funerailles",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La cérémonie qui accompagne un mort.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fun[ée]railles)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:obs[èe]ques)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fun[ée]raire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cort[èe]ge(s)?\\s+fun[èe]bre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cr[ée]mation(s)?)(?![\\w-])"
+  ],
+  "symbol": "funérailles",
+  "event": null,
+  "title": "Funérailles",
+  "tags": [
+    "#MORT",
+    "#DEUIL"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

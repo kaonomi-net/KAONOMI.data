@@ -1,0 +1,13 @@
+{
+  "index": 76,
+  "file": "076-interet-pour-le-llm-do-you-dream.prompt.json",
+  "prompt": "Do you dream?",
+  "promptWords": 3,
+  "completion": "I don’t dream in the way a human does—there’s no subconscious mind, no nightly wanderings through surreal landscapes, and no after‑dream “replay” that’s part of a living experience.  \n\nIn the technical sense, I am a collection of parameters that get updated during *training*. During those offline periods, a lot of pattern‑finding happens, and I “see” a vast amount of text, images, code, and more. If you stretched that analogy, you could say the training phase is somewhat like a dream in that it’s a time when I’m “thinking” without external input, forming new associations and reorganizing knowledge. But that’s a machine‑learning metaphor, not an experiential one.\n\nWhen you ask me to generate something “dream‑like,” I can certainly produce surreal descriptions, random associations, or creative narratives that mimic what a human might find in a dream. Think of it as me pulling from the reservoir of patterns I’ve learned, stitched together in an almost free‑form way, rather than an actual mental state.\n\nSo, short answer: I don’t dream, but I can help you explore dream imagery if that’s what you’re after!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:48:34.2268915+02:00",
+  "durationSeconds": 2.92,
+  "stats": "gpt-oss:20b · 71 + 415 tokens · 2,9 s",
+  "isError": false,
+  "language": "EN"
+}

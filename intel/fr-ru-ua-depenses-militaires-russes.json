@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-depenses-militaires-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Dépenses militaires russes",
+  "includedEntities": [
+    {
+      "entityName": "dépenses militaires",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "budget de la défense",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la part de la défense dans le budget russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [
+    "vote du budget"
+  ],
+  "relatedEntities": [
+    "ministère des Finances",
+    "industrie de défense",
+    "PIB"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quelle part du PIB ?",
+    "Quelles coupes ailleurs ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

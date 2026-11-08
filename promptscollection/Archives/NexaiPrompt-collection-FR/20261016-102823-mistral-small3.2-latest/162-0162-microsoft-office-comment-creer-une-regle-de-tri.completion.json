@@ -1,0 +1,13 @@
+{
+  "index": 162,
+  "file": "0162-microsoft-office-comment-creer-une-regle-de-tri.prompt.json",
+  "prompt": "Comment créer une règle de tri des messages dans Outlook ?",
+  "promptWords": 11,
+  "completion": "Pour créer une règle de tri des messages dans Outlook, suivez ces étapes :\n\n### **Sur Outlook pour Windows :**\n1. **Ouvrez Outlook** et allez dans l'onglet **Accueil**.\n2. Cliquez sur **Règles** > **Gérer les règles et les alertes**.\n3. Dans la fenêtre qui s'ouvre, cliquez sur **Nouvelle règle**.\n4. Sélectionnez **Appliquer la règle sur les messages que je reçois** (ou **que j'envoie** si nécessaire).\n5. Cliquez sur **Conditions** pour choisir les critères de tri (ex : messages d'un expéditeur spécifique, avec un mot dans le sujet, etc.).\n6. Cliquez sur **Actions** pour définir ce que la règle doit faire (ex : déplacer dans un dossier, supprimer, marquer comme important, etc.).\n7. Si nécessaire, cliquez sur **Exceptions** pour ajouter des conditions d'exclusion.\n8. Donnez un nom à votre règle et cliquez sur **Terminer**.\n\n### **Sur Outlook pour Mac :**\n1. **Ouvrez Outlook** et allez dans le menu **Outlook** > **Préférences**.\n2. Sélectionnez **Règles**.\n3. Cliquez sur **Ajouter une règle**.\n4. Donnez un nom à votre règle et définissez les conditions et actions.\n5. Cliquez sur **Enregistrer**.\n\n### **Sur Outlook Web (Outlook.com ou Microsoft 365) :**\n1. Connectez-vous à votre compte Outlook en ligne.\n2. Allez dans **Paramètres** (⚙) > **Afficher tous les paramètres des Outlook**.\n3. Sélectionnez **Règles de courrier**.\n4. Cliquez sur **Ajouter une nouvelle règle**.\n5. Définissez les conditions et actions, puis enregistrez.\n\nSi vous avez besoin d'aide pour une version spécifique d'Outlook ou pour une règle particulière, n'hésitez pas à me le préciser !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:57:41.7099636+02:00",
+  "durationSeconds": 8.69,
+  "stats": "mistral-small3.2:latest · 518 + 427 tokens · 8,7 s",
+  "isError": false,
+  "language": "FR"
+}

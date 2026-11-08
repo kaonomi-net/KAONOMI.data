@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-pont-de-crimee",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Pont de Crimée",
+  "includedEntities": [
+    {
+      "entityName": "pont de Crimée",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Kertch",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les menaces et attaques contre le pont de Kertch.",
+  "isFuzzy": true,
+  "locations": [
+    "Kertch",
+    "Crimée"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "logistique russe",
+    "drones navals",
+    "missiles"
+  ],
+  "questions": [
+    "Une attaque a-t-elle eu lieu ?",
+    "Quels dégâts ?",
+    "Quel impact sur la logistique ?"
+  ],
+  "tags": [
+    "#CRIMEE",
+    "#RUSSIE",
+    "#INFRASTRUCTURE"
+  ],
+  "events": [
+    "@ATTAQUE"
+  ],
+  "signals": [
+    "!VULNERABILITE"
+  ],
+  "isDeleted": false
+}

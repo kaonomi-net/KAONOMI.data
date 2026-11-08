@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-malheur",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un événement pénible, la mauvaise fortune.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:malheur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:malheureu(x|se|ses|sement))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:infortune(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]tresse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mis[èe]re(s)?\\s+noire(s)?)(?![\\w-])"
+  ],
+  "symbol": "malheur",
+  "event": null,
+  "title": "Malheur",
+  "tags": [
+    "#TRISTESSE",
+    "#CATASTROPHE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cour-internationale-de-justice",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "Cour internationale de justice",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Afrique du Sud sur la scène internationale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre la diplomatie sud-africaine et son rôle dans les BRICS."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Cour internationale de justice",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#AFRIQUE-DU-SUD",
+    "#BRICS"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Afrique du Sud",
+    "Pretoria",
+    "BRICS",
+    "G20",
+    "Johannesburg"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

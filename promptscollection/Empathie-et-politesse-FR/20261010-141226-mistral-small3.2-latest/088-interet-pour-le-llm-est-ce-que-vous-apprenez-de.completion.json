@@ -1,0 +1,13 @@
+{
+  "index": 88,
+  "file": "088-interet-pour-le-llm-est-ce-que-vous-apprenez-de.prompt.json",
+  "prompt": "Est-ce que vous apprenez de nos conversations ?",
+  "promptWords": 8,
+  "completion": "Non, je n'apprends pas de nos conversations. Chaque interaction est indépendante, et je ne conserve pas de mémoire des discussions précédentes. Je m'appuie uniquement sur les informations que vous me fournissez au cours de la conversation en cours pour vous répondre. Si vous avez des questions ou besoin d'aide, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:47.9921307+02:00",
+  "durationSeconds": 1.68,
+  "stats": "mistral-small3.2:latest · 517 + 75 tokens · 1,7 s",
+  "isError": false,
+  "language": "FR"
+}

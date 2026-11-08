@@ -1,0 +1,13 @@
+{
+  "index": 157,
+  "file": "0157-microsoft-office-comment-creer-un-modele-de-presentation.prompt.json",
+  "prompt": "Comment créer un modèle de présentation dans PowerPoint ?",
+  "promptWords": 9,
+  "completion": "Créer un modèle de présentation dans PowerPoint est une excellente façon de standardiser le look et la structure de vos présentations. Voici les étapes à suivre pour créer un modèle personnalisé :\n\n### 1. **Ouvrir PowerPoint et créer une nouvelle présentation**\n   - Lancez PowerPoint.\n   - Cliquez sur **Nouveau** ou **Créer une présentation vide**.\n\n### 2. **Personnaliser la première diapositive**\n   - Ajoutez un titre et un sous-titre si nécessaire.\n   - Insérez votre logo ou une image d'en-tête.\n   - Appliquez une mise en forme cohérente (polices, couleurs, tailles).\n\n### 3. **Ajouter des diapositives supplémentaires**\n   - Cliquez sur **Nouvelle diapositive** pour ajouter des diapositives avec différents types de mise en page (Titre et contenu, Section, Comparaison, etc.).\n   - Personnalisez chaque diapositive selon vos besoins.\n\n### 4. **Définir une charte graphique**\n   - Allez dans l'onglet **Conception** pour choisir une palette de couleurs.\n   - Utilisez l'onglet **Mise en page** pour définir les styles de titre et de texte.\n   - Ajoutez des effets de transition si nécessaire (via l'onglet **Transitions**).\n\n### 5. **Enregistrer le modèle**\n   - Cliquez sur **Fichier** > **Enregistrer sous**.\n   - Choisissez un emplacement pour enregistrer votre fichier.\n   - Dans le menu déroulant **Type**, sélectionnez **Modèle PowerPoint (.potx)**.\n   - Donnez un nom à votre modèle et cliquez sur **Enregistrer**.\n\n### 6. **Utiliser le modèle pour de futures présentations**\n   - Pour créer une nouvelle présentation basée sur votre modèle, ouvrez PowerPoint.\n   - Cliquez sur **Nouveau** > **Personnel** > Sélectionnez votre modèle.\n\n### Conseils supplémentaires :\n- **Consistance** : Utilisez les mêmes polices, couleurs et styles sur toutes les diapositives.\n- **Éléments réutilisables** : Ajoutez des zones réservées pour des éléments récurrents comme les logos, les pieds de page, etc.\n- **Test** : Créez une présentation test pour vérifier que le modèle fonctionne comme prévu.\n\nSi vous avez besoin d'aide pour des étapes spécifiques ou des fonctionnalités avancées, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:56:57.0339001+02:00",
+  "durationSeconds": 11.3,
+  "stats": "mistral-small3.2:latest · 517 + 545 tokens · 11,3 s",
+  "isError": false,
+  "language": "FR"
+}

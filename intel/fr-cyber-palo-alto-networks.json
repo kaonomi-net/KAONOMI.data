@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-palo-alto-networks",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Palo Alto Networks",
+  "includedEntities": [
+    {
+      "entityName": "Palo Alto Networks",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "pare-feu",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre Palo Alto Networks et ses acquisitions.",
+  "isFuzzy": false,
+  "locations": [
+    "Santa Clara"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "CyberArk",
+    "plateforme",
+    "Unit 42"
+  ],
+  "questions": [
+    "Quelle acquisition ?",
+    "Quelle croissance ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ENTREPRISES"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

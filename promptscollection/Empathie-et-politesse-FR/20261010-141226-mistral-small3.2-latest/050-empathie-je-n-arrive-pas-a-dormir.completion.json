@@ -1,0 +1,13 @@
+{
+  "index": 50,
+  "file": "050-empathie-je-n-arrive-pas-a-dormir.prompt.json",
+  "prompt": "Je n'arrive pas à dormir à cause de mes soucis.",
+  "promptWords": 10,
+  "completion": "Je suis désolé d'apprendre que vous avez du mal à dormir à cause de vos soucis. Le manque de sommeil peut effectivement aggraver le stress et rendre la situation encore plus difficile. Voici quelques conseils qui pourraient vous aider :\n\n1. **Technique de respiration** : Essayez la respiration 4-7-8. Inspirez profondément pendant 4 secondes, retenez votre souffle pendant 7 secondes, puis expirez lentement pendant 8 secondes. Répétez cette séquence plusieurs fois.\n\n2. **Écrire vos pensées** : Prenez un papier et un stylo et notez ce qui vous préoccupe. Cela peut vous aider à clarifier vos pensées et à les mettre à distance.\n\n3. **Routine de détente** : Essayez de créer une routine relaxante avant de dormir, comme écouter de la musique douce, lire un livre ou prendre un bain chaud.\n\n4. **Éviter les écrans** : Limitez l'utilisation des appareils électroniques au moins une heure avant de dormir, car la lumière bleue peut perturber votre sommeil.\n\n5. **Méditation ou relaxation** : Des applications de méditation guidée peuvent être utiles pour calmer l'esprit.\n\n6. **Environnement de sommeil** : Assurez-vous que votre chambre est sombre, silencieuse et à une température confortable.\n\nSi vos soucis persistent et affectent votre qualité de vie, il pourrait être utile d'en parler à un professionnel de la santé mentale. Ils pourront vous fournir des stratégies supplémentaires pour gérer votre stress et améliorer votre sommeil.\n\nSouhaitez-vous des informations plus spécifiques sur l'une de ces techniques ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:13:48.7654714+02:00",
+  "durationSeconds": 6.89,
+  "stats": "mistral-small3.2:latest · 521 + 343 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

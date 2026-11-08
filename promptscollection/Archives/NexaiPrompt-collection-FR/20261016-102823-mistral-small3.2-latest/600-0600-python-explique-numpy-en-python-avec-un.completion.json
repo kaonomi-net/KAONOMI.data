@@ -1,0 +1,13 @@
+{
+  "index": 600,
+  "file": "0600-python-explique-numpy-en-python-avec-un.prompt.json",
+  "prompt": "Explique NumPy en Python avec un exemple simple.",
+  "promptWords": 8,
+  "completion": "NumPy (Numerical Python) est une bibliothèque fondamentale en Python pour les calculs scientifiques et les opérations sur des tableaux (arrays) multidimensionnels. Elle offre des fonctionnalités performantes pour manipuler des données numériques, effectuer des calculs vectorisés et interagir avec d'autres bibliothèques scientifiques comme SciPy, Pandas ou Matplotlib.\n\n### Exemple simple avec NumPy\n\nVoici un exemple simple pour illustrer l'utilisation de NumPy :\n\n```python\nimport numpy as np\n\n# Création d'un tableau NumPy\ndata = [1, 2, 3, 4, 5]\narray = np.array(data)\n\nprint(\"Tableau NumPy :\", array)\nprint(\"Type de l'objet :\", type(array))\nprint(\"Dimensions du tableau :\", array.shape)\nprint(\"Type des éléments :\", array.dtype)\n\n# Opérations sur le tableau\nprint(\"\\nOpérations sur le tableau :\")\nprint(\"Multiplication par 2 :\", array * 2)\nprint(\"Carré des éléments :\", array ** 2)\nprint(\"Somme des éléments :\", np.sum(array))\nprint(\"Moyenne des éléments :\", np.mean(array))\n```\n\n### Explications :\n\n1. **Création d'un tableau NumPy** :\n   - `np.array(data)` convertit la liste `data` en un tableau NumPy.\n\n2. **Propriétés du tableau** :\n   - `array.shape` donne les dimensions du tableau (ici, `(5,)` pour un tableau 1D de 5 éléments).\n   - `array.dtype` indique le type des éléments (par défaut, `int64` pour des entiers).\n\n3. **Opérations sur le tableau** :\n   - Les opérations comme `array * 2` ou `array ** 2` sont appliquées élément par élément (vectorisation).\n   - `np.sum(array)` et `np.mean(array)` calculent respectivement la somme et la moyenne des éléments.\n\n### Avantages de NumPy :\n- **Performance** : Les opérations sont optimisées en C, ce qui les rend beaucoup plus rapides que les boucles Python classiques.\n- **Vectorisation** : Les opérations sont appliquées sur l'ensemble du tableau sans besoin de boucles explicites.\n- **Interopérabilité** : NumPy est compatible avec de nombreuses autres bibliothèques scientifiques.\n\nSi tu veux explorer davantage, tu peux essayer de créer des tableaux multidimensionnels ou d'utiliser des fonctions avancées comme `np.dot` pour les produits matriciels.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:25:27.994365+02:00",
+  "durationSeconds": 10.35,
+  "stats": "mistral-small3.2:latest · 518 + 526 tokens · 10,4 s",
+  "isError": false,
+  "language": "FR"
+}

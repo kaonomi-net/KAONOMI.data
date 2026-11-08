@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-djibouti",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "Djibouti",
+  "entityType": "COUNTRY",
+  "description": "Cité par 1 intel : Bases militaires à l'étranger.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre l'ouverture et la fermeture de bases militaires à l'étranger."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Djibouti",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#DEFENSE",
+    "#INFLUENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "base militaire",
+    "accord",
+    "étranger",
+    "France",
+    "Chine",
+    "océan Pacifique",
+    "États-Unis"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

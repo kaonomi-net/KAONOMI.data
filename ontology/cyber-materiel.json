@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Classe de l'ontologie : Cybersécurité › Matériel.",
+  "id": "cyber-materiel",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Matériel",
+  "entityType": "HARDWARE",
+  "description": "Les machines à chiffrer, cartes à puce, modules et puces de sécurité, clés d'authentification, pare-feu et outils matériels d'audit.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-racine",
+  "sentencesExemples": [
+    "La branche « Matériel » de l'ontologie regroupe les entrées de ce thème.",
+    "Pour explorer « Matériel », ouvrez la branche dans la fenêtre de l'ontologie.",
+    "Chaque entrée de « Matériel » est reliée à d'autres par des relations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": true,
+  "symbol": "\uD83D\uDCC2",
+  "synonyms": [
+    "équipements de sécurité",
+    "hardware de sécurité"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ONTOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

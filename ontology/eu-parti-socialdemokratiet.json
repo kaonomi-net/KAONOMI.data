@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Social-démocratie (Socialdemokratiet), parti politique de ce pays : Danemark.",
+  "id": "eu-parti-socialdemokratiet",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Social-démocratie (Socialdemokratiet)",
+  "entityType": "ORGANISATION",
+  "description": "Social-démocratie (Socialdemokratiet), parti politique de ce pays : Danemark. Il est affilié à la famille Socialistes et démocrates (S&D).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "« Social-démocratie (Socialdemokratiet) » joue un rôle dans la vie politique nationale.",
+    "Les fonctionnaires de « Social-démocratie (Socialdemokratiet) » préparent les textes relatifs à la vie politique nationale.",
+    "La délégation a rencontré des représentants de « Social-démocratie (Socialdemokratiet) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Social-d%C3%A9mocratie%20%28Socialdemokratiet%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Danemark",
+    "Socialistes et démocrates (S&D)",
+    "Dan Jørgensen"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

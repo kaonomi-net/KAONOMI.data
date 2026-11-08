@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-budget-et-avenir-de-la-cisa",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Budget et avenir de la CISA",
+  "includedEntities": [
+    {
+      "entityName": "CISA",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les coupes budgétaires et l'avenir de l'agence américaine de cybersécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Congrès",
+    "effectifs",
+    "programmes"
+  ],
+  "questions": [
+    "Quelle coupe ?",
+    "Quel effet ?",
+    "Quelle réaction du Congrès ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ETATS-UNIS",
+    "#CISA"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

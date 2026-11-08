@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-victimes",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les personnes touchées par l'attaque.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:victimes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bilan\\s+des\\s+victimes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bilan\\s+provisoire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bless[ée]s\\s+graves)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:morts\\s+et\\s+bless[ée]s)(?![\\w-])"
+  ],
+  "symbol": "victimes",
+  "event": null,
+  "title": "Victimes",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

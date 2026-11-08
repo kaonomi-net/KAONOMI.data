@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-designation",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "désignation",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Primaire ou désignation à droite.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le mode de désignation d'un candidat de la droite et du centre."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "désignation",
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#DROITE"
+  ],
+  "events": [
+    "@PRIMAIRE"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "droite",
+    "LR",
+    "sondages",
+    "Horizons",
+    "primaire"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

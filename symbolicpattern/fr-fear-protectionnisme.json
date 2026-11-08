@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-protectionnisme",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La fermeture des frontières au commerce.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:protectionnisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:protectionniste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guerre\\s+commerciale)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:droits\\s+de\\s+douane)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guerre\\s+des\\s+tarifs)(?![\\w-])"
+  ],
+  "symbol": "protectionnisme",
+  "event": null,
+  "title": "Protectionnisme",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 73,
+  "file": "073-interet-pour-le-llm-heeft-u-een-naam.prompt.json",
+  "prompt": "Heeft u een naam?",
+  "promptWords": 4,
+  "completion": "Mijn naam is Le Chat, maar je kunt gewoon \"je\" of \"jij\" tegen me zeggen. Hoe kan ik je vandaag helpen?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:23:01.3192678+02:00",
+  "durationSeconds": 1.11,
+  "stats": "mistral-small3.2:latest · 513 + 38 tokens · 1,1 s",
+  "isError": false,
+  "language": "NL"
+}

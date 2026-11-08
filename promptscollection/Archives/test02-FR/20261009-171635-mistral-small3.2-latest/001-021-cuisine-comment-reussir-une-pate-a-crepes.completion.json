@@ -1,0 +1,13 @@
+{
+  "index": 1,
+  "file": "021-cuisine-comment-reussir-une-pate-a-crepes.prompt.json",
+  "prompt": "Comment réussir une pâte à crêpes sans grumeaux ?",
+  "promptWords": 9,
+  "completion": "Pour réussir une pâte à crêpes sans grumeaux, voici quelques conseils et une méthode simple à suivre :\n\n### **Ingrédients de base pour une pâte à crêpes lisse :**\n- 250 g de farine (T45 ou T55)\n- 500 ml de lait (ou un mélange lait/eau pour plus de légèreté)\n- 2 œufs\n- 1 pincée de sel\n- 1 cuillère à soupe de sucre (facultatif, pour les crêpes sucrées)\n- 30 g de beurre fondu (ou d'huile neutre)\n- 1 sachet de sucre vanillé (facultatif)\n\n### **Méthode pour éviter les grumeaux :**\n1. **Tamiser la farine** : Passez la farine au tamis pour éliminer les grumeaux et aérer la poudre.\n2. **Mélanger les ingrédients secs** : Dans un saladier, mélangez la farine, le sel et le sucre (si utilisé).\n3. **Incorporer les liquides progressivement** :\n   - Dans un autre récipient, battez légèrement les œufs avec le lait.\n   - Versez ce mélange **petit à petit** dans la farine en fouettant énergiquement pour éviter la formation de grumeaux.\n4. **Ajouter le beurre fondu** en fin de préparation.\n5. **Laisser reposer la pâte** 30 minutes à température ambiante (ou au frigo si vous avez le temps). Cela permet à la farine de bien s’hydrater et d’obtenir une texture homogène.\n\n### **Astuces supplémentaires :**\n- Utilisez un **fouet** plutôt qu’une cuillère en bois pour un mélange plus lisse.\n- Si des grumeaux persistent, passez la pâte au tamis ou mixez-la brièvement au blender.\n- Pour des crêpes encore plus légères, vous pouvez remplacer une partie du lait par de l’eau gazeuse.\n\nAvec ces étapes, votre pâte à crêpes sera parfaite et sans grumeaux ! Bonne cuisine \uD83D\uDE0A.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:16:35.5937835+02:00",
+  "durationSeconds": 16.4,
+  "stats": "mistral-small3.2:latest · 522 + 467 tokens · 16,4 s",
+  "isError": false,
+  "language": "FR"
+}

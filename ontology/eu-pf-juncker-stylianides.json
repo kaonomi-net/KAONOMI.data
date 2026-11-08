@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (l'aide humanitaire) : Portefeuille détenu par Christos Stylianides, commissaire, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "id": "eu-pf-juncker-stylianides",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Aide humanitaire et gestion des crises (Commission Juncker)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Christos Stylianides, commissaire, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Aide humanitaire et gestion des crises (Commission Juncker) ».",
+    "Le portefeuille « Aide humanitaire et gestion des crises (Commission Juncker) » couvre l'aide humanitaire.",
+    "La lettre de mission du portefeuille « Aide humanitaire et gestion des crises (Commission Juncker) » fixe les objectifs en matière de l'aide humanitaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#AIDEHUMANITAIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Aide%20humanitaire%20et%20gestion%20des%20crises%20%28Commission%20Juncker%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Christos Stylianides",
+    "Commission Juncker",
+    "Commissaire européen",
+    "Aide humanitaire",
+    "Gestion des crises"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-11-01T00:00:00",
+  "endDate": "2019-11-30T00:00:00"
+}

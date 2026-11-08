@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique énergétique) : Avocat, ancien ministre-président du Bade-Wurtemberg, commissaire à l'Énergie, à l'Économie numérique puis au Budget de 2010 à 2019.",
+  "id": "eu-p-oettinger",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Günther Oettinger",
+  "entityType": "PERSON",
+  "description": "Avocat, ancien ministre-président du Bade-Wurtemberg, commissaire à l'Énergie, à l'Économie numérique puis au Budget de 2010 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Günther Oettinger est une figure de la politique énergétique.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Günther Oettinger.",
+    "Lors du point de presse de midi, une question portait sur Günther Oettinger."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Oettinger"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUEENERGETIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=G%C3%BCnther%20Oettinger"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité allemande",
+    "Union chrétienne-démocrate (CDU)",
+    "Avocat",
+    "Président de région",
+    "Commissaire européen",
+    "Économie et société numériques, puis budget et ressources humaines (Commission Juncker)",
+    "Commission Juncker",
+    "Numérique",
+    "Budget",
+    "Énergie (Commission Barroso II)",
+    "Commission Barroso II",
+    "Énergie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

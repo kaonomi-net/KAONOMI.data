@@ -1,0 +1,13 @@
+{
+  "index": 182,
+  "file": "0182-microsoft-office-comment-transcrire-une-reunion-dans-teams.prompt.json",
+  "prompt": "Comment transcrire une réunion dans Teams ?",
+  "promptWords": 7,
+  "completion": "Pour transcrire une réunion dans Microsoft Teams, vous pouvez suivre ces étapes :\n\n1. **Avant la réunion** :\n   - Assurez-vous que la transcription est activée pour votre organisation. Cela peut être configuré par l'administrateur Teams.\n   - Utilisez un compte Microsoft 365 qui prend en charge la transcription.\n\n2. **Pendant la réunion** :\n   - Lancez la réunion dans Teams.\n   - Cliquez sur les trois points (⋯) à côté du bouton \"Partager\" dans la barre d'outils de la réunion.\n   - Sélectionnez \"Activer la transcription\" dans le menu déroulant.\n   - Teams commencera à enregistrer et à transcrire automatiquement la réunion.\n\n3. **Après la réunion** :\n   - La transcription sera disponible dans le centre de gestion des enregistrements de Teams.\n   - Vous pouvez accéder à la transcription en allant dans l'onglet \"Enregistrements\" de la réunion dans Teams.\n   - La transcription peut être téléchargée ou partagée avec les participants.\n\nSi vous rencontrez des difficultés ou si la fonctionnalité n'est pas disponible, vous pouvez également utiliser des outils externes de transcription ou des services de sous-titrage pour transcrire manuellement la réunion.\n\nSouhaitez-vous des informations plus détaillées sur l'une de ces étapes ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:00:21.9095047+02:00",
+  "durationSeconds": 6.12,
+  "stats": "mistral-small3.2:latest · 515 + 287 tokens · 6,1 s",
+  "isError": false,
+  "language": "FR"
+}

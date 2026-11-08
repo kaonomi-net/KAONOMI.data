@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-paquet-diversification-des-chaines-d-approvisionnement",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Paquet diversification des chaînes d'approvisionnement",
+  "includedEntities": [
+    {
+      "entityName": "diversification",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "chaînes d'approvisionnement",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le paquet de diversification prévu par le programme de travail 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "2027"
+  ],
+  "relatedEntities": [
+    "dépendances",
+    "matières premières",
+    "partenaires"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quels partenaires ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#PROGRAMME-2027"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

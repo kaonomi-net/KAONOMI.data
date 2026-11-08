@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-psychologie-de-la-haine-en-ligne",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Psychologie de la haine en ligne",
+  "includedEntities": [
+    {
+      "entityName": "haine en ligne",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "harcèlement",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recherches sur la haine en ligne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "anonymat",
+    "modération",
+    "victimes"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel mécanisme ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#NUMERIQUE",
+    "#HAINE"
+  ],
+  "events": [],
+  "signals": [
+    "!VIOLENCE"
+  ],
+  "isDeleted": false
+}

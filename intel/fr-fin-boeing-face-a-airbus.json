@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-boeing-face-a-airbus",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Boeing face à Airbus",
+  "includedEntities": [
+    {
+      "entityName": "Boeing",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Airbus",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la concurrence entre Boeing et Airbus.",
+  "isFuzzy": true,
+  "locations": [
+    "Seattle",
+    "Toulouse"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "livraisons",
+    "cadences",
+    "certification"
+  ],
+  "questions": [
+    "Quelles livraisons ?",
+    "Quel incident ?",
+    "Quel gain de parts de marché ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#AERONAUTIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!CONCURRENCE"
+  ],
+  "isDeleted": false
+}

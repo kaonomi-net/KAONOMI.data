@@ -1,0 +1,13 @@
+{
+  "index": 115,
+  "file": "0115-microsoft-office-comment-utiliser-les-champs-de-formulaire.prompt.json",
+  "prompt": "Comment utiliser les champs de formulaire dans Word ?",
+  "promptWords": 9,
+  "completion": "Pour utiliser les champs de formulaire dans Microsoft Word, vous pouvez suivre ces étapes :\n\n### 1. **Activer l'onglet Développeur**\n   - Cliquez sur **Fichier** > **Options**.\n   - Dans la fenêtre **Options Word**, sélectionnez **Personnaliser le ruban**.\n   - Cochez la case **Développeur** dans la colonne de droite.\n   - Cliquez sur **OK**.\n\n### 2. **Insérer un contrôle de contenu**\n   - Allez dans l'onglet **Développeur**.\n   - Cliquez sur **Contrôle de contenu** > **Champ de formulaire riche** (ou un autre type de champ selon vos besoins).\n\n### 3. **Configurer le champ de formulaire**\n   - Cliquez sur le champ inséré pour le sélectionner.\n   - Dans l'onglet **Développeur**, utilisez les options disponibles pour configurer le champ (par exemple, définir le type de données, ajouter des options de validation, etc.).\n\n### 4. **Protéger le document (facultatif)**\n   - Pour empêcher les utilisateurs de modifier le document en dehors des champs de formulaire, allez dans **Développeur** > **Restreindre la modification**.\n   - Sélectionnez **Autoriser uniquement ce type de modification** et choisissez **Remplir les champs de formulaire**.\n   - Cliquez sur **Oui, appliquer la protection** et définissez un mot de passe si nécessaire.\n\n### 5. **Distribuer le document**\n   - Enregistrez le document et partagez-le avec les utilisateurs. Ils pourront remplir les champs de formulaire.\n\n### Types de champs de formulaire disponibles :\n   - **Champ de texte** : Pour saisir du texte.\n   - **Case à cocher** : Pour des options oui/non.\n   - **Bouton d'option** : Pour choisir parmi plusieurs options.\n   - **Liste déroulante** : Pour sélectionner une option dans une liste.\n   - **Zone de liste** : Pour sélectionner plusieurs options dans une liste.\n\nSi vous avez besoin d'instructions plus spécifiques ou d'une version plus récente de Word, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:50:19.5273995+02:00",
+  "durationSeconds": 9.74,
+  "stats": "mistral-small3.2:latest · 517 + 481 tokens · 9,7 s",
+  "isError": false,
+  "language": "FR"
+}

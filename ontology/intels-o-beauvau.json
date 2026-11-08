@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-beauvau",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Beauvau",
+  "entityType": "LOCATION",
+  "description": "Cité par 1 intel : Ministre de l'Intérieur.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les décisions et déclarations du ministre de l'Intérieur."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Beauvau",
+  "tags": [
+    "#FRANCE",
+    "#SECURITE",
+    "#GOUVERNEMENT"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!SECURITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "police",
+    "sécurité",
+    "immigration",
+    "ministre de l'Intérieur"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

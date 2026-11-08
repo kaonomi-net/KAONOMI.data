@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-agriculteurs-contre-les-accords-commerciaux",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Agriculteurs contre les accords commerciaux",
+  "includedEntities": [
+    {
+      "entityName": "agriculteurs",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "accords commerciaux",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "manifestation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les mobilisations agricoles contre les accords commerciaux.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Mercosur",
+    "tracteurs",
+    "Copa-Cogeca"
+  ],
+  "questions": [
+    "Quelle mobilisation ?",
+    "Quelles revendications ?",
+    "Quelle réponse de la Commission ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AGRICULTURE",
+    "#COMMERCE"
+  ],
+  "events": [
+    "@MOBILISATION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

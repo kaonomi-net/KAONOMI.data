@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (l'industrie de l'IA) : Création d'OpenAI à San Francisco, notamment par Sam Altman, Elon Musk, Ilya Sutskever et Greg Brockman.",
+  "id": "ia-creation-openai",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Fondation d'OpenAI",
+  "entityType": "EVENT",
+  "description": "Création d'OpenAI à San Francisco, notamment par Sam Altman, Elon Musk, Ilya Sutskever et Greg Brockman.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "L'événement « Fondation d'OpenAI » a marqué durablement l'histoire de l'industrie de l'IA.",
+    "La frise chronologique de la salle de cours place « Fondation d'OpenAI » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Fondation d'OpenAI »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "création d'OpenAI"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#INDUSTRIEIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fondation%20d%27OpenAI"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ilya Sutskever",
+    "Sam Altman",
+    "Andrej Karpathy"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-12-11T00:00:00",
+  "endDate": "2015-12-11T00:00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-envoyes-speciaux-americains",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Envoyés spéciaux américains",
+  "includedEntities": [
+    {
+      "entityName": "envoyé spécial",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Witkoff",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Kellogg",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les missions des envoyés spéciaux américains.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou",
+    "Kyiv",
+    "Abou Dhabi"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Trump",
+    "Kremlin",
+    "négociations"
+  ],
+  "questions": [
+    "Quelle mission ?",
+    "Qui rencontrent-ils ?",
+    "Quel résultat ?"
+  ],
+  "tags": [
+    "#ETATS-UNIS",
+    "#NEGOCIATIONS",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@MISSION-DIPLOMATIQUE"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

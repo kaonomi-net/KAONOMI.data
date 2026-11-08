@@ -1,0 +1,13 @@
+{
+  "index": 145,
+  "file": "0145-microsoft-office-comment-transposer-des-lignes-en-colonnes.prompt.json",
+  "prompt": "Comment transposer des lignes en colonnes dans Excel ?",
+  "promptWords": 9,
+  "completion": "Pour transposer des lignes en colonnes dans Excel, vous pouvez utiliser la fonctionnalité de **transposition** disponible dans la barre de menu. Voici les étapes à suivre :\n\n### Méthode 1 : Utiliser la fonctionnalité de transposition (copier-coller spécial)\n1. **Sélectionnez les cellules** que vous souhaitez transposer.\n2. **Copiez-les** (Ctrl + C ou clic droit > Copier).\n3. **Sélectionnez la cellule** où vous voulez coller les données transposées.\n4. **Faites un clic droit** et choisissez **Collage spécial** (ou allez dans le menu **Accueil** > **Collage** > **Collage spécial**).\n5. Dans la fenêtre qui s'ouvre, cochez la case **Transposer** et cliquez sur **OK**.\n\n### Méthode 2 : Utiliser la formule `TRANSPOSE` (pour une transposition dynamique)\nSi vous souhaitez que la transposition soit mise à jour automatiquement lorsque les données sources changent, vous pouvez utiliser la formule `TRANSPOSE` :\n1. **Sélectionnez une zone de cellules** suffisamment grande pour contenir les données transposées.\n2. **Entrez la formule** :\n   ```\n   =TRANSPOSE(A1:C3)\n   ```\n   (Remplacez `A1:C3` par la plage de cellules que vous souhaitez transposer.)\n3. **Validez avec Ctrl + Maj + Entrée** (pour créer une formule matricielle).\n\n### Remarques :\n- La méthode de collage spécial est plus simple et ne nécessite pas de formules.\n- La méthode `TRANSPOSE` est utile si vous voulez que les données soient mises à jour automatiquement.\n\nSi vous avez besoin d'aide supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:55:17.0958486+02:00",
+  "durationSeconds": 8.09,
+  "stats": "mistral-small3.2:latest · 517 + 388 tokens · 8,1 s",
+  "isError": false,
+  "language": "FR"
+}

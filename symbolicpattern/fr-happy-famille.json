@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-famille",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les parents et leurs enfants.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:famille(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:familial(e|es|aux)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:foyer(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:les\\s+miens)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]union(s)?\\s+de\\s+famille)(?![\\w-])"
+  ],
+  "symbol": "famille",
+  "event": null,
+  "title": "Famille",
+  "tags": [
+    "#FAMILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

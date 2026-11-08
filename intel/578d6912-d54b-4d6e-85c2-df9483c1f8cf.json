@@ -1,0 +1,36 @@
+{
+  "appName": "KAONOMI.Chat",
+  "id": "578d6912-d54b-4d6e-85c2-df9483c1f8cf",
+  "date": "2026-11-08T15:34:06.8591863+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "",
+  "title": "eau",
+  "includedEntities": [
+    {
+      "entityName": "hydrogene",
+      "entityWeight": "100"
+    },
+    {
+      "entityName": "oxygene",
+      "entityWeight": "100"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 100,
+  "instructions": "",
+  "isFuzzy": false,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [],
+  "questions": [],
+  "tags": [
+    "#WATER",
+    "#HYDROGEN",
+    "#OXYGEN",
+    "#CHIMIE"
+  ],
+  "events": [],
+  "signals": [],
+  "isDeleted": false
+}

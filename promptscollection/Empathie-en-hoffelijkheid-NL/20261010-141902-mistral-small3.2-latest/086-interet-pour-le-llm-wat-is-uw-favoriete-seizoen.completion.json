@@ -1,0 +1,13 @@
+{
+  "index": 86,
+  "file": "086-interet-pour-le-llm-wat-is-uw-favoriete-seizoen.prompt.json",
+  "prompt": "Wat is uw favoriete seizoen?",
+  "promptWords": 5,
+  "completion": "Mijn favoriete seizoen is het najaar! De bladeren veranderen in mooie herfstkleuren, de lucht is fris en het is een perfecte tijd voor warme drankjes en knusheid. Wat is jouw favoriete seizoen? \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:23:25.2553744+02:00",
+  "durationSeconds": 1.7,
+  "stats": "mistral-small3.2:latest · 514 + 62 tokens · 1,7 s",
+  "isError": false,
+  "language": "NL"
+}

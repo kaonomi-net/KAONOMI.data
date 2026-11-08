@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-union-de-la-recherche-et-de-l-innovation",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Union de la recherche et de l'innovation",
+  "includedEntities": [
+    {
+      "entityName": "recherche",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "innovation",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Horizon",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les programmes européens de recherche et d'innovation.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Horizon Europe",
+    "Conseil européen de l'innovation",
+    "universités"
+  ],
+  "questions": [
+    "Quel budget ?",
+    "Quels programmes ?",
+    "Quelle réforme ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#RECHERCHE",
+    "#INNOVATION"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

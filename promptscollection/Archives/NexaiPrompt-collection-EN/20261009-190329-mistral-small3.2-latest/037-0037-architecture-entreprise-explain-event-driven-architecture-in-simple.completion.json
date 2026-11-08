@@ -1,0 +1,13 @@
+{
+  "index": 37,
+  "file": "0037-architecture-entreprise-explain-event-driven-architecture-in-simple.prompt.json",
+  "prompt": "Explain event-driven architecture in simple terms.",
+  "promptWords": 6,
+  "completion": "Event-driven architecture (EDA) is a software design approach where the flow of the program is determined by events. An event is a significant change in state, like a user clicking a button, a sensor detecting movement, or a timer reaching zero.\n\nHere’s a simple breakdown:\n\n1. **Events**: These are triggers or messages that something has happened. For example, a user submitting a form, a file being uploaded, or a temperature sensor reaching a certain threshold.\n\n2. **Event Producers**: These are the components that generate or publish events. For example, a web server that detects a user action and sends an event.\n\n3. **Event Consumers**: These are the components that react to events. For example, a service that processes a user’s form submission or a system that adjusts the temperature based on a sensor reading.\n\n4. **Event Channel/Messaging System**: This is the medium through which events are transmitted from producers to consumers. It could be a message queue, a publish-subscribe system, or an event bus.\n\n### How It Works:\n- When an event occurs, the event producer sends a message about the event to the event channel.\n- The event channel routes this message to the appropriate event consumers.\n- The consumers then perform actions based on the event.\n\n### Example:\nImagine a simple e-commerce system:\n- **Event**: A customer places an order.\n- **Event Producer**: The order processing service detects the order and publishes an event like \"OrderPlaced\".\n- **Event Consumers**: The inventory service (to reduce stock), the payment service (to process payment), and the email service (to send a confirmation email) all react to the \"OrderPlaced\" event.\n\n### Benefits:\n- **Decoupling**: Components don’t need to know about each other; they just react to events.\n- **Scalability**: Easy to add new event consumers without changing existing producers.\n- **Flexibility**: Changes in one part of the system don’t necessarily affect others.\n\nIn short, event-driven architecture is like a domino effect where one action triggers a chain of reactions, making systems more responsive and modular.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:10:28.8460846+02:00",
+  "durationSeconds": 9.71,
+  "stats": "mistral-small3.2:latest · 516 + 435 tokens · 9,7 s",
+  "isError": false,
+  "language": "EN"
+}

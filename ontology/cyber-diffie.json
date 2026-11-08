@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptographie à clé publique) : Cryptographe américain, co-auteur avec Martin Hellman de « New Directions in Cryptography » (1976), qui invente l'échange de clés public.",
+  "id": "cyber-diffie",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Whitfield Diffie",
+  "entityType": "PERSON",
+  "description": "Cryptographe américain, co-auteur avec Martin Hellman de « New Directions in Cryptography » (1976), qui invente l'échange de clés public. Prix Turing 2015.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Whitfield Diffie.",
+    "Les étudiants lisent les travaux de Whitfield Diffie pour comprendre la cryptographie à clé publique.",
+    "Sans Whitfield Diffie, l'histoire de la cryptographie à clé publique aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Bailey Whitfield Diffie"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTOGRAPHIEACLEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Whitfield%20Diffie"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Échange de clés Diffie-Hellman",
+    "Publication de « New Directions in Cryptography »"
+  ],
+  "isDeleted": false,
+  "startDate": "1944-06-05T00:00:00",
+  "endDate": null
+}

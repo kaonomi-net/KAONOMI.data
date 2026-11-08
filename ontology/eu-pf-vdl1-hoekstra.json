@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (l'action pour le climat) : Portefeuille détenu par Wopke Hoekstra, commissaire, dans la Commission von der Leyen I, du 9 octobre 2023 au 30 novembre 2024.",
+  "id": "eu-pf-vdl1-hoekstra",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Action pour le climat (Commission von der Leyen I)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Wopke Hoekstra, commissaire, dans la Commission von der Leyen I, du 9 octobre 2023 au 30 novembre 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Le portefeuille « Action pour le climat (Commission von der Leyen I) » couvre l'action pour le climat.",
+    "La lettre de mission du portefeuille « Action pour le climat (Commission von der Leyen I) » fixe les objectifs en matière de l'action pour le climat.",
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Action pour le climat (Commission von der Leyen I) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#ACTIONPOURCLIMAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Action%20pour%20le%20climat%20%28Commission%20von%20der%20Leyen%20I%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Wopke Hoekstra",
+    "Commission von der Leyen I",
+    "Commissaire européen",
+    "Action pour le climat",
+    "Départ de Frans Timmermans de la Commission"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-10-09T00:00:00",
+  "endDate": "2024-11-30T00:00:00"
+}

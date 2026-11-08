@@ -1,0 +1,13 @@
+{
+  "index": 797,
+  "file": "0797-csharp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C# qui illustre les types nullables.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en C# qui illustre les types nullables :\n\n```csharp\nusing System;\n\nclass Program\n{\n    static void Main()\n    {\n        // Exemple avec un type valeur (int) qui est nullable\n        int? nombreNullable = null;\n        int nombreNonNullable = 10;\n\n        Console.WriteLine(\"Nombre nullable : \" + (nombreNullable.HasValue ? nombreNullable.Value.ToString() : \"null\"));\n        Console.WriteLine(\"Nombre non nullable : \" + nombreNonNullable);\n\n        // Utilisation de l'opérateur de coalescence nulle (??) pour fournir une valeur par défaut\n        int valeurParDefaut = nombreNullable ?? 0;\n        Console.WriteLine(\"Valeur par défaut : \" + valeurParDefaut);\n\n        // Exemple avec un type valeur struct (DateTime) qui est nullable\n        DateTime? dateNullable = null;\n        DateTime dateNonNullable = DateTime.Now;\n\n        Console.WriteLine(\"Date nullable : \" + (dateNullable.HasValue ? dateNullable.Value.ToString() : \"null\"));\n        Console.WriteLine(\"Date non nullable : \" + dateNonNullable);\n\n        // Utilisation de la méthode GetValueOrDefault()\n        int valeurParDefaut2 = nombreNullable.GetValueOrDefault();\n        Console.WriteLine(\"Valeur par défaut avec GetValueOrDefault() : \" + valeurParDefaut2);\n    }\n}\n```\n\nExplications :\n1. Les types nullables sont créés en ajoutant un `?` après le type de base (ex: `int?`).\n2. Un type nullable peut contenir une valeur ou `null`.\n3. `HasValue` permet de vérifier si la valeur est non nulle.\n4. `Value` permet d'accéder à la valeur sous-jacente.\n5. L'opérateur `??` permet de fournir une valeur par défaut si la valeur est nulle.\n6. `GetValueOrDefault()` retourne la valeur si elle existe, sinon la valeur par défaut du type.\n\nCe code montre comment manipuler des types nullables en C# pour gérer les situations où une valeur peut être absente.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:15:32.6183437+02:00",
+  "durationSeconds": 9.1,
+  "stats": "mistral-small3.2:latest · 524 + 443 tokens · 9,1 s",
+  "isError": false,
+  "language": "FR"
+}

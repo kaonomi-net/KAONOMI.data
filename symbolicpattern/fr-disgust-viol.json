@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-viol",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une agression sexuelle.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:viol(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:violeur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:agression(s)?\\s+sexuelle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attouchement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:culture\\s+du\\s+viol)(?![\\w-])"
+  ],
+  "symbol": "viol",
+  "event": null,
+  "title": "Viol",
+  "tags": [
+    "#DISGUST",
+    "#MORAL",
+    "#CRIME"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

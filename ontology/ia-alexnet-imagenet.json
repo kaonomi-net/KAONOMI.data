@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (l'apprentissage profond) : Le réseau convolutif AlexNet de Krizhevsky, Sutskever et Hinton remporte ILSVRC 2012 avec une avance considérable, lançant la vague de l'apprentissage profond.",
+  "id": "ia-alexnet-imagenet",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Victoire d'AlexNet à ImageNet",
+  "entityType": "EVENT",
+  "description": "Le réseau convolutif AlexNet de Krizhevsky, Sutskever et Hinton remporte ILSVRC 2012 avec une avance considérable, lançant la vague de l'apprentissage profond.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "La frise chronologique de la salle de cours place « Victoire d'AlexNet à ImageNet » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Victoire d'AlexNet à ImageNet ».",
+    "L'événement « Victoire d'AlexNet à ImageNet » a marqué durablement l'histoire de l'apprentissage profond."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 3,
+  "fearLevel": 0,
+  "surpriseLevel": 4,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "AlexNet 2012"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#APPRENTISSAGEPROFOND"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Victoire%20d%27AlexNet%20%C3%A0%20ImageNet"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Geoffrey Hinton",
+    "Ilya Sutskever",
+    "Réseau de neurones convolutif",
+    "Lancement du concours ImageNet"
+  ],
+  "isDeleted": false,
+  "startDate": "2012-09-30T00:00:00",
+  "endDate": "2012-09-30T00:00:00"
+}

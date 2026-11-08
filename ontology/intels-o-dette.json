@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-dette",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "dette",
+  "entityType": "DOMAIN",
+  "description": "Cité par 33 intels : Programme du FMI pour l'Ukraine ; Restructuration de la dette ukrainienne ; Sommet du G20 ; Nouvelles routes de la soie ; Programmes des candidats ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le programme de financement du FMI et ses conditions.",
+    "Suivre les négociations sur la dette ukrainienne.",
+    "Suivre les décisions du G20 sur l'économie mondiale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "dette",
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#BOURSE",
+    "#ECONOMIE",
+    "#IA",
+    "#FMI"
+  ],
+  "events": [
+    "@DECLARATION",
+    "@DECISION-NOTATION",
+    "@VERSEMENT"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!CAMPAGNE",
+    "!ECONOMIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "FMI",
+    "croissance",
+    "budget",
+    "Washington",
+    "réformes",
+    "Ukraine",
+    "restructuration",
+    "programme",
+    "chiffrage"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

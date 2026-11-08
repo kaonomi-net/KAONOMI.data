@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-religion-et-eglise-orthodoxe-russe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Religion et Église orthodoxe russe",
+  "includedEntities": [
+    {
+      "entityName": "Église orthodoxe",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "patriarche Kirill",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de l'Église orthodoxe russe dans la guerre.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "patriarche Kirill",
+    "Église ukrainienne",
+    "propagande"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quel soutien à la guerre ?",
+    "Quelles sanctions ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#RELIGION",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

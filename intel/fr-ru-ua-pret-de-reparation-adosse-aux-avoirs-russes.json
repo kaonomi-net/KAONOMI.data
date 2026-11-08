@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-pret-de-reparation-adosse-aux-avoirs-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Prêt de réparation adossé aux avoirs russes",
+  "includedEntities": [
+    {
+      "entityName": "prêt de réparation",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "avoirs gelés",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet d'utiliser les avoirs russes gelés pour financer l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "sommets européens"
+  ],
+  "relatedEntities": [
+    "Euroclear",
+    "Belgique",
+    "Commission européenne"
+  ],
+  "questions": [
+    "Une décision est-elle prise ?",
+    "Quel montant ?",
+    "Quels opposants ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AVOIRS-GELES",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@DECISION-UE"
+  ],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

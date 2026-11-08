@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-accouchement",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La mise au monde d'un enfant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:accouchement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:accouch(er|[ée]|[ée]e|e|ent|ait)|enfantement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:donner\\s+la\\s+vie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:donn[ée]\\s+la\\s+vie)(?![\\w-])"
+  ],
+  "symbol": "accouchement",
+  "event": null,
+  "title": "Accouchement",
+  "tags": [
+    "#NAISSANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

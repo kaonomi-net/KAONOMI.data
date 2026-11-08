@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-merite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui rend digne d'estime.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:m[ée]rite(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[ée]rit(er|[ée]|[ée]e|ant|ante|oire)|bien\\s+m[ée]rit[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:digne(s)?\\s+d['’][ée]loges)(?![\\w-])"
+  ],
+  "symbol": "mérite",
+  "event": null,
+  "title": "Mérite",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

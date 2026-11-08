@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (la vision par ordinateur) : Chercheur japonais, inventeur du néocognitron (1980), ancêtre des réseaux de neurones convolutifs.",
+  "id": "ia-fukushima",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Kunihiko Fukushima",
+  "entityType": "PERSON",
+  "description": "Chercheur japonais, inventeur du néocognitron (1980), ancêtre des réseaux de neurones convolutifs.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Kunihiko Fukushima est l'une des figures marquantes de la vision par ordinateur.",
+    "Lors de la conférence, l'oratrice a cité Kunihiko Fukushima pour illustrer les progrès de la vision par ordinateur.",
+    "Une biographie de Kunihiko Fukushima rappelle son rôle dans la vision par ordinateur."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "K. Fukushima"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#VISIONPARORDINATEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Kunihiko%20Fukushima"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Néocognitron"
+  ],
+  "isDeleted": false,
+  "startDate": "1936-03-16T00:00:00",
+  "endDate": null
+}

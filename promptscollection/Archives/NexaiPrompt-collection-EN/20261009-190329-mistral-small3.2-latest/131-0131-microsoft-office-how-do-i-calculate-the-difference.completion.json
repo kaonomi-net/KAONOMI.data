@@ -1,0 +1,13 @@
+{
+  "index": 131,
+  "file": "0131-microsoft-office-how-do-i-calculate-the-difference.prompt.json",
+  "prompt": "How do I calculate the difference between two dates in Excel?",
+  "promptWords": 11,
+  "completion": "To calculate the difference between two dates in Excel, you can use a simple subtraction formula. Here’s how you can do it:\n\n1. **Enter the Dates**: Make sure your dates are entered in two separate cells. For example, let’s say you have the start date in cell `A1` and the end date in cell `B1`.\n\n2. **Subtract the Dates**: In a new cell (e.g., `C1`), enter the formula:\n   ```\n   =B1 - A1\n   ```\n   This will give you the difference between the two dates in days.\n\n3. **Format the Result**: By default, Excel will display the result as a number representing the days between the two dates. If you want to display the result in a different format (e.g., years, months, days), you can format the cell:\n   - Right-click on the cell with the result.\n   - Select \"Format Cells.\"\n   - Choose the desired format (e.g., \"Number\" for days, \"Date\" for a formatted date, or \"Custom\" to create your own format).\n\n### Example:\n- If `A1` contains `01/01/2023` and `B1` contains `01/01/2024`, the formula `=B1 - A1` will return `365` (the number of days between the two dates).\n\n### Additional Tips:\n- If you want to calculate the difference in years, months, or days separately, you can use functions like `DATEDIF` (though it's a hidden function and not officially documented). For example:\n  ```\n  =DATEDIF(A1, B1, \"Y\")  // Years\n  =DATEDIF(A1, B1, \"YM\") // Months\n  =DATEDIF(A1, B1, \"MD\") // Days\n  ```\n- Ensure that your dates are recognized as Excel dates (formatted as \"Date\" or \"Custom\" with a date format). If Excel treats them as text, the subtraction may not work correctly.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:27:39.0250857+02:00",
+  "durationSeconds": 11.01,
+  "stats": "mistral-small3.2:latest · 519 + 438 tokens · 11,0 s",
+  "isError": false,
+  "language": "EN"
+}

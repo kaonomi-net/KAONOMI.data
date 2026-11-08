@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-goinfre",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui mange avec avidité et sans manières.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:goinfre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:goinfrerie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s['’]empiffr(er|e|ent)|b[âa]fr(er|e|ent)|glouton(ne|s|nes)?)(?![\\w-])"
+  ],
+  "symbol": "goinfre",
+  "event": null,
+  "title": "Goinfre",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

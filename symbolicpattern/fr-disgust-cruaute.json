@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-cruaute",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le plaisir de faire souffrir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cruaut[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cruel(le|s|les)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sadisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sadique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:maltraitance(s)?)(?![\\w-])"
+  ],
+  "symbol": "cruauté",
+  "event": null,
+  "title": "Cruauté",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

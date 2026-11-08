@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-vomitif",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui donne envie de vomir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vomiti(f|fs|ve|ves))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gerbant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vomitoire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[àa]\\s+vomir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[àa]\\s+d[ée]gueuler)(?![\\w-])"
+  ],
+  "symbol": "vomitif",
+  "event": null,
+  "title": "Vomitif",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

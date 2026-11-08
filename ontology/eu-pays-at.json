@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Pays de l'Union européenne (la politique européenne) : Autriche, État membre de l'Union européenne depuis 1995, capitale Vienne.",
+  "id": "eu-pays-at",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Autriche",
+  "entityType": "COUNTRY",
+  "description": "Autriche, État membre de l'Union européenne depuis 1995, capitale Vienne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-etats-membres",
+  "sentencesExemples": [
+    "Autriche participe aux décisions de de l'Union européenne.",
+    "Les fonds européens financent de nombreux projets en Autriche.",
+    "Le rapport de la Commission consacre un chapitre à Autriche."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF0D",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#COUNTRY",
+    "#POLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Autriche"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité autrichienne",
+    "Vienne",
+    "Union européenne",
+    "allemand",
+    "Parti populaire autrichien (ÖVP)"
+  ],
+  "isDeleted": false,
+  "startDate": "1995-01-01T00:00:00",
+  "endDate": null
+}

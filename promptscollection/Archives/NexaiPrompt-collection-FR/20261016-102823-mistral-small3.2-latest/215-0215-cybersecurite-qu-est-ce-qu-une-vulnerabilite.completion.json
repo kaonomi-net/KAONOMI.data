@@ -1,0 +1,13 @@
+{
+  "index": 215,
+  "file": "0215-cybersecurite-qu-est-ce-qu-une-vulnerabilite.prompt.json",
+  "prompt": "Qu'est-ce qu'une vulnérabilité zero-day ?",
+  "promptWords": 5,
+  "completion": "Une vulnérabilité zero-day (ou \"jour zéro\" en français) est une faille de sécurité inconnue des éditeurs de logiciels et des fournisseurs de solutions de sécurité. Le terme \"zero-day\" fait référence au fait que les développeurs disposent de zéro jour pour corriger la faille une fois qu'elle est découverte.\n\n### Caractéristiques principales :\n1. **Inconnue des éditeurs** : La vulnérabilité n'a pas encore été identifiée ou corrigée par les équipes de développement du logiciel concerné.\n2. **Exploitation potentielle** : Elle peut être exploitée par des attaquants pour compromettre des systèmes, voler des données, ou installer des logiciels malveillants.\n3. **Urgence de correction** : Une fois découverte, il est crucial de la corriger rapidement pour éviter des attaques massives.\n\n### Exemples d'exploitations :\n- **Attaques ciblées** : Des groupes de cybercriminalité ou des États peuvent exploiter ces failles pour des attaques spécifiques.\n- **Logiciels malveillants** : Des logiciels comme des ransomwares peuvent utiliser ces vulnérabilités pour se propager.\n\n### Comment se protéger ?\n- **Mises à jour régulières** : Installer les correctifs de sécurité dès qu'ils sont disponibles.\n- **Solutions de sécurité** : Utiliser des antivirus et des pare-feu à jour.\n- **Bonnes pratiques** : Éviter de cliquer sur des liens suspects ou d'ouvrir des pièces jointes non sollicitées.\n\nSi vous avez besoin de plus d'informations spécifiques ou actuelles sur les vulnérabilités zero-day, je peux essayer de trouver des ressources récentes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:05:51.3317587+02:00",
+  "durationSeconds": 7.62,
+  "stats": "mistral-small3.2:latest · 518 + 362 tokens · 7,6 s",
+  "isError": false,
+  "language": "FR"
+}

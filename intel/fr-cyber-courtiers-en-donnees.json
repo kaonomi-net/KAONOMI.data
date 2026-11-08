@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-courtiers-en-donnees",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Courtiers en données",
+  "includedEntities": [
+    {
+      "entityName": "courtiers en données",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "revente",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les fuites et abus des courtiers en données.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "profils",
+    "localisation",
+    "régulation"
+  ],
+  "questions": [
+    "Quel courtier ?",
+    "Quelles données ?",
+    "Quelle sanction ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#VIE-PRIVEE",
+    "#DONNEES"
+  ],
+  "events": [],
+  "signals": [
+    "!VIE-PRIVEE"
+  ],
+  "isDeleted": false
+}

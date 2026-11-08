@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-safran",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Safran",
+  "includedEntities": [
+    {
+      "entityName": "Safran",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "moteurs",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [
+    {
+      "entityName": "épice",
+      "entityWeight": ""
+    }
+  ],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Safran et les moteurs d'avion.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "LEAP",
+    "après-vente",
+    "défense"
+  ],
+  "questions": [
+    "Quelle croissance ?",
+    "Quelle prévision ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#AERONAUTIQUE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-banque-europeenne-d-investissement",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Banque européenne d'investissement",
+  "includedEntities": [
+    {
+      "entityName": "Banque européenne d'investissement",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "BEI",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les financements de la BEI, notamment dans la défense.",
+  "isFuzzy": true,
+  "locations": [
+    "Luxembourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Nadia Calviño",
+    "défense",
+    "climat"
+  ],
+  "questions": [
+    "Quel financement ?",
+    "Quel secteur ?",
+    "Quelle nouvelle règle ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#BEI",
+    "#FINANCEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!FINANCEMENT"
+  ],
+  "isDeleted": false
+}

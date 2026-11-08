@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (l'industrie de l'IA) : Le conseil d'administration d'OpenAI renvoie Sam Altman, qui est réintégré cinq jours plus tard après une mobilisation des salariés.",
+  "id": "ia-crise-openai-2023",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Éviction et retour de Sam Altman",
+  "entityType": "EVENT",
+  "description": "Le conseil d'administration d'OpenAI renvoie Sam Altman, qui est réintégré cinq jours plus tard après une mobilisation des salariés.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "« Éviction et retour de Sam Altman » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « Éviction et retour de Sam Altman ».",
+    "On date souvent un tournant de l'industrie de l'IA à « Éviction et retour de Sam Altman »."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 4,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "crise de gouvernance d'OpenAI"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#INDUSTRIEIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89viction%20et%20retour%20de%20Sam%20Altman"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Sam Altman"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-11-17T00:00:00",
+  "endDate": "2023-11-22T00:00:00"
+}

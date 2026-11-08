@@ -1,0 +1,13 @@
+{
+  "index": 15,
+  "file": "035-cuisine-quelle-est-la-recette-de-la.prompt.json",
+  "prompt": "Quelle est la recette de la blanquette de veau ?",
+  "promptWords": 10,
+  "completion": "La blanquette de veau est un classique de la cuisine française. Voici une recette traditionnelle pour préparer ce plat réconfortant :\n\n### Ingrédients (pour 4 personnes) :\n- 800 g de veau (épaule ou collier)\n- 2 oignons\n- 2 carottes\n- 2 branches de céleri\n- 1 bouquet garni (thym, laurier, persil)\n- 20 g de beurre\n- 20 g de farine\n- 50 cl de bouillon de volaille\n- 20 cl de crème fraîche\n- 1 citron (non traité)\n- 1 jaune d’œuf\n- Sel et poivre\n\n### Préparation :\n\n1. **Préparer la viande** :\n   - Coupez le veau en gros cubes.\n   - Dans une cocotte, faites fondre le beurre et faites dorer légèrement la viande à feu moyen. Réservez.\n\n2. **Préparer les légumes** :\n   - Épluchez et émincez les oignons.\n   - Épluchez et coupez les carottes en rondelles.\n   - Coupez le céleri en tronçons.\n\n3. **Faire revenir les légumes** :\n   - Dans la même cocotte, faites revenir les oignons, les carottes et le céleri avec un peu de beurre jusqu’à ce qu’ils soient légèrement dorés.\n\n4. **Mouiller et cuire** :\n   - Remettez la viande dans la cocotte.\n   - Saupoudrez de farine et mélangez bien.\n   - Ajoutez le bouquet garni et le bouillon de volaille.\n   - Portez à ébullition, puis baissez le feu et laissez mijoter à couvert pendant environ 1h30 (jusqu’à ce que la viande soit tendre).\n\n5. **Préparer la sauce** :\n   - Retirez le bouquet garni.\n   - Mixez les légumes et la viande pour obtenir une texture lisse (ou passez au tamis pour une sauce plus fine).\n   - Remettez la purée obtenue dans la cocotte et ajoutez la crème fraîche.\n   - Faites chauffer à feu doux.\n\n6. **Lier la sauce** :\n   - Dans un bol, mélangez le jaune d’œuf avec le jus de citron.\n   - Incorporez ce mélange à la sauce en remuant constamment pour éviter la coagulation.\n   - Assaisonnez de sel et de poivre selon votre goût.\n\n7. **Servir** :\n   - Servez la blanquette de veau bien chaude, accompagnée de riz blanc ou de pâtes.\n\nBon appétit !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:56:07.0078121+02:00",
+  "durationSeconds": 12.4,
+  "stats": "mistral-small3.2:latest · 521 + 593 tokens · 12,4 s",
+  "isError": false,
+  "language": "FR"
+}

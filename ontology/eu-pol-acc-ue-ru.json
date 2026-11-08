@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la politique commerciale) : Accord régissant les relations entre l'Union et le Royaume-Uni après la période de transition.",
+  "id": "eu-pol-acc-ue-ru",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Accord de commerce et de coopération entre l'UE et le Royaume-Uni",
+  "entityType": "LAW",
+  "description": "Accord régissant les relations entre l'Union et le Royaume-Uni après la période de transition.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Accord de commerce et de coopération entre l'UE et le Royaume-Uni ».",
+    "La mise en œuvre de « Accord de commerce et de coopération entre l'UE et le Royaume-Uni » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Accord de commerce et de coopération entre l'UE et le Royaume-Uni »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "ACC"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#POLITIQUECOMMERCIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Accord%20de%20commerce%20et%20de%20coop%C3%A9ration%20entre%20l%27UE%20et%20le%20Royaume-Uni"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commerce",
+    "Direction générale du commerce et de la sécurité économique",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-12-30T00:00:00",
+  "endDate": null
+}

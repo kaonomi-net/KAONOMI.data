@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-fuite-de-donnees-via-les-chatbots",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Fuite de données via les chatbots",
+  "includedEntities": [
+    {
+      "entityName": "fuite",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "chatbot",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "données confidentielles",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les fuites de données confidentielles via les outils d'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "salariés",
+    "IA fantôme",
+    "politiques d'usage"
+  ],
+  "questions": [
+    "Quelle entreprise ?",
+    "Quelles données ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

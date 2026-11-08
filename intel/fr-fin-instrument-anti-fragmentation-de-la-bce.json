@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-instrument-anti-fragmentation-de-la-bce",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Instrument anti-fragmentation de la BCE",
+  "includedEntities": [
+    {
+      "entityName": "TPI",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "fragmentation",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "BCE",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller l'usage possible de l'instrument de protection de la transmission face à l'écart des taux français.",
+  "isFuzzy": true,
+  "locations": [
+    "Francfort"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "spread",
+    "OAT",
+    "rachats"
+  ],
+  "questions": [
+    "Est-il évoqué ?",
+    "À quel seuil ?",
+    "Quelles conditions ?"
+  ],
+  "tags": [
+    "#BCE",
+    "#DETTE",
+    "#FRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

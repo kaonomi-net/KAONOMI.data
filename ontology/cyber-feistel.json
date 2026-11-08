@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (le chiffrement par blocs) : Cryptographe germano-américain d'IBM, auteur du chiffrement Lucifer et de la structure de Feistel, d'où est issu le DES.",
+  "id": "cyber-feistel",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Horst Feistel",
+  "entityType": "PERSON",
+  "description": "Cryptographe germano-américain d'IBM, auteur du chiffrement Lucifer et de la structure de Feistel, d'où est issu le DES.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Sans Horst Feistel, l'histoire du chiffrement par blocs aurait été différente.",
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Horst Feistel.",
+    "Les étudiants lisent les travaux de Horst Feistel pour comprendre le chiffrement par blocs."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "H. Feistel"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CHIFFREMENTPARBLOCS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Horst%20Feistel"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Réseau de Feistel"
+  ],
+  "isDeleted": false,
+  "startDate": "1915-01-30T00:00:00",
+  "endDate": "1990-11-14T00:00:00"
+}

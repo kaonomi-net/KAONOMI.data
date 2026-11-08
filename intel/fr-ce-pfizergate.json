@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-pfizergate",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Pfizergate",
+  "includedEntities": [
+    {
+      "entityName": "Pfizergate",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "SMS",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les suites de l'affaire des SMS échangés avec le PDG de Pfizer.",
+  "isFuzzy": true,
+  "locations": [
+    "Luxembourg",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Albert Bourla",
+    "Tribunal de l'UE",
+    "New York Times"
+  ],
+  "questions": [
+    "Quelle décision de justice ?",
+    "Quels documents publiés ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#TRANSPARENCE"
+  ],
+  "events": [
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!SCANDALE"
+  ],
+  "isDeleted": false
+}

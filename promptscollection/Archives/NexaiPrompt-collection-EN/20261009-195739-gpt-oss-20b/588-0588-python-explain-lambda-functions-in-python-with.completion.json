@@ -1,0 +1,13 @@
+{
+  "index": 588,
+  "file": "0588-python-explain-lambda-functions-in-python-with.prompt.json",
+  "prompt": "Explain lambda functions in Python with a simple example.",
+  "promptWords": 9,
+  "completion": "### What is a lambda function?\n\nIn Python, a **lambda** is an *anonymous function*—a small, one‑line function that doesn't need a formal `def` statement.  \nIts syntax is:\n\n```python\nlambda arguments: expression\n```\n\n- **`arguments`** – zero or more comma‑separated parameters.\n- **`expression`** – a single expression that gets evaluated and returned.\n\nBecause the whole function is defined in one line, lambda functions are handy for short operations, especially as arguments to higher‑order functions like `map`, `filter`, `sorted`, `max`, etc.\n\n---\n\n### Simple example\n\nSuppose we have a list of numbers and we want to double each one.\n\n```python\nnumbers = [1, 2, 3, 4, 5]\n\n# Using a regular function\ndef double(x):\n    return x * 2\n\ndoubled = list(map(double, numbers))\nprint(doubled)          # [2, 4, 6, 8, 10]\n```\n\nWe can replace the named `double` function with a lambda:\n\n```python\nnumbers = [1, 2, 3, 4, 5]\n\ndoubled = list(map(lambda x: x * 2, numbers))\nprint(doubled)          # [2, 4, 6, 8, 10]\n```\n\n- `lambda x: x * 2` creates an unnamed function that takes `x` and returns `x * 2`.\n- `map` applies that function to each element of `numbers`.\n\n---\n\n### Quick recap\n\n| Feature | Regular function (`def`) | Lambda |\n|---------|--------------------------|--------|\n| Syntax | `def name(arg1, arg2):` | `lambda arg1, arg2: expression` |\n| Body | One or more statements | Single expression |\n| Naming | Must be given a name | Anonymous (no name) |\n| Use case | Complex logic, multiple lines | Short, one‑off operations |\n\n---\n\n### One more “real‑world” illustration\n\nSorting a list of tuples by the second element:\n\n```python\npairs = [(1, 'b'), (3, 'a'), (2, 'c')]\n\n# Using a lambda as the key function\nsorted_pairs = sorted(pairs, key=lambda pair: pair[1])\nprint(sorted_pairs)   # [(3, 'a'), (1, 'b'), (2, 'c')]\n```\n\nHere the lambda `lambda pair: pair[1]` extracts the second item of each tuple for the sorting algorithm to use.\n\n---\n\n**Bottom line:**  \nLambda functions are Python’s quick, inline way to write simple, single‑expression functions—perfect for tiny helpers passed to other functions. Use them when you don’t need the overhead of a full `def` block.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T22:25:32.3383664+02:00",
+  "durationSeconds": 5.75,
+  "stats": "gpt-oss:20b · 77 + 629 tokens · 5,7 s",
+  "isError": false,
+  "language": "EN"
+}

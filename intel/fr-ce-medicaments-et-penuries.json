@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-medicaments-et-penuries",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Médicaments et pénuries",
+  "includedEntities": [
+    {
+      "entityName": "médicaments",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "pénurie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "pharmaceutique",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la réforme pharmaceutique et la lutte contre les pénuries.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Agence européenne des médicaments",
+    "production",
+    "Chine"
+  ],
+  "questions": [
+    "Quelle réforme ?",
+    "Quelle pénurie ?",
+    "Quelle relocalisation ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SANTE",
+    "#MEDICAMENTS"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE"
+  ],
+  "isDeleted": false
+}

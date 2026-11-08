@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-generation-de-video-par-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Génération de vidéo par IA",
+  "includedEntities": [
+    {
+      "entityName": "Sora",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "vidéo",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Veo",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Surveiller les outils qui génèrent des vidéos réalistes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "jour de sortie"
+  ],
+  "relatedEntities": [
+    "OpenAI",
+    "Google",
+    "Runway"
+  ],
+  "questions": [
+    "Quelle durée maximale ?",
+    "Quels garde-fous contre les deepfakes ?",
+    "Quel accès public ?"
+  ],
+  "tags": [
+    "#IA",
+    "#GENERATION-VIDEO"
+  ],
+  "events": [
+    "@LANCEMENT-OUTIL"
+  ],
+  "signals": [
+    "!NOUVEAUTE",
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

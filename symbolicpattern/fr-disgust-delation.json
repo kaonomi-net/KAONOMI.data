@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-delation",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La dénonciation intéressée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]lation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]lateur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]latrice(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mouchard(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]nonciation(s)?\\s+calomnieuse(s)?)(?![\\w-])"
+  ],
+  "symbol": "délation",
+  "event": null,
+  "title": "Délation",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

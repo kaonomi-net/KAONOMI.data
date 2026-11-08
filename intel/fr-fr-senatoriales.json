@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-senatoriales",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Sénatoriales",
+  "includedEntities": [
+    {
+      "entityName": "sénatoriales",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Sénat",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les élections sénatoriales et la composition du Sénat.",
+  "isFuzzy": true,
+  "locations": [
+    "Sénat"
+  ],
+  "times": [
+    "septembre"
+  ],
+  "relatedEntities": [
+    "grands électeurs",
+    "LR",
+    "majorité sénatoriale"
+  ],
+  "questions": [
+    "Quel résultat ?",
+    "Quelle majorité ?",
+    "Quel président ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SENAT",
+    "#ELECTIONS"
+  ],
+  "events": [
+    "@ELECTION"
+  ],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

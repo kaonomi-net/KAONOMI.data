@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la Commission européenne) : Commission Mansholt, collège des commissaires présidé par Sicco Mansholt, en fonction du 22 mars 1972 au 5 janvier 1973.",
+  "id": "eu-col-mansholt",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission Mansholt",
+  "entityType": "ORGANISATION",
+  "description": "Commission Mansholt, collège des commissaires présidé par Sicco Mansholt, en fonction du 22 mars 1972 au 5 janvier 1973.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-colleges",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Commission Mansholt ».",
+    "« Commission Mansholt » joue un rôle dans la Commission européenne.",
+    "Les fonctionnaires de « Commission Mansholt » préparent les textes relatifs à la Commission européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20Mansholt"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Sicco Mansholt",
+    "Commission européenne",
+    "Commission Malfatti",
+    "Commission Ortoli",
+    "Présidence de la Commission (Commission Mansholt)"
+  ],
+  "isDeleted": false,
+  "startDate": "1972-03-22T00:00:00",
+  "endDate": "1973-01-05T00:00:00"
+}

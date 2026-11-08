@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-psychotraumatisme-des-victimes-de-violences-sexuelles",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Psychotraumatisme des victimes de violences sexuelles",
+  "includedEntities": [
+    {
+      "entityName": "violences sexuelles",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "psychotraumatisme",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la prise en charge psychologique des victimes de violences sexuelles.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "amnésie traumatique",
+    "soins",
+    "justice"
+  ],
+  "questions": [
+    "Quel dispositif ?",
+    "Quelle étude ?",
+    "Quelle affaire ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#VIOLENCES-SEXUELLES",
+    "#TRAUMA"
+  ],
+  "events": [],
+  "signals": [
+    "!VIOLENCE"
+  ],
+  "isDeleted": false
+}

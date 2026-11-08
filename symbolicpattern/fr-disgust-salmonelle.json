@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-salmonelle",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un empoisonnement par un aliment.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:intoxication(s)?\\s+alimentaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:salmonelle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:listeria)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:empoisonnement(s)?\\s+alimentaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:botulisme)(?![\\w-])"
+  ],
+  "symbol": "salmonelle",
+  "event": null,
+  "title": "Salmonelle",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (l'intelligence artificielle) : Règlement (UE) 2024/1689, premier cadre juridique complet au monde sur l'IA.",
+  "id": "eu-pol-ai-act",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Règlement sur l'intelligence artificielle",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2024/1689, premier cadre juridique complet au monde sur l'IA.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Règlement sur l'intelligence artificielle ».",
+    "La mise en œuvre de « Règlement sur l'intelligence artificielle » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Règlement sur l'intelligence artificielle »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "AI Act",
+    "RIA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#INTELLIGENCEARTIFICIELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A8glement%20sur%20l%27intelligence%20artificielle"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Intelligence artificielle",
+    "Numérique",
+    "Direction générale des réseaux de communication, du contenu et des technologies",
+    "Commission von der Leyen I",
+    "Règlement général sur la protection des données",
+    "Adoption du règlement sur l'IA par le Parlement européen"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-06-13T00:00:00",
+  "endDate": null
+}

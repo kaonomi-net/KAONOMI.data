@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-mediterranee-centrale",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "Méditerranée centrale",
+  "entityType": "LOCATION",
+  "description": "Cité par 1 intel : Naufrages en Méditerranée.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les naufrages de migrants en Méditerranée."
+  ],
+  "angryLevel": null,
+  "sadLevel": 100,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Méditerranée centrale",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MIGRATION",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@NAUFRAGE"
+  ],
+  "signals": [
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "garde-côtes",
+    "naufrage",
+    "Méditerranée",
+    "Frontex",
+    "ONG"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

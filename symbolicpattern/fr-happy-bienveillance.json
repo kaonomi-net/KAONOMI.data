@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-bienveillance",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La volonté du bien d'autrui.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bienveillance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bienveillant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attentionn[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pr[ée]venant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:altruisme(s)?)(?![\\w-])"
+  ],
+  "symbol": "bienveillance",
+  "event": null,
+  "title": "Bienveillance",
+  "tags": [
+    "#AMITIE",
+    "#PAIX"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

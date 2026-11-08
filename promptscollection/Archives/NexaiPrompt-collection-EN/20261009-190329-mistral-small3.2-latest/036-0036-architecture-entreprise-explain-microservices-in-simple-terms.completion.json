@@ -1,0 +1,13 @@
+{
+  "index": 36,
+  "file": "0036-architecture-entreprise-explain-microservices-in-simple-terms.prompt.json",
+  "prompt": "Explain microservices in simple terms.",
+  "promptWords": 5,
+  "completion": "Sure! Microservices are a way of designing software applications as a collection of small, independent services that work together. Instead of building one big, monolithic application, you break it down into smaller, focused pieces, each responsible for a specific task.\n\nHere’s a simple analogy: Think of a restaurant. In a traditional monolithic approach, the restaurant is one big kitchen where everything is done in one place—cooking, cleaning, ordering, and serving. If something goes wrong in one part, the whole kitchen is affected.\n\nIn a microservices approach, the restaurant is divided into different specialized teams:\n- One team handles ordering.\n- Another team prepares the food.\n- Another team manages the delivery.\n\nEach team works independently, uses its own tools, and can be updated or scaled without affecting the others. If the ordering system needs an upgrade, it doesn’t disrupt the cooking team.\n\n### Key Benefits of Microservices:\n1. **Scalability**: You can scale individual services based on demand.\n2. **Flexibility**: Each service can be developed, deployed, and updated independently.\n3. **Resilience**: If one service fails, it doesn’t necessarily bring down the entire system.\n4. **Technology Diversity**: Different services can use different programming languages or databases.\n\n### Example:\nImagine an e-commerce app. Instead of one big application, you might have:\n- A **user service** to manage logins and profiles.\n- A **product service** to handle product listings.\n- A **payment service** to process transactions.\n- A **shipping service** to manage deliveries.\n\nEach service communicates with the others, often through APIs (Application Programming Interfaces), to provide a seamless experience to the user.\n\nWould you like a deeper dive into any specific aspect of microservices?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:10:20.5631461+02:00",
+  "durationSeconds": 8.26,
+  "stats": "mistral-small3.2:latest · 515 + 361 tokens · 8,3 s",
+  "isError": false,
+  "language": "EN"
+}

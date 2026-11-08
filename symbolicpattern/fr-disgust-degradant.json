@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-degradant",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui avilit, humilie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]gradant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:avilissant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:humiliant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rabaissant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]shumanisant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "dégradant",
+  "event": null,
+  "title": "Dégradant",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 815,
+  "file": "0815-cpp-qu-est-ce-que-le-raii.prompt.json",
+  "prompt": "Qu'est-ce que le RAII en C++ ?",
+  "promptWords": 7,
+  "completion": "Le RAII (Resource Acquisition Is Initialization) est un paradigme de programmation en C++ qui associe l'acquisition d'une ressource à l'initialisation d'un objet. L'idée principale est que la gestion des ressources (comme la mémoire, les fichiers, les verrous, etc.) est liée au cycle de vie des objets : l'acquisition de la ressource se fait dans le constructeur de l'objet, et la libération de la ressource se fait dans le destructeur.\n\n### Avantages du RAII :\n1. **Sécurité** : Les ressources sont automatiquement libérées lorsque l'objet est détruit, même en cas d'exception ou de retour anticipé de fonction.\n2. **Simplicité** : Le code est plus lisible et moins sujet aux erreurs, car la gestion des ressources est centralisée.\n3. **Portabilité** : Le RAII est une technique standard en C++ et fonctionne de manière cohérente sur différentes plateformes.\n\n### Exemple simple :\n```cpp\n#include <iostream>\n#include <fstream>\n\nclass FileHandler {\npublic:\n    FileHandler(const std::string& filename) : file(filename) {\n        if (!file.is_open()) {\n            throw std::runtime_error(\"Failed to open file\");\n        }\n        std::cout << \"File opened successfully.\\n\";\n    }\n\n    ~FileHandler() {\n        if (file.is_open()) {\n            file.close();\n            std::cout << \"File closed successfully.\\n\";\n        }\n    }\n\n    std::fstream& getFile() { return file; }\n\nprivate:\n    std::fstream file;\n};\n\nint main() {\n    try {\n        FileHandler handler(\"example.txt\");\n        handler.getFile() << \"Hello, RAII!\\n\";\n    } catch (const std::exception& e) {\n        std::cerr << \"Error: \" << e.what() << '\\n';\n    }\n    // Le fichier est automatiquement fermé ici, même si une exception est levée.\n    return 0;\n}\n```\n\n### Explications :\n- **Constructeur** : Ouvre le fichier et initialise l'objet `FileHandler`.\n- **Destructeur** : Ferme le fichier automatiquement lorsque l'objet `FileHandler` est détruit (à la fin de la portée ou en cas d'exception).\n- **Exception** : Si une exception est levée, le destructeur est toujours appelé, garantissant que le fichier est fermé.\n\nLe RAII est largement utilisé dans la STL (Standard Template Library) de C++, par exemple avec les conteneurs comme `std::vector`, `std::string`, etc., qui gèrent automatiquement la mémoire allouée.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:19:03.4794758+02:00",
+  "durationSeconds": 11.13,
+  "stats": "mistral-small3.2:latest · 518 + 552 tokens · 11,1 s",
+  "isError": false,
+  "language": "FR"
+}

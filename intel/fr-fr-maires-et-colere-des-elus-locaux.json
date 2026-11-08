@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-maires-et-colere-des-elus-locaux",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Maires et colère des élus locaux",
+  "includedEntities": [
+    {
+      "entityName": "maires",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "élus locaux",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "colère",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les difficultés et revendications des maires.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "congrès des maires"
+  ],
+  "relatedEntities": [
+    "AMF",
+    "dotations",
+    "démissions"
+  ],
+  "questions": [
+    "Quelle revendication ?",
+    "Combien de démissions ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#COLLECTIVITES",
+    "#MAIRES"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

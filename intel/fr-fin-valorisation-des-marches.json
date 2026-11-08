@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-valorisation-des-marches",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Valorisation des marchés",
+  "includedEntities": [
+    {
+      "entityName": "valorisation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "PER",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "multiples",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les niveaux de valorisation des marchés et des secteurs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "bénéfices",
+    "bulle",
+    "décote européenne"
+  ],
+  "questions": [
+    "Quel multiple ?",
+    "Quel écart historique ?",
+    "Quelle décote ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#VALORISATION"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

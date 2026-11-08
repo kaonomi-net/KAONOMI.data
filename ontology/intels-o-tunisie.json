@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-tunisie",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "Tunisie",
+  "entityType": "COUNTRY",
+  "description": "Cité par 3 intels : Migrations en Méditerranée ; Liste des pays d'origine sûrs ; Partenariats migratoires avec des pays tiers.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre les traversées et les drames en mer Méditerranée.",
+    "Suivre la liste européenne des pays d'origine sûrs.",
+    "Suivre les accords migratoires avec la Tunisie, l'Égypte, la Libye et d'autres."
+  ],
+  "angryLevel": null,
+  "sadLevel": 33,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Tunisie",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MIGRATION",
+    "#GEOPOLITIQUE",
+    "#MIGRATIONS",
+    "#HUMANITAIRE",
+    "#ASILE"
+  ],
+  "events": [
+    "@NAUFRAGE"
+  ],
+  "signals": [
+    "!MIGRATION",
+    "!HUMANITAIRE",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "migrants",
+    "Lampedusa",
+    "garde-côtes",
+    "naufrage",
+    "Méditerranée",
+    "Frontex",
+    "ONG",
+    "Libye",
+    "pays d'origine sûrs",
+    "asile"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

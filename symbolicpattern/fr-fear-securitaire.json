@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-securitaire",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La protection renforcée contre la menace.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:s[ée]curitaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s[ée]curit[ée]\\s+renforc[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mesures\\s+de\\s+s[ée]curit[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:contr[ôo]les\\s+renforc[ée]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:haut\\s+niveau\\s+de\\s+s[ée]curit[ée])(?![\\w-])"
+  ],
+  "symbol": "sécuritaire",
+  "event": null,
+  "title": "Sécuritaire",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

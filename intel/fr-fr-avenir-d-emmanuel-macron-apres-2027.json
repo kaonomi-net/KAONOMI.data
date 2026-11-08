@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-avenir-d-emmanuel-macron-apres-2027",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Avenir d'Emmanuel Macron après 2027",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "après 2027",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "rôle",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les spéculations sur l'avenir du président après son mandat.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Europe",
+    "institutions internationales",
+    "2032"
+  ],
+  "questions": [
+    "Quel projet ?",
+    "Quelle fonction envisagée ?",
+    "Quelles déclarations ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#AVENIR"
+  ],
+  "events": [],
+  "signals": [
+    "!SPECULATION"
+  ],
+  "isDeleted": false
+}

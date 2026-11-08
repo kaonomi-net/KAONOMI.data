@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Plefsi Eleftherias, parti ou liste de ce pays : Grèce, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-el-plefsi-eleftherias",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Plefsi Eleftherias",
+  "entityType": "ORGANISATION",
+  "description": "Plefsi Eleftherias, parti ou liste de ce pays : Grèce, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les eurodéputés de « Plefsi Eleftherias » ont été élus en juin 2024.",
+    "« Plefsi Eleftherias » est représenté dans le Parlement européen.",
+    "Le programme européen de « Plefsi Eleftherias » a été publié avant le scrutin."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Plefsi%20Eleftherias"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Maria Zacharia",
+    "Grèce",
+    "Non-inscrits"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

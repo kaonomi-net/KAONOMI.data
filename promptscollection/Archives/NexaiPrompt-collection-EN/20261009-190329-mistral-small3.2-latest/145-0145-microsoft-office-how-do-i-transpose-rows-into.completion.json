@@ -1,0 +1,13 @@
+{
+  "index": 145,
+  "file": "0145-microsoft-office-how-do-i-transpose-rows-into.prompt.json",
+  "prompt": "How do I transpose rows into columns in Excel?",
+  "promptWords": 9,
+  "completion": "To transpose rows into columns in Excel, you can use the **Transpose** feature. Here’s how to do it:\n\n### Method 1: Using Copy and Paste Special (Transpose)\n1. **Select the data** you want to transpose (the rows you want to convert into columns).\n2. **Copy** the data (Ctrl+C or right-click and select Copy).\n3. **Right-click** on the cell where you want the transposed data to appear.\n4. Select **Paste Special** from the context menu.\n5. In the **Paste Special** dialog box, check the **Transpose** option.\n6. Click **OK**.\n\nThe rows will now be converted into columns.\n\n### Method 2: Using the TRANSPOSE Function\n1. **Select the range** where you want the transposed data to appear.\n2. Type the formula:\n   ```\n   =TRANSPOSE(A1:C3)\n   ```\n   (Replace `A1:C3` with the range of your original data.)\n3. Press **Ctrl+Shift+Enter** (this is an array formula, so you must use this key combination instead of just Enter).\n\nThe data will now be transposed.\n\n### Notes:\n- The **Paste Special (Transpose)** method is better for static data.\n- The **TRANSPOSE function** is dynamic—if the original data changes, the transposed data will update automatically.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:30:23.2160233+02:00",
+  "durationSeconds": 8.04,
+  "stats": "mistral-small3.2:latest · 517 + 293 tokens · 8,0 s",
+  "isError": false,
+  "language": "EN"
+}

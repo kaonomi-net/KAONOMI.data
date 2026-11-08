@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-ukraine-et-moldavie-decouplees",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Ukraine et Moldavie découplées",
+  "includedEntities": [
+    {
+      "entityName": "découplage",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "25"
+    },
+    {
+      "entityName": "Moldavie",
+      "entityWeight": "25"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur l'avancée séparée de la Moldavie et de l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Hongrie",
+    "clusters",
+    "veto"
+  ],
+  "questions": [
+    "Les dossiers sont-ils découplés ?",
+    "Qui le demande ?",
+    "Quelle décision ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#UKRAINE",
+    "#MOLDAVIE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

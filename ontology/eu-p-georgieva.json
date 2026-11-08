@@ -1,0 +1,61 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'aide humanitaire) : Économiste passée par la Banque mondiale, commissaire à la Coopération internationale et à l'Aide humanitaire (2010-2014) puis vice-présidente chargée du Budget (2014-2016).",
+  "id": "eu-p-georgieva",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Kristalina Georgieva",
+  "entityType": "PERSON",
+  "description": "Économiste passée par la Banque mondiale, commissaire à la Coopération internationale et à l'Aide humanitaire (2010-2014) puis vice-présidente chargée du Budget (2014-2016).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Kristalina Georgieva.",
+    "Les manuels sur les institutions européennes citent Kristalina Georgieva.",
+    "Le portrait de Kristalina Georgieva figure dans le dossier consacré à l'aide humanitaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Georgieva"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#AIDEHUMANITAIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Kristalina%20Georgieva"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité bulgare",
+    "Économiste",
+    "Commissaire européen",
+    "Budget et ressources humaines (Commission Juncker)",
+    "Vice-président de la Commission",
+    "Commission Juncker",
+    "Budget",
+    "Ressources humaines",
+    "Coopération internationale, aide humanitaire et réaction aux crises (Commission Barroso II)",
+    "Commission Barroso II",
+    "Aide humanitaire",
+    "Gestion des crises",
+    "Partenariats internationaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

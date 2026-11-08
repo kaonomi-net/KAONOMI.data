@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-primes",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "primes",
+  "entityType": "PRODUCT",
+  "description": "Cité par 3 intels : Recrutement de soldats sous contrat ; Bug bounty ; Cyberassurance.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre le recrutement de volontaires et les primes d'engagement.",
+    "Suivre les programmes de primes aux bogues.",
+    "Suivre le marché de l'assurance contre les risques cyber."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "primes",
+  "tags": [
+    "#CYBERSECURITE",
+    "#RUSSIE",
+    "#ARMEE",
+    "#RECRUTEMENT",
+    "#PENTEST",
+    "#BUG-BOUNTY"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR",
+    "!DEFENSE",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "prime",
+    "contrat",
+    "recrutement",
+    "ministère de la Défense",
+    "régions russes",
+    "prisonniers",
+    "HackerOne",
+    "YesWeHack",
+    "bug bounty",
+    "chercheurs"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-chomage-en-france",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Chômage en France",
+  "includedEntities": [
+    {
+      "entityName": "chômage",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "France Travail",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution du chômage.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "publications trimestrielles"
+  ],
+  "relatedEntities": [
+    "INSEE",
+    "demandeurs d'emploi",
+    "jeunes"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quelle évolution ?",
+    "Quelles catégories ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ECONOMIE",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

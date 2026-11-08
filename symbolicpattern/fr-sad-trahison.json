@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-trahison",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de trahir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:trahison(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:trah(ir|i|ie|is|ies|it|issent))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tra[îi]tre(s|sse|sses)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:f[ée]lonie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perfidie(s)?)(?![\\w-])"
+  ],
+  "symbol": "trahison",
+  "event": null,
+  "title": "Trahison",
+  "tags": [
+    "#RELATION"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

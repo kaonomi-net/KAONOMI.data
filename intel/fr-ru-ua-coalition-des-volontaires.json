@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-coalition-des-volontaires",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Coalition des volontaires",
+  "includedEntities": [
+    {
+      "entityName": "coalition des volontaires",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "force de réassurance",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la coalition européenne prête à garantir un cessez-le-feu.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Londres"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "France",
+    "Royaume-Uni",
+    "garanties de sécurité"
+  ],
+  "questions": [
+    "Quels pays participent ?",
+    "Quels effectifs ?",
+    "Quelles conditions de déploiement ?"
+  ],
+  "tags": [
+    "#EUROPE",
+    "#UKRAINE",
+    "#SECURITE"
+  ],
+  "events": [],
+  "signals": [
+    "!GARANTIES"
+  ],
+  "isDeleted": false
+}

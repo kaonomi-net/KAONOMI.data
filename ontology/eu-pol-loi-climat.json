@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (l'action pour le climat) : Règlement (UE) 2021/1119 inscrivant dans le droit la neutralité climatique en 2050 et la réduction de 55 % des émissions en 2030.",
+  "id": "eu-pol-loi-climat",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Loi européenne sur le climat",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2021/1119 inscrivant dans le droit la neutralité climatique en 2050 et la réduction de 55 % des émissions en 2030.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "La mise en œuvre de « Loi européenne sur le climat » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Loi européenne sur le climat ».",
+    "Les juristes de la Commission ont commenté « Loi européenne sur le climat »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#ACTIONPOURCLIMAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Loi%20europ%C3%A9enne%20sur%20le%20climat"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Action pour le climat",
+    "Direction générale de l'action pour le climat",
+    "Commission von der Leyen I",
+    "Pacte vert pour l'Europe",
+    "Paquet « Ajustement à l'objectif 55 »"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-06-30T00:00:00",
+  "endDate": null
+}

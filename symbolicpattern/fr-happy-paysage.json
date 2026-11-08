@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-paysage",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une étendue de pays que l'on contemple.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:paysage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:panorama(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vue\\s+imprenable)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coucher\\s+de\\s+soleil)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:horizon(s)?)(?![\\w-])"
+  ],
+  "symbol": "paysage",
+  "event": null,
+  "title": "Paysage",
+  "tags": [
+    "#NATURE",
+    "#BIENETRE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

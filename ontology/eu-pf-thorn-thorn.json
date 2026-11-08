@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la communication de la Commission) : Portefeuille détenu par Gaston Thorn, président de la Commission, dans la Commission Thorn, du 6 janvier 1981 au 5 janvier 1985.",
+  "id": "eu-pf-thorn-thorn",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Présidence de la Commission (Commission Thorn)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Gaston Thorn, président de la Commission, dans la Commission Thorn, du 6 janvier 1981 au 5 janvier 1985.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "La lettre de mission du portefeuille « Présidence de la Commission (Commission Thorn) » fixe les objectifs en matière de la communication de la Commission.",
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Présidence de la Commission (Commission Thorn) ».",
+    "Le portefeuille « Présidence de la Commission (Commission Thorn) » couvre la communication de la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#COMMUNICATIONCOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pr%C3%A9sidence%20de%20la%20Commission%20%28Commission%20Thorn%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Gaston Thorn",
+    "Commission Thorn",
+    "Président de la Commission européenne",
+    "Communication et présidence"
+  ],
+  "isDeleted": false,
+  "startDate": "1981-01-06T00:00:00",
+  "endDate": "1985-01-05T00:00:00"
+}

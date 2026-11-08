@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-defenseur-des-droits",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "Défenseur des droits",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Biais et discrimination algorithmique ; Racisme et discriminations ; Défenseur des droits.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les décisions algorithmiques discriminatoires.",
+    "Suivre les actes racistes et les politiques de lutte.",
+    "Suivre les rapports et alertes du Défenseur des droits."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Défenseur des droits",
+  "tags": [
+    "#FRANCE",
+    "#IA",
+    "#BIAIS",
+    "#ETHIQUE",
+    "#DISCRIMINATIONS",
+    "#SOCIETE"
+  ],
+  "events": [
+    "@SIGNALEMENT",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "discriminations",
+    "crédit",
+    "algorithme",
+    "recrutement",
+    "discrimination",
+    "biais",
+    "racisme",
+    "plaintes",
+    "associations",
+    "antisémitisme"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

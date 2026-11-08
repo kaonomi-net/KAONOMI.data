@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-plaie",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une blessure ouverte.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:plaie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plaie(s)?\\s+b[ée]ante(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chair\\s+[àa]\\s+vif)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:blessure(s)?\\s+suintante(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sanguinolent(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "plaie",
+  "event": null,
+  "title": "Plaie",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

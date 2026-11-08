@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-ingratitude",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le manque de reconnaissance.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ingratitude(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ingrat(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cracher\\s+dans\\s+la\\s+soupe)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mordre\\s+la\\s+main\\s+qui\\s+(te|vous|le|la)\\s+nourrit)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sans\\s+un\\s+merci)(?![\\w-])"
+  ],
+  "symbol": "ingratitude",
+  "event": null,
+  "title": "Ingratitude",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

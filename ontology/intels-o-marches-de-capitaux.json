@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-marches-de-capitaux",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "marchés de capitaux",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Comptes d'épargne européens ; Union de l'épargne et de l'investissement ; Union des marchés de capitaux.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le projet de comptes d'épargne et d'investissement européens.",
+    "Suivre le projet de mobiliser l'épargne européenne pour l'investissement.",
+    "Suivre l'intégration des marchés de capitaux européens."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "marchés de capitaux",
+  "tags": [
+    "#EPARGNE",
+    "#UNION-EUROPEENNE",
+    "#FINANCE",
+    "#COMMISSION-EUROPEENNE",
+    "#MARCHES"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE",
+    "!FINANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "union de l'épargne",
+    "épargne",
+    "Commission",
+    "compte d'épargne européen",
+    "fiscalité",
+    "Draghi",
+    "investissement",
+    "comptes d'épargne",
+    "supervision"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

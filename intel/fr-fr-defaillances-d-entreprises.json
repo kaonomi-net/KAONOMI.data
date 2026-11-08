@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-defaillances-d-entreprises",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Défaillances d'entreprises",
+  "includedEntities": [
+    {
+      "entityName": "défaillances",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "faillites",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "entreprises",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les faillites d'entreprises.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "publications mensuelles"
+  ],
+  "relatedEntities": [
+    "Banque de France",
+    "PME",
+    "bâtiment"
+  ],
+  "questions": [
+    "Combien de défaillances ?",
+    "Quels secteurs ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ECONOMIE",
+    "#ENTREPRISES"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

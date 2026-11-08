@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'emploi) : Commission de l'emploi et des affaires sociales du Parlement européen, chargée de l'emploi.",
+  "id": "eu-pe-empl",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission de l'emploi et des affaires sociales (EMPL)",
+  "entityType": "ORGANISATION",
+  "description": "Commission de l'emploi et des affaires sociales du Parlement européen, chargée de l'emploi.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "Le rapport annuel de « Commission de l'emploi et des affaires sociales (EMPL) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Commission de l'emploi et des affaires sociales (EMPL) ».",
+    "Les décisions de « Commission de l'emploi et des affaires sociales (EMPL) » touchent l'emploi."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EMPL"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20de%20l%27emploi%20et%20des%20affaires%20sociales%20%28EMPL%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Emploi et droits sociaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

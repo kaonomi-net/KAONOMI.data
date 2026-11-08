@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cybersecurite-des-pme",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cybersécurité des PME",
+  "includedEntities": [
+    {
+      "entityName": "PME",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cybersécurité",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation des PME face aux cyberattaques.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Cybermalveillance.gouv.fr",
+    "diagnostics",
+    "aides"
+  ],
+  "questions": [
+    "Quel constat ?",
+    "Quelle aide ?",
+    "Quelle étude ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#PME"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

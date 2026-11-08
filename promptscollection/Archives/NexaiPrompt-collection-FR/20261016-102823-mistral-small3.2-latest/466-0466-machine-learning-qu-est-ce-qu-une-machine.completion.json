@@ -1,0 +1,13 @@
+{
+  "index": 466,
+  "file": "0466-machine-learning-qu-est-ce-qu-une-machine.prompt.json",
+  "prompt": "Qu'est-ce qu'une machine à vecteurs de support (SVM) ?",
+  "promptWords": 9,
+  "completion": "Une machine à vecteurs de support (SVM, pour *Support Vector Machine*) est un algorithme d'apprentissage supervisé utilisé principalement pour la classification binaire, bien qu'il puisse être étendu à des problèmes de classification multiclasse et de régression.\n\n### Principes de base :\n1. **Séparation linéaire** : L'objectif d'une SVM est de trouver un hyperplan qui sépare au mieux les données de deux classes différentes. Cet hyperplan est choisi de manière à maximiser la marge entre les points les plus proches de chaque classe, appelés *vecteurs de support*.\n\n2. **Vecteurs de support** : Ce sont les points de données qui sont les plus proches de l'hyperplan de décision. Ils \"supportent\" l'hyperplan et influencent directement sa position et son orientation.\n\n3. **Marge maximale** : La SVM cherche à maximiser la marge entre les deux classes, ce qui améliore généralement la généralisation du modèle sur de nouvelles données.\n\n### Fonctionnement :\n- **Cas linéairement séparable** : Si les données sont linéairement séparables, la SVM trouve un hyperplan qui les sépare sans erreur.\n- **Cas non linéairement séparable** : Si les données ne sont pas linéairement séparables, la SVM utilise des *fonctions noyau* (kernel) pour transformer les données dans un espace de plus haute dimension où elles deviennent linéairement séparables. Les noyaux courants incluent le noyau polynomial, le noyau gaussien (RBF), et le noyau sigmoïde.\n\n### Avantages :\n- Efficace dans les espaces de haute dimension.\n- Efficace même lorsque le nombre de dimensions est plus grand que le nombre d'échantillons.\n- Mémoire efficace car elle utilise uniquement un sous-ensemble des points de training (les vecteurs de support).\n\n### Inconvénients :\n- Choix du noyau et des paramètres peut être complexe.\n- Peut être sensible aux données bruyantes ou aux valeurs aberrantes.\n- Temps de calcul peut être élevé pour de grands ensembles de données.\n\n### Applications :\n- Classification de texte et de documents.\n- Reconnaissance d'images et de visages.\n- Détection de fraudes.\n- Bioinformatique.\n\nLes SVM sont particulièrement utiles lorsque le nombre de dimensions est grand et que le nombre d'échantillons est relativement petit.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:50:40.9641411+02:00",
+  "durationSeconds": 9.94,
+  "stats": "mistral-small3.2:latest · 523 + 493 tokens · 9,9 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-complaisance",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une indulgence coupable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:complaisance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:complaisant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:laxisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:laxiste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fermer\\s+les\\s+yeux)(?![\\w-])"
+  ],
+  "symbol": "complaisance",
+  "event": null,
+  "title": "Complaisance",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

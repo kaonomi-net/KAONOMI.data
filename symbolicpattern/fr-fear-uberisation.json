@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-uberisation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La précarisation du travail par les plateformes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:uberisation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ub[ée]ris([ée]|[ée]e|ation|er)|travailleur(s)?\\s+de\\s+plateforme)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:livreur(s)?\\s+pr[ée]caire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:micro-travail)(?![\\w-])"
+  ],
+  "symbol": "uberisation",
+  "event": null,
+  "title": "Uberisation",
+  "tags": [
+    "#FEAR",
+    "#IA",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

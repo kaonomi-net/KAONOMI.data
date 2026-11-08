@@ -1,0 +1,13 @@
+{
+  "index": 644,
+  "file": "0644-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre la gestion des exceptions.",
+  "promptWords": 13,
+  "completion": "Voici un exemple de code Python qui illustre la gestion des exceptions :\n\n```python\ndef division(a, b):\n    try:\n        result = a / b\n    except ZeroDivisionError:\n        print(\"Erreur : Division par zéro !\")\n        return None\n    except TypeError:\n        print(\"Erreur : Les arguments doivent être des nombres.\")\n        return None\n    else:\n        print(f\"Le résultat de la division est : {result}\")\n        return result\n    finally:\n        print(\"Fin de la fonction division.\")\n\n# Exemples d'utilisation\nprint(\"Exemple 1 :\")\ndivision(10, 2)\n\nprint(\"\\nExemple 2 :\")\ndivision(10, 0)\n\nprint(\"\\nExemple 3 :\")\ndivision(\"10\", 2)\n```\n\n### Explications :\n1. **Bloc `try`** : Le code susceptible de lever une exception est placé ici.\n2. **Bloc `except ZeroDivisionError`** : Gère spécifiquement l'erreur de division par zéro.\n3. **Bloc `except TypeError`** : Gère l'erreur si les arguments ne sont pas des nombres.\n4. **Bloc `else`** : S'exécute si aucune exception n'est levée.\n5. **Bloc `finally`** : S'exécute toujours, qu'une exception soit levée ou non.\n\nCe code montre comment gérer différentes exceptions et assurer une exécution robuste du programme.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:37:12.7892491+02:00",
+  "durationSeconds": 6.26,
+  "stats": "mistral-small3.2:latest · 523 + 309 tokens · 6,3 s",
+  "isError": false,
+  "language": "FR"
+}

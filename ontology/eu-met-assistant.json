@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Fonctionnaire chargé de fonctions d'exécution, techniques ou administratives.",
+  "id": "eu-met-assistant",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Assistant (AST)",
+  "entityType": "PROFESSION",
+  "description": "Fonctionnaire chargé de fonctions d'exécution, techniques ou administratives.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "Le parcours de nombreux commissaires passe par la fonction « Assistant (AST) ».",
+    "Le métier « Assistant (AST) » apparaît dans les biographies officielles.",
+    "La fonction « Assistant (AST) » relève de la vie publique européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Assistant%20%28AST%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Office européen de sélection du personnel",
+    "Commission européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

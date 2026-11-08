@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-partenariat-microsoft-et-openai",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Partenariat Microsoft et OpenAI",
+  "includedEntities": [
+    {
+      "entityName": "Microsoft",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "OpenAI",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 90,
+  "instructions": "Suivre l'évolution de l'alliance entre Microsoft et OpenAI.",
+  "isFuzzy": false,
+  "locations": [
+    "Redmond",
+    "San Francisco"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Azure",
+    "Satya Nadella",
+    "Copilot"
+  ],
+  "questions": [
+    "Quelle part détient Microsoft ?",
+    "Le partenariat évolue-t-il ?",
+    "Quelle exclusivité sur Azure ?"
+  ],
+  "tags": [
+    "#IA",
+    "#PARTENARIAT",
+    "#OPENAI",
+    "#MICROSOFT"
+  ],
+  "events": [
+    "@PARTENARIAT"
+  ],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

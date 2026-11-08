@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-chefs-d-etat",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "chefs d'État",
+  "entityType": "PROFESSION",
+  "description": "Cité par 3 intels : Sommet international sur l'IA ; Agenda de la présidente de la Commission ; Conseil européen et António Costa.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les sommets internationaux consacrés à l'IA.",
+    "Suivre les rencontres et déplacements de la présidente.",
+    "Suivre le rôle du président du Conseil européen."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "chefs d'État",
+  "tags": [
+    "#IA",
+    "#DIPLOMATIE",
+    "#GOUVERNANCE",
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#AGENDA"
+  ],
+  "events": [
+    "@SOMMET",
+    "@RENCONTRE"
+  ],
+  "signals": [
+    "!GOUVERNANCE",
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "sommet",
+    "Paris",
+    "OCDE",
+    "Séoul",
+    "Nations unies",
+    "G7",
+    "Londres",
+    "IA",
+    "sommets"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

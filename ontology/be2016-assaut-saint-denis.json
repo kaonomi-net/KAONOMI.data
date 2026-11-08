@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (la traque de la cellule) : Assaut du RAID dans un appartement de Saint-Denis, où meurent Abdelhamid Abaaoud et deux autres personnes.",
+  "id": "be2016-assaut-saint-denis",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Assaut de Saint-Denis",
+  "entityType": "EVENT",
+  "description": "Assaut du RAID dans un appartement de Saint-Denis, où meurent Abdelhamid Abaaoud et deux autres personnes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "Les rapports officiels reviennent sur « Assaut de Saint-Denis ».",
+    "Les enquêteurs et les historiens ont reconstitué le déroulement de « Assaut de Saint-Denis ».",
+    "« Assaut de Saint-Denis » figure dans la chronologie des attentats de 2016."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 2,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "assaut du 18 novembre"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#TRAQUECELLULE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Assaut%20de%20Saint-Denis"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Abdelhamid Abaaoud",
+    "Attentats du 13 novembre 2015",
+    "RAID",
+    "Saint-Denis"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-11-18T00:00:00",
+  "endDate": "2015-11-18T00:00:00"
+}

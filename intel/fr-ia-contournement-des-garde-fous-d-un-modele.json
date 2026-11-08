@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-contournement-des-garde-fous-d-un-modele",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Contournement des garde-fous d'un modèle",
+  "includedEntities": [
+    {
+      "entityName": "jailbreak",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "garde-fous",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Repérer les techniques de contournement des protections des modèles.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "red teaming",
+    "sécurité",
+    "modèle"
+  ],
+  "questions": [
+    "Quel modèle est concerné ?",
+    "Quel contenu interdit obtenu ?",
+    "Le fournisseur a-t-il corrigé ?"
+  ],
+  "tags": [
+    "#IA",
+    "#SECURITE-IA",
+    "#ALIGNEMENT"
+  ],
+  "events": [
+    "@INCIDENT-SECURITE"
+  ],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-harceleur",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Des agissements répétés qui humilient.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:harc[èe]lement(s)?\\s+sexuel(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:harceleur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:main(s)?\\s+aux\\s+fesses)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gros\\s+lourd)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:comportement(s)?\\s+d[ée]plac[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "harceleur",
+  "event": null,
+  "title": "Harceleur",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

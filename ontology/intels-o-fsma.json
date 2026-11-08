@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-fsma",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "FSMA",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 4 intels : FSMA ; Règlement MiCA ; Arnaques à l'investissement ; Délit d'initié.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les décisions de l'Autorité belge des services et marchés financiers.",
+    "Suivre l'application du règlement européen MiCA.",
+    "Repérer les arnaques à l'investissement signalées par les régulateurs."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "FSMA",
+  "tags": [
+    "#REGULATION",
+    "#FINANCE",
+    "#BELGIQUE",
+    "#MARCHES",
+    "#CRYPTO",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [
+    "@MISE-EN-GARDE",
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!REGULATION",
+    "!ALERTE",
+    "!SCANDALE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AMF",
+    "cryptoactifs",
+    "arnaques",
+    "régulateur",
+    "sanctions",
+    "Bruxelles",
+    "mises en garde",
+    "Europe",
+    "MiCA",
+    "agréments"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

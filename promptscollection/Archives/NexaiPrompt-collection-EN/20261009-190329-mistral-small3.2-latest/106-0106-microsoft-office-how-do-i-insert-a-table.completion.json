@@ -1,0 +1,13 @@
+{
+  "index": 106,
+  "file": "0106-microsoft-office-how-do-i-insert-a-table.prompt.json",
+  "prompt": "How do I insert a table of figures in Word?",
+  "promptWords": 10,
+  "completion": "To insert a table of figures in Microsoft Word, follow these steps:\n\n1. **Create Your Figures**: First, make sure you have all the figures in your document with captions. Each figure should have a caption that you can generate by selecting the figure, going to the \"References\" tab, and clicking \"Insert Caption.\"\n\n2. **Insert the Table of Figures**:\n   - Place your cursor where you want the table of figures to appear.\n   - Go to the \"References\" tab.\n   - Click on \"Insert Table of Figures.\" This will open a dialog box.\n\n3. **Customize the Table of Figures**:\n   - In the dialog box, you can choose the format for your table of figures.\n   - You can also specify the label (usually \"Figure\") and choose whether to include page numbers.\n   - Click \"OK\" to insert the table of figures.\n\n4. **Update the Table of Figures**:\n   - If you add, remove, or change the captions of your figures, you may need to update the table of figures. To do this, right-click on the table of figures and select \"Update Field.\"\n\nThis will create a list of all the figures in your document along with their page numbers.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:23:20.9260626+02:00",
+  "durationSeconds": 6.45,
+  "stats": "mistral-small3.2:latest · 518 + 251 tokens · 6,4 s",
+  "isError": false,
+  "language": "EN"
+}

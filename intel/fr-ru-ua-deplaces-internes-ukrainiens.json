@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-deplaces-internes-ukrainiens",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Déplacés internes ukrainiens",
+  "includedEntities": [
+    {
+      "entityName": "déplacés",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation des personnes déplacées à l'intérieur de l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "logement",
+    "aides",
+    "ONU"
+  ],
+  "questions": [
+    "Combien de déplacés ?",
+    "Quel logement ?",
+    "Quelles aides ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#DEPLACES",
+    "#HUMANITAIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

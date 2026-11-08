@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-enthousiasme",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une ardeur joyeuse.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:enthousiasme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:enthousiaste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:emball([ée]|[ée]e|[ée]s|[ée]es)|passionnant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:g[ée]nial(e|es|aux)?)(?![\\w-])"
+  ],
+  "symbol": "enthousiasme",
+  "event": null,
+  "title": "Enthousiasme",
+  "tags": [
+    "#JOIE",
+    "#MOTIVATION"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

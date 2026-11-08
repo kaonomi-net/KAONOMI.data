@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-conditions-posees-par-le-kremlin",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Conditions posées par le Kremlin",
+  "includedEntities": [
+    {
+      "entityName": "Kremlin",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "conditions",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Peskov",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les conditions de Moscou pour un accord de paix.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Dmitri Peskov",
+    "Lavrov",
+    "neutralité de l'Ukraine"
+  ],
+  "questions": [
+    "Quelles exigences ?",
+    "Quelle évolution ?",
+    "Quelle réaction de Kyiv ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#KREMLIN",
+    "#NEGOCIATIONS"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!BLOCAGE"
+  ],
+  "isDeleted": false
+}

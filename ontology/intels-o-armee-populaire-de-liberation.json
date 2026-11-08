@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-armee-populaire-de-liberation",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Armée populaire de libération",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Tensions autour de Taïwan ; Frontière entre l'Inde et la Chine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Surveiller les tensions militaires et diplomatiques autour de Taïwan.",
+    "Surveiller les tensions à la frontière himalayenne entre l'Inde et la Chine."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Armée populaire de libération",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#CHINE",
+    "#TAIWAN",
+    "#INDE"
+  ],
+  "events": [
+    "@MANOEUVRES-MILITAIRES",
+    "@INCIDENT-FRONTALIER"
+  ],
+  "signals": [
+    "!TENSION",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chine",
+    "Taïwan",
+    "détroit",
+    "Taipei",
+    "Japon",
+    "détroit de Taïwan",
+    "États-Unis",
+    "Inde",
+    "Ladakh",
+    "armée indienne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

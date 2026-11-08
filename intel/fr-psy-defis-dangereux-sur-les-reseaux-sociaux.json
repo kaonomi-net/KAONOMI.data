@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-defis-dangereux-sur-les-reseaux-sociaux",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Défis dangereux sur les réseaux sociaux",
+  "includedEntities": [
+    {
+      "entityName": "défi",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "TikTok",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "dangereux",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les défis dangereux viraux chez les jeunes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "plateformes",
+    "accidents",
+    "prévention"
+  ],
+  "questions": [
+    "Quel défi ?",
+    "Quel accident ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADOLESCENTS",
+    "#RESEAUX-SOCIAUX"
+  ],
+  "events": [
+    "@ALERTE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

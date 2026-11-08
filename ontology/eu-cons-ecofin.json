@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique économique) : Conseil Affaires économiques et financières, formation du Conseil de l'Union européenne compétente pour la politique économique, le budget de l'Union, la fiscalité.",
+  "id": "eu-cons-ecofin",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Conseil Affaires économiques et financières (ECOFIN)",
+  "entityType": "ORGANISATION",
+  "description": "Conseil Affaires économiques et financières, formation du Conseil de l'Union européenne compétente pour la politique économique, le budget de l'Union, la fiscalité.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-formations-conseil",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Conseil Affaires économiques et financières (ECOFIN) » préparent les textes relatifs à la politique économique.",
+    "La délégation a rencontré des représentants de « Conseil Affaires économiques et financières (ECOFIN) ».",
+    "« Conseil Affaires économiques et financières (ECOFIN) » joue un rôle dans la politique économique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ECOFIN"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Conseil%20Affaires%20%C3%A9conomiques%20et%20financi%C3%A8res%20%28ECOFIN%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conseil de l'Union européenne",
+    "Économie",
+    "Budget",
+    "Fiscalité et union douanière"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

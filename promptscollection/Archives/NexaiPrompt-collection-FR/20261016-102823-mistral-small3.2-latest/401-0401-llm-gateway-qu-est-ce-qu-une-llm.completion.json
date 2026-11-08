@@ -1,0 +1,13 @@
+{
+  "index": 401,
+  "file": "0401-llm-gateway-qu-est-ce-qu-une-llm.prompt.json",
+  "prompt": "Qu'est-ce qu'une LLM Gateway ?",
+  "promptWords": 5,
+  "completion": "Une LLM Gateway (ou passerelle de modèle de langage de grande taille) est une interface ou un système qui permet de faciliter l'interaction entre les utilisateurs et les modèles de langage de grande taille (LLM, pour *Large Language Models*). Elle agit comme un intermédiaire entre l'utilisateur et le modèle, offrant des fonctionnalités supplémentaires pour améliorer l'expérience utilisateur, la sécurité, la gestion des requêtes et l'intégration avec d'autres systèmes.\n\nVoici quelques-unes des fonctionnalités typiques d'une LLM Gateway :\n\n1. **Gestion des requêtes** : La passerelle peut gérer les requêtes des utilisateurs, les formater correctement et les transmettre au modèle de langage.\n2. **Sécurité et filtrage** : Elle peut filtrer les requêtes pour éviter les contenus inappropriés ou dangereux, et protéger le modèle contre les abus.\n3. **Optimisation des performances** : La passerelle peut optimiser les requêtes pour améliorer les temps de réponse et réduire la charge sur le modèle.\n4. **Intégration avec d'autres services** : Elle peut intégrer des services externes, comme des bases de données ou des API, pour enrichir les réponses du modèle.\n5. **Gestion des sessions** : La passerelle peut gérer les sessions utilisateur, maintenir l'état des conversations et personnaliser les réponses en fonction du contexte.\n6. **Analytique et surveillance** : Elle peut collecter des données sur les requêtes et les réponses pour analyser les performances et améliorer le système.\n\nEn résumé, une LLM Gateway est un composant clé pour rendre les modèles de langage de grande taille plus accessibles, sécurisés et efficaces pour les utilisateurs finaux.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:38:15.5283696+02:00",
+  "durationSeconds": 7.39,
+  "stats": "mistral-small3.2:latest · 516 + 363 tokens · 7,4 s",
+  "isError": false,
+  "language": "FR"
+}

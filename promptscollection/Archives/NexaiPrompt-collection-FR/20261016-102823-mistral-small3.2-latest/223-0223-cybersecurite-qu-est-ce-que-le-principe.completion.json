@@ -1,0 +1,13 @@
+{
+  "index": 223,
+  "file": "0223-cybersecurite-qu-est-ce-que-le-principe.prompt.json",
+  "prompt": "Qu'est-ce que le principe du moindre privilège ?",
+  "promptWords": 8,
+  "completion": "Le principe du moindre privilège (ou *principe de privilège minimal* en anglais, *principle of least privilege*) est un concept fondamental en sécurité informatique et en gestion des accès. Il stipule qu'un utilisateur, un programme ou un processus doit disposer des droits d'accès les plus restreints possibles nécessaires pour accomplir sa tâche.\n\n### Explications :\n1. **Objectif** : Limiter les risques de sécurité en réduisant les possibilités d'erreurs ou d'abus de pouvoir.\n2. **Application** :\n   - **Utilisateurs** : Un employé doit avoir accès uniquement aux ressources nécessaires pour son travail.\n   - **Logiciels** : Un programme ne doit pas avoir plus de permissions que ce qui est strictement nécessaire pour fonctionner.\n3. **Avantages** :\n   - Réduction des vulnérabilités (ex. : un logiciel malveillant ne peut pas exploiter des permissions inutiles).\n   - Minimisation des dommages en cas de compromission (ex. : un compte piraté n'a pas accès à tout le système).\n\n### Exemple :\nUn développeur n'a pas besoin des droits d'administrateur pour coder. En appliquant ce principe, on lui attribue uniquement les droits nécessaires pour modifier le code source, sans pouvoir installer des logiciels système.\n\nCe principe est souvent combiné avec d'autres bonnes pratiques, comme l'audit des accès et la séparation des tâches, pour renforcer la sécurité globale.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:07:08.5201725+02:00",
+  "durationSeconds": 6.33,
+  "stats": "mistral-small3.2:latest · 518 + 309 tokens · 6,3 s",
+  "isError": false,
+  "language": "FR"
+}

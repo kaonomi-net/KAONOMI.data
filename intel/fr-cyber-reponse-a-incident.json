@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-reponse-a-incident",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Réponse à incident",
+  "includedEntities": [
+    {
+      "entityName": "réponse à incident",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "CSIRT",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les méthodes et équipes de réponse à incident.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "investigation",
+    "confinement",
+    "communication"
+  ],
+  "questions": [
+    "Quelle méthode ?",
+    "Quel retour d'expérience ?",
+    "Quel délai ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DEFENSE",
+    "#REPONSE-INCIDENT"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

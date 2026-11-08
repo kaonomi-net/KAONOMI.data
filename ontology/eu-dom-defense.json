@@ -1,0 +1,63 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la défense européenne) : Industrie de défense, capacités militaires communes et préparation face aux menaces.",
+  "id": "eu-dom-defense",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Défense",
+  "entityType": "DOMAIN",
+  "description": "Industrie de défense, capacités militaires communes et préparation face aux menaces.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Défense » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Défense » passent par le Parlement et le Conseil.",
+    "La conférence portait sur la défense européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#DEFENSEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=D%C3%A9fense"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission de la sécurité et de la défense (SEDE)",
+    "Conseil des affaires étrangères (FAC)",
+    "Une Europe plus forte sur la scène internationale (Commission von der Leyen I)",
+    "Josep Borrell",
+    "Marché intérieur (Commission von der Leyen I)",
+    "Thierry Breton",
+    "Affaires étrangères et politique de sécurité (Commission von der Leyen II)",
+    "Kaja Kallas",
+    "Défense et espace (Commission von der Leyen II)",
+    "Andrius Kubilius",
+    "Direction générale de l'industrie de la défense et de l'espace",
+    "Agence européenne de défense (AED)",
+    "Plan ReArm Europe / Préparation 2030",
+    "Livre blanc sur l'avenir de la défense européenne",
+    "Fonds européen de la défense",
+    "Instrument SAFE (Action pour la sécurité de l'Europe)",
+    "Invasion de l'Ukraine par la Russie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

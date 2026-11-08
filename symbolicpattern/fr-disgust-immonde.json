@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-immonde",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "D'une laideur ou d'une saleté repoussante.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:immonde(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:immondice(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:innommable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:atroce(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:effroyable(s)?)(?![\\w-])"
+  ],
+  "symbol": "immonde",
+  "event": null,
+  "title": "Immonde",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

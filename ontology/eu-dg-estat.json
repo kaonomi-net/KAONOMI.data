@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les statistiques européennes) : Eurostat (ESTAT), service de la Commission européenne compétent pour les statistiques européennes, placé sous l'autorité de Valdis Dombrovskis dans la Commission von der Leyen II.",
+  "id": "eu-dg-estat",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Eurostat",
+  "entityType": "ORGANISATION",
+  "description": "Eurostat (ESTAT), service de la Commission européenne compétent pour les statistiques européennes, placé sous l'autorité de Valdis Dombrovskis dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Le rapport annuel de « Eurostat » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Eurostat ».",
+    "Les décisions de « Eurostat » touchent les statistiques européennes."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ESTAT"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#STATISTIQUESEUROPEENNES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Eurostat"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Statisticien",
+    "Commission européenne",
+    "Valdis Dombrovskis",
+    "Statistiques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

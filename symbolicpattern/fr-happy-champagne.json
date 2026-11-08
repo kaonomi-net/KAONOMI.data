@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-champagne",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le vin des célébrations.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:champagne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sabrer\\s+le\\s+champagne)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:trinqu(er|ons|[ée]))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[àa]\\s+la\\s+v[ôo]tre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sant[ée]\\s+!)(?![\\w-])"
+  ],
+  "symbol": "champagne",
+  "event": null,
+  "title": "Champagne",
+  "tags": [
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

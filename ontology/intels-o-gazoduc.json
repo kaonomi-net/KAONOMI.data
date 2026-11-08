@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-gazoduc",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "gazoduc",
+  "entityType": "HARDWARE",
+  "description": "Cité par 4 intels : Gazoduc Force de Sibérie 2 ; Gazoduc TurkStream ; Approvisionnement en gaz russe ; Sabotage d'infrastructures sous-marines.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre le projet de gazoduc vers la Chine.",
+    "Suivre le dernier gazoduc acheminant du gaz russe vers l'Europe.",
+    "Surveiller les flux de gaz russe vers l'Europe et les ruptures d'approvisionnement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "gazoduc",
+  "tags": [
+    "#RUSSIE",
+    "#ENERGIE",
+    "#GEOPOLITIQUE",
+    "#CHINE",
+    "#GAZ",
+    "#INFRASTRUCTURES"
+  ],
+  "events": [
+    "@RUPTURE-APPROVISIONNEMENT",
+    "@SABOTAGE"
+  ],
+  "signals": [
+    "!STRATEGIE",
+    "!DEPENDANCE",
+    "!TENSION-ENERGETIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Gazprom",
+    "mer Baltique",
+    "prix",
+    "CNPC",
+    "Mongolie",
+    "Sibérie",
+    "Chine",
+    "Force de Sibérie",
+    "TurkStream",
+    "Serbie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

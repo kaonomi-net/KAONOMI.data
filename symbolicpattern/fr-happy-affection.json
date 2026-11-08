@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-affection",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un sentiment tendre envers quelqu'un.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:affection(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:affectueu(x|se|ses|sement))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attachement(s)?)(?![\\w-])"
+  ],
+  "symbol": "affection",
+  "event": null,
+  "title": "Affection",
+  "tags": [
+    "#AMOUR",
+    "#AMITIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

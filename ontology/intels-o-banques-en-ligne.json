@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-banques-en-ligne",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "banques en ligne",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : DDoS contre les banques et les transports.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les attaques DDoS contre les banques, aéroports et transports."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "banques en ligne",
+  "tags": [
+    "#CYBERSECURITE",
+    "#DDOS",
+    "#INFRASTRUCTURES"
+  ],
+  "events": [
+    "@DDOS"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "hacktivistes",
+    "DDoS",
+    "transports",
+    "aéroports",
+    "banques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

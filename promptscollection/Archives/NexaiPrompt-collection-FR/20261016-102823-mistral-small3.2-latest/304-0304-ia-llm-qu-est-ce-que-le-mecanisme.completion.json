@@ -1,0 +1,13 @@
+{
+  "index": 304,
+  "file": "0304-ia-llm-qu-est-ce-que-le-mecanisme.prompt.json",
+  "prompt": "Qu'est-ce que le mécanisme d'attention dans un Transformer ?",
+  "promptWords": 9,
+  "completion": "Le mécanisme d'attention dans un Transformer est une composante clé qui permet au modèle de se concentrer sur différentes parties d'une séquence d'entrée lorsqu'il génère une sortie. Voici une explication détaillée :\n\n### 1. **Principe de base**\nLe mécanisme d'attention permet au modèle de pondérer l'importance relative de chaque élément de la séquence d'entrée par rapport à chaque élément de la séquence de sortie. Cela signifie que pour générer un mot particulier dans la séquence de sortie, le modèle peut accorder plus d'attention à certains mots de l'entrée qui sont pertinents.\n\n### 2. **Types d'attention**\n- **Attention auto (Self-Attention)** : Utilisée dans les Transformers, elle permet à chaque mot de la séquence d'entrée d'interagir avec tous les autres mots de la même séquence. Cela capture les relations contextuelles entre les mots.\n- **Attention croisée (Cross-Attention)** : Utilisée pour aligner une séquence d'entrée avec une autre séquence, comme dans les modèles de traduction où l'entrée et la sortie sont dans des langues différentes.\n\n### 3. **Fonctionnement de l'attention auto**\n1. **Calcul des scores d'attention** : Pour chaque paire de mots (i, j) dans la séquence, le modèle calcule un score d'attention qui mesure la pertinence du mot j pour le mot i.\n2. **Normalisation des scores** : Les scores sont transformés en probabilités à l'aide d'une fonction softmax.\n3. **Pondération des représentations** : Les représentations des mots sont pondérées par ces probabilités et sommées pour obtenir une représentation contextuelle.\n\n### 4. **Avantages**\n- **Capture des dépendances à long terme** : Contrairement aux modèles récurrents (RNN, LSTM), les Transformers peuvent modéliser des dépendances entre des mots éloignés dans la séquence grâce à l'attention.\n- **Parallelisme** : Le mécanisme d'attention permet un traitement parallèle des séquences, ce qui accélère l'entraînement et l'inférence.\n\n### 5. **Applications**\nLes Transformers avec mécanisme d'attention sont utilisés dans diverses tâches de traitement du langage naturel (NLP) comme la traduction automatique, la génération de texte, la compréhension de texte, et bien d'autres.\n\nEn résumé, le mécanisme d'attention est ce qui permet aux Transformers de comprendre et de générer du texte de manière contextuelle et efficace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:21:39.0241854+02:00",
+  "durationSeconds": 10.57,
+  "stats": "mistral-small3.2:latest · 521 + 523 tokens · 10,6 s",
+  "isError": false,
+  "language": "FR"
+}

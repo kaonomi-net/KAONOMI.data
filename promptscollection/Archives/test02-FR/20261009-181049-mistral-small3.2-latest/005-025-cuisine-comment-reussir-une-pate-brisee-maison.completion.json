@@ -1,0 +1,13 @@
+{
+  "index": 5,
+  "file": "025-cuisine-comment-reussir-une-pate-brisee-maison.prompt.json",
+  "prompt": "Comment réussir une pâte brisée maison ?",
+  "promptWords": 7,
+  "completion": "La pâte brisée est une base essentielle en pâtisserie, et la réaliser maison est plus simple qu'il n'y paraît. Voici une recette de base et quelques conseils pour la réussir à coup sûr :\n\n### **Ingrédients pour une pâte brisée** (pour un moule de 24 cm) :\n- 250 g de farine (type T45 ou T55)\n- 125 g de beurre froid (coupé en dés)\n- 1 pincée de sel\n- 5 à 6 cuillères à soupe d'eau froide (ou un peu plus si nécessaire)\n- 1 cuillère à soupe de sucre (facultatif, pour une version légèrement sucrée)\n\n### **Étapes de préparation** :\n1. **Mélanger la farine et le sel** dans un grand saladier (ou un robot pâtissier).\n2. **Ajouter le beurre froid** et sabler le mélange (c'est-à-dire le travailler du bout des doigts jusqu'à obtenir une texture sableuse).\n3. **Incorporer l'eau progressivement** en mélangeant avec une spatule ou les mains, jusqu'à obtenir une boule homogène. La pâte ne doit pas être trop collante.\n4. **Former une boule**, l'envelopper dans du film alimentaire et la laisser reposer au réfrigérateur pendant **30 minutes à 1 heure**.\n\n### **Étaler et foncer le moule** :\n- Sortir la pâte du frigo et l'étaler sur un plan fariné avec un rouleau à pâtisserie.\n- Fondre la pâte dans un moule à tarte en appuyant doucement avec les doigts pour qu'elle épouse bien les bords.\n- **Piquer le fond** avec une fourchette pour éviter les bulles d'air à la cuisson.\n\n### **Cuisson à blanc (optionnelle)** :\nSi votre recette le nécessite (pour une tarte aux fruits ou une quiche), pré-cuire la pâte à blanc :\n- Recouvrir le fond de papier sulfurisé et de légumes secs (ou billes de cuisson).\n- Enfourner à **180°C** pendant **15-20 minutes**, puis retirer les poids et poursuivre la cuisson **5-10 minutes** jusqu'à ce que la pâte soit dorée.\n\n### **Astuces pour une pâte réussie** :\n- **Beurre bien froid** : C'est la clé pour une pâte feuilletée et croustillante.\n- **Ne pas trop travailler la pâte** pour éviter qu'elle ne devienne élastique.\n- **Repos au frigo** : Indispensable pour détendre le gluten et faciliter l'étalage.\n\nAvec ces étapes, vous obtiendrez une pâte brisée maison parfaite pour vos tartes salées ou sucrées ! \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T18:11:35.0932331+02:00",
+  "durationSeconds": 13.19,
+  "stats": "mistral-small3.2:latest · 517 + 616 tokens · 13,2 s",
+  "isError": false,
+  "language": "FR"
+}

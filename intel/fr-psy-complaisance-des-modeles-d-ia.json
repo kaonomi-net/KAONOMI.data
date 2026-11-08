@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-complaisance-des-modeles-d-ia",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Complaisance des modèles d'IA",
+  "includedEntities": [
+    {
+      "entityName": "complaisance",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "flagornerie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le risque que les IA confortent l'utilisateur au lieu de le contredire.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "éditeurs",
+    "mises à jour",
+    "santé mentale"
+  ],
+  "questions": [
+    "Quel modèle ?",
+    "Quel effet ?",
+    "Quelle correction ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#IA",
+    "#RISQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

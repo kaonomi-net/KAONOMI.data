@@ -1,0 +1,13 @@
+{
+  "index": 165,
+  "file": "0165-microsoft-office-how-do-i-set-up-an.prompt.json",
+  "prompt": "How do I set up an automatic out-of-office reply in Outlook?",
+  "promptWords": 11,
+  "completion": "Setting up an automatic out-of-office reply in Outlook is a straightforward process. Here’s how you can do it:\n\n### For Outlook on the Web (Outlook.com or Office 365):\n1. **Sign in** to your Outlook account via a web browser.\n2. **Click on the gear icon** (Settings) in the upper-right corner.\n3. **Select \"View all Outlook settings\"** at the bottom of the menu.\n4. **Go to the \"Mail\"** tab and then **\"Automatic replies\"**.\n5. **Toggle the switch** to turn on automatic replies.\n6. **Set the duration** for your out-of-office reply.\n7. **Compose your message** in the provided text box.\n8. **Click \"Save\"** to activate the out-of-office reply.\n\n### For Outlook Desktop (Windows):\n1. **Open Outlook** and go to the **File** menu.\n2. **Select \"Automatic Replies\"** from the menu.\n3. **Choose \"Send automatic replies\"** and set the duration.\n4. **Compose your message** in the provided text box.\n5. **Click \"OK\"** to save and activate the out-of-office reply.\n\n### For Outlook Desktop (Mac):\n1. **Open Outlook** and go to the **Tools** menu.\n2. **Select \"Out of Office\"** from the menu.\n3. **Choose \"Send automatic replies\"** and set the duration.\n4. **Compose your message** in the provided text box.\n5. **Click \"OK\"** to save and activate the out-of-office reply.\n\nIf you need more detailed instructions or run into any issues, feel free to ask!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:33:44.3896554+02:00",
+  "durationSeconds": 9.18,
+  "stats": "mistral-small3.2:latest · 521 + 343 tokens · 9,2 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne des attentats de Bruxelles de 2016 (la réponse de l'État) : Bourgmestre de Molenbeek-Saint-Jean, commune où ont grandi ou vécu plusieurs membres de la cellule.",
+  "id": "be2016-francoise-schepmans",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Françoise Schepmans",
+  "entityType": "PERSON",
+  "description": "Bourgmestre de Molenbeek-Saint-Jean, commune où ont grandi ou vécu plusieurs membres de la cellule.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-personnes",
+  "sentencesExemples": [
+    "Les archives de presse de 2016 citent Françoise Schepmans.",
+    "Le nom de Françoise Schepmans apparaît dans de nombreux articles consacrés aux attentats de 2016.",
+    "La chronologie des faits mentionne Françoise Schepmans."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "F. Schepmans"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#PERSON",
+    "#REPONSEETAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fran%C3%A7oise%20Schepmans"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Molenbeek-Saint-Jean"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

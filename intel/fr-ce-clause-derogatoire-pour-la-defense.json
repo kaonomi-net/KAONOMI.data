@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-clause-derogatoire-pour-la-defense",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Clause dérogatoire pour la défense",
+  "includedEntities": [
+    {
+      "entityName": "clause dérogatoire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "défense",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage de la clause permettant d'exclure des dépenses de défense des règles budgétaires.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "États membres",
+    "pacte de stabilité",
+    "réarmement"
+  ],
+  "questions": [
+    "Quels pays l'activent ?",
+    "Quel montant ?",
+    "Quelles limites ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DEFENSE",
+    "#REGLES-BUDGETAIRES"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "isDeleted": false
+}

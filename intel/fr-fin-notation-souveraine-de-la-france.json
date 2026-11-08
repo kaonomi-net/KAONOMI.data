@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-notation-souveraine-de-la-france",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Notation souveraine de la France",
+  "includedEntities": [
+    {
+      "entityName": "notation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "France",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Moody's",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions des agences de notation sur la France.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Moody's",
+    "Fitch",
+    "S&P"
+  ],
+  "questions": [
+    "Quelle note ?",
+    "Quelle perspective ?",
+    "Quel motif ?"
+  ],
+  "tags": [
+    "#DETTE",
+    "#FRANCE",
+    "#NOTATION"
+  ],
+  "events": [
+    "@NOTATION"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

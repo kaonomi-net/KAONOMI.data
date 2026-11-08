@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-commissions",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "commissions",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Banques d'affaires et frais ; Rançongiciel en tant que service.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'activité des banques d'affaires.",
+    "Suivre les modèles d'affiliation des groupes de rançongiciels."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "commissions",
+  "tags": [
+    "#FINANCE",
+    "#BANQUES-AFFAIRES",
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#RAAS"
+  ],
+  "events": [],
+  "signals": [
+    "!TENDANCE",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "New York",
+    "Paris",
+    "banques d'affaires",
+    "trading",
+    "Londres",
+    "fusions",
+    "introductions",
+    "RaaS",
+    "recrutement",
+    "rançongiciel en tant que service"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

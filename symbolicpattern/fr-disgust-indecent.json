@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-indecent",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui choque par son excès.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ind[ée]cent(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:salaire(s)?\\s+ind[ée]cent(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:richesse(s)?\\s+ind[ée]cente(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]talage\\s+de\\s+luxe)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ostentatoire(s)?)(?![\\w-])"
+  ],
+  "symbol": "indécent",
+  "event": null,
+  "title": "Indécent",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

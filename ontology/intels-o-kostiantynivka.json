@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-kostiantynivka",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Kostiantynivka",
+  "entityType": "CITY",
+  "description": "Cité par 3 intels : Combats autour de Kostiantynivka ; Situation à Bakhmout et Tchassiv Iar ; Secteur de Toretsk.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les combats dans le secteur de Kostiantynivka, l'un des plus intenses.",
+    "Suivre la situation dans le secteur de Bakhmout et Tchassiv Iar.",
+    "Suivre les combats autour de Toretsk."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Kostiantynivka",
+  "tags": [
+    "#UKRAINE",
+    "#DONBASS",
+    "#FRONT"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "armée russe",
+    "combats",
+    "Donetsk",
+    "armée ukrainienne",
+    "drones",
+    "Tchassiv Iar",
+    "Bakhmout",
+    "canal",
+    "hauteurs",
+    "artillerie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

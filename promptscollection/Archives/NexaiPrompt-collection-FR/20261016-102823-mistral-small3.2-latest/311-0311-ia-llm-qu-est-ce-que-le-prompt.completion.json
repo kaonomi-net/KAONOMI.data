@@ -1,0 +1,13 @@
+{
+  "index": 311,
+  "file": "0311-ia-llm-qu-est-ce-que-le-prompt.prompt.json",
+  "prompt": "Qu'est-ce que le prompt engineering ?",
+  "promptWords": 6,
+  "completion": "Le *prompt engineering* est une technique utilisée pour optimiser les interactions avec les modèles de langage comme moi. Il s'agit de formuler des requêtes (*prompts*) de manière précise et stratégique afin d'obtenir des réponses plus pertinentes, complètes ou adaptées à un besoin spécifique.\n\n### Pourquoi est-ce important ?\nLes modèles de langage comme moi génèrent des réponses en fonction des instructions que vous me donnez. Un *prompt* bien conçu peut :\n- **Améliorer la précision** des réponses.\n- **Guider le modèle** vers des réponses plus structurées ou détaillées.\n- **Éviter les ambiguïtés** ou les malentendus.\n\n### Exemples de techniques de *prompt engineering* :\n1. **Clarté et précision** :\n   - *Mauvais prompt* : \"Parle-moi de Paris.\"\n   - *Bon prompt* : \"Quels sont les 5 principaux monuments à visiter à Paris et pourquoi sont-ils importants ?\"\n\n2. **Utilisation de mots-clés** :\n   - *Mauvais prompt* : \"Donne-moi des conseils.\"\n   - *Bon prompt* : \"Quels sont les meilleurs conseils pour apprendre le français rapidement ?\"\n\n3. **Formatage des réponses** :\n   - *Mauvais prompt* : \"Dis-moi comment cuisiner une omelette.\"\n   - *Bon prompt* : \"Donne-moi une recette d'omelette sous forme de liste étape par étape.\"\n\n4. **Contexte supplémentaire** :\n   - *Mauvais prompt* : \"Qu'est-ce que le machine learning ?\"\n   - *Bon prompt* : \"Explique le machine learning comme si j'étais un débutant en informatique.\"\n\n### À retenir :\nUn bon *prompt* est souvent itératif : vous pouvez ajuster votre demande en fonction des premières réponses pour affiner les résultats. Si vous avez un besoin spécifique, n'hésitez pas à me le décrire en détail pour que je puisse vous aider au mieux !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:22:39.7410908+02:00",
+  "durationSeconds": 8.6,
+  "stats": "mistral-small3.2:latest · 515 + 422 tokens · 8,6 s",
+  "isError": false,
+  "language": "FR"
+}

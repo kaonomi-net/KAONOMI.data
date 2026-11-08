@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-berceau",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le petit lit d'un bébé.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:berceau(x)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:berc(er|[ée]|[ée]e|ement)|landau(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:couffin(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:layette(s)?)(?![\\w-])"
+  ],
+  "symbol": "berceau",
+  "event": null,
+  "title": "Berceau",
+  "tags": [
+    "#NAISSANCE",
+    "#ENFANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

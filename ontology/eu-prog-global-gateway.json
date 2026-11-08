@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (les partenariats internationaux) : Stratégie d'investissement de l'Union dans les infrastructures des pays partenaires.",
+  "id": "eu-prog-global-gateway",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Global Gateway",
+  "entityType": "PROGRAMME",
+  "description": "Stratégie d'investissement de l'Union dans les infrastructures des pays partenaires.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "La Commission gère « Global Gateway » avec les États membres ou ses agences.",
+    "Les bénéficiaires de « Global Gateway » sont publiés en ligne.",
+    "L'appel à propositions de « Global Gateway » est ouvert."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#PARTENARIATSINTERNATIONAUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Global%20Gateway"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale des partenariats internationaux",
+    "Partenariats internationaux"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-12-01T00:00:00",
+  "endDate": null
+}

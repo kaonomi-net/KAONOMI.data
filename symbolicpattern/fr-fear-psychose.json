@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-psychose",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une peur collective.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:psychose(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:peur\\s+collective)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:climat\\s+de\\s+peur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vent\\s+de\\s+panique)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:terreur\\s+g[ée]n[ée]ralis[ée]e)(?![\\w-])"
+  ],
+  "symbol": "psychose",
+  "event": null,
+  "title": "Psychose",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

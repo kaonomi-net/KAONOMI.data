@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-reporting-de-durabilite",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Reporting de durabilité",
+  "includedEntities": [
+    {
+      "entityName": "CSRD",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "reporting",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'allègement des obligations de reporting de durabilité.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "omnibus",
+    "PME",
+    "normes"
+  ],
+  "questions": [
+    "Quelles entreprises exemptées ?",
+    "Quel report ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SIMPLIFICATION",
+    "#ENTREPRISES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

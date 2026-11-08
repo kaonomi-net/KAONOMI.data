@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-reconnaissance-du-burn-out-en-maladie-professionnelle",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Reconnaissance du burn-out en maladie professionnelle",
+  "includedEntities": [
+    {
+      "entityName": "maladie professionnelle",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "burn-out",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur la reconnaissance du burn-out comme maladie professionnelle.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "tableau",
+    "Assurance maladie",
+    "syndicats"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quel nombre de reconnaissances ?",
+    "Quel débat ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TRAVAIL",
+    "#BURN-OUT"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

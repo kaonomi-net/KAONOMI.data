@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-gangrene",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'invasion de microbes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:infection(s)?\\s+(purulente|nosocomiale|cutan[ée]e)(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gangr[èe]ne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gangren([ée]|[ée]e|eux)|n[ée]crose(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:septic[ée]mie(s)?)(?![\\w-])"
+  ],
+  "symbol": "gangrène",
+  "event": null,
+  "title": "Gangrène",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

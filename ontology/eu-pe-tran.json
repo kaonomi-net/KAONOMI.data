@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les transports) : Commission des transports et du tourisme du Parlement européen, chargée de les transports, le tourisme.",
+  "id": "eu-pe-tran",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission des transports et du tourisme (TRAN)",
+  "entityType": "ORGANISATION",
+  "description": "Commission des transports et du tourisme du Parlement européen, chargée de les transports, le tourisme.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "Le rapport annuel de « Commission des transports et du tourisme (TRAN) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Commission des transports et du tourisme (TRAN) ».",
+    "Les décisions de « Commission des transports et du tourisme (TRAN) » touchent les transports."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "TRAN"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#TRANSPORTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20des%20transports%20et%20du%20tourisme%20%28TRAN%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Transports",
+    "Tourisme"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

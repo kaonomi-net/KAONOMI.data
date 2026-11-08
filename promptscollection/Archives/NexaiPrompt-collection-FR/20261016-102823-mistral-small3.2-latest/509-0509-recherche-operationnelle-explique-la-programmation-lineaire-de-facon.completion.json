@@ -1,0 +1,13 @@
+{
+  "index": 509,
+  "file": "0509-recherche-operationnelle-explique-la-programmation-lineaire-de-facon.prompt.json",
+  "prompt": "Explique la programmation linéaire de façon simple.",
+  "promptWords": 7,
+  "completion": "La programmation linéaire est une méthode mathématique utilisée pour optimiser (maximiser ou minimiser) une fonction objective, sous certaines contraintes linéaires. Voici une explication simple :\n\n### 1. **Objectif** :\nTrouver la meilleure solution possible (par exemple, maximiser les profits ou minimiser les coûts) dans un problème où les décisions sont liées par des contraintes.\n\n### 2. **Fonction Objective** :\nC'est ce que vous voulez optimiser. Par exemple :\n- Maximiser \\( Z = 3x + 4y \\) (où \\( x \\) et \\( y \\) sont des variables).\n- Minimiser \\( C = 2x + 5y \\).\n\n### 3. **Contraintes** :\nCe sont des règles qui limitent les valeurs des variables. Par exemple :\n- \\( x + y \\leq 10 \\)\n- \\( 2x + y \\leq 14 \\)\n- \\( x \\geq 0 \\), \\( y \\geq 0 \\) (les variables sont non négatives).\n\n### 4. **Solution** :\nLa programmation linéaire permet de trouver les valeurs de \\( x \\) et \\( y \\) qui respectent toutes les contraintes et qui optimisent la fonction objective.\n\n### Exemple Simple :\nImaginons une entreprise qui produit deux produits, A et B. Chaque produit A rapporte 3€ de profit et chaque produit B rapporte 4€ de profit. Les contraintes sont :\n- La production de A et B ne doit pas dépasser 10 unités au total.\n- La production de A ne doit pas dépasser 6 unités.\n- La production de B ne doit pas dépasser 7 unités.\n\nLa fonction objective est : Maximiser \\( Z = 3x + 4y \\), où \\( x \\) est le nombre de produits A et \\( y \\) le nombre de produits B.\n\nLes contraintes sont :\n- \\( x + y \\leq 10 \\)\n- \\( x \\leq 6 \\)\n- \\( y \\leq 7 \\)\n- \\( x \\geq 0 \\), \\( y \\geq 0 \\).\n\nLa solution optimale serait de produire 6 unités de A et 4 unités de B, ce qui donne un profit maximal de \\( 3 \\times 6 + 4 \\times 4 = 30 \\)€.\n\n### Applications :\n- Gestion de la production.\n- Planification des transports.\n- Allocation de ressources.\n- Optimisation financière.\n\nEn résumé, la programmation linéaire aide à prendre des décisions optimales dans des situations où les choix sont limités par des contraintes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:58:45.6969629+02:00",
+  "durationSeconds": 11.31,
+  "stats": "mistral-small3.2:latest · 518 + 554 tokens · 11,3 s",
+  "isError": false,
+  "language": "FR"
+}

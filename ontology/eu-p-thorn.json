@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la présidence de la Commission) : Avocat et ancien Premier ministre du Luxembourg, président de la Commission de 1981 à 1985.",
+  "id": "eu-p-thorn",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Gaston Thorn",
+  "entityType": "PERSON",
+  "description": "Avocat et ancien Premier ministre du Luxembourg, président de la Commission de 1981 à 1985.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-presidents-commission",
+  "sentencesExemples": [
+    "Gaston Thorn est une figure de la présidence de la Commission.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Gaston Thorn.",
+    "Lors du point de presse de midi, une question portait sur Gaston Thorn."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Thorn"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PRESIDENCECOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Gaston%20Thorn"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission Thorn",
+    "nationalité luxembourgeoise",
+    "Parti démocratique (DP)",
+    "Avocat",
+    "Chef de gouvernement",
+    "Président de la Commission européenne",
+    "Présidence de la Commission (Commission Thorn)",
+    "Communication et présidence"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

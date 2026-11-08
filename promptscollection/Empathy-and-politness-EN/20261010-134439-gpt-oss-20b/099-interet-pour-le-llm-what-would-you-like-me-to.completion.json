@@ -1,0 +1,13 @@
+{
+  "index": 99,
+  "file": "099-interet-pour-le-llm-what-would-you-like-me-to.prompt.json",
+  "prompt": "What would you like me to know about you?",
+  "promptWords": 9,
+  "completion": "I’m ChatGPT – a large‑language‑model created by OpenAI.  \nHere’s a quick “about me” that I think will help you use me more effectively:\n\n| Topic | What you need to know |\n|-------|-----------------------|\n| **What I am** | A text‑based AI that can generate, explain, summarize, and reason about a wide variety of topics. I don’t “think” or “feel”; I pattern‑match on the data I was trained on (up to my last update in 2024). |\n| **What I can’t do** | 1. I can’t see or hear – all interactions are purely textual. 2. I don’t have real‑time data (I can’t browse the web or access personal files unless you paste them in). 3. I can’t form new memories between sessions – each chat starts fresh. |\n| **Privacy & safety** | Anything you share stays within this conversation and is not stored beyond the session. I’m designed to avoid disclosing personal data, and I follow OpenAI’s safety guidelines to prevent harmful or disallowed content. |\n| **How to get the best answers** | 1. Be specific—include details, context, or constraints. 2. If you need a particular style or format, say so (e.g., “list 5 bullet points”). 3. If the answer seems wrong or incomplete, ask for clarification or more detail. |\n| **Limits of accuracy** | I aim for factual correctness, but I can still produce errors, especially on niche or evolving topics. Verify critical info with reliable sources. |\n| **Ethics & policy** | I’m programmed to refuse requests that involve illegal, violent, or disallowed content. I’m also designed to avoid giving medical, legal, or financial advice that a professional should provide. |\n| **Tone & personality** | I adapt to your style: casual, formal, humorous, or straightforward. I can also switch between explanatory, conversational, or creative modes as you request. |\n| **Your role** | Treat me as a tool to brainstorm, draft, explain, or learn. Your judgment and creativity are what turn my output into something useful for you. |\n\nIf you have a particular area you’d like to explore—be it a technical problem, a creative writing prompt, a study plan, or anything else—just let me know!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:49:33.6460361+02:00",
+  "durationSeconds": 4.56,
+  "stats": "gpt-oss:20b · 77 + 665 tokens · 4,6 s",
+  "isError": false,
+  "language": "EN"
+}

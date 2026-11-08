@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-agenda-de-la-presidente-de-la-commission",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Agenda de la présidente de la Commission",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "agenda",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "rencontre",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les rencontres et déplacements de la présidente.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "chaque semaine"
+  ],
+  "relatedEntities": [
+    "chefs d'État",
+    "commissaires",
+    "sommets"
+  ],
+  "questions": [
+    "Qui rencontre-t-elle ?",
+    "Quel sujet ?",
+    "Quel résultat ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#AGENDA"
+  ],
+  "events": [
+    "@RENCONTRE"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sebastopol",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "Sébastopol",
+  "entityType": "CITY",
+  "description": "Cité par 4 intels : Statut de la Crimée dans les négociations ; Frappes sur la Crimée ; Drones navals ukrainiens ; Flotte russe de la mer Noire.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre la place de la Crimée dans les discussions de paix.",
+    "Suivre les frappes ukrainiennes sur les installations militaires en Crimée.",
+    "Suivre les attaques de drones navals contre la flotte et les ports russes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Sébastopol",
+  "tags": [
+    "#UKRAINE",
+    "#CRIMEE",
+    "#RUSSIE",
+    "#MARITIME",
+    "#TERRITOIRES",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE",
+    "@ATTAQUE"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!BLOCAGE",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Crimée",
+    "flotte de la mer Noire",
+    "missiles",
+    "drones navals",
+    "Novorossiïsk",
+    "Ukraine",
+    "reconnaissance",
+    "statut",
+    "Russie",
+    "États-Unis"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

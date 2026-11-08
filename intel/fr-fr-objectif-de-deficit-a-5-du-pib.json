@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-objectif-de-deficit-a-5-du-pib",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Objectif de déficit à 5 % du PIB",
+  "includedEntities": [
+    {
+      "entityName": "déficit",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "5 %",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "PIB",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'objectif de déficit public à 5 % du PIB en 2027, contre 5,4 % en 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "Bercy"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Commission européenne",
+    "économies",
+    "croissance"
+  ],
+  "questions": [
+    "L'objectif est-il crédible ?",
+    "Quel dérapage ?",
+    "Quelle révision ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#DEFICIT"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

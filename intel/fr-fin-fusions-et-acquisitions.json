@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-fusions-et-acquisitions",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Fusions et acquisitions",
+  "includedEntities": [
+    {
+      "entityName": "fusion",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "acquisition",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "milliards",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les grandes opérations de fusion et d'acquisition.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "banques d'affaires",
+    "autorités de concurrence",
+    "synergies"
+  ],
+  "questions": [
+    "Quelle opération ?",
+    "Quel montant ?",
+    "Quelle autorisation ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#FUSIONS"
+  ],
+  "events": [
+    "@FUSION"
+  ],
+  "signals": [
+    "!OPERATION"
+  ],
+  "isDeleted": false
+}

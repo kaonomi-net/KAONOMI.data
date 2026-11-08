@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (l'informatique théorique) : Mathématicien et logicien britannique, pionnier de l'informatique théorique.",
+  "id": "ia-turing",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Alan Turing",
+  "entityType": "PERSON",
+  "description": "Mathématicien et logicien britannique, pionnier de l'informatique théorique. En 1950, il propose dans « Computing Machinery and Intelligence » le jeu de l'imitation, devenu le test de Turing.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Alan Turing.",
+    "Les étudiants lisent les articles de Alan Turing pour comprendre l'informatique théorique.",
+    "Sans les idées de Alan Turing, l'histoire de l'informatique théorique aurait été différente."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 3,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Alan Mathison Turing",
+    "père de l'informatique"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#INFORMATIQUETHEORIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Alan%20Turing"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Publication de « Computing Machinery and Intelligence »",
+    "Ada Lovelace"
+  ],
+  "isDeleted": false,
+  "startDate": "1912-06-23T00:00:00",
+  "endDate": "1954-06-07T00:00:00"
+}

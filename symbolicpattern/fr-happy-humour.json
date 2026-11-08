@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-humour",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La capacité à faire rire.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:humour(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dr[ôo]le(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:amusant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:comique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:blague(s)?)(?![\\w-])"
+  ],
+  "symbol": "humour",
+  "event": null,
+  "title": "Humour",
+  "tags": [
+    "#JOIE",
+    "#HUMOUR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

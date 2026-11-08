@@ -1,0 +1,13 @@
+{
+  "index": 14,
+  "file": "034-cuisine-comment-reussir-une-ratatouille.prompt.json",
+  "prompt": "Comment réussir une ratatouille ?",
+  "promptWords": 5,
+  "completion": "La ratatouille est un classique de la cuisine provençale, savoureuse et colorée. Voici une recette traditionnelle pour la réussir à la perfection :\n\n### Ingrédients (pour 4 personnes) :\n- 1 aubergine\n- 2 courgettes\n- 2 poivrons (1 rouge, 1 jaune)\n- 4 tomates bien mûres\n- 1 oignon\n- 2 gousses d'ail\n- 1 branche de thym frais (ou 1 c. à café de thym séché)\n- 1 feuille de laurier\n- Huile d'olive\n- Sel et poivre\n\n### Préparation :\n\n1. **Préparer les légumes** :\n   - Lavez et coupez les aubergines, les courgettes et les poivrons en dés.\n   - Pelez et émincez l'oignon et l'ail.\n   - Plongez les tomates dans l'eau bouillante pendant 1 minute, puis dans l'eau froide. Épluchez-les et coupez-les en dés.\n\n2. **Cuisson des légumes** :\n   - Dans une cocotte ou une sauteuse, faites chauffer un peu d'huile d'olive à feu moyen.\n   - Ajoutez l'oignon et l'ail, faites revenir jusqu'à ce qu'ils soient translucides.\n   - Ajoutez les poivrons et faites-les revenir 5 minutes.\n   - Incorporez les courgettes et les aubergines, puis faites cuire 10 minutes en remuant de temps en temps.\n   - Ajoutez les tomates, le thym, le laurier, salez et poivrez. Mélangez bien.\n\n3. **Mijotage** :\n   - Couvrez et laissez mijoter à feu doux pendant 30 à 40 minutes, en remuant de temps en temps.\n   - Si la ratatouille devient trop sèche, ajoutez un peu d'eau ou de bouillon.\n\n4. **Dégustation** :\n   - Servez chaud ou tiède, accompagné de riz, de pâtes ou de pain frais.\n\n### Conseils pour une ratatouille réussie :\n- Utilisez des légumes frais et de saison pour une meilleure saveur.\n- Ne salez pas trop tôt pour éviter que les aubergines ne rendent trop d'eau.\n- Vous pouvez aussi faire une ratatouille plus esthétique en disposant les légumes en rondelles dans un plat à gratin et en les faisant cuire au four.\n\nBon appétit ! \uD83C\uDF46\uD83E\uDD52\uD83C\uDF45",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:18:57.2180874+02:00",
+  "durationSeconds": 12.27,
+  "stats": "mistral-small3.2:latest · 515 + 574 tokens · 12,3 s",
+  "isError": false,
+  "language": "FR"
+}

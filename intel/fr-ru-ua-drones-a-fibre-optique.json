@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-drones-a-fibre-optique",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Drones à fibre optique",
+  "includedEntities": [
+    {
+      "entityName": "drones",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "fibre optique",
+      "entityWeight": "60"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage des drones guidés par fibre optique, insensibles au brouillage.",
+  "isFuzzy": true,
+  "locations": [
+    "front"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "brouillage",
+    "FPV",
+    "contre-mesures"
+  ],
+  "questions": [
+    "Quelle portée ?",
+    "Quel effet ?",
+    "Quelles parades ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#DRONES",
+    "#INNOVATION"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

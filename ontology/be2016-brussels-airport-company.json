@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation des attentats de Bruxelles de 2016 (l'attentat de l'aéroport) : Société exploitante de l'aéroport de Bruxelles-National.",
+  "id": "be2016-brussels-airport-company",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Brussels Airport Company",
+  "entityType": "ORGANISATION",
+  "description": "Société exploitante de l'aéroport de Bruxelles-National.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-organisations",
+  "sentencesExemples": [
+    "Le rôle de « Brussels Airport Company » a été examiné après les attentats.",
+    "« Brussels Airport Company » apparaît dans la chronologie de l'attentat de l'aéroport.",
+    "Les comptes rendus du procès évoquent « Brussels Airport Company »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "exploitant de l'aéroport"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#ORGANISATION",
+    "#ATTENTATAEROPORT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Brussels%20Airport%20Company"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Aéroport de Bruxelles-National"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

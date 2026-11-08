@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-assemblee-nationale-sans-majorite",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Assemblée nationale sans majorité",
+  "includedEntities": [
+    {
+      "entityName": "Assemblée nationale",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "majorité",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "groupes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les rapports de force dans une Assemblée sans majorité.",
+  "isFuzzy": true,
+  "locations": [
+    "Assemblée nationale"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "groupes parlementaires",
+    "compromis",
+    "votes"
+  ],
+  "questions": [
+    "Quel compromis ?",
+    "Quel groupe est décisif ?",
+    "Quel blocage ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PARLEMENT",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!BLOCAGE"
+  ],
+  "isDeleted": false
+}

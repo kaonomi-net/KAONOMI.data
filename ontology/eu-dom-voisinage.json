@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la politique de voisinage) : Relations avec les voisins orientaux et méridionaux de l'Union.",
+  "id": "eu-dom-voisinage",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Politique de voisinage",
+  "entityType": "DOMAIN",
+  "description": "Relations avec les voisins orientaux et méridionaux de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Politique de voisinage » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Politique de voisinage » passent par le Parlement et le Conseil.",
+    "La conférence portait sur la politique de voisinage."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#POLITIQUEVOISINAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Politique%20de%20voisinage"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Voisinage et élargissement (Commission von der Leyen I)",
+    "Olivér Várhelyi",
+    "Méditerranée (Commission von der Leyen II)",
+    "Dubravka Šuica",
+    "Élargissement (Commission von der Leyen II)",
+    "Marta Kos",
+    "Politique européenne de voisinage et négociations d'élargissement (Commission Juncker)",
+    "Johannes Hahn",
+    "Direction générale de l'élargissement et du voisinage oriental",
+    "Direction générale pour le Moyen-Orient, l'Afrique du Nord et le Golfe",
+    "Instrument de voisinage, de coopération au développement et de coopération internationale",
+    "Facilité pour l'Ukraine"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

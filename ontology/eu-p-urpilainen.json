@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les partenariats internationaux) : Enseignante, ancienne ministre finlandaise des Finances, commissaire aux Partenariats internationaux de 2019 à 2024.",
+  "id": "eu-p-urpilainen",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Jutta Urpilainen",
+  "entityType": "PERSON",
+  "description": "Enseignante, ancienne ministre finlandaise des Finances, commissaire aux Partenariats internationaux de 2019 à 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les manuels sur les institutions européennes citent Jutta Urpilainen.",
+    "Le portrait de Jutta Urpilainen figure dans le dossier consacré aux partenariats internationaux.",
+    "La presse européenne a longuement commenté le parcours de Jutta Urpilainen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Urpilainen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PARTENARIATSINTERNATIONAUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Jutta%20Urpilainen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité finlandaise",
+    "Parti social-démocrate de Finlande",
+    "Enseignant",
+    "Ministre des Finances",
+    "Commissaire européen",
+    "Partenariats internationaux (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Partenariats internationaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

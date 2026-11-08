@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (l'agriculture) : Portefeuille détenu par Janusz Wojciechowski, commissaire, dans la Commission von der Leyen I, du 1er décembre 2019 au 30 novembre 2024.",
+  "id": "eu-pf-vdl1-wojciechowski",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agriculture (Commission von der Leyen I)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Janusz Wojciechowski, commissaire, dans la Commission von der Leyen I, du 1er décembre 2019 au 30 novembre 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Le portefeuille « Agriculture (Commission von der Leyen I) » a marqué la politique européenne de l'agriculture.",
+    "Lors de son audition, le titulaire du portefeuille « Agriculture (Commission von der Leyen I) » a présenté ses priorités.",
+    "Le portefeuille « Agriculture (Commission von der Leyen I) » s'appuie sur plusieurs directions générales."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agriculture%20%28Commission%20von%20der%20Leyen%20I%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Janusz Wojciechowski",
+    "Commission von der Leyen I",
+    "Commissaire européen",
+    "Agriculture"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-12-01T00:00:00",
+  "endDate": "2024-11-30T00:00:00"
+}

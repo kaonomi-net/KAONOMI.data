@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la vie politique européenne) : Ancien libraire et maire de Würselen, président du Parlement européen de 2012 à 2017.",
+  "id": "eu-p-schulz",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Martin Schulz",
+  "entityType": "PERSON",
+  "description": "Ancien libraire et maire de Würselen, président du Parlement européen de 2012 à 2017.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-dirigeants",
+  "sentencesExemples": [
+    "Le portrait de Martin Schulz figure dans le dossier consacré à la vie politique européenne.",
+    "La presse européenne a longuement commenté le parcours de Martin Schulz.",
+    "Les manuels sur les institutions européennes citent Martin Schulz."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Schulz"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#VIEPOLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Martin%20Schulz"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité allemande",
+    "Parti social-démocrate (SPD)",
+    "Libraire",
+    "Maire",
+    "Président du Parlement européen",
+    "Parlement européen",
+    "Prix Nobel de la paix décerné à l'Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

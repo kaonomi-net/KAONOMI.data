@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-souiller",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Salir moralement.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:souiller)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souill(e|ent|ait|ure\\s+morale)|salir\\s+(la|sa|leur)\\s+m[ée]moire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:entacher)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]clabouss[ée](e|s|es)?\\s+par\\s+le\\s+scandale)(?![\\w-])"
+  ],
+  "symbol": "souiller",
+  "event": null,
+  "title": "Souiller",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

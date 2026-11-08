@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-neurones",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "neurones",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Interprétabilité des réseaux de neurones ; Neurosciences et cerveau ; Plasticité cérébrale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la recherche pour comprendre le fonctionnement interne des modèles.",
+    "Suivre les découvertes en neurosciences.",
+    "Suivre les études sur la plasticité du cerveau."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "neurones",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#NEUROSCIENCES",
+    "#IA",
+    "#RECHERCHE",
+    "#INTERPRETABILITE"
+  ],
+  "events": [
+    "@PUBLICATION",
+    "@DECOUVERTE"
+  ],
+  "signals": [
+    "!SCIENCE",
+    "!RECHERCHE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "réseaux de neurones",
+    "interprétabilité",
+    "Anthropic",
+    "explicabilité",
+    "études",
+    "imagerie",
+    "cerveau",
+    "neurosciences",
+    "apprentissage",
+    "plasticité cérébrale"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

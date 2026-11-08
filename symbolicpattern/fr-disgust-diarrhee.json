@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-diarrhee",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Des selles liquides et fréquentes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:diarrh[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chiasse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:courante(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gastro(-ent[ée]rite)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:turista)(?![\\w-])"
+  ],
+  "symbol": "diarrhée",
+  "event": null,
+  "title": "Diarrhée",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

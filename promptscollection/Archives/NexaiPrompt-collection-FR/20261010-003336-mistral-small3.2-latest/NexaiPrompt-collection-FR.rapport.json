@@ -1,0 +1,147 @@
+{
+  "collection": "NexaiPrompt-collection-FR",
+  "collectionFolder": "N:\\promptscollection\\NexaiPrompt-collection-FR",
+  "model": "mistral-small3.2:latest",
+  "language": "FR",
+  "date": "2026-10-10T00:33:36.9113923+02:00",
+  "endDate": "2026-10-10T00:37:00.7850762+02:00",
+  "executionTimeSeconds": 203.9,
+  "executionTime": "00:03:23",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "promptCount": 1000,
+  "sentCount": 18,
+  "skippedCount": 0,
+  "stopped": true,
+  "totalPromptWords": 10350,
+  "topicsSummary": "Not generated: the run was stopped with Esc.",
+  "topics": [],
+  "items": [
+    {
+      "index": 1,
+      "file": "0001-architecture-entreprise-qu-est-ce-que-l-architecture.prompt.json",
+      "prompt": "Qu'est-ce que l'architecture d'entreprise et à quoi sert-elle ?",
+      "promptWords": 9,
+      "completionFile": "001-0001-architecture-entreprise-qu-est-ce-que-l-architecture.completion.json"
+    },
+    {
+      "index": 2,
+      "file": "0002-architecture-entreprise-quelle-est-la-difference-entre-architecture.prompt.json",
+      "prompt": "Quelle est la différence entre architecture d'entreprise, architecture de solution et architecture technique ?",
+      "promptWords": 14,
+      "completionFile": "002-0002-architecture-entreprise-quelle-est-la-difference-entre-architecture.completion.json"
+    },
+    {
+      "index": 3,
+      "file": "0003-architecture-entreprise-qu-est-ce-que-le-framework.prompt.json",
+      "prompt": "Qu'est-ce que le framework TOGAF et comment l'appliquer ?",
+      "promptWords": 9,
+      "completionFile": "003-0003-architecture-entreprise-qu-est-ce-que-le-framework.completion.json"
+    },
+    {
+      "index": 4,
+      "file": "0004-architecture-entreprise-quelles-sont-les-phases-de-l.prompt.json",
+      "prompt": "Quelles sont les phases de l'ADM de TOGAF ?",
+      "promptWords": 9,
+      "completionFile": "004-0004-architecture-entreprise-quelles-sont-les-phases-de-l.completion.json"
+    },
+    {
+      "index": 5,
+      "file": "0005-architecture-entreprise-qu-est-ce-que-le-langage.prompt.json",
+      "prompt": "Qu'est-ce que le langage ArchiMate et quels sont ses principaux éléments ?",
+      "promptWords": 12,
+      "completionFile": "005-0005-architecture-entreprise-qu-est-ce-que-le-langage.completion.json"
+    },
+    {
+      "index": 6,
+      "file": "0006-architecture-entreprise-qu-est-ce-que-le-framework.prompt.json",
+      "prompt": "Qu'est-ce que le framework de Zachman ?",
+      "promptWords": 7,
+      "completionFile": "006-0006-architecture-entreprise-qu-est-ce-que-le-framework.completion.json"
+    },
+    {
+      "index": 7,
+      "file": "0007-architecture-entreprise-comment-realiser-une-cartographie-du-systeme.prompt.json",
+      "prompt": "Comment réaliser une cartographie du système d'information ?",
+      "promptWords": 8,
+      "completionFile": "007-0007-architecture-entreprise-comment-realiser-une-cartographie-du-systeme.completion.json"
+    },
+    {
+      "index": 8,
+      "file": "0008-architecture-entreprise-comment-construire-une-cartographie-des-capacites.prompt.json",
+      "prompt": "Comment construire une cartographie des capacités métier (business capability map) ?",
+      "promptWords": 11,
+      "completionFile": "008-0008-architecture-entreprise-comment-construire-une-cartographie-des-capacites.completion.json"
+    },
+    {
+      "index": 9,
+      "file": "0009-architecture-entreprise-quel-est-le-role-d-un.prompt.json",
+      "prompt": "Quel est le rôle d'un architecte d'entreprise dans une organisation ?",
+      "promptWords": 11,
+      "completionFile": "009-0009-architecture-entreprise-quel-est-le-role-d-un.completion.json"
+    },
+    {
+      "index": 10,
+      "file": "0010-architecture-entreprise-comment-aligner-le-systeme-d-information.prompt.json",
+      "prompt": "Comment aligner le système d'information sur la stratégie de l'entreprise ?",
+      "promptWords": 11,
+      "completionFile": "010-0010-architecture-entreprise-comment-aligner-le-systeme-d-information.completion.json"
+    },
+    {
+      "index": 11,
+      "file": "0011-architecture-entreprise-comment-rationaliser-un-portefeuille-applicatif.prompt.json",
+      "prompt": "Comment rationaliser un portefeuille applicatif ?",
+      "promptWords": 6,
+      "completionFile": "011-0011-architecture-entreprise-comment-rationaliser-un-portefeuille-applicatif.completion.json"
+    },
+    {
+      "index": 12,
+      "file": "0012-architecture-entreprise-qu-est-ce-qu-une-architecture.prompt.json",
+      "prompt": "Qu'est-ce qu'une architecture orientée services (SOA) ?",
+      "promptWords": 7,
+      "completionFile": "012-0012-architecture-entreprise-qu-est-ce-qu-une-architecture.completion.json"
+    },
+    {
+      "index": 13,
+      "file": "0013-architecture-entreprise-quelle-est-la-difference-entre-soa.prompt.json",
+      "prompt": "Quelle est la différence entre SOA et microservices ?",
+      "promptWords": 9,
+      "completionFile": "013-0013-architecture-entreprise-quelle-est-la-difference-entre-soa.completion.json"
+    },
+    {
+      "index": 14,
+      "file": "0014-architecture-entreprise-qu-est-ce-qu-une-architecture.prompt.json",
+      "prompt": "Qu'est-ce qu'une architecture pilotée par les événements (event-driven) ?",
+      "promptWords": 9,
+      "completionFile": "014-0014-architecture-entreprise-qu-est-ce-qu-une-architecture.completion.json"
+    },
+    {
+      "index": 15,
+      "file": "0015-architecture-entreprise-comment-gerer-la-dette-technique-a.prompt.json",
+      "prompt": "Comment gérer la dette technique à l'échelle de l'entreprise ?",
+      "promptWords": 10,
+      "completionFile": "015-0015-architecture-entreprise-comment-gerer-la-dette-technique-a.completion.json"
+    },
+    {
+      "index": 16,
+      "file": "0016-architecture-entreprise-qu-est-ce-que-l-urbanisation.prompt.json",
+      "prompt": "Qu'est-ce que l'urbanisation du système d'information ?",
+      "promptWords": 7,
+      "completionFile": "016-0016-architecture-entreprise-qu-est-ce-que-l-urbanisation.completion.json"
+    },
+    {
+      "index": 17,
+      "file": "0017-architecture-entreprise-comment-mettre-en-place-une-gouvernance.prompt.json",
+      "prompt": "Comment mettre en place une gouvernance de l'architecture ?",
+      "promptWords": 9,
+      "completionFile": "017-0017-architecture-entreprise-comment-mettre-en-place-une-gouvernance.completion.json"
+    },
+    {
+      "index": 18,
+      "file": "0018-architecture-entreprise-qu-est-ce-qu-un-comite.prompt.json",
+      "prompt": "Qu'est-ce qu'un comité d'architecture et comment le faire fonctionner ?",
+      "promptWords": 10,
+      "completionFile": "018-0018-architecture-entreprise-qu-est-ce-qu-un-comite.completion.json"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "index": 332,
+  "file": "0332-ia-llm-explique-le-rlhf-de-facon-simple.prompt.json",
+  "prompt": "Explique le RLHF de façon simple.",
+  "promptWords": 6,
+  "completion": "Le RLHF, ou *Reinforcement Learning from Human Feedback* (Apprentissage par Renforcement à partir de Retours Humains), est une méthode utilisée pour améliorer les modèles d'IA, comme les assistants conversationnels.\n\nVoici une explication simple :\n\n1. **L'IA apprend d'abord de base** : Un modèle est entraîné sur un grand nombre de données pour comprendre comment répondre aux questions ou générer du texte.\n\n2. **Des humains donnent leur avis** : Des évaluateurs humains comparent différentes réponses générées par l'IA et indiquent laquelle est la meilleure (ou notent leur qualité).\n\n3. **L'IA s'améliore avec ces retours** : Le modèle utilise ces évaluations pour ajuster ses réponses et devenir plus précis ou plus utile.\n\nEn résumé, le RLHF permet à l'IA d'apprendre directement des préférences humaines, ce qui la rend plus alignée avec ce que les gens attendent.\n\nTu veux des détails sur un aspect en particulier ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:25:39.2087555+02:00",
+  "durationSeconds": 4.42,
+  "stats": "mistral-small3.2:latest · 516 + 213 tokens · 4,4 s",
+  "isError": false,
+  "language": "FR"
+}

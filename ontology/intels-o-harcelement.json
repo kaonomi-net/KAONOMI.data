@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-harcelement",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "harcèlement",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : Psychologues en milieu scolaire belge ; Management toxique ; Psychologie de la haine en ligne ; Suicide et harcèlement.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les centres psycho-médico-sociaux et le soutien psychologique aux élèves.",
+    "Suivre les dérives managériales et leurs effets psychologiques.",
+    "Suivre les recherches sur la haine en ligne."
+  ],
+  "angryLevel": null,
+  "sadLevel": 25,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "harcèlement",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BELGIQUE",
+    "#ECOLE",
+    "#TRAVAIL",
+    "#MANAGEMENT",
+    "#NUMERIQUE"
+  ],
+  "events": [
+    "@AFFAIRE"
+  ],
+  "signals": [
+    "!VIOLENCE",
+    "!SANTE-MENTALE",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "moyens",
+    "élèves",
+    "centres PMS",
+    "Fédération Wallonie-Bruxelles",
+    "turnover",
+    "procès",
+    "management toxique",
+    "souffrance",
+    "modération",
+    "victimes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

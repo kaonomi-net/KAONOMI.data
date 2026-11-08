@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyber-resilience-act",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyber Resilience Act",
+  "includedEntities": [
+    {
+      "entityName": "Cyber Resilience Act",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "produits",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la mise en œuvre du règlement européen sur la cyberrésilience des produits.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [
+    "septembre 2026 et décembre 2027"
+  ],
+  "relatedEntities": [
+    "signalement des vulnérabilités",
+    "fabricants",
+    "marquage CE"
+  ],
+  "questions": [
+    "Quelle obligation ?",
+    "Quel calendrier ?",
+    "Quelles normes ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#REGULATION",
+    "#CRA"
+  ],
+  "events": [
+    "@ECHEANCE-REGLEMENTAIRE"
+  ],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

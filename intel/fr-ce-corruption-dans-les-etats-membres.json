@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-corruption-dans-les-etats-membres",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Corruption dans les États membres",
+  "includedEntities": [
+    {
+      "entityName": "corruption",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "directive anticorruption",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la lutte européenne contre la corruption.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Parquet européen",
+    "directive",
+    "États membres"
+  ],
+  "questions": [
+    "Quelle affaire ?",
+    "Quelle directive ?",
+    "Quelle sanction ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CORRUPTION"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

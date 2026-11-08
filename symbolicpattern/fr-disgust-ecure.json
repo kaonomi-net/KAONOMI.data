@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-ecure",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Dégoûté au point d'abandonner.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]c(œ|oe)ur[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]c(œ|oe)ur[ée](e|s|es)?\\s+par)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ras-le-bol)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]go[ûu]t[ée](e|s|es)?\\s+de\\s+tout)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:j['’]en\\s+ai\\s+marre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:la\\s+naus[ée]e\\s+de\\s+tout)(?![\\w-])"
+  ],
+  "symbol": "écœuré",
+  "event": null,
+  "title": "Écœuré",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

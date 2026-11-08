@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (la théorie de l'information) : Ingénieur et mathématicien américain, père de la théorie de l'information (1948).",
+  "id": "ia-shannon",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Claude Shannon",
+  "entityType": "PERSON",
+  "description": "Ingénieur et mathématicien américain, père de la théorie de l'information (1948). Il a co-organisé la conférence de Dartmouth et construit des machines ludiques comme la souris Thésée.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les articles de Claude Shannon pour comprendre la théorie de l'information.",
+    "Sans les idées de Claude Shannon, l'histoire de la théorie de l'information aurait été différente.",
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Claude Shannon."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Claude Elwood Shannon"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#THEORIEINFORMATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Claude%20Shannon"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conférence de Dartmouth"
+  ],
+  "isDeleted": false,
+  "startDate": "1916-04-30T00:00:00",
+  "endDate": "2001-02-24T00:00:00"
+}

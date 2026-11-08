@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-paquets-omnibus-de-simplification",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Paquets omnibus de simplification",
+  "includedEntities": [
+    {
+      "entityName": "omnibus",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "simplification",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les paquets de simplification de la législation européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "entreprises",
+    "charges administratives",
+    "Parlement"
+  ],
+  "questions": [
+    "Quel paquet ?",
+    "Quelles règles allégées ?",
+    "Quel gain annoncé ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SIMPLIFICATION"
+  ],
+  "events": [],
+  "signals": [
+    "!SIMPLIFICATION"
+  ],
+  "isDeleted": false
+}

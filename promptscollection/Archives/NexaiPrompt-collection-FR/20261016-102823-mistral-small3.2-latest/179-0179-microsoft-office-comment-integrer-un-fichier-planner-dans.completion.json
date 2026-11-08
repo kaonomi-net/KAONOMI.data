@@ -1,0 +1,13 @@
+{
+  "index": 179,
+  "file": "0179-microsoft-office-comment-integrer-un-fichier-planner-dans.prompt.json",
+  "prompt": "Comment intégrer un fichier Planner dans Teams ?",
+  "promptWords": 8,
+  "completion": "Pour intégrer un fichier Planner dans Microsoft Teams, voici les étapes à suivre :\n\n1. **Ouvrir Microsoft Teams** : Connectez-vous à votre compte Microsoft Teams.\n\n2. **Accéder à l'équipe ou au canal approprié** : Sélectionnez l'équipe et le canal où vous souhaitez ajouter le plan Planner.\n\n3. **Ajouter une application** :\n   - Cliquez sur l'icône \"...\" (trois points) à côté du nom du canal.\n   - Sélectionnez \"Gérer les applications\".\n   - Recherchez \"Planner\" dans la barre de recherche.\n   - Cliquez sur \"Ajouter\" pour ajouter l'application Planner à votre canal.\n\n4. **Créer ou ajouter un plan** :\n   - Une fois l'application Planner ajoutée, vous pouvez créer un nouveau plan ou ajouter un plan existant.\n   - Pour créer un nouveau plan, cliquez sur \"Créer un plan\".\n   - Pour ajouter un plan existant, cliquez sur \"Ajouter un plan existant\" et sélectionnez le plan souhaité.\n\n5. **Configurer les paramètres** : Vous pouvez configurer les paramètres du plan, comme les membres de l'équipe qui auront accès au plan.\n\n6. **Enregistrer et publier** : Une fois les paramètres configurés, enregistrez et publiez le plan dans le canal Teams.\n\nSi vous avez des difficultés à trouver l'application Planner ou à suivre ces étapes, assurez-vous que votre organisation utilise Microsoft Planner et que vous avez les autorisations nécessaires pour ajouter des applications à Teams.\n\nSi vous avez besoin d'informations plus spécifiques ou d'une assistance supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:00:03.7202458+02:00",
+  "durationSeconds": 7.32,
+  "stats": "mistral-small3.2:latest · 517 + 359 tokens · 7,3 s",
+  "isError": false,
+  "language": "FR"
+}

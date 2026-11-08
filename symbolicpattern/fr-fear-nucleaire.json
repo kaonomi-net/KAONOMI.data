@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-nucleaire",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'énergie et l'arme atomiques.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:nucl[ée]aire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:menace\\s+nucl[ée]aire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guerre\\s+nucl[ée]aire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arme(s)?\\s+nucl[ée]aire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hiver\\s+nucl[ée]aire)(?![\\w-])"
+  ],
+  "symbol": "nucléaire",
+  "event": null,
+  "title": "Nucléaire",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

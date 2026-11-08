@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-mercosur",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "Mercosur",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 14 intels : Accord entre l'Union européenne et le Mercosur ; Couple franco-allemand ; Accord avec le Mercosur ; Agriculteurs en colère ; Motion de censure de janvier 2026 ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre la ratification de l'accord commercial entre l'Union européenne et le Mercosur.",
+    "Suivre la relation entre Paris et Berlin.",
+    "Suivre la position française sur l'accord UE-Mercosur."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Mercosur",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MERCOSUR",
+    "#COMMERCE",
+    "#FRANCE",
+    "#AGRICULTURE",
+    "#ALLEMAGNE"
+  ],
+  "events": [
+    "@MOBILISATION",
+    "@RATIFICATION",
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!TENSION-COMMERCIALE",
+    "!TENSION",
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "agriculteurs",
+    "Bruxelles",
+    "France",
+    "Strasbourg",
+    "Paris",
+    "Cour de justice",
+    "Brasilia",
+    "défense",
+    "Friedrich Merz",
+    "Allemagne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

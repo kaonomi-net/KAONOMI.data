@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-softbank",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "SoftBank",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Valorisation record d'OpenAI ; ARM.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Surveiller la valorisation d'OpenAI et ses tours de financement.",
+    "Suivre l'action ARM et ses puces pour l'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "SoftBank",
+  "tags": [
+    "#IA",
+    "#FINANCEMENT",
+    "#OPENAI",
+    "#BOURSE",
+    "#SEMI-CONDUCTEURS"
+  ],
+  "events": [
+    "@LEVEE-DE-FONDS"
+  ],
+  "signals": [
+    "!BULLE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OpenAI",
+    "Sam Altman",
+    "San Francisco",
+    "Microsoft",
+    "valorisation",
+    "Cambridge",
+    "licences",
+    "ARM",
+    "architecture",
+    "centres de données"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

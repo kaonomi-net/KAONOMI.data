@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-intox",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La manipulation de l'opinion.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:propagande(s)?\\s+(abjecte|naus[ée]abonde)(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bourrage\\s+de\\s+cr[âa]ne)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:intox)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:discours\\s+naus[ée]abond(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:relent(s)?\\s+(raciste|fasciste)(s)?)(?![\\w-])"
+  ],
+  "symbol": "intox",
+  "event": null,
+  "title": "Intox",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

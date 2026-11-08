@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-equipements-en-bordure-de-reseau",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Équipements en bordure de réseau",
+  "includedEntities": [
+    {
+      "entityName": "VPN",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "pare-feu",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "équipements exposés",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques contre les VPN, pare-feu et passerelles exposés.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Ivanti",
+    "Fortinet",
+    "Cisco"
+  ],
+  "questions": [
+    "Quel équipement ?",
+    "Quelle faille ?",
+    "Quelle campagne ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#RESEAU"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

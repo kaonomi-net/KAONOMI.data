@@ -1,0 +1,13 @@
+{
+  "index": 762,
+  "file": "0762-csharp-explique-les-tuples-en-c-avec.prompt.json",
+  "prompt": "Explique les tuples en C# avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "En C#, un tuple est une structure de données qui permet de regrouper plusieurs valeurs de types différents dans une seule variable. Les tuples sont particulièrement utiles lorsque vous souhaitez retourner plusieurs valeurs d'une méthode sans avoir à créer une classe ou une structure dédiée.\n\n### Déclaration d'un tuple\nVous pouvez déclarer un tuple en utilisant la syntaxe `(type1, type2, ..., typeN)`. Chaque élément du tuple peut avoir un nom optionnel pour faciliter l'accès aux valeurs.\n\n### Exemple simple\nVoici un exemple simple qui montre comment utiliser un tuple en C# :\n\n```csharp\nusing System;\n\nclass Program\n{\n    static void Main()\n    {\n        // Déclaration et initialisation d'un tuple\n        var personne = (Nom: \"Dupont\", Age: 30, Ville: \"Paris\");\n\n        // Accès aux éléments du tuple par nom\n        Console.WriteLine($\"Nom: {personne.Nom}\");\n        Console.WriteLine($\"Âge: {personne.Age}\");\n        Console.WriteLine($\"Ville: {personne.Ville}\");\n\n        // Déclaration et initialisation d'un tuple sans noms\n        var coordonnées = (10, 20);\n        Console.WriteLine($\"X: {coordonnées.Item1}, Y: {coordonnées.Item2}\");\n    }\n}\n```\n\n### Exemple avec une méthode retournant un tuple\nVoici un exemple où une méthode retourne un tuple :\n\n```csharp\nusing System;\n\nclass Program\n{\n    static (string Nom, int Age) GetPersonne()\n    {\n        return (Nom: \"Martin\", Age: 25);\n    }\n\n    static void Main()\n    {\n        var personne = GetPersonne();\n        Console.WriteLine($\"Nom: {personne.Nom}, Âge: {personne.Age}\");\n    }\n}\n```\n\n### Points clés à retenir\n1. **Noms des éléments** : Vous pouvez donner des noms aux éléments du tuple pour les rendre plus lisibles et faciles à utiliser.\n2. **Accès aux éléments** : Vous pouvez accéder aux éléments du tuple soit par leur nom (si vous en avez défini), soit par leur position (`Item1`, `Item2`, etc.).\n3. **Utilité** : Les tuples sont très utiles pour retourner plusieurs valeurs d'une méthode sans avoir à créer une classe ou une structure dédiée.\n\nLes tuples sont une fonctionnalité puissante et flexible en C#, surtout pour les cas où vous avez besoin de regrouper temporairement des données de types différents.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:05:21.6090708+02:00",
+  "durationSeconds": 10.46,
+  "stats": "mistral-small3.2:latest · 519 + 525 tokens · 10,5 s",
+  "isError": false,
+  "language": "FR"
+}

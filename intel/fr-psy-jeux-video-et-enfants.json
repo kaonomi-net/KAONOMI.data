@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-jeux-video-et-enfants",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Jeux vidéo et enfants",
+  "includedEntities": [
+    {
+      "entityName": "jeux vidéo",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "enfants",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études sur les jeux vidéo et le développement.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "temps d'écran",
+    "agressivité",
+    "bénéfices"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel effet ?",
+    "Quel débat ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ENFANCE",
+    "#JEUX-VIDEO"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

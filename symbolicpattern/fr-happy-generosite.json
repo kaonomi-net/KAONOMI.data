@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-generosite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de donner volontiers.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:g[ée]n[ée]rosit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:g[ée]n[ée]reu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:don(s)?\\s+de\\s+soi)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:c(œ|oe)ur\\s+sur\\s+la\\s+main)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:largesse(s)?)(?![\\w-])"
+  ],
+  "symbol": "générosité",
+  "event": null,
+  "title": "Générosité",
+  "tags": [
+    "#AMITIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

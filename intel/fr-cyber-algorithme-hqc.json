@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-algorithme-hqc",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Algorithme HQC",
+  "includedEntities": [
+    {
+      "entityName": "HQC",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "chiffrement",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la normalisation de l'algorithme HQC, cinquième algorithme post-quantique du NIST.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "codes correcteurs",
+    "norme",
+    "ML-KEM"
+  ],
+  "questions": [
+    "Quel calendrier ?",
+    "Quelle norme ?",
+    "Quel usage ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#POST-QUANTIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "isDeleted": false
+}

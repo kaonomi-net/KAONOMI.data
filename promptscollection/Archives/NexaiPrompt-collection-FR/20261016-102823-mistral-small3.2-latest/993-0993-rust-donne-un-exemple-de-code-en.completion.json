@@ -1,0 +1,13 @@
+{
+  "index": 993,
+  "file": "0993-rust-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Rust qui illustre les lifetimes.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en Rust qui illustre l'utilisation des lifetimes. Les lifetimes sont un concept clé en Rust pour gérer la durée de vie des références et éviter les problèmes de mémoire comme les pointeurs pendants (dangling pointers).\n\n```rust\n// Définition d'une fonction qui prend deux références et retourne la référence\n// avec la durée de vie la plus longue\nfn longest<'a>(x: &'a str, y: &'a str) -> &'a str {\n    if x.len() > y.len() {\n        x\n    } else {\n        y\n    }\n}\n\nfn main() {\n    let string1 = String::from(\"long string is long\");\n    let result;\n    {\n        let string2 = String::from(\"xy\");\n        result = longest(string1.as_str(), string2.as_str());\n        println!(\"The longest string is {}\", result);\n    }\n    // Ici, string2 n'est plus valide, mais result pointe toujours vers string1\n    println!(\"The longest string is {}\", result);\n}\n```\n\nExplications :\n1. La fonction `longest` prend deux références de type `&str` et retourne une référence vers le plus long des deux.\n2. Le lifetime `'a` est utilisé pour indiquer que la référence retournée ne vivra pas plus longtemps que les références d'entrée.\n3. Dans `main`, nous créons deux chaînes, mais `string2` est dans un bloc qui se termine avant la fin de `main`.\n4. La fonction `longest` retourne une référence vers `string1` (car c'est la plus longue), et cette référence est valide même après que `string2` ait été détruit.\n\nCet exemple montre comment les lifetimes permettent au compilateur Rust de vérifier que toutes les références sont valides pendant toute la durée de leur utilisation.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T14:04:01.6725387+02:00",
+  "durationSeconds": 7.85,
+  "stats": "mistral-small3.2:latest · 523 + 389 tokens · 7,8 s",
+  "isError": false,
+  "language": "FR"
+}

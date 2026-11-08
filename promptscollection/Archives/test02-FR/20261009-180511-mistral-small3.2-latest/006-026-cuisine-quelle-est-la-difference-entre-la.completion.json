@@ -1,0 +1,13 @@
+{
+  "index": 6,
+  "file": "026-cuisine-quelle-est-la-difference-entre-la.prompt.json",
+  "prompt": "Quelle est la différence entre la levure chimique et la levure de boulanger ?",
+  "promptWords": 14,
+  "completion": "La levure chimique et la levure de boulanger sont deux ingrédients utilisés en cuisine pour faire lever les pâtes, mais elles fonctionnent de manière très différente. Voici les principales différences :\n\n### **1. Nature et composition**\n- **Levure de boulanger** : C'est un organisme vivant, un champignon unicellulaire (Saccharomyces cerevisiae), qui produit du gaz (dioxyde de carbone) par fermentation en consommant les sucres de la pâte.\n- **Levure chimique** : C'est un mélange de poudre (souvent du bicarbonate de soude, de l'acide tartrique et de l'amidon) qui réagit chimiquement au contact d'un liquide et de la chaleur pour produire du gaz.\n\n### **2. Utilisation**\n- **Levure de boulanger** : Utilisée principalement pour les pâtes à pain, les viennoiseries et les pâtes à pizza. Elle nécessite un temps de repos (pétrissage et repos) pour agir.\n- **Levure chimique** : Utilisée pour les gâteaux, biscuits, crêpes et autres préparations où une levée rapide est souhaitée. Elle agit immédiatement et ne nécessite pas de temps de repos.\n\n### **3. Temps d'action**\n- **Levure de boulanger** : Agit lentement (plusieurs heures, voire une nuit pour certaines recettes).\n- **Levure chimique** : Agit rapidement (quelques minutes après mélange avec les autres ingrédients).\n\n### **4. Conservation**\n- **Levure de boulanger** : Se conserve au réfrigérateur (sous forme fraîche) ou à température ambiante (sèche). Elle peut perdre de son efficacité avec le temps.\n- **Levure chimique** : Se conserve à température ambiante dans un endroit sec. Une fois ouverte, elle doit être utilisée rapidement.\n\n### **5. Remplacement possible ?**\n- **Non**, elles ne sont pas interchangeables. La levure de boulanger ne peut pas remplacer la levure chimique et vice versa, car leurs mécanismes d'action sont différents.\n\nEn résumé, la **levure de boulanger** est idéale pour les pâtes fermentées, tandis que la **levure chimique** est parfaite pour les préparations rapides nécessitant une levée immédiate.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T18:06:14.1524532+02:00",
+  "durationSeconds": 11.02,
+  "stats": "mistral-small3.2:latest · 526 + 502 tokens · 11,0 s",
+  "isError": false,
+  "language": "FR"
+}

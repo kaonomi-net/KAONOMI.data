@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-croupi",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Corrompu par la stagnation.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:croupi(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:croupissant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crouppir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:eau(x)?\\s+stagnante(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:eau(x)?\\s+croupie(s)?)(?![\\w-])"
+  ],
+  "symbol": "croupi",
+  "event": null,
+  "title": "Croupi",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

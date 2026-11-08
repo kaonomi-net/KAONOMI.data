@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Tisztelet és Szabadság Párt, parti ou liste de ce pays : Hongrie, qui compte 7 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-hu-tisztelet-es-szabadsag-part",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Tisztelet és Szabadság Párt",
+  "entityType": "ORGANISATION",
+  "description": "Tisztelet és Szabadság Párt, parti ou liste de ce pays : Hongrie, qui compte 7 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "La presse a commenté le score de « Tisztelet és Szabadság Párt » aux élections européennes.",
+    "Les positions de « Tisztelet és Szabadság Párt » sont suivies à Bruxelles et à Strasbourg.",
+    "« Tisztelet és Szabadság Párt » compte des élus au Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Tisztelet%20%C3%A9s%20Szabads%C3%A1g%20P%C3%A1rt"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Csaba Bogdán",
+    "Dóra Dávid",
+    "Gabriella Gerzsenyi",
+    "Kinga Kollár",
+    "András Tivadar Kulja",
+    "Eszter Lakos",
+    "Viktor Weisz",
+    "Hongrie",
+    "Parti populaire européen (PPE)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

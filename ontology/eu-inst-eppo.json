@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la lutte antifraude) : Parquet indépendant de l'Union, compétent pour les infractions portant atteinte au budget de l'Union, opérationnel depuis 2021.",
+  "id": "eu-inst-eppo",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parquet européen",
+  "entityType": "ORGANISATION",
+  "description": "Parquet indépendant de l'Union, compétent pour les infractions portant atteinte au budget de l'Union, opérationnel depuis 2021.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-institutions",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Parquet européen ».",
+    "« Parquet européen » joue un rôle dans la lutte antifraude.",
+    "Les fonctionnaires de « Parquet européen » préparent les textes relatifs à la lutte antifraude."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EPPO"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#LUTTEANTIFRAUDE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parquet%20europ%C3%A9en"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Luxembourg",
+    "Union européenne",
+    "Lutte antifraude",
+    "Justice"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

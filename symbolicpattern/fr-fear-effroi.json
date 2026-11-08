@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-effroi",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La peur qui fait fuir devant un danger.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:effroi(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fuir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s['’]enfuir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:courir\\s+se\\s+cacher)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prendre\\s+la\\s+fuite)(?![\\w-])"
+  ],
+  "symbol": "effroi",
+  "event": null,
+  "title": "Effroi",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

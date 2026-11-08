@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (le traitement du langage) : Informaticien germano-américain du MIT, auteur du programme conversationnel ELIZA (1966), puis critique de l'usage de l'informatique dans « Computer Power and Human Reason ».",
+  "id": "ia-weizenbaum",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Joseph Weizenbaum",
+  "entityType": "PERSON",
+  "description": "Informaticien germano-américain du MIT, auteur du programme conversationnel ELIZA (1966), puis critique de l'usage de l'informatique dans « Computer Power and Human Reason ».",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les articles de Joseph Weizenbaum pour comprendre le traitement du langage.",
+    "Sans les idées de Joseph Weizenbaum, l'histoire du traitement du langage aurait été différente.",
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Joseph Weizenbaum."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 1,
+  "happyLevel": 1,
+  "fearLevel": 1,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "J. Weizenbaum"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#TRAITEMENTLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Joseph%20Weizenbaum"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ELIZA"
+  ],
+  "isDeleted": false,
+  "startDate": "1923-01-08T00:00:00",
+  "endDate": "2008-03-05T00:00:00"
+}

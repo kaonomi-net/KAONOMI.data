@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (la sécurité RFID) : Outil libre d'analyse et d'émulation des cartes RFID et NFC.",
+  "id": "cyber-proxmark",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Proxmark3",
+  "entityType": "HARDWARE",
+  "description": "Outil libre d'analyse et d'émulation des cartes RFID et NFC.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Proxmark3 a marqué l'histoire du matériel consacré à la sécurité RFID.",
+    "La fiche technique de Proxmark3 détaille ses caractéristiques de sécurité.",
+    "Pour cet audit, l'équipe a comparé Proxmark3 à d'autres solutions matérielles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Proxmark"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#SECURITERFID"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Proxmark3"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Flipper Zero"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

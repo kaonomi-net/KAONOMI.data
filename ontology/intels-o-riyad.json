@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-riyad",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "Riyad",
+  "entityType": "CITY",
+  "description": "Cité par 4 intels : Négociations de paix entre la Russie et l'Ukraine ; Normalisation entre Israël et l'Arabie saoudite ; Décision de l'OPEP+ ; Macron au Moyen-Orient.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les pourparlers et propositions de cessez-le-feu entre la Russie et l'Ukraine.",
+    "Suivre les discussions de normalisation diplomatique.",
+    "Suivre les décisions de production des pays exportateurs de pétrole."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Riyad",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#DIPLOMATIE",
+    "#MOYEN-ORIENT",
+    "#UKRAINE",
+    "#RUSSIE",
+    "#ENERGIE"
+  ],
+  "events": [
+    "@NEGOCIATIONS",
+    "@DECISION-OPEP"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!DESESCALADE",
+    "!PRIX-ENERGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Russie",
+    "États-Unis",
+    "Jérusalem",
+    "Arabie saoudite",
+    "négociations",
+    "Ukraine",
+    "Istanbul",
+    "médiateurs",
+    "Genève",
+    "Turquie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

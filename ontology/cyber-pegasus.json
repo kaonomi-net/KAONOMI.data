@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (la surveillance) : Logiciel espion de la société NSO Group capable de prendre le contrôle d'un téléphone, parfois sans aucune action de l'utilisateur.",
+  "id": "cyber-pegasus",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Pegasus",
+  "entityType": "SOFTWARE",
+  "description": "Logiciel espion de la société NSO Group capable de prendre le contrôle d'un téléphone, parfois sans aucune action de l'utilisateur.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "En atelier, les élèves ont découvert Pegasus et son fonctionnement.",
+    "L'équipe a comparé Pegasus avec d'autres outils de la surveillance.",
+    "Pegasus figure parmi les logiciels marquants de la surveillance."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 4,
+  "surpriseLevel": 2,
+  "disgustLevel": 2,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Pegasus de NSO"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#SURVEILLANCE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pegasus"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Signal"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 135,
+  "file": "0135-microsoft-office-comment-convertir-du-texte-en-nombres.prompt.json",
+  "prompt": "Comment convertir du texte en nombres dans Excel ?",
+  "promptWords": 9,
+  "completion": "Pour convertir du texte en nombres dans Excel, vous pouvez suivre ces étapes :\n\n### Méthode 1 : Utiliser la fonction VALEUR\n1. **Sélectionnez une cellule vide** à côté de la cellule contenant le texte que vous souhaitez convertir.\n2. **Entrez la formule** `=VALEUR(A1)` (remplacez `A1` par la référence de la cellule contenant le texte).\n3. **Appuyez sur Entrée** pour obtenir le résultat.\n4. **Copiez la cellule avec le résultat** et **collez-la par-dessus la cellule d'origine** en utilisant **Collage spécial > Valeurs** pour remplacer le texte par le nombre.\n\n### Méthode 2 : Utiliser le formatage des cellules\n1. **Sélectionnez les cellules** contenant le texte que vous souhaitez convertir.\n2. **Cliquez droit** et choisissez **Format de cellule**.\n3. **Sélectionnez l'onglet Nombre** et choisissez **Nombre** ou **Standard**.\n4. **Cliquez sur OK**. Excel essaiera de convertir le texte en nombre si possible.\n\n### Méthode 3 : Utiliser le remplacement de texte (si le texte contient des caractères non numériques)\n1. **Sélectionnez les cellules** contenant le texte.\n2. **Appuyez sur Ctrl + H** pour ouvrir la boîte de dialogue **Remplacer**.\n3. **Dans le champ \"Rechercher\"**, entrez les caractères non numériques (par exemple, des espaces, des virgules, etc.).\n4. **Dans le champ \"Remplacer par\"**, laissez vide.\n5. **Cliquez sur Remplacer tout**.\n6. **Utilisez la fonction VALEUR** ou le formatage des cellules pour convertir le texte en nombre.\n\n### Méthode 4 : Utiliser la fonction SUBSTITUE (si le texte contient des caractères spéciaux)\n1. **Sélectionnez une cellule vide** à côté de la cellule contenant le texte.\n2. **Entrez la formule** `=SUBSTITUE(A1, \" \", \"\")` (remplacez `A1` par la référence de la cellule et `\" \"` par le caractère à remplacer).\n3. **Appuyez sur Entrée** pour obtenir le résultat.\n4. **Copiez la cellule avec le résultat** et **collez-la par-dessus la cellule d'origine** en utilisant **Collage spécial > Valeurs**.\n\nCes méthodes devraient vous aider à convertir du texte en nombres dans Excel. Si vous avez des questions supplémentaires, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:53:39.4307382+02:00",
+  "durationSeconds": 11.15,
+  "stats": "mistral-small3.2:latest · 516 + 553 tokens · 11,1 s",
+  "isError": false,
+  "language": "FR"
+}

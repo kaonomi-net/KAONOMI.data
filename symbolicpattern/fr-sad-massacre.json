@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-massacre",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La tuerie d'un grand nombre de personnes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:massacre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:massacr(er|[ée]|[ée]e|[ée]s|[ée]es))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tuerie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:carnage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:boucherie(s)?)(?![\\w-])"
+  ],
+  "symbol": "massacre",
+  "event": null,
+  "title": "Massacre",
+  "tags": [
+    "#GUERRE",
+    "#VIOLENCE",
+    "#MORT"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

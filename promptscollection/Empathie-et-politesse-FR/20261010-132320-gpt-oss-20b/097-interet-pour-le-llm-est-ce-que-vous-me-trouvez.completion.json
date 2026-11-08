@@ -1,0 +1,13 @@
+{
+  "index": 97,
+  "file": "097-interet-pour-le-llm-est-ce-que-vous-me-trouvez.prompt.json",
+  "prompt": "Est-ce que vous me trouvez trop bavard ?",
+  "promptWords": 8,
+  "completion": "Je ne vous trouve pas trop bavard du tout\u202F! Vous avez l’air de bien apprécier la conversation, et c’est toujours un plaisir d’échanger. Si vous préférez un style plus concis, dites-le moi\u202F; sinon, on continue comme ça.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:28:05.2524253+02:00",
+  "durationSeconds": 1.79,
+  "stats": "gpt-oss:20b · 77 + 245 tokens · 1,8 s",
+  "isError": false,
+  "language": "FR"
+}

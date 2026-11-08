@@ -1,0 +1,13 @@
+{
+  "index": 321,
+  "file": "0321-ia-llm-combien-coute-l-utilisation-d-un.prompt.json",
+  "prompt": "Combien coûte l'utilisation d'un LLM via une API ?",
+  "promptWords": 9,
+  "completion": "Le coût d'utilisation d'un grand modèle de langage (LLM) via une API peut varier en fonction de plusieurs facteurs, notamment le fournisseur, le type de modèle, le nombre de requêtes et le volume de données traitées. Voici quelques éléments à considérer :\n\n1. **Fournisseur** : Différents fournisseurs proposent des tarifs variés. Par exemple, des entreprises comme OpenAI, Google, ou Mistral AI ont des modèles et des tarifications distincts.\n\n2. **Type de modèle** : Les modèles plus puissants ou spécialisés peuvent coûter plus cher à utiliser.\n\n3. **Nombre de requêtes** : Certains fournisseurs facturent en fonction du nombre de requêtes effectuées.\n\n4. **Volume de données** : Le coût peut également dépendre de la quantité de texte généré ou traité.\n\n5. **Niveau de service** : Des options comme le support prioritaire ou des garanties de disponibilité peuvent influencer le prix.\n\nPour obtenir des informations précises et actualisées, je vous recommande de consulter directement les sites web des fournisseurs d'API de LLM ou de contacter leur service commercial. Si vous avez un fournisseur spécifique en tête, je peux vous aider à trouver des informations plus détaillées.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:24:22.1951222+02:00",
+  "durationSeconds": 5.5,
+  "stats": "mistral-small3.2:latest · 520 + 270 tokens · 5,5 s",
+  "isError": false,
+  "language": "FR"
+}

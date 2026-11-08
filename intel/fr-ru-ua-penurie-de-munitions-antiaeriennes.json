@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-penurie-de-munitions-antiaeriennes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Pénurie de munitions antiaériennes",
+  "includedEntities": [
+    {
+      "entityName": "munitions",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "pénurie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Patriot",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les pénuries d'intercepteurs pour la défense antiaérienne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "États-Unis",
+    "Europe",
+    "production"
+  ],
+  "questions": [
+    "Quels stocks ?",
+    "Quelles livraisons promises ?",
+    "Quelle production ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#DEFENSE-ANTIAERIENNE",
+    "#PENURIE"
+  ],
+  "events": [],
+  "signals": [
+    "!VULNERABILITE"
+  ],
+  "isDeleted": false
+}

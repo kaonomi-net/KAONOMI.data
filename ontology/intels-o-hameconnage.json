@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-hameconnage",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "hameçonnage",
+  "entityType": "DOMAIN",
+  "description": "Cité par 8 intels : Cyberattaque contre un club sportif ou une fédération ; Usage criminel de l'IA ; Hameçonnage généré par IA ; Hameçonnage ; Fuite de données personnelles ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les fuites de données des fédérations et clubs sportifs.",
+    "Suivre l'usage de l'IA par les cybercriminels.",
+    "Suivre l'hameçonnage rédigé ou personnalisé par l'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "hameçonnage",
+  "tags": [
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES",
+    "#HAMECONNAGE",
+    "#IA",
+    "#SPORT",
+    "#CYBERCRIMINALITE"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES",
+    "@RAPPORT",
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!MENACE",
+    "!FORMATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "fuite",
+    "France",
+    "données personnelles",
+    "SMS",
+    "victimes",
+    "licenciés",
+    "fédération",
+    "cybercriminels",
+    "rançongiciels",
+    "usage malveillant"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

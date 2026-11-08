@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-bulgarie-et-l-euro",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Bulgarie et l'euro",
+  "includedEntities": [
+    {
+      "entityName": "Bulgarie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "euro",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'adoption de l'euro par la Bulgarie et sa situation politique.",
+  "isFuzzy": true,
+  "locations": [
+    "Sofia"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Rumen Radev",
+    "zone euro",
+    "inflation"
+  ],
+  "questions": [
+    "Quel effet de l'euro ?",
+    "Quelle stabilité politique ?",
+    "Quelle inflation ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#BULGARIE",
+    "#EURO"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

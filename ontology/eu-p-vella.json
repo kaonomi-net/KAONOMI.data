@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'environnement) : Ancien ministre maltais du Tourisme, commissaire à l'Environnement, aux Affaires maritimes et à la Pêche de 2014 à 2019.",
+  "id": "eu-p-vella",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Karmenu Vella",
+  "entityType": "PERSON",
+  "description": "Ancien ministre maltais du Tourisme, commissaire à l'Environnement, aux Affaires maritimes et à la Pêche de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Le portrait de Karmenu Vella figure dans le dossier consacré à l'environnement.",
+    "La presse européenne a longuement commenté le parcours de Karmenu Vella.",
+    "Les manuels sur les institutions européennes citent Karmenu Vella."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Vella"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Karmenu%20Vella"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité maltaise",
+    "Parti travailliste maltais",
+    "Ministre du Tourisme",
+    "Commissaire européen",
+    "Environnement, affaires maritimes et pêche (Commission Juncker)",
+    "Commission Juncker",
+    "Environnement",
+    "Océans et affaires maritimes",
+    "Pêche"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-prison",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le lieu où l'on enferme les condamnés.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:prison(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prisonni(er|[èe]re|ers|[èe]res))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:incarc[ée]r([ée]|[ée]e|[ée]s|ation|er))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]tention(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cachot(s)?)(?![\\w-])"
+  ],
+  "symbol": "prison",
+  "event": null,
+  "title": "Prison",
+  "tags": [
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

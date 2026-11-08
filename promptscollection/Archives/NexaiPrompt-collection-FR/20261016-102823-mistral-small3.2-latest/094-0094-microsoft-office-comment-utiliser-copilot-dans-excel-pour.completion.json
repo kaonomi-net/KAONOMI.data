@@ -1,0 +1,13 @@
+{
+  "index": 94,
+  "file": "0094-microsoft-office-comment-utiliser-copilot-dans-excel-pour.prompt.json",
+  "prompt": "Comment utiliser Copilot dans Excel pour analyser des données ?",
+  "promptWords": 10,
+  "completion": "Pour utiliser Copilot dans Excel afin d'analyser des données, voici les étapes générales à suivre :\n\n1. **Activer Copilot** :\n   - Assurez-vous que Copilot est activé dans votre version d'Excel. Cela peut nécessiter un abonnement spécifique (comme Microsoft 365 avec Copilot).\n\n2. **Préparer vos données** :\n   - Organisez vos données dans un tableau Excel clair et structuré. Copilot fonctionne mieux avec des données bien formatées.\n\n3. **Accéder à Copilot** :\n   - Dans Excel, cherchez l'icône Copilot, généralement située dans la barre d'outils ou le ruban. Cela peut varier selon la version d'Excel.\n\n4. **Poser des questions ou donner des instructions** :\n   - Utilisez Copilot pour poser des questions sur vos données, comme :\n     - \"Quelles sont les tendances dans cette colonne ?\"\n     - \"Quelle est la moyenne des ventes par région ?\"\n     - \"Créez un graphique pour visualiser ces données.\"\n   - Copilot peut également générer des formules, des tableaux croisés dynamiques, ou des visualisations basées sur vos demandes.\n\n5. **Analyser les résultats** :\n   - Copilot fournira des réponses ou des suggestions basées sur vos données. Vous pouvez affiner vos questions pour obtenir des analyses plus précises.\n\n6. **Exporter ou partager les résultats** :\n   - Une fois l'analyse terminée, vous pouvez exporter les résultats ou les partager avec votre équipe.\n\nSi vous avez besoin d'informations plus spécifiques ou d'une aide supplémentaire, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:47:34.2099645+02:00",
+  "durationSeconds": 7.31,
+  "stats": "mistral-small3.2:latest · 519 + 360 tokens · 7,3 s",
+  "isError": false,
+  "language": "FR"
+}

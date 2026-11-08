@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Laisvės partija, parti ou liste de ce pays : Lituanie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-lt-laisves-partija",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Laisvės partija",
+  "entityType": "ORGANISATION",
+  "description": "Laisvės partija, parti ou liste de ce pays : Lituanie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Le programme européen de « Laisvės partija » a été publié avant le scrutin.",
+    "Les eurodéputés de « Laisvės partija » ont été élus en juin 2024.",
+    "« Laisvės partija » est représenté dans le Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Laisv%C4%97s%20partija"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Dainius Žalimas",
+    "Lituanie",
+    "Renew Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

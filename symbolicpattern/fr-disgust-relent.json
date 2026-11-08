@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-relent",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une mauvaise odeur qui persiste.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:relent(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:remugle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:odeur(s)?\\s+de\\s+renferm[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:odeur(s)?\\s+naus[ée]abonde(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mauvaise(s)?\\s+odeur(s)?)(?![\\w-])"
+  ],
+  "symbol": "relent",
+  "event": null,
+  "title": "Relent",
+  "tags": [
+    "#DISGUST",
+    "#ODEUR"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

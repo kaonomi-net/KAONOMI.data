@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-vivant",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui est en vie, plein de vie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vivant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:en\\s+vie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bien\\s+vivant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:anim[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plein(e|s|es)?\\s+de\\s+vie)(?![\\w-])"
+  ],
+  "symbol": "vivant",
+  "event": null,
+  "title": "Vivant",
+  "tags": [
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

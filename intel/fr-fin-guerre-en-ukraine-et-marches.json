@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-guerre-en-ukraine-et-marches",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Guerre en Ukraine et marchés",
+  "includedEntities": [
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "guerre",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "marchés",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'effet de la guerre en Ukraine et des négociations sur les marchés.",
+  "isFuzzy": true,
+  "locations": [
+    "Ukraine",
+    "Russie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "défense",
+    "énergie",
+    "reconstruction"
+  ],
+  "questions": [
+    "Quelle évolution ?",
+    "Quels secteurs réagissent ?",
+    "Quel effet sur le gaz ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#UKRAINE",
+    "#BOURSE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

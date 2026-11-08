@@ -1,0 +1,13 @@
+{
+  "index": 77,
+  "file": "077-interet-pour-le-llm-quel-age-avez-vous.prompt.json",
+  "prompt": "Quel âge avez-vous ?",
+  "promptWords": 4,
+  "completion": "Je ne sais pas comment ni quand j'ai été adapté à partir de Mistral Large 2.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:30.1766138+02:00",
+  "durationSeconds": 0.67,
+  "stats": "mistral-small3.2:latest · 512 + 21 tokens · 0,7 s",
+  "isError": false,
+  "language": "FR"
+}

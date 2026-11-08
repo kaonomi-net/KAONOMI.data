@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-application-de-l-ai-act-europeen",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Application de l'AI Act européen",
+  "includedEntities": [
+    {
+      "entityName": "AI Act",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "conformité",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'entrée en application du règlement européen sur l'IA.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "calendrier d'application"
+  ],
+  "relatedEntities": [
+    "Commission européenne",
+    "Parlement européen",
+    "Bureau de l'IA"
+  ],
+  "questions": [
+    "Quelles obligations entrent en vigueur ?",
+    "Quelles sanctions ?",
+    "Quels systèmes interdits ?"
+  ],
+  "tags": [
+    "#IA",
+    "#REGULATION",
+    "#EUROPE"
+  ],
+  "events": [
+    "@ECHEANCE-REGLEMENTAIRE"
+  ],
+  "signals": [
+    "!CONFORMITE"
+  ],
+  "isDeleted": false
+}

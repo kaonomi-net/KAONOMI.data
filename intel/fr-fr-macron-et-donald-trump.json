@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-macron-et-donald-trump",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Macron et Donald Trump",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Donald Trump",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "relation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre la relation entre Emmanuel Macron et Donald Trump.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington",
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "droits de douane",
+    "Ukraine",
+    "OTAN"
+  ],
+  "questions": [
+    "Quelle rencontre ?",
+    "Quel désaccord ?",
+    "Quel accord ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#ETATS-UNIS"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

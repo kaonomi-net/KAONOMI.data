@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-sites-de-fuite-des-rancongiciels",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Sites de fuite des rançongiciels",
+  "includedEntities": [
+    {
+      "entityName": "site de fuite",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "revendication",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les revendications publiées sur les sites de fuite.",
+  "isFuzzy": true,
+  "locations": [
+    "dark web"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "victimes",
+    "délais",
+    "volumes"
+  ],
+  "questions": [
+    "Quelle revendication ?",
+    "Quelle victime ?",
+    "Est-elle confirmée ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#DARK-WEB"
+  ],
+  "events": [],
+  "signals": [
+    "!VEILLE"
+  ],
+  "isDeleted": false
+}

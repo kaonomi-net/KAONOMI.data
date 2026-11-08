@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-mariage",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'union de deux personnes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:mariage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mari(er|[ée]|[ée]e|[ée]s|[ée]es)\\s+(avec|hier|demain|aujourd['’]hui)|[ée]pous(er|[ée]|[ée]e)|union(s)?\\s+civile(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vivent\\s+les\\s+mari[ée]s)(?![\\w-])"
+  ],
+  "symbol": "mariage",
+  "event": null,
+  "title": "Mariage",
+  "tags": [
+    "#AMOUR",
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

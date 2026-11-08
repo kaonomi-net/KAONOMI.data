@@ -1,0 +1,13 @@
+{
+  "index": 15,
+  "file": "035-cuisine-quelle-est-la-recette-de-la.prompt.json",
+  "prompt": "Quelle est la recette de la blanquette de veau ?",
+  "promptWords": 10,
+  "completion": "La blanquette de veau est un classique de la cuisine française. Voici une recette traditionnelle :\n\n### Ingrédients (pour 4 personnes) :\n- 800 g d'épaule ou de collier de veau\n- 2 oignons\n- 2 carottes\n- 2 branches de céleri\n- 1 bouquet garni (thym, laurier, persil)\n- 20 g de beurre\n- 20 g de farine\n- 25 cl de vin blanc sec\n- 25 cl de bouillon de volaille\n- 12 petits oignons grelots (ou oignons perlés)\n- 200 g de champignons de Paris\n- 2 jaunes d’œufs\n- 2 cuillères à soupe de crème fraîche\n- Sel, poivre\n\n### Préparation :\n\n1. **Préparer la viande** :\n   - Coupez le veau en gros cubes.\n   - Dans une cocotte, faites fondre le beurre et faites dorer légèrement les morceaux de veau à feu moyen. Réservez.\n\n2. **Préparer les légumes** :\n   - Épluchez et coupez les oignons, les carottes et le céleri en gros morceaux.\n   - Dans la même cocotte, faites revenir les légumes avec le bouquet garni pendant 5 minutes.\n\n3. **Mouiller et cuire** :\n   - Remettez la viande dans la cocotte.\n   - Saupoudrez de farine et mélangez bien.\n   - Versez le vin blanc et le bouillon de volaille.\n   - Portez à ébullition, puis baissez le feu et laissez mijoter à couvert pendant 1h30 à 2 heures (jusqu’à ce que la viande soit tendre).\n\n4. **Préparer les garnitures** :\n   - Pendant ce temps, faites blanchir les petits oignons grelots dans de l’eau bouillante salée pendant 5 minutes, puis égouttez-les.\n   - Faites revenir les champignons émincés dans une poêle avec un peu de beurre.\n\n5. **Lier la sauce** :\n   - Retirez le bouquet garni.\n   - Mixez les légumes avec un peu de bouillon pour obtenir une sauce lisse.\n   - Remettez la sauce dans la cocotte avec la viande.\n   - Ajoutez les petits oignons et les champignons.\n   - Dans un bol, mélangez les jaunes d’œufs avec la crème fraîche, puis incorporez ce mélange à la sauce en remuant constamment pour éviter que la sauce ne prenne.\n   - Assaisonnez de sel et de poivre.\n\n6. **Servir** :\n   - Servez chaud avec du riz blanc ou des pâtes.\n\nBon appétit !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:19:09.5129876+02:00",
+  "durationSeconds": 13.27,
+  "stats": "mistral-small3.2:latest · 521 + 624 tokens · 13,3 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,47 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-aluminium",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "aluminium",
+  "entityType": "MATERIAL",
+  "description": "Cité par 1 intel : Acier et aluminium.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre les prix de l'acier et de l'aluminium."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "aluminium",
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#ACIER"
+  ],
+  "events": [],
+  "signals": [
+    "!PRIX"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ArcelorMittal",
+    "droits de douane",
+    "acier",
+    "Aperam"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cisa",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "CISA",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 4 intels : Catalogue KEV de la CISA ; Base CVE et financement ; Directive BOD de la CISA ; Budget et avenir de la CISA.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les ajouts au catalogue des vulnérabilités activement exploitées de la CISA.",
+    "Suivre l'avenir de la base CVE et de son financement.",
+    "Suivre les directives de la CISA aux agences fédérales américaines."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "CISA",
+  "tags": [
+    "#CYBERSECURITE",
+    "#CISA",
+    "#VULNERABILITE",
+    "#ETATS-UNIS",
+    "#CVE"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!ALERTE",
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Washington",
+    "KEV",
+    "BOD 26-04",
+    "échéances",
+    "agences fédérales",
+    "vulnérabilités exploitées",
+    "CVE",
+    "MITRE",
+    "base",
+    "EUVD"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

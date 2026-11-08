@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-andrius-kubilius-et-la-defense",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Andrius Kubilius et la défense",
+  "includedEntities": [
+    {
+      "entityName": "Andrius Kubilius",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "défense",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action du commissaire à la défense et à l'espace.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "SAFE",
+    "industrie de défense",
+    "drones"
+  ],
+  "questions": [
+    "Quel programme ?",
+    "Quel financement ?",
+    "Quelle déclaration ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#DEFENSE",
+    "#KUBILIUS"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "isDeleted": false
+}

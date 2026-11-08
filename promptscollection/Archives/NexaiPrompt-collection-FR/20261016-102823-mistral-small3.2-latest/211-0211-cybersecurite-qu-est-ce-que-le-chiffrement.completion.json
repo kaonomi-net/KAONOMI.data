@@ -1,0 +1,13 @@
+{
+  "index": 211,
+  "file": "0211-cybersecurite-qu-est-ce-que-le-chiffrement.prompt.json",
+  "prompt": "Qu'est-ce que le chiffrement symétrique et asymétrique ?",
+  "promptWords": 8,
+  "completion": "Le chiffrement est une technique utilisée pour protéger la confidentialité des données en les transformant en un format illisible sans une clé spécifique. Il existe deux principaux types de chiffrement : le chiffrement symétrique et le chiffrement asymétrique.\n\n### Chiffrement symétrique\nLe chiffrement symétrique utilise une seule clé secrète pour chiffrer et déchiffrer les données. Cette clé doit être partagée de manière sécurisée entre les parties qui souhaitent communiquer. Voici quelques caractéristiques clés :\n- **Rapidité** : Le chiffrement et le déchiffrement sont généralement rapides, ce qui le rend adapté au chiffrement de grandes quantités de données.\n- **Exemples d'algorithmes** : AES (Advanced Encryption Standard), DES (Data Encryption Standard), 3DES.\n- **Problème de distribution de clés** : La principale difficulté réside dans la distribution sécurisée de la clé secrète entre les parties.\n\n### Chiffrement asymétrique\nLe chiffrement asymétrique, également appelé chiffrement à clé publique, utilise deux clés : une clé publique et une clé privée. La clé publique est utilisée pour chiffrer les données, tandis que la clé privée est utilisée pour les déchiffrer. Voici quelques caractéristiques clés :\n- **Sécurité** : La clé privée n'est jamais partagée, ce qui réduit les risques liés à la distribution de clés.\n- **Lenteur** : Le chiffrement et le déchiffrement sont généralement plus lents que le chiffrement symétrique, ce qui le rend moins adapté au chiffrement de grandes quantités de données.\n- **Exemples d'algorithmes** : RSA, ECC (Elliptic Curve Cryptography), Diffie-Hellman.\n- **Utilisations courantes** : Échange de clés sécurisé, signatures numériques, authentification.\n\n### Comparaison\n- **Symétrique** : Une seule clé, rapide, mais difficile à distribuer de manière sécurisée.\n- **Asymétrique** : Deux clés, plus sécurisé pour l'échange de clés, mais plus lent.\n\nEn pratique, les deux types de chiffrement sont souvent utilisés ensemble pour tirer parti de leurs avantages respectifs. Par exemple, le chiffrement asymétrique peut être utilisé pour échanger une clé symétrique de manière sécurisée, qui est ensuite utilisée pour chiffrer les données.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:05:06.2566084+02:00",
+  "durationSeconds": 10.09,
+  "stats": "mistral-small3.2:latest · 520 + 490 tokens · 10,1 s",
+  "isError": false,
+  "language": "FR"
+}

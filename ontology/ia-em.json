@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (l'estimation statistique) : Méthode itérative d'estimation du maximum de vraisemblance en présence de variables cachées, formalisée par Dempster, Laird et Rubin.",
+  "id": "ia-em",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Algorithme espérance-maximisation",
+  "entityType": "ALGORITHM",
+  "description": "Méthode itérative d'estimation du maximum de vraisemblance en présence de variables cachées, formalisée par Dempster, Laird et Rubin.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Algorithme espérance-maximisation est enseigné dans tous les cours consacrés à l'estimation statistique.",
+    "Le notebook compare Algorithme espérance-maximisation aux autres méthodes de l'estimation statistique.",
+    "La chercheuse a présenté une variante de Algorithme espérance-maximisation lors du séminaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "algorithme EM"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#ESTIMATIONSTATISTIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Algorithme%20esp%C3%A9rance-maximisation"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Modèle de Markov caché"
+  ],
+  "isDeleted": false,
+  "startDate": "1977-01-01T00:00:00",
+  "endDate": null
+}

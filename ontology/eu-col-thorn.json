@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la Commission européenne) : Commission Thorn, collège des commissaires présidé par Gaston Thorn, en fonction du 6 janvier 1981 au 5 janvier 1985.",
+  "id": "eu-col-thorn",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission Thorn",
+  "entityType": "ORGANISATION",
+  "description": "Commission Thorn, collège des commissaires présidé par Gaston Thorn, en fonction du 6 janvier 1981 au 5 janvier 1985.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-colleges",
+  "sentencesExemples": [
+    "Les décisions de « Commission Thorn » touchent la Commission européenne.",
+    "Le rapport annuel de « Commission Thorn » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Commission Thorn »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20Thorn"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Gaston Thorn",
+    "Commission européenne",
+    "Commission Jenkins",
+    "Commission Delors",
+    "Présidence de la Commission (Commission Thorn)",
+    "Politique commune de la pêche"
+  ],
+  "isDeleted": false,
+  "startDate": "1981-01-06T00:00:00",
+  "endDate": "1985-01-05T00:00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-hypnose-therapeutique",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Hypnose thérapeutique",
+  "includedEntities": [
+    {
+      "entityName": "hypnose",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "thérapeutique",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage de l'hypnose en médecine et en psychologie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "douleur",
+    "anxiété",
+    "études"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel usage ?",
+    "Quelle limite ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#THERAPIES",
+    "#HYPNOSE"
+  ],
+  "events": [],
+  "signals": [
+    "!THERAPIE"
+  ],
+  "isDeleted": false
+}

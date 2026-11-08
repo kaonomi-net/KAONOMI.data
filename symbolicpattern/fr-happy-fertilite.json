@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-fertilite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La capacité à donner la vie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fertilit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fertile(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:f[ée]cond(e|s|es|it[ée])?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:f[ée]condation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prolifique(s)?)(?![\\w-])"
+  ],
+  "symbol": "fertilité",
+  "event": null,
+  "title": "Fertilité",
+  "tags": [
+    "#NAISSANCE",
+    "#NATURE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

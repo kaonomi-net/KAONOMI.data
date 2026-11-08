@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cybersecurite-nucleaire",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cybersécurité nucléaire",
+  "includedEntities": [
+    {
+      "entityName": "centrale nucléaire",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cybersécurité",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la cybersécurité des installations nucléaires.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "AIEA",
+    "EDF",
+    "systèmes de contrôle"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quelle mesure ?",
+    "Quelle inspection ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#NUCLEAIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

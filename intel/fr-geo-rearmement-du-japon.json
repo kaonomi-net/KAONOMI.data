@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-rearmement-du-japon",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Réarmement du Japon",
+  "includedEntities": [
+    {
+      "entityName": "Japon",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "défense",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution de la politique de défense japonaise.",
+  "isFuzzy": true,
+  "locations": [
+    "Tokyo"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Chine",
+    "États-Unis",
+    "Constitution"
+  ],
+  "questions": [
+    "Quelle hausse du budget ?",
+    "Quelles capacités nouvelles ?",
+    "Quelle réaction régionale ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#JAPON",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "isDeleted": false
+}

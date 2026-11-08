@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-partenariats-migratoires-avec-des-pays-tiers",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Partenariats migratoires avec des pays tiers",
+  "includedEntities": [
+    {
+      "entityName": "partenariat migratoire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "pays tiers",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les accords migratoires avec la Tunisie, l'Égypte, la Libye et d'autres.",
+  "isFuzzy": true,
+  "locations": [
+    "Tunisie",
+    "Égypte",
+    "Mauritanie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "financement",
+    "droits humains",
+    "départs"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quel montant ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MIGRATION",
+    "#PARTENARIATS"
+  ],
+  "events": [],
+  "signals": [
+    "!MIGRATION"
+  ],
+  "isDeleted": false
+}

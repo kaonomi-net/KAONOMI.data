@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptanalyse) : Mathématicien polonais du Biuro Szyfrów qui a reconstitué la machine Enigma en 1932 et conçu la bomba cryptologique.",
+  "id": "cyber-rejewski",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Marian Rejewski",
+  "entityType": "PERSON",
+  "description": "Mathématicien polonais du Biuro Szyfrów qui a reconstitué la machine Enigma en 1932 et conçu la bomba cryptologique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Une biographie de Marian Rejewski rappelle son rôle dans la cryptanalyse.",
+    "Marian Rejewski est l'une des figures marquantes de la cryptanalyse.",
+    "Lors de la conférence, l'oratrice a cité Marian Rejewski pour illustrer les progrès de la cryptanalyse."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "M. Rejewski"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTANALYSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Marian%20Rejewski"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Reconstitution d'Enigma par le Biuro Szyfrów",
+    "Bomba cryptologique"
+  ],
+  "isDeleted": false,
+  "startDate": "1905-08-16T00:00:00",
+  "endDate": "1980-02-13T00:00:00"
+}

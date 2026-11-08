@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-autorites-de-certification",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Autorités de certification",
+  "includedEntities": [
+    {
+      "entityName": "autorité de certification",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "révocation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les incidents et révocations d'autorités de certification.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "navigateurs",
+    "confiance",
+    "Let's Encrypt"
+  ],
+  "questions": [
+    "Quelle autorité ?",
+    "Quel incident ?",
+    "Quelle décision des navigateurs ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#CERTIFICATS",
+    "#PKI"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFIANCE"
+  ],
+  "isDeleted": false
+}

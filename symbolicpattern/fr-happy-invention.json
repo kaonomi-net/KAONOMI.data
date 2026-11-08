@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-invention",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une chose nouvelle imaginée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:invention(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:invent(er|[ée]|[ée]e|eur|eurs|rice)|innovation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:innov(er|ant|ante)|trouvaille(s)?)(?![\\w-])"
+  ],
+  "symbol": "invention",
+  "event": null,
+  "title": "Invention",
+  "tags": [
+    "#CREATION",
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

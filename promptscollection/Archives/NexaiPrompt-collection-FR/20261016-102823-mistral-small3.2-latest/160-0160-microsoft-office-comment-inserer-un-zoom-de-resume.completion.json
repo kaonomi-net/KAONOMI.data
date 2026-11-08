@@ -1,0 +1,13 @@
+{
+  "index": 160,
+  "file": "0160-microsoft-office-comment-inserer-un-zoom-de-resume.prompt.json",
+  "prompt": "Comment insérer un zoom de résumé dans PowerPoint ?",
+  "promptWords": 9,
+  "completion": "Pour insérer un zoom de résumé dans PowerPoint, vous pouvez suivre ces étapes :\n\n1. **Ouvrir votre présentation PowerPoint** : Lancez PowerPoint et ouvrez la présentation dans laquelle vous souhaitez ajouter un zoom de résumé.\n\n2. **Accéder à l'onglet \"Insertion\"** : Cliquez sur l'onglet \"Insertion\" dans le ruban en haut de l'écran.\n\n3. **Sélectionner \"Zoom\"** : Dans le groupe \"Zoom\", cliquez sur \"Zoom\". Un menu déroulant apparaîtra avec plusieurs options.\n\n4. **Choisir \"Zoom de résumé\"** : Sélectionnez \"Zoom de résumé\" dans le menu déroulant. Une fenêtre contextuelle s'ouvrira.\n\n5. **Sélectionner les diapositives à inclure** : Dans la fenêtre contextuelle, vous verrez une miniature de votre présentation. Cliquez sur les diapositives que vous souhaitez inclure dans le zoom de résumé. Vous pouvez en sélectionner plusieurs en maintenant la touche \"Ctrl\" (ou \"Cmd\" sur Mac) enfoncée tout en cliquant.\n\n6. **Ajouter le zoom de résumé** : Une fois les diapositives sélectionnées, cliquez sur \"Insérer\" dans la fenêtre contextuelle. Un nouveau diapositive de zoom de résumé sera ajouté à votre présentation.\n\n7. **Personnaliser le zoom de résumé** (facultatif) : Vous pouvez personnaliser l'apparence du zoom de résumé en modifiant les miniatures, en ajoutant des animations ou en ajustant la disposition.\n\n8. **Prévisualiser et ajuster** : Passez en mode Présentation (F5) pour prévisualiser votre zoom de résumé et vous assurer qu'il fonctionne comme prévu. Vous pouvez revenir en mode normal pour faire des ajustements si nécessaire.\n\nCes étapes devraient vous permettre d'ajouter un zoom de résumé à votre présentation PowerPoint. Si vous avez des questions supplémentaires ou si vous avez besoin d'aide pour une version spécifique de PowerPoint, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:57:25.0570343+02:00",
+  "durationSeconds": 9.13,
+  "stats": "mistral-small3.2:latest · 519 + 449 tokens · 9,1 s",
+  "isError": false,
+  "language": "FR"
+}

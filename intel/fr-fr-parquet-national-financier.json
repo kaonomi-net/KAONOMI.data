@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-parquet-national-financier",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Parquet national financier",
+  "includedEntities": [
+    {
+      "entityName": "parquet national financier",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "PNF",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les enquêtes du parquet national financier.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "fraude",
+    "corruption",
+    "élus"
+  ],
+  "questions": [
+    "Quelle enquête ?",
+    "Qui est visé ?",
+    "Quelle étape ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#JUSTICE",
+    "#CORRUPTION"
+  ],
+  "events": [],
+  "signals": [
+    "!SCANDALE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,56 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-charge-de-la-dette",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "charge de la dette",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Dette publique de la France ; Charge de la dette ; Charge de la dette française.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le niveau de la dette publique, proche de 119 % du PIB en 2026.",
+    "Suivre le coût annuel des intérêts de la dette.",
+    "Suivre le coût des intérêts de la dette française."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "charge de la dette",
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#BUDGET"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "taux",
+    "intérêts",
+    "budget",
+    "PIB",
+    "INSEE",
+    "dette publique",
+    "France",
+    "premier poste de dépense",
+    "Paris",
+    "Cour des comptes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

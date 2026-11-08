@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (les valeurs de l'Union) : Le Tribunal de l'Union annule le refus de la Commission de donner accès aux SMS échangés avec le PDG de Pfizer, demandés par le New York Times.",
+  "id": "eu-ev-arret-sms-pfizer",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Arrêt du Tribunal sur les SMS Pfizer",
+  "entityType": "EVENT",
+  "description": "Le Tribunal de l'Union annule le refus de la Commission de donner accès aux SMS échangés avec le PDG de Pfizer, demandés par le New York Times.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les archives audiovisuelles de la Commission conservent des images de « Arrêt du Tribunal sur les SMS Pfizer ».",
+    "La presse européenne a largement couvert « Arrêt du Tribunal sur les SMS Pfizer ».",
+    "« Arrêt du Tribunal sur les SMS Pfizer » concerne les valeurs de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#VALEURSUNION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Arr%C3%AAt%20du%20Tribunal%20sur%20les%20SMS%20Pfizer"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Valeurs et transparence",
+    "Santé",
+    "Ursula von der Leyen",
+    "Commission von der Leyen II",
+    "Luxembourg",
+    "Motion de censure contre la Commission von der Leyen II",
+    "Cour de justice de l'Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": "2025-05-14T00:00:00",
+  "endDate": null
+}

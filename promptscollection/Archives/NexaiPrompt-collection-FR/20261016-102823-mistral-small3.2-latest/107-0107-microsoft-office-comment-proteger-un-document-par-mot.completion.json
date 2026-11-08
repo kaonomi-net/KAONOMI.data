@@ -1,0 +1,13 @@
+{
+  "index": 107,
+  "file": "0107-microsoft-office-comment-proteger-un-document-par-mot.prompt.json",
+  "prompt": "Comment protéger un document par mot de passe dans Word ?",
+  "promptWords": 11,
+  "completion": "Pour protéger un document par mot de passe dans Microsoft Word, vous pouvez suivre ces étapes :\n\n### **Méthode 1 : Protéger le document avec un mot de passe d'ouverture**\n1. **Ouvrez votre document** dans Word.\n2. **Allez dans l'onglet \"Fichier\"** (en haut à gauche).\n3. **Cliquez sur \"Enregistrer sous\"** (ou \"Enregistrer une copie\" selon la version).\n4. **Choisissez l'emplacement** où vous souhaitez enregistrer le fichier.\n5. **Cliquez sur le bouton \"Outils\"** (à côté de \"Enregistrer\") et sélectionnez **\"Options générales\"**.\n6. **Dans la section \"Général\"**, entrez un **mot de passe d'ouverture** dans le champ prévu à cet effet.\n7. **Cliquez sur \"OK\"** et enregistrez le fichier.\n8. **Word vous demandera de confirmer le mot de passe** (pour éviter les erreurs de saisie).\n\n### **Méthode 2 : Protéger le document avec un mot de passe de modification**\nSi vous souhaitez empêcher les modifications sans mot de passe :\n1. **Allez dans l'onglet \"Révision\"** (en haut).\n2. **Cliquez sur \"Restreindre la modification\"**.\n3. **Cochez \"Autoriser uniquement ce type de modifications\"** et choisissez les options souhaitées.\n4. **Cliquez sur \"Oui, appliquer un mot de passe\"** et entrez un mot de passe.\n5. **Confirmez le mot de passe** et cliquez sur \"OK\".\n\n### **Remarques importantes :**\n- **Word 2016 et versions ultérieures** utilisent une meilleure protection (chiffrement AES).\n- **N'oubliez pas votre mot de passe**, car Word ne peut pas le récupérer.\n- **La protection par mot de passe n'est pas infaillible** (un utilisateur déterminé peut contourner cette sécurité).\n\nSi vous avez besoin d'aide supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:49:21.0796065+02:00",
+  "durationSeconds": 8.92,
+  "stats": "mistral-small3.2:latest · 518 + 443 tokens · 8,9 s",
+  "isError": false,
+  "language": "FR"
+}

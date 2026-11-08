@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-bureau-national-anticorruption-ukrainien",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Bureau national anticorruption ukrainien",
+  "includedEntities": [
+    {
+      "entityName": "NABU",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "anticorruption",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'activité et l'indépendance des organes anticorruption.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "SAP",
+    "Union européenne",
+    "réformes"
+  ],
+  "questions": [
+    "Quelle enquête ?",
+    "Quelles pressions ?",
+    "Quelle indépendance ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#CORRUPTION",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

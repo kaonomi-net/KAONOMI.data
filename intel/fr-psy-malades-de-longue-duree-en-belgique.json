@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-malades-de-longue-duree-en-belgique",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Malades de longue durée en Belgique",
+  "includedEntities": [
+    {
+      "entityName": "malades de longue durée",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Belgique",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le nombre record de malades de longue durée, 471 000 fin 2025.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "INAMI",
+    "réintégration",
+    "pension"
+  ],
+  "questions": [
+    "Quel nombre ?",
+    "Quelle mesure de réintégration ?",
+    "Quel coût ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BELGIQUE",
+    "#TRAVAIL"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

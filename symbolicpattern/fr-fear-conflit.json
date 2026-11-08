@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-conflit",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un affrontement armé.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:conflit(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:conflit(s)?\\s+arm[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:affrontement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hostilit[ée]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:zone(s)?\\s+de\\s+conflit)(?![\\w-])"
+  ],
+  "symbol": "conflit",
+  "event": null,
+  "title": "Conflit",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

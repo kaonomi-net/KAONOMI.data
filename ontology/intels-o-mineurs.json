@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-mineurs",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "mineurs",
+  "entityType": "PROFESSION",
+  "description": "Cité par 7 intels : Réseaux sociaux et mineurs ; Mineurs délinquants ; Mineurs et piratage ; Protection des mineurs en ligne ; Interdiction des réseaux sociaux aux mineurs ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre l'interdiction des réseaux sociaux aux moins de 15 ans.",
+    "Suivre le débat sur la justice des mineurs.",
+    "Suivre les affaires impliquant de jeunes pirates."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "mineurs",
+  "tags": [
+    "#NUMERIQUE",
+    "#PSYCHOLOGIE",
+    "#FRANCE",
+    "#JEUNESSE",
+    "#JUSTICE",
+    "#MINEURS"
+  ],
+  "events": [
+    "@ARRESTATION"
+  ],
+  "signals": [
+    "!REGULATION",
+    "!SOCIETE",
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "vérification de l'âge",
+    "plateformes",
+    "Europe",
+    "réseaux sociaux",
+    "interdiction",
+    "comparution immédiate",
+    "justice des mineurs",
+    "éducateurs",
+    "réforme",
+    "délinquance"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

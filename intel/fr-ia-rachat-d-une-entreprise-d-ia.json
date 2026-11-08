@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-rachat-d-une-entreprise-d-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Rachat d'une entreprise d'IA",
+  "includedEntities": [
+    {
+      "entityName": "rachat",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "acquisition",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Repérer les rachats d'entreprises d'intelligence artificielle.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "jour de l'annonce"
+  ],
+  "relatedEntities": [
+    "Google",
+    "Microsoft",
+    "Nvidia"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quelles équipes rejoignent l'acheteur ?",
+    "Les autorités enquêtent-elles ?"
+  ],
+  "tags": [
+    "#IA",
+    "#ACQUISITION",
+    "#CONCURRENCE"
+  ],
+  "events": [
+    "@RACHAT"
+  ],
+  "signals": [
+    "!CONSOLIDATION"
+  ],
+  "isDeleted": false
+}

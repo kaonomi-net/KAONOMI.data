@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Agent de haut niveau d'une administration nationale.",
+  "id": "eu-met-fonctionnaire-national",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Haut fonctionnaire national",
+  "entityType": "PROFESSION",
+  "description": "Agent de haut niveau d'une administration nationale.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "Le métier « Haut fonctionnaire national » apparaît dans les biographies officielles.",
+    "La fonction « Haut fonctionnaire national » relève de la vie publique européenne.",
+    "Le parcours de nombreux commissaires passe par la fonction « Haut fonctionnaire national »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Haut%20fonctionnaire%20national"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Glenn Micallef",
+    "Jonathan Hill",
+    "François-Xavier Ortoli"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

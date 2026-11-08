@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne des attentats de Bruxelles de 2016 (le contrôle parlementaire) : Député fédéral, président de la commission d'enquête parlementaire sur les attentats terroristes du 22 mars 2016.",
+  "id": "be2016-patrick-dewael",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Patrick Dewael",
+  "entityType": "PERSON",
+  "description": "Député fédéral, président de la commission d'enquête parlementaire sur les attentats terroristes du 22 mars 2016.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-personnes",
+  "sentencesExemples": [
+    "Le dossier documentaire consacré aux attentats comporte une fiche sur Patrick Dewael.",
+    "Les comptes rendus de l'époque évoquent Patrick Dewael à plusieurs reprises.",
+    "Les journalistes ont retracé le rôle de Patrick Dewael dans le contrôle parlementaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "P. Dewael"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#PERSON",
+    "#CONTROLEPARLEMENTAIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Patrick%20Dewael"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission d'enquête parlementaire"
+  ],
+  "isDeleted": false,
+  "startDate": "1955-01-01T00:00:00",
+  "endDate": null
+}

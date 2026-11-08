@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-aviation-tactique-russe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Aviation tactique russe",
+  "includedEntities": [
+    {
+      "entityName": "Su-34",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "aviation russe",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "chasseur",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'activité et les pertes de l'aviation tactique russe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "bombes planantes",
+    "défense antiaérienne",
+    "pertes"
+  ],
+  "questions": [
+    "Combien d'appareils perdus ?",
+    "Quelles missions ?",
+    "Quelle tactique ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#AVIATION",
+    "#ARMEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

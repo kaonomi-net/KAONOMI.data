@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-sur-les-centrales-electriques-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes sur les centrales électriques russes",
+  "includedEntities": [
+    {
+      "entityName": "centrale électrique",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "coupure",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les frappes ukrainiennes contre la production électrique russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgorod",
+    "Briansk",
+    "Koursk"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "coupures",
+    "sous-stations",
+    "représailles"
+  ],
+  "questions": [
+    "Quelle centrale ?",
+    "Quelles coupures ?",
+    "Quelle riposte ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ENERGIE",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE-ENERGIE"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

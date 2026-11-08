@@ -1,0 +1,13 @@
+{
+  "index": 41,
+  "file": "061-physique-qu-est-ce-que-la-physique.prompt.json",
+  "prompt": "Qu'est-ce que la physique quantique expliquée simplement ?",
+  "promptWords": 8,
+  "completion": "La physique quantique est une branche de la physique qui étudie les phénomènes à l'échelle des atomes et des particules encore plus petites, comme les électrons et les photons. Elle explique comment ces particules se comportent et interagissent entre elles.\n\nVoici quelques concepts clés expliqués simplement :\n\n1. **Quantification** : Dans le monde quantique, certaines propriétés (comme l'énergie) ne peuvent prendre que des valeurs discrètes, et non continues. Par exemple, un électron dans un atome ne peut avoir que certaines énergies spécifiques.\n\n2. **Dualité onde-particule** : Les particules quantiques peuvent se comporter à la fois comme des particules (avec une position bien définie) et comme des ondes (étalées dans l'espace). C'est le cas de la lumière, qui peut être décrite comme un flux de photons (particules) ou comme une onde électromagnétique.\n\n3. **Principe d'incertitude de Heisenberg** : Il est impossible de connaître simultanément avec précision à la fois la position et la vitesse d'une particule. Plus on mesure précisément l'une, moins on connaît l'autre.\n\n4. **Superposition quantique** : Une particule peut exister dans plusieurs états à la fois jusqu'à ce qu'une mesure soit effectuée. Par exemple, un électron peut tourner dans deux directions opposées en même temps.\n\n5. **Intrication quantique** : Deux particules peuvent être liées de telle sorte que l'état de l'une détermine instantanément l'état de l'autre, même si elles sont très éloignées. Einstein appelait cela une \"action fantasmagorique à distance\".\n\n6. **Effet tunnel** : Une particule peut traverser une barrière d'énergie qu'elle ne devrait pas pouvoir franchir selon les lois classiques. C'est comme si une balle pouvait traverser un mur sans le toucher.\n\nLa physique quantique est à la base de nombreuses technologies modernes, comme les lasers, les transistors (et donc les ordinateurs), les images par résonance magnétique (IRM), et les futurs ordinateurs quantiques.\n\nC'est une théorie très contre-intuitive car elle ne correspond pas à notre expérience quotidienne du monde macroscopique. Les objets que nous manipulons tous les jours suivent les lois de la physique classique, mais à l'échelle des atomes, c'est le règne de la physique quantique.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:00:36.7932436+02:00",
+  "durationSeconds": 10.52,
+  "stats": "mistral-small3.2:latest · 519 + 498 tokens · 10,5 s",
+  "isError": false,
+  "language": "FR"
+}

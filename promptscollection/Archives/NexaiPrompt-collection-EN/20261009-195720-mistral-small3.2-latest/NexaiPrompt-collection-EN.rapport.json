@@ -1,0 +1,28 @@
+{
+  "collection": "NexaiPrompt-collection-EN",
+  "collectionFolder": "N:\\promptscollection\\NexaiPrompt-collection-EN",
+  "model": "mistral-small3.2:latest",
+  "language": "EN",
+  "date": "2026-10-09T19:57:20.5863468+02:00",
+  "endDate": "2026-10-09T19:57:30.4361037+02:00",
+  "executionTimeSeconds": 9.8,
+  "executionTime": "00:00:09",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "promptCount": 1000,
+  "sentCount": 1,
+  "skippedCount": 0,
+  "stopped": true,
+  "totalPromptWords": 9318,
+  "topicsSummary": "Not generated: the run was stopped with Esc.",
+  "topics": [],
+  "items": [
+    {
+      "index": 1,
+      "file": "0001-architecture-entreprise-what-is-enterprise-architecture-and-what.prompt.json",
+      "prompt": "What is enterprise architecture and what is it used for?",
+      "promptWords": 10,
+      "completionFile": "001-0001-architecture-entreprise-what-is-enterprise-architecture-and-what.completion.json"
+    }
+  ]
+}

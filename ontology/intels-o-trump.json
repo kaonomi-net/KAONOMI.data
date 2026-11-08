@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-trump",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "Trump",
+  "entityType": "PERSON",
+  "description": "Cité par 15 intels : Entretien entre Poutine et Trump ; Position de Donald Trump sur l'Ukraine ; Envoyés spéciaux américains ; Missiles Tomahawk pour l'Ukraine ; Dépenses de défense de l'OTAN ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre les échanges téléphoniques et rencontres entre Poutine et Trump.",
+    "Suivre la politique de Donald Trump sur la guerre en Ukraine.",
+    "Suivre les missions des envoyés spéciaux américains."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Trump",
+  "tags": [
+    "#ETATS-UNIS",
+    "#DIPLOMATIE",
+    "#UKRAINE",
+    "#BOURSE",
+    "#ECONOMIE",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [
+    "@ENTRETIEN",
+    "@DECLARATION",
+    "@MISSION-DIPLOMATIQUE"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!INCERTITUDE",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Washington",
+    "Ukraine",
+    "Kremlin",
+    "Maison Blanche",
+    "Bruxelles",
+    "Poutine",
+    "négociations",
+    "OTAN",
+    "droits de douane",
+    "États-Unis"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-strategie-de-resilience-a-l-eau",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Stratégie de résilience à l'eau",
+  "includedEntities": [
+    {
+      "entityName": "eau",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "résilience",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la stratégie européenne de résilience hydrique.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "sécheresse",
+    "pollution",
+    "agriculture"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quel financement ?",
+    "Quelle mise en œuvre ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENVIRONNEMENT",
+    "#EAU"
+  ],
+  "events": [],
+  "signals": [
+    "!ENVIRONNEMENT"
+  ],
+  "isDeleted": false
+}

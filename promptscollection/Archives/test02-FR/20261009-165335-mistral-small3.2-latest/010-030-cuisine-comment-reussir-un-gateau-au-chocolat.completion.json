@@ -1,0 +1,13 @@
+{
+  "index": 10,
+  "file": "030-cuisine-comment-reussir-un-gateau-au-chocolat.prompt.json",
+  "prompt": "Comment réussir un gâteau au chocolat moelleux ?",
+  "promptWords": 8,
+  "completion": "Voici une recette simple et efficace pour réussir un gâteau au chocolat moelleux :\n\n### Ingrédients :\n- 200 g de chocolat noir (de préférence à 70% de cacao)\n- 150 g de beurre\n- 4 œufs\n- 150 g de sucre\n- 80 g de farine\n- 1 sachet de levure chimique\n- 1 pincée de sel\n\n### Étapes de préparation :\n\n1. **Préchauffez le four** à 180°C (thermostat 6). Beurrez et farinez un moule à gâteau.\n\n2. **Faites fondre le chocolat et le beurre** au bain-marie ou au micro-ondes (par intervalles de 20 secondes). Mélangez jusqu'à obtenir une texture lisse.\n\n3. **Dans un saladier**, battez les œufs avec le sucre jusqu'à ce que le mélange blanchisse. Ajoutez ensuite le chocolat fondu et mélangez bien.\n\n4. **Incorporez la farine, la levure et la pincée de sel**. Mélangez délicatement pour éviter les grumeaux.\n\n5. **Versez la pâte** dans le moule préparé et enfournez pendant **25 à 30 minutes**. Vérifiez la cuisson en plantant la lame d'un couteau au centre du gâteau : elle doit ressortir propre.\n\n6. **Laissez refroidir** le gâteau avant de le démouler.\n\n### Conseils pour un gâteau moelleux :\n- Utilisez du chocolat de bonne qualité pour un meilleur goût.\n- Ne surcuisez pas le gâteau, sinon il deviendra sec.\n- Vous pouvez ajouter des noix, des framboises ou des éclats de noisettes pour varier les plaisirs.\n\nBon appétit ! \uD83C\uDF6B\uD83C\uDF70",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:55:17.7957649+02:00",
+  "durationSeconds": 9.09,
+  "stats": "mistral-small3.2:latest · 520 + 422 tokens · 9,1 s",
+  "isError": false,
+  "language": "FR"
+}

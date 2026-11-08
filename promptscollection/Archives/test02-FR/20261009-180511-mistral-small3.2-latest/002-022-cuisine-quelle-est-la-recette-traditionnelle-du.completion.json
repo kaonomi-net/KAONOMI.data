@@ -1,0 +1,13 @@
+{
+  "index": 2,
+  "file": "022-cuisine-quelle-est-la-recette-traditionnelle-du.prompt.json",
+  "prompt": "Quelle est la recette traditionnelle du bœuf bourguignon ?",
+  "promptWords": 9,
+  "completion": "Le bœuf bourguignon est un plat emblématique de la cuisine française, originaire de Bourgogne. Voici une recette traditionnelle :\n\n### Ingrédients (pour 6 personnes) :\n- 1,5 kg de bœuf à bourguignon (paleron, joue ou gîte)\n- 200 g de lardons fumés\n- 500 g de petits oignons grelots (ou oignons perlés)\n- 500 g de champignons de Paris\n- 2 carottes\n- 2 gousses d'ail\n- 1 bouteille de vin rouge de Bourgogne (ou autre vin rouge corsé)\n- 2 cuillères à soupe de farine\n- 2 cuillères à soupe d'huile d'olive\n- 1 bouquet garni (thym, laurier, persil)\n- Sel et poivre\n\n### Préparation :\n\n1. **Préparer la viande** :\n   - Coupez la viande en gros cubes.\n   - Dans une cocotte en fonte, faites chauffer l'huile d'olive et faites revenir les lardons jusqu'à ce qu'ils soient dorés. Retirez-les et réservez.\n   - Dans la même cocotte, faites dorer les morceaux de bœuf par petites quantités. Retirez-les et réservez.\n\n2. **Faire revenir les légumes** :\n   - Dans la même cocotte, ajoutez les carottes coupées en rondelles et les oignons grelots. Faites-les revenir quelques minutes.\n   - Ajoutez l'ail écrasé et les champignons émincés. Faites revenir 2-3 minutes.\n\n3. **Mouiller avec le vin** :\n   - Remettez la viande et les lardons dans la cocotte.\n   - Saupoudrez de farine et mélangez bien.\n   - Versez le vin rouge jusqu'à couvrir la viande.\n   - Ajoutez le bouquet garni, salez et poivrez.\n\n4. **Cuisson** :\n   - Portez à ébullition, puis baissez le feu et laissez mijoter à couvert pendant 2h30 à 3 heures à feu doux (la viande doit être tendre et se détacher facilement).\n\n5. **Dernières touches** :\n   - Retirez le bouquet garni.\n   - Si la sauce est trop liquide, laissez-la réduire à feu doux.\n   - Rectifiez l'assaisonnement si nécessaire.\n\n6. **Service** :\n   - Servez bien chaud avec des pommes de terre vapeur, des pâtes fraîches ou du pain frais.\n\nBon appétit !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T18:05:31.9157364+02:00",
+  "durationSeconds": 12.07,
+  "stats": "mistral-small3.2:latest · 522 + 575 tokens · 12,1 s",
+  "isError": false,
+  "language": "FR"
+}

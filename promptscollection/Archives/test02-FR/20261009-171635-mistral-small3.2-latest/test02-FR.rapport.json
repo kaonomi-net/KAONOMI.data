@@ -1,0 +1,598 @@
+{
+  "collection": "test02-FR",
+  "collectionFolder": "N:\\promptscollection\\test02-FR",
+  "model": "mistral-small3.2:latest",
+  "language": "FR",
+  "date": "2026-10-09T17:16:35.5904815+02:00",
+  "endDate": "2026-10-09T17:30:47.3939304+02:00",
+  "executionTimeSeconds": 846,
+  "executionTime": "00:14:06",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "promptCount": 80,
+  "sentCount": 80,
+  "skippedCount": 0,
+  "stopped": false,
+  "totalPromptWords": 585,
+  "topicsSummary": "Les prompts couvrent principalement trois sujets : la cuisine et la gastronomie, l'intelligence artificielle et les technologies connexes, ainsi que les sciences physiques et mathématiques. Les questions portent sur des recettes, des techniques culinaires, des concepts d'IA, des principes scientifiques et des notions mathématiques.",
+  "topics": [
+    {
+      "topic": "Cuisine et gastronomie",
+      "promptCount": 20
+    },
+    {
+      "topic": "Intelligence artificielle",
+      "promptCount": 18
+    },
+    {
+      "topic": "Sciences physiques",
+      "promptCount": 18
+    },
+    {
+      "topic": "Mathématiques",
+      "promptCount": 14
+    }
+  ],
+  "items": [
+    {
+      "index": 1,
+      "file": "021-cuisine-comment-reussir-une-pate-a-crepes.prompt.json",
+      "prompt": "Comment réussir une pâte à crêpes sans grumeaux ?",
+      "promptWords": 9,
+      "completionFile": "001-021-cuisine-comment-reussir-une-pate-a-crepes.completion.json"
+    },
+    {
+      "index": 2,
+      "file": "022-cuisine-quelle-est-la-recette-traditionnelle-du.prompt.json",
+      "prompt": "Quelle est la recette traditionnelle du bœuf bourguignon ?",
+      "promptWords": 9,
+      "completionFile": "002-022-cuisine-quelle-est-la-recette-traditionnelle-du.completion.json"
+    },
+    {
+      "index": 3,
+      "file": "023-cuisine-comment-faire-une-mayonnaise-maison-qui.prompt.json",
+      "prompt": "Comment faire une mayonnaise maison qui ne rate pas ?",
+      "promptWords": 10,
+      "completionFile": "003-023-cuisine-comment-faire-une-mayonnaise-maison-qui.completion.json"
+    },
+    {
+      "index": 4,
+      "file": "024-cuisine-combien-de-temps-faut-il-cuire.prompt.json",
+      "prompt": "Combien de temps faut-il cuire un œuf mollet ?",
+      "promptWords": 9,
+      "completionFile": "004-024-cuisine-combien-de-temps-faut-il-cuire.completion.json"
+    },
+    {
+      "index": 5,
+      "file": "025-cuisine-comment-reussir-une-pate-brisee-maison.prompt.json",
+      "prompt": "Comment réussir une pâte brisée maison ?",
+      "promptWords": 7,
+      "completionFile": "005-025-cuisine-comment-reussir-une-pate-brisee-maison.completion.json"
+    },
+    {
+      "index": 6,
+      "file": "026-cuisine-quelle-est-la-difference-entre-la.prompt.json",
+      "prompt": "Quelle est la différence entre la levure chimique et la levure de boulanger ?",
+      "promptWords": 14,
+      "completionFile": "006-026-cuisine-quelle-est-la-difference-entre-la.completion.json"
+    },
+    {
+      "index": 7,
+      "file": "027-cuisine-comment-faire-une-sauce-bechamel.prompt.json",
+      "prompt": "Comment faire une sauce béchamel ?",
+      "promptWords": 6,
+      "completionFile": "007-027-cuisine-comment-faire-une-sauce-bechamel.completion.json"
+    },
+    {
+      "index": 8,
+      "file": "028-cuisine-comment-cuire-du-riz-pour-qu.prompt.json",
+      "prompt": "Comment cuire du riz pour qu'il ne colle pas ?",
+      "promptWords": 10,
+      "completionFile": "008-028-cuisine-comment-cuire-du-riz-pour-qu.completion.json"
+    },
+    {
+      "index": 9,
+      "file": "029-cuisine-quelle-est-la-recette-de-la.prompt.json",
+      "prompt": "Quelle est la recette de la quiche lorraine ?",
+      "promptWords": 9,
+      "completionFile": "009-029-cuisine-quelle-est-la-recette-de-la.completion.json"
+    },
+    {
+      "index": 10,
+      "file": "030-cuisine-comment-reussir-un-gateau-au-chocolat.prompt.json",
+      "prompt": "Comment réussir un gâteau au chocolat moelleux ?",
+      "promptWords": 8,
+      "completionFile": "010-030-cuisine-comment-reussir-un-gateau-au-chocolat.completion.json"
+    },
+    {
+      "index": 11,
+      "file": "031-cuisine-comment-faire-un-pot-au-feu.prompt.json",
+      "prompt": "Comment faire un pot-au-feu ?",
+      "promptWords": 5,
+      "completionFile": "011-031-cuisine-comment-faire-un-pot-au-feu.completion.json"
+    },
+    {
+      "index": 12,
+      "file": "032-cuisine-quels-legumes-sont-de-saison-en.prompt.json",
+      "prompt": "Quels légumes sont de saison en automne ?",
+      "promptWords": 8,
+      "completionFile": "012-032-cuisine-quels-legumes-sont-de-saison-en.completion.json"
+    },
+    {
+      "index": 13,
+      "file": "033-cuisine-comment-faire-une-vinaigrette-equilibree.prompt.json",
+      "prompt": "Comment faire une vinaigrette équilibrée ?",
+      "promptWords": 6,
+      "completionFile": "013-033-cuisine-comment-faire-une-vinaigrette-equilibree.completion.json"
+    },
+    {
+      "index": 14,
+      "file": "034-cuisine-comment-reussir-une-ratatouille.prompt.json",
+      "prompt": "Comment réussir une ratatouille ?",
+      "promptWords": 5,
+      "completionFile": "014-034-cuisine-comment-reussir-une-ratatouille.completion.json"
+    },
+    {
+      "index": 15,
+      "file": "035-cuisine-quelle-est-la-recette-de-la.prompt.json",
+      "prompt": "Quelle est la recette de la blanquette de veau ?",
+      "promptWords": 10,
+      "completionFile": "015-035-cuisine-quelle-est-la-recette-de-la.completion.json"
+    },
+    {
+      "index": 16,
+      "file": "036-cuisine-comment-cuire-un-steak-a-la.prompt.json",
+      "prompt": "Comment cuire un steak à la perfection selon la cuisson souhaitée ?",
+      "promptWords": 12,
+      "completionFile": "016-036-cuisine-comment-cuire-un-steak-a-la.completion.json"
+    },
+    {
+      "index": 17,
+      "file": "037-cuisine-comment-faire-du-pain-maison.prompt.json",
+      "prompt": "Comment faire du pain maison ?",
+      "promptWords": 6,
+      "completionFile": "017-037-cuisine-comment-faire-du-pain-maison.completion.json"
+    },
+    {
+      "index": 18,
+      "file": "038-cuisine-comment-reussir-des-macarons.prompt.json",
+      "prompt": "Comment réussir des macarons ?",
+      "promptWords": 5,
+      "completionFile": "018-038-cuisine-comment-reussir-des-macarons.completion.json"
+    },
+    {
+      "index": 19,
+      "file": "039-cuisine-quels-vins-servir-avec-un-plateau.prompt.json",
+      "prompt": "Quels vins servir avec un plateau de fromages ?",
+      "promptWords": 9,
+      "completionFile": "019-039-cuisine-quels-vins-servir-avec-un-plateau.completion.json"
+    },
+    {
+      "index": 20,
+      "file": "040-cuisine-comment-conserver-les-herbes-aromatiques-fraiches.prompt.json",
+      "prompt": "Comment conserver les herbes aromatiques fraîches plus longtemps ?",
+      "promptWords": 9,
+      "completionFile": "020-040-cuisine-comment-conserver-les-herbes-aromatiques-fraiches.completion.json"
+    },
+    {
+      "index": 21,
+      "file": "041-intelligence-artificielle-qu-est-ce-que-l-intelligence.prompt.json",
+      "prompt": "Qu'est-ce que l'intelligence artificielle ?",
+      "promptWords": 5,
+      "completionFile": "021-041-intelligence-artificielle-qu-est-ce-que-l-intelligence.completion.json"
+    },
+    {
+      "index": 22,
+      "file": "042-intelligence-artificielle-quelle-est-la-difference-entre-l.prompt.json",
+      "prompt": "Quelle est la différence entre l'IA, le machine learning et le deep learning ?",
+      "promptWords": 14,
+      "completionFile": "022-042-intelligence-artificielle-quelle-est-la-difference-entre-l.completion.json"
+    },
+    {
+      "index": 23,
+      "file": "043-intelligence-artificielle-comment-fonctionne-un-grand-modele-de.prompt.json",
+      "prompt": "Comment fonctionne un grand modèle de langage comme ChatGPT ?",
+      "promptWords": 10,
+      "completionFile": "023-043-intelligence-artificielle-comment-fonctionne-un-grand-modele-de.completion.json"
+    },
+    {
+      "index": 24,
+      "file": "044-intelligence-artificielle-qu-est-ce-qu-un-reseau.prompt.json",
+      "prompt": "Qu'est-ce qu'un réseau de neurones ?",
+      "promptWords": 6,
+      "completionFile": "024-044-intelligence-artificielle-qu-est-ce-qu-un-reseau.completion.json"
+    },
+    {
+      "index": 25,
+      "file": "045-intelligence-artificielle-l-ia-va-t-elle-remplacer.prompt.json",
+      "prompt": "L'IA va-t-elle remplacer les emplois ?",
+      "promptWords": 6,
+      "completionFile": "025-045-intelligence-artificielle-l-ia-va-t-elle-remplacer.completion.json"
+    },
+    {
+      "index": 26,
+      "file": "046-intelligence-artificielle-qu-est-ce-que-l-ia.prompt.json",
+      "prompt": "Qu'est-ce que l'IA générative ?",
+      "promptWords": 5,
+      "completionFile": "026-046-intelligence-artificielle-qu-est-ce-que-l-ia.completion.json"
+    },
+    {
+      "index": 27,
+      "file": "047-intelligence-artificielle-comment-entraine-t-on-un-modele.prompt.json",
+      "prompt": "Comment entraîne-t-on un modèle d'IA ?",
+      "promptWords": 6,
+      "completionFile": "027-047-intelligence-artificielle-comment-entraine-t-on-un-modele.completion.json"
+    },
+    {
+      "index": 28,
+      "file": "048-intelligence-artificielle-qu-est-ce-qu-une-hallucination.prompt.json",
+      "prompt": "Qu'est-ce qu'une hallucination d'un modèle d'IA ?",
+      "promptWords": 7,
+      "completionFile": "028-048-intelligence-artificielle-qu-est-ce-qu-une-hallucination.completion.json"
+    },
+    {
+      "index": 29,
+      "file": "049-intelligence-artificielle-quels-sont-les-risques-de-l.prompt.json",
+      "prompt": "Quels sont les risques de l'intelligence artificielle ?",
+      "promptWords": 8,
+      "completionFile": "029-049-intelligence-artificielle-quels-sont-les-risques-de-l.completion.json"
+    },
+    {
+      "index": 30,
+      "file": "050-intelligence-artificielle-qu-est-ce-que-l-apprentissage.prompt.json",
+      "prompt": "Qu'est-ce que l'apprentissage supervisé et non supervisé ?",
+      "promptWords": 8,
+      "completionFile": "030-050-intelligence-artificielle-qu-est-ce-que-l-apprentissage.completion.json"
+    },
+    {
+      "index": 31,
+      "file": "051-intelligence-artificielle-qu-est-ce-qu-un-prompt.prompt.json",
+      "prompt": "Qu'est-ce qu'un prompt et comment bien l'écrire ?",
+      "promptWords": 8,
+      "completionFile": "031-051-intelligence-artificielle-qu-est-ce-qu-un-prompt.completion.json"
+    },
+    {
+      "index": 32,
+      "file": "052-intelligence-artificielle-qu-est-ce-que-l-ia.prompt.json",
+      "prompt": "Qu'est-ce que l'IA Act européen ?",
+      "promptWords": 6,
+      "completionFile": "032-052-intelligence-artificielle-qu-est-ce-que-l-ia.completion.json"
+    },
+    {
+      "index": 33,
+      "file": "053-intelligence-artificielle-une-ia-peut-elle-etre-consciente.prompt.json",
+      "prompt": "Une IA peut-elle être consciente ?",
+      "promptWords": 6,
+      "completionFile": "033-053-intelligence-artificielle-une-ia-peut-elle-etre-consciente.completion.json"
+    },
+    {
+      "index": 34,
+      "file": "054-intelligence-artificielle-qu-est-ce-que-le-test.prompt.json",
+      "prompt": "Qu'est-ce que le test de Turing ?",
+      "promptWords": 7,
+      "completionFile": "034-054-intelligence-artificielle-qu-est-ce-que-le-test.completion.json"
+    },
+    {
+      "index": 35,
+      "file": "055-intelligence-artificielle-comment-l-ia-est-elle-utilisee.prompt.json",
+      "prompt": "Comment l'IA est-elle utilisée en médecine ?",
+      "promptWords": 7,
+      "completionFile": "035-055-intelligence-artificielle-comment-l-ia-est-elle-utilisee.completion.json"
+    },
+    {
+      "index": 36,
+      "file": "056-intelligence-artificielle-qu-est-ce-que-le-rag.prompt.json",
+      "prompt": "Qu'est-ce que le RAG (Retrieval Augmented Generation) ?",
+      "promptWords": 8,
+      "completionFile": "036-056-intelligence-artificielle-qu-est-ce-que-le-rag.completion.json"
+    },
+    {
+      "index": 37,
+      "file": "057-intelligence-artificielle-quelle-est-la-difference-entre-une.prompt.json",
+      "prompt": "Quelle est la différence entre une IA faible et une IA forte ?",
+      "promptWords": 13,
+      "completionFile": "037-057-intelligence-artificielle-quelle-est-la-difference-entre-une.completion.json"
+    },
+    {
+      "index": 38,
+      "file": "058-intelligence-artificielle-comment-l-ia-reconnait-elle-les.prompt.json",
+      "prompt": "Comment l'IA reconnaît-elle les images ?",
+      "promptWords": 6,
+      "completionFile": "038-058-intelligence-artificielle-comment-l-ia-reconnait-elle-les.completion.json"
+    },
+    {
+      "index": 39,
+      "file": "059-intelligence-artificielle-qu-est-ce-qu-un-biais.prompt.json",
+      "prompt": "Qu'est-ce qu'un biais algorithmique ?",
+      "promptWords": 5,
+      "completionFile": "039-059-intelligence-artificielle-qu-est-ce-qu-un-biais.completion.json"
+    },
+    {
+      "index": 40,
+      "file": "060-intelligence-artificielle-peut-on-faire-tourner-un-modele.prompt.json",
+      "prompt": "Peut-on faire tourner un modèle d'IA en local sur son ordinateur ?",
+      "promptWords": 12,
+      "completionFile": "040-060-intelligence-artificielle-peut-on-faire-tourner-un-modele.completion.json"
+    },
+    {
+      "index": 41,
+      "file": "061-physique-qu-est-ce-que-la-physique.prompt.json",
+      "prompt": "Qu'est-ce que la physique quantique expliquée simplement ?",
+      "promptWords": 8,
+      "completionFile": "041-061-physique-qu-est-ce-que-la-physique.completion.json"
+    },
+    {
+      "index": 42,
+      "file": "062-physique-qu-est-ce-que-la-theorie.prompt.json",
+      "prompt": "Qu'est-ce que la théorie de la relativité d'Einstein ?",
+      "promptWords": 9,
+      "completionFile": "042-062-physique-qu-est-ce-que-la-theorie.completion.json"
+    },
+    {
+      "index": 43,
+      "file": "063-physique-pourquoi-le-ciel-est-il-bleu.prompt.json",
+      "prompt": "Pourquoi le ciel est-il bleu ?",
+      "promptWords": 6,
+      "completionFile": "043-063-physique-pourquoi-le-ciel-est-il-bleu.completion.json"
+    },
+    {
+      "index": 44,
+      "file": "064-physique-qu-est-ce-qu-un-trou.prompt.json",
+      "prompt": "Qu'est-ce qu'un trou noir ?",
+      "promptWords": 5,
+      "completionFile": "044-064-physique-qu-est-ce-qu-un-trou.completion.json"
+    },
+    {
+      "index": 45,
+      "file": "065-physique-que-signifie-e-mc2.prompt.json",
+      "prompt": "Que signifie E = mc² ?",
+      "promptWords": 6,
+      "completionFile": "045-065-physique-que-signifie-e-mc2.completion.json"
+    },
+    {
+      "index": 46,
+      "file": "066-physique-qu-est-ce-que-la-gravite.prompt.json",
+      "prompt": "Qu'est-ce que la gravité ?",
+      "promptWords": 5,
+      "completionFile": "046-066-physique-qu-est-ce-que-la-gravite.completion.json"
+    },
+    {
+      "index": 47,
+      "file": "067-physique-comment-fonctionne-l-electricite.prompt.json",
+      "prompt": "Comment fonctionne l'électricité ?",
+      "promptWords": 4,
+      "completionFile": "047-067-physique-comment-fonctionne-l-electricite.completion.json"
+    },
+    {
+      "index": 48,
+      "file": "068-physique-qu-est-ce-que-le-big.prompt.json",
+      "prompt": "Qu'est-ce que le Big Bang ?",
+      "promptWords": 6,
+      "completionFile": "048-068-physique-qu-est-ce-que-le-big.completion.json"
+    },
+    {
+      "index": 49,
+      "file": "069-physique-quelle-est-la-vitesse-de-la.prompt.json",
+      "prompt": "Quelle est la vitesse de la lumière et pourquoi ne peut-on pas la dépasser ?",
+      "promptWords": 15,
+      "completionFile": "049-069-physique-quelle-est-la-vitesse-de-la.completion.json"
+    },
+    {
+      "index": 50,
+      "file": "070-physique-qu-est-ce-qu-un-atome.prompt.json",
+      "prompt": "Qu'est-ce qu'un atome ?",
+      "promptWords": 4,
+      "completionFile": "050-070-physique-qu-est-ce-qu-un-atome.completion.json"
+    },
+    {
+      "index": 51,
+      "file": "071-physique-qu-est-ce-que-l-energie.prompt.json",
+      "prompt": "Qu'est-ce que l'énergie noire et la matière noire ?",
+      "promptWords": 9,
+      "completionFile": "051-071-physique-qu-est-ce-que-l-energie.completion.json"
+    },
+    {
+      "index": 52,
+      "file": "072-physique-comment-fonctionne-une-centrale-nucleaire.prompt.json",
+      "prompt": "Comment fonctionne une centrale nucléaire ?",
+      "promptWords": 6,
+      "completionFile": "052-072-physique-comment-fonctionne-une-centrale-nucleaire.completion.json"
+    },
+    {
+      "index": 53,
+      "file": "073-physique-qu-est-ce-que-l-entropie.prompt.json",
+      "prompt": "Qu'est-ce que l'entropie ?",
+      "promptWords": 4,
+      "completionFile": "053-073-physique-qu-est-ce-que-l-entropie.completion.json"
+    },
+    {
+      "index": 54,
+      "file": "074-physique-pourquoi-les-objets-tombent-ils-a.prompt.json",
+      "prompt": "Pourquoi les objets tombent-ils à la même vitesse dans le vide ?",
+      "promptWords": 12,
+      "completionFile": "054-074-physique-pourquoi-les-objets-tombent-ils-a.completion.json"
+    },
+    {
+      "index": 55,
+      "file": "075-physique-qu-est-ce-que-le-boson.prompt.json",
+      "prompt": "Qu'est-ce que le boson de Higgs ?",
+      "promptWords": 7,
+      "completionFile": "055-075-physique-qu-est-ce-que-le-boson.completion.json"
+    },
+    {
+      "index": 56,
+      "file": "076-physique-comment-se-forme-un-arc-en.prompt.json",
+      "prompt": "Comment se forme un arc-en-ciel ?",
+      "promptWords": 6,
+      "completionFile": "056-076-physique-comment-se-forme-un-arc-en.completion.json"
+    },
+    {
+      "index": 57,
+      "file": "077-physique-qu-est-ce-que-la-dualite.prompt.json",
+      "prompt": "Qu'est-ce que la dualité onde-corpuscule ?",
+      "promptWords": 6,
+      "completionFile": "057-077-physique-qu-est-ce-que-la-dualite.completion.json"
+    },
+    {
+      "index": 58,
+      "file": "078-physique-pourquoi-fait-il-plus-froid-en.prompt.json",
+      "prompt": "Pourquoi fait-il plus froid en altitude ?",
+      "promptWords": 7,
+      "completionFile": "058-078-physique-pourquoi-fait-il-plus-froid-en.completion.json"
+    },
+    {
+      "index": 59,
+      "file": "079-physique-qu-est-ce-que-le-principe.prompt.json",
+      "prompt": "Qu'est-ce que le principe d'incertitude d'Heisenberg ?",
+      "promptWords": 7,
+      "completionFile": "059-079-physique-qu-est-ce-que-le-principe.completion.json"
+    },
+    {
+      "index": 60,
+      "file": "080-physique-comment-fonctionne-un-aimant.prompt.json",
+      "prompt": "Comment fonctionne un aimant ?",
+      "promptWords": 5,
+      "completionFile": "060-080-physique-comment-fonctionne-un-aimant.completion.json"
+    },
+    {
+      "index": 61,
+      "file": "081-mathematiques-qu-est-ce-que-le-nombre.prompt.json",
+      "prompt": "Qu'est-ce que le nombre pi et pourquoi est-il infini ?",
+      "promptWords": 10,
+      "completionFile": "061-081-mathematiques-qu-est-ce-que-le-nombre.completion.json"
+    },
+    {
+      "index": 62,
+      "file": "082-mathematiques-comment-resoudre-une-equation-du-second.prompt.json",
+      "prompt": "Comment résoudre une équation du second degré ?",
+      "promptWords": 8,
+      "completionFile": "062-082-mathematiques-comment-resoudre-une-equation-du-second.completion.json"
+    },
+    {
+      "index": 63,
+      "file": "083-mathematiques-qu-est-ce-que-le-theoreme.prompt.json",
+      "prompt": "Qu'est-ce que le théorème de Pythagore ?",
+      "promptWords": 7,
+      "completionFile": "063-083-mathematiques-qu-est-ce-que-le-theoreme.completion.json"
+    },
+    {
+      "index": 64,
+      "file": "084-mathematiques-qu-est-ce-qu-un-nombre.prompt.json",
+      "prompt": "Qu'est-ce qu'un nombre premier ?",
+      "promptWords": 5,
+      "completionFile": "064-084-mathematiques-qu-est-ce-qu-un-nombre.completion.json"
+    },
+    {
+      "index": 65,
+      "file": "085-mathematiques-comment-calculer-un-pourcentage.prompt.json",
+      "prompt": "Comment calculer un pourcentage ?",
+      "promptWords": 5,
+      "completionFile": "065-085-mathematiques-comment-calculer-un-pourcentage.completion.json"
+    },
+    {
+      "index": 66,
+      "file": "086-mathematiques-qu-est-ce-qu-une-derivee.prompt.json",
+      "prompt": "Qu'est-ce qu'une dérivée ?",
+      "promptWords": 4,
+      "completionFile": "066-086-mathematiques-qu-est-ce-qu-une-derivee.completion.json"
+    },
+    {
+      "index": 67,
+      "file": "087-mathematiques-qu-est-ce-qu-une-integrale.prompt.json",
+      "prompt": "Qu'est-ce qu'une intégrale ?",
+      "promptWords": 4,
+      "completionFile": "067-087-mathematiques-qu-est-ce-qu-une-integrale.completion.json"
+    },
+    {
+      "index": 68,
+      "file": "088-mathematiques-pourquoi-ne-peut-on-pas-diviser.prompt.json",
+      "prompt": "Pourquoi ne peut-on pas diviser par zéro ?",
+      "promptWords": 8,
+      "completionFile": "068-088-mathematiques-pourquoi-ne-peut-on-pas-diviser.completion.json"
+    },
+    {
+      "index": 69,
+      "file": "089-mathematiques-qu-est-ce-que-la-suite.prompt.json",
+      "prompt": "Qu'est-ce que la suite de Fibonacci ?",
+      "promptWords": 7,
+      "completionFile": "069-089-mathematiques-qu-est-ce-que-la-suite.completion.json"
+    },
+    {
+      "index": 70,
+      "file": "090-mathematiques-qu-est-ce-que-le-nombre.prompt.json",
+      "prompt": "Qu'est-ce que le nombre d'or ?",
+      "promptWords": 6,
+      "completionFile": "070-090-mathematiques-qu-est-ce-que-le-nombre.completion.json"
+    },
+    {
+      "index": 71,
+      "file": "091-mathematiques-qu-est-ce-qu-un-logarithme.prompt.json",
+      "prompt": "Qu'est-ce qu'un logarithme ?",
+      "promptWords": 4,
+      "completionFile": "071-091-mathematiques-qu-est-ce-qu-un-logarithme.completion.json"
+    },
+    {
+      "index": 72,
+      "file": "092-mathematiques-comment-calculer-une-probabilite-simple.prompt.json",
+      "prompt": "Comment calculer une probabilité simple ?",
+      "promptWords": 6,
+      "completionFile": "072-092-mathematiques-comment-calculer-une-probabilite-simple.completion.json"
+    },
+    {
+      "index": 73,
+      "file": "093-mathematiques-qu-est-ce-que-l-infini.prompt.json",
+      "prompt": "Qu'est-ce que l'infini en mathématiques ?",
+      "promptWords": 6,
+      "completionFile": "073-093-mathematiques-qu-est-ce-que-l-infini.completion.json"
+    },
+    {
+      "index": 74,
+      "file": "094-mathematiques-qu-est-ce-qu-un-nombre.prompt.json",
+      "prompt": "Qu'est-ce qu'un nombre complexe ?",
+      "promptWords": 5,
+      "completionFile": "074-094-mathematiques-qu-est-ce-qu-un-nombre.completion.json"
+    },
+    {
+      "index": 75,
+      "file": "095-mathematiques-comment-calculer-la-moyenne-la-mediane.prompt.json",
+      "prompt": "Comment calculer la moyenne, la médiane et l'écart type ?",
+      "promptWords": 10,
+      "completionFile": "075-095-mathematiques-comment-calculer-la-moyenne-la-mediane.completion.json"
+    },
+    {
+      "index": 76,
+      "file": "096-mathematiques-qu-est-ce-que-le-theoreme.prompt.json",
+      "prompt": "Qu'est-ce que le théorème de Thalès ?",
+      "promptWords": 7,
+      "completionFile": "076-096-mathematiques-qu-est-ce-que-le-theoreme.completion.json"
+    },
+    {
+      "index": 77,
+      "file": "097-mathematiques-qu-est-ce-qu-une-fonction.prompt.json",
+      "prompt": "Qu'est-ce qu'une fonction exponentielle ?",
+      "promptWords": 5,
+      "completionFile": "077-097-mathematiques-qu-est-ce-qu-une-fonction.completion.json"
+    },
+    {
+      "index": 78,
+      "file": "098-mathematiques-qu-est-ce-que-la-conjecture.prompt.json",
+      "prompt": "Qu'est-ce que la conjecture de Riemann ?",
+      "promptWords": 7,
+      "completionFile": "078-098-mathematiques-qu-est-ce-que-la-conjecture.completion.json"
+    },
+    {
+      "index": 79,
+      "file": "099-mathematiques-comment-fonctionne-le-raisonnement-par-recurrence.prompt.json",
+      "prompt": "Comment fonctionne le raisonnement par récurrence ?",
+      "promptWords": 7,
+      "completionFile": "079-099-mathematiques-comment-fonctionne-le-raisonnement-par-recurrence.completion.json"
+    },
+    {
+      "index": 80,
+      "file": "100-mathematiques-qu-est-ce-qu-une-matrice.prompt.json",
+      "prompt": "Qu'est-ce qu'une matrice et à quoi sert-elle ?",
+      "promptWords": 8,
+      "completionFile": "080-100-mathematiques-qu-est-ce-qu-une-matrice.completion.json"
+    }
+  ]
+}

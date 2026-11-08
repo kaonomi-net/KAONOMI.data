@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-nouvelles-routes-de-la-soie",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Nouvelles routes de la soie",
+  "includedEntities": [
+    {
+      "entityName": "routes de la soie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "infrastructures",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les investissements chinois dans les infrastructures étrangères.",
+  "isFuzzy": true,
+  "locations": [
+    "Asie",
+    "Afrique",
+    "Europe de l'Est"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ports",
+    "dette",
+    "Belt and Road"
+  ],
+  "questions": [
+    "Quels projets ?",
+    "Quelle dette contractée ?",
+    "Quels pays se retirent ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#CHINE",
+    "#INFLUENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

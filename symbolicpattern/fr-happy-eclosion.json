@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-eclosion",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'éclore, de sortir de l'œuf.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]closion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]clo(re|t|sent|s|se)|sorti(e|s|es)?\\s+de\\s+l['’](œ|oe)uf)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:poussin(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:oisillon(s)?)(?![\\w-])"
+  ],
+  "symbol": "éclosion",
+  "event": null,
+  "title": "Éclosion",
+  "tags": [
+    "#NATURE",
+    "#NAISSANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

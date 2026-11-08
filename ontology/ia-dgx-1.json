@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul accéléré) : Premier serveur NVIDIA dédié à l'apprentissage profond, avec huit GPU reliés par NVLink ; le premier exemplaire a été livré à OpenAI.",
+  "id": "ia-dgx-1",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "NVIDIA DGX-1",
+  "entityType": "HARDWARE",
+  "description": "Premier serveur NVIDIA dédié à l'apprentissage profond, avec huit GPU reliés par NVLink ; le premier exemplaire a été livré à OpenAI.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Le technicien a installé NVIDIA DGX-1 dans la salle des machines.",
+    "Lors du salon, le stand présentait NVIDIA DGX-1 en démonstration.",
+    "Le laboratoire utilise NVIDIA DGX-1 pour ses travaux dans le domaine du calcul accéléré."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "DGX-1"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULACCELERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NVIDIA%20DGX-1"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Jensen Huang",
+    "NVLink"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 31,
+  "file": "051-intelligence-artificielle-qu-est-ce-qu-un-prompt.prompt.json",
+  "prompt": "Qu'est-ce qu'un prompt et comment bien l'écrire ?",
+  "promptWords": 8,
+  "completion": "Un **prompt** est une instruction ou une question que vous donnez à un modèle de langage comme moi pour obtenir une réponse précise et utile. Bien écrire un prompt est essentiel pour obtenir des résultats pertinents et adaptés à vos besoins.\n\n### **Comment bien écrire un prompt ?**\n\n1. **Soyez clair et précis** :\n   - Évitez les formulations vagues. Plus votre demande est détaillée, plus la réponse sera adaptée.\n   - *Exemple* : Au lieu de demander *\"Parlez-moi de l'histoire de la France\"*, préférez *\"Quels sont les événements clés de la Révolution française entre 1789 et 1799 ?\"*\n\n2. **Définissez le contexte** :\n   - Si votre question nécessite des connaissances spécifiques, mentionnez-les.\n   - *Exemple* : *\"Expliquez la théorie de la relativité d'Einstein comme si j'étais un étudiant en physique.\"*\n\n3. **Spécifiez le format de réponse souhaité** :\n   - Vous pouvez demander une liste, un résumé, une explication détaillée, etc.\n   - *Exemple* : *\"Faites une liste des 5 meilleurs restaurants italiens à Paris.\"*\n\n4. **Utilisez des mots-clés pertinents** :\n   - Les termes précis aident le modèle à mieux comprendre votre demande.\n   - *Exemple* : *\"Quelles sont les différences entre l'IA générative et l'IA prédictive ?\"*\n\n5. **Évitez les ambiguïtés** :\n   - Si votre question peut avoir plusieurs interprétations, précisez ce que vous attendez.\n   - *Exemple* : *\"Quels sont les avantages du télétravail pour les employés ?\"* (plutôt que *\"Parlez-moi du télétravail\"*).\n\n6. **Demandez des exemples si nécessaire** :\n   - Si vous voulez des illustrations concrètes, mentionnez-le.\n   - *Exemple* : *\"Donnez-moi des exemples de métiers qui utilisent l'intelligence artificielle.\"*\n\n7. **Adaptez le ton et le style** :\n   - Vous pouvez demander une réponse formelle, informelle, technique, simplifiée, etc.\n   - *Exemple* : *\"Expliquez le changement climatique de manière simple pour un enfant.\"*\n\n### **Exemple de bon prompt vs. mauvais prompt**\n- **Mauvais** : *\"Parlez-moi de l'art.\"*\n- **Bon** : *\"Quelles sont les caractéristiques principales de l'impressionnisme, et quels sont ses artistes les plus célèbres ?\"*\n\nEn résumé, un bon prompt est **clair, précis, contextualisé et structuré** pour obtenir la meilleure réponse possible. \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:58:59.5162377+02:00",
+  "durationSeconds": 12.1,
+  "stats": "mistral-small3.2:latest · 520 + 573 tokens · 12,1 s",
+  "isError": false,
+  "language": "FR"
+}

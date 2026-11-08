@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-drones-ukrainiens-egares-dans-les-pays-baltes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Drones ukrainiens égarés dans les pays baltes",
+  "includedEntities": [
+    {
+      "entityName": "drones ukrainiens",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "pays baltes",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les drones ukrainiens égarés lors de frappes en Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Lettonie",
+    "Estonie",
+    "Lituanie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "brouillage",
+    "Russie",
+    "sécurité"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quels dégâts ?",
+    "Quelle coordination avec Kyiv ?"
+  ],
+  "tags": [
+    "#BALTES",
+    "#DRONES",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@INCURSION"
+  ],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

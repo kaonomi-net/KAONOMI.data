@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-vix",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "VIX",
+  "entityType": "PRODUCT",
+  "description": "Cité par 2 intels : Krach ou forte baisse des marchés ; Volatilité des marchés.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Surveiller les fortes baisses des marchés et leurs causes.",
+    "Suivre les indices de volatilité et la nervosité des investisseurs."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "VIX",
+  "tags": [
+    "#BOURSE",
+    "#RISQUE",
+    "#VOLATILITE"
+  ],
+  "events": [
+    "@CHUTE-BOURSIERE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!INCERTITUDE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "volatilité",
+    "Bourse",
+    "krach",
+    "chute",
+    "ventes paniques",
+    "VCAC",
+    "options"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

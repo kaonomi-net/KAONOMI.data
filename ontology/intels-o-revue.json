@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-revue",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "revue",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Audit de sécurité de code ; Assistants de code et failles ; Revues et publications en psychologie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les audits de sécurité du code.",
+    "Suivre les failles introduites par le code généré par IA.",
+    "Suivre les études marquantes publiées en psychologie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "revue",
+  "tags": [
+    "#CYBERSECURITE",
+    "#APPSEC",
+    "#IA",
+    "#PSYCHOLOGIE",
+    "#RECHERCHE"
+  ],
+  "events": [
+    "@RAPPORT",
+    "@PUBLICATION"
+  ],
+  "signals": [
+    "!DEFENSE",
+    "!RISQUE",
+    "!SCIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "failles",
+    "open source",
+    "audit de code",
+    "outils",
+    "secrets",
+    "assistants de code",
+    "code généré",
+    "dépendances inventées",
+    "étude publiée",
+    "méta-analyses"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

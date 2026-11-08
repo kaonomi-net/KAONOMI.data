@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-stmicroelectronics",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "STMicroelectronics",
+  "includedEntities": [
+    {
+      "entityName": "STMicroelectronics",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "puces",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action STMicroelectronics.",
+  "isFuzzy": true,
+  "locations": [
+    "Genève",
+    "Crolles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "automobile",
+    "industrie",
+    "restructuration"
+  ],
+  "questions": [
+    "Quelle reprise ?",
+    "Quelle prévision ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#SEMI-CONDUCTEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!VOLATILITE"
+  ],
+  "isDeleted": false
+}

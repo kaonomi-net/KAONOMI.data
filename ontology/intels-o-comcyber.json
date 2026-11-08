@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-comcyber",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "ComCyber",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Cyberdéfense militaire.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre la cyberdéfense des armées."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "ComCyber",
+  "tags": [
+    "#CYBERSECURITE",
+    "#DEFENSE",
+    "#MILITAIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "exercices",
+    "lutte informatique offensive",
+    "armées",
+    "cyberdéfense",
+    "Rennes",
+    "OTAN"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

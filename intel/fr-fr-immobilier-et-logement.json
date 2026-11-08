@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-immobilier-et-logement",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Immobilier et logement",
+  "includedEntities": [
+    {
+      "entityName": "logement",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "immobilier",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "crise",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la crise du logement et du marché immobilier.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "taux de crédit",
+    "construction",
+    "loyers"
+  ],
+  "questions": [
+    "Quelle évolution des prix ?",
+    "Combien de constructions ?",
+    "Quelles mesures ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#LOGEMENT",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

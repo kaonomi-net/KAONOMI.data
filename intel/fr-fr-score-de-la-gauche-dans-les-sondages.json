@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-score-de-la-gauche-dans-les-sondages",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Score de la gauche dans les sondages",
+  "includedEntities": [
+    {
+      "entityName": "gauche",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sondage",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "intentions de vote",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le score cumulé et dispersé des candidats de gauche.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Mélenchon",
+    "Glucksmann",
+    "écologistes"
+  ],
+  "questions": [
+    "Quel total ?",
+    "Quel candidat devant ?",
+    "Une qualification est-elle possible ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#GAUCHE",
+    "#SONDAGES"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

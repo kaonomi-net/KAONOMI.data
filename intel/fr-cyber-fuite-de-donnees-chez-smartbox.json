@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-fuite-de-donnees-chez-smartbox",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Fuite de données chez Smartbox",
+  "includedEntities": [
+    {
+      "entityName": "Smartbox",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "fuite de données",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'accès non autorisé détecté le 3 novembre 2026 sur une plateforme de Smartbox.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [
+    "3 novembre 2026"
+  ],
+  "relatedEntities": [
+    "clients",
+    "adresses e-mail",
+    "CNIL"
+  ],
+  "questions": [
+    "Quelles données ?",
+    "Combien de clients ?",
+    "Quel attaquant ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

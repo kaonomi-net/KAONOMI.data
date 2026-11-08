@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-president-de-l-assemblee-nationale",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Président de l'Assemblée nationale",
+  "includedEntities": [
+    {
+      "entityName": "Yaël Braun-Pivet",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Assemblée nationale",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de la présidente de l'Assemblée nationale.",
+  "isFuzzy": true,
+  "locations": [
+    "Assemblée nationale"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "réforme du règlement",
+    "débats",
+    "incidents"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quelle polémique ?",
+    "Quel arbitrage ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PARLEMENT",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

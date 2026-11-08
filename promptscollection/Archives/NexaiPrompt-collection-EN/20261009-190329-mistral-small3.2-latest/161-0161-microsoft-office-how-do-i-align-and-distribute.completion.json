@@ -1,0 +1,13 @@
+{
+  "index": 161,
+  "file": "0161-microsoft-office-how-do-i-align-and-distribute.prompt.json",
+  "prompt": "How do I align and distribute objects in PowerPoint?",
+  "promptWords": 9,
+  "completion": "To align and distribute objects in PowerPoint, you can follow these steps:\n\n### Aligning Objects:\n1. **Select the Objects**: Click and drag to select multiple objects (shapes, images, text boxes, etc.) that you want to align.\n2. **Open the Align Menu**:\n   - Go to the **\"Format\"** tab in the ribbon (this tab appears when you have an object selected).\n   - In the **\"Arrange\"** group, click on **\"Align\"**.\n3. **Choose an Alignment Option**:\n   - **Align Left**: Aligns the left edges of the selected objects.\n   - **Align Center**: Aligns the center points of the selected objects.\n   - **Align Right**: Aligns the right edges of the selected objects.\n   - **Align Top**: Aligns the top edges of the selected objects.\n   - **Align Middle**: Aligns the middle points of the selected objects.\n   - **Align Bottom**: Aligns the bottom edges of the selected objects.\n\n### Distributing Objects:\n1. **Select the Objects**: Click and drag to select multiple objects that you want to distribute.\n2. **Open the Distribute Menu**:\n   - Go to the **\"Format\"** tab in the ribbon.\n   - In the **\"Arrange\"** group, click on **\"Distribute\"**.\n3. **Choose a Distribution Option**:\n   - **Distribute Horizontally**: Evenly spaces the selected objects horizontally.\n   - **Distribute Vertically**: Evenly spaces the selected objects vertically.\n\n### Tips:\n- **Align to Slide**: If you want to align objects relative to the slide, make sure to select the slide itself (click on the gray area outside the slide) before selecting the objects.\n- **Grid and Guides**: You can use the grid and guides to help with alignment. Go to the **\"View\"** tab and check **\"Grid\"** or **\"Guides\"**.\n\nWould you like more detailed instructions on any specific part of this process?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:33:01.3509533+02:00",
+  "durationSeconds": 10.45,
+  "stats": "mistral-small3.2:latest · 518 + 410 tokens · 10,4 s",
+  "isError": false,
+  "language": "EN"
+}

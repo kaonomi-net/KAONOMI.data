@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (le traitement du langage) : Article de Vaswani et ses collègues de Google qui introduit l'architecture Transformeur, fondement des grands modèles de langage.",
+  "id": "ia-attention-paper",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Publication de « Attention Is All You Need »",
+  "entityType": "EVENT",
+  "description": "Article de Vaswani et ses collègues de Google qui introduit l'architecture Transformeur, fondement des grands modèles de langage.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "L'événement « Publication de « Attention Is All You Need » » a marqué durablement l'histoire du traitement du langage.",
+    "La frise chronologique de la salle de cours place « Publication de « Attention Is All You Need » » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Publication de « Attention Is All You Need » »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "article sur le Transformeur"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#TRAITEMENTLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Publication%20de%20%C2%AB%20Attention%20Is%20All%20You%20Need%20%C2%BB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ashish Vaswani",
+    "Transformeur"
+  ],
+  "isDeleted": false,
+  "startDate": "2017-06-12T00:00:00",
+  "endDate": "2017-06-12T00:00:00"
+}

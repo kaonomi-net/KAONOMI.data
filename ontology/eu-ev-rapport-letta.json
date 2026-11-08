@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (le marché intérieur) : Rapport « Bien plus qu'un marché » remis au Conseil européen.",
+  "id": "eu-ev-rapport-letta",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Rapport Letta sur l'avenir du marché unique",
+  "entityType": "EVENT",
+  "description": "Rapport « Bien plus qu'un marché » remis au Conseil européen.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "« Rapport Letta sur l'avenir du marché unique » est un jalon de l'histoire de de l'Union européenne.",
+    "Les historiens de la construction européenne reviennent sur « Rapport Letta sur l'avenir du marché unique ».",
+    "La chronologie de la Commission place « Rapport Letta sur l'avenir du marché unique » à sa date."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#MARCHEINTERIEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Rapport%20Letta%20sur%20l%27avenir%20du%20march%C3%A9%20unique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Marché intérieur",
+    "Enrico Letta",
+    "Commission von der Leyen I",
+    "Union de l'épargne et des investissements"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-04-17T00:00:00",
+  "endDate": null
+}

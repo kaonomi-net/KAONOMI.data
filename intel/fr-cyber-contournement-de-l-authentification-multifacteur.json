@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-contournement-de-l-authentification-multifacteur",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Contournement de l'authentification multifacteur",
+  "includedEntities": [
+    {
+      "entityName": "authentification multifacteur",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "contournement",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les techniques qui contournent l'authentification multifacteur.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "adversaire au milieu",
+    "fatigue MFA",
+    "jetons"
+  ],
+  "questions": [
+    "Quelle technique ?",
+    "Quelle victime ?",
+    "Quelle parade ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IDENTITES",
+    "#MFA"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-trahison",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de trahir la confiance.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:trahison(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tra[îi]tre(s|sse|sses)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coup\\s+de\\s+poignard\\s+dans\\s+le\\s+dos)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:f[ée]lon(ne|s|nes)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:judas)(?![\\w-])"
+  ],
+  "symbol": "trahison",
+  "event": null,
+  "title": "Trahison",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

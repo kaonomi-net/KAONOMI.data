@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-une-universite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre une université",
+  "includedEntities": [
+    {
+      "entityName": "université",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les cyberattaques contre les universités et écoles.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "étudiants",
+    "recherche",
+    "rançongiciel"
+  ],
+  "questions": [
+    "Quel établissement ?",
+    "Quel impact ?",
+    "Quelles données ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#EDUCATION"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

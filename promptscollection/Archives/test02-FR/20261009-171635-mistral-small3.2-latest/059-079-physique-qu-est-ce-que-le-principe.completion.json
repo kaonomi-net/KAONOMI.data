@@ -1,0 +1,13 @@
+{
+  "index": 59,
+  "file": "079-physique-qu-est-ce-que-le-principe.prompt.json",
+  "prompt": "Qu'est-ce que le principe d'incertitude d'Heisenberg ?",
+  "promptWords": 7,
+  "completion": "Le principe d'incertitude d'Heisenberg, formulé par le physicien allemand Werner Heisenberg en 1927, est un fondement de la mécanique quantique. Il stipule qu'il est impossible de connaître simultanément avec une précision arbitraire la position et la quantité de mouvement (ou impulsion) d'une particule.\n\nPlus précisément, le principe d'incertitude s'exprime mathématiquement par la relation suivante :\n\n\\[ \\Delta x \\cdot \\Delta p \\geq \\frac{\\hbar}{2} \\]\n\noù :\n- \\(\\Delta x\\) est l'incertitude sur la position de la particule,\n- \\(\\Delta p\\) est l'incertitude sur sa quantité de mouvement (ou impulsion),\n- \\(\\hbar\\) est la constante de Planck réduite (\\( \\hbar = \\frac{h}{2\\pi} \\), où \\( h \\) est la constante de Planck).\n\nCe principe signifie que plus on mesure précisément la position d'une particule, moins on peut connaître précisément sa quantité de mouvement, et vice versa. Cela n'est pas dû à des limitations techniques, mais à une propriété fondamentale de la nature à l'échelle quantique.\n\nLe principe d'incertitude a des implications profondes en physique quantique et remet en question les notions classiques de déterminisme, suggérant que l'univers quantique est intrinsèquement probabiliste.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:27:14.8361574+02:00",
+  "durationSeconds": 7.04,
+  "stats": "mistral-small3.2:latest · 523 + 280 tokens · 7,0 s",
+  "isError": false,
+  "language": "FR"
+}

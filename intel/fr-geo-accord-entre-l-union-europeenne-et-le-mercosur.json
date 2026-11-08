@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-accord-entre-l-union-europeenne-et-le-mercosur",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Accord entre l'Union européenne et le Mercosur",
+  "includedEntities": [
+    {
+      "entityName": "Mercosur",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "accord commercial",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la ratification de l'accord commercial entre l'Union européenne et le Mercosur.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Brasilia",
+    "Buenos Aires"
+  ],
+  "times": [
+    "votes de ratification"
+  ],
+  "relatedEntities": [
+    "agriculteurs",
+    "France",
+    "Brésil"
+  ],
+  "questions": [
+    "Quels pays s'y opposent ?",
+    "Quel vote ?",
+    "Quelles clauses environnementales ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#COMMERCE",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [
+    "@RATIFICATION"
+  ],
+  "signals": [
+    "!TENSION-COMMERCIALE"
+  ],
+  "isDeleted": false
+}

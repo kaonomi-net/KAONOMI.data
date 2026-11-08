@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-fusillade",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Des tirs nourris d'armes à feu.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fusillade(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tir(s)?\\s+nourri(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]change(s)?\\s+de\\s+tirs)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rafale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coups\\s+de\\s+feu)(?![\\w-])"
+  ],
+  "symbol": "fusillade",
+  "event": null,
+  "title": "Fusillade",
+  "tags": [
+    "#FEAR",
+    "#GUERRE",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

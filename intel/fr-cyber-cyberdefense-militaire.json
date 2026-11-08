@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberdefense-militaire",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberdéfense militaire",
+  "includedEntities": [
+    {
+      "entityName": "cyberdéfense",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "ComCyber",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "armées",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la cyberdéfense des armées.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Rennes"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "lutte informatique offensive",
+    "OTAN",
+    "exercices"
+  ],
+  "questions": [
+    "Quel exercice ?",
+    "Quelle doctrine ?",
+    "Quels moyens ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DEFENSE",
+    "#MILITAIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

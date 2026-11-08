@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-grenoble",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "Grenoble",
+  "entityType": "CITY",
+  "description": "Cité par 2 intels : Laboratoire de recherche en IA en France ; Narcotrafic en France.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les laboratoires français de recherche en IA.",
+    "Suivre la lutte contre le narcotrafic."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Grenoble",
+  "tags": [
+    "#FRANCE",
+    "#IA",
+    "#RECHERCHE",
+    "#SECURITE",
+    "#NARCOTRAFIC"
+  ],
+  "events": [],
+  "signals": [
+    "!RECHERCHE",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "recherche",
+    "Inria",
+    "Saclay",
+    "CNRS",
+    "PRAIRIE",
+    "laboratoire",
+    "Kyutai",
+    "narcotrafic",
+    "parquet national"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

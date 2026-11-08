@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-macos",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "macOS",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 1 intel : Faille Apple exploitée.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre les failles Apple exploitées, dont celle ajoutée au catalogue de la CISA le 4 novembre 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "macOS",
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#APPLE"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "logiciel espion",
+    "Apple",
+    "iOS",
+    "faille",
+    "iPhone"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

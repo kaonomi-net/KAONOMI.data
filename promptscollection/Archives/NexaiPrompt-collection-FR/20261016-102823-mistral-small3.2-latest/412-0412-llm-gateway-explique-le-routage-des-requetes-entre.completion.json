@@ -1,0 +1,13 @@
+{
+  "index": 412,
+  "file": "0412-llm-gateway-explique-le-routage-des-requetes-entre.prompt.json",
+  "prompt": "Explique le routage des requêtes entre modèles de façon simple.",
+  "promptWords": 10,
+  "completion": "Le routage des requêtes entre modèles est un mécanisme utilisé pour diriger une question ou une requête vers le modèle le plus approprié pour y répondre. Voici une explication simple :\n\n1. **Détection de la requête** : Lorsqu'un utilisateur pose une question, le système analyse d'abord la requête pour comprendre de quoi il s'agit.\n\n2. **Choix du modèle** : Selon le type de question, le système décide quel modèle est le mieux adapté pour répondre. Par exemple :\n   - Si la question nécessite une recherche d'informations récentes, le système peut utiliser un outil de recherche web.\n   - Si la question est technique ou spécifique, le système peut diriger la requête vers un modèle spécialisé dans ce domaine.\n   - Si la question est simple et générale, le système peut utiliser un modèle de base.\n\n3. **Transmission de la requête** : Une fois le modèle approprié identifié, la requête est transmise à ce modèle pour obtenir une réponse.\n\n4. **Retour de la réponse** : Le modèle traite la requête et renvoie la réponse, qui est ensuite communiquée à l'utilisateur.\n\nEn résumé, le routage des requêtes entre modèles permet de s'assurer que chaque question est traitée par le modèle le plus adapté, améliorant ainsi la précision et la pertinence des réponses.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:40:43.8622129+02:00",
+  "durationSeconds": 5.82,
+  "stats": "mistral-small3.2:latest · 521 + 282 tokens · 5,8 s",
+  "isError": false,
+  "language": "FR"
+}

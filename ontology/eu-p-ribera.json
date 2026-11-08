@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (le Pacte vert) : Juriste, ancienne ministre espagnole de la Transition écologique, vice-présidente exécutive chargée d'une transition propre, juste et compétitive et de la concurrence depuis 2024.",
+  "id": "eu-p-ribera",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Teresa Ribera",
+  "entityType": "PERSON",
+  "description": "Juriste, ancienne ministre espagnole de la Transition écologique, vice-présidente exécutive chargée d'une transition propre, juste et compétitive et de la concurrence depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Teresa Ribera est une figure de le Pacte vert.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Teresa Ribera.",
+    "Lors du point de presse de midi, une question portait sur Teresa Ribera."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Ribera"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PACTEVERT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Teresa%20Ribera"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité espagnole",
+    "Parti socialiste ouvrier espagnol (PSOE)",
+    "Juriste",
+    "Ministre de la Transition écologique",
+    "Commissaire européen",
+    "Transition propre, juste et compétitive (Commission von der Leyen II)",
+    "Vice-président exécutif de la Commission",
+    "Commission von der Leyen II",
+    "Pacte vert",
+    "Concurrence",
+    "Action pour le climat",
+    "Direction générale de la concurrence"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

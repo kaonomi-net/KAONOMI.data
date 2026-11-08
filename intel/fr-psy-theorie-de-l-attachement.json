@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-theorie-de-l-attachement",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Théorie de l'attachement",
+  "includedEntities": [
+    {
+      "entityName": "attachement",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "théorie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre l'usage et les débats autour de la théorie de l'attachement.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "parents",
+    "couples",
+    "réseaux sociaux"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel usage ?",
+    "Quelle critique ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ATTACHEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

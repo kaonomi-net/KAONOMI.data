@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-tuerie",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un meurtre de plusieurs personnes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:tuerie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fusillade(s)?\\s+de\\s+masse)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:massacre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bain\\s+de\\s+sang)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:carnage(s)?)(?![\\w-])"
+  ],
+  "symbol": "tuerie",
+  "event": null,
+  "title": "Tuerie",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

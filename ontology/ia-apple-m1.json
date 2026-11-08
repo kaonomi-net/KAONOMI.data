@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (l'IA embarquée) : Premier système sur puce Apple pour Mac, avec mémoire unifiée et Neural Engine à seize cœurs.",
+  "id": "ia-apple-m1",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Puce Apple M1",
+  "entityType": "HARDWARE",
+  "description": "Premier système sur puce Apple pour Mac, avec mémoire unifiée et Neural Engine à seize cœurs.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Le technicien a installé Puce Apple M1 dans la salle des machines.",
+    "Lors du salon, le stand présentait Puce Apple M1 en démonstration.",
+    "Le laboratoire utilise Puce Apple M1 pour ses travaux dans le domaine de l'IA embarquée."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Apple M1"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#IAEMBARQUEE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Puce%20Apple%20M1"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Apple Neural Engine",
+    "llama.cpp"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la démocratie européenne) : Le Parlement européen réélit Ursula von der Leyen avec 401 voix pour un second mandat.",
+  "id": "eu-ev-reelection-vdl",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Réélection d'Ursula von der Leyen",
+  "entityType": "EVENT",
+  "description": "Le Parlement européen réélit Ursula von der Leyen avec 401 voix pour un second mandat.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les historiens de la construction européenne reviennent sur « Réélection d'Ursula von der Leyen ».",
+    "La chronologie de la Commission place « Réélection d'Ursula von der Leyen » à sa date.",
+    "« Réélection d'Ursula von der Leyen » est un jalon de l'histoire de de l'Union européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#DEMOCRATIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A9%C3%A9lection%20d%27Ursula%20von%20der%20Leyen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Démocratie",
+    "Ursula von der Leyen",
+    "Commission von der Leyen I",
+    "Strasbourg",
+    "Parlement européen",
+    "Élections européennes de 2024",
+    "Commission von der Leyen II"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-07-18T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,23 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-aimer",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Éprouver de l'amour, de l'affection.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:aim(er|e|es|ons|ez|ent|ais|ait|[ée]|[ée]e|[ée]s|[ée]es)|ador(er|e|ent|[ée]|[ée]e|able|ables)|ch[ée]r(ir|i|ie|is|ies)|affectionn(er|e|[ée]|[ée]e))(?![\\w-])"
+  ],
+  "symbol": "aimer",
+  "event": null,
+  "title": "Aimer",
+  "tags": [
+    "#AMOUR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

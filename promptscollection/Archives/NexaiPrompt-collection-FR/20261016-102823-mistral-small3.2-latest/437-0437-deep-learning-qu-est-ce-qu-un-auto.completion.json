@@ -1,0 +1,13 @@
+{
+  "index": 437,
+  "file": "0437-deep-learning-qu-est-ce-qu-un-auto.prompt.json",
+  "prompt": "Qu'est-ce qu'un auto-encodeur ?",
+  "promptWords": 4,
+  "completion": "Un auto-encodeur (ou *autoencoder* en anglais) est un type de réseau de neurones artificiels utilisé pour l'apprentissage non supervisé. Il est principalement utilisé pour la réduction de dimensionnalité, la détection d'anomalies ou la compression de données.\n\n### Fonctionnement d'un auto-encodeur :\nUn auto-encodeur se compose de deux parties principales :\n1. **L'encodeur** : Il transforme les données d'entrée en une représentation de dimensionnalité réduite, appelée *code latent* ou *représentation interne*.\n2. **Le décodeur** : Il reconstruit les données d'origine à partir du code latent.\n\nL'objectif est d'apprendre une représentation compacte des données tout en minimisant la perte d'information lors de la reconstruction.\n\n### Architecture typique :\n- **Couches cachées** : L'encodeur et le décodeur peuvent être composés de plusieurs couches cachées.\n- **Fonction de coût** : La fonction de coût est généralement la différence entre les données d'entrée et les données reconstruites (par exemple, l'erreur quadratique moyenne).\n\n### Applications :\n- **Réduction de dimensionnalité** : Similaire à la PCA (Analyse en Composantes Principales), mais non linéaire.\n- **Détection d'anomalies** : Les données anormales ont généralement une grande erreur de reconstruction.\n- **Dénoyage** : Suppression du bruit dans les données.\n- **Génération de données** : En utilisant des techniques comme les *Variational Autoencoders* (VAE).\n\n### Exemple simple :\nImaginons un auto-encodeur pour des images en niveaux de gris de taille 28x28 pixels (784 pixels au total). L'encodeur pourrait réduire cette image à un vecteur de 32 dimensions, et le décodeur reconstruirait une image de 28x28 pixels à partir de ce vecteur.\n\nSi vous avez des questions plus spécifiques ou si vous souhaitez un exemple de code, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:45:02.7026233+02:00",
+  "durationSeconds": 8.77,
+  "stats": "mistral-small3.2:latest · 517 + 435 tokens · 8,8 s",
+  "isError": false,
+  "language": "FR"
+}

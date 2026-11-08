@@ -1,0 +1,13 @@
+{
+  "index": 806,
+  "file": "0806-csharp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C# qui illustre les collections génériques.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en C# qui illustre l'utilisation des collections génériques, en particulier la classe `List<T>` :\n\n```csharp\nusing System;\nusing System.Collections.Generic;\n\nclass Program\n{\n    static void Main()\n    {\n        // Création d'une liste générique de chaînes de caractères\n        List<string> noms = new List<string>();\n\n        // Ajout d'éléments à la liste\n        noms.Add(\"Alice\");\n        noms.Add(\"Bob\");\n        noms.Add(\"Charlie\");\n\n        // Accès aux éléments de la liste\n        Console.WriteLine(\"Liste des noms :\");\n        foreach (string nom in noms)\n        {\n            Console.WriteLine(nom);\n        }\n\n        // Utilisation d'une autre collection générique : Dictionary<TKey, TValue>\n        Dictionary<int, string> dictionnaire = new Dictionary<int, string>();\n        dictionnaire.Add(1, \"Un\");\n        dictionnaire.Add(2, \"Deux\");\n        dictionnaire.Add(3, \"Trois\");\n\n        Console.WriteLine(\"\\nContenu du dictionnaire :\");\n        foreach (KeyValuePair<int, string> paire in dictionnaire)\n        {\n            Console.WriteLine($\"{paire.Key}: {paire.Value}\");\n        }\n\n        // Utilisation d'une collection générique avec une classe personnalisée\n        List<Personne> personnes = new List<Personne>();\n        personnes.Add(new Personne(\"Alice\", 30));\n        personnes.Add(new Personne(\"Bob\", 25));\n\n        Console.WriteLine(\"\\nListe des personnes :\");\n        foreach (Personne personne in personnes)\n        {\n            Console.WriteLine($\"{personne.Nom} a {personne.Age} ans\");\n        }\n    }\n}\n\n// Classe personnalisée pour illustrer l'utilisation avec des types génériques\nclass Personne\n{\n    public string Nom { get; }\n    public int Age { get; }\n\n    public Personne(string nom, int age)\n    {\n        Nom = nom;\n        Age = age;\n    }\n}\n```\n\nCe code montre :\n1. L'utilisation d'une `List<string>` pour stocker des chaînes de caractères\n2. L'utilisation d'un `Dictionary<int, string>` pour stocker des paires clé-valeur\n3. L'utilisation d'une `List<Personne>` avec une classe personnalisée\n\nLes collections génériques en C# permettent de créer des collections fortement typées, ce qui améliore la sécurité des types et réduit les erreurs de conversion.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:17:10.9539245+02:00",
+  "durationSeconds": 10.14,
+  "stats": "mistral-small3.2:latest · 524 + 506 tokens · 10,1 s",
+  "isError": false,
+  "language": "FR"
+}

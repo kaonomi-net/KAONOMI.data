@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-militants",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "militants",
+  "entityType": "PROFESSION",
+  "description": "Cité par 2 intels : Civils détenus par la Russie ; Meetings de campagne.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les civils ukrainiens détenus en Russie.",
+    "Suivre les grands rassemblements de campagne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "militants",
+  "tags": [
+    "#UKRAINE",
+    "#DETENTION",
+    "#DROITS-HUMAINS",
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#CAMPAGNE"
+  ],
+  "events": [
+    "@MEETING"
+  ],
+  "signals": [
+    "!HUMANITAIRE",
+    "!CAMPAGNE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "journalistes",
+    "Russie",
+    "civils détenus",
+    "familles",
+    "campagne",
+    "sécurité",
+    "discours",
+    "meeting"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

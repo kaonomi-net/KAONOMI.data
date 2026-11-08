@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-patrimoine",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "patrimoine",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Programme de la gauche sur les impôts ; Taxe Zucman.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les propositions fiscales de la gauche.",
+    "Suivre le débat sur l'impôt minimal sur les grandes fortunes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "patrimoine",
+  "tags": [
+    "#FRANCE",
+    "#FISCALITE",
+    "#GAUCHE",
+    "#BUDGET"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE",
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ultrariches",
+    "taxe Zucman",
+    "gauche",
+    "ISF",
+    "impôts",
+    "Assemblée nationale",
+    "Gabriel Zucman",
+    "budget"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

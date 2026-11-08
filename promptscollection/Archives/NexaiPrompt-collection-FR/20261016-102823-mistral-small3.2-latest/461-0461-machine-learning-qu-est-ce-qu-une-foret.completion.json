@@ -1,0 +1,13 @@
+{
+  "index": 461,
+  "file": "0461-machine-learning-qu-est-ce-qu-une-foret.prompt.json",
+  "prompt": "Qu'est-ce qu'une forêt aléatoire (random forest) ?",
+  "promptWords": 7,
+  "completion": "Une forêt aléatoire (ou *random forest* en anglais) est un algorithme d'apprentissage automatique (machine learning) utilisé pour la classification et la régression. Il s'agit d'une méthode d'ensemble (*ensemble method*) qui combine plusieurs modèles de décision (*decision trees*) pour améliorer la précision et la robustesse des prédictions.\n\n### Fonctionnement d'une forêt aléatoire :\n1. **Construction de plusieurs arbres de décision** :\n   - Un grand nombre d'arbres de décision est créé à partir de sous-échantillons aléatoires des données d'entraînement.\n   - Pour chaque arbre, un sous-ensemble aléatoire des caractéristiques (variables) est sélectionné pour déterminer les meilleures divisions (splits) à chaque nœud.\n\n2. **Vote ou moyenne pour la prédiction finale** :\n   - Pour la classification, chaque arbre vote pour une classe, et la classe la plus votée est choisie comme prédiction finale.\n   - Pour la régression, les prédictions de tous les arbres sont moyennées pour obtenir la prédiction finale.\n\n### Avantages des forêts aléatoires :\n- **Réduction de l'overfitting** : En combinant plusieurs arbres, les erreurs individuelles sont atténuées.\n- **Robustesse aux données bruitées** : Moins sensible aux valeurs aberrantes et aux caractéristiques non pertinentes.\n- **Capacité à gérer des données de haute dimension** : Peut fonctionner efficacement même avec un grand nombre de caractéristiques.\n\n### Inconvénients :\n- **Complexité computationnelle** : Plus coûteuse en termes de calcul que les arbres de décision simples.\n- **Moins interprétable** : Les forêts aléatoires sont souvent considérées comme des \"boîtes noires\" par rapport aux arbres de décision individuels.\n\n### Applications :\nLes forêts aléatoires sont utilisées dans divers domaines, tels que la médecine, la finance, la reconnaissance d'images, et bien d'autres, pour des tâches de classification et de prédiction.\n\nSi vous avez des questions plus spécifiques ou si vous souhaitez des exemples d'utilisation, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:49:45.3247429+02:00",
+  "durationSeconds": 8.8,
+  "stats": "mistral-small3.2:latest · 520 + 438 tokens · 8,8 s",
+  "isError": false,
+  "language": "FR"
+}

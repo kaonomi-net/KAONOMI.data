@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-adolescentes",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "adolescentes",
+  "entityType": "PROFESSION",
+  "description": "Cité par 5 intels : Santé mentale des adolescentes ; Troubles du comportement alimentaire ; Automutilation ; Suicide des jeunes ; Tentatives de suicide aux urgences.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre la hausse du mal-être chez les adolescentes.",
+    "Suivre l'actualité des troubles du comportement alimentaire.",
+    "Suivre les études sur l'automutilation chez les jeunes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "adolescentes",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADOLESCENTS",
+    "#PREVENTION-SUICIDE",
+    "#SANTE-MENTALE",
+    "#TCA",
+    "#AUTOMUTILATION"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!SANTE-MENTALE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "réseaux sociaux",
+    "urgences",
+    "automutilation",
+    "hospitalisations",
+    "France",
+    "mal-être",
+    "troubles du comportement alimentaire",
+    "anorexie",
+    "boulimie",
+    "scarifications"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

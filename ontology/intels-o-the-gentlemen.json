@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-the-gentlemen",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "The Gentlemen",
+  "entityType": "EVENT",
+  "description": "Cité par 1 intel : Groupe The Gentlemen.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre l'activité du groupe The Gentlemen, l'un des plus actifs fin 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "The Gentlemen",
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL"
+  ],
+  "events": [
+    "@RANCONGICIEL"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "victimes",
+    "pays",
+    "rançongiciel",
+    "affiliés"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

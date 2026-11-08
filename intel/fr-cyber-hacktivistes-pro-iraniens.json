@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-hacktivistes-pro-iraniens",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Hacktivistes pro-iraniens",
+  "includedEntities": [
+    {
+      "entityName": "hacktivistes",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "pro-iraniens",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les hacktivistes pro-iraniens actifs depuis février 2026.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "depuis février 2026"
+  ],
+  "relatedEntities": [
+    "Keymous+",
+    "DieNet",
+    "Handala"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quelle revendication ?",
+    "Est-elle vérifiée ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#HACKTIVISME",
+    "#IRAN"
+  ],
+  "events": [
+    "@REVENDICATION"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

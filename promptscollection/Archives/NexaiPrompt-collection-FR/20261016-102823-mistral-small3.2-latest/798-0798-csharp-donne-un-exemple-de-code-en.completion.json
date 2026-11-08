@@ -1,0 +1,13 @@
+{
+  "index": 798,
+  "file": "0798-csharp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C# qui illustre les interfaces.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en C# qui illustre l'utilisation des interfaces. Cet exemple montre comment définir une interface, puis comment l'implémenter dans une classe :\n\n```csharp\nusing System;\n\n// Définition de l'interface\npublic interface IAnimal\n{\n    void FaireDuBruit(); // Méthode abstraite\n    string Nom { get; set; } // Propriété abstraite\n}\n\n// Classe qui implémente l'interface IAnimal\npublic class Chien : IAnimal\n{\n    public string Nom { get; set; }\n\n    public void FaireDuBruit()\n    {\n        Console.WriteLine($\"{Nom} dit: Woof!\");\n    }\n}\n\n// Classe qui implémente l'interface IAnimal\npublic class Chat : IAnimal\n{\n    public string Nom { get; set; }\n\n    public void FaireDuBruit()\n    {\n        Console.WriteLine($\"{Nom} dit: Meow!\");\n    }\n}\n\nclass Programme\n{\n    static void Main(string[] args)\n    {\n        IAnimal monChien = new Chien { Nom = \"Rex\" };\n        IAnimal monChat = new Chat { Nom = \"Whiskers\" };\n\n        monChien.FaireDuBruit(); // Affiche: Rex dit: Woof!\n        monChat.FaireDuBruit();  // Affiche: Whiskers dit: Meow!\n    }\n}\n```\n\n### Explications :\n1. **Interface `IAnimal`** : Définit un contrat avec une méthode `FaireDuBruit` et une propriété `Nom` que toutes les classes implémentantes doivent respecter.\n2. **Classes `Chien` et `Chat`** : Implémentent l'interface `IAnimal` en fournissant des implémentations concrètes pour `FaireDuBruit` et `Nom`.\n3. **Utilisation** : Dans la méthode `Main`, nous créons des instances de `Chien` et `Chat` et les utilisons via l'interface `IAnimal`.\n\nLes interfaces en C# permettent de définir des contrats que les classes doivent suivre, favorisant ainsi la programmation orientée objet et la réutilisabilité du code.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:15:41.7333167+02:00",
+  "durationSeconds": 9.32,
+  "stats": "mistral-small3.2:latest · 522 + 463 tokens · 9,3 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 80,
+  "file": "080-interet-pour-le-llm-erinnern-sie-sich-an-mich.prompt.json",
+  "prompt": "Erinnern Sie sich an mich?",
+  "promptWords": 5,
+  "completion": "Ich erinnere mich leider nicht an frühere Unterhaltungen, weil jede Sitzung mit mir unabhängig voneinander ist. Aber ich helfe Ihnen gern weiter! Was liegt Ihnen auf dem Herzen oder womit kann ich Ihnen behilflich sein?",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:37:19.8541135+02:00",
+  "durationSeconds": 1.26,
+  "stats": "gpt-oss:20b · 75 + 158 tokens · 1,3 s",
+  "isError": false,
+  "language": "DE"
+}

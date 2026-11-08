@@ -1,0 +1,54 @@
+{
+  "collection": "test1",
+  "collectionFolder": "N:\\promptscollection\\test1",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T15:44:11.9941293+02:00",
+  "endDate": "2026-10-09T15:44:51.6958451+02:00",
+  "executionTimeSeconds": 35.4,
+  "executionTime": "00:00:35",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "promptCount": 3,
+  "sentCount": 3,
+  "skippedCount": 0,
+  "stopped": false,
+  "totalPromptWords": 28,
+  "topicsSummary": "Les sujets abordés dans ces prompts concernent principalement la philosophie, le sens de la vie et le bonheur selon les philosophes.",
+  "topics": [
+    {
+      "topic": "Philosophie",
+      "promptCount": 2
+    },
+    {
+      "topic": "Sens de la vie",
+      "promptCount": 1
+    },
+    {
+      "topic": "Bonheur selon Aristote",
+      "promptCount": 1
+    }
+  ],
+  "items": [
+    {
+      "index": 1,
+      "file": "001-philosophie-qu-est-ce-que-la-philosophie.prompt.json",
+      "prompt": "Qu'est-ce que la philosophie et à quoi sert-elle ?",
+      "promptWords": 9,
+      "completionFile": "001-philosophie-qu-est-ce-que-la-philosophie.completion.json"
+    },
+    {
+      "index": 2,
+      "file": "002-philosophie-quel-est-le-sens-de-la.prompt.json",
+      "prompt": "Quel est le sens de la vie selon les grands philosophes ?",
+      "promptWords": 12,
+      "completionFile": "002-philosophie-quel-est-le-sens-de-la.completion.json"
+    },
+    {
+      "index": 3,
+      "file": "003-philosophie-qu-est-ce-que-le-bonheur.prompt.json",
+      "prompt": "Qu'est-ce que le bonheur selon Aristote ?",
+      "promptWords": 7,
+      "completionFile": "003-philosophie-qu-est-ce-que-le-bonheur.completion.json"
+    }
+  ]
+}

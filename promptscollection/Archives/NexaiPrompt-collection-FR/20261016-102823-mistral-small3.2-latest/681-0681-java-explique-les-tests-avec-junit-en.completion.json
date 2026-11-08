@@ -1,0 +1,13 @@
+{
+  "index": 681,
+  "file": "0681-java-explique-les-tests-avec-junit-en.prompt.json",
+  "prompt": "Explique les tests avec JUnit en Java avec un exemple simple.",
+  "promptWords": 11,
+  "completion": "Les tests avec JUnit en Java sont une méthode essentielle pour vérifier que votre code fonctionne comme prévu. JUnit est un framework de test unitaire largement utilisé en Java. Voici une explication simple avec un exemple.\n\n### Qu'est-ce qu'un test unitaire ?\nUn test unitaire est une méthode pour tester une unité de code, généralement une méthode, pour s'assurer qu'elle fonctionne correctement. Les tests unitaires sont automatiques, rapides et isolés.\n\n### Pourquoi utiliser JUnit ?\n- **Vérification du code** : Assure que votre code fait ce qu'il est censé faire.\n- **Détection précoce des bugs** : Permet de détecter les problèmes dès qu'ils apparaissent.\n- **Documentation** : Les tests servent de documentation pour comprendre comment le code doit être utilisé.\n\n### Exemple simple avec JUnit\n\n#### 1. Ajoutez JUnit à votre projet\nSi vous utilisez Maven, ajoutez cette dépendance à votre `pom.xml` :\n```xml\n<dependency>\n    <groupId>org.junit.jupiter</groupId>\n    <artifactId>junit-jupiter-api</artifactId>\n    <version>5.8.2</version>\n    <scope>test</scope>\n</dependency>\n```\n\n#### 2. Créez une classe à tester\nSupposons que nous avons une classe `Calculator` avec une méthode `add` :\n```java\npublic class Calculator {\n    public int add(int a, int b) {\n        return a + b;\n    }\n}\n```\n\n#### 3. Créez une classe de test\nCréez une classe de test nommée `CalculatorTest` dans le répertoire `src/test/java` :\n```java\nimport org.junit.jupiter.api.Test;\nimport static org.junit.jupiter.api.Assertions.*;\n\npublic class CalculatorTest {\n\n    @Test\n    public void testAdd() {\n        Calculator calculator = new Calculator();\n        int result = calculator.add(2, 3);\n        assertEquals(5, result);\n    }\n}\n```\n\n#### 4. Explication du test\n- **`@Test`** : Indique que la méthode est un test.\n- **`assertEquals(expected, actual)`** : Vérifie que le résultat attendu est égal au résultat réel.\n\n#### 5. Exécutez les tests\nVous pouvez exécuter les tests avec votre IDE (comme IntelliJ IDEA ou Eclipse) ou via la ligne de commande avec Maven :\n```sh\nmvn test\n```\n\n### Conclusion\nJUnit simplifie la création et l'exécution de tests unitaires en Java. En suivant cet exemple, vous pouvez tester vos méthodes et vous assurer qu'elles fonctionnent correctement.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:45:43.7402152+02:00",
+  "durationSeconds": 11.12,
+  "stats": "mistral-small3.2:latest · 521 + 557 tokens · 11,1 s",
+  "isError": false,
+  "language": "FR"
+}

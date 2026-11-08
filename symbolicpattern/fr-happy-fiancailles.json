@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-fiancailles",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La promesse de mariage.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fian[çc]ailles)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fianc[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:demande\\s+en\\s+mariage)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bague\\s+de\\s+fian[çc]ailles)(?![\\w-])"
+  ],
+  "symbol": "fiançailles",
+  "event": null,
+  "title": "Fiançailles",
+  "tags": [
+    "#AMOUR",
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

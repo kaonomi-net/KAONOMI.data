@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-putrefaction",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La décomposition des matières organiques.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:putr[ée]faction(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:putr[ée]fi([ée]|[ée]e|[ée]s|[ée]es|er)|putride(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]composition(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:en\\s+d[ée]composition)(?![\\w-])"
+  ],
+  "symbol": "putréfaction",
+  "event": null,
+  "title": "Putréfaction",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

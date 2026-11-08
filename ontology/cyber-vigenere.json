@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (la cryptographie classique) : Chiffrement poly-alphabétique décrit par Giovan Battista Bellaso en 1553 et attribué à Blaise de Vigenère ; il résista trois siècles avant d'être cassé par Babbage et Kasiski.",
+  "id": "cyber-vigenere",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Chiffre de Vigenère",
+  "entityType": "ALGORITHM",
+  "description": "Chiffrement poly-alphabétique décrit par Giovan Battista Bellaso en 1553 et attribué à Blaise de Vigenère ; il résista trois siècles avant d'être cassé par Babbage et Kasiski.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Chiffre de Vigenère est enseigné dans tous les cours consacrés à la cryptographie classique.",
+    "L'audit vérifie que Chiffre de Vigenère est utilisé correctement.",
+    "La chercheuse a présenté une analyse de Chiffre de Vigenère lors du séminaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "carré de Vigenère"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CRYPTOGRAPHIECLASSIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Chiffre%20de%20Vigen%C3%A8re"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Masque jetable",
+    "Chiffre de César"
+  ],
+  "isDeleted": false,
+  "startDate": "1553-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la culture) : Commission de la culture et de l'éducation du Parlement européen, chargée de la culture, l'éducation.",
+  "id": "eu-pe-cult",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission de la culture et de l'éducation (CULT)",
+  "entityType": "ORGANISATION",
+  "description": "Commission de la culture et de l'éducation du Parlement européen, chargée de la culture, l'éducation.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Commission de la culture et de l'éducation (CULT) » préparent les textes relatifs à la culture.",
+    "La délégation a rencontré des représentants de « Commission de la culture et de l'éducation (CULT) ».",
+    "« Commission de la culture et de l'éducation (CULT) » joue un rôle dans la culture."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "CULT"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#CULTURE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20de%20la%20culture%20et%20de%20l%27%C3%A9ducation%20%28CULT%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Culture",
+    "Éducation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

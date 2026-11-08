@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-amende-contre-x-d-elon-musk",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Amende contre X d'Elon Musk",
+  "includedEntities": [
+    {
+      "entityName": "X",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Elon Musk",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "amende",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les procédures européennes contre le réseau social X.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "DSA",
+    "désinformation",
+    "États-Unis"
+  ],
+  "questions": [
+    "Quelle amende ?",
+    "Quelle réaction de Musk ?",
+    "Quelle réaction américaine ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DSA",
+    "#X"
+  ],
+  "events": [
+    "@DECISION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

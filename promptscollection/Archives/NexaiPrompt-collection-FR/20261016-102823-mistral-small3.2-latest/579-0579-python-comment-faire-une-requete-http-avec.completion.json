@@ -1,0 +1,13 @@
+{
+  "index": 579,
+  "file": "0579-python-comment-faire-une-requete-http-avec.prompt.json",
+  "prompt": "Comment faire une requête HTTP avec requests ?",
+  "promptWords": 8,
+  "completion": "Pour faire une requête HTTP avec la bibliothèque `requests` en Python, voici les étapes de base :\n\n1. **Installer la bibliothèque** (si ce n'est pas déjà fait) :\n   ```bash\n   pip install requests\n   ```\n\n2. **Faire une requête GET** :\n   ```python\n   import requests\n\n   url = \"https://api.example.com/data\"\n   response = requests.get(url)\n\n   if response.status_code == 200:\n       print(\"Requête réussie !\")\n       print(response.text)  # Afficher le contenu de la réponse\n   else:\n       print(f\"Erreur : {response.status_code}\")\n   ```\n\n3. **Faire une requête POST** :\n   ```python\n   import requests\n\n   url = \"https://api.example.com/data\"\n   data = {\"key1\": \"value1\", \"key2\": \"value2\"}\n   headers = {\"Content-Type\": \"application/json\"}\n\n   response = requests.post(url, json=data, headers=headers)\n\n   if response.status_code == 200:\n       print(\"Requête réussie !\")\n       print(response.json())  # Afficher le contenu JSON de la réponse\n   else:\n       print(f\"Erreur : {response.status_code}\")\n   ```\n\n4. **Ajouter des paramètres à une requête GET** :\n   ```python\n   import requests\n\n   url = \"https://api.example.com/data\"\n   params = {\"param1\": \"value1\", \"param2\": \"value2\"}\n\n   response = requests.get(url, params=params)\n\n   if response.status_code == 200:\n       print(\"Requête réussie !\")\n       print(response.text)\n   else:\n       print(f\"Erreur : {response.status_code}\")\n   ```\n\n5. **Gérer les erreurs** :\n   ```python\n   import requests\n\n   url = \"https://api.example.com/data\"\n\n   try:\n       response = requests.get(url)\n       response.raise_for_status()  # Lève une exception pour les codes d'erreur HTTP\n       print(\"Requête réussie !\")\n       print(response.text)\n   except requests.exceptions.RequestException as e:\n       print(f\"Erreur lors de la requête : {e}\")\n   ```\n\nVous pouvez adapter ces exemples en fonction de vos besoins spécifiques, comme ajouter des en-têtes personnalisés, gérer des sessions, ou utiliser d'autres méthodes HTTP (PUT, DELETE, etc.).",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:21:42.3938071+02:00",
+  "durationSeconds": 10.08,
+  "stats": "mistral-small3.2:latest · 516 + 513 tokens · 10,1 s",
+  "isError": false,
+  "language": "FR"
+}

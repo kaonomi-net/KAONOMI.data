@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (les modèles génératifs) : Modèle génératif qui apprend un espace latent probabiliste à l'aide d'un encodeur et d'un décodeur, proposé par Kingma et Welling.",
+  "id": "ia-vae",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Auto-encodeur variationnel",
+  "entityType": "ALGORITHM",
+  "description": "Modèle génératif qui apprend un espace latent probabiliste à l'aide d'un encodeur et d'un décodeur, proposé par Kingma et Welling.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Dans le domaine des modèles génératifs, Auto-encodeur variationnel reste une référence.",
+    "Pour ce projet, l'équipe a implémenté Auto-encodeur variationnel en quelques lignes de Python.",
+    "Comprendre Auto-encodeur variationnel est une étape clé pour maîtriser les modèles génératifs."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "VAE"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#MODELESGENERATIFS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Auto-encodeur%20variationnel"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Réseaux antagonistes génératifs"
+  ],
+  "isDeleted": false,
+  "startDate": "2013-01-01T00:00:00",
+  "endDate": null
+}

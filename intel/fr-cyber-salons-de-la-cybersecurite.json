@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-salons-de-la-cybersecurite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Salons de la cybersécurité",
+  "includedEntities": [
+    {
+      "entityName": "Forum InCyber",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Assises",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "salon",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les grands rendez-vous français de la cybersécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "Lille",
+    "Monaco"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "annonces",
+    "tendances",
+    "décideurs"
+  ],
+  "questions": [
+    "Quelles annonces ?",
+    "Quelles tendances ?",
+    "Quels intervenants ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#EVENEMENTS"
+  ],
+  "events": [
+    "@CONFERENCE"
+  ],
+  "signals": [
+    "!VEILLE"
+  ],
+  "isDeleted": false
+}

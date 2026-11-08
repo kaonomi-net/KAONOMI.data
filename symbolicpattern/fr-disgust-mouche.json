@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-mouche",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un insecte attiré par les ordures.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:mouche(s)?\\s+([àa]\\s+merde|verte|bleue)(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:essaim(s)?\\s+de\\s+mouches)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nu[ée]e(s)?\\s+de\\s+mouches)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mouche(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grouillement\\s+de\\s+mouches)(?![\\w-])"
+  ],
+  "symbol": "mouche",
+  "event": null,
+  "title": "Mouche",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-une-association",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre une association",
+  "includedEntities": [
+    {
+      "entityName": "association",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "donateurs",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les cyberattaques visant les associations et leurs donateurs.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Secours Islamique France",
+    "données bancaires",
+    "donateurs"
+  ],
+  "questions": [
+    "Quelle association ?",
+    "Quelles données ?",
+    "Quel risque d'hameçonnage ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ASSOCIATIONS"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

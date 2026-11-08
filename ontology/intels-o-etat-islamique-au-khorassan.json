@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-etat-islamique-au-khorassan",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "État islamique au Khorassan",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Terrorisme international.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Surveiller l'activité des groupes terroristes internationaux."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 100,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "État islamique au Khorassan",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#TERRORISME",
+    "#SECURITE"
+  ],
+  "events": [
+    "@ATTENTAT"
+  ],
+  "signals": [
+    "!MENACE",
+    "!FEAR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Syrie",
+    "Sahel",
+    "terrorisme",
+    "État islamique",
+    "Afghanistan",
+    "attentat",
+    "Al-Qaïda",
+    "services de renseignement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-bonheur",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'état de celui qui est pleinement heureux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bonheur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bonne\\s+fortune)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:b[ée]n[ée]fique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:combl[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:aux\\s+anges)(?![\\w-])"
+  ],
+  "symbol": "bonheur",
+  "event": null,
+  "title": "Bonheur",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

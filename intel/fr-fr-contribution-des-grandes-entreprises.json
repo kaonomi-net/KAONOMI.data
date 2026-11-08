@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-contribution-des-grandes-entreprises",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Contribution des grandes entreprises",
+  "includedEntities": [
+    {
+      "entityName": "grandes entreprises",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "surtaxe",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la contribution exceptionnelle des grandes entreprises.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "impôt sur les sociétés",
+    "MEDEF",
+    "rendement"
+  ],
+  "questions": [
+    "Est-elle prolongée ?",
+    "Quel rendement ?",
+    "Quelle réaction du patronat ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#FISCALITE"
+  ],
+  "events": [],
+  "signals": [
+    "!BUDGET"
+  ],
+  "isDeleted": false
+}

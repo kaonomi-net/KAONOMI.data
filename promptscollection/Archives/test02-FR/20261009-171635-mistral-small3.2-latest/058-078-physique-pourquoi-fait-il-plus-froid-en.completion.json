@@ -1,0 +1,13 @@
+{
+  "index": 58,
+  "file": "078-physique-pourquoi-fait-il-plus-froid-en.prompt.json",
+  "prompt": "Pourquoi fait-il plus froid en altitude ?",
+  "promptWords": 7,
+  "completion": "Il fait plus froid en altitude principalement à cause de la diminution de la pression atmosphérique et de la distance accrue par rapport à la surface de la Terre. Voici les raisons détaillées :\n\n1. **Diminution de la pression atmosphérique** : Plus on monte en altitude, plus la pression de l'air diminue. L'air est moins dense, ce qui signifie qu'il y a moins de molécules d'air pour absorber et retenir la chaleur. Par conséquent, la température baisse.\n\n2. **Distance par rapport à la surface de la Terre** : La surface de la Terre absorbe et réémet la chaleur du soleil. Plus on s'éloigne de cette surface, moins on bénéficie de cette chaleur. L'altitude réduit donc l'exposition directe au rayonnement thermique de la Terre.\n\n3. **Effet de l'altitude sur les couches de l'atmosphère** : L'atmosphère est divisée en plusieurs couches, et la température varie selon ces couches. Par exemple, dans la troposphère (la couche la plus proche de la surface), la température diminue généralement avec l'altitude à un taux d'environ 6,5 °C par kilomètre.\n\n4. **Moins de chaleur retenue par l'air** : L'air en altitude est moins capable de retenir la chaleur en raison de sa faible densité. Cela contribue également à la sensation de froid.\n\nCes facteurs combinés expliquent pourquoi les montagnes et les régions en haute altitude sont généralement plus froides que les zones situées à des altitudes plus basses.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:27:06.9758034+02:00",
+  "durationSeconds": 7.82,
+  "stats": "mistral-small3.2:latest · 516 + 313 tokens · 7,8 s",
+  "isError": false,
+  "language": "FR"
+}

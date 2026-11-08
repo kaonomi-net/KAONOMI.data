@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-themes-prioritaires-des-electeurs",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Thèmes prioritaires des électeurs",
+  "includedEntities": [
+    {
+      "entityName": "priorités",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "électeurs",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "pouvoir d'achat",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les sujets qui comptent le plus pour les électeurs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "pouvoir d'achat",
+    "sécurité",
+    "immigration"
+  ],
+  "questions": [
+    "Quels thèmes dominent ?",
+    "Quelle évolution ?",
+    "Quels écarts selon l'âge ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#OPINION",
+    "#CAMPAGNE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

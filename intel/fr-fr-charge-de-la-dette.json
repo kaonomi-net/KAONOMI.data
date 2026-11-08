@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-charge-de-la-dette",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Charge de la dette",
+  "includedEntities": [
+    {
+      "entityName": "charge de la dette",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "intérêts",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le coût annuel des intérêts de la dette.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "budget",
+    "taux",
+    "premier poste de dépense"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quelle évolution ?",
+    "Quel rang dans le budget ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#BUDGET"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

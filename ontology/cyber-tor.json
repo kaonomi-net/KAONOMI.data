@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (l'anonymat en ligne) : Réseau et logiciel d'anonymat par routage en oignon, développés par le projet Tor.",
+  "id": "cyber-tor",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Tor",
+  "entityType": "SOFTWARE",
+  "description": "Réseau et logiciel d'anonymat par routage en oignon, développés par le projet Tor.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "Le rapport d'incident cite Tor à plusieurs reprises.",
+    "L'analyste a utilisé Tor pendant l'enquête.",
+    "Les historiens de l'informatique considèrent Tor comme une étape de l'anonymat en ligne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "The Onion Router"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#ANONYMATENLIGNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Tor"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Edward Snowden",
+    "Roger Dingledine",
+    "Protocole TLS"
+  ],
+  "isDeleted": false,
+  "startDate": "2002-01-01T00:00:00",
+  "endDate": null
+}

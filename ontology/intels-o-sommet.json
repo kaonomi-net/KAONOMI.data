@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sommet",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "sommet",
+  "entityType": "EVENT",
+  "description": "Cité par 12 intels : Projet de sommet Trump-Poutine-Xi ; Conseil européen sur l'Ukraine ; Sommet de l'OTAN et l'Ukraine ; Sommet entre Trump et Poutine ; Russie et les BRICS ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Surveiller l'idée d'un sommet entre les dirigeants américain, russe et chinois.",
+    "Suivre les conclusions des sommets européens sur l'Ukraine.",
+    "Suivre les décisions de l'OTAN concernant l'Ukraine."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "sommet",
+  "tags": [
+    "#DIPLOMATIE",
+    "#SOMMET",
+    "#GEOPOLITIQUE",
+    "#RUSSIE",
+    "#ETATS-UNIS",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!GOUVERNANCE",
+    "!ALLIANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ukraine",
+    "Bruxelles",
+    "Kremlin",
+    "Poutine",
+    "Conseil européen",
+    "OTAN",
+    "Inde",
+    "BRICS",
+    "Chine",
+    "G7"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

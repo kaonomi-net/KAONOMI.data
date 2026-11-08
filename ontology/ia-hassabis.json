@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (l'IA générale) : Chercheur et entrepreneur britannique, cofondateur et dirigeant de DeepMind (AlphaGo, AlphaFold).",
+  "id": "ia-hassabis",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Demis Hassabis",
+  "entityType": "PERSON",
+  "description": "Chercheur et entrepreneur britannique, cofondateur et dirigeant de DeepMind (AlphaGo, AlphaFold). Prix Nobel de chimie 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les articles de Demis Hassabis pour comprendre l'IA générale.",
+    "Sans les idées de Demis Hassabis, l'histoire de l'IA générale aurait été différente.",
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Demis Hassabis."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Sir Demis Hassabis"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#IAGENERALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Demis%20Hassabis"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Prix Nobel de chimie 2024",
+    "Fondation de DeepMind",
+    "AlphaGo",
+    "AlphaFold"
+  ],
+  "isDeleted": false,
+  "startDate": "1976-07-27T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-troupes-americaines-en-europe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Troupes américaines en Europe",
+  "includedEntities": [
+    {
+      "entityName": "troupes américaines",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Europe",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution de la présence militaire américaine en Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Pologne",
+    "Allemagne",
+    "Roumanie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pentagone",
+    "OTAN",
+    "retrait"
+  ],
+  "questions": [
+    "Quel retrait ou renfort ?",
+    "Quels pays ?",
+    "Quelle réaction européenne ?"
+  ],
+  "tags": [
+    "#ETATS-UNIS",
+    "#OTAN",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!INCERTITUDE"
+  ],
+  "isDeleted": false
+}

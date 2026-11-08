@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-cybercriminalite-visant-la-france",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Cybercriminalité visant la France",
+  "includedEntities": [
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "hôpital",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "collectivité",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les cyberattaques contre les institutions françaises.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ANSSI",
+    "rançongiciel",
+    "fuites de données"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quelle revendication ?",
+    "Quelles données volées ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#CYBER",
+    "#SECURITE"
+  ],
+  "events": [
+    "@INCIDENT-CYBER"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

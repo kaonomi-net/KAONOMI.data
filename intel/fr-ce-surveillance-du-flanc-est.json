@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-surveillance-du-flanc-est",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Surveillance du flanc est",
+  "includedEntities": [
+    {
+      "entityName": "flanc est",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Eastern Flank Watch",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les initiatives de protection de la frontière orientale de l'Union.",
+  "isFuzzy": true,
+  "locations": [
+    "Finlande",
+    "Baltes",
+    "Pologne",
+    "Roumanie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Russie",
+    "Biélorussie",
+    "drones"
+  ],
+  "questions": [
+    "Quel projet ?",
+    "Quel budget ?",
+    "Quelle coordination avec l'OTAN ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DEFENSE",
+    "#FLANC-EST"
+  ],
+  "events": [],
+  "signals": [
+    "!SECURITE"
+  ],
+  "isDeleted": false
+}

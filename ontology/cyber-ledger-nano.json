@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (la protection des cryptomonnaies) : Portefeuille matériel de la société française Ledger, fondé sur une puce sécurisée.",
+  "id": "cyber-ledger-nano",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Ledger Nano S",
+  "entityType": "HARDWARE",
+  "description": "Portefeuille matériel de la société française Ledger, fondé sur une puce sécurisée.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "La fiche technique de Ledger Nano S détaille ses caractéristiques de sécurité.",
+    "Pour cet audit, l'équipe a comparé Ledger Nano S à d'autres solutions matérielles.",
+    "Ledger Nano S a marqué l'histoire du matériel consacré à la protection des cryptomonnaies."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Ledger"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#PROTECTIONCRYPTOMONNAIES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ledger%20Nano%20S"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bitcoin",
+    "Trezor"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-01-01T00:00:00",
+  "endDate": null
+}

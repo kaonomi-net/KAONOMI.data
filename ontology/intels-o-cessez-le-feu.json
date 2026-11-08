@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cessez-le-feu",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "cessez-le-feu",
+  "entityType": "EVENT",
+  "description": "Cité par 3 intels : Cessez-le-feu local d'Olechky ; Cessez-le-feu général ; Rôle de Melania Trump.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre la trêve locale d'Olechky et l'évacuation des habitants.",
+    "Repérer toute annonce de cessez-le-feu sur l'ensemble du front.",
+    "Suivre le rôle de Melania Trump dans les initiatives humanitaires et de trêve."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "cessez-le-feu",
+  "tags": [
+    "#CESSEZ-LE-FEU",
+    "#UKRAINE",
+    "#KHERSON",
+    "#RUSSIE",
+    "#ETATS-UNIS",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@TREVE",
+    "@CESSEZ-LE-FEU"
+  ],
+  "signals": [
+    "!DESESCALADE",
+    "!HUMANITAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Olechky",
+    "Melania Trump",
+    "évacuation",
+    "rive gauche du Dniepr",
+    "Kherson",
+    "ligne de front",
+    "observateurs",
+    "médiateurs",
+    "accord",
+    "ONU"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

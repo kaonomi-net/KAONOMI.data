@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (le traitement du langage) : Programme conversationnel de Joseph Weizenbaum simulant un psychothérapeute rogérien par reconnaissance de motifs ; il a donné son nom à l'« effet ELIZA ».",
+  "id": "ia-eliza",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "ELIZA",
+  "entityType": "SOFTWARE",
+  "description": "Programme conversationnel de Joseph Weizenbaum simulant un psychothérapeute rogérien par reconnaissance de motifs ; il a donné son nom à l'« effet ELIZA ».",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "ELIZA figure parmi les logiciels marquants du traitement du langage.",
+    "En atelier, les élèves ont découvert ELIZA et ses possibilités.",
+    "L'équipe a comparé ELIZA avec d'autres outils du traitement du langage."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Eliza"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#TRAITEMENTLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=ELIZA"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Joseph Weizenbaum",
+    "SHRDLU"
+  ],
+  "isDeleted": false,
+  "startDate": "1966-01-01T00:00:00",
+  "endDate": null
+}

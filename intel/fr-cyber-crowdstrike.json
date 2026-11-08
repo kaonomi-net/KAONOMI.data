@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-crowdstrike",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "CrowdStrike",
+  "includedEntities": [
+    {
+      "entityName": "CrowdStrike",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "EDR",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre CrowdStrike, ses résultats et ses incidents.",
+  "isFuzzy": false,
+  "locations": [
+    "Austin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Falcon",
+    "résultats",
+    "panne"
+  ],
+  "questions": [
+    "Quelle croissance ?",
+    "Quel incident ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ENTREPRISES"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

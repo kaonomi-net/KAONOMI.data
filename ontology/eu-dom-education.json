@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (l'éducation) : Espace européen de l'éducation, mobilité des étudiants et reconnaissance des diplômes.",
+  "id": "eu-dom-education",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Éducation",
+  "entityType": "DOMAIN",
+  "description": "Espace européen de l'éducation, mobilité des étudiants et reconnaissance des diplômes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "La conférence portait sur l'éducation.",
+    "Le domaine « Éducation » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Éducation » passent par le Parlement et le Conseil."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#EDUCATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89ducation"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission de la culture et de l'éducation (CULT)",
+    "Conseil Éducation, jeunesse, culture et sport (EYCS)",
+    "Promotion du mode de vie européen (Commission von der Leyen I)",
+    "Margaritis Schinas",
+    "Innovation, recherche, culture, éducation et jeunesse (Commission von der Leyen I)",
+    "Mariya Gabriel",
+    "Iliana Ivanova",
+    "Personnes, compétences et préparation (Commission von der Leyen II)",
+    "Roxana Mînzatu",
+    "Éducation, culture, jeunesse et sport (Commission Juncker)",
+    "Tibor Navracsics",
+    "Direction générale de l'éducation, de la jeunesse, du sport et de la culture",
+    "Agence exécutive européenne pour l'éducation et la culture (EACEA)",
+    "Erasmus+"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

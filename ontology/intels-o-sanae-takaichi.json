@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sanae-takaichi",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "Sanae Takaichi",
+  "entityType": "PERSON",
+  "description": "Cité par 1 intel : Macron et le Japon.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre les relations entre la France et le Japon."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Sanae Takaichi",
+  "tags": [
+    "#FRANCE",
+    "#JAPON",
+    "#DIPLOMATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "défense",
+    "Paris",
+    "commerce",
+    "Tokyo",
+    "Japon",
+    "Indo-Pacifique",
+    "Emmanuel Macron"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

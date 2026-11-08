@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-complicite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une entente profonde.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:complicit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:complice(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:entente(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:connivence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:au\\s+diapason)(?![\\w-])"
+  ],
+  "symbol": "complicité",
+  "event": null,
+  "title": "Complicité",
+  "tags": [
+    "#AMITIE",
+    "#AMOUR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

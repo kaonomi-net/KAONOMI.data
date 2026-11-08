@@ -1,0 +1,13 @@
+{
+  "index": 634,
+  "file": "0634-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre les classes et l'héritage.",
+  "promptWords": 13,
+  "completion": "Voici un exemple de code en Python qui illustre les classes et l'héritage :\n\n```python\n# Classe parente (superclasse)\nclass Animal:\n    def __init__(self, nom):\n        self.nom = nom\n\n    def parler(self):\n        return f\"{self.nom} fait un bruit.\"\n\n# Classe enfant (sous-classe) qui hérite de Animal\nclass Chien(Animal):\n    def parler(self):\n        return f\"{self.nom} aboie.\"\n\n# Classe enfant (sous-classe) qui hérite de Animal\nclass Chat(Animal):\n    def parler(self):\n        return f\"{self.nom} miaule.\"\n\n# Création d'instances des classes\nanimal_generique = Animal(\"Animal générique\")\nmon_chien = Chien(\"Rex\")\nmon_chat = Chat(\"Whiskers\")\n\n# Appel des méthodes\nprint(animal_generique.parler())  # Sortie : Animal générique fait un bruit.\nprint(mon_chien.parler())         # Sortie : Rex aboie.\nprint(mon_chat.parler())          # Sortie : Whiskers miaule.\n```\n\n### Explications :\n1. **Classe `Animal`** : C'est la classe parente qui définit une méthode `__init__` pour initialiser l'attribut `nom` et une méthode `parler` qui retourne une chaîne de caractères générique.\n2. **Classe `Chien`** : C'est une sous-classe de `Animal` qui redéfinit la méthode `parler` pour retourner une chaîne spécifique aux chiens.\n3. **Classe `Chat`** : C'est une autre sous-classe de `Animal` qui redéfinit la méthode `parler` pour retourner une chaîne spécifique aux chats.\n4. **Instanciation et appel des méthodes** : On crée des instances des classes et on appelle la méthode `parler` pour chacune d'elles, ce qui montre le polymorphisme (même méthode, comportement différent selon la classe).\n\nCet exemple montre comment l'héritage permet de réutiliser et d'étendre le comportement des classes parentes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:35:29.3521278+02:00",
+  "durationSeconds": 9.3,
+  "stats": "mistral-small3.2:latest · 526 + 450 tokens · 9,3 s",
+  "isError": false,
+  "language": "FR"
+}

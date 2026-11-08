@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-pauvrete-en-france",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Pauvreté en France",
+  "includedEntities": [
+    {
+      "entityName": "pauvreté",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "précarité",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution de la pauvreté.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "INSEE",
+    "associations",
+    "Restos du cœur"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quelle évolution ?",
+    "Quelles populations ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PAUVRETE",
+    "#SOCIAL"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL",
+    "!SAD"
+  ],
+  "isDeleted": false
+}

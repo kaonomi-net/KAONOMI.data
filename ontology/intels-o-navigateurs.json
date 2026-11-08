@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-navigateurs",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "navigateurs",
+  "entityType": "PROFESSION",
+  "description": "Cité par 3 intels : ML-KEM ; Autorités de certification ; Vol de cookies de session.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre le déploiement de l'algorithme post-quantique d'échange de clés ML-KEM.",
+    "Suivre les incidents et révocations d'autorités de certification.",
+    "Suivre le vol de jetons et cookies de session."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "navigateurs",
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#POST-QUANTIQUE",
+    "#CERTIFICATS",
+    "#PKI",
+    "#CYBERSECURITE",
+    "#IDENTITES"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSITION",
+    "!CONFIANCE",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ML-KEM",
+    "FIPS 203",
+    "Kyber",
+    "TLS",
+    "révocation",
+    "confiance",
+    "Let's Encrypt",
+    "autorité de certification",
+    "infostealers",
+    "vol"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

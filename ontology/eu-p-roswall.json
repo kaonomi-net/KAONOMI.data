@@ -1,0 +1,59 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'environnement) : Avocate, ancienne ministre suédoise des Affaires européennes, commissaire à l'Environnement, à la Résilience hydrique et à l'Économie circulaire depuis 2024.",
+  "id": "eu-p-roswall",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Jessika Roswall",
+  "entityType": "PERSON",
+  "description": "Avocate, ancienne ministre suédoise des Affaires européennes, commissaire à l'Environnement, à la Résilience hydrique et à l'Économie circulaire depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Jessika Roswall.",
+    "Lors du point de presse de midi, une question portait sur Jessika Roswall.",
+    "Jessika Roswall est une figure de l'environnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Roswall"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Jessika%20Roswall"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité suédoise",
+    "Parti du rassemblement modéré (Moderaterna)",
+    "Avocat",
+    "Ministre des Affaires européennes",
+    "Commissaire européen",
+    "Environnement, résilience hydrique et économie circulaire compétitive (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Environnement",
+    "Résilience hydrique",
+    "Économie circulaire",
+    "Direction générale de l'environnement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

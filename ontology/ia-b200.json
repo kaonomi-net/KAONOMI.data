@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul accéléré) : GPU de l'architecture Blackwell, composé de deux puces reliées entre elles, destiné aux modèles de très grande taille.",
+  "id": "ia-b200",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "NVIDIA B200",
+  "entityType": "HARDWARE",
+  "description": "GPU de l'architecture Blackwell, composé de deux puces reliées entre elles, destiné aux modèles de très grande taille.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Pour ce projet d'IA, l'équipe a comparé NVIDIA B200 à d'autres solutions matérielles.",
+    "NVIDIA B200 a marqué l'histoire du matériel consacré au calcul accéléré.",
+    "La fiche technique de NVIDIA B200 détaille ses performances."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Blackwell B200"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULACCELERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NVIDIA%20B200"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NVIDIA H100",
+    "NVIDIA GB200 NVL72"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-01-01T00:00:00",
+  "endDate": null
+}

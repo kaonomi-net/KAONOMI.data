@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la politique étrangère) : Organise la sortie ordonnée du Royaume-Uni de l'Union européenne au 31 janvier 2020, avec le protocole sur l'Irlande du Nord.",
+  "id": "eu-pol-accord-retrait",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Accord de retrait du Royaume-Uni",
+  "entityType": "LAW",
+  "description": "Organise la sortie ordonnée du Royaume-Uni de l'Union européenne au 31 janvier 2020, avec le protocole sur l'Irlande du Nord.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "La mise en œuvre de « Accord de retrait du Royaume-Uni » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Accord de retrait du Royaume-Uni ».",
+    "Les juristes de la Commission ont commenté « Accord de retrait du Royaume-Uni »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "accord sur le Brexit"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Accord%20de%20retrait%20du%20Royaume-Uni"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Affaires étrangères",
+    "Commission von der Leyen I",
+    "Retrait du Royaume-Uni de l'Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-01-24T00:00:00",
+  "endDate": null
+}

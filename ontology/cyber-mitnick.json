@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (l'ingénierie sociale) : Hacker américain devenu célèbre pour ses intrusions des années 1980-1990 et son usage de l'ingénierie sociale, arrêté en 1995 puis reconverti en consultant en sécurité.",
+  "id": "cyber-mitnick",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Kevin Mitnick",
+  "entityType": "PERSON",
+  "description": "Hacker américain devenu célèbre pour ses intrusions des années 1980-1990 et son usage de l'ingénierie sociale, arrêté en 1995 puis reconverti en consultant en sécurité.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Une biographie de Kevin Mitnick rappelle son rôle dans l'ingénierie sociale.",
+    "Kevin Mitnick est l'une des figures marquantes de l'ingénierie sociale.",
+    "Lors de la conférence, l'oratrice a cité Kevin Mitnick pour illustrer les progrès de l'ingénierie sociale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 1,
+  "happyLevel": 1,
+  "fearLevel": 1,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "le Condor"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#INGENIERIESOCIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Kevin%20Mitnick"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Arrestation de Kevin Mitnick"
+  ],
+  "isDeleted": false,
+  "startDate": "1963-08-06T00:00:00",
+  "endDate": "2023-07-16T00:00:00"
+}

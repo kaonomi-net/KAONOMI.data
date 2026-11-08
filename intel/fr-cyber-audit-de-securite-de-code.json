@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-audit-de-securite-de-code",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Audit de sécurité de code",
+  "includedEntities": [
+    {
+      "entityName": "audit de code",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "revue",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les audits de sécurité du code.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "open source",
+    "failles",
+    "outils"
+  ],
+  "questions": [
+    "Quel projet audité ?",
+    "Quelles failles ?",
+    "Quel financement ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#APPSEC"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

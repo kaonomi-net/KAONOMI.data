@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la protection des données) : Règlement (UE) 2016/679, applicable depuis le 25 mai 2018.",
+  "id": "eu-pol-rgpd",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Règlement général sur la protection des données",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2016/679, applicable depuis le 25 mai 2018.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "« Règlement général sur la protection des données » relève de la protection des données.",
+    "« Règlement général sur la protection des données » a fait l'objet de longues négociations.",
+    "Les entreprises doivent tenir compte de « Règlement général sur la protection des données »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "RGPD",
+    "GDPR"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#PROTECTIONDONNEES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A8glement%20g%C3%A9n%C3%A9ral%20sur%20la%20protection%20des%20donn%C3%A9es"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Protection des données",
+    "Direction générale de la justice et des consommateurs",
+    "Commission Juncker",
+    "Contrôleur européen de la protection des données",
+    "Règlement sur l'intelligence artificielle"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-04-27T00:00:00",
+  "endDate": null
+}

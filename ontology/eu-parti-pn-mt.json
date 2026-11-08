@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Parti nationaliste maltais, parti politique de ce pays : Malte.",
+  "id": "eu-parti-pn-mt",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti nationaliste maltais",
+  "entityType": "ORGANISATION",
+  "description": "Parti nationaliste maltais, parti politique de ce pays : Malte. Il est affilié à la famille Parti populaire européen (PPE).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Parti nationaliste maltais ».",
+    "Les décisions de « Parti nationaliste maltais » touchent la vie politique nationale.",
+    "Le rapport annuel de « Parti nationaliste maltais » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20nationaliste%20maltais"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Malte",
+    "Parti populaire européen (PPE)",
+    "Roberta Metsola"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-secteur-de-siversk",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Secteur de Siversk",
+  "includedEntities": [
+    {
+      "entityName": "Siversk",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "combats",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation autour de Siversk.",
+  "isFuzzy": true,
+  "locations": [
+    "Siversk"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Bakhmout",
+    "Lyman",
+    "artillerie"
+  ],
+  "questions": [
+    "Quelle ligne tient ?",
+    "Quels assauts ?",
+    "Quel soutien logistique ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#DONBASS",
+    "#FRONT"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

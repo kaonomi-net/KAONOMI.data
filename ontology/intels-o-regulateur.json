@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-regulateur",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "régulateur",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : FSMA ; Offre publique d'achat ; Autorité des marchés financiers.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les décisions de l'Autorité belge des services et marchés financiers.",
+    "Repérer les offres publiques d'achat sur des sociétés cotées.",
+    "Suivre les décisions de l'Autorité des marchés financiers."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "régulateur",
+  "tags": [
+    "#REGULATION",
+    "#MARCHES",
+    "#BELGIQUE",
+    "#BOURSE",
+    "#OPA",
+    "#FRANCE"
+  ],
+  "events": [
+    "@MISE-EN-GARDE",
+    "@OFFRE"
+  ],
+  "signals": [
+    "!REGULATION",
+    "!OPERATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sanctions",
+    "Bruxelles",
+    "mises en garde",
+    "Paris",
+    "arnaques",
+    "FSMA",
+    "prime",
+    "offre",
+    "OPA",
+    "actionnaires"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

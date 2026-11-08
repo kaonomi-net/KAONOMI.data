@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-donnees-bancaires",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "données bancaires",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Cyberattaque contre une association.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les cyberattaques visant les associations et leurs donateurs."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "données bancaires",
+  "tags": [
+    "#CYBERSECURITE",
+    "#ASSOCIATIONS"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "donateurs",
+    "cyberattaque",
+    "association",
+    "Secours Islamique France",
+    "France"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

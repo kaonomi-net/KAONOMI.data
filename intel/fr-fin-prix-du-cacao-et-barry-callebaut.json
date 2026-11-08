@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-prix-du-cacao-et-barry-callebaut",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Prix du cacao et Barry Callebaut",
+  "includedEntities": [
+    {
+      "entityName": "cacao",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "chocolat",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le prix du cacao et son effet sur les chocolatiers.",
+  "isFuzzy": true,
+  "locations": [
+    "Côte d'Ivoire",
+    "Ghana"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Barry Callebaut",
+    "Lotus Bakeries",
+    "récoltes"
+  ],
+  "questions": [
+    "Quel prix ?",
+    "Quel effet sur les marges ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#CACAO"
+  ],
+  "events": [],
+  "signals": [
+    "!PRIX"
+  ],
+  "isDeleted": false
+}

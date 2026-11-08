@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-missiles-balistiques-iskander",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Missiles balistiques Iskander",
+  "includedEntities": [
+    {
+      "entityName": "Iskander",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "missile balistique",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les frappes de missiles balistiques Iskander.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Patriot",
+    "villes",
+    "victimes"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quel bilan ?",
+    "A-t-il été intercepté ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#MISSILES",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

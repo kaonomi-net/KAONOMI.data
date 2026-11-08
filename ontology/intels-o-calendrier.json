@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-calendrier",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "calendrier",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Calendrier d'adoption du budget.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le respect des délais constitutionnels d'adoption du budget."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "calendrier",
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!ECHEANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "délai",
+    "Sénat",
+    "article 47",
+    "Parlement",
+    "Conseil constitutionnel",
+    "budget"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

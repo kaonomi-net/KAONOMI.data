@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-sentinelle-de-la-baltique-de-l-otan",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Sentinelle de la Baltique de l'OTAN",
+  "includedEntities": [
+    {
+      "entityName": "Baltic Sentry",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "câbles sous-marins",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "OTAN",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la mission de l'OTAN de protection des infrastructures en mer Baltique.",
+  "isFuzzy": true,
+  "locations": [
+    "mer Baltique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "navires",
+    "drones",
+    "sabotages"
+  ],
+  "questions": [
+    "Quels incidents ?",
+    "Quels moyens déployés ?",
+    "Quelles interceptions ?"
+  ],
+  "tags": [
+    "#OTAN",
+    "#BALTIQUE",
+    "#INFRASTRUCTURES"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

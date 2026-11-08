@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-menaces",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "menaces",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Conseil de sécurité russe ; Violences et menaces contre les élus ; Livre blanc sur la défense européenne.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les réunions du Conseil de sécurité de la Fédération de Russie.",
+    "Suivre les menaces et agressions contre les élus et candidats.",
+    "Suivre la mise en œuvre du livre blanc sur la défense européenne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "menaces",
+  "tags": [
+    "#SECURITE",
+    "#POUTINE",
+    "#RUSSIE",
+    "#FRANCE",
+    "#DEMOCRATIE",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [
+    "@REUNION",
+    "@AGRESSION"
+  ],
+  "signals": [
+    "!GOUVERNANCE",
+    "!ALERTE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "défense",
+    "réunion",
+    "Choïgou",
+    "Conseil de sécurité",
+    "Poutine",
+    "Moscou",
+    "maires",
+    "députés",
+    "violences",
+    "police"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

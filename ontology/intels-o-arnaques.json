@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-arnaques",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "arnaques",
+  "entityType": "DOMAIN",
+  "description": "Cité par 5 intels : FSMA ; Prise de contrôle de comptes ; Police belge et cybercriminalité ; Plateforme Cybermalveillance.gouv.fr ; Plainte en ligne pour cyberescroquerie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les décisions de l'Autorité belge des services et marchés financiers.",
+    "Suivre les piratages de comptes de réseaux sociaux et de messageries.",
+    "Suivre les enquêtes belges contre la cybercriminalité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "arnaques",
+  "tags": [
+    "#CYBERSECURITE",
+    "#BELGIQUE",
+    "#FRANCE",
+    "#VICTIMES",
+    "#REGULATION",
+    "#MARCHES"
+  ],
+  "events": [
+    "@MISE-EN-GARDE",
+    "@ENQUETE",
+    "@ALERTE-SECURITE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!JUSTICE",
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "victimes",
+    "France",
+    "régulateur",
+    "FSMA",
+    "sanctions",
+    "Bruxelles",
+    "mises en garde",
+    "WhatsApp",
+    "Instagram",
+    "comptes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

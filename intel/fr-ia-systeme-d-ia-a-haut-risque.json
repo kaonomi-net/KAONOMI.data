@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-systeme-d-ia-a-haut-risque",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Système d'IA à haut risque",
+  "includedEntities": [
+    {
+      "entityName": "haut risque",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "AI Act",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "conformité",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Identifier les systèmes classés à haut risque par le règlement européen.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "santé",
+    "recrutement",
+    "justice"
+  ],
+  "questions": [
+    "Le système est-il à haut risque ?",
+    "Quelle documentation fournir ?",
+    "Quel contrôle humain ?"
+  ],
+  "tags": [
+    "#IA",
+    "#REGULATION",
+    "#HAUT-RISQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFORMITE"
+  ],
+  "isDeleted": false
+}

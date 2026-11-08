@@ -1,0 +1,13 @@
+{
+  "index": 7,
+  "file": "027-cuisine-comment-faire-une-sauce-bechamel.prompt.json",
+  "prompt": "Comment faire une sauce béchamel ?",
+  "promptWords": 6,
+  "completion": "La sauce béchamel est une sauce de base de la cuisine française, utilisée dans de nombreux plats comme les gratins, les lasagnes ou les croque-monsieur. Voici comment la préparer :\n\n### Ingrédients :\n- 50 g de beurre\n- 50 g de farine\n- 500 ml de lait entier\n- Sel et poivre (au goût)\n- Noix de muscade râpée (optionnelle)\n\n### Étapes de préparation :\n\n1. **Faire fondre le beurre** : Dans une casserole, faites fondre le beurre à feu moyen.\n\n2. **Ajouter la farine** : Une fois le beurre fondu, ajoutez la farine en une seule fois et mélangez bien pour obtenir un mélange homogène (ce mélange s'appelle un \"roux blanc\"). Laissez cuire ce roux pendant 2-3 minutes pour éliminer le goût de farine crue.\n\n3. **Incorporer le lait** : Versez le lait petit à petit en remuant constamment avec un fouet pour éviter les grumeaux. Continuez à mélanger jusqu'à ce que la sauce épaississe.\n\n4. **Assaisonner** : Salez et poivrez selon votre goût. Vous pouvez aussi ajouter une pincée de noix de muscade pour parfumer la sauce.\n\n5. **Cuire la sauce** : Laissez mijoter la sauce à feu doux pendant quelques minutes en continuant de remuer pour qu'elle épaississe davantage. Si la sauce est trop épaisse, vous pouvez ajouter un peu plus de lait.\n\n6. **Déguster** : La sauce béchamel est prête à être utilisée. Vous pouvez la servir immédiatement ou la conserver au réfrigérateur pendant quelques jours.\n\n### Conseils :\n- Pour une sauce plus légère, vous pouvez utiliser du lait demi-écrémé.\n- Si vous souhaitez une sauce plus onctueuse, vous pouvez ajouter un jaune d'œuf en fin de cuisson, mais attention à ne pas trop chauffer pour éviter que l'œuf ne cuise.\n\nBon appétit !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:17:47.0907777+02:00",
+  "durationSeconds": 10.05,
+  "stats": "mistral-small3.2:latest · 515 + 450 tokens · 10,1 s",
+  "isError": false,
+  "language": "FR"
+}

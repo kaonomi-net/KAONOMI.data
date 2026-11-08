@@ -1,0 +1,67 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (le budget de l'Union) : Règlement (UE, Euratom) 2020/2093 fixant le budget à long terme de l'Union pour sept ans.",
+  "id": "eu-pol-cfp-2021",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Cadre financier pluriannuel 2021-2027",
+  "entityType": "LAW",
+  "description": "Règlement (UE, Euratom) 2020/2093 fixant le budget à long terme de l'Union pour sept ans.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les entreprises doivent tenir compte de « Cadre financier pluriannuel 2021-2027 ».",
+    "« Cadre financier pluriannuel 2021-2027 » relève de le budget de l'Union.",
+    "« Cadre financier pluriannuel 2021-2027 » a fait l'objet de longues négociations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "CFP",
+    "budget à long terme"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#BUDGETUNION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Cadre%20financier%20pluriannuel%202021-2027"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Budget",
+    "Direction générale du budget",
+    "Commission von der Leyen I",
+    "Horizon Europe",
+    "Fonds social européen plus",
+    "Fonds pour une transition juste",
+    "Fonds européen pour les affaires maritimes, la pêche et l'aquaculture",
+    "Programme pour une Europe numérique",
+    "Programme « L'UE pour la santé »",
+    "Fonds européen de la défense",
+    "Instrument d'aide de préadhésion III",
+    "Programme pour le marché unique",
+    "Fiscalis",
+    "Programme Douane",
+    "Programme Citoyens, égalité, droits et valeurs",
+    "Fonds « Asile, migration et intégration »",
+    "Fonds pour la sécurité intérieure",
+    "Accord du Conseil européen sur NextGenerationEU"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-12-17T00:00:00",
+  "endDate": null
+}

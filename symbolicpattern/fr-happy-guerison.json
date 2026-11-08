@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-guerison",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le retour à la santé.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:gu[ée]rison(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gu[ée]r(ir|i|ie|is|ies|it|issent)|tir[ée](e|s|es)?\\s+d['’]affaire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hors\\s+de\\s+danger)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sauv[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "guérison",
+  "event": null,
+  "title": "Guérison",
+  "tags": [
+    "#SANTE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

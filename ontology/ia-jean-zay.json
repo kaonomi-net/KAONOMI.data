@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul de haute performance) : Supercalculateur du GENCI installé à l'IDRIS, au cœur de la stratégie française en IA ; il a servi à entraîner le modèle BLOOM.",
+  "id": "ia-jean-zay",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Supercalculateur Jean Zay",
+  "entityType": "HARDWARE",
+  "description": "Supercalculateur du GENCI installé à l'IDRIS, au cœur de la stratégie française en IA ; il a servi à entraîner le modèle BLOOM.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Supercalculateur Jean Zay a marqué l'histoire du matériel consacré au calcul de haute performance.",
+    "La fiche technique de Supercalculateur Jean Zay détaille ses performances.",
+    "Pour ce projet d'IA, l'équipe a comparé Supercalculateur Jean Zay à d'autres solutions matérielles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Jean Zay"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULHAUTEPERFORMANCE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Supercalculateur%20Jean%20Zay"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Publication du rapport Villani",
+    "Supercalculateur Frontier"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-01-01T00:00:00",
+  "endDate": null
+}

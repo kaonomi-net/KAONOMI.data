@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-rupture",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La fin d'une relation.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:rupture(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rompu(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:quitt[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chagrin(s)?\\s+d['’]amour)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:c(œ|oe)ur\\s+bris[ée])(?![\\w-])"
+  ],
+  "symbol": "rupture",
+  "event": null,
+  "title": "Rupture",
+  "tags": [
+    "#RELATION",
+    "#TRISTESSE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

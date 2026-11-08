@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-livre-blanc-sur-la-defense-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Livre blanc sur la défense européenne",
+  "includedEntities": [
+    {
+      "entityName": "livre blanc",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "défense",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la mise en œuvre du livre blanc sur la défense européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "capacités",
+    "industrie",
+    "menaces"
+  ],
+  "questions": [
+    "Quelles priorités ?",
+    "Quelle mise en œuvre ?",
+    "Quels retards ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DEFENSE",
+    "#STRATEGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

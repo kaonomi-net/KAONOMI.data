@@ -1,0 +1,13 @@
+{
+  "index": 883,
+  "file": "0883-design-patterns-quelle-est-la-difference-entre-le.prompt.json",
+  "prompt": "Quelle est la différence entre le pattern Strategy et le pattern State ?",
+  "promptWords": 13,
+  "completion": "Les patterns **Strategy** et **State** sont tous deux des patterns de conception comportementaux, mais ils diffèrent dans leur objectif et leur implémentation. Voici leurs principales différences :\n\n### **1. Pattern Strategy (Stratégie)**\n- **Objectif** : Permet de définir une famille d'algorithmes, d'encapsuler chacun d'eux, et de les rendre interchangeables. Le client peut choisir l'algorithme à utiliser au moment de l'exécution.\n- **Utilisation** : Quand une classe a plusieurs comportements qui peuvent varier indépendamment des autres.\n- **Exemple** : Différentes méthodes de tri (QuickSort, MergeSort, BubbleSort) peuvent être implémentées comme des stratégies interchangeables.\n- **Structure** :\n  - Une interface commune pour les stratégies.\n  - Plusieurs implémentations concrètes de cette interface.\n  - Un contexte qui utilise une stratégie et peut la changer dynamiquement.\n\n### **2. Pattern State (État)**\n- **Objectif** : Permet à un objet de changer son comportement lorsqu'un état interne change. L'objet semble modifier sa classe.\n- **Utilisation** : Quand un objet doit se comporter différemment selon son état interne.\n- **Exemple** : Une machine à états (comme un ascenseur avec des états \"En attente\", \"En mouvement\", \"En arrêt d'urgence\").\n- **Structure** :\n  - Une interface ou une classe abstraite pour les états.\n  - Plusieurs implémentations concrètes de cette interface.\n  - Un contexte qui maintient une référence à l'état actuel et peut le changer.\n\n### **Différence clé**\n- **Strategy** : Change l'algorithme ou le comportement d'un objet en remplaçant une stratégie.\n- **State** : Change le comportement d'un objet en modifiant son état interne.\n\n### **Analogie**\n- **Strategy** : Comme choisir entre plusieurs outils (marteau, tournevis, clé) pour accomplir une tâche.\n- **State** : Comme un interrupteur qui change le comportement d'un appareil (allumé/éteint).\n\nSi tu veux un exemple de code pour mieux comprendre, fais-le-moi savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:35:52.6843177+02:00",
+  "durationSeconds": 9.44,
+  "stats": "mistral-small3.2:latest · 521 + 462 tokens · 9,4 s",
+  "isError": false,
+  "language": "FR"
+}

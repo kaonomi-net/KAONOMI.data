@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-smartphone",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "smartphone",
+  "entityType": "HARDWARE",
+  "description": "Cité par 3 intels : Petits modèles efficaces ; IA embarquée sur smartphone ; Dépendance au smartphone.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Repérer les modèles compacts capables de tourner sur un téléphone ou un ordinateur.",
+    "Suivre l'IA qui fonctionne directement sur les téléphones.",
+    "Suivre la dépendance au smartphone."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "smartphone",
+  "tags": [
+    "#IA",
+    "#EDGE",
+    "#EFFICACITE",
+    "#SMARTPHONE",
+    "#PSYCHOLOGIE",
+    "#ADDICTIONS"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE",
+    "@LANCEMENT-MATERIEL"
+  ],
+  "signals": [
+    "!NOUVEAUTE",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Phi",
+    "petit modèle",
+    "Gemma",
+    "embarqué",
+    "efficacité",
+    "NPU",
+    "Apple Intelligence",
+    "IA embarquée",
+    "puce",
+    "Galaxy AI"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

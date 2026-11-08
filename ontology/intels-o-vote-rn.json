@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-vote-rn",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "vote RN",
+  "entityType": "EVENT",
+  "description": "Cité par 1 intel : Désertification industrielle des territoires.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les fermetures d'usines dans les territoires."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "vote RN",
+  "tags": [
+    "#FRANCE",
+    "#INDUSTRIE",
+    "#TERRITOIRES"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE-SOCIAL"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Est",
+    "réindustrialisation",
+    "centre",
+    "désindustrialisation",
+    "Nord",
+    "territoires",
+    "plans sociaux",
+    "emplois"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

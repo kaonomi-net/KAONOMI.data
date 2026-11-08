@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (les services financiers) : Portefeuille détenu par Jonathan Hill, commissaire, dans la Commission Juncker, du 1er novembre 2014 au 15 juillet 2016.",
+  "id": "eu-pf-juncker-hill",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Stabilité financière, services financiers et union des marchés des capitaux (Commission Juncker)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Jonathan Hill, commissaire, dans la Commission Juncker, du 1er novembre 2014 au 15 juillet 2016.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Le portefeuille « Stabilité financière, services financiers et union des marchés des capitaux (Commission Juncker) » a marqué la politique européenne des services financiers.",
+    "Lors de son audition, le titulaire du portefeuille « Stabilité financière, services financiers et union des marchés des capitaux (Commission Juncker) » a présenté ses priorités.",
+    "Le portefeuille « Stabilité financière, services financiers et union des marchés des capitaux (Commission Juncker) » s'appuie sur plusieurs directions générales."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#SERVICESFINANCIERS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Stabilit%C3%A9%20financi%C3%A8re%2C%20services%20financiers%20et%20union%20des%20march%C3%A9s%20des%20capitaux%20%28Commission%20Juncker%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Jonathan Hill",
+    "Commission Juncker",
+    "Commissaire européen",
+    "Services financiers",
+    "Union de l'épargne et des investissements"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-11-01T00:00:00",
+  "endDate": "2016-07-15T00:00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 234,
+  "file": "0234-cybersecurite-explique-la-detection-d-intrusion-de.prompt.json",
+  "prompt": "Explique la détection d'intrusion de façon simple.",
+  "promptWords": 7,
+  "completion": "La détection d'intrusion est un processus qui permet d'identifier et de signaler des activités suspectes ou malveillantes sur un réseau informatique ou un système. Imaginez que votre maison a des alarmes pour détecter les cambrioleurs : la détection d'intrusion fonctionne de la même manière, mais pour les systèmes informatiques.\n\n### Comment ça marche ?\n1. **Surveillance** : Des outils spécialisés surveillent en permanence le trafic réseau, les connexions, les fichiers, etc.\n2. **Analyse** : Ils comparent les activités observées à des règles ou des comportements connus comme normaux.\n3. **Alerte** : Si quelque chose d'anormal est détecté (par exemple, une tentative de connexion non autorisée), une alerte est déclenchée pour informer les administrateurs.\n\n### Types de détection d'intrusion :\n- **Détection basée sur les signatures** : Comme un antivirus, elle repère des attaques connues en les comparant à une base de données de signatures.\n- **Détection basée sur l'anomalie** : Elle identifie les comportements qui s'écartent de la normale (par exemple, un utilisateur qui télécharge soudainement des quantités massives de données).\n\n### Objectif :\nProtéger les systèmes contre les cyberattaques en repérant rapidement les intrusions pour pouvoir réagir avant que des dommages ne soient causés.\n\nEn résumé, c'est comme avoir un garde de sécurité pour vos données !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:08:26.8871322+02:00",
+  "durationSeconds": 6.47,
+  "stats": "mistral-small3.2:latest · 520 + 317 tokens · 6,5 s",
+  "isError": false,
+  "language": "FR"
+}

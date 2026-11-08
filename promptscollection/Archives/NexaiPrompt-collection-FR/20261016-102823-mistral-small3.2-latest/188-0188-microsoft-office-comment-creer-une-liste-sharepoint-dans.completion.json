@@ -1,0 +1,13 @@
+{
+  "index": 188,
+  "file": "0188-microsoft-office-comment-creer-une-liste-sharepoint-dans.prompt.json",
+  "prompt": "Comment créer une liste SharePoint dans SharePoint ?",
+  "promptWords": 8,
+  "completion": "Pour créer une liste SharePoint dans SharePoint, vous pouvez suivre ces étapes :\n\n### **Via l'interface utilisateur (SharePoint Online ou SharePoint 2019/2016) :**\n1. **Accédez à votre site SharePoint** :\n   - Ouvrez votre navigateur et connectez-vous à votre site SharePoint.\n\n2. **Allez dans \"Contenu du site\"** :\n   - Cliquez sur l'icône **\"Paramètres\"** (⚙️) en haut à droite, puis sélectionnez **\"Contenu du site\"**.\n\n3. **Créez une nouvelle liste** :\n   - Cliquez sur **\"Nouveau\"** > **\"Liste\"**.\n   - Donnez un **nom** à votre liste.\n   - Choisissez un **modèle** (par défaut, \"Liste vide\" ou \"Liste personnalisée\").\n   - Cliquez sur **\"Créer\"**.\n\n4. **Personnalisez votre liste** :\n   - Une fois créée, vous pouvez ajouter des **colonnes**, modifier les **autorisations** ou configurer des **flux de travail**.\n\n### **Via PowerShell (pour SharePoint Online) :**\nSi vous préférez utiliser PowerShell, voici un exemple de script pour créer une liste :\n\n```powershell\n# Connexion à SharePoint Online\nConnect-SPOService -Url https://votredomaine-admin.sharepoint.com\n\n# Création de la liste\nAdd-SPOSiteCollectionAdmin -Url https://votredomaine.sharepoint.com/sites/votresite -Login \"utilisateur@domaine.com\"\nNew-SPOList -Title \"Ma Nouvelle Liste\" -Url \"MaNouvelleListe\" -Template \"GenericList\" -Site \"https://votredomaine.sharepoint.com/sites/votresite\"\n```\n\n### **Via l'API REST (pour SharePoint Online) :**\nVous pouvez également utiliser l'API REST pour créer une liste :\n\n```http\nPOST https://votredomaine.sharepoint.com/sites/votresite/_api/web/lists\nContent-Type: application/json;odata=verbose\nAccept: application/json;odata=verbose\n\n{\n  \"__metadata\": { \"type\": \"SP.List\" },\n  \"Title\": \"Ma Nouvelle Liste\",\n  \"BaseTemplate\": 100,\n  \"Description\": \"Description de la liste\"\n}\n```\n\nSi vous avez besoin d'aide pour une méthode spécifique ou si vous utilisez une version différente de SharePoint, n'hésitez pas à me le préciser !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:01:11.4504636+02:00",
+  "durationSeconds": 10.89,
+  "stats": "mistral-small3.2:latest · 517 + 539 tokens · 10,9 s",
+  "isError": false,
+  "language": "FR"
+}

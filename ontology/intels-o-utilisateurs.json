@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-utilisateurs",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "utilisateurs",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Rapports des éditeurs sur la santé mentale des utilisateurs.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les chiffres publiés par les éditeurs d'IA sur les conversations de détresse."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "utilisateurs",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#IA",
+    "#TRANSPARENCE"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!VEILLE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OpenAI",
+    "détresse",
+    "protocoles",
+    "Anthropic",
+    "éditeur"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

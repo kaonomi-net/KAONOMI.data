@@ -1,0 +1,13 @@
+{
+  "index": 21,
+  "file": "041-intelligence-artificielle-qu-est-ce-que-l-intelligence.prompt.json",
+  "prompt": "Qu'est-ce que l'intelligence artificielle ?",
+  "promptWords": 5,
+  "completion": "L'intelligence artificielle (IA) est un domaine de l'informatique qui vise à créer des systèmes capables d'effectuer des tâches qui nécessitent normalement l'intelligence humaine. Ces tâches incluent la reconnaissance de motifs, la prise de décision, la résolution de problèmes, la compréhension du langage naturel, et bien plus encore.\n\nL'IA peut être classée en deux grandes catégories :\n\n1. **Intelligence Artificielle Faible (Weak AI)** : Conçue pour accomplir des tâches spécifiques. Par exemple, un assistant vocal comme Siri ou Alexa est une IA faible, car il est programmé pour répondre à des commandes vocales spécifiques.\n\n2. **Intelligence Artificielle Forte (Strong AI)** : Théoriquement capable de comprendre, d'apprendre et de s'adapter de manière autonome, comme un être humain. Cette forme d'IA n'existe pas encore, mais elle est un objectif à long terme pour de nombreux chercheurs.\n\nLes applications de l'IA sont vastes et incluent la reconnaissance vocale, la vision par ordinateur, les systèmes de recommandation, les voitures autonomes, et bien d'autres. L'IA utilise souvent des techniques comme l'apprentissage automatique (machine learning), les réseaux de neurones, et le traitement du langage naturel (NLP) pour fonctionner.\n\nSi tu as des questions plus spécifiques sur l'IA, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:57:25.5092939+02:00",
+  "durationSeconds": 6.7,
+  "stats": "mistral-small3.2:latest · 517 + 296 tokens · 6,7 s",
+  "isError": false,
+  "language": "FR"
+}

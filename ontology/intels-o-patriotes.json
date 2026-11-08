@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-patriotes",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "Patriotes",
+  "entityType": "NORP",
+  "description": "Cité par 1 intel : Votes du PPE avec l'extrême droite.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-norp",
+  "sentencesExemples": [
+    "Suivre les votes où le PPE s'allie avec les groupes de droite radicale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Patriotes",
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#PPE",
+    "#ALLIANCES"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ECR",
+    "vote",
+    "Manfred Weber",
+    "extrême droite",
+    "PPE",
+    "Strasbourg"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

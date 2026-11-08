@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la communication de la Commission) : Office des publications de l'Union européenne (OP), service de la Commission européenne compétent pour la communication de la Commission, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "id": "eu-dg-op",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Office des publications de l'Union européenne",
+  "entityType": "ORGANISATION",
+  "description": "Office des publications de l'Union européenne (OP), service de la Commission européenne compétent pour la communication de la Commission, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Les décisions de « Office des publications de l'Union européenne » touchent la communication de la Commission.",
+    "Le rapport annuel de « Office des publications de l'Union européenne » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Office des publications de l'Union européenne »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "OP"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#COMMUNICATIONCOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Office%20des%20publications%20de%20l%27Union%20europ%C3%A9enne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Piotr Serafin",
+    "Communication et présidence"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

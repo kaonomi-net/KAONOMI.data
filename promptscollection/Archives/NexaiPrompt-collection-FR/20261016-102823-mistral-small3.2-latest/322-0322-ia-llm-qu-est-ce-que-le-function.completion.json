@@ -1,0 +1,13 @@
+{
+  "index": 322,
+  "file": "0322-ia-llm-qu-est-ce-que-le-function.prompt.json",
+  "prompt": "Qu'est-ce que le function calling (appel d'outils) dans un LLM ?",
+  "promptWords": 11,
+  "completion": "Le **function calling** (ou appel d'outils) dans un modèle de langage (LLM) est une fonctionnalité qui permet au modèle d'interagir avec des outils externes pour effectuer des actions spécifiques ou récupérer des informations en temps réel. Voici une explication détaillée :\n\n### 1. **Qu'est-ce que le function calling ?**\nLe function calling permet à un LLM d'appeler des fonctions ou des API externes pour :\n- **Récupérer des informations à jour** (par exemple, des données météorologiques, des résultats sportifs, des prix de billets, etc.).\n- **Effectuer des actions** (par exemple, envoyer un email, créer un rendez-vous, commander un produit, etc.).\n- **Accéder à des données spécifiques** (par exemple, des bases de données internes, des fichiers, etc.).\n\n### 2. **Comment ça fonctionne ?**\n- Le modèle analyse la requête de l'utilisateur et détermine si elle nécessite l'utilisation d'un outil externe.\n- Si c'est le cas, il appelle la fonction ou l'API appropriée avec les paramètres nécessaires.\n- L'outil externe exécute l'action ou récupère les données demandées.\n- Le modèle reçoit la réponse de l'outil et l'intègre dans sa réponse finale à l'utilisateur.\n\n### 3. **Exemples d'utilisation**\n- **Recherche d'informations** : \"Quelle est la météo à Paris aujourd'hui ?\" → Le modèle appelle une API météo.\n- **Réservation** : \"Peux-tu me réserver une table au restaurant X pour ce soir ?\" → Le modèle appelle une API de réservation.\n- **Gestion de calendrier** : \"Ajoute un rendez-vous à mon agenda pour demain à 14h.\" → Le modèle appelle une API de calendrier.\n\n### 4. **Avantages**\n- **Précision** : Les informations sont à jour et spécifiques.\n- **Automatisation** : Réduction des tâches manuelles.\n- **Personnalisation** : Adaptation aux besoins spécifiques de l'utilisateur.\n\n### 5. **Limitations**\n- **Dépendance aux outils** : Le modèle doit avoir accès aux outils nécessaires.\n- **Complexité** : La mise en place des intégrations peut être technique.\n- **Sécurité** : Gestion des autorisations et des données sensibles.\n\nEn résumé, le function calling permet aux LLM de dépasser les limites de leurs connaissances internes en s'appuyant sur des outils externes pour fournir des réponses plus précises et des actions automatisées.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:24:27.7112412+02:00",
+  "durationSeconds": 10.75,
+  "stats": "mistral-small3.2:latest · 527 + 538 tokens · 10,7 s",
+  "isError": false,
+  "language": "FR"
+}

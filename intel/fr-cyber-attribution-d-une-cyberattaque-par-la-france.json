@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-attribution-d-une-cyberattaque-par-la-france",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Attribution d'une cyberattaque par la France",
+  "includedEntities": [
+    {
+      "entityName": "attribution",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "France",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "ANSSI",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attributions publiques de cyberattaques par la France.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Quai d'Orsay",
+    "APT28",
+    "sanctions"
+  ],
+  "questions": [
+    "Quel État ?",
+    "Quelle campagne ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FRANCE",
+    "#ATTRIBUTION"
+  ],
+  "events": [
+    "@ATTRIBUTION"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

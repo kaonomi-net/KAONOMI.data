@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-macron-et-les-institutions",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Macron et les institutions",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Constitution",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "réforme",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les projets de réforme institutionnelle du président.",
+  "isFuzzy": true,
+  "locations": [
+    "Élysée"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "proportionnelle",
+    "Conseil constitutionnel",
+    "Parlement"
+  ],
+  "questions": [
+    "Quelle réforme ?",
+    "Quel calendrier ?",
+    "Quelle majorité ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!INSTITUTIONS"
+  ],
+  "isDeleted": false
+}

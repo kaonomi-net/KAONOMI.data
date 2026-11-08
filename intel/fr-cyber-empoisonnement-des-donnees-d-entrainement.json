@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-empoisonnement-des-donnees-d-entrainement",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Empoisonnement des données d'entraînement",
+  "includedEntities": [
+    {
+      "entityName": "empoisonnement",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "données d'entraînement",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques par empoisonnement des modèles d'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "portes dérobées",
+    "jeux de données",
+    "modèles ouverts"
+  ],
+  "questions": [
+    "Quelle attaque ?",
+    "Quel modèle ?",
+    "Quelle détection ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#EMPOISONNEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

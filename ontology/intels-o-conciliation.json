@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-conciliation",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "conciliation",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Vote du budget annuel de l'Union ; Budget annuel 2027 de l'Union.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'adoption du budget annuel de l'Union européenne.",
+    "Suivre la négociation du budget annuel 2027 de l'Union."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "conciliation",
+  "tags": [
+    "#BUDGET-UE",
+    "#PARLEMENT-EUROPEEN",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!BUDGET"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conseil",
+    "Strasbourg",
+    "Parlement européen",
+    "vote",
+    "crédits",
+    "budget annuel",
+    "Bruxelles",
+    "Parlement",
+    "budget 2027",
+    "Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Union de la patrie – Chrétiens-démocrates lituaniens, parti politique de ce pays : Lituanie.",
+  "id": "eu-parti-ts-lkd",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Union de la patrie – Chrétiens-démocrates lituaniens",
+  "entityType": "ORGANISATION",
+  "description": "Union de la patrie – Chrétiens-démocrates lituaniens, parti politique de ce pays : Lituanie. Il est affilié à la famille Parti populaire européen (PPE).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Union de la patrie – Chrétiens-démocrates lituaniens ».",
+    "« Union de la patrie – Chrétiens-démocrates lituaniens » joue un rôle dans la vie politique nationale.",
+    "Les fonctionnaires de « Union de la patrie – Chrétiens-démocrates lituaniens » préparent les textes relatifs à la vie politique nationale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Union%20de%20la%20patrie%20%E2%80%93%20Chr%C3%A9tiens-d%C3%A9mocrates%20lituaniens"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Lituanie",
+    "Parti populaire européen (PPE)",
+    "Andrius Kubilius"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-chiffrement-homomorphe",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Chiffrement homomorphe",
+  "includedEntities": [
+    {
+      "entityName": "chiffrement homomorphe",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "données",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les avancées du chiffrement homomorphe et du calcul confidentiel.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "IA",
+    "cloud",
+    "vie privée"
+  ],
+  "questions": [
+    "Quelle avancée ?",
+    "Quel usage ?",
+    "Quelle performance ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#VIE-PRIVEE",
+    "#INNOVATION"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

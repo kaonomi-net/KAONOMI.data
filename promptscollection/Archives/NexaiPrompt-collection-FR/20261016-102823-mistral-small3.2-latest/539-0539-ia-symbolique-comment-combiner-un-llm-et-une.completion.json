@@ -1,0 +1,13 @@
+{
+  "index": 539,
+  "file": "0539-ia-symbolique-comment-combiner-un-llm-et-une.prompt.json",
+  "prompt": "Comment combiner un LLM et une base de règles symboliques ?",
+  "promptWords": 11,
+  "completion": "Combiner un grand modèle de langage (LLM) avec une base de règles symboliques est une approche hybride qui permet de tirer parti des forces des deux systèmes. Voici comment vous pouvez procéder :\n\n### 1. **Comprendre les forces de chaque système**\n   - **LLM** : Excellents pour comprendre le langage naturel, générer du texte, et traiter des informations contextuelles.\n   - **Base de règles symboliques** : Efficaces pour des raisonnements logiques, des décisions basées sur des règles précises, et des tâches nécessitant une exactitude absolue.\n\n### 2. **Architecture hybride**\n   - **Prétraitement avec le LLM** : Utilisez le LLM pour analyser et comprendre les entrées complexes, comme des questions en langage naturel.\n   - **Application des règles symboliques** : Utilisez la base de règles pour appliquer des décisions logiques basées sur les résultats du LLM.\n   - **Post-traitement avec le LLM** : Utilisez le LLM pour reformuler les résultats en langage naturel si nécessaire.\n\n### 3. **Exemple de flux de travail**\n   - **Étape 1** : L'utilisateur pose une question en langage naturel.\n   - **Étape 2** : Le LLM analyse la question et extrait les informations clés.\n   - **Étape 3** : Les informations extraites sont passées à la base de règles pour une décision logique.\n   - **Étape 4** : La décision est reformulée en langage naturel par le LLM pour répondre à l'utilisateur.\n\n### 4. **Outils et technologies**\n   - **LLM** : Utilisez des modèles comme Mistral, GPT, ou d'autres modèles open-source.\n   - **Base de règles** : Utilisez des systèmes comme Drools, CLIPS, ou des règles définies dans des fichiers JSON/XML.\n\n### 5. **Avantages**\n   - **Précision** : Les règles symboliques garantissent des décisions exactes.\n   - **Flexibilité** : Le LLM permet de gérer des entrées variées et complexes.\n\n### 6. **Défis**\n   - **Intégration** : Assurer une communication fluide entre le LLM et la base de règles.\n   - **Maintenance** : Garder les règles à jour et cohérentes avec les capacités du LLM.\n\nEn combinant ces deux approches, vous pouvez créer des systèmes intelligents qui sont à la fois flexibles et précis.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:03:42.3247688+02:00",
+  "durationSeconds": 10.99,
+  "stats": "mistral-small3.2:latest · 521 + 538 tokens · 11,0 s",
+  "isError": false,
+  "language": "FR"
+}

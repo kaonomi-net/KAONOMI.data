@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-startups",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "startups",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 5 intels : Acquisitions dans la cybersécurité ; Campus Cyber ; Initiative EU Inc et 28e régime ; Accélération du déploiement de l'IA ; Capital-risque européen.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les rachats dans le secteur de la cybersécurité.",
+    "Suivre le Campus Cyber et l'écosystème français.",
+    "Suivre le projet de statut européen pour les entreprises innovantes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "startups",
+  "tags": [
+    "#CYBERSECURITE",
+    "#STARTUPS",
+    "#UNION-EUROPEENNE",
+    "#ENTREPRISES",
+    "#FUSIONS",
+    "#FRANCE"
+  ],
+  "events": [
+    "@FUSION"
+  ],
+  "signals": [
+    "!STRATEGIE",
+    "!CONSOLIDATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "fonds",
+    "Bruxelles",
+    "plateformes",
+    "acquisition",
+    "cybersécurité",
+    "formations",
+    "Campus Cyber",
+    "La Défense",
+    "écosystème",
+    "régions"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

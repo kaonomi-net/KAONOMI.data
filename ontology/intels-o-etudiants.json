@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-etudiants",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "étudiants",
+  "entityType": "PROFESSION",
+  "description": "Cité par 6 intels : Rançongiciel contre ISAE-Supméca ; Cyberattaque contre une université ; Erasmus+ et la jeunesse ; Secourisme en santé mentale ; Santé mentale des étudiants ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre l'attaque par rançongiciel du 31 octobre 2026 contre l'école d'ingénieurs ISAE-Supméca.",
+    "Repérer les cyberattaques contre les universités et écoles.",
+    "Suivre le programme Erasmus+ et son budget futur."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "étudiants",
+  "tags": [
+    "#EDUCATION",
+    "#PSYCHOLOGIE",
+    "#CYBERSECURITE",
+    "#SANTE-MENTALE",
+    "#RANCONGICIEL",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [
+    "@RANCONGICIEL",
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!SOCIAL",
+    "!PREVENTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "rançongiciel",
+    "Belgique",
+    "Saint-Ouen",
+    "ISAE-Supméca",
+    "revendication",
+    "systèmes",
+    "université",
+    "cyberattaque",
+    "recherche"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

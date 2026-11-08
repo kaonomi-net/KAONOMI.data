@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-feuille-de-route-sante-mentale-et-psychiatrie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Feuille de route santé mentale et psychiatrie",
+  "includedEntities": [
+    {
+      "entityName": "feuille de route",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la feuille de route gouvernementale en santé mentale et psychiatrie.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ministère de la Santé",
+    "mesures",
+    "financement"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quel financement ?",
+    "Quel avancement ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SANTE-MENTALE",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

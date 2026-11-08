@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-droits-fondamentaux-et-migration",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Droits fondamentaux et migration",
+  "includedEntities": [
+    {
+      "entityName": "droits fondamentaux",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "migrants",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Agence des droits fondamentaux",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les alertes sur les droits des migrants aux frontières.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ONG",
+    "refoulements",
+    "Agence des droits fondamentaux"
+  ],
+  "questions": [
+    "Quelle alerte ?",
+    "Quel pays ?",
+    "Quelle enquête ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MIGRATION",
+    "#DROITS-HUMAINS"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

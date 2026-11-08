@@ -1,0 +1,13 @@
+{
+  "index": 329,
+  "file": "0329-ia-llm-explain-fine-tuning-in-simple-terms.prompt.json",
+  "prompt": "Explain fine-tuning in simple terms.",
+  "promptWords": 5,
+  "completion": "**Fine‑tuning is like giving a “pre‑trained” model a little extra polish for a specific job.**\n\n1. **Start with a general‑purpose model**  \n   Imagine you have a language model that’s already learned a lot about English from billions of web pages. It knows grammar, common facts, how sentences usually look, etc. That’s the “pre‑trained” part.\n\n2. **Add a small, focused training step**  \n   Now you want the model to do something more specific—say, write legal contracts, answer medical questions, or understand your company’s internal jargon. Instead of building a new model from scratch, you *fine‑tune* the existing one: you give it a much smaller, domain‑specific dataset and let it keep learning from that.\n\n3. **Keep most of the knowledge, tweak just enough**  \n   During fine‑tuning, the model’s weights (its “memory”) are updated only a little. Most of the general knowledge stays intact, while the model learns the nuances of the new domain. Think of it as polishing a car: the engine stays the same, but you add a fresh coat of paint and a new set of rims.\n\n4. **Why it’s useful**  \n   * **Speed** – Training from scratch would need enormous data and time. Fine‑tuning uses the already‑learned foundation, so it converges quickly.  \n   * **Efficiency** – You need less data; the model already knows a lot.  \n   * **Specialization** – You can tailor the model to a narrow task without sacrificing its overall language skills.\n\n5. **Key trick: “freeze” some layers**  \n   Often the early layers of a neural net learn generic features (like recognizing words or phrases). In fine‑tuning, we might freeze those layers so they don’t change, and only adjust the later layers that deal with higher‑level meaning. That prevents the model from “forgetting” what it already knows.\n\n**Bottom line:** Fine‑tuning is taking a big, versatile AI model, giving it a focused, small training “lesson,” and letting it become especially good at one particular thing while still keeping all its general wisdom. It’s the AI equivalent of a chef learning a new, specialized recipe after mastering many dishes.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T21:17:46.5314762+02:00",
+  "durationSeconds": 7.25,
+  "stats": "gpt-oss:20b · 75 + 805 tokens · 7,2 s",
+  "isError": false,
+  "language": "EN"
+}

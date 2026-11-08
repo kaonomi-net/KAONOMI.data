@@ -1,0 +1,13 @@
+{
+  "index": 757,
+  "file": "0757-csharp-explique-les-expressions-lambda-en-c.prompt.json",
+  "prompt": "Explique les expressions lambda en C# avec un exemple simple.",
+  "promptWords": 10,
+  "completion": "Les expressions lambda en C# sont une manière concise de définir des fonctions anonymes. Elles sont introduites avec le mot-clé `=>` (prononcé \"goes to\") et sont souvent utilisées pour simplifier le code, notamment dans les opérations LINQ ou les événements.\n\n### Syntaxe de base\nUne expression lambda a deux parties :\n1. **Paramètres d'entrée** (à gauche du `=>`) : Les arguments que la fonction prend.\n2. **Corps de la fonction** (à droite du `=>`) : Le code qui est exécuté lorsque la fonction est appelée.\n\n### Exemple simple\nImaginons que nous voulons créer une fonction qui prend un nombre en entrée et retourne son carré.\n\n#### Sans expression lambda (méthode classique) :\n```csharp\npublic int Carre(int x)\n{\n    return x * x;\n}\n```\n\n#### Avec une expression lambda :\n```csharp\nFunc<int, int> carre = x => x * x;\n```\n\nDans cet exemple :\n- `x` est le paramètre d'entrée.\n- `x * x` est le corps de la fonction, qui retourne le carré de `x`.\n- `Func<int, int>` est le type de la variable `carre`, indiquant qu'il s'agit d'une fonction qui prend un `int` en entrée et retourne un `int`.\n\n### Utilisation de l'expression lambda\n```csharp\nint resultat = carre(5); // resultat sera 25\nConsole.WriteLine(resultat);\n```\n\n### Autre exemple avec plusieurs paramètres\nSupposons que nous voulons une fonction qui additionne deux nombres :\n```csharp\nFunc<int, int, int> addition = (a, b) => a + b;\nint somme = addition(3, 4); // somme sera 7\nConsole.WriteLine(somme);\n```\n\n### Utilisation dans LINQ\nLes expressions lambda sont très utiles avec LINQ pour filtrer ou transformer des collections. Par exemple :\n```csharp\nList<int> nombres = new List<int> { 1, 2, 3, 4, 5 };\nList<int> nombresPairs = nombres.Where(x => x % 2 == 0).ToList();\n// nombresPairs contiendra { 2, 4 }\n```\n\n### Conclusion\nLes expressions lambda permettent d'écrire du code plus concis et lisible, surtout pour les fonctions simples. Elles sont particulièrement utiles dans les scénarios où une fonction anonyme est nécessaire, comme dans les callbacks, les événements ou les requêtes LINQ.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:04:16.0684621+02:00",
+  "durationSeconds": 10.56,
+  "stats": "mistral-small3.2:latest · 520 + 529 tokens · 10,6 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-menace-de-pandemie",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Menace de pandémie",
+  "includedEntities": [
+    {
+      "entityName": "pandémie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "épidémie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "OMS",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les risques de pandémie et leur gestion internationale.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "OMS",
+    "vaccins",
+    "virus"
+  ],
+  "questions": [
+    "Quel pathogène ?",
+    "Quels pays touchés ?",
+    "Quelle réponse internationale ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#SANTE",
+    "#PANDEMIE"
+  ],
+  "events": [
+    "@ALERTE-SANITAIRE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!FEAR"
+  ],
+  "isDeleted": false
+}

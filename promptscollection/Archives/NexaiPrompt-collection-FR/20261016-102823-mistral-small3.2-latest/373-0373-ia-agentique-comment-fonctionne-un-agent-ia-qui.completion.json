@@ -1,0 +1,13 @@
+{
+  "index": 373,
+  "file": "0373-ia-agentique-comment-fonctionne-un-agent-ia-qui.prompt.json",
+  "prompt": "Comment fonctionne un agent IA qui utilise des outils ?",
+  "promptWords": 10,
+  "completion": "Un agent IA qui utilise des outils fonctionne de manière similaire à un assistant humain qui utilise des instruments pour accomplir des tâches. Voici comment cela se passe généralement :\n\n1. **Compréhension de la requête** : L'agent IA analyse la demande de l'utilisateur pour comprendre ce qui est demandé. Cela peut impliquer de décomposer la requête en sous-tâches ou en étapes spécifiques.\n\n2. **Planification** : L'agent détermine quels outils sont nécessaires pour répondre à la demande. Il peut avoir accès à une variété d'outils, chacun spécialisé dans une tâche particulière (recherche d'informations, calculs, accès à des bases de données, etc.).\n\n3. **Exécution des outils** : L'agent utilise les outils appropriés pour collecter les informations ou effectuer les actions nécessaires. Par exemple, s'il a besoin de données en temps réel, il peut utiliser un outil de recherche web ou une API pour obtenir ces informations.\n\n4. **Traitement des résultats** : Une fois que les outils ont fourni les résultats, l'agent les traite et les synthétise pour répondre à la demande de l'utilisateur. Cela peut impliquer de combiner des informations de plusieurs sources ou de les formater de manière compréhensible.\n\n5. **Réponse à l'utilisateur** : Enfin, l'agent présente les résultats à l'utilisateur de manière claire et concise, en expliquant si nécessaire comment les informations ont été obtenues.\n\n6. **Apprentissage et amélioration** : Certains agents IA peuvent apprendre de leurs interactions pour améliorer leurs futures performances, par exemple en mémorisant les préférences de l'utilisateur ou en ajustant leurs stratégies de planification.\n\nEn résumé, un agent IA utilisant des outils est comme un expert qui sait exactement quels instruments utiliser pour résoudre un problème, et qui sait comment interpréter et présenter les résultats de manière utile.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:33:31.1308278+02:00",
+  "durationSeconds": 8.08,
+  "stats": "mistral-small3.2:latest · 517 + 400 tokens · 8,1 s",
+  "isError": false,
+  "language": "FR"
+}

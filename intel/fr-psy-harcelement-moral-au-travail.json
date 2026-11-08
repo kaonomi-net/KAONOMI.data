@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-harcelement-moral-au-travail",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Harcèlement moral au travail",
+  "includedEntities": [
+    {
+      "entityName": "harcèlement moral",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "travail",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les affaires de harcèlement moral au travail.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "justice",
+    "management",
+    "procès"
+  ],
+  "questions": [
+    "Quelle affaire ?",
+    "Quelle condamnation ?",
+    "Quel précédent ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TRAVAIL",
+    "#HARCELEMENT"
+  ],
+  "events": [
+    "@PROCES"
+  ],
+  "signals": [
+    "!VIOLENCE"
+  ],
+  "isDeleted": false
+}

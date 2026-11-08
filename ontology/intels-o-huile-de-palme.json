@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-huile-de-palme",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "huile de palme",
+  "entityType": "MATERIAL",
+  "description": "Cité par 1 intel : Accord avec l'Indonésie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre l'accord de partenariat économique avec l'Indonésie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "huile de palme",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#INDONESIE"
+  ],
+  "events": [],
+  "signals": [
+    "!COMMERCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "déforestation",
+    "Indonésie",
+    "accord",
+    "Jakarta",
+    "nickel",
+    "Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

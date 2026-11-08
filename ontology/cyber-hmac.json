@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (l'intégrité des messages) : Code d'authentification de message construit à partir d'une fonction de hachage et d'une clé secrète, proposé par Bellare, Canetti et Krawczyk.",
+  "id": "cyber-hmac",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "HMAC",
+  "entityType": "ALGORITHM",
+  "description": "Code d'authentification de message construit à partir d'une fonction de hachage et d'une clé secrète, proposé par Bellare, Canetti et Krawczyk.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Pour ce projet, l'équipe a implémenté HMAC à l'aide d'une bibliothèque éprouvée.",
+    "Comprendre HMAC est une étape clé pour maîtriser l'intégrité des messages.",
+    "Dans le domaine de l'intégrité des messages, HMAC reste une référence."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "keyed-hash message authentication code"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#INTEGRITEMESSAGES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=HMAC"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "SHA-2",
+    "PBKDF2",
+    "TOTP"
+  ],
+  "isDeleted": false,
+  "startDate": "1996-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-traites-de-desarmement",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Traités de désarmement",
+  "includedEntities": [
+    {
+      "entityName": "désarmement",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "traité",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "New START",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'avenir des traités de contrôle des armements.",
+  "isFuzzy": true,
+  "locations": [
+    "Genève"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Russie",
+    "États-Unis",
+    "Chine"
+  ],
+  "questions": [
+    "Le traité est-il prolongé ?",
+    "Quelles inspections ?",
+    "Quelle course aux armements ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#NUCLEAIRE",
+    "#DESARMEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

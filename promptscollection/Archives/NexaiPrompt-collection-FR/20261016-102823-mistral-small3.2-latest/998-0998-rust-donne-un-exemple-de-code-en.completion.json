@@ -1,0 +1,13 @@
+{
+  "index": 998,
+  "file": "0998-rust-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Rust qui illustre les closures.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en Rust qui illustre l'utilisation des closures :\n\n```rust\nfn main() {\n    // Déclaration d'une closure qui additionne deux nombres\n    let addition = |a: i32, b: i32| -> i32 {\n        a + b\n    };\n\n    // Appel de la closure\n    let resultat = addition(5, 3);\n    println!(\"Le résultat de l'addition est : {}\", resultat);\n\n    // Utilisation d'une closure comme argument d'une fonction\n    let nombres = vec![1, 2, 3, 4, 5];\n\n    // Closure qui filtre les nombres pairs\n    let est_pair = |x: i32| x % 2 == 0;\n\n    // Utilisation de la méthode filter avec la closure\n    let nombres_pairs: Vec<i32> = nombres.iter().filter(|&x| est_pair(*x)).cloned().collect();\n\n    println!(\"Nombres pairs : {:?}\", nombres_pairs);\n\n    // Closure avec capture de l'environnement\n    let facteur = 2;\n    let multiplier = |x: i32| x * facteur;\n\n    println!(\"3 multiplié par {} est {}\", facteur, multiplier(3));\n}\n```\n\nExplications :\n1. La première partie montre une closure simple qui prend deux entiers et retourne leur somme.\n2. La deuxième partie illustre l'utilisation d'une closure comme argument pour la méthode `filter` sur un vecteur.\n3. La troisième partie montre une closure qui capture une variable de son environnement (`facteur`).\n\nLes closures en Rust sont des fonctions anonymes qui peuvent capturer leur environnement. Elles sont particulièrement utiles pour passer du code comme argument à d'autres fonctions, comme dans les cas d'utilisation de `map`, `filter`, `sort`, etc.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T14:04:53.3844711+02:00",
+  "durationSeconds": 7.83,
+  "stats": "mistral-small3.2:latest · 522 + 388 tokens · 7,8 s",
+  "isError": false,
+  "language": "FR"
+}

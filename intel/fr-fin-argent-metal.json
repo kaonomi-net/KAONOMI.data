@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-argent-metal",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Argent métal",
+  "includedEntities": [
+    {
+      "entityName": "argent métal",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "once",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le cours de l'argent.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "solaire",
+    "industrie",
+    "or"
+  ],
+  "questions": [
+    "Quel prix ?",
+    "Quel record ?",
+    "Quelle demande ?"
+  ],
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#ARGENT"
+  ],
+  "events": [],
+  "signals": [
+    "!PRIX"
+  ],
+  "isDeleted": false
+}

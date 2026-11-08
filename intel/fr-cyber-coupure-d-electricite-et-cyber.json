@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-coupure-d-electricite-et-cyber",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Coupure d'électricité et cyber",
+  "includedEntities": [
+    {
+      "entityName": "coupure d'électricité",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "panne",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Vérifier l'origine des grandes coupures d'électricité.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "gestionnaires de réseau",
+    "cyberattaque",
+    "enquête"
+  ],
+  "questions": [
+    "Quelle cause ?",
+    "Une cyberattaque est-elle écartée ?",
+    "Quelle durée ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ENERGIE",
+    "#VERIFICATION"
+  ],
+  "events": [
+    "@PANNE"
+  ],
+  "signals": [
+    "!VERIFICATION"
+  ],
+  "isDeleted": false
+}

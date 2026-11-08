@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-fosse",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une cavité où s'accumulent les matières sales.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fosse(s)?\\s+septique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fosse(s)?\\s+[àa]\\s+purin)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fosse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vidange(s)?\\s+de\\s+fosse)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:boues\\s+d['’][ée]puration)(?![\\w-])"
+  ],
+  "symbol": "fosse",
+  "event": null,
+  "title": "Fosse",
+  "tags": [
+    "#DISGUST",
+    "#INSALUBRITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

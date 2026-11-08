@@ -1,0 +1,12 @@
+{
+  "index": 3,
+  "file": "003-philosophie-qu-est-ce-que-le-bonheur.prompt.json",
+  "prompt": "Qu'est-ce que le bonheur selon Aristote ?",
+  "promptWords": 7,
+  "completion": "Selon Aristote, le bonheur (ou *eudaimonia* en grec) est le but ultime de la vie humaine. Il le définit comme une activité de l'âme en accord avec la vertu, et non comme un état passager ou une émotion. Voici les points clés de sa conception du bonheur :\n\n1. **Activité rationnelle** : Aristote considère que le bonheur réside dans l'exercice de la raison et des vertus, car l'être humain est un être rationnel. Cela implique de vivre selon la sagesse et la justice.\n\n2. **Épanouissement personnel** : Le bonheur n'est pas un simple plaisir ou une richesse matérielle, mais un état durable de réalisation de soi, atteint par une vie vertueuse et en accord avec sa nature.\n\n3. **Finalité de l'existence** : Pour Aristote, le bonheur est le *telos* (but) de la vie humaine. Toutes les actions humaines visent, consciemment ou non, à atteindre ce but.\n\n4. **Importance de la communauté** : Bien que le bonheur soit individuel, Aristote souligne que la vie en société et les relations humaines sont essentielles pour l'atteindre.\n\n5. **Équilibre et modération** : Le bonheur implique de trouver un juste milieu entre les excès et les défauts, en cultivant les vertus (courage, tempérance, générosité, etc.).\n\nEn résumé, pour Aristote, le bonheur est une vie bien vécue, guidée par la raison et les vertus, et non une simple accumulation de plaisirs ou de possessions.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T15:44:39.7293848+02:00",
+  "durationSeconds": 7.71,
+  "stats": "mistral-small3.2:latest · 517 + 335 tokens · 7,7 s",
+  "isError": false
+}

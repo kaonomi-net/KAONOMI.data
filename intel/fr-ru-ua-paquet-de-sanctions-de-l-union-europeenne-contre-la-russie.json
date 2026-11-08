@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-paquet-de-sanctions-de-l-union-europeenne-contre-la-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Paquet de sanctions de l'Union européenne contre la Russie",
+  "includedEntities": [
+    {
+      "entityName": "paquet de sanctions",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'adoption des nouveaux paquets de sanctions européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Hongrie",
+    "Slovaquie",
+    "GNL"
+  ],
+  "questions": [
+    "Quel paquet ?",
+    "Quelles mesures ?",
+    "Quels blocages ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#SANCTIONS",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [
+    "@SANCTION"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE"
+  ],
+  "isDeleted": false
+}

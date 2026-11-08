@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (le chiffrement des disques) : Logiciel libre de chiffrement de disques issu de TrueCrypt, maintenu par la société française IDRIX.",
+  "id": "cyber-veracrypt",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "VeraCrypt",
+  "entityType": "SOFTWARE",
+  "description": "Logiciel libre de chiffrement de disques issu de TrueCrypt, maintenu par la société française IDRIX.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "VeraCrypt figure parmi les logiciels marquants du chiffrement des disques.",
+    "En atelier, les élèves ont découvert VeraCrypt et son fonctionnement.",
+    "L'équipe a comparé VeraCrypt avec d'autres outils du chiffrement des disques."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "VeraCrypt"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#CHIFFREMENTDISQUES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=VeraCrypt"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "TrueCrypt",
+    "AES"
+  ],
+  "isDeleted": false,
+  "startDate": "2013-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-fin-des-importations-de-gaz-russe-en-europe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Fin des importations de gaz russe en Europe",
+  "includedEntities": [
+    {
+      "entityName": "gaz russe",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "GNL",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "interdiction",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'interdiction progressive du gaz russe dans l'Union européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "REPowerEU",
+    "GNL",
+    "Hongrie"
+  ],
+  "questions": [
+    "Quel calendrier ?",
+    "Quels pays résistent ?",
+    "Quelles alternatives ?"
+  ],
+  "tags": [
+    "#ENERGIE",
+    "#GAZ",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [
+    "@DECISION-UE"
+  ],
+  "signals": [
+    "!DEPENDANCE"
+  ],
+  "isDeleted": false
+}

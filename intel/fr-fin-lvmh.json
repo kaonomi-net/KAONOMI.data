@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-lvmh",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "LVMH",
+  "includedEntities": [
+    {
+      "entityName": "LVMH",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "résultats",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action et les résultats de LVMH, en baisse marquée depuis janvier 2026.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Bernard Arnault",
+    "mode et maroquinerie",
+    "Chine"
+  ],
+  "questions": [
+    "Quelle croissance organique ?",
+    "Quelle réaction du titre ?",
+    "Quelle stratégie ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#LUXE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

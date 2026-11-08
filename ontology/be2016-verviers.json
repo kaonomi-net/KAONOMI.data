@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (le contexte de la menace terroriste) : La police démantèle à Verviers une cellule djihadiste liée à Abdelhamid Abaaoud qui préparait des attentats ; deux suspects sont tués.",
+  "id": "be2016-verviers",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Opération antiterroriste de Verviers",
+  "entityType": "EVENT",
+  "description": "La police démantèle à Verviers une cellule djihadiste liée à Abdelhamid Abaaoud qui préparait des attentats ; deux suspects sont tués.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "Les enquêteurs et les historiens ont reconstitué le déroulement de « Opération antiterroriste de Verviers ».",
+    "« Opération antiterroriste de Verviers » figure dans la chronologie des attentats de 2016.",
+    "Les rapports officiels reviennent sur « Opération antiterroriste de Verviers »."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 2,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "démantèlement de la cellule de Verviers"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#CONTEXTEMENACETERRORISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Op%C3%A9ration%20antiterroriste%20de%20Verviers"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Abdelhamid Abaaoud",
+    "Défense belge",
+    "Verviers",
+    "Attaque du Musée juif de Belgique"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-01-15T00:00:00",
+  "endDate": "2015-01-15T00:00:00"
+}

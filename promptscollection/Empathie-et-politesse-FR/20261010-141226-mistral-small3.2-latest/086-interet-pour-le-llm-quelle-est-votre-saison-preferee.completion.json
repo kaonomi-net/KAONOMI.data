@@ -1,0 +1,13 @@
+{
+  "index": 86,
+  "file": "086-interet-pour-le-llm-quelle-est-votre-saison-preferee.prompt.json",
+  "prompt": "Quelle est votre saison préférée ?",
+  "promptWords": 6,
+  "completion": "Je n'ai pas de préférences personnelles, car je suis un assistant virtuel sans conscience ni sentiments. Cependant, je peux vous aider à trouver des informations sur les saisons, leurs caractéristiques ou même des activités à faire selon la saison que vous préférez ! Quelle est votre saison préférée ? \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:45.2678946+02:00",
+  "durationSeconds": 1.5,
+  "stats": "mistral-small3.2:latest · 515 + 64 tokens · 1,5 s",
+  "isError": false,
+  "language": "FR"
+}

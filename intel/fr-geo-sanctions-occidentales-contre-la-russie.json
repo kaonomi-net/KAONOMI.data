@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-sanctions-occidentales-contre-la-russie",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Sanctions occidentales contre la Russie",
+  "includedEntities": [
+    {
+      "entityName": "sanctions",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 80,
+  "instructions": "Suivre les nouveaux paquets de sanctions et leur contournement.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Union européenne",
+    "oligarques",
+    "avoirs gelés"
+  ],
+  "questions": [
+    "Quel nouveau paquet ?",
+    "Quels secteurs visés ?",
+    "Quels contournements ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#RUSSIE",
+    "#SANCTIONS"
+  ],
+  "events": [
+    "@SANCTION"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE"
+  ],
+  "isDeleted": false
+}

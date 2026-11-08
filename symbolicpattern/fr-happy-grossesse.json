@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-grossesse",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'état de la femme qui attend un enfant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:grossesse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attend(re|s|ons|ent)\\s+un\\s+(enfant|b[ée]b[ée]|heureux\\s+[ée]v[ée]nement)|heureux\\s+[ée]v[ée]nement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:future(s)?\\s+maman(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:futur(s)?\\s+papa(s)?)(?![\\w-])"
+  ],
+  "symbol": "grossesse",
+  "event": null,
+  "title": "Grossesse",
+  "tags": [
+    "#NAISSANCE",
+    "#FAMILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

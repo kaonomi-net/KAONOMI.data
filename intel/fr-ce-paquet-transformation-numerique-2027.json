@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-paquet-transformation-numerique-2027",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Paquet transformation numérique 2027",
+  "includedEntities": [
+    {
+      "entityName": "transformation numérique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "paquet",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le paquet de transformation numérique prévu dans le programme de travail 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "2027"
+  ],
+  "relatedEntities": [
+    "Virkkunen",
+    "IA",
+    "réseaux"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quel calendrier ?",
+    "Quel accueil ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#NUMERIQUE",
+    "#PROGRAMME-2027"
+  ],
+  "events": [],
+  "signals": [
+    "!NUMERIQUE"
+  ],
+  "isDeleted": false
+}

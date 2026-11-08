@@ -1,0 +1,13 @@
+{
+  "index": 555,
+  "file": "0555-prolog-qu-est-ce-que-la-negation.prompt.json",
+  "prompt": "Qu'est-ce que la négation par l'échec en Prolog ?",
+  "promptWords": 9,
+  "completion": "La négation par l'échec (ou *negation as failure* en anglais) est un concept fondamental en Prolog, un langage de programmation logique. Elle permet de représenter la négation d'une proposition logique en exploitant l'échec de la résolution d'une requête.\n\n### Principe de base :\nEn Prolog, la négation par l'échec repose sur l'idée que si une requête échoue (c'est-à-dire qu'elle ne peut pas être prouvée), alors sa négation est vraie. Cela est réalisé à l'aide de l'opérateur `\\+` (ou `not` dans certains dialectes de Prolog).\n\n### Syntaxe :\nLa négation par l'échec s'écrit généralement sous la forme :\n```prolog\n\\+ Goal\n```\nou\n```prolog\nnot(Goal)\n```\noù `Goal` est la requête dont on veut nier la vérité.\n\n### Exemple :\nSupposons que nous avons les faits suivants dans une base de connaissances Prolog :\n```prolog\nparent(john, mary).\nparent(mary, bob).\n```\nNous pouvons utiliser la négation par l'échec pour vérifier si John n'est pas le parent de Bob :\n```prolog\n?- \\+ parent(john, bob).\ntrue.\n```\nIci, la requête `parent(john, bob)` échoue (car il n'y a pas de fait correspondant), donc sa négation est vraie.\n\n### Utilisation courante :\nLa négation par l'échec est souvent utilisée pour exprimer des règles qui dépendent de l'absence de certaines informations. Par exemple, pour définir qu'une personne est célibataire si elle n'a pas de conjoint :\n```prolog\ncélibataire(X) :- \\+ marié(X, _).\n```\noù `marié(X, Y)` est un prédicat qui indique que `X` est marié à `Y`.\n\n### Remarques importantes :\n1. **Négation faible** : La négation par l'échec est une forme de négation *faible* (ou *non-monotone*), car elle dépend de l'état actuel de la base de connaissances. Si de nouveaux faits sont ajoutés plus tard, la négation peut devenir fausse.\n2. **Différence avec la négation classique** : En logique classique, la négation de `A` est vraie si `A` est faux, indépendamment de la capacité à prouver `A`. En Prolog, `\\+ A` est vrai uniquement si `A` échoue.\n\n### Conclusion :\nLa négation par l'échec est un outil puissant en Prolog pour exprimer des règles qui dépendent de l'absence de certaines informations. Elle est largement utilisée dans les programmes Prolog pour modéliser des concepts comme l'absence de relations ou de propriétés.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:06:37.3347046+02:00",
+  "durationSeconds": 11.75,
+  "stats": "mistral-small3.2:latest · 522 + 582 tokens · 11,7 s",
+  "isError": false,
+  "language": "FR"
+}

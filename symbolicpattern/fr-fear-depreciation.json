@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-depreciation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La perte de valeur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]pr[ée]ciation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]pr[ée]ci(er|[ée]|[ée]e)|moins-value(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perte(s)?\\s+de\\s+valeur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:actifs\\s+d[ée]pr[ée]ci[ée]s)(?![\\w-])"
+  ],
+  "symbol": "dépréciation",
+  "event": null,
+  "title": "Dépréciation",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

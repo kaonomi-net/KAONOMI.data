@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-voitures",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "voitures",
+  "entityType": "HARDWARE",
+  "description": "Cité par 1 intel : Interdiction des moteurs thermiques en 2035.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre la révision de la fin des voitures thermiques neuves en 2035."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "voitures",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CLIMAT",
+    "#AUTOMOBILE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "moteurs thermiques",
+    "constructeurs",
+    "hybrides",
+    "2035",
+    "carburants de synthèse",
+    "Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 226,
+  "file": "0226-cybersecurite-explique-le-chiffrement-des-donnees-de.prompt.json",
+  "prompt": "Explique le chiffrement des données de façon simple.",
+  "promptWords": 8,
+  "completion": "Le chiffrement des données, c'est comme envoyer une lettre dans une boîte en métal verrouillée. Imagine que tu veux envoyer un message secret à un ami. Au lieu d'écrire le message normalement, tu le transformes en un code que seul ton ami pourra comprendre.\n\nVoici comment ça marche de façon simple :\n\n1. **Transformation du message** : Ton message original (appelé \"texte en clair\") est transformé en un texte incompréhensible (appelé \"texte chiffré\") grâce à une clé secrète.\n2. **Envoi sécurisé** : Le texte chiffré peut être envoyé sans crainte, même si quelqu'un l'intercepte, il ne pourra pas le comprendre.\n3. **Déchiffrement** : Ton ami utilise une clé (parfois la même, parfois différente) pour transformer le texte chiffré en texte en clair et lire le message.\n\n### Exemple concret :\n- **Message original** : \"Bonjour, comment ça va ?\"\n- **Message chiffré** : \"7#kL9$pLm*21xY\" (ceci est un exemple simplifié, les vrais chiffrements sont bien plus complexes).\n\n### Pourquoi c'est utile ?\n- **Protéger les informations** : Pour que tes données personnelles (mots de passe, messages, etc.) restent privées.\n- **Sécuriser les transactions** : Pour que les paiements en ligne soient sûrs.\n- **Éviter les piratages** : Pour empêcher les hackers de voler des informations.\n\nIl existe différents types de chiffrement, comme le chiffrement symétrique (une seule clé pour chiffrer et déchiffrer) et le chiffrement asymétrique (deux clés différentes : une publique et une privée).\n\nEn résumé, le chiffrement, c'est comme une armure pour tes données ! \uD83D\uDEE1️",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:07:32.315705+02:00",
+  "durationSeconds": 7.85,
+  "stats": "mistral-small3.2:latest · 518 + 388 tokens · 7,8 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-sante-mentale-et-reseaux-sociaux",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Santé mentale et réseaux sociaux",
+  "includedEntities": [
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "réseaux sociaux",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "jeunes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les initiatives européennes sur la santé mentale des jeunes.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "écrans",
+    "plateformes",
+    "addiction"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quelle enquête ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SANTE-MENTALE",
+    "#NUMERIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIETE"
+  ],
+  "isDeleted": false
+}

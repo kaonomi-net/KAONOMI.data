@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-lr",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "LR",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 8 intels : Primaire ou désignation à droite ; Xavier Bertrand ; Rachida Dati ; Alliance entre la droite et le centre ; Nicolas Sarkozy et la campagne ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre le mode de désignation d'un candidat de la droite et du centre.",
+    "Suivre le rôle de Xavier Bertrand à droite.",
+    "Suivre le parcours de Rachida Dati après la municipale parisienne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "LR",
+  "tags": [
+    "#FRANCE",
+    "#DROITE",
+    "#PRESIDENTIELLE-2027",
+    "#ELECTIONS",
+    "#CANDIDATS",
+    "#PARIS"
+  ],
+  "events": [
+    "@PRIMAIRE",
+    "@ELECTION"
+  ],
+  "signals": [
+    "!POLITIQUE",
+    "!CAMPAGNE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "RN",
+    "droite",
+    "Horizons",
+    "Paris",
+    "justice",
+    "sondages",
+    "désignation",
+    "primaire",
+    "Hauts-de-France",
+    "Xavier Bertrand"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

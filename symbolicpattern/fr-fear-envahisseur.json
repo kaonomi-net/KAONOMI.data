@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-envahisseur",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Celui qui occupe un pays par la force.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:envahisseur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:occupant(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:occupation\\s+militaire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:territoire(s)?\\s+occup[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:force(s)?\\s+d['’]occupation)(?![\\w-])"
+  ],
+  "symbol": "envahisseur",
+  "event": null,
+  "title": "Envahisseur",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

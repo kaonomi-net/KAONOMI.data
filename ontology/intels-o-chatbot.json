@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-chatbot",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "chatbot",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 8 intels : Fuite de données par un chatbot ; IA dans le service client ; IA et santé mentale ; Fuite de données via les chatbots ; Chatbots et santé mentale ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Repérer les fuites d'informations confidentielles via des assistants d'IA.",
+    "Suivre l'automatisation de la relation client par l'IA.",
+    "Surveiller les effets des compagnons IA sur la santé mentale."
+  ],
+  "angryLevel": null,
+  "sadLevel": 12,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "chatbot",
+  "tags": [
+    "#IA",
+    "#PSYCHOLOGIE",
+    "#CYBERSECURITE",
+    "#SANTE-MENTALE",
+    "#DONNEES",
+    "#RELATION-CLIENT"
+  ],
+  "events": [
+    "@INCIDENT-SECURITE",
+    "@SIGNALEMENT",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!ALERTE",
+    "!PRODUCTIVITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ChatGPT",
+    "IA",
+    "santé mentale",
+    "confidentiel",
+    "entreprise",
+    "fuite de données",
+    "Samsung",
+    "satisfaction",
+    "centres d'appels",
+    "agents conversationnels"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

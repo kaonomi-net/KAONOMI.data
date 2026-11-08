@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les modèles de langage) : Premier modèle de langage de Mistral AI, de 7 milliards de paramètres, publié sous licence Apache 2.0.",
+  "id": "ia-mistral-7b",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "Mistral 7B",
+  "entityType": "SOFTWARE",
+  "description": "Premier modèle de langage de Mistral AI, de 7 milliards de paramètres, publié sous licence Apache 2.0.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé Mistral 7B avec d'autres outils des modèles de langage.",
+    "Mistral 7B figure parmi les logiciels marquants des modèles de langage.",
+    "En atelier, les élèves ont découvert Mistral 7B et ses possibilités."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Mistral-7B"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#MODELESLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Mistral%207B"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Transformeur",
+    "Ollama",
+    "Fondation de Mistral AI"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-maternite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'être mère.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:maternit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:maternel(le|s|les)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:devenir\\s+maman)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:devenue\\s+maman)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:jeune(s)?\\s+maman(s)?)(?![\\w-])"
+  ],
+  "symbol": "maternité",
+  "event": null,
+  "title": "Maternité",
+  "tags": [
+    "#NAISSANCE",
+    "#FAMILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

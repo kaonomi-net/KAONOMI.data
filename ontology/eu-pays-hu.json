@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Pays de l'Union européenne (la politique européenne) : Hongrie, État membre de l'Union européenne depuis 2004, capitale Budapest.",
+  "id": "eu-pays-hu",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Hongrie",
+  "entityType": "COUNTRY",
+  "description": "Hongrie, État membre de l'Union européenne depuis 2004, capitale Budapest.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-etats-membres",
+  "sentencesExemples": [
+    "Les citoyens de Hongrie élisent leurs députés européens.",
+    "Le représentant permanent de Hongrie siège au Coreper à Bruxelles.",
+    "Le gouvernement de Hongrie a désigné un commissaire européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF0D",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#COUNTRY",
+    "#POLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Hongrie"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité hongroise",
+    "Budapest",
+    "Union européenne",
+    "hongrois",
+    "Fidesz",
+    "Élargissement de 2004",
+    "Présidence hongroise du Conseil de l'UE (juillet-décembre 2024)"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-01-01T00:00:00",
+  "endDate": null
+}

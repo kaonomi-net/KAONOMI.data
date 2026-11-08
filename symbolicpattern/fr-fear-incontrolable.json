@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-incontrolable",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La perte de maîtrise des machines.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:incontr[ôo]lable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perte\\s+de\\s+contr[ôo]le)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hors\\s+de\\s+contr[ôo]le)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]chapper\\s+[àa]\\s+tout\\s+contr[ôo]le)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:emballement)(?![\\w-])"
+  ],
+  "symbol": "incontrôlable",
+  "event": null,
+  "title": "Incontrôlable",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

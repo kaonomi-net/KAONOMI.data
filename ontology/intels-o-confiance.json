@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-confiance",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "confiance",
+  "entityType": "DOMAIN",
+  "description": "Cité par 9 intels : Épargne des Français ; Moral des ménages ; Défiance envers les politiques ; Ventes du luxe en Chine ; Autorités de certification ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'épargne des ménages et son rôle face à la dette.",
+    "Suivre la confiance des ménages.",
+    "Suivre les études sur la confiance dans la vie politique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "confiance",
+  "tags": [
+    "#FRANCE",
+    "#OPINION",
+    "#PSYCHOLOGIE",
+    "#EPARGNE",
+    "#DETTE",
+    "#ECONOMIE"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!TENDANCE",
+    "!CONFIANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "épargne",
+    "Cevipof",
+    "sondage",
+    "assurance vie",
+    "taux du livret A",
+    "emprunt national",
+    "livret A",
+    "INSEE",
+    "moral des ménages",
+    "consommation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

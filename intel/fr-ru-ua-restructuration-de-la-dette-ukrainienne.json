@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-restructuration-de-la-dette-ukrainienne",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Restructuration de la dette ukrainienne",
+  "includedEntities": [
+    {
+      "entityName": "dette",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "restructuration",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les négociations sur la dette ukrainienne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "créanciers",
+    "euro-obligations",
+    "FMI"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quel montant ?",
+    "Quels créanciers ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#DETTE",
+    "#FINANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

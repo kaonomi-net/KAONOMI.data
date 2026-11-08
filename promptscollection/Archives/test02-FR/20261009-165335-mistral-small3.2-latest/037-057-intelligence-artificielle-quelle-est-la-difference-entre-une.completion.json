@@ -1,0 +1,13 @@
+{
+  "index": 37,
+  "file": "057-intelligence-artificielle-quelle-est-la-difference-entre-une.prompt.json",
+  "prompt": "Quelle est la différence entre une IA faible et une IA forte ?",
+  "promptWords": 13,
+  "completion": "La différence entre une IA faible (ou faible intelligence artificielle) et une IA forte (ou forte intelligence artificielle) réside principalement dans leur capacité à comprendre et à raisonner de manière autonome. Voici les principales distinctions :\n\n### IA faible (Weak AI) :\n1. **Spécialisation** : Une IA faible est conçue pour accomplir des tâches spécifiques et limitées. Par exemple, un assistant vocal comme Siri ou Alexa est une IA faible, car il est programmé pour répondre à des questions précises ou effectuer des actions particulières.\n2. **Manque de conscience** : Elle n'a pas de conscience de soi ni de compréhension générale du monde. Elle fonctionne selon des règles préétablies et des algorithmes.\n3. **Apprentissage limité** : Bien qu'elle puisse apprendre à partir de données (apprentissage automatique), son apprentissage est restreint au domaine pour lequel elle a été conçue.\n4. **Exemples** : Les systèmes de reconnaissance vocale, les chatbots, les systèmes de recommandation, etc.\n\n### IA forte (Strong AI) :\n1. **Capacités générales** : Une IA forte aurait des capacités cognitives générales, similaires à celles d'un être humain. Elle pourrait comprendre, apprendre et raisonner de manière autonome sur une large gamme de sujets.\n2. **Conscience et compréhension** : Elle aurait une véritable compréhension du monde et une conscience de soi, capable de faire des inférences complexes et de résoudre des problèmes de manière créative.\n3. **Apprentissage autonome** : Elle pourrait apprendre de manière autonome, sans être limitée à un domaine spécifique, et améliorer ses capacités de manière continue.\n4. **Exemples** : À ce jour, aucune IA forte n'existe. Les recherches en IA générale (AGI, Artificial General Intelligence) visent à développer de telles capacités.\n\n### En résumé :\n- **IA faible** : Spécialisée, limitée à des tâches spécifiques, sans conscience.\n- **IA forte** : Capacités générales, conscience, compréhension autonome (encore théorique).\n\nSi vous avez des questions plus spécifiques ou si vous souhaitez des exemples supplémentaires, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:59:58.1841346+02:00",
+  "durationSeconds": 10.02,
+  "stats": "mistral-small3.2:latest · 521 + 467 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

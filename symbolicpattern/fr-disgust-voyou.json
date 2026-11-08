@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-voyou",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne malhonnête et sans morale.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:voyou(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crapule(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:racaille(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:canaille(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:malfrat(s)?)(?![\\w-])"
+  ],
+  "symbol": "voyou",
+  "event": null,
+  "title": "Voyou",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

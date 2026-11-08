@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappe-sur-komychouvakha",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappe sur Komychouvakha",
+  "includedEntities": [
+    {
+      "entityName": "Komychouvakha",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "frappe",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les suites de la frappe du 2 novembre 2026 sur un point d'aide humanitaire.",
+  "isFuzzy": true,
+  "locations": [
+    "Komychouvakha",
+    "Zaporijia"
+  ],
+  "times": [
+    "2 novembre 2026"
+  ],
+  "relatedEntities": [
+    "victimes",
+    "aide humanitaire",
+    "enquête"
+  ],
+  "questions": [
+    "Quel bilan ?",
+    "Quelle enquête ?",
+    "Quelles réactions internationales ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ZAPORIJIA",
+    "#CIVILS"
+  ],
+  "events": [
+    "@FRAPPE-CIVILS"
+  ],
+  "signals": [
+    "!SAD",
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

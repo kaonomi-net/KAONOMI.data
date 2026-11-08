@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-essais-du-missile-bourevestnik",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Essais du missile Bourevestnik",
+  "includedEntities": [
+    {
+      "entityName": "Bourevestnik",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Poseidon",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les essais des nouvelles armes stratégiques russes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "propulsion nucléaire",
+    "Kremlin",
+    "dissuasion"
+  ],
+  "questions": [
+    "Quel essai ?",
+    "Quel résultat annoncé ?",
+    "Quelle réaction américaine ?"
+  ],
+  "tags": [
+    "#NUCLEAIRE",
+    "#RUSSIE",
+    "#ARMEMENT"
+  ],
+  "events": [
+    "@ESSAI"
+  ],
+  "signals": [
+    "!COURSE-ARMEMENTS"
+  ],
+  "isDeleted": false
+}

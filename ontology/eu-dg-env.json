@@ -1,0 +1,59 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'environnement) : Direction générale de l'environnement (DG ENV), service de la Commission européenne compétent pour l'environnement, la gestion de l'eau, l'économie circulaire, placé sous l'autorité de Jessika Roswall dans la Commission von der Leyen II.",
+  "id": "eu-dg-env",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de l'environnement",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de l'environnement (DG ENV), service de la Commission européenne compétent pour l'environnement, la gestion de l'eau, l'économie circulaire, placé sous l'autorité de Jessika Roswall dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Direction générale de l'environnement ».",
+    "« Direction générale de l'environnement » joue un rôle dans l'environnement.",
+    "Les fonctionnaires de « Direction générale de l'environnement » préparent les textes relatifs à l'environnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG ENV"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20l%27environnement"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Jessika Roswall",
+    "Environnement",
+    "Résilience hydrique",
+    "Économie circulaire",
+    "Agence européenne pour l'environnement (AEE)",
+    "Plan d'action pour l'économie circulaire",
+    "Stratégie en faveur de la biodiversité à l'horizon 2030",
+    "Règlement sur la déforestation",
+    "Règlement sur la restauration de la nature",
+    "Programme LIFE"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

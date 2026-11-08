@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-lancement-d-un-nouveau-modele-d-openai",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Lancement d'un nouveau modèle d'OpenAI",
+  "includedEntities": [
+    {
+      "entityName": "OpenAI",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "GPT",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "lancement",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les annonces de nouveaux modèles GPT et leurs capacités annoncées.",
+  "isFuzzy": true,
+  "locations": [
+    "San Francisco"
+  ],
+  "times": [
+    "jour de l'annonce",
+    "semaine suivante"
+  ],
+  "relatedEntities": [
+    "ChatGPT",
+    "Sam Altman",
+    "Microsoft"
+  ],
+  "questions": [
+    "Quelles capacités nouvelles ?",
+    "Quel prix pour l'API ?",
+    "Quels résultats aux benchmarks ?"
+  ],
+  "tags": [
+    "#IA",
+    "#LLM",
+    "#OPENAI"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!NOUVEAUTE"
+  ],
+  "isDeleted": false
+}

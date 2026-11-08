@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-greves",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "grèves",
+  "entityType": "EVENT",
+  "description": "Cité par 1 intel : Ahold Delhaize.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre l'action Ahold Delhaize et Delhaize en Belgique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "grèves",
+  "tags": [
+    "#BOURSE",
+    "#DISTRIBUTION"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Zaandam",
+    "Ahold Delhaize",
+    "franchises",
+    "Bruxelles",
+    "distribution",
+    "États-Unis"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

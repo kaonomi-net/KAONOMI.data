@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-desindustrialisation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La disparition des industries d'un pays.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]sindustrialisation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:friche(s)?\\s+industrielle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:usines\\s+qui\\s+ferment)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]sert(s)?\\s+industriel(s)?)(?![\\w-])"
+  ],
+  "symbol": "désindustrialisation",
+  "event": null,
+  "title": "Désindustrialisation",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

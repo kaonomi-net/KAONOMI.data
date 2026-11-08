@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-cop-et-diplomatie-climatique-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "COP et diplomatie climatique européenne",
+  "includedEntities": [
+    {
+      "entityName": "COP",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "négociations climatiques",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la position européenne aux conférences climatiques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "dates de la COP"
+  ],
+  "relatedEntities": [
+    "Hoekstra",
+    "financement climat",
+    "objectifs"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quel engagement ?",
+    "Quel résultat ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CLIMAT",
+    "#COP"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!CLIMAT"
+  ],
+  "isDeleted": false
+}

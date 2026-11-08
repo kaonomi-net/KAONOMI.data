@@ -1,0 +1,13 @@
+{
+  "index": 121,
+  "file": "0121-microsoft-office-how-do-i-apply-conditional-formatting.prompt.json",
+  "prompt": "How do I apply conditional formatting in Excel?",
+  "promptWords": 8,
+  "completion": "Applying conditional formatting in Excel allows you to automatically format cells based on specific criteria. Here’s a step-by-step guide to help you apply conditional formatting:\n\n### Steps to Apply Conditional Formatting:\n\n1. **Select the Cells:**\n   - Highlight the cells or range of cells where you want to apply the conditional formatting.\n\n2. **Open the Conditional Formatting Menu:**\n   - Go to the **Home** tab on the Ribbon.\n   - Click on **Conditional Formatting** in the **Styles** group.\n\n3. **Choose a Rule Type:**\n   - **Highlight Cells Rules:** Apply formatting based on specific values (e.g., greater than, less than, between).\n   - **Top/Bottom Rules:** Apply formatting to the top or bottom values in the selected range (e.g., top 10%, bottom 5 items).\n   - **Data Bars:** Add data bars to visually represent values.\n   - **Color Scales:** Apply a gradient of colors to represent values.\n   - **Icon Sets:** Add icons to cells based on values.\n   - **New Rule:** Create a custom rule using a formula or other criteria.\n\n4. **Set the Criteria:**\n   - For example, if you choose **Highlight Cells Rules** > **Greater Than**, you’ll be prompted to enter a value (e.g., 50).\n   - Select the formatting style (e.g., light red fill, dark red text).\n\n5. **Apply the Formatting:**\n   - Click **OK** to apply the conditional formatting to the selected cells.\n\n### Example: Highlight Cells Greater Than 50\n1. Select the range of cells (e.g., A1:A10).\n2. Go to **Home** > **Conditional Formatting** > **Highlight Cells Rules** > **Greater Than**.\n3. Enter **50** in the box and choose a formatting style (e.g., light red fill).\n4. Click **OK**.\n\n### Using a Formula for Conditional Formatting:\n1. Select the cells.\n2. Go to **Home** > **Conditional Formatting** > **New Rule**.\n3. Choose **Use a formula to determine which cells to format**.\n4. Enter a formula (e.g., `=A1>50`).\n5. Set the formatting style and click **OK**.\n\n### Tips:\n- You can add multiple conditional formatting rules to the same cells.\n- To manage or delete rules, go to **Home** > **Conditional Formatting** > **Manage Rules**.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:25:47.3935192+02:00",
+  "durationSeconds": 12.73,
+  "stats": "mistral-small3.2:latest · 516 + 521 tokens · 12,7 s",
+  "isError": false,
+  "language": "EN"
+}

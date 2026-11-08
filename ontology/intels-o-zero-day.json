@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-zero-day",
+  "dateCreated": "2026-11-08 17:55:50",
+  "name": "zero-day",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Faille zero-day exploitée ; Patch Tuesday ; Navigateurs Chrome et Firefox.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les failles inconnues exploitées avant correctif.",
+    "Suivre les correctifs mensuels de Microsoft.",
+    "Suivre les failles des navigateurs web."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "zero-day",
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#ZERO-DAY",
+    "#MICROSOFT",
+    "#NAVIGATEURS"
+  ],
+  "events": [
+    "@ZERO-DAY",
+    "@CORRECTIFS",
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!CORRECTIFS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "correctif d'urgence",
+    "attaquants",
+    "éditeur",
+    "exploitée",
+    "Windows",
+    "critiques",
+    "Microsoft",
+    "Patch Tuesday",
+    "Firefox",
+    "moteur JavaScript"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

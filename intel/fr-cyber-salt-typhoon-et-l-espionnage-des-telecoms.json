@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-salt-typhoon-et-l-espionnage-des-telecoms",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Salt Typhoon et l'espionnage des télécoms",
+  "includedEntities": [
+    {
+      "entityName": "Salt Typhoon",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "télécoms",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'espionnage chinois des opérateurs télécoms.",
+  "isFuzzy": true,
+  "locations": [
+    "États-Unis",
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "opérateurs",
+    "interceptions",
+    "routeurs"
+  ],
+  "questions": [
+    "Quels opérateurs ?",
+    "Quelles données ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CHINE",
+    "#ESPIONNAGE"
+  ],
+  "events": [
+    "@ATTRIBUTION"
+  ],
+  "signals": [
+    "!ESPIONNAGE"
+  ],
+  "isDeleted": false
+}

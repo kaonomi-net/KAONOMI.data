@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-macron-et-le-royaume-uni",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Macron et le Royaume-Uni",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Royaume-Uni",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Keir Starmer",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre la relation franco-britannique.",
+  "isFuzzy": true,
+  "locations": [
+    "Londres",
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "migrations",
+    "Manche",
+    "défense"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quelle coopération migratoire ?",
+    "Quelle tension ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ROYAUME-UNI",
+    "#DIPLOMATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

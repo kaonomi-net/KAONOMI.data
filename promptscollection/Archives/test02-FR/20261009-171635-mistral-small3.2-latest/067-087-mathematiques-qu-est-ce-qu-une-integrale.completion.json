@@ -1,0 +1,13 @@
+{
+  "index": 67,
+  "file": "087-mathematiques-qu-est-ce-qu-une-integrale.prompt.json",
+  "prompt": "Qu'est-ce qu'une intégrale ?",
+  "promptWords": 4,
+  "completion": "Une intégrale est un concept fondamental en mathématiques, plus précisément en analyse, qui permet de calculer des quantités comme des aires, des volumes, ou des quantités physiques comme le travail ou la charge. Il existe deux types principaux d'intégrales : les intégrales définies et les intégrales indéfinies.\n\n### Intégrale indéfinie\nL'intégrale indéfinie, aussi appelée primitive, permet de retrouver une fonction à partir de sa dérivée. Si \\( F \\) est une primitive de \\( f \\), alors :\n\\[ \\int f(x) \\, dx = F(x) + C \\]\noù \\( C \\) est une constante d'intégration.\n\n### Intégrale définie\nL'intégrale définie permet de calculer l'aire sous la courbe d'une fonction entre deux points \\( a \\) et \\( b \\). Elle est notée :\n\\[ \\int_{a}^{b} f(x) \\, dx \\]\net représente la somme infiniment fine des valeurs de \\( f(x) \\) entre \\( a \\) et \\( b \\).\n\n### Applications\nLes intégrales sont utilisées dans de nombreux domaines, comme :\n- Le calcul d'aires et de volumes.\n- La physique pour calculer des quantités comme le travail, la charge, ou le centre de masse.\n- L'ingénierie pour modéliser des systèmes dynamiques.\n\nSi tu as des questions plus spécifiques ou si tu veux des exemples, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:28:30.2399946+02:00",
+  "durationSeconds": 7.64,
+  "stats": "mistral-small3.2:latest · 515 + 307 tokens · 7,6 s",
+  "isError": false,
+  "language": "FR"
+}

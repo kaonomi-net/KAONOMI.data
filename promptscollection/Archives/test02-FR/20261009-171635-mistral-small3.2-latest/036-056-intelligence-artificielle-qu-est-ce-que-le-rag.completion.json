@@ -1,0 +1,13 @@
+{
+  "index": 36,
+  "file": "056-intelligence-artificielle-qu-est-ce-que-le-rag.prompt.json",
+  "prompt": "Qu'est-ce que le RAG (Retrieval Augmented Generation) ?",
+  "promptWords": 8,
+  "completion": "Le RAG, ou **Retrieval-Augmented Generation**, est une technique avancée en traitement automatique du langage (NLP) qui combine deux approches : la **recherche d'informations** (retrieval) et la **génération de texte** (generation).\n\n### Comment ça marche ?\n1. **Phase de recherche (Retrieval)** :\n   - Un système RAG commence par rechercher des informations pertinentes dans une base de données externe (comme des documents, des articles, ou une base de connaissances).\n   - Cette étape permet de récupérer des données spécifiques qui pourraient être utiles pour répondre à une question ou générer un texte.\n\n2. **Phase de génération (Generation)** :\n   - Les informations récupérées sont ensuite utilisées comme contexte pour un modèle de langage (comme un grand modèle de type transformer).\n   - Le modèle génère une réponse ou un texte en s'appuyant sur ces informations, ce qui permet de produire des réponses plus précises et mieux informées.\n\n### Avantages du RAG\n- **Précision** : En s'appuyant sur des données externes, le système évite les erreurs ou les hallucinations courantes dans les modèles de langage traditionnels.\n- **Flexibilité** : Il peut s'adapter à différents domaines en utilisant des bases de connaissances spécifiques.\n- **Mise à jour facile** : Contrairement aux modèles pré-entraînés qui nécessitent un réentraînement pour intégrer de nouvelles informations, le RAG peut simplement mettre à jour sa base de données externe.\n\n### Applications\n- **Chatbots et assistants virtuels** : Pour fournir des réponses précises et contextuelles.\n- **Systèmes de recommandation** : Pour générer des suggestions personnalisées.\n- **Génération de contenu** : Pour créer des articles, des résumés, ou des rapports basés sur des données spécifiques.\n\nEn résumé, le RAG est une méthode puissante qui améliore la qualité des réponses générées par les modèles de langage en intégrant des données externes pertinentes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:23:14.6899746+02:00",
+  "durationSeconds": 10.1,
+  "stats": "mistral-small3.2:latest · 523 + 430 tokens · 10,1 s",
+  "isError": false,
+  "language": "FR"
+}

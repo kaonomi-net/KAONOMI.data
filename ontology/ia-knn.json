@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (la classification) : Méthode non paramétrique qui classe un exemple selon la classe majoritaire de ses k voisins les plus proches, introduite par Fix et Hodges.",
+  "id": "ia-knn",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "K plus proches voisins",
+  "entityType": "ALGORITHM",
+  "description": "Méthode non paramétrique qui classe un exemple selon la classe majoritaire de ses k voisins les plus proches, introduite par Fix et Hodges.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Comprendre K plus proches voisins est une étape clé pour maîtriser la classification.",
+    "Dans le domaine de la classification, K plus proches voisins reste une référence.",
+    "Pour ce projet, l'équipe a implémenté K plus proches voisins en quelques lignes de Python."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "k-NN",
+    "kNN"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#CLASSIFICATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=K%20plus%20proches%20voisins"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "scikit-learn"
+  ],
+  "isDeleted": false,
+  "startDate": "1951-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-solidarite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'aide mutuelle.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:solidarit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:solidaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fraternel(le|s|les)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:main\\s+tendue)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:soutien(s)?)(?![\\w-])"
+  ],
+  "symbol": "solidarité",
+  "event": null,
+  "title": "Solidarité",
+  "tags": [
+    "#AMITIE",
+    "#PAIX"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

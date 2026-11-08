@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-reglement-sur-les-retours",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Règlement sur les retours",
+  "includedEntities": [
+    {
+      "entityName": "retours",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "règlement",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "expulsions",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le nouveau règlement européen sur les retours de migrants.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "centres de retour",
+    "pays tiers",
+    "droits"
+  ],
+  "questions": [
+    "Quelle version ?",
+    "Quels centres hors de l'Union ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MIGRATION",
+    "#RETOURS"
+  ],
+  "events": [],
+  "signals": [
+    "!MIGRATION"
+  ],
+  "isDeleted": false
+}

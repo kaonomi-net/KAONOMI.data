@@ -1,0 +1,13 @@
+{
+  "index": 150,
+  "file": "0150-microsoft-office-how-do-i-add-animations-in.prompt.json",
+  "prompt": "How do I add animations in PowerPoint?",
+  "promptWords": 7,
+  "completion": "Adding animations in PowerPoint can make your presentations more engaging. Here’s a step-by-step guide to help you add animations:\n\n### **Adding Animations to Objects**\n1. **Select the Object**:\n   - Click on the text, shape, image, or any other object you want to animate.\n\n2. **Go to the Animations Tab**:\n   - In the PowerPoint ribbon, click on the **Animations** tab.\n\n3. **Choose an Animation**:\n   - In the **Animation** gallery, select the type of animation you want (e.g., Fade, Wipe, Fly In, etc.).\n\n4. **Preview the Animation**:\n   - Click the **Preview** button in the Animations tab to see how the animation will look.\n\n5. **Customize the Animation (Optional)**:\n   - Click **Animation Pane** in the Animations tab to see all animations applied to the slide.\n   - Right-click the animation in the Animation Pane to adjust effects, timing, or triggers.\n\n### **Adding Animations to Text**\n1. **Select the Text Box**:\n   - Click on the text box containing the text you want to animate.\n\n2. **Choose an Animation**:\n   - Go to the **Animations** tab and select an animation from the gallery.\n\n3. **Apply Animation by Paragraph (Optional)**:\n   - If you want each bullet point to animate one by one, click **Effect Options** > **By Paragraph**.\n\n### **Adding Animations to SmartArt or Charts**\n1. **Select the SmartArt or Chart**:\n   - Click on the SmartArt graphic or chart you want to animate.\n\n2. **Choose an Animation**:\n   - Go to the **Animations** tab and select an animation (e.g., Morph, Grow/Shrink, etc.).\n\n3. **Customize Animation (Optional)**:\n   - Use the **Animation Pane** to adjust the order and timing of animations.\n\n### **Advanced Animation Features**\n- **Triggers**: Set animations to start on click or based on other actions.\n- **Motion Paths**: Draw custom paths for objects to follow.\n- **Animation Painter**: Copy animations from one object to another.\n\nWould you like help with a specific type of animation or effect?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:31:17.023255+02:00",
+  "durationSeconds": 11.72,
+  "stats": "mistral-small3.2:latest · 516 + 462 tokens · 11,7 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-parrainages-des-500-elus",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Parrainages des 500 élus",
+  "includedEntities": [
+    {
+      "entityName": "parrainages",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "élus",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la collecte des 500 parrainages nécessaires pour être candidat.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [
+    "début 2027"
+  ],
+  "relatedEntities": [
+    "maires",
+    "Conseil constitutionnel",
+    "petits candidats"
+  ],
+  "questions": [
+    "Qui atteint les 500 ?",
+    "Qui peine ?",
+    "Quel débat sur l'anonymat ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#REGLES"
+  ],
+  "events": [
+    "@PARRAINAGES"
+  ],
+  "signals": [
+    "!ECHEANCE"
+  ],
+  "isDeleted": false
+}

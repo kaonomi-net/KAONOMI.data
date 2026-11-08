@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-douma",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "Douma",
+  "entityType": "CITY",
+  "description": "Cité par 3 intels : Poutine et les vétérans de la guerre ; Nouvelle Douma de Russie unie ; Contestation des élections législatives russes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre la promotion des vétérans de la guerre comme nouvelle élite russe.",
+    "Suivre la nouvelle Douma élue en septembre 2026 avec 349 sièges pour Russie unie.",
+    "Suivre les analyses contestant la sincérité des législatives de 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Douma",
+  "tags": [
+    "#RUSSIE",
+    "#POUTINE",
+    "#VETERANS",
+    "#DOUMA",
+    "#POLITIQUE",
+    "#ELECTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!GOUVERNANCE",
+    "!VIGILANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "vétérans",
+    "Moscou",
+    "postes publics",
+    "nouvelle élite",
+    "Temps des héros",
+    "Poutine",
+    "Russie unie",
+    "lois",
+    "Volodine",
+    "participation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

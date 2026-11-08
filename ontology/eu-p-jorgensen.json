@@ -1,0 +1,59 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique énergétique) : Ancien ministre danois du Climat et de l'Énergie puis de la Coopération au développement, commissaire à l'Énergie et au Logement depuis 2024.",
+  "id": "eu-p-jorgensen",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Dan Jørgensen",
+  "entityType": "PERSON",
+  "description": "Ancien ministre danois du Climat et de l'Énergie puis de la Coopération au développement, commissaire à l'Énergie et au Logement depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Le portrait de Dan Jørgensen figure dans le dossier consacré à la politique énergétique.",
+    "La presse européenne a longuement commenté le parcours de Dan Jørgensen.",
+    "Les manuels sur les institutions européennes citent Dan Jørgensen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Jørgensen",
+    "Jrgensen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUEENERGETIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Dan%20J%C3%B8rgensen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité danoise",
+    "Social-démocratie (Socialdemokratiet)",
+    "Ministre du Climat",
+    "Député européen",
+    "Commissaire européen",
+    "Énergie et logement (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Énergie",
+    "Logement",
+    "Direction générale de l'énergie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

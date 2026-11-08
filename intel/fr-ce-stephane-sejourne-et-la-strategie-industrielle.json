@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-stephane-sejourne-et-la-strategie-industrielle",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Stéphane Séjourné et la stratégie industrielle",
+  "includedEntities": [
+    {
+      "entityName": "Stéphane Séjourné",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "industrie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action du vice-président chargé de la prospérité et de la stratégie industrielle.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "acier",
+    "automobile",
+    "préférence européenne"
+  ],
+  "questions": [
+    "Quel plan ?",
+    "Quel secteur ?",
+    "Quelle préférence européenne ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#INDUSTRIE",
+    "#SEJOURNE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

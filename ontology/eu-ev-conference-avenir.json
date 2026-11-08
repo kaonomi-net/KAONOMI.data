@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la démocratie européenne) : Exercice de démocratie participative associant des panels de citoyens européens.",
+  "id": "eu-ev-conference-avenir",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Conférence sur l'avenir de l'Europe",
+  "entityType": "EVENT",
+  "description": "Exercice de démocratie participative associant des panels de citoyens européens.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "La presse européenne a largement couvert « Conférence sur l'avenir de l'Europe ».",
+    "« Conférence sur l'avenir de l'Europe » concerne la démocratie européenne.",
+    "Les archives audiovisuelles de la Commission conservent des images de « Conférence sur l'avenir de l'Europe »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#DEMOCRATIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Conf%C3%A9rence%20sur%20l%27avenir%20de%20l%27Europe"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Démocratie",
+    "Ursula von der Leyen",
+    "Dubravka Šuica",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-05-09T00:00:00",
+  "endDate": "2022-05-09T00:00:00"
+}

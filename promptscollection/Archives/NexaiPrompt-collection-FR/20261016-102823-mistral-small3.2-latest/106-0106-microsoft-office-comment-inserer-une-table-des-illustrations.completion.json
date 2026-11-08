@@ -1,0 +1,13 @@
+{
+  "index": 106,
+  "file": "0106-microsoft-office-comment-inserer-une-table-des-illustrations.prompt.json",
+  "prompt": "Comment insérer une table des illustrations dans Word ?",
+  "promptWords": 9,
+  "completion": "Pour insérer une table des illustrations dans Microsoft Word, suivez ces étapes :\n\n1. **Ouvrez votre document Word** et placez le curseur à l'endroit où vous souhaitez insérer la table des illustrations (généralement après la table des matières).\n\n2. **Allez dans l'onglet \"Références\"** dans le ruban.\n\n3. **Cliquez sur \"Insérer une table des illustrations\"**. Cela ouvrira une boîte de dialogue.\n\n4. **Dans la boîte de dialogue** :\n   - Sous l'onglet \"Table des illustrations\", vous pouvez choisir le format de la table (par exemple, \"Table des illustrations\" ou un style personnalisé).\n   - Vous pouvez également ajuster les options comme le format de numérotation, les niveaux de titre à inclure, etc.\n\n5. **Cliquez sur \"OK\"** pour insérer la table des illustrations.\n\nSi vous avez besoin d'aide supplémentaire ou si vous utilisez une version spécifique de Word, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:49:16.4881076+02:00",
+  "durationSeconds": 4.58,
+  "stats": "mistral-small3.2:latest · 517 + 221 tokens · 4,6 s",
+  "isError": false,
+  "language": "FR"
+}

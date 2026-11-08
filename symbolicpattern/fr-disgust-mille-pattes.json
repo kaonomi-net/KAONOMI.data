@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-mille-pattes",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un animal aux nombreuses pattes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:mille-pattes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:scolopendre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cloporte(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perce-oreille(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:insecte(s)?\\s+rampant(s)?)(?![\\w-])"
+  ],
+  "symbol": "mille-pattes",
+  "event": null,
+  "title": "Mille-pattes",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

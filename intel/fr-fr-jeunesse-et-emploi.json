@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-jeunesse-et-emploi",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Jeunesse et emploi",
+  "includedEntities": [
+    {
+      "entityName": "jeunes",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "emploi",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "apprentissage",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'emploi des jeunes et l'apprentissage.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "aides à l'apprentissage",
+    "chômage des jeunes",
+    "universités"
+  ],
+  "questions": [
+    "Quel taux de chômage ?",
+    "Quelles aides ?",
+    "Quelles coupes ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#JEUNESSE",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

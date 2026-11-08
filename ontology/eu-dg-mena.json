@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la Méditerranée) : Direction générale pour le Moyen-Orient, l'Afrique du Nord et le Golfe (DG MENA), service de la Commission européenne compétent pour la Méditerranée, la politique de voisinage, placé sous l'autorité de Dubravka Šuica dans la Commission von der Leyen II.",
+  "id": "eu-dg-mena",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale pour le Moyen-Orient, l'Afrique du Nord et le Golfe",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale pour le Moyen-Orient, l'Afrique du Nord et le Golfe (DG MENA), service de la Commission européenne compétent pour la Méditerranée, la politique de voisinage, placé sous l'autorité de Dubravka Šuica dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Les décisions de « Direction générale pour le Moyen-Orient, l'Afrique du Nord et le Golfe » touchent la Méditerranée.",
+    "Le rapport annuel de « Direction générale pour le Moyen-Orient, l'Afrique du Nord et le Golfe » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Direction générale pour le Moyen-Orient, l'Afrique du Nord et le Golfe »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG MENA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#MEDITERRANEE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20pour%20le%20Moyen-Orient%2C%20l%27Afrique%20du%20Nord%20et%20le%20Golfe"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Dubravka Šuica",
+    "Méditerranée",
+    "Politique de voisinage"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

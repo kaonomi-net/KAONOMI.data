@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-conseil",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "Conseil",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 5 intels : Présidente du Parlement européen ; Vote du budget annuel de l'Union ; Budget annuel 2027 de l'Union ; Paquet de sanctions contre la Russie ; Article 7 du traité.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre le rôle de la présidente du Parlement européen.",
+    "Suivre l'adoption du budget annuel de l'Union européenne.",
+    "Suivre la négociation du budget annuel 2027 de l'Union."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Conseil",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#PARLEMENT-EUROPEEN",
+    "#BUDGET-UE",
+    "#METSOLA",
+    "#SANCTIONS",
+    "#RUSSIE"
+  ],
+  "events": [
+    "@VOTE",
+    "@DECLARATION",
+    "@SANCTION"
+  ],
+  "signals": [
+    "!BUDGET",
+    "!GOUVERNANCE",
+    "!PRESSION-ECONOMIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Strasbourg",
+    "Parlement européen",
+    "conciliation",
+    "Hongrie",
+    "Roberta Metsola",
+    "sommets",
+    "Commission",
+    "vote",
+    "crédits"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-volatilite-des-marches",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Volatilité des marchés",
+  "includedEntities": [
+    {
+      "entityName": "volatilité",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "VIX",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les indices de volatilité et la nervosité des investisseurs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "VIX",
+    "VCAC",
+    "options"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quelle cause ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#VOLATILITE"
+  ],
+  "events": [],
+  "signals": [
+    "!INCERTITUDE"
+  ],
+  "isDeleted": false
+}

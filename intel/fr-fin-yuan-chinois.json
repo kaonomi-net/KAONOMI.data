@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-yuan-chinois",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Yuan chinois",
+  "includedEntities": [
+    {
+      "entityName": "yuan",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le yuan et la politique de change chinoise.",
+  "isFuzzy": true,
+  "locations": [
+    "Pékin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "exportations",
+    "dollar",
+    "droits de douane"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quelle intervention ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#CHANGE",
+    "#CHINE"
+  ],
+  "events": [],
+  "signals": [
+    "!CHANGE"
+  ],
+  "isDeleted": false
+}

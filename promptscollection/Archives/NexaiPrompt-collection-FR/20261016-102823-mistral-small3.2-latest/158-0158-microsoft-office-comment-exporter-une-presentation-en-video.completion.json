@@ -1,0 +1,13 @@
+{
+  "index": 158,
+  "file": "0158-microsoft-office-comment-exporter-une-presentation-en-video.prompt.json",
+  "prompt": "Comment exporter une présentation en vidéo dans PowerPoint ?",
+  "promptWords": 9,
+  "completion": "Pour exporter une présentation en vidéo dans PowerPoint, voici les étapes à suivre :\n\n1. **Ouvrez votre présentation PowerPoint** : Lancez PowerPoint et ouvrez le fichier de la présentation que vous souhaitez exporter en vidéo.\n\n2. **Accédez à l'onglet \"Fichier\"** : Cliquez sur l'onglet \"Fichier\" dans le ruban en haut de l'écran.\n\n3. **Sélectionnez \"Exporter\"** : Dans le menu de gauche, cliquez sur \"Exporter\".\n\n4. **Choisissez \"Créer une vidéo\"** : Dans la section \"Créer des médias\", cliquez sur \"Créer une vidéo\".\n\n5. **Sélectionnez les paramètres de la vidéo** :\n   - **Résolution** : Choisissez la résolution de la vidéo (par exemple, 1080p pour une haute définition).\n   - **Taille du lecteur** : Vous pouvez choisir de cocher \"Utiliser les dimensions enregistrées dans le fichier de présentation\" ou spécifier une taille personnalisée.\n   - **Durée des diapositives** : Sélectionnez la durée pendant laquelle chaque diapositive sera affichée. Vous pouvez choisir une durée fixe pour toutes les diapositives ou personnaliser la durée pour chaque diapositive individuellement.\n   - **Narration et chronologie** : Si vous avez enregistré une narration ou des chronologies, vous pouvez les inclure dans la vidéo.\n\n6. **Cliquez sur \"Créer une vidéo\"** : Une fois que vous avez configuré les paramètres, cliquez sur le bouton \"Créer une vidéo\" pour démarrer le processus d'exportation.\n\n7. **Choisissez l'emplacement de sauvegarde** : Sélectionnez l'emplacement où vous souhaitez enregistrer la vidéo et donnez-lui un nom.\n\n8. **Attendez la fin du processus** : PowerPoint va générer la vidéo, ce qui peut prendre un certain temps en fonction de la taille de la présentation et des paramètres choisis.\n\n9. **Vérifiez la vidéo** : Une fois l'exportation terminée, ouvrez la vidéo pour vérifier qu'elle correspond à vos attentes.\n\nSi vous avez des questions spécifiques ou des problèmes lors de l'exportation, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:57:08.3466768+02:00",
+  "durationSeconds": 10.34,
+  "stats": "mistral-small3.2:latest · 518 + 500 tokens · 10,3 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-modele-ouvert-de-mistral-ai",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Modèle ouvert de Mistral AI",
+  "includedEntities": [
+    {
+      "entityName": "Mistral AI",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "modèle",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "open source",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 55,
+  "instructions": "Surveiller les modèles publiés par Mistral AI et leur licence.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "jour de publication"
+  ],
+  "relatedEntities": [
+    "Arthur Mensch",
+    "Le Chat",
+    "Hugging Face"
+  ],
+  "questions": [
+    "Quelle licence ?",
+    "Quelle taille de modèle ?",
+    "Quels poids sont publiés ?"
+  ],
+  "tags": [
+    "#IA",
+    "#LLM",
+    "#MISTRAL",
+    "#SOUVERAINETE"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!NOUVEAUTE"
+  ],
+  "isDeleted": false
+}

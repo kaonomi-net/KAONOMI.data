@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-production-europeenne-de-munitions",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Production européenne de munitions",
+  "includedEntities": [
+    {
+      "entityName": "munitions",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "production",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Europe",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la montée en puissance de la production de munitions en Europe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Rheinmetall",
+    "obus",
+    "ASAP"
+  ],
+  "questions": [
+    "Quelle capacité ?",
+    "Quelles nouvelles usines ?",
+    "Quels délais ?"
+  ],
+  "tags": [
+    "#EUROPE",
+    "#INDUSTRIE-DEFENSE",
+    "#MUNITIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "isDeleted": false
+}

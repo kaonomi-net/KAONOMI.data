@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-amd",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "AMD",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Puce IA concurrente de Nvidia ; AMD.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les alternatives aux GPU Nvidia pour l'IA.",
+    "Suivre l'action AMD face à Nvidia."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "AMD",
+  "tags": [
+    "#IA",
+    "#SEMI-CONDUCTEURS",
+    "#CONCURRENCE",
+    "#BOURSE"
+  ],
+  "events": [
+    "@LANCEMENT-MATERIEL"
+  ],
+  "signals": [
+    "!CONCURRENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "TPU",
+    "Google",
+    "puce",
+    "Intel",
+    "Groq",
+    "puces",
+    "OpenAI",
+    "Santa Clara",
+    "MI400",
+    "Lisa Su"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

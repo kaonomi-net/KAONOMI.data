@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (le chiffrement des disques) : Logiciel libre de chiffrement de disques, abandonné mystérieusement par ses auteurs en 2014.",
+  "id": "cyber-truecrypt",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "TrueCrypt",
+  "entityType": "SOFTWARE",
+  "description": "Logiciel libre de chiffrement de disques, abandonné mystérieusement par ses auteurs en 2014.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "Le rapport d'incident cite TrueCrypt à plusieurs reprises.",
+    "L'analyste a utilisé TrueCrypt pendant l'enquête.",
+    "Les historiens de l'informatique considèrent TrueCrypt comme une étape du chiffrement des disques."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "TrueCrypt"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#CHIFFREMENTDISQUES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=TrueCrypt"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AES",
+    "VeraCrypt"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-01-01T00:00:00",
+  "endDate": null
+}

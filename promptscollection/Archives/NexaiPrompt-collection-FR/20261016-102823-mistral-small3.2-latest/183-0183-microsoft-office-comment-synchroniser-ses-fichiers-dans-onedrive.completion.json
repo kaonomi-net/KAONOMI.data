@@ -1,0 +1,13 @@
+{
+  "index": 183,
+  "file": "0183-microsoft-office-comment-synchroniser-ses-fichiers-dans-onedrive.prompt.json",
+  "prompt": "Comment synchroniser ses fichiers dans OneDrive ?",
+  "promptWords": 7,
+  "completion": "Pour synchroniser vos fichiers dans OneDrive, vous pouvez suivre ces étapes :\n\n### Sur Windows :\n1. **Télécharger OneDrive** : Si ce n'est pas déjà fait, téléchargez l'application OneDrive depuis le [site officiel de Microsoft](https://www.microsoft.com/fr-fr/microsoft-365/onedrive/online-storage).\n2. **Installer et se connecter** : Installez l'application et connectez-vous avec votre compte Microsoft.\n3. **Sélectionner les dossiers à synchroniser** : Pendant l'installation, vous pouvez choisir quels dossiers de votre OneDrive vous souhaitez synchroniser sur votre ordinateur.\n4. **Lancer la synchronisation** : Une fois configuré, OneDrive synchronisera automatiquement vos fichiers entre votre ordinateur et le cloud.\n\n### Sur Mac :\n1. **Télécharger OneDrive** : Téléchargez l'application OneDrive depuis le [Mac App Store](https://apps.apple.com/fr/app/onedrive/id823766827).\n2. **Installer et se connecter** : Installez l'application et connectez-vous avec votre compte Microsoft.\n3. **Configurer la synchronisation** : Suivez les instructions pour sélectionner les dossiers à synchroniser.\n\n### Sur mobile (Android/iOS) :\n1. **Télécharger l'application OneDrive** : Téléchargez l'application OneDrive depuis le [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.skydrive) ou l'[App Store](https://apps.apple.com/fr/app/onedrive/id823766827).\n2. **Se connecter** : Ouvrez l'application et connectez-vous avec votre compte Microsoft.\n3. **Activer la synchronisation** : Allez dans les paramètres de l'application pour activer la synchronisation automatique des fichiers.\n\n### Synchronisation manuelle :\n- Vous pouvez également synchroniser manuellement des fichiers en les téléchargeant ou en les téléversant via l'interface web de OneDrive à l'adresse [https://onedrive.live.com](https://onedrive.live.com).\n\nSi vous avez des questions spécifiques ou des problèmes lors de la synchronisation, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:00:28.0445442+02:00",
+  "durationSeconds": 10.22,
+  "stats": "mistral-small3.2:latest · 517 + 498 tokens · 10,2 s",
+  "isError": false,
+  "language": "FR"
+}

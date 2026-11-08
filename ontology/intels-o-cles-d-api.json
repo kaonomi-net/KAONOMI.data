@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cles-d-api",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "clés d'API",
+  "entityType": "HARDWARE",
+  "description": "Cité par 1 intel : Vol de clés d'API d'IA.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre le vol et la revente d'accès aux modèles d'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "clés d'API",
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#IDENTITES"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "LLMjacking",
+    "IA",
+    "cloud",
+    "fraude"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

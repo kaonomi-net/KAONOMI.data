@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-analyses",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "analyses",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Psychologie et intelligence artificielle en recherche.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'usage de l'IA dans la recherche en psychologie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "analyses",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#RECHERCHE",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "psychologie",
+    "modèles",
+    "recherche",
+    "participants simulés",
+    "IA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

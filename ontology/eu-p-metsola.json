@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la vie politique européenne) : Avocate maltaise, présidente du Parlement européen depuis janvier 2022, réélue en 2024.",
+  "id": "eu-p-metsola",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Roberta Metsola",
+  "entityType": "PERSON",
+  "description": "Avocate maltaise, présidente du Parlement européen depuis janvier 2022, réélue en 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-dirigeants",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Roberta Metsola.",
+    "Les manuels sur les institutions européennes citent Roberta Metsola.",
+    "Le portrait de Roberta Metsola figure dans le dossier consacré à la vie politique européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Metsola"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#VIEPOLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Roberta%20Metsola"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité maltaise",
+    "Parti nationaliste maltais",
+    "Avocat",
+    "Député européen",
+    "Président du Parlement européen",
+    "Parlement européen",
+    "David Sassoli",
+    "Scandale de corruption au Parlement européen (« Qatargate »)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

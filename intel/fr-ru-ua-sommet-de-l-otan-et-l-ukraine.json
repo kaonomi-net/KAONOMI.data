@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-sommet-de-l-otan-et-l-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Sommet de l'OTAN et l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "OTAN",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "sommet",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions de l'OTAN concernant l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "La Haye"
+  ],
+  "times": [
+    "sommets"
+  ],
+  "relatedEntities": [
+    "Mark Rutte",
+    "adhésion",
+    "dépenses"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quelle perspective d'adhésion ?",
+    "Quel soutien ?"
+  ],
+  "tags": [
+    "#OTAN",
+    "#UKRAINE",
+    "#SOMMET"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!ALLIANCE"
+  ],
+  "isDeleted": false
+}

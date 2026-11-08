@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-pacte-de-stabilite-et-procedures-de-deficit",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Pacte de stabilité et procédures de déficit",
+  "includedEntities": [
+    {
+      "entityName": "pacte de stabilité",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "déficit excessif",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'application des règles budgétaires européennes aux États membres.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "semestre européen"
+  ],
+  "relatedEntities": [
+    "France",
+    "Italie",
+    "clause dérogatoire défense"
+  ],
+  "questions": [
+    "Quel pays est visé ?",
+    "Quelle recommandation ?",
+    "Quelle sanction ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#REGLES-BUDGETAIRES",
+    "#DETTE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

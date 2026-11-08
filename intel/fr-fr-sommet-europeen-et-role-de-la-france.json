@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-sommet-europeen-et-role-de-la-france",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Sommet européen et rôle de la France",
+  "includedEntities": [
+    {
+      "entityName": "Conseil européen",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "France",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "sommet",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les positions françaises aux sommets européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "budget européen",
+    "Ukraine",
+    "défense"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quel compromis ?",
+    "Quel résultat ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#EUROPE",
+    "#SOMMET"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

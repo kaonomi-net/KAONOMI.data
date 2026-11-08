@@ -1,0 +1,28 @@
+{
+  "collection": "NexaiPrompt-collection-EN",
+  "collectionFolder": "N:\\promptscollection\\NexaiPrompt-collection-EN",
+  "model": "mistral-small3.2:latest",
+  "language": "EN",
+  "date": "2026-10-09T23:27:42.6353097+02:00",
+  "endDate": "2026-10-09T23:27:59.1096418+02:00",
+  "executionTimeSeconds": 16.5,
+  "executionTime": "00:00:16",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "promptCount": 220,
+  "sentCount": 1,
+  "skippedCount": 0,
+  "stopped": true,
+  "totalPromptWords": 2294,
+  "topicsSummary": "Not generated: the run was stopped with Esc.",
+  "topics": [],
+  "items": [
+    {
+      "index": 1,
+      "file": "0781-csharp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with lambda expressions in C# and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "001-0781-csharp-what-are-the-common-mistakes-with.completion.json"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-sur-le-gaz-ukrainien",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes sur le gaz ukrainien",
+  "includedEntities": [
+    {
+      "entityName": "gaz",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Naftogaz",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "production",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques contre la production et le stockage de gaz.",
+  "isFuzzy": true,
+  "locations": [
+    "Kharkiv",
+    "Poltava"
+  ],
+  "times": [
+    "hiver"
+  ],
+  "relatedEntities": [
+    "Naftogaz",
+    "stockage",
+    "importations"
+  ],
+  "questions": [
+    "Quelle installation ?",
+    "Quelle perte de production ?",
+    "Quelles importations ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ENERGIE",
+    "#GAZ"
+  ],
+  "events": [
+    "@FRAPPE-ENERGIE"
+  ],
+  "signals": [
+    "!TENSION-ENERGETIQUE"
+  ],
+  "isDeleted": false
+}

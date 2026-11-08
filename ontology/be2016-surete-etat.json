@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation des attentats de Bruxelles de 2016 (le renseignement) : Service civil de renseignement belge, dont le fonctionnement a été examiné par la commission d'enquête parlementaire.",
+  "id": "be2016-surete-etat",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Sûreté de l'État",
+  "entityType": "ORGANISATION",
+  "description": "Service civil de renseignement belge, dont le fonctionnement a été examiné par la commission d'enquête parlementaire.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-organisations",
+  "sentencesExemples": [
+    "L'organisation « Sûreté de l'État » est citée dans les rapports consacrés aux attentats de 2016.",
+    "Les médias ont rapporté les communications de « Sûreté de l'État ».",
+    "Les documents publics décrivent la place de « Sûreté de l'État » dans le renseignement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "VSSE",
+    "Veiligheid van de Staat"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#ORGANISATION",
+    "#RENSEIGNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=S%C3%BBret%C3%A9%20de%20l%27%C3%89tat"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission d'enquête parlementaire"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

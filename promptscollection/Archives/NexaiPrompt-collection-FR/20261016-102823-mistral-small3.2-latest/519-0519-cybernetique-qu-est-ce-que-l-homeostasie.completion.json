@@ -1,0 +1,13 @@
+{
+  "index": 519,
+  "file": "0519-cybernetique-qu-est-ce-que-l-homeostasie.prompt.json",
+  "prompt": "Qu'est-ce que l'homéostasie en cybernétique ?",
+  "promptWords": 6,
+  "completion": "L'homéostasie en cybernétique est un concept emprunté à la biologie et adapté aux systèmes techniques et organisationnels. Il désigne la capacité d'un système à maintenir son équilibre interne malgré les perturbations extérieures. En cybernétique, cela implique des mécanismes de rétroaction (feedback) qui permettent au système de s'auto-réguler.\n\nVoici quelques points clés :\n\n1. **Rétroaction négative** : C'est le mécanisme principal de l'homéostasie en cybernétique. Il s'agit d'un processus où le système détecte un écart par rapport à un état désiré et prend des mesures pour le corriger. Par exemple, un thermostat qui régule la température d'une pièce.\n\n2. **Boucles de contrôle** : Les systèmes cybernétiques utilisent des boucles de contrôle pour maintenir l'homéostasie. Ces boucles comparent l'état actuel du système à un état de référence et ajustent les actions en conséquence.\n\n3. **Applications** : L'homéostasie en cybernétique est utilisée dans divers domaines, comme l'ingénierie des systèmes automatisés, la gestion des processus industriels, et même dans les organisations pour maintenir la stabilité et l'efficacité.\n\n4. **Exemples** : Un autre exemple classique est le système de régulation de la vitesse d'une voiture, où le conducteur ajuste l'accélérateur en fonction de la vitesse actuelle pour maintenir une vitesse constante.\n\nEn résumé, l'homéostasie en cybernétique est un principe fondamental pour la conception de systèmes capables de s'adapter et de se stabiliser dans des environnements changeants.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:00:27.6395781+02:00",
+  "durationSeconds": 6.94,
+  "stats": "mistral-small3.2:latest · 521 + 343 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

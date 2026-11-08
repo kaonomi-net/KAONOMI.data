@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la pêche) : Universitaire, ancien ministre chypriote de l'Agriculture, commissaire à la Pêche et aux Océans depuis 2024.",
+  "id": "eu-p-kadis",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Costas Kadis",
+  "entityType": "PERSON",
+  "description": "Universitaire, ancien ministre chypriote de l'Agriculture, commissaire à la Pêche et aux Océans depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Costas Kadis.",
+    "Lors du point de presse de midi, une question portait sur Costas Kadis.",
+    "Costas Kadis est une figure de la pêche."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Kadis"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PECHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Costas%20Kadis"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité chypriote",
+    "Professeur d'université",
+    "Ministre de l'Agriculture",
+    "Commissaire européen",
+    "Pêche et océans (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Pêche",
+    "Océans et affaires maritimes",
+    "Direction générale des affaires maritimes et de la pêche"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

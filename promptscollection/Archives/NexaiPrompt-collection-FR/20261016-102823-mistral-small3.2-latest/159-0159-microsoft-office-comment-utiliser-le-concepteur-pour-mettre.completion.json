@@ -1,0 +1,13 @@
+{
+  "index": 159,
+  "file": "0159-microsoft-office-comment-utiliser-le-concepteur-pour-mettre.prompt.json",
+  "prompt": "Comment utiliser le Concepteur pour mettre en forme une diapositive dans PowerPoint ?",
+  "promptWords": 13,
+  "completion": "Pour utiliser le Concepteur pour mettre en forme une diapositive dans PowerPoint, suivez ces étapes :\n\n1. **Ouvrez PowerPoint** et créez une nouvelle présentation ou ouvrez une présentation existante.\n2. **Sélectionnez la diapositive** que vous souhaitez mettre en forme.\n3. **Accédez à l'onglet \"Concepteur\"** dans le ruban en haut de l'écran. Si vous ne voyez pas cet onglet, assurez-vous que vous utilisez une version récente de PowerPoint (2019 ou 365).\n4. **Cliquez sur \"Concepteur\"** dans le groupe \"Outils de présentation\".\n5. **PowerPoint affichera plusieurs suggestions de mises en page et de styles** pour votre diapositive. Vous pouvez parcourir ces suggestions et cliquer sur celle que vous préférez pour l'appliquer.\n6. **Personnalisez davantage** si nécessaire en ajustant les éléments de la diapositive (texte, images, graphiques, etc.) pour obtenir le résultat souhaité.\n\nLe Concepteur utilise l'intelligence artificielle pour analyser le contenu de votre diapositive et proposer des mises en forme adaptées. Vous pouvez répéter ces étapes pour chaque diapositive de votre présentation.\n\nSi vous avez besoin d'informations plus spécifiques ou d'une aide supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:57:18.7004697+02:00",
+  "durationSeconds": 6.33,
+  "stats": "mistral-small3.2:latest · 525 + 300 tokens · 6,3 s",
+  "isError": false,
+  "language": "FR"
+}

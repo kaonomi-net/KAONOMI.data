@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Parti démocrate (PD), parti politique de ce pays : Italie.",
+  "id": "eu-parti-pd",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti démocrate (PD)",
+  "entityType": "ORGANISATION",
+  "description": "Parti démocrate (PD), parti politique de ce pays : Italie. Il est affilié à la famille Socialistes et démocrates (S&D).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Les décisions de « Parti démocrate (PD) » touchent la vie politique nationale.",
+    "Le rapport annuel de « Parti démocrate (PD) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Parti démocrate (PD) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20d%C3%A9mocrate%20%28PD%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Italie",
+    "Socialistes et démocrates (S&D)",
+    "Paolo Gentiloni",
+    "Federica Mogherini",
+    "David Sassoli",
+    "Enrico Letta"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

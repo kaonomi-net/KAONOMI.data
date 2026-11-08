@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-carrefour",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "Carrefour",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Carrefour ; Consommation des ménages et distribution.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'action Carrefour et sa stratégie.",
+    "Suivre la consommation et ses effets sur les distributeurs cotés."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Carrefour",
+  "tags": [
+    "#BOURSE",
+    "#DISTRIBUTION",
+    "#CAC40",
+    "#CONSOMMATION"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE",
+    "!TENDANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "distribution",
+    "Paris",
+    "cessions",
+    "prix",
+    "Alexandre Bompard",
+    "Belgique",
+    "ménages",
+    "Colruyt",
+    "Ahold Delhaize",
+    "France"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

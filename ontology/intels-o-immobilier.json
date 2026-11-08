@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-immobilier",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "immobilier",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Immobilier et logement ; Économie chinoise ; Immobilier coté belge.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la crise du logement et du marché immobilier.",
+    "Suivre l'économie chinoise et son effet sur les valeurs européennes.",
+    "Suivre les sociétés immobilières réglementées belges."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "immobilier",
+  "tags": [
+    "#ECONOMIE",
+    "#FRANCE",
+    "#LOGEMENT",
+    "#CHINE",
+    "#BOURSE",
+    "#BELGIQUE"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!SOCIAL",
+    "!ECONOMIE",
+    "!TENDANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "construction",
+    "crise",
+    "loyers",
+    "taux de crédit",
+    "logement",
+    "luxe",
+    "Pékin",
+    "économie chinoise",
+    "relance",
+    "croissance"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

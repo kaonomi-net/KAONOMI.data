@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-golfe-de-finlande",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "golfe de Finlande",
+  "entityType": "LOCATION",
+  "description": "Cité par 3 intels : Flotte fantôme russe ; Câbles sous-marins en mer Baltique ; Flotte fantôme de pétroliers.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les pétroliers qui contournent les sanctions.",
+    "Surveiller les dommages aux câbles et gazoducs sous-marins de la Baltique.",
+    "Surveiller les pétroliers qui contournent les sanctions."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "golfe de Finlande",
+  "tags": [
+    "#SANCTIONS",
+    "#MARITIME",
+    "#RUSSIE",
+    "#BALTIQUE",
+    "#INFRASTRUCTURES",
+    "#SABOTAGE"
+  ],
+  "events": [
+    "@SANCTION",
+    "@SABOTAGE",
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!CONTOURNEMENT",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "mer Baltique",
+    "pétroliers",
+    "flotte fantôme",
+    "sanctions",
+    "assurance",
+    "inspections",
+    "Danemark",
+    "enquête",
+    "navires",
+    "ancres"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

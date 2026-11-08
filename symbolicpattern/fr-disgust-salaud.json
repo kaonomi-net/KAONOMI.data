@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-salaud",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne méprisable (familier).",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:salaud(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:salope(rie|ries)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fumier)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pourriture)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:enfoir[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "salaud",
+  "event": null,
+  "title": "Salaud",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

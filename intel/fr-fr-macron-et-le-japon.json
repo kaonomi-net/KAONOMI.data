@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-macron-et-le-japon",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Macron et le Japon",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Japon",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Sanae Takaichi",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les relations entre la France et le Japon.",
+  "isFuzzy": true,
+  "locations": [
+    "Tokyo",
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Indo-Pacifique",
+    "défense",
+    "commerce"
+  ],
+  "questions": [
+    "Quel entretien ?",
+    "Quels accords ?",
+    "Quel partenariat ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#JAPON",
+    "#DIPLOMATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

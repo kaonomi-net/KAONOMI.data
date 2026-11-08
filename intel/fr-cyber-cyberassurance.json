@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberassurance",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberassurance",
+  "includedEntities": [
+    {
+      "entityName": "cyberassurance",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "assureurs",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le marché de l'assurance contre les risques cyber.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "primes",
+    "exclusions",
+    "rançons"
+  ],
+  "questions": [
+    "Quelle prime ?",
+    "Quelle exclusion ?",
+    "Quel sinistre ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ASSURANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

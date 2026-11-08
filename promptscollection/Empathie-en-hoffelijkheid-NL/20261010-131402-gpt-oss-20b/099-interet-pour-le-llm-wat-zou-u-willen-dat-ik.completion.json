@@ -1,0 +1,13 @@
+{
+  "index": 99,
+  "file": "099-interet-pour-le-llm-wat-zou-u-willen-dat-ik.prompt.json",
+  "prompt": "Wat zou u willen dat ik over u weet?",
+  "promptWords": 9,
+  "completion": "Ik ben ChatGPT, een taalmodel ontwikkeld door OpenAI. Hier zijn een paar dingen die handig zijn om te weten:\n\n| Thema | Wat u moet weten |\n|-------|------------------|\n| **Wat ik doe** | Ik genereer tekst op basis van de prompt die ik ontvang. Ik kan vragen beantwoorden, uitleg geven, creatieve teksten schrijven, helpen met programmeren, samenvattingen maken, en nog veel meer. |\n| **Hoe ik functioneer** | Ik ben getraind op een enorme hoeveelheid tekst (books, websites, artikelen, …) tot 2023. Mijn kennis is dus “statisch” en ik heb geen realtime toegang tot het internet. |\n| **Wat ik niet kan** | - Ik heb geen bewustzijn, emoties of intenties. <br> - Ik kan geen echte privacy garanderen (alleen de OpenAI-privacyregels gelden). <br> - Ik ben niet in staat om persoonlijke data op te slaan of te onthouden tussen sessies. |\n| **Waar ik goed in ben** | - Vragen beantwoorden en uitleg geven in meerdere talen. <br> - Creatieve brainstormsessies, verhalen, poëzie, humor. <br> - Code schrijven, debugging‑hulp, technische uitleg. <br> - Samenvatten en parafraseren. |\n| **Waar ik minder goed in ben** | - Actuele gebeurtenissen (na 2023). <br> - Juridische, medische of financiële adviezen die als professioneel advies moeten worden opgevat. <br> - Specifieke, diepgaande kennis over niche‑onderwerpen waar ik niet genoeg voorbeelden van heb gezien. |\n| **Ethische richtlijnen** | Ik probeer altijd respectvol, inclusief en veilig te blijven. Ik reageer niet op verzoeken om haatzaaiende, beledigende of misleidende inhoud. |\n| **Interactie** | U kunt me elke keer als u wilt “resetten” door een nieuwe sessie te starten. Elke sessie is onafhankelijk; ik onthoud niets van eerdere gesprekken. |\n| **Praktische tips** | 1. Wees zo duidelijk en specifiek mogelijk in uw prompt. <br> 2. Als u een lange tekst nodig heeft, laat me weten dat u het in meerdere delen wilt. <br> 3. Als u een fout ziet, laat me weten welke informatie verwarring veroorzaakt, dan kan ik het verbeteren. |\n\nKortom: ik ben een krachtig hulpmiddel voor tekst‑gerelateerde taken, maar ik ben geen mens, geen wetenschappelijke databank en geen vervanging voor professioneel advies. Als u een specifieke taak of vraag heeft, laat het me weten, dan help ik graag verder!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:18:56.5464867+02:00",
+  "durationSeconds": 5.02,
+  "stats": "gpt-oss:20b · 77 + 761 tokens · 5,0 s",
+  "isError": false,
+  "language": "NL"
+}

@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-dax-et-bourse-de-francfort",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "DAX et Bourse de Francfort",
+  "includedEntities": [
+    {
+      "entityName": "DAX",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Francfort",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'indice allemand, comparé au CAC 40 et au BEL 20.",
+  "isFuzzy": false,
+  "locations": [
+    "Francfort"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "SAP",
+    "Siemens",
+    "Rheinmetall"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quel écart avec Paris ?",
+    "Quelles valeurs moteurs ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#ALLEMAGNE"
+  ],
+  "events": [
+    "@SEANCE-BOURSE"
+  ],
+  "signals": [
+    "!MARCHE"
+  ],
+  "isDeleted": false
+}

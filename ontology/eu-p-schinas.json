@@ -1,0 +1,59 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (le mode de vie européen) : Ancien porte-parole en chef de la Commission et député européen, vice-président chargé de la promotion du mode de vie européen (2019-2024).",
+  "id": "eu-p-schinas",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Margaritis Schinas",
+  "entityType": "PERSON",
+  "description": "Ancien porte-parole en chef de la Commission et député européen, vice-président chargé de la promotion du mode de vie européen (2019-2024).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Margaritis Schinas est une figure de le mode de vie européen.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Margaritis Schinas.",
+    "Lors du point de presse de midi, une question portait sur Margaritis Schinas."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Schinas"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#MODEVIEEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Margaritis%20Schinas"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité grecque",
+    "Nouvelle Démocratie",
+    "Fonctionnaire européen",
+    "Député européen",
+    "Commissaire européen",
+    "Promotion du mode de vie européen (Commission von der Leyen I)",
+    "Vice-président de la Commission",
+    "Commission von der Leyen I",
+    "Mode de vie européen",
+    "Migration et asile",
+    "Éducation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

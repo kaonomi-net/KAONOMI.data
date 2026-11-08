@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-strategie-de-preparation-aux-crises",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Stratégie de préparation aux crises",
+  "includedEntities": [
+    {
+      "entityName": "préparation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "crises",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "stocks",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la stratégie européenne de préparation des populations aux crises.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "kits de survie",
+    "stockage",
+    "protection civile"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quelle réaction ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#PREPARATION",
+    "#SECURITE"
+  ],
+  "events": [],
+  "signals": [
+    "!SECURITE"
+  ],
+  "isDeleted": false
+}

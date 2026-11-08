@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la communication de la Commission) : Portefeuille détenu par Sicco Mansholt, président de la Commission, dans la Commission Mansholt, du 22 mars 1972 au 5 janvier 1973.",
+  "id": "eu-pf-mansholt-mansholt",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Présidence de la Commission (Commission Mansholt)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Sicco Mansholt, président de la Commission, dans la Commission Mansholt, du 22 mars 1972 au 5 janvier 1973.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Présidence de la Commission (Commission Mansholt) ».",
+    "Le portefeuille « Présidence de la Commission (Commission Mansholt) » couvre la communication de la Commission.",
+    "La lettre de mission du portefeuille « Présidence de la Commission (Commission Mansholt) » fixe les objectifs en matière de la communication de la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#COMMUNICATIONCOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pr%C3%A9sidence%20de%20la%20Commission%20%28Commission%20Mansholt%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Sicco Mansholt",
+    "Commission Mansholt",
+    "Président de la Commission européenne",
+    "Communication et présidence",
+    "Agriculture"
+  ],
+  "isDeleted": false,
+  "startDate": "1972-03-22T00:00:00",
+  "endDate": "1973-01-05T00:00:00"
+}

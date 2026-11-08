@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-outils",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "outils",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : Audit de sécurité de code ; Agents d'IA de test d'intrusion ; Sécurité des agents d'IA ; Protocole MCP et sécurité.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les audits de sécurité du code.",
+    "Suivre les agents d'IA qui trouvent et vérifient des vulnérabilités.",
+    "Suivre les risques de sécurité des agents d'IA autonomes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "outils",
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#APPSEC",
+    "#PENTEST",
+    "#AGENTS",
+    "#MCP"
+  ],
+  "events": [
+    "@RAPPORT",
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!DEFENSE",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sécurité",
+    "MCP",
+    "revue",
+    "audit de code",
+    "failles",
+    "open source",
+    "autonomes",
+    "agents IA",
+    "pentest",
+    "benchmarks"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-bretagne-et-pays-basque",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Bretagne et Pays basque",
+  "includedEntities": [
+    {
+      "entityName": "Bretagne",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Pays basque",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les revendications régionales en Bretagne et au Pays basque.",
+  "isFuzzy": true,
+  "locations": [
+    "Rennes",
+    "Bayonne"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "langues régionales",
+    "logement",
+    "autonomie"
+  ],
+  "questions": [
+    "Quelle revendication ?",
+    "Quelle mobilisation ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#REGIONS",
+    "#IDENTITE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

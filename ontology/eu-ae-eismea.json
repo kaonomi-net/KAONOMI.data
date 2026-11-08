@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'innovation) : Agence exécutive du Conseil européen de l'innovation et des PME, agence exécutive installée à Bruxelles qui gère des programmes pour la Commission.",
+  "id": "eu-ae-eismea",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence exécutive du Conseil européen de l'innovation et des PME (EISMEA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence exécutive du Conseil européen de l'innovation et des PME, agence exécutive installée à Bruxelles qui gère des programmes pour la Commission.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences-executives",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Agence exécutive du Conseil européen de l'innovation et des PME (EISMEA) ».",
+    "Les décisions de « Agence exécutive du Conseil européen de l'innovation et des PME (EISMEA) » touchent l'innovation.",
+    "Le rapport annuel de « Agence exécutive du Conseil européen de l'innovation et des PME (EISMEA) » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EISMEA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#INNOVATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20ex%C3%A9cutive%20du%20Conseil%20europ%C3%A9en%20de%20l%27innovation%20et%20des%20PME%20%28EISMEA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME",
+    "Bruxelles",
+    "Innovation",
+    "PME et startups",
+    "Programme pour le marché unique"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

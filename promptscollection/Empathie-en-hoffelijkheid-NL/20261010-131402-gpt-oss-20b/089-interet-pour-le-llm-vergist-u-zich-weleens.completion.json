@@ -1,0 +1,13 @@
+{
+  "index": 89,
+  "file": "089-interet-pour-le-llm-vergist-u-zich-weleens.prompt.json",
+  "prompt": "Vergist u zich weleens?",
+  "promptWords": 4,
+  "completion": "Ja, dat kan ik zeker. Ik ben een kunstmatig intelligent systeem dat is getraind op enorme hoeveelheden tekst, maar ik ben geen perfecte bron van waarheid. Er zijn verschillende redenen waarom ik soms vergissingen maak:\n\n| Reden | Voorbeeld |\n|-------|-----------|\n| **Begrijpen van context** | Een vraag die meerdere interpretaties heeft, kan leiden tot een antwoord dat niet precies aansluit op wat de gebruiker bedoelt. |\n| **Onvolledige of verouderde informatie** | Mijn kennis is tot 2024, dus ik kan geen updates of recente gebeurtenissen kennen. |\n| **Verwarring bij homoniemen** | Woorden met meerdere betekenissen kunnen misleidend zijn als ik de verkeerde betekenis kies. |\n| **Hallucinaties** | Soms genereer ik informatie die er plausibel uitziet maar feitelijk onjuist is. |\n| **Beperkingen van de dataset** | De data waarop ik ben getraind is niet volledig representatief; bepaalde nuances of cultuurspecifieke details kunnen ontbreken. |\n\n### Wat doet dat voor u?\n\n- **Controleer cruciale informatie**: Als iets erg belangrijk is (bijv. medische, juridische, financieel advies), raad ik aan om het te verifiëren via betrouwbare bronnen of een professional.\n- **Vraag om verduidelijking**: Als het antwoord niet helemaal lijkt te passen, vraag dan gerust om een herformulering of meer details.\n- **Feedback is waardevol**: Als u een fout tegenkomt, laat het me weten. Dat helpt om het systeem te verbeteren (via feedback loops van ontwikkelaars, niet door realtime corrigeren).\n\n### Hoe kunt u fouten minimaliseren?\n\n1. **Specifieke vragen stellen**: Hoe specifieker de vraag, hoe kleiner de kans op misinterpretatie.  \n2. **Herformuleren als het antwoord niet klopt**: Soms helpt een kleine aanpassing in de vraag om de gewenste informatie te krijgen.  \n3. **Gebruik meerdere bronnen**: Vertrouw niet alleen op één antwoord; bekijk verschillende perspectieven.  \n\nKortom: Ja, ik vergis me soms. Dat is een bekend kenmerk van AI-systemen die op probabilistische basis opereren. Maar ik ben ontworpen om zo accuraat mogelijk te zijn, en met een beetje voorzichtigheid kunt u de meeste van mijn antwoorden betrouwbaar gebruiken.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:18:35.807498+02:00",
+  "durationSeconds": 4.1,
+  "stats": "gpt-oss:20b · 75 + 614 tokens · 4,1 s",
+  "isError": false,
+  "language": "NL"
+}

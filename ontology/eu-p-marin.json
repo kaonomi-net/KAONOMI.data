@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la présidence de la Commission) : Commissaire espagnol, président par intérim de la Commission en 1999 après la démission de la Commission Santer.",
+  "id": "eu-p-marin",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Manuel Marín",
+  "entityType": "PERSON",
+  "description": "Commissaire espagnol, président par intérim de la Commission en 1999 après la démission de la Commission Santer.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-presidents-commission",
+  "sentencesExemples": [
+    "Manuel Marín est une figure de la présidence de la Commission.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Manuel Marín.",
+    "Lors du point de presse de midi, une question portait sur Manuel Marín."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Marín",
+    "Marin"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PRESIDENCECOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Manuel%20Mar%C3%ADn"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission Marín (intérim)",
+    "nationalité espagnole",
+    "Parti socialiste ouvrier espagnol (PSOE)",
+    "Commissaire européen",
+    "Président de la Commission européenne",
+    "Présidence de la Commission (intérim) (Commission Marín (intérim))",
+    "Communication et présidence"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

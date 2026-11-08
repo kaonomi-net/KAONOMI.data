@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-economie-comportementale",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "économie comportementale",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Prise de décision ; Économie comportementale et nudges.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les recherches sur la prise de décision.",
+    "Suivre l'usage des nudges dans les politiques publiques."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "économie comportementale",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#COGNITION",
+    "#DECISION",
+    "#ECONOMIE",
+    "#NUDGE"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "émotions",
+    "cerveau",
+    "risque",
+    "prise de décision",
+    "Thaler",
+    "nudge",
+    "incitations",
+    "choix"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

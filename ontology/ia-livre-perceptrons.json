@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les réseaux de neurones) : Livre de Minsky et Papert démontrant les limites du perceptron simple (comme la fonction XOR), qui a contribué au déclin de la recherche connexionniste.",
+  "id": "ia-livre-perceptrons",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Publication de « Perceptrons »",
+  "entityType": "EVENT",
+  "description": "Livre de Minsky et Papert démontrant les limites du perceptron simple (comme la fonction XOR), qui a contribué au déclin de la recherche connexionniste.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "« Publication de « Perceptrons » » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « Publication de « Perceptrons » ».",
+    "On date souvent un tournant des réseaux de neurones à « Publication de « Perceptrons » »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Perceptrons de Minsky et Papert"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#RESEAUXNEURONES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Publication%20de%20%C2%AB%20Perceptrons%20%C2%BB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Marvin Minsky",
+    "Perceptron",
+    "Premier hiver de l'IA"
+  ],
+  "isDeleted": false,
+  "startDate": "1969-01-01T00:00:00",
+  "endDate": "1969-01-01T00:00:00"
+}

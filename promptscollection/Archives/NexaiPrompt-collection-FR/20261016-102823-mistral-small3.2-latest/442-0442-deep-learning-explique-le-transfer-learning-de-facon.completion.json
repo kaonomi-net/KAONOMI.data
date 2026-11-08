@@ -1,0 +1,13 @@
+{
+  "index": 442,
+  "file": "0442-deep-learning-explique-le-transfer-learning-de-facon.prompt.json",
+  "prompt": "Explique le transfer learning de façon simple.",
+  "promptWords": 7,
+  "completion": "Le *transfer learning* (ou apprentissage par transfert en français) est une technique en intelligence artificielle qui permet de réutiliser des connaissances acquises par un modèle sur une tâche pour l'appliquer à une autre tâche similaire.\n\n### Explication simple :\nImagine que tu as appris à reconnaître des chats et des chiens. Maintenant, tu veux apprendre à reconnaître des lions et des tigres. Au lieu de tout réapprendre à partir de zéro, tu peux utiliser ce que tu sais déjà sur les félins (comme la forme des oreilles, la queue, etc.) pour t'aider à identifier les nouveaux animaux.\n\nDe la même manière, en *transfer learning* :\n1. On prend un modèle pré-entraîné sur une grande quantité de données (par exemple, un modèle qui reconnaît des objets dans des images).\n2. On adapte ce modèle à une nouvelle tâche (par exemple, reconnaître des maladies à partir d'images médicales) en ajustant seulement les dernières couches du réseau.\n\n### Avantages :\n- **Économie de temps et de ressources** : Pas besoin d'entraîner un modèle depuis le début.\n- **Meilleure performance** : Le modèle part avec des connaissances utiles.\n\n### Exemple concret :\nUn modèle comme ResNet, entraîné sur des millions d'images d'objets courants, peut être réutilisé pour détecter des tumeurs dans des scans médicaux en ajustant seulement les dernières couches du réseau.\n\nEn résumé, le *transfer learning* permet de tirer parti des connaissances existantes pour résoudre de nouveaux problèmes plus efficacement.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:45:51.320472+02:00",
+  "durationSeconds": 6.6,
+  "stats": "mistral-small3.2:latest · 516 + 326 tokens · 6,6 s",
+  "isError": false,
+  "language": "FR"
+}

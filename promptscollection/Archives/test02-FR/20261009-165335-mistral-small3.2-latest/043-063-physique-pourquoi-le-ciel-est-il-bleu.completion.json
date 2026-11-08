@@ -1,0 +1,13 @@
+{
+  "index": 43,
+  "file": "063-physique-pourquoi-le-ciel-est-il-bleu.prompt.json",
+  "prompt": "Pourquoi le ciel est-il bleu ?",
+  "promptWords": 6,
+  "completion": "Le ciel apparaît bleu en raison d'un phénomène appelé diffusion Rayleigh. Voici une explication simple :\n\n1. **La lumière du Soleil** : La lumière blanche du Soleil est composée de toutes les couleurs de l'arc-en-ciel (rouge, orange, jaune, vert, bleu, indigo, violet).\n\n2. **Interaction avec l'atmosphère** : Lorsque cette lumière traverse l'atmosphère terrestre, elle entre en collision avec les molécules d'air (principalement l'azote et l'oxygène) et avec des particules plus grosses comme la poussière.\n\n3. **Diffusion préférentielle** : Les molécules d'air diffusent (réorientent) la lumière dans toutes les directions. Ce phénomène est plus efficace pour les longueurs d'onde courtes (bleu et violet) que pour les longueurs d'onde longues (rouge, orange).\n\n4. **Perception humaine** : Nos yeux sont plus sensibles au bleu qu'au violet, et le Soleil émet aussi plus de lumière bleue que violette. C'est pourquoi nous percevons le ciel comme bleu plutôt que violet.\n\n5. **Couleurs du lever et coucher du Soleil** : Au lever ou coucher du Soleil, la lumière traverse une plus grande épaisseur d'atmosphère. La diffusion du bleu est alors si importante que seule la lumière rouge/orange atteint nos yeux, d'où les couleurs chaudes à ces moments-là.\n\nC'est ce processus qui donne au ciel sa belle couleur bleue en journée !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:00:57.8625528+02:00",
+  "durationSeconds": 7.06,
+  "stats": "mistral-small3.2:latest · 515 + 309 tokens · 7,1 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-mer-rouge",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "mer Rouge",
+  "entityType": "LOCATION",
+  "description": "Cité par 4 intels : Attaques en mer Rouge ; Trafic du canal de Suez ; Fret maritime ; Câbles sous-marins.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Surveiller les attaques contre la navigation commerciale en mer Rouge.",
+    "Surveiller le trafic et les perturbations du canal de Suez.",
+    "Suivre les prix du fret et les perturbations des routes maritimes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "mer Rouge",
+  "tags": [
+    "#COMMERCE",
+    "#GEOPOLITIQUE",
+    "#MARITIME",
+    "#MER-ROUGE",
+    "#FRET",
+    "#CYBERSECURITE"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME",
+    "@SABOTAGE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!PERTURBATION",
+    "!PRIX"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "canal de Suez",
+    "navires",
+    "assurances",
+    "Suez",
+    "Houthis",
+    "Bab-el-Mandeb",
+    "coalition navale",
+    "Yémen",
+    "porte-conteneurs",
+    "trafic"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

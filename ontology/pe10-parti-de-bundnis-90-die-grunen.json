@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Bündnis 90/Die Grünen, parti ou liste de ce pays : Allemagne, qui compte 12 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-de-bundnis-90-die-grunen",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Bündnis 90/Die Grünen",
+  "entityType": "ORGANISATION",
+  "description": "Bündnis 90/Die Grünen, parti ou liste de ce pays : Allemagne, qui compte 12 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "La presse a commenté le score de « Bündnis 90/Die Grünen » aux élections européennes.",
+    "Les positions de « Bündnis 90/Die Grünen » sont suivies à Bruxelles et à Strasbourg.",
+    "« Bündnis 90/Die Grünen » compte des élus au Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=B%C3%BCndnis%2090/Die%20Gr%C3%BCnen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Rasmus Andresen",
+    "Michael Bloss",
+    "Anna Cavazzini",
+    "Daniel Freund",
+    "Alexandra Geese",
+    "Martin Häusling",
+    "Sergey Lagodinsky",
+    "Katrin Langensiepen",
+    "Erik Marquardt",
+    "Hannah Neumann",
+    "Jutta Paulus",
+    "Terry Reintke",
+    "Allemagne",
+    "Les Verts/Alliance libre européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-inegalite",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les écarts injustes de richesse.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:in[ée]galit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:in[ée]galitaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fracture\\s+sociale)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]cart(s)?\\s+de\\s+richesse)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:injustice(s)?\\s+sociale(s)?)(?![\\w-])"
+  ],
+  "symbol": "inégalité",
+  "event": null,
+  "title": "Inégalité",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

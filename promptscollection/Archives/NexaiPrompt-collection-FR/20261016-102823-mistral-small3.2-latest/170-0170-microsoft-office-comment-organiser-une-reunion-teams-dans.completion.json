@@ -1,0 +1,13 @@
+{
+  "index": 170,
+  "file": "0170-microsoft-office-comment-organiser-une-reunion-teams-dans.prompt.json",
+  "prompt": "Comment organiser une réunion Teams dans Outlook ?",
+  "promptWords": 8,
+  "completion": "Pour organiser une réunion Teams dans Outlook, suivez ces étapes :\n\n1. **Ouvrez Outlook** : Lancez l'application Outlook sur votre ordinateur ou accédez à Outlook en ligne via un navigateur web.\n\n2. **Créez un nouvel événement** :\n   - Dans Outlook Desktop, cliquez sur **Nouvel événement** dans le calendrier.\n   - Dans Outlook en ligne, cliquez sur **Nouvel événement** dans le volet de gauche.\n\n3. **Ajoutez les détails de la réunion** :\n   - Remplissez les champs **Objet**, **Lieu**, **Date et heure**, et **Participants**.\n   - Dans le corps de l'événement, ajoutez une description ou un ordre du jour si nécessaire.\n\n4. **Ajoutez une réunion Teams** :\n   - Dans Outlook Desktop, cliquez sur **Nouvelle réunion Teams** dans le ruban en haut de la fenêtre de l'événement.\n   - Dans Outlook en ligne, cliquez sur **Ajouter une réunion Teams** dans le volet de l'événement.\n   - Une option pour ajouter une réunion Teams apparaîtra, et un lien de réunion sera généré automatiquement.\n\n5. **Envoyez l'invitation** :\n   - Cliquez sur **Envoyer** pour envoyer l'invitation aux participants.\n\nLes participants recevront un lien pour rejoindre la réunion Teams directement depuis leur invitation Outlook.\n\nSi vous avez besoin d'instructions plus détaillées ou d'une aide spécifique, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:58:49.9404092+02:00",
+  "durationSeconds": 6.83,
+  "stats": "mistral-small3.2:latest · 515 + 327 tokens · 6,8 s",
+  "isError": false,
+  "language": "FR"
+}

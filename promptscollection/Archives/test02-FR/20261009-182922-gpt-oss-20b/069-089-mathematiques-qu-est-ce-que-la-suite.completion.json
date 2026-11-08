@@ -1,0 +1,13 @@
+{
+  "index": 69,
+  "file": "089-mathematiques-qu-est-ce-que-la-suite.prompt.json",
+  "prompt": "Qu'est-ce que la suite de Fibonacci ?",
+  "promptWords": 7,
+  "completion": "La suite de Fibonacci est une suite numérique très célèbre, nommée d’après le mathématicien italien Leonardo de Pise (nom de famille\u202F: Fibonacci). Elle se construit à partir d’une simple règle d’addition :\n\n* on commence par deux nombres de départ (habituellement 0 et\u202F1 ou bien 1 et\u202F1),\n* chaque terme suivant est la somme des deux termes qui le précèdent.\n\nFormellement, si l’on note \\(F_n\\) le n‑ième terme, on a  \n\n\\[\nF_0 = 0,\\qquad F_1 = 1,\\qquad\nF_{n}=F_{n-1}+F_{n-2}\\quad (n\\ge 2).\n\\]\n\nLes premiers termes sont donc :\n\n\\[\n0,\\; 1,\\; 1,\\; 2,\\; 3,\\; 5,\\; 8,\\; 13,\\; 21,\\; 34,\\; 55,\\; 89,\\;\\dots\n\\]\n\n### Propriétés intéressantes\n\n| Propriété | Description |\n|-----------|-------------|\n| **Binet** | Le n‑ième terme peut s’exprimer fermement par la formule de Binet\u202F:  \n\\[\nF_n = \\frac{\\phi^n-\\psi^n}{\\phi-\\psi},\n\\]\noù \\(\\phi=\\frac{1+\\sqrt5}{2}\\) (la «\u202Fgolden ratio\u202F») et \\(\\psi=\\frac{1-\\sqrt5}{2}\\). |\n| **Rapport asymptotique** | Le rapport \\(F_{n+1}/F_n\\) converge vers \\(\\phi \\approx 1.618\\). |\n| **Relation de combinatoire** | \\(F_{n+1}\\) compte le nombre de façons de monter une tour d’**n** marches en sautant 1 ou 2 marches à la fois. |\n| **Occurrence dans la nature** | Disposition des feuilles, spirales des épis de blé, motifs de nacre, etc. |\n\n### Applications\n\n* **Algorithmique** – calcul de permutations, structure de données (piles, files).\n* **Cryptographie** – certains schémas de génération de nombres pseudo‑aléatoires.\n* **Modélisation biologique** – croissance de populations (ex.\u202Ffamille de poissons de Fibonacci).\n* **Art et architecture** – proportions harmonieuses, fractales.\n\nEn bref, la suite de Fibonacci est un exemple classique où une règle très simple donne naissance à une structure riche, à la fois mathématiquement fascinante et riche en applications concrètes.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T18:43:42.1790221+02:00",
+  "durationSeconds": 6.69,
+  "stats": "gpt-oss:20b · 76 + 721 tokens · 6,7 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 166,
+  "file": "0166-microsoft-office-comment-partager-son-calendrier-dans-outlook.prompt.json",
+  "prompt": "Comment partager son calendrier dans Outlook ?",
+  "promptWords": 7,
+  "completion": "Pour partager votre calendrier dans Outlook, vous pouvez suivre ces étapes selon que vous utilisez Outlook sur le web (Outlook.com) ou l'application de bureau Outlook.\n\n### **Sur Outlook.com (version web) :**\n1. **Connectez-vous** à votre compte Outlook.com.\n2. **Ouvrez le calendrier** en cliquant sur l'icône \"Calendrier\" dans le menu de gauche.\n3. **Cliquez sur l'icône d'engrenage (⚙️) en haut à droite** et sélectionnez **\"Paramètres\"**.\n4. **Dans le menu de gauche**, cliquez sur **\"Partage\"**.\n5. **Sous \"Calendriers partagés\"**, sélectionnez le calendrier que vous souhaitez partager.\n6. **Ajoutez les adresses e-mail** des personnes avec qui vous voulez partager votre calendrier.\n7. **Choisissez le niveau de permission** (par exemple, \"Afficher les détails\" ou \"Modifier\").\n8. **Cliquez sur \"Partager\"** pour envoyer les invitations.\n\n### **Sur l'application Outlook (Windows/Mac) :**\n1. **Ouvrez Outlook** et allez dans l'onglet **\"Calendrier\"**.\n2. **Cliquez avec le bouton droit** sur le calendrier que vous souhaitez partager.\n3. **Sélectionnez \"Partager le calendrier\"** (ou \"Partager\" selon la version).\n4. **Entrez les adresses e-mail** des personnes avec qui vous voulez partager.\n5. **Choisissez les permissions** (lecture seule, modification, etc.).\n6. **Cliquez sur \"Partager\"** pour envoyer l'invitation.\n\nSi vous avez besoin d'aide supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:58:17.289239+02:00",
+  "durationSeconds": 7.74,
+  "stats": "mistral-small3.2:latest · 514 + 370 tokens · 7,7 s",
+  "isError": false,
+  "language": "FR"
+}

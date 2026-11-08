@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-interdiction-des-moteurs-thermiques-en-2035",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Interdiction des moteurs thermiques en 2035",
+  "includedEntities": [
+    {
+      "entityName": "2035",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "moteurs thermiques",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "voitures",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la révision de la fin des voitures thermiques neuves en 2035.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "constructeurs",
+    "carburants de synthèse",
+    "hybrides"
+  ],
+  "questions": [
+    "Quelle révision ?",
+    "Quelle flexibilité ?",
+    "Quelle réaction des constructeurs ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CLIMAT",
+    "#AUTOMOBILE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

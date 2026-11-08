@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Nationalité de l'Union européenne (la citoyenneté européenne) : Nationalité des citoyens de ce pays : Malte.",
+  "id": "eu-nat-mt",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "nationalité maltaise",
+  "entityType": "NORP",
+  "description": "Nationalité des citoyens de ce pays : Malte. Les ressortissants sont appelés maltais.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-nationalites",
+  "sentencesExemples": [
+    "La nationalité maltaise est représentée dans les institutions européennes.",
+    "La nationalité maltaise donne la citoyenneté européenne.",
+    "Les statistiques du personnel détaillent la répartition par nationalité, dont la nationalité maltaise."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDEAA",
+  "synonyms": [
+    "maltais",
+    "maltaise"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#NORP",
+    "#CITOYENNETEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=nationalit%C3%A9%20maltaise"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Malte",
+    "Helena Dalli",
+    "Glenn Micallef",
+    "Karmenu Vella",
+    "Roberta Metsola"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

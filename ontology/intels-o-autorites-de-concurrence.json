@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-autorites-de-concurrence",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "autorités de concurrence",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Fusions et acquisitions.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les grandes opérations de fusion et d'acquisition."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "autorités de concurrence",
+  "tags": [
+    "#FINANCE",
+    "#FUSIONS"
+  ],
+  "events": [
+    "@FUSION"
+  ],
+  "signals": [
+    "!OPERATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "synergies",
+    "banques d'affaires",
+    "milliards",
+    "fusion",
+    "acquisition"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

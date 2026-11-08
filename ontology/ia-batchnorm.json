@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (l'optimisation) : Technique qui normalise les activations de chaque couche sur un lot pour stabiliser et accélérer l'entraînement, proposée par Ioffe et Szegedy.",
+  "id": "ia-batchnorm",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Normalisation par lots",
+  "entityType": "ALGORITHM",
+  "description": "Technique qui normalise les activations de chaque couche sur un lot pour stabiliser et accélérer l'entraînement, proposée par Ioffe et Szegedy.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Dans le domaine de l'optimisation, Normalisation par lots reste une référence.",
+    "Pour ce projet, l'équipe a implémenté Normalisation par lots en quelques lignes de Python.",
+    "Comprendre Normalisation par lots est une étape clé pour maîtriser l'optimisation."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "batch normalization",
+    "BatchNorm"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#OPTIMISATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Normalisation%20par%20lots"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Réseau résiduel"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-01-01T00:00:00",
+  "endDate": null
+}

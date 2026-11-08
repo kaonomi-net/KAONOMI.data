@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-edf-et-le-nucleaire",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "EDF et le nucléaire",
+  "includedEntities": [
+    {
+      "entityName": "EDF",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "nucléaire",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "EPR",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation d'EDF et la relance du nucléaire.",
+  "isFuzzy": true,
+  "locations": [
+    "Flamanville",
+    "Penly"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "EPR2",
+    "dette d'EDF",
+    "prix"
+  ],
+  "questions": [
+    "Quel avancement ?",
+    "Quel coût ?",
+    "Quelle production ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ENERGIE",
+    "#NUCLEAIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

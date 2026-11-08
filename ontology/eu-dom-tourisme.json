@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (le tourisme) : Soutien à un tourisme européen durable et compétitif.",
+  "id": "eu-dom-tourisme",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Tourisme",
+  "entityType": "DOMAIN",
+  "description": "Soutien à un tourisme européen durable et compétitif.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Tourisme » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Tourisme » passent par le Parlement et le Conseil.",
+    "La conférence portait sur le tourisme."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#TOURISME"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Tourisme"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission des transports et du tourisme (TRAN)",
+    "Transport durable et tourisme (Commission von der Leyen II)",
+    "Apostolos Tzitzikostas",
+    "Direction générale de la mobilité et des transports"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (l'intelligence artificielle) : Vote en séance plénière du premier cadre juridique complet sur l'intelligence artificielle.",
+  "id": "eu-ev-vote-ai-act",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Adoption du règlement sur l'IA par le Parlement européen",
+  "entityType": "EVENT",
+  "description": "Vote en séance plénière du premier cadre juridique complet sur l'intelligence artificielle.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "La presse européenne a largement couvert « Adoption du règlement sur l'IA par le Parlement européen ».",
+    "« Adoption du règlement sur l'IA par le Parlement européen » concerne l'intelligence artificielle.",
+    "Les archives audiovisuelles de la Commission conservent des images de « Adoption du règlement sur l'IA par le Parlement européen »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#INTELLIGENCEARTIFICIELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Adoption%20du%20r%C3%A8glement%20sur%20l%27IA%20par%20le%20Parlement%20europ%C3%A9en"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Intelligence artificielle",
+    "Thierry Breton",
+    "Margrethe Vestager",
+    "Commission von der Leyen I",
+    "Strasbourg",
+    "Règlement sur l'intelligence artificielle"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-03-13T00:00:00",
+  "endDate": null
+}

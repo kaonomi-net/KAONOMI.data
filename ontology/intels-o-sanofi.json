@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sanofi",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "Sanofi",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Sanofi ; Médicaments amaigrissants et pharma ; Prix des médicaments aux États-Unis.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'action et le pipeline de Sanofi.",
+    "Suivre le marché des traitements contre l'obésité et ses effets sur la pharma.",
+    "Suivre les mesures américaines sur le prix des médicaments."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Sanofi",
+  "tags": [
+    "#BOURSE",
+    "#PHARMA",
+    "#CAC40",
+    "#OBESITE",
+    "#ETATS-UNIS"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS",
+    "!TENDANCE",
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Dupixent",
+    "essais cliniques",
+    "médicaments",
+    "acquisitions",
+    "Eli Lilly",
+    "GLP-1",
+    "Novo Nordisk",
+    "médicaments amaigrissants",
+    "prix des médicaments"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

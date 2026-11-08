@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-detroit-d-ormuz-et-marches",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Détroit d'Ormuz et marchés",
+  "includedEntities": [
+    {
+      "entityName": "Ormuz",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Iran",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "pétrole",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'effet du blocus iranien du détroit d'Ormuz sur les marchés.",
+  "isFuzzy": true,
+  "locations": [
+    "détroit d'Ormuz"
+  ],
+  "times": [
+    "depuis février 2026"
+  ],
+  "relatedEntities": [
+    "pétrole",
+    "transport maritime",
+    "inflation"
+  ],
+  "questions": [
+    "Quelle évolution ?",
+    "Quel effet sur le Brent ?",
+    "Quelle désescalade ?"
+  ],
+  "tags": [
+    "#ENERGIE",
+    "#IRAN",
+    "#BOURSE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 107,
+  "file": "0107-microsoft-office-how-do-i-protect-a-document.prompt.json",
+  "prompt": "How do I protect a document with a password in Word?",
+  "promptWords": 11,
+  "completion": "To protect a document with a password in Microsoft Word, follow these steps:\n\n### For Word 2016, 2019, and 365:\n1. **Open your document** in Word.\n2. Click on **File** in the top-left corner.\n3. Select **Info** from the menu on the left.\n4. Click on **Protect Document** (or **Encrypt with Password** in some versions).\n5. In the **Password** box that appears, enter your desired password.\n6. Click **OK**.\n7. Re-enter the password to confirm it, then click **OK** again.\n\n### For Word 2010 and 2013:\n1. **Open your document** in Word.\n2. Click on **File** in the top-left corner.\n3. Select **Info** from the menu on the left.\n4. Click on **Protect Document** > **Encrypt with Password**.\n5. In the **Password** box that appears, enter your desired password.\n6. Click **OK**.\n7. Re-enter the password to confirm it, then click **OK** again.\n\n### For Word 2007:\n1. **Open your document** in Word.\n2. Click on the **Microsoft Office Button** (top-left corner).\n3. Select **Prepare** > **Encrypt Document**.\n4. In the **Password** box that appears, enter your desired password.\n5. Click **OK**.\n6. Re-enter the password to confirm it, then click **OK** again.\n\n### Notes:\n- Make sure to remember the password, as Word does not provide any way to recover a forgotten password.\n- Password protection in Word is not extremely secure. For highly sensitive documents, consider using additional security measures or encryption tools.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:23:27.408761+02:00",
+  "durationSeconds": 8.81,
+  "stats": "mistral-small3.2:latest · 519 + 369 tokens · 8,8 s",
+  "isError": false,
+  "language": "EN"
+}

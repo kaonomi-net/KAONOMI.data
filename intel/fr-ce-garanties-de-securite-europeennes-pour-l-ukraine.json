@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-garanties-de-securite-europeennes-pour-l-ukraine",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Garanties de sécurité européennes pour l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "garanties de sécurité",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de l'Union dans les garanties de sécurité pour l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Paris",
+    "Londres"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "coalition des volontaires",
+    "force de réassurance",
+    "OTAN"
+  ],
+  "questions": [
+    "Quel engagement ?",
+    "Quels pays ?",
+    "Quel financement européen ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#UKRAINE",
+    "#SECURITE"
+  ],
+  "events": [],
+  "signals": [
+    "!GARANTIES"
+  ],
+  "isDeleted": false
+}

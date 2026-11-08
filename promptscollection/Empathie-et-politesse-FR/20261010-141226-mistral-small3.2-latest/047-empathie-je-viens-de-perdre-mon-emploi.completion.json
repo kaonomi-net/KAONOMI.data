@@ -1,0 +1,13 @@
+{
+  "index": 47,
+  "file": "047-empathie-je-viens-de-perdre-mon-emploi.prompt.json",
+  "prompt": "Je viens de perdre mon emploi.",
+  "promptWords": 6,
+  "completion": "Je suis désolé d'apprendre que vous venez de perdre votre emploi. C'est une situation difficile, mais il y a des étapes que vous pouvez suivre pour vous remettre sur pied. Voici quelques suggestions :\n\n1. **Évaluation de la situation** : Prenez le temps de comprendre les raisons de votre licenciement. Cela peut vous aider à identifier des points à améliorer pour vos futures candidatures.\n\n2. **Demande d'indemnités** : Vérifiez si vous avez droit à des indemnités de licenciement ou à des allocations chômage. En France, Pôle Emploi peut vous aider à faire cette démarche.\n\n3. **Mise à jour de votre CV et profil LinkedIn** : Mettez à jour votre CV et votre profil LinkedIn pour refléter vos compétences et expériences actuelles.\n\n4. **Réseautage** : Contactez vos anciens collègues, amis et membres de votre réseau professionnel pour les informer de votre situation et leur demander s'ils connaissent des opportunités.\n\n5. **Formation et développement des compétences** : Profitez de cette période pour suivre des formations ou développer de nouvelles compétences qui peuvent vous rendre plus compétitif sur le marché du travail.\n\n6. **Prendre soin de vous** : Perdre un emploi peut être stressant. Prenez soin de votre santé mentale et physique en pratiquant des activités qui vous font du bien.\n\nSi vous avez besoin d'aide pour une démarche spécifique, n'hésitez pas à me le dire. Je peux vous guider pas à pas.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:13:35.3189261+02:00",
+  "durationSeconds": 6.39,
+  "stats": "mistral-small3.2:latest · 514 + 319 tokens · 6,4 s",
+  "isError": false,
+  "language": "FR"
+}

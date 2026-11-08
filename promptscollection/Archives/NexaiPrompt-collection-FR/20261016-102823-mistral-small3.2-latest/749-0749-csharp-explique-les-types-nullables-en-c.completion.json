@@ -1,0 +1,13 @@
+{
+  "index": 749,
+  "file": "0749-csharp-explique-les-types-nullables-en-c.prompt.json",
+  "prompt": "Explique les types nullables en C# avec un exemple simple.",
+  "promptWords": 10,
+  "completion": "Les types nullables en C# permettent de représenter des valeurs qui peuvent être soit un type de valeur standard (comme `int`, `bool`, etc.), soit `null`. Cela est particulièrement utile lorsque vous travaillez avec des données qui peuvent ne pas avoir de valeur définie, comme les résultats de requêtes de base de données ou les entrées utilisateur optionnelles.\n\n### Déclaration d'un type nullable\nPour déclarer un type nullable, vous ajoutez un point d'interrogation (`?`) après le type de base. Par exemple, `int?` est un type nullable qui peut contenir un `int` ou `null`.\n\n### Exemple simple\nVoici un exemple simple qui montre comment utiliser un type nullable :\n\n```csharp\nusing System;\n\nclass Program\n{\n    static void Main()\n    {\n        int? nombreNullable = null; // Déclaration d'un type nullable\n\n        if (nombreNullable.HasValue) // Vérifie si la valeur n'est pas null\n        {\n            Console.WriteLine(\"La valeur est : \" + nombreNullable.Value);\n        }\n        else\n        {\n            Console.WriteLine(\"La valeur est null\");\n        }\n\n        // Exemple avec une valeur\n        nombreNullable = 42;\n        Console.WriteLine(\"La valeur est maintenant : \" + nombreNullable.Value);\n    }\n}\n```\n\n### Explication\n1. **Déclaration** : `int? nombreNullable = null;` déclare une variable nullable de type `int` et l'initialise à `null`.\n2. **Vérification de la valeur** : `nombreNullable.HasValue` retourne `true` si la variable a une valeur (autre que `null`), sinon `false`.\n3. **Accès à la valeur** : `nombreNullable.Value` retourne la valeur de la variable si elle n'est pas `null`. Si elle est `null`, cela lancera une exception `InvalidOperationException`.\n\n### Utilisation avec l'opérateur de coalescence nulle (`??`)\nVous pouvez également utiliser l'opérateur de coalescence nulle (`??`) pour fournir une valeur par défaut si la variable est `null` :\n\n```csharp\nint valeurParDefaut = nombreNullable ?? 0;\nConsole.WriteLine(\"Valeur par défaut : \" + valeurParDefaut);\n```\n\nDans cet exemple, si `nombreNullable` est `null`, `valeurParDefaut` prendra la valeur `0`.\n\nLes types nullables sont très utiles pour éviter les exceptions `NullReferenceException` et pour gérer les cas où les données peuvent être absentes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:02:24.4716158+02:00",
+  "durationSeconds": 10.55,
+  "stats": "mistral-small3.2:latest · 521 + 527 tokens · 10,5 s",
+  "isError": false,
+  "language": "FR"
+}

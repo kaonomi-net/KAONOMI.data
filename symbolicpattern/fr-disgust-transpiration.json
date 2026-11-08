@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-transpiration",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La sueur et son odeur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:transpiration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sueur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:odeur(s)?\\s+de\\s+transpiration)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:aisselle(s)?\\s+qui\\s+sent(ent)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dessous\\s+de\\s+bras)(?![\\w-])"
+  ],
+  "symbol": "transpiration",
+  "event": null,
+  "title": "Transpiration",
+  "tags": [
+    "#DISGUST",
+    "#ODEUR",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

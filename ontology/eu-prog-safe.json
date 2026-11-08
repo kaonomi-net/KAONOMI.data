@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la défense européenne) : Instrument de prêts jusqu'à 150 milliards d'euros pour des achats communs de défense, issu du plan ReArm Europe.",
+  "id": "eu-prog-safe",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Instrument SAFE (Action pour la sécurité de l'Europe)",
+  "entityType": "PROGRAMME",
+  "description": "Instrument de prêts jusqu'à 150 milliards d'euros pour des achats communs de défense, issu du plan ReArm Europe.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Le bilan de « Instrument SAFE (Action pour la sécurité de l'Europe) » a été présenté au Parlement européen.",
+    "« Instrument SAFE (Action pour la sécurité de l'Europe) » finance des projets dans la défense européenne.",
+    "Le projet a reçu un financement de « Instrument SAFE (Action pour la sécurité de l'Europe) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "SAFE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#DEFENSEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Instrument%20SAFE%20%28Action%20pour%20la%20s%C3%A9curit%C3%A9%20de%20l%27Europe%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de l'industrie de la défense et de l'espace",
+    "Défense",
+    "Plan ReArm Europe / Préparation 2030"
+  ],
+  "isDeleted": false,
+  "startDate": "2025-05-27T00:00:00",
+  "endDate": null
+}

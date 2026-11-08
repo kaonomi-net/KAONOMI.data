@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-nice-apres-les-municipales",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Nice après les municipales",
+  "includedEntities": [
+    {
+      "entityName": "Nice",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "métropole",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la gouvernance de Nice après l'élection d'Éric Ciotti.",
+  "isFuzzy": true,
+  "locations": [
+    "Nice"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Christian Estrosi",
+    "métropole",
+    "sécurité"
+  ],
+  "questions": [
+    "Quelles décisions ?",
+    "Quelles tensions ?",
+    "Quel rôle national ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#NICE",
+    "#MUNICIPALES"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

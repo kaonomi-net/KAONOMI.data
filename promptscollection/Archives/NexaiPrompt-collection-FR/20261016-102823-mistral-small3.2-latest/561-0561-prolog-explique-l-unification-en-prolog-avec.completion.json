@@ -1,0 +1,13 @@
+{
+  "index": 561,
+  "file": "0561-prolog-explique-l-unification-en-prolog-avec.prompt.json",
+  "prompt": "Explique l'unification en Prolog avec un exemple simple.",
+  "promptWords": 8,
+  "completion": "L'unification en Prolog est un mécanisme fondamental qui permet de comparer et d'associer des termes (atomes, variables, structures) en rendant égaux des termes qui ne le sont pas initialement. Cela se fait en affectant des valeurs aux variables pour que les deux termes deviennent identiques.\n\n### Exemple simple d'unification\n\nConsidérons deux termes :\n1. `f(X, a)`\n2. `f(b, Y)`\n\nNous voulons unifier ces deux termes, c'est-à-dire trouver une substitution pour `X` et `Y` qui rend les deux termes identiques.\n\n1. **Comparaison des têtes** : Les deux termes commencent par le même foncteur `f/2` (foncteur `f` avec 2 arguments), donc on peut continuer.\n2. **Unification des arguments** :\n   - Premier argument : `X` et `b`\n     - `X` est une variable libre, donc on peut l'unifier avec `b`. On obtient la substitution `X = b`.\n   - Deuxième argument : `a` et `Y`\n     - `Y` est une variable libre, donc on peut l'unifier avec `a`. On obtient la substitution `Y = a`.\n\nAprès unification, les deux termes deviennent `f(b, a)` avec les substitutions `X = b` et `Y = a`.\n\n### Exemple en Prolog\n\nVoici un exemple de code Prolog qui utilise l'unification :\n\n```prolog\n% Règle qui unifie deux termes\nunifier(X, Y) :-\n    X = Y,\n    write('Unification réussie avec '),\n    write(X),\n    write(' = '),\n    write(Y),\n    nl.\n```\n\nSi on appelle `unifier(f(X, a), f(b, Y))`, Prolog renverra :\n\n```\nUnification réussie avec f(b, a) = f(b, a)\n```\n\n### Cas d'échec\n\nSi les termes ne peuvent pas être unifiés, Prolog échoue. Par exemple, essayer d'unifier `f(X, a)` et `g(b, Y)` échouera car les foncteurs `f` et `g` sont différents.\n\nL'unification est essentielle en Prolog pour la résolution de buts, la comparaison de motifs dans les règles, et la manipulation de structures complexes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:17:52.9490134+02:00",
+  "durationSeconds": 9.77,
+  "stats": "mistral-small3.2:latest · 520 + 490 tokens · 9,8 s",
+  "isError": false,
+  "language": "FR"
+}

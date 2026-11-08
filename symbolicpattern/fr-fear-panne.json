@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-panne",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'arrêt brutal des systèmes informatiques.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:panne(s)?\\s+informatique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:panne(s)?\\s+g[ée]ante(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:panne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bug(s)?\\s+g[ée]ant(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:syst[èe]mes\\s+en\\s+panne)(?![\\w-])"
+  ],
+  "symbol": "panne",
+  "event": null,
+  "title": "Panne",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

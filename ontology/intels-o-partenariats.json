@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-partenariats",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "partenariats",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Dubravka Šuica et la Méditerranée.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'action de la commissaire chargée de la Méditerranée."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "partenariats",
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#MEDITERRANEE",
+    "#SUICA"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "pacte pour la Méditerranée",
+    "Dubravka Šuica",
+    "Méditerranée",
+    "Bruxelles",
+    "migrations"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

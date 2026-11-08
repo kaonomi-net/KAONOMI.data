@@ -1,0 +1,13 @@
+{
+  "index": 179,
+  "file": "0179-microsoft-office-how-do-i-add-a-planner.prompt.json",
+  "prompt": "How do I add a Planner board in Teams?",
+  "promptWords": 9,
+  "completion": "To add a Planner board in Microsoft Teams, follow these steps:\n\n1. **Open Microsoft Teams**: Launch the Teams application on your desktop or access it through the web browser.\n\n2. **Select a Team**: Choose the team where you want to add the Planner board.\n\n3. **Go to the \"General\" Channel**: By default, the \"General\" channel is available in every team. You can add the Planner tab here or in any other channel of your choice.\n\n4. **Add a New Tab**:\n   - Click on the \"+\" (Add a tab) button at the top of the channel.\n   - In the search bar, type \"Planner\" and select the Planner app from the list.\n\n5. **Create a New Plan**:\n   - Click on \"Add\" to create a new Planner board.\n   - You will be prompted to either create a new plan or select an existing one from your Planner.\n   - Choose the option that suits your needs.\n\n6. **Name Your Plan**: Give your Planner board a name and click \"Save\".\n\n7. **Access Your Planner Board**: The Planner board will now appear as a tab in the selected channel. You can click on it to view and manage your tasks.\n\nIf you encounter any issues or need further assistance, feel free to ask!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:35:59.0378173+02:00",
+  "durationSeconds": 7.5,
+  "stats": "mistral-small3.2:latest · 518 + 274 tokens · 7,5 s",
+  "isError": false,
+  "language": "EN"
+}

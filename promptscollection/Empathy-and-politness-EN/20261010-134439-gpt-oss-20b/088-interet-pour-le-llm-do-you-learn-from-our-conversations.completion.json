@@ -1,0 +1,13 @@
+{
+  "index": 88,
+  "file": "088-interet-pour-le-llm-do-you-learn-from-our-conversations.prompt.json",
+  "prompt": "Do you learn from our conversations?",
+  "promptWords": 6,
+  "completion": "I don’t retain or remember the details of any individual conversation after it ends.  \nEach session is treated as a separate interaction, and I don’t “learn” from it in the sense of storing personal data or updating my knowledge base in real‑time.  \n\nOpenAI does use aggregated, anonymized data from many conversations to help improve models over time, but that process is separate from any single chat and does not involve identifying or saving your personal information. Your privacy and confidentiality are respected.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:49:08.4473497+02:00",
+  "durationSeconds": 1.47,
+  "stats": "gpt-oss:20b · 74 + 194 tokens · 1,5 s",
+  "isError": false,
+  "language": "EN"
+}

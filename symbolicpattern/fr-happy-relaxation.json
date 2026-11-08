@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-relaxation",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une méthode pour se détendre.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:relaxation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[ée]ditation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:yoga(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:massage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:spa(s)?)(?![\\w-])"
+  ],
+  "symbol": "relaxation",
+  "event": null,
+  "title": "Relaxation",
+  "tags": [
+    "#BIENETRE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-instrument-anti-coercition",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Instrument anti-coercition",
+  "includedEntities": [
+    {
+      "entityName": "instrument anti-coercition",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "riposte",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller l'usage de l'instrument européen contre la coercition économique.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "États-Unis",
+    "Chine",
+    "sanctions"
+  ],
+  "questions": [
+    "Est-il activé ?",
+    "Contre qui ?",
+    "Quelles mesures ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#ANTI-COERCITION"
+  ],
+  "events": [
+    "@DECISION-UE"
+  ],
+  "signals": [
+    "!TENSION-COMMERCIALE"
+  ],
+  "isDeleted": false
+}

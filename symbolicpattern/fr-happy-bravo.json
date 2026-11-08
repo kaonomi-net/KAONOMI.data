@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-bravo",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une acclamation d'approbation.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bravo(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bien\\s+jou[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:super\\s+boulot)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:g[ée]nial)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:youpi)(?![\\w-])"
+  ],
+  "symbol": "bravo",
+  "event": null,
+  "title": "Bravo",
+  "tags": [
+    "#FETE",
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

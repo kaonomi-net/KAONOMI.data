@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-turkstream",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "TurkStream",
+  "entityType": "LOCATION",
+  "description": "Cité par 2 intels : Transit du gaz par l'Ukraine ; Gazoduc TurkStream.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre la fin du transit de gaz russe par l'Ukraine et ses conséquences.",
+    "Suivre le dernier gazoduc acheminant du gaz russe vers l'Europe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "TurkStream",
+  "tags": [
+    "#ENERGIE",
+    "#GAZ",
+    "#UKRAINE",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION-ENERGETIQUE",
+    "!DEPENDANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Gazprom",
+    "Hongrie",
+    "Ukraine",
+    "Slovaquie",
+    "Naftogaz",
+    "Transnistrie",
+    "transit du gaz",
+    "Serbie",
+    "attaques de drones",
+    "gazoduc"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

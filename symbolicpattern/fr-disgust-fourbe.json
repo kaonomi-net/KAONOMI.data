@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-fourbe",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui feint ce qu'il n'est pas.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:hypocrite(s)?\\s+de\\s+premi[èe]re)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:faux\\s+jeton(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:langue\\s+de\\s+vip[èe]re)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sainte\\s+nitouche)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fourbe(s)?)(?![\\w-])"
+  ],
+  "symbol": "fourbe",
+  "event": null,
+  "title": "Fourbe",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

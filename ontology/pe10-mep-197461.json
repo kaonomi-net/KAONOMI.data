@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Allemagne.",
+  "id": "pe10-mep-197461",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Katrin Langensiepen",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Allemagne. Groupe politique : Les Verts/Alliance libre européenne. Parti ou liste national : Bündnis 90/Die Grünen.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Katrin Langensiepen participe aux travaux des commissions parlementaires.",
+    "Katrin Langensiepen siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Katrin Langensiepen figure dans le relevé des votes par appel nominal."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Katrin LANGENSIEPEN"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/197461",
+    "https://fr.wikipedia.org/w/index.php?search=Katrin%20Langensiepen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Allemagne",
+    "Parlement européen",
+    "Les Verts/Alliance libre européenne",
+    "Bündnis 90/Die Grünen"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

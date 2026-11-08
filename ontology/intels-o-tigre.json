@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-tigre",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "Tigré",
+  "entityType": "LOCATION",
+  "description": "Cité par 1 intel : Éthiopie et Corne de l'Afrique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Surveiller les tensions en Éthiopie et dans la Corne de l'Afrique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Tigré",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ETHIOPIE",
+    "#AFRIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Éthiopie",
+    "Érythrée",
+    "Addis-Abeba",
+    "Somalie",
+    "Amhara",
+    "accès à la mer"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

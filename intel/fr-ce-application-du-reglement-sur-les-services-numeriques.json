@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-application-du-reglement-sur-les-services-numeriques",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Application du règlement sur les services numériques",
+  "includedEntities": [
+    {
+      "entityName": "DSA",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "services numériques",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "enquête",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les enquêtes et sanctions au titre du règlement sur les services numériques.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "X",
+    "Meta",
+    "TikTok"
+  ],
+  "questions": [
+    "Quelle plateforme ?",
+    "Quelle infraction ?",
+    "Quelle amende ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DSA",
+    "#PLATEFORMES"
+  ],
+  "events": [
+    "@DECISION"
+  ],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

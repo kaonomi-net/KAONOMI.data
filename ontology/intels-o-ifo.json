@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ifo",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "Ifo",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Économie allemande.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'économie allemande, premier partenaire de la France et de la Belgique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Ifo",
+  "tags": [
+    "#ECONOMIE",
+    "#ALLEMAGNE"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Allemagne",
+    "économie allemande",
+    "plan d'investissement",
+    "industrie",
+    "Berlin"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

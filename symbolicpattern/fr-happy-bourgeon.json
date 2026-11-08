@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-bourgeon",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La pousse qui va devenir feuille ou fleur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bourgeon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bourgeonn(er|e|ent|ant|ement)|jeune(s)?\\s+pousse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rameau(x)?)(?![\\w-])"
+  ],
+  "symbol": "bourgeon",
+  "event": null,
+  "title": "Bourgeon",
+  "tags": [
+    "#NATURE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

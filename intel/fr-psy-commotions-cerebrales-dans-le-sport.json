@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-commotions-cerebrales-dans-le-sport",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Commotions cérébrales dans le sport",
+  "includedEntities": [
+    {
+      "entityName": "commotion cérébrale",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sport",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les effets des commotions cérébrales chez les sportifs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "rugby",
+    "football américain",
+    "encéphalopathie"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel cas ?",
+    "Quelle règle ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SPORT",
+    "#NEUROLOGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE"
+  ],
+  "isDeleted": false
+}

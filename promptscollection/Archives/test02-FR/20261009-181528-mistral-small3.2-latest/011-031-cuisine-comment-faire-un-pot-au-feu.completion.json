@@ -1,0 +1,13 @@
+{
+  "index": 11,
+  "file": "031-cuisine-comment-faire-un-pot-au-feu.prompt.json",
+  "prompt": "Comment faire un pot-au-feu ?",
+  "promptWords": 5,
+  "completion": "Le pot-au-feu est un classique de la cuisine française, réconfortant et savoureux. Voici une recette traditionnelle pour le préparer :\n\n### Ingrédients (pour 6 personnes) :\n- 1,5 kg de viande à pot-au-feu (gîte, joue, paleron, ou un mélange)\n- 4 carottes\n- 3 navets\n- 2 poireaux\n- 2 oignons\n- 1 bouquet garni (thym, laurier, persil)\n- 10 grains de poivre\n- 2 clous de girofle\n- Sel\n- Eau\n\n### Préparation :\n\n1. **Préparer la viande** :\n   - Rincez la viande sous l'eau froide et essuyez-la avec du papier absorbant.\n   - Coupez-la en gros morceaux.\n\n2. **Faire mijoter la viande** :\n   - Placez la viande dans une grande cocotte ou une marmite.\n   - Couvrez d'eau froide (environ 3 litres) et portez à ébullition.\n   - Écumez régulièrement pendant les 20 premières minutes pour enlever les impuretés.\n\n3. **Ajouter les légumes et les aromates** :\n   - Épluchez et lavez les légumes. Coupez les carottes et les navets en gros tronçons, les poireaux en deux dans le sens de la longueur, et les oignons en quartiers.\n   - Ajoutez les légumes et les aromates (bouquet garni, poivre, clous de girofle) dans la cocotte.\n   - Salez modérément (la viande va rendre du sel).\n\n4. **Cuisson lente** :\n   - Baissez le feu et laissez mijoter à feu doux pendant environ 2 heures et demie à 3 heures.\n   - La viande doit être tendre et les légumes fondants.\n\n5. **Dressage** :\n   - Retirez la viande et les légumes avec une écumoire et disposez-les dans un plat.\n   - Filtrez le bouillon à travers une passoire fine pour enlever les aromates et les impuretés.\n\n6. **Service** :\n   - Servez la viande et les légumes avec du bouillon bien chaud.\n   - Accompagnez de gros sel, de cornichons et de moutarde à l'ancienne si vous le souhaitez.\n\n### Astuces :\n- Vous pouvez préparer le pot-au-feu la veille pour que les saveurs se développent encore plus.\n- Le bouillon peut être utilisé pour une soupe ou pour cuire des pâtes.\n\nBon appétit !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T18:17:18.9745311+02:00",
+  "durationSeconds": 12.68,
+  "stats": "mistral-small3.2:latest · 515 + 569 tokens · 12,7 s",
+  "isError": false,
+  "language": "FR"
+}

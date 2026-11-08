@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-accord-de-libre-echange-avec-l-inde",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Accord de libre-échange avec l'Inde",
+  "includedEntities": [
+    {
+      "entityName": "Inde",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "libre-échange",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la négociation de l'accord de libre-échange entre l'Union et l'Inde.",
+  "isFuzzy": true,
+  "locations": [
+    "New Delhi",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Modi",
+    "tarifs",
+    "services"
+  ],
+  "questions": [
+    "Un accord est-il conclu ?",
+    "Quels secteurs ?",
+    "Quels points durs ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#INDE"
+  ],
+  "events": [
+    "@ACCORD"
+  ],
+  "signals": [
+    "!COMMERCE"
+  ],
+  "isDeleted": false
+}

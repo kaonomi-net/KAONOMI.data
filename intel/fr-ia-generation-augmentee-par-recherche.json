@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-generation-augmentee-par-recherche",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Génération augmentée par recherche",
+  "includedEntities": [
+    {
+      "entityName": "RAG",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "recherche",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "documents",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les systèmes qui combinent recherche documentaire et modèles de langage.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "base vectorielle",
+    "embeddings",
+    "entreprise"
+  ],
+  "questions": [
+    "Quelles sources ?",
+    "Quelle fiabilité ?",
+    "Quelle confidentialité ?"
+  ],
+  "tags": [
+    "#IA",
+    "#RAG",
+    "#ARCHITECTURE"
+  ],
+  "events": [],
+  "signals": [
+    "!OPPORTUNITE"
+  ],
+  "isDeleted": false
+}

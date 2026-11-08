@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'administration européenne) : Office pour les infrastructures et la logistique à Bruxelles (OIB), service de la Commission européenne compétent pour l'administration européenne, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "id": "eu-dg-oib",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Office pour les infrastructures et la logistique à Bruxelles",
+  "entityType": "ORGANISATION",
+  "description": "Office pour les infrastructures et la logistique à Bruxelles (OIB), service de la Commission européenne compétent pour l'administration européenne, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Office pour les infrastructures et la logistique à Bruxelles ».",
+    "« Office pour les infrastructures et la logistique à Bruxelles » joue un rôle dans l'administration européenne.",
+    "Les fonctionnaires de « Office pour les infrastructures et la logistique à Bruxelles » préparent les textes relatifs à l'administration européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "OIB"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#ADMINISTRATIONEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Office%20pour%20les%20infrastructures%20et%20la%20logistique%20%C3%A0%20Bruxelles"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Piotr Serafin",
+    "Administration"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

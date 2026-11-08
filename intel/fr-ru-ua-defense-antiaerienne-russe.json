@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-defense-antiaerienne-russe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Défense antiaérienne russe",
+  "includedEntities": [
+    {
+      "entityName": "défense antiaérienne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "S-400",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Pantsir",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les pertes et les failles de la défense antiaérienne russe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "radars",
+    "drones",
+    "missiles"
+  ],
+  "questions": [
+    "Quel système détruit ?",
+    "Quelle faille ?",
+    "Quel redéploiement ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#DEFENSE-ANTIAERIENNE"
+  ],
+  "events": [],
+  "signals": [
+    "!VULNERABILITE"
+  ],
+  "isDeleted": false
+}

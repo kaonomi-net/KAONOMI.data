@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-edf-et-nucleaire-francais",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "EDF et nucléaire français",
+  "includedEntities": [
+    {
+      "entityName": "EDF",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "nucléaire",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre EDF, ses réacteurs et sa dette.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "EPR2",
+    "production",
+    "dette"
+  ],
+  "questions": [
+    "Quelle production ?",
+    "Quel coût ?",
+    "Quel financement ?"
+  ],
+  "tags": [
+    "#ENERGIE",
+    "#NUCLEAIRE",
+    "#FRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!ENERGIE"
+  ],
+  "isDeleted": false
+}

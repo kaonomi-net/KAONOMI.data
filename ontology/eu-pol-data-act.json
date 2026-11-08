@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la transformation numérique) : Règlement (UE) 2023/2854 sur l'accès équitable aux données et leur utilisation.",
+  "id": "eu-pol-data-act",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Règlement sur les données",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2023/2854 sur l'accès équitable aux données et leur utilisation.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les entreprises doivent tenir compte de « Règlement sur les données ».",
+    "« Règlement sur les données » relève de la transformation numérique.",
+    "« Règlement sur les données » a fait l'objet de longues négociations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "Data Act"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#TRANSFORMATIONNUMERIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A8glement%20sur%20les%20donn%C3%A9es"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Numérique",
+    "Direction générale des réseaux de communication, du contenu et des technologies",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-12-13T00:00:00",
+  "endDate": null
+}

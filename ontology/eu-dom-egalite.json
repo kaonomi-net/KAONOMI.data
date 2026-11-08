@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (l'égalité) : Égalité entre les femmes et les hommes et lutte contre toutes les discriminations.",
+  "id": "eu-dom-egalite",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Égalité",
+  "entityType": "DOMAIN",
+  "description": "Égalité entre les femmes et les hommes et lutte contre toutes les discriminations.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Plusieurs commissaires ont été chargés du domaine « Égalité ».",
+    "Le domaine « Égalité » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Égalité »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#EGALITE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89galit%C3%A9"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission des droits des femmes et de l'égalité des genres (FEMM)",
+    "Égalité (Commission von der Leyen I)",
+    "Helena Dalli",
+    "Préparation et gestion des crises ; égalité (Commission von der Leyen II)",
+    "Hadja Lahbib",
+    "Justice, consommateurs et égalité des genres (Commission Juncker)",
+    "Věra Jourová",
+    "Institut européen pour l'égalité entre les hommes et les femmes (EIGE)",
+    "Directive sur l'équilibre entre les femmes et les hommes dans les conseils d'administration",
+    "Directive sur la transparence des rémunérations",
+    "Programme Citoyens, égalité, droits et valeurs",
+    "Sofagate"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

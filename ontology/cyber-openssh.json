@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (l'administration sécurisée) : Implémentation libre de SSH par le projet OpenBSD, présente sur la plupart des systèmes Unix.",
+  "id": "cyber-openssh",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "OpenSSH",
+  "entityType": "SOFTWARE",
+  "description": "Implémentation libre de SSH par le projet OpenBSD, présente sur la plupart des systèmes Unix.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé OpenSSH avec d'autres outils de l'administration sécurisée.",
+    "OpenSSH figure parmi les logiciels marquants de l'administration sécurisée.",
+    "En atelier, les élèves ont découvert OpenSSH et son fonctionnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "OpenSSH"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#ADMINISTRATIONSECURISEE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=OpenSSH"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "SSH",
+    "Ed25519"
+  ],
+  "isDeleted": false,
+  "startDate": "1999-01-01T00:00:00",
+  "endDate": null
+}

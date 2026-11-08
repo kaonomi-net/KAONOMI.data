@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-ia",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'intelligence artificielle et la peur qu'elle inspire.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ia)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:intelligence(s)?\\s+artificielle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:i\\.a\\.)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ia\\s+g[ée]n[ée]rative)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ia\\s+forte)(?![\\w-])"
+  ],
+  "symbol": "IA",
+  "event": null,
+  "title": "IA",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

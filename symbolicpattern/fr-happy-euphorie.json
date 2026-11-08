@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-euphorie",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un sentiment intense de bien-être.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:euphorie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:euphorique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exalt[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sur\\s+un\\s+petit\\s+nuage)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:au\\s+septi[èe]me\\s+ciel)(?![\\w-])"
+  ],
+  "symbol": "euphorie",
+  "event": null,
+  "title": "Euphorie",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

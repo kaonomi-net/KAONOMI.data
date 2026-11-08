@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-rancongiciel-contre-isae-supmeca",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Rançongiciel contre ISAE-Supméca",
+  "includedEntities": [
+    {
+      "entityName": "ISAE-Supméca",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "rançongiciel",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'attaque par rançongiciel du 31 octobre 2026 contre l'école d'ingénieurs ISAE-Supméca.",
+  "isFuzzy": true,
+  "locations": [
+    "Saint-Ouen"
+  ],
+  "times": [
+    "31 octobre 2026"
+  ],
+  "relatedEntities": [
+    "étudiants",
+    "systèmes",
+    "revendication"
+  ],
+  "questions": [
+    "Quel groupe ?",
+    "Quel impact ?",
+    "Quelle reprise ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#EDUCATION",
+    "#RANCONGICIEL"
+  ],
+  "events": [
+    "@RANCONGICIEL"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

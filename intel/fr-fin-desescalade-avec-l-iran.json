@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-desescalade-avec-l-iran",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Désescalade avec l'Iran",
+  "includedEntities": [
+    {
+      "entityName": "désescalade",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Iran",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "négociations",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les espoirs de désescalade avec l'Iran et leur effet sur les marchés.",
+  "isFuzzy": true,
+  "locations": [
+    "Téhéran",
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Ormuz",
+    "pétrole",
+    "sanctions"
+  ],
+  "questions": [
+    "Quelle avancée ?",
+    "Quel effet sur le pétrole ?",
+    "Quel démenti ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#IRAN",
+    "#BOURSE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

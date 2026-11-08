@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-sur-des-depots-de-munitions-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes sur des dépôts de munitions russes",
+  "includedEntities": [
+    {
+      "entityName": "dépôt de munitions",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "explosion",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les explosions de dépôts de munitions en Russie et dans les zones occupées.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "drones",
+    "images satellites",
+    "secondaires"
+  ],
+  "questions": [
+    "Quel dépôt ?",
+    "Quels dégâts ?",
+    "Quelle confirmation ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#FRAPPES",
+    "#MUNITIONS"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-istanbul",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Istanbul",
+  "entityType": "CITY",
+  "description": "Cité par 3 intels : Délégation russe menée par Medinski ; Médiation de la Turquie ; Négociations de paix entre la Russie et l'Ukraine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre le rôle de Vladimir Medinski, négociateur en chef de Moscou.",
+    "Suivre le rôle de médiateur de la Turquie entre Moscou et Kyiv.",
+    "Suivre les pourparlers et propositions de cessez-le-feu entre la Russie et l'Ukraine."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Istanbul",
+  "tags": [
+    "#RUSSIE",
+    "#UKRAINE",
+    "#NEGOCIATIONS",
+    "#KREMLIN",
+    "#TURQUIE",
+    "#MEDIATION"
+  ],
+  "events": [
+    "@DECLARATION",
+    "@NEGOCIATIONS"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!DESESCALADE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ukraine",
+    "Turquie",
+    "pourparlers",
+    "Kremlin",
+    "Abou Dhabi",
+    "délégation",
+    "Medinski",
+    "médiation",
+    "échanges de prisonniers",
+    "Erdogan"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

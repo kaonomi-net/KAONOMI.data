@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-majorite-de-von-der-leyen-au-parlement",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Majorité de von der Leyen au Parlement",
+  "includedEntities": [
+    {
+      "entityName": "majorité",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Parti populaire européen",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "sociaux-démocrates",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la coalition qui soutient la Commission au Parlement européen.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "PPE",
+    "S&D",
+    "Renew"
+  ],
+  "questions": [
+    "La majorité tient-elle ?",
+    "Quel vote fracture ?",
+    "Avec qui le PPE vote-t-il ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#MAJORITE",
+    "#COMMISSION-EUROPEENNE"
+  ],
+  "events": [],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

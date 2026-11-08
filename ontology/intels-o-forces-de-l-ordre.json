@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-forces-de-l-ordre",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "forces de l'ordre",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Déplacements de Macron en France ; Macron et la sécurité ; Suicide des policiers.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les déplacements du président dans le pays.",
+    "Suivre les prises de position du président sur la sécurité.",
+    "Suivre la prévention du suicide chez les policiers et gendarmes."
+  ],
+  "angryLevel": null,
+  "sadLevel": 33,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "forces de l'ordre",
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#SECURITE",
+    "#AGENDA",
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE"
+  ],
+  "events": [
+    "@DEPLACEMENT"
+  ],
+  "signals": [
+    "!COMMUNICATION",
+    "!SECURITE",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Emmanuel Macron",
+    "entreprises",
+    "déplacement",
+    "régions",
+    "élus locaux",
+    "narcotrafic",
+    "justice",
+    "sécurité",
+    "Marseille",
+    "Trappes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-dollar",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "dollar",
+  "entityType": "PRODUCT",
+  "description": "Cité par 6 intels : Dédollarisation ; Cours de l'or ; Euro face au dollar ; Affaiblissement du dollar ; Yuan chinois ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre les initiatives pour réduire la place du dollar.",
+    "Suivre le cours de l'or.",
+    "Suivre le taux de change euro-dollar."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "dollar",
+  "tags": [
+    "#CHANGE",
+    "#DOLLAR",
+    "#GEOPOLITIQUE",
+    "#FINANCE",
+    "#MONNAIE",
+    "#MATIERES-PREMIERES"
+  ],
+  "events": [],
+  "signals": [
+    "!CHANGE",
+    "!MULTIPOLARITE",
+    "!REFUGE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "or",
+    "yuan",
+    "BCE",
+    "Fed",
+    "BRICS",
+    "dédollarisation",
+    "once",
+    "valeur refuge",
+    "géopolitique",
+    "banques centrales"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

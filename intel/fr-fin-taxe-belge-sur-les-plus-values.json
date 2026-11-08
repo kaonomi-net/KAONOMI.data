@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-taxe-belge-sur-les-plus-values",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Taxe belge sur les plus-values",
+  "includedEntities": [
+    {
+      "entityName": "taxe sur les plus-values",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Belgique",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'application de la taxe belge de 10 % sur les plus-values financières.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "depuis 2026"
+  ],
+  "relatedEntities": [
+    "Jan Jambon",
+    "banques",
+    "épargnants"
+  ],
+  "questions": [
+    "Quelles modalités ?",
+    "Quel rendement ?",
+    "Quelle réaction des investisseurs ?"
+  ],
+  "tags": [
+    "#BELGIQUE",
+    "#FISCALITE",
+    "#EPARGNE"
+  ],
+  "events": [],
+  "signals": [
+    "!FISCALITE"
+  ],
+  "isDeleted": false
+}

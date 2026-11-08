@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-remplacement-des-emplois-par-l-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Remplacement des emplois par l'IA",
+  "includedEntities": [
+    {
+      "entityName": "emplois",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "remplacement",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les études sur l'impact de l'IA sur l'emploi.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "OCDE",
+    "FMI",
+    "métiers"
+  ],
+  "questions": [
+    "Quels métiers menacés ?",
+    "Quels métiers créés ?",
+    "Quelle formation ?"
+  ],
+  "tags": [
+    "#IA",
+    "#EMPLOI",
+    "#SOCIETE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE-SOCIAL",
+    "!FEAR"
+  ],
+  "isDeleted": false
+}

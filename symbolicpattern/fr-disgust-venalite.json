@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-venalite",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de se vendre pour de l'argent.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:v[ée]nalit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vendu(e|s|es)?\\s+(au\\s+plus\\s+offrant|aux\\s+lobbies)|mercantile(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[âa]pret[ée]\\s+au\\s+gain)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tout\\s+pour\\s+le\\s+fric)(?![\\w-])"
+  ],
+  "symbol": "vénalité",
+  "event": null,
+  "title": "Vénalité",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-plan",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "plan",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 3 intels : Plan pour une énergie abordable ; Plan pour l'acier et les métaux ; Plan européen pour le logement abordable.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre le plan européen pour réduire le coût de l'énergie.",
+    "Suivre le plan d'action européen pour l'acier et les métaux.",
+    "Suivre le premier plan européen pour le logement abordable."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "plan",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENERGIE",
+    "#COMPETITIVITE",
+    "#INDUSTRIE",
+    "#ACIER",
+    "#LOGEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!ENERGIE",
+    "!STRATEGIE",
+    "!SOCIAL"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "réseaux",
+    "contrats de long terme",
+    "énergie abordable",
+    "industrie",
+    "métaux",
+    "surcapacités",
+    "acier",
+    "emplois",
+    "énergie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

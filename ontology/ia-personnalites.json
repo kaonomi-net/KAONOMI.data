@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Classe de l'ontologie : persons › Personnalités de l'IA.",
+  "id": "ia-personnalites",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Personnalités de l'IA",
+  "entityType": "PERSON",
+  "description": "Les chercheurs, ingénieurs, entrepreneurs et penseurs qui ont fait l'histoire de l'intelligence artificielle.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ontology-root-persons",
+  "sentencesExemples": [
+    "La branche « Personnalités de l'IA » de l'ontologie regroupe les entrées de ce thème.",
+    "Pour explorer « Personnalités de l'IA », ouvrez la branche dans la fenêtre de l'ontologie.",
+    "Chaque entrée de « Personnalités de l'IA » est reliée à d'autres par des relations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": true,
+  "symbol": "\uD83D\uDCC2",
+  "synonyms": [
+    "figures de l'IA",
+    "pionniers de l'IA"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ONTOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 176,
+  "file": "0176-microsoft-office-comment-partager-son-ecran-pendant-une.prompt.json",
+  "prompt": "Comment partager son écran pendant une réunion dans Teams ?",
+  "promptWords": 10,
+  "completion": "Pour partager votre écran pendant une réunion dans Microsoft Teams, suivez ces étapes :\n\n1. **Lancez ou rejoignez une réunion** : Ouvrez Teams et cliquez sur \"Réunions\" dans la barre latérale, puis sélectionnez la réunion à laquelle vous souhaitez participer.\n\n2. **Accédez aux options de partage** :\n   - Pendant la réunion, en bas de l'écran, vous verrez une barre d'outils. Cliquez sur l'icône **\"Partager\"** (représentée par un rectangle avec une flèche en haut à droite).\n\n3. **Choisissez ce que vous voulez partager** :\n   - **Écran entier** : Partagez tout ce qui s'affiche sur votre écran.\n   - **Fenêtre** : Sélectionnez une fenêtre spécifique ouverte sur votre ordinateur.\n   - **Onglet** : Partagez un onglet de votre navigateur.\n   - **PowerPoint** : Si vous avez PowerPoint installé, vous pouvez partager une présentation directement depuis Teams.\n\n4. **Démarrez le partage** : Cliquez sur l'option choisie, et votre écran sera partagé avec les participants de la réunion.\n\n5. **Contrôler le partage** :\n   - Pendant le partage, une petite barre d'outils apparaîtra en haut de l'écran. Vous pouvez y trouver des options comme **\"Arrêter le partage\"**, **\"Donner le contrôle\"** (pour permettre à un participant de contrôler votre écran), ou **\"Afficher les participants\"** pour voir qui regarde.\n\n6. **Arrêtez le partage** : Lorsque vous avez terminé, cliquez sur **\"Arrêter le partage\"** dans la barre d'outils en haut de l'écran.\n\nSi vous avez des difficultés ou si Teams ne répond pas comme prévu, assurez-vous que votre application est à jour et que vous avez les bonnes autorisations pour partager votre écran.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:59:43.111069+02:00",
+  "durationSeconds": 8.38,
+  "stats": "mistral-small3.2:latest · 518 + 415 tokens · 8,4 s",
+  "isError": false,
+  "language": "FR"
+}

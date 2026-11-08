@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-racisme-et-discriminations",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Racisme et discriminations",
+  "includedEntities": [
+    {
+      "entityName": "racisme",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "discriminations",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "antisémitisme",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les actes racistes et les politiques de lutte.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Défenseur des droits",
+    "plaintes",
+    "associations"
+  ],
+  "questions": [
+    "Combien d'actes ?",
+    "Quelle évolution ?",
+    "Quelles mesures ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DISCRIMINATIONS",
+    "#SOCIETE"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

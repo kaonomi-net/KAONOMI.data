@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique économique) : Banque centrale de la zone euro, chargée de la politique monétaire et de la supervision bancaire.",
+  "id": "eu-inst-bce",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Banque centrale européenne",
+  "entityType": "ORGANISATION",
+  "description": "Banque centrale de la zone euro, chargée de la politique monétaire et de la supervision bancaire.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-institutions",
+  "sentencesExemples": [
+    "« Banque centrale européenne » joue un rôle dans la politique économique.",
+    "Les fonctionnaires de « Banque centrale européenne » préparent les textes relatifs à la politique économique.",
+    "La délégation a rencontré des représentants de « Banque centrale européenne »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "BCE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Banque%20centrale%20europ%C3%A9enne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Banquier central",
+    "Francfort-sur-le-Main",
+    "Union européenne",
+    "Économie",
+    "Euro et union économique et monétaire",
+    "Christine Lagarde",
+    "Mario Draghi"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

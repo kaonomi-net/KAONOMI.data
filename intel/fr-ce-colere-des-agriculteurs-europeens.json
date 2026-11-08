@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-colere-des-agriculteurs-europeens",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Colère des agriculteurs européens",
+  "includedEntities": [
+    {
+      "entityName": "agriculteurs",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "manifestation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les mobilisations des agriculteurs contre la politique européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "tracteurs",
+    "Mercosur",
+    "normes"
+  ],
+  "questions": [
+    "Quelle mobilisation ?",
+    "Quelles revendications ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AGRICULTURE",
+    "#MOBILISATION"
+  ],
+  "events": [
+    "@MOBILISATION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

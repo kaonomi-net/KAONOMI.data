@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-prise-de-position-d-elon-musk-sur-l-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Prise de position d'Elon Musk sur l'IA",
+  "includedEntities": [
+    {
+      "entityName": "Elon Musk",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "xAI",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "Grok",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les déclarations et projets d'Elon Musk en IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "xAI",
+    "Grok",
+    "OpenAI"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quel procès ?",
+    "Quel nouveau modèle ?"
+  ],
+  "tags": [
+    "#IA",
+    "#PERSONNALITE",
+    "#XAI"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

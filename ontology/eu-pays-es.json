@@ -1,0 +1,59 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Pays de l'Union européenne (la politique européenne) : Espagne, État membre de l'Union européenne depuis 1986, capitale Madrid.",
+  "id": "eu-pays-es",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Espagne",
+  "entityType": "COUNTRY",
+  "description": "Espagne, État membre de l'Union européenne depuis 1986, capitale Madrid.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-etats-membres",
+  "sentencesExemples": [
+    "Le rapport de la Commission consacre un chapitre à Espagne.",
+    "Espagne participe aux décisions de de l'Union européenne.",
+    "Les fonds européens financent de nombreux projets en Espagne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF0D",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#COUNTRY",
+    "#POLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Espagne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité espagnole",
+    "Madrid",
+    "Union européenne",
+    "Alicante",
+    "Bilbao",
+    "Vigo",
+    "Torrejón de Ardoz",
+    "Barcelone",
+    "Séville",
+    "espagnol",
+    "Parti socialiste ouvrier espagnol (PSOE)",
+    "Parti populaire (PP)",
+    "Présidence espagnole du Conseil de l'UE (juillet-décembre 2023)"
+  ],
+  "isDeleted": false,
+  "startDate": "1986-01-01T00:00:00",
+  "endDate": null
+}

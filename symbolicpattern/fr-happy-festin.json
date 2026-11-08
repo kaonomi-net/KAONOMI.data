@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-festin",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un repas de fête.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:festin(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:banquet(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gueuleton(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bon\\s+repas)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ripaille(s)?)(?![\\w-])"
+  ],
+  "symbol": "festin",
+  "event": null,
+  "title": "Festin",
+  "tags": [
+    "#FETE",
+    "#PLAISIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

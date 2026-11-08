@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-pillage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le vol par la violence.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pillage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pill(er|[ée]|[ée]e|ard|ards)|razzia(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mise\\s+[àa]\\s+sac)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:saccage(s)?)(?![\\w-])"
+  ],
+  "symbol": "pillage",
+  "event": null,
+  "title": "Pillage",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

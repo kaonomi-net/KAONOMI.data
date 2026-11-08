@@ -1,0 +1,13 @@
+{
+  "index": 502,
+  "file": "0502-recherche-operationnelle-qu-est-ce-que-l-algorithme.prompt.json",
+  "prompt": "Qu'est-ce que l'algorithme de Dijkstra pour le plus court chemin ?",
+  "promptWords": 11,
+  "completion": "L'algorithme de Dijkstra est un algorithme conçu pour trouver le plus court chemin entre un sommet de départ et tous les autres sommets d'un graphe pondéré. Il a été proposé par le mathématicien néerlandais Edsger Dijkstra en 1956.\n\n### Principes de base :\n1. **Graphe pondéré** : L'algorithme fonctionne sur un graphe où chaque arête a un poids (ou coût) associé, généralement représentant une distance ou un temps.\n2. **Départ et arrivée** : Il calcule le chemin le plus court depuis un sommet source vers tous les autres sommets du graphe.\n3. **Pas à pas** : Il explore les sommets de manière itérative, en mettant à jour les distances minimales connues depuis le sommet de départ.\n\n### Fonctionnement :\n1. **Initialisation** :\n   - La distance du sommet de départ est fixée à 0.\n   - Les distances des autres sommets sont initialisées à l'infini (ou une valeur très grande).\n   - Un ensemble de sommets \"visités\" est initialisé comme vide.\n\n2. **Exploration** :\n   - À chaque étape, le sommet non visité avec la distance minimale depuis le sommet de départ est sélectionné.\n   - Pour ce sommet, les distances vers ses voisins sont mises à jour si un chemin plus court est trouvé.\n   - Le sommet est marqué comme visité.\n\n3. **Terminaison** :\n   - L'algorithme se termine lorsque tous les sommets ont été visités ou lorsqu'il n'y a plus de sommets non visités à explorer.\n\n### Complexité :\n- La complexité de l'algorithme de Dijkstra est généralement de \\(O((V + E) \\log V)\\) avec une file de priorité (comme un tas binaire), où \\(V\\) est le nombre de sommets et \\(E\\) le nombre d'arêtes.\n\n### Applications :\n- Navigation GPS (calcul des itinéraires les plus courts).\n- Réseaux de communication (routage des paquets).\n- Planification de projets (gestion des dépendances et des coûts).\n\n### Exemple simple :\nConsidérons un graphe avec les sommets A, B, C et les arêtes suivantes :\n- A → B avec un poids de 1\n- A → C avec un poids de 4\n- B → C avec un poids de 2\n\nL'algorithme de Dijkstra trouvera que le plus court chemin de A à C est A → B → C avec un coût total de 3 (1 + 2).\n\nSi vous avez besoin d'un exemple plus détaillé ou d'une implémentation en code, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:57:10.8924021+02:00",
+  "durationSeconds": 11.5,
+  "stats": "mistral-small3.2:latest · 524 + 573 tokens · 11,5 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la santé publique) : Programme santé de l'Union adopté en réponse à la pandémie.",
+  "id": "eu-prog-eu4health",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Programme « L'UE pour la santé »",
+  "entityType": "PROGRAMME",
+  "description": "Programme santé de l'Union adopté en réponse à la pandémie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Les bénéficiaires de « Programme « L'UE pour la santé » » sont publiés en ligne.",
+    "L'appel à propositions de « Programme « L'UE pour la santé » » est ouvert.",
+    "La Commission gère « Programme « L'UE pour la santé » » avec les États membres ou ses agences."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "EU4Health"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Programme%20%C2%AB%20L%27UE%20pour%20la%20sant%C3%A9%20%C2%BB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de la santé et de la sécurité alimentaire",
+    "Santé",
+    "Cadre financier pluriannuel 2021-2027",
+    "Agence exécutive européenne pour la santé et le numérique (HaDEA)"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-01-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

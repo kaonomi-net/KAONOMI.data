@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-terres-rares-et-metaux-critiques",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Terres rares et métaux critiques",
+  "includedEntities": [
+    {
+      "entityName": "terres rares",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "métaux critiques",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prix et l'offre des métaux critiques.",
+  "isFuzzy": true,
+  "locations": [
+    "Chine"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "restrictions",
+    "aimants",
+    "batteries"
+  ],
+  "questions": [
+    "Quelle restriction ?",
+    "Quel prix ?",
+    "Quel effet sur l'industrie ?"
+  ],
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#TERRES-RARES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEPENDANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-jouer",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "S'amuser à un jeu.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:jou(er|e|es|ons|ez|ent|ait|aient)|s['’]amuser)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:batifol(er|e)|gambad(er|e|ent)|joueu(r|se|rs|ses))(?![\\w-])"
+  ],
+  "symbol": "jouer",
+  "event": null,
+  "title": "Jouer",
+  "tags": [
+    "#JOIE",
+    "#ENFANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

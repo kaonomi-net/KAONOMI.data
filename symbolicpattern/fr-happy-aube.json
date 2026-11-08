@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-aube",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le début du jour.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:aube(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:point\\s+du\\s+jour)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:petit\\s+matin)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lever\\s+du\\s+jour)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:premi[èe]res\\s+lueurs)(?![\\w-])"
+  ],
+  "symbol": "aube",
+  "event": null,
+  "title": "Aube",
+  "tags": [
+    "#NATURE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

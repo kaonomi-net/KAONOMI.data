@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (la sécurité des plateformes) : Coprocesseur isolé des puces Apple, apparu avec l'A7, qui protège les données biométriques et les clés.",
+  "id": "cyber-secure-enclave",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Secure Enclave d'Apple",
+  "entityType": "HARDWARE",
+  "description": "Coprocesseur isolé des puces Apple, apparu avec l'A7, qui protège les données biométriques et les clés.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Pour cet audit, l'équipe a comparé Secure Enclave d'Apple à d'autres solutions matérielles.",
+    "Secure Enclave d'Apple a marqué l'histoire du matériel consacré à la sécurité des plateformes.",
+    "La fiche technique de Secure Enclave d'Apple détaille ses caractéristiques de sécurité."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Secure Enclave"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#SECURITEPLATEFORMES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Secure%20Enclave%20d%27Apple"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Touch ID",
+    "Puce Apple T2",
+    "ARM TrustZone"
+  ],
+  "isDeleted": false,
+  "startDate": "2013-01-01T00:00:00",
+  "endDate": null
+}

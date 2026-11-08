@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-haine",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une hostilité violente envers quelqu'un.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:haine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ha[ïi]r)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hai(s|t|ssent)|ha[ïi](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]test(er|e|es|ent|[ée]|[ée]e))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ex[ée]cr(er|[ée]|able))(?![\\w-])"
+  ],
+  "symbol": "haine",
+  "event": null,
+  "title": "Haine",
+  "tags": [
+    "#ANGER",
+    "#VIOLENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

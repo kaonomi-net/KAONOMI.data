@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la politique énergétique) : Portefeuille détenu par Günther Oettinger, commissaire, dans la Commission Barroso II, du 10 février 2010 au 31 octobre 2014.",
+  "id": "eu-pf-barroso2-oettinger",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Énergie (Commission Barroso II)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Günther Oettinger, commissaire, dans la Commission Barroso II, du 10 février 2010 au 31 octobre 2014.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Le portefeuille « Énergie (Commission Barroso II) » s'appuie sur plusieurs directions générales.",
+    "Le portefeuille « Énergie (Commission Barroso II) » a marqué la politique européenne de la politique énergétique.",
+    "Lors de son audition, le titulaire du portefeuille « Énergie (Commission Barroso II) » a présenté ses priorités."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#POLITIQUEENERGETIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89nergie%20%28Commission%20Barroso%20II%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Günther Oettinger",
+    "Commission Barroso II",
+    "Commissaire européen",
+    "Énergie"
+  ],
+  "isDeleted": false,
+  "startDate": "2010-02-10T00:00:00",
+  "endDate": "2014-10-31T00:00:00"
+}

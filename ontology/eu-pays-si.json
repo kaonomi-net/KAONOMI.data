@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Pays de l'Union européenne (la politique européenne) : Slovénie, État membre de l'Union européenne depuis 2004, capitale Ljubljana.",
+  "id": "eu-pays-si",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Slovénie",
+  "entityType": "COUNTRY",
+  "description": "Slovénie, État membre de l'Union européenne depuis 2004, capitale Ljubljana.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-etats-membres",
+  "sentencesExemples": [
+    "Le gouvernement de Slovénie a désigné un commissaire européen.",
+    "Les citoyens de Slovénie élisent leurs députés européens.",
+    "Le représentant permanent de Slovénie siège au Coreper à Bruxelles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF0D",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#COUNTRY",
+    "#POLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Slov%C3%A9nie"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité slovène",
+    "Ljubljana",
+    "Union européenne",
+    "slovène",
+    "Mouvement Liberté (Gibanje Svoboda)",
+    "Parti du centre moderne (SMC)",
+    "Élargissement de 2004",
+    "Présidence slovène du Conseil de l'UE (juillet-décembre 2021)"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-01-01T00:00:00",
+  "endDate": null
+}

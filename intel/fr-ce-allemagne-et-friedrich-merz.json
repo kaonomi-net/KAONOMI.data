@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-allemagne-et-friedrich-merz",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Allemagne et Friedrich Merz",
+  "includedEntities": [
+    {
+      "entityName": "Allemagne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Friedrich Merz",
+      "entityWeight": "60"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les positions du chancelier allemand sur les dossiers européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Berlin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "budget",
+    "défense",
+    "Mercosur"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quel désaccord avec la Commission ?",
+    "Quelle initiative ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ALLEMAGNE",
+    "#MERZ"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

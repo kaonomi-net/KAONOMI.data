@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-flotte-russe-de-la-mer-noire",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Flotte russe de la mer Noire",
+  "includedEntities": [
+    {
+      "entityName": "flotte de la mer Noire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "navires",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les pertes et redéploiements de la flotte russe de la mer Noire.",
+  "isFuzzy": true,
+  "locations": [
+    "Novorossiïsk",
+    "Sébastopol"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "drones navals",
+    "missiles",
+    "Crimée"
+  ],
+  "questions": [
+    "Quel navire touché ?",
+    "Quel redéploiement ?",
+    "Quelle activité ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#MARITIME",
+    "#MER-NOIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

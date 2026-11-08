@@ -1,0 +1,13 @@
+{
+  "index": 80,
+  "file": "080-interet-pour-le-llm-herinnert-u-zich-mij.prompt.json",
+  "prompt": "Herinnert u zich mij?",
+  "promptWords": 4,
+  "completion": "Ik ben een AI en ik heb geen permanente herinnering aan eerdere gesprekken of gebruikers. Elke sessie begint met een schone lei. Maar ik sta klaar om je nu te helpen! Waarmee kan ik je van dienst zijn?",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:18:15.4223251+02:00",
+  "durationSeconds": 1.25,
+  "stats": "gpt-oss:20b · 74 + 154 tokens · 1,2 s",
+  "isError": false,
+  "language": "NL"
+}

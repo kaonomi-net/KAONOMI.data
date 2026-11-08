@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-sport-et-sante-mentale",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Sport et santé mentale",
+  "includedEntities": [
+    {
+      "entityName": "activité physique",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études sur l'activité physique comme soutien à la santé mentale.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "dépression",
+    "anxiété",
+    "prescription"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel effet ?",
+    "Quelle recommandation ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SPORT",
+    "#SANTE-MENTALE"
+  ],
+  "events": [],
+  "signals": [
+    "!BIEN-ETRE"
+  ],
+  "isDeleted": false
+}

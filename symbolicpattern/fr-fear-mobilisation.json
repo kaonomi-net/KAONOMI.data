@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-mobilisation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'appel des troupes à la guerre.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:mobilisation(s)?\\s+g[ée]n[ée]rale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mobilisation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mobilis(er|[ée]|[ée]s)\\s+(les|des)\\s+(troupes|r[ée]servistes)|appel\\s+sous\\s+les\\s+drapeaux)(?![\\w-])"
+  ],
+  "symbol": "mobilisation",
+  "event": null,
+  "title": "Mobilisation",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

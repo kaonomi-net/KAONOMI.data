@@ -1,0 +1,13 @@
+{
+  "index": 64,
+  "file": "084-mathematiques-qu-est-ce-qu-un-nombre.prompt.json",
+  "prompt": "Qu'est-ce qu'un nombre premier ?",
+  "promptWords": 5,
+  "completion": "Un nombre premier est un nombre entier naturel supérieur à 1 qui admet exactement deux diviseurs distincts : 1 et lui-même.\n\nEn d'autres termes, un nombre premier ne peut pas être obtenu en multipliant deux nombres entiers autres que 1 et lui-même. Par exemple, les nombres 2, 3, 5, 7, 11, 13, etc., sont des nombres premiers parce qu'ils ne sont divisibles que par 1 et par eux-mêmes.\n\nLes nombres premiers sont fondamentaux en mathématiques, notamment en théorie des nombres et en cryptographie, car ils possèdent des propriétés uniques et sont utilisés dans de nombreux algorithmes de sécurité.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:28:05.3238417+02:00",
+  "durationSeconds": 4.46,
+  "stats": "mistral-small3.2:latest · 515 + 142 tokens · 4,5 s",
+  "isError": false,
+  "language": "FR"
+}

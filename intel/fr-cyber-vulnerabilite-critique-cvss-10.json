@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-vulnerabilite-critique-cvss-10",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Vulnérabilité critique CVSS 10",
+  "includedEntities": [
+    {
+      "entityName": "CVSS",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "critique",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "vulnérabilité",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les vulnérabilités notées au maximum.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "exécution de code",
+    "sans authentification",
+    "exposition"
+  ],
+  "questions": [
+    "Quel produit ?",
+    "Quelle exploitation ?",
+    "Quel correctif ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-perime",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Dont la date de consommation est passée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:p[ée]rim[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:date\\s+d[ée]pass[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dlc\\s+d[ée]pass[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plus\\s+consommable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hors\\s+date)(?![\\w-])"
+  ],
+  "symbol": "périmé",
+  "event": null,
+  "title": "Périmé",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

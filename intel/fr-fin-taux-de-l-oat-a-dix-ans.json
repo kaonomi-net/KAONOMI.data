@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-taux-de-l-oat-a-dix-ans",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Taux de l'OAT à dix ans",
+  "includedEntities": [
+    {
+      "entityName": "OAT",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "dix ans",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le taux d'emprunt à dix ans de la France, autour de 5 %.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Agence France Trésor",
+    "adjudications",
+    "dette"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quel seuil franchi ?",
+    "Quelle cause ?"
+  ],
+  "tags": [
+    "#DETTE",
+    "#FRANCE",
+    "#OBLIGATIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

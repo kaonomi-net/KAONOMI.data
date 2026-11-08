@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique de cohésion) : Économiste, ancienne ministre portugaise de l'Environnement et vice-gouverneure de la Banque du Portugal, commissaire à la Cohésion et aux Réformes de 2019 à 2024.",
+  "id": "eu-p-ferreira",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Elisa Ferreira",
+  "entityType": "PERSON",
+  "description": "Économiste, ancienne ministre portugaise de l'Environnement et vice-gouverneure de la Banque du Portugal, commissaire à la Cohésion et aux Réformes de 2019 à 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Elisa Ferreira.",
+    "Les manuels sur les institutions européennes citent Elisa Ferreira.",
+    "Le portrait de Elisa Ferreira figure dans le dossier consacré à la politique de cohésion."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Ferreira"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUECOHESION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Elisa%20Ferreira"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité portugaise",
+    "Parti socialiste (PS)",
+    "Économiste",
+    "Ministre de l'Environnement",
+    "Banquier central",
+    "Commissaire européen",
+    "Cohésion et réformes (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Cohésion et politique régionale",
+    "Réformes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

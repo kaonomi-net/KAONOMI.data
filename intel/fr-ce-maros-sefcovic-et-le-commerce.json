@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-maros-sefcovic-et-le-commerce",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Maroš Šefčovič et le commerce",
+  "includedEntities": [
+    {
+      "entityName": "Šefčovič",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "commerce",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les négociations commerciales menées par Maroš Šefčovič.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington",
+    "Pékin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "droits de douane",
+    "accords",
+    "États-Unis"
+  ],
+  "questions": [
+    "Quelle négociation ?",
+    "Quel accord ?",
+    "Quelle riposte ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#COMMERCE",
+    "#SEFCOVIC"
+  ],
+  "events": [
+    "@NEGOCIATION"
+  ],
+  "signals": [
+    "!TENSION-COMMERCIALE"
+  ],
+  "isDeleted": false
+}

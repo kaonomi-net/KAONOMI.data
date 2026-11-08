@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Pays-Bas.",
+  "id": "pe10-mep-130881",
+  "dateCreated": "2026-10-31 20:22:42",
+  "name": "Mieke Andriese",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Pays-Bas. Groupe politique : Patriotes pour l'Europe (PfE). Parti ou liste national : Partij voor de Vrijheid.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Les électeurs peuvent écrire à Mieke Andriese au Parlement européen.",
+    "La fiche officielle de Mieke Andriese est publiée sur le site du Parlement européen.",
+    "Lors de la session plénière à Strasbourg, Mieke Andriese a pris la parole."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Mieke ANDRIESE"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/130881",
+    "https://fr.wikipedia.org/w/index.php?search=Mieke%20Andriese"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Pays-Bas",
+    "Parlement européen",
+    "Patriotes pour l'Europe (PfE)",
+    "Partij voor de Vrijheid"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

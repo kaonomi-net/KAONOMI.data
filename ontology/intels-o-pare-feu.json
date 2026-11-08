@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-pare-feu",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "pare-feu",
+  "entityType": "HARDWARE",
+  "description": "Cité par 2 intels : Équipements en bordure de réseau ; Palo Alto Networks.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre les attaques contre les VPN, pare-feu et passerelles exposés.",
+    "Suivre Palo Alto Networks et ses acquisitions."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "pare-feu",
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#RESEAU",
+    "#ENTREPRISES"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "VPN",
+    "Fortinet",
+    "Cisco",
+    "Ivanti",
+    "équipements exposés",
+    "Unit 42",
+    "Palo Alto Networks",
+    "Santa Clara",
+    "plateforme",
+    "CyberArk"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

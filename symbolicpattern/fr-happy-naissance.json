@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-naissance",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La venue au monde d'un être.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:naissance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:venue\\s+au\\s+monde)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mise\\s+au\\s+monde)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:faire-part\\s+de\\s+naissance)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:natalit[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "naissance",
+  "event": null,
+  "title": "Naissance",
+  "tags": [
+    "#NAISSANCE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

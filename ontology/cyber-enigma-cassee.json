@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (la cryptanalyse) : Marian Rejewski et ses collègues polonais reconstituent le câblage d'Enigma et commencent à déchiffrer les messages allemands.",
+  "id": "cyber-enigma-cassee",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Reconstitution d'Enigma par le Biuro Szyfrów",
+  "entityType": "EVENT",
+  "description": "Marian Rejewski et ses collègues polonais reconstituent le câblage d'Enigma et commencent à déchiffrer les messages allemands.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "« Reconstitution d'Enigma par le Biuro Szyfrów » est un jalon de l'histoire de la cybersécurité.",
+    "Dans sa conférence, l'historienne est revenue sur « Reconstitution d'Enigma par le Biuro Szyfrów ».",
+    "On date souvent un tournant de la cryptanalyse à « Reconstitution d'Enigma par le Biuro Szyfrów »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 3,
+  "fearLevel": 0,
+  "surpriseLevel": 3,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "décryptage polonais d'Enigma"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#CRYPTANALYSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Reconstitution%20d%27Enigma%20par%20le%20Biuro%20Szyfr%C3%B3w"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Marian Rejewski",
+    "Machine Enigma"
+  ],
+  "isDeleted": false,
+  "startDate": "1932-12-01T00:00:00",
+  "endDate": "1932-12-01T00:00:00"
+}

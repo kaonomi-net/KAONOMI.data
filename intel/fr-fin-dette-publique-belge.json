@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-dette-publique-belge",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Dette publique belge",
+  "includedEntities": [
+    {
+      "entityName": "dette publique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Belgique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "déficit",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la trajectoire de la dette et du déficit belges.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "gouvernement De Wever",
+    "Commission européenne",
+    "budget"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quelle trajectoire ?",
+    "Quelle procédure européenne ?"
+  ],
+  "tags": [
+    "#DETTE",
+    "#BELGIQUE",
+    "#BUDGET"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

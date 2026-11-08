@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-motivation",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui pousse à agir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:motivation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:motiv([ée]|[ée]e|[ée]s|[ée]es|ant|ante)|stimul([ée]|[ée]e|ant|ante)|boost([ée]|[ée]e)?)(?![\\w-])"
+  ],
+  "symbol": "motivation",
+  "event": null,
+  "title": "Motivation",
+  "tags": [
+    "#ESPOIR",
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

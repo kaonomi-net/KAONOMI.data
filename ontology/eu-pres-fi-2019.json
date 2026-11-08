@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (les relations interinstitutionnelles) : Présidence semestrielle du Conseil de l'Union européenne exercée par ce pays : Finlande, du 1er juillet 2019 au 31 décembre 2019.",
+  "id": "eu-pres-fi-2019",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Présidence finlandaise du Conseil de l'UE (juillet-décembre 2019)",
+  "entityType": "EVENT",
+  "description": "Présidence semestrielle du Conseil de l'Union européenne exercée par ce pays : Finlande, du 1er juillet 2019 au 31 décembre 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-presidences",
+  "sentencesExemples": [
+    "« Présidence finlandaise du Conseil de l'UE (juillet-décembre 2019) » concerne les relations interinstitutionnelles.",
+    "Les archives audiovisuelles de la Commission conservent des images de « Présidence finlandaise du Conseil de l'UE (juillet-décembre 2019) ».",
+    "La presse européenne a largement couvert « Présidence finlandaise du Conseil de l'UE (juillet-décembre 2019) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#RELATIONSINTERINSTITUTIONNELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pr%C3%A9sidence%20finlandaise%20du%20Conseil%20de%20l%27UE%20%28juillet-d%C3%A9cembre%202019%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Finlande",
+    "Conseil de l'Union européenne",
+    "Commission Juncker"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-07-01T00:00:00",
+  "endDate": "2019-12-31T00:00:00"
+}

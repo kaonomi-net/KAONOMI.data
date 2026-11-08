@@ -1,0 +1,62 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la transformation numérique) : Ancienne journaliste, ministre finlandaise et députée européenne, vice-présidente exécutive chargée de la souveraineté technologique, de la sécurité et de la démocratie depuis 2024.",
+  "id": "eu-p-virkkunen",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Henna Virkkunen",
+  "entityType": "PERSON",
+  "description": "Ancienne journaliste, ministre finlandaise et députée européenne, vice-présidente exécutive chargée de la souveraineté technologique, de la sécurité et de la démocratie depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les manuels sur les institutions européennes citent Henna Virkkunen.",
+    "Le portrait de Henna Virkkunen figure dans le dossier consacré à la transformation numérique.",
+    "La presse européenne a longuement commenté le parcours de Henna Virkkunen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Virkkunen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#TRANSFORMATIONNUMERIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Henna%20Virkkunen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité finlandaise",
+    "Parti de la coalition nationale (Kokoomus)",
+    "Journaliste",
+    "Ministre de l'Éducation",
+    "Député européen",
+    "Commissaire européen",
+    "Souveraineté technologique, sécurité et démocratie (Commission von der Leyen II)",
+    "Vice-président exécutif de la Commission",
+    "Commission von der Leyen II",
+    "Numérique",
+    "Cybersécurité",
+    "Intelligence artificielle",
+    "Démocratie",
+    "Direction générale des réseaux de communication, du contenu et des technologies"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

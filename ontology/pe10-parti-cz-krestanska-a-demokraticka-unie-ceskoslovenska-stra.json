@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Křesťanská a demokratická unie - Československá strana lidová, parti ou liste de ce pays : Tchéquie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-cz-krestanska-a-demokraticka-unie-ceskoslovenska-stra",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Křesťanská a demokratická unie - Československá strana lidová",
+  "entityType": "ORGANISATION",
+  "description": "Křesťanská a demokratická unie - Československá strana lidová, parti ou liste de ce pays : Tchéquie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "« Křesťanská a demokratická unie - Československá strana lidová » est représenté dans le Parlement européen.",
+    "Le programme européen de « Křesťanská a demokratická unie - Československá strana lidová » a été publié avant le scrutin.",
+    "Les eurodéputés de « Křesťanská a demokratická unie - Československá strana lidová » ont été élus en juin 2024."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=K%C5%99es%C5%A5ansk%C3%A1%20a%20demokratick%C3%A1%20unie%20-%20%C4%8Ceskoslovensk%C3%A1%20strana%20lidov%C3%A1"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Tomáš Zdechovský",
+    "Tchéquie",
+    "Parti populaire européen (PPE)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

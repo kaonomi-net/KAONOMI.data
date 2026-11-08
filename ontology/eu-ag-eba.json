@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les services financiers) : Autorité bancaire européenne (ABE), organe de l'Union créé en 2011 et installé dans cette ville : Paris.",
+  "id": "eu-ag-eba",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Autorité bancaire européenne (ABE)",
+  "entityType": "ORGANISATION",
+  "description": "Autorité bancaire européenne (ABE), organe de l'Union créé en 2011 et installé dans cette ville : Paris.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Autorité bancaire européenne (ABE) ».",
+    "Les décisions de « Autorité bancaire européenne (ABE) » touchent les services financiers.",
+    "Le rapport annuel de « Autorité bancaire européenne (ABE) » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ABE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#SERVICESFINANCIERS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Autorit%C3%A9%20bancaire%20europ%C3%A9enne%20%28ABE%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux",
+    "Services financiers"
+  ],
+  "isDeleted": false,
+  "startDate": "2011-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (l'environnement) : Portefeuille détenu par Virginijus Sinkevičius, commissaire, dans la Commission von der Leyen I, du 1er décembre 2019 au 30 novembre 2024.",
+  "id": "eu-pf-vdl1-sinkevicius",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Environnement, océans et pêche (Commission von der Leyen I)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Virginijus Sinkevičius, commissaire, dans la Commission von der Leyen I, du 1er décembre 2019 au 30 novembre 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Environnement, océans et pêche (Commission von der Leyen I) ».",
+    "Le portefeuille « Environnement, océans et pêche (Commission von der Leyen I) » couvre l'environnement.",
+    "La lettre de mission du portefeuille « Environnement, océans et pêche (Commission von der Leyen I) » fixe les objectifs en matière de l'environnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Environnement%2C%20oc%C3%A9ans%20et%20p%C3%AAche%20%28Commission%20von%20der%20Leyen%20I%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Virginijus Sinkevičius",
+    "Commission von der Leyen I",
+    "Commissaire européen",
+    "Environnement",
+    "Océans et affaires maritimes",
+    "Pêche"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-12-01T00:00:00",
+  "endDate": "2024-11-30T00:00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptographie à clé publique) : Cryptographe américain de Stanford, co-inventeur de l'échange de clés Diffie-Hellman (1976).",
+  "id": "cyber-hellman",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Martin Hellman",
+  "entityType": "PERSON",
+  "description": "Cryptographe américain de Stanford, co-inventeur de l'échange de clés Diffie-Hellman (1976). Prix Turing 2015.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les travaux de Martin Hellman pour comprendre la cryptographie à clé publique.",
+    "Sans Martin Hellman, l'histoire de la cryptographie à clé publique aurait été différente.",
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Martin Hellman."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Martin E. Hellman"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTOGRAPHIEACLEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Martin%20Hellman"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Échange de clés Diffie-Hellman",
+    "Publication de « New Directions in Cryptography »"
+  ],
+  "isDeleted": false,
+  "startDate": "1945-10-02T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-fascisme",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une idéologie totalitaire et violente.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fascisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fasciste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nazi(e|s|es|sme)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:n[ée]onazi(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:supr[ée]maciste(s)?)(?![\\w-])"
+  ],
+  "symbol": "fascisme",
+  "event": null,
+  "title": "Fascisme",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

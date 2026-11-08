@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-petrole-russe",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "pétrole russe",
+  "entityType": "MATERIAL",
+  "description": "Cité par 3 intels : Prix plafond du pétrole russe ; Exportations de pétrole vers l'Inde et la Chine ; Prix plafond du pétrole russe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre le plafonnement du prix du pétrole russe par le G7 et l'Union européenne.",
+    "Suivre les achats de pétrole russe par l'Inde et la Chine.",
+    "Suivre l'abaissement du plafond de prix du pétrole russe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "pétrole russe",
+  "tags": [
+    "#PETROLE",
+    "#RUSSIE",
+    "#SANCTIONS",
+    "#COMMERCE",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [
+    "@SANCTION"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE",
+    "!CONTOURNEMENT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "prix plafond",
+    "Oural",
+    "G7",
+    "Union européenne",
+    "Inde",
+    "rabais",
+    "raffineries",
+    "sanctions",
+    "Chine",
+    "flotte fantôme"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

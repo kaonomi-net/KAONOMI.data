@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-vautour",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Celui qui profite du malheur des autres.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vautour(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fonds\\s+vautour(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:charognard(s)?\\s+de\\s+la\\s+finance)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:profiter\\s+du\\s+malheur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rapace(s)?\\s+sans\\s+piti[ée])(?![\\w-])"
+  ],
+  "symbol": "vautour",
+  "event": null,
+  "title": "Vautour",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

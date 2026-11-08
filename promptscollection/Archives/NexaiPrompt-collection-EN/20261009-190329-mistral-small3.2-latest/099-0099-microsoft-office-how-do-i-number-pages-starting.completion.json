@@ -1,0 +1,13 @@
+{
+  "index": 99,
+  "file": "0099-microsoft-office-how-do-i-number-pages-starting.prompt.json",
+  "prompt": "How do I number pages starting from the second page in Word?",
+  "promptWords": 12,
+  "completion": "To number pages starting from the second page in Microsoft Word, follow these steps:\n\n1. **Insert a Section Break**:\n   - Place your cursor at the end of the first page.\n   - Go to the **Layout** or **Page Layout** tab (depending on your version of Word).\n   - Click on **Breaks** > **Next Page** under the **Section Breaks** section. This will insert a section break and start a new section on the second page.\n\n2. **Insert Page Numbers**:\n   - Go to the **Insert** tab.\n   - Click on **Page Number** and choose the location where you want the page numbers to appear (e.g., top, bottom, inside, outside).\n   - Select a page number style.\n\n3. **Format Page Numbers**:\n   - With the page numbers still selected, go to the **Page Number** group in the **Insert** tab.\n   - Click on **Format Page Numbers**.\n   - In the **Page Number Format** dialog box, select **Start at** and enter **2**.\n   - Click **OK**.\n\n4. **Link to Previous (Optional)**:\n   - If you want to ensure that the page numbering continues correctly, go to the **Layout** or **Page Layout** tab.\n   - Click on **Breaks** > **Next Page** to insert another section break at the end of the second page.\n   - Double-click the header or footer of the second page to open the Header & Footer Tools.\n   - Click on **Link to Previous** to unlink the header/footer from the first page.\n\nThis will start your page numbering from the second page onwards.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:22:26.0873262+02:00",
+  "durationSeconds": 8.19,
+  "stats": "mistral-small3.2:latest · 520 + 339 tokens · 8,2 s",
+  "isError": false,
+  "language": "EN"
+}

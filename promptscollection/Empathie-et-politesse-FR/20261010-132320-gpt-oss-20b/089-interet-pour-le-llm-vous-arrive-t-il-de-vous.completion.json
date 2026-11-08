@@ -1,0 +1,13 @@
+{
+  "index": 89,
+  "file": "089-interet-pour-le-llm-vous-arrive-t-il-de-vous.prompt.json",
+  "prompt": "Vous arrive-t-il de vous tromper ?",
+  "promptWords": 6,
+  "completion": "Oui, il m’arrive de me tromper. En tant que modèle de langage, je m’appuie sur un énorme corpus de textes pour générer des réponses, mais je ne possède pas de conscience ni de vérification en temps réel. Cela signifie que :\n\n1. **Inexactitude factuelle** – Je peux donner des dates, des noms ou des chiffres erronés, surtout pour des événements récents ou très spécialisés où mes données de formation ne sont pas à jour.\n\n2. **Compréhension du contexte** – Si une question est ambiguë ou si le contexte n’est pas clairement établi, je peux interpréter la demande de façon incorrecte et fournir une réponse hors sujet.\n\n3. **Mauvaise interprétation de la langue** – Parfois, je confonds des homophones, des nuances de registre ou des termes techniques, ce qui peut entraîner une traduction ou une explication incorrecte.\n\n4. **Biais ou omissions** – Les données sur lesquelles je suis entraîné reflètent les biais présents dans le contenu web. Je peux reproduire involontairement des stéréotypes ou omettre des points importants.\n\nPour ces raisons, il est toujours utile de vérifier les informations critiques auprès de sources fiables ou de consulter un expert humain. Votre questionnement est exactement la meilleure façon de corriger les erreurs potentielles : si quelque chose ne vous semble pas correct, n’hésitez pas à le souligner afin que je puisse ajuster ma réponse.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:27:47.9574245+02:00",
+  "durationSeconds": 2.8,
+  "stats": "gpt-oss:20b · 76 + 411 tokens · 2,8 s",
+  "isError": false,
+  "language": "FR"
+}

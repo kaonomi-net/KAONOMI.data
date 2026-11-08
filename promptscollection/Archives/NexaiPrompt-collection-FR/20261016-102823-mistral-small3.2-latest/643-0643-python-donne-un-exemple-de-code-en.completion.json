@@ -1,0 +1,13 @@
+{
+  "index": 643,
+  "file": "0643-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre le multithreading et le multiprocessing.",
+  "promptWords": 14,
+  "completion": "Voici un exemple de code en Python qui illustre à la fois le multithreading et le multiprocessing. Cet exemple montre comment effectuer des calculs simples en parallèle en utilisant les deux approches :\n\n```python\nimport threading\nimport multiprocessing\nimport time\n\n# Fonction de calcul simple\ndef calcul(n):\n    print(f\"Début du calcul pour {n}\")\n    time.sleep(1)  # Simulation d'un calcul long\n    print(f\"Fin du calcul pour {n}\")\n    return n * n\n\n# Exemple avec multithreading\ndef multithreading_example():\n    print(\"=== Exemple avec multithreading ===\")\n    threads = []\n    for i in range(5):\n        t = threading.Thread(target=calcul, args=(i,))\n        threads.append(t)\n        t.start()\n\n    for t in threads:\n        t.join()\n\n# Exemple avec multiprocessing\ndef multiprocessing_example():\n    print(\"\\n=== Exemple avec multiprocessing ===\")\n    with multiprocessing.Pool(processes=5) as pool:\n        results = pool.map(calcul, range(5))\n    print(\"Résultats:\", results)\n\nif __name__ == \"__main__\":\n    multithreading_example()\n    multiprocessing_example()\n```\n\n### Explications :\n\n1. **Multithreading** :\n   - Utilise le module `threading`.\n   - Crée plusieurs threads qui exécutent la fonction `calcul` en parallèle.\n   - Les threads partagent le même espace mémoire, ce qui peut être utile pour des tâches I/O-bound (comme des requêtes réseau).\n\n2. **Multiprocessing** :\n   - Utilise le module `multiprocessing`.\n   - Crée plusieurs processus qui exécutent la fonction `calcul` en parallèle.\n   - Les processus ont leur propre espace mémoire, ce qui est utile pour des tâches CPU-bound (comme des calculs intensifs).\n\n### Remarques :\n- Le multithreading en Python est limité par le GIL (Global Interpreter Lock), ce qui signifie que les threads ne peuvent pas exécuter du code Python en parallèle sur plusieurs cœurs CPU.\n- Le multiprocessing contourne cette limitation en utilisant des processus séparés, mais cela implique une surcharge plus importante en termes de mémoire et de communication entre processus.\n\nVous pouvez exécuter ce code pour voir la différence entre les deux approches.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:37:02.6662391+02:00",
+  "durationSeconds": 10.11,
+  "stats": "mistral-small3.2:latest · 528 + 503 tokens · 10,1 s",
+  "isError": false,
+  "language": "FR"
+}

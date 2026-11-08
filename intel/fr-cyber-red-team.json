@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-red-team",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Red team",
+  "includedEntities": [
+    {
+      "entityName": "red team",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "simulation d'attaque",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les exercices de red team et de simulation d'attaques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "TIBER-EU",
+    "DORA",
+    "purple team"
+  ],
+  "questions": [
+    "Quel exercice ?",
+    "Quel enseignement ?",
+    "Quel cadre ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#PENTEST",
+    "#RED-TEAM"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

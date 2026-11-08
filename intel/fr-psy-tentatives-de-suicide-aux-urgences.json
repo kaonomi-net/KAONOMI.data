@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-tentatives-de-suicide-aux-urgences",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Tentatives de suicide aux urgences",
+  "includedEntities": [
+    {
+      "entityName": "tentatives de suicide",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "urgences",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les passages aux urgences pour tentative de suicide.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Santé publique France",
+    "adolescentes",
+    "Oscour"
+  ],
+  "questions": [
+    "Quel chiffre ?",
+    "Quelle évolution ?",
+    "Quel public ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

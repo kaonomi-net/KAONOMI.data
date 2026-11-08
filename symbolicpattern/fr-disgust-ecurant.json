@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-ecurant",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Moralement révoltant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]c(œ|oe)urant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:moralement\\s+[ée]c(œ|oe)urant)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:c['’]est\\s+[ée]c(œ|oe)urant)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:comportement(s)?\\s+[ée]c(œ|oe)urant(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attitude\\s+[ée]c(œ|oe)urante)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:spectacle\\s+[ée]c(œ|oe)urant)(?![\\w-])"
+  ],
+  "symbol": "écœurant",
+  "event": null,
+  "title": "Écœurant",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

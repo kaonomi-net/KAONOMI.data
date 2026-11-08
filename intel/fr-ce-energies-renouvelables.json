@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-energies-renouvelables",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Énergies renouvelables",
+  "includedEntities": [
+    {
+      "entityName": "énergies renouvelables",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "éolien",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "solaire",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le développement des renouvelables et la dépendance aux panneaux chinois.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Chine",
+    "permis",
+    "objectifs 2030"
+  ],
+  "questions": [
+    "Quelle progression ?",
+    "Quelle dépendance ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENERGIE",
+    "#RENOUVELABLES"
+  ],
+  "events": [],
+  "signals": [
+    "!ENERGIE"
+  ],
+  "isDeleted": false
+}

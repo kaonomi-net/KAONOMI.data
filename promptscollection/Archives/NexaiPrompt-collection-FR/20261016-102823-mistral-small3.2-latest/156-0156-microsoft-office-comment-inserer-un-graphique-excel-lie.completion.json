@@ -1,0 +1,13 @@
+{
+  "index": 156,
+  "file": "0156-microsoft-office-comment-inserer-un-graphique-excel-lie.prompt.json",
+  "prompt": "Comment insérer un graphique Excel lié dans PowerPoint ?",
+  "promptWords": 9,
+  "completion": "Pour insérer un graphique Excel lié dans PowerPoint, suivez ces étapes :\n\n1. **Ouvrez votre présentation PowerPoint** et allez à la diapositive où vous souhaitez insérer le graphique.\n\n2. **Ouvrez votre fichier Excel** contenant le graphique que vous souhaitez insérer.\n\n3. **Copiez le graphique Excel** :\n   - Sélectionnez le graphique dans Excel.\n   - Faites un clic droit et choisissez \"Copier\" (ou utilisez le raccourci `Ctrl + C`).\n\n4. **Collez le graphique dans PowerPoint** :\n   - Retournez dans PowerPoint.\n   - Faites un clic droit sur la diapositive et choisissez \"Collage spécial\" (ou utilisez le raccourci `Ctrl + Alt + V`).\n   - Dans le menu qui s'affiche, sélectionnez \"Objet\" ou \"Objet Excel\" (selon les versions de PowerPoint).\n\n5. **Vérifiez la liaison** :\n   - Le graphique doit maintenant apparaître dans PowerPoint.\n   - Pour vous assurer qu'il est lié, double-cliquez sur le graphique dans PowerPoint. Cela devrait ouvrir le fichier Excel source, permettant de modifier les données et de voir les mises à jour dans PowerPoint.\n\n6. **Mise à jour automatique** :\n   - Si les données dans Excel changent, vous pouvez mettre à jour le graphique dans PowerPoint en faisant un clic droit sur le graphique et en sélectionnant \"Mettre à jour le lien\" ou \"Actualiser le lien\".\n\nSi vous avez des difficultés avec ces étapes ou si vous utilisez une version spécifique de PowerPoint ou Excel, n'hésitez pas à me le préciser pour des instructions plus détaillées.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:56:49.124758+02:00",
+  "durationSeconds": 7.89,
+  "stats": "mistral-small3.2:latest · 519 + 376 tokens · 7,9 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-pouvoir-d-achat",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Pouvoir d'achat",
+  "includedEntities": [
+    {
+      "entityName": "pouvoir d'achat",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "ménages",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le pouvoir d'achat des ménages, sujet central de la campagne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "salaires",
+    "prix",
+    "prestations"
+  ],
+  "questions": [
+    "Quelle évolution ?",
+    "Quelles mesures ?",
+    "Quelles promesses ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ECONOMIE",
+    "#POUVOIR-ACHAT"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

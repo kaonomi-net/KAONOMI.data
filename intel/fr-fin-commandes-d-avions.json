@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-commandes-d-avions",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Commandes d'avions",
+  "includedEntities": [
+    {
+      "entityName": "commande",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "avions",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "compagnie aérienne",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les grandes commandes d'avions.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "salons aéronautiques"
+  ],
+  "relatedEntities": [
+    "Airbus",
+    "Boeing",
+    "compagnies"
+  ],
+  "questions": [
+    "Quelle commande ?",
+    "Quel montant ?",
+    "Quel client ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#AERONAUTIQUE"
+  ],
+  "events": [
+    "@COMMANDE"
+  ],
+  "signals": [
+    "!COMMANDE"
+  ],
+  "isDeleted": false
+}

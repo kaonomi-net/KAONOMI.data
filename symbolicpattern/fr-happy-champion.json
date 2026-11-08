@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-champion",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le vainqueur d'une compétition.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:champion(ne|s|nes)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:championnat(s)?\\s+gagn[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:premi(er|[èe]re)\\s+du\\s+classement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:num[ée]ro\\s+un)(?![\\w-])"
+  ],
+  "symbol": "champion",
+  "event": null,
+  "title": "Champion",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

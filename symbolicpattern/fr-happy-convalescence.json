@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-convalescence",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La période où l'on se remet.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:convalescence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:convalescent(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sur\\s+la\\s+voie\\s+de\\s+la\\s+gu[ée]rison)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]cup[ée]ration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]mission(s)?)(?![\\w-])"
+  ],
+  "symbol": "convalescence",
+  "event": null,
+  "title": "Convalescence",
+  "tags": [
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

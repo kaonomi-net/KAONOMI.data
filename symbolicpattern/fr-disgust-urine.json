@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-urine",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le liquide évacué par la vessie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:urine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:urin(er|[ée]|ait)|pisse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:odeur(s)?\\s+d['’]urine)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pipi(s)?\\s+partout)(?![\\w-])"
+  ],
+  "symbol": "urine",
+  "event": null,
+  "title": "Urine",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

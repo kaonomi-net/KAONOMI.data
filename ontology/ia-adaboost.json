@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (l'apprentissage d'ensemble) : Algorithme de boosting de Freund et Schapire qui combine des classifieurs faibles en pondérant davantage les exemples mal classés.",
+  "id": "ia-adaboost",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "AdaBoost",
+  "entityType": "ALGORITHM",
+  "description": "Algorithme de boosting de Freund et Schapire qui combine des classifieurs faibles en pondérant davantage les exemples mal classés.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Le notebook compare AdaBoost aux autres méthodes de l'apprentissage d'ensemble.",
+    "La chercheuse a présenté une variante de AdaBoost lors du séminaire.",
+    "AdaBoost est enseigné dans tous les cours consacrés à l'apprentissage d'ensemble."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "adaptive boosting"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#APPRENTISSAGEENSEMBLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=AdaBoost"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Gradient boosting"
+  ],
+  "isDeleted": false,
+  "startDate": "1995-01-01T00:00:00",
+  "endDate": null
+}

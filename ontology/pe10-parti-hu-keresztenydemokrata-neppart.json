@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Kereszténydemokrata Néppárt, parti ou liste de ce pays : Hongrie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-hu-keresztenydemokrata-neppart",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Kereszténydemokrata Néppárt",
+  "entityType": "ORGANISATION",
+  "description": "Kereszténydemokrata Néppárt, parti ou liste de ce pays : Hongrie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "La presse a commenté le score de « Kereszténydemokrata Néppárt » aux élections européennes.",
+    "Les positions de « Kereszténydemokrata Néppárt » sont suivies à Bruxelles et à Strasbourg.",
+    "« Kereszténydemokrata Néppárt » compte des élus au Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Kereszt%C3%A9nydemokrata%20N%C3%A9pp%C3%A1rt"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "György Hölvényi",
+    "Hongrie",
+    "Patriotes pour l'Europe (PfE)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

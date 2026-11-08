@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (le bien-être animal) : Protection des animaux d'élevage et de compagnie.",
+  "id": "eu-dom-bien-etre-animal",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Bien-être animal",
+  "entityType": "DOMAIN",
+  "description": "Protection des animaux d'élevage et de compagnie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Les propositions législatives relatives au domaine « Bien-être animal » passent par le Parlement et le Conseil.",
+    "La conférence portait sur le bien-être animal.",
+    "Le domaine « Bien-être animal » figure dans le programme de travail de la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#BIENETREANIMAL"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Bien-%C3%AAtre%20animal"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Santé et bien-être animal (Commission von der Leyen II)",
+    "Olivér Várhelyi",
+    "Direction générale de la santé et de la sécurité alimentaire"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

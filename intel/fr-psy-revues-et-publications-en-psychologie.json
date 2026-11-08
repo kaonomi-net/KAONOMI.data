@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-revues-et-publications-en-psychologie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Revues et publications en psychologie",
+  "includedEntities": [
+    {
+      "entityName": "étude publiée",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "revue",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "psychologie",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études marquantes publiées en psychologie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Nature Human Behaviour",
+    "Psychological Science",
+    "méta-analyses"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel résultat ?",
+    "Quelle limite ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#RECHERCHE"
+  ],
+  "events": [
+    "@PUBLICATION"
+  ],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

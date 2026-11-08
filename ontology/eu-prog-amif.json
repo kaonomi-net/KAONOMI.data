@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la politique migratoire) : Soutien aux politiques d'asile, de migration et d'intégration.",
+  "id": "eu-prog-amif",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Fonds « Asile, migration et intégration »",
+  "entityType": "PROGRAMME",
+  "description": "Soutien aux politiques d'asile, de migration et d'intégration.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Les bénéficiaires de « Fonds « Asile, migration et intégration » » sont publiés en ligne.",
+    "L'appel à propositions de « Fonds « Asile, migration et intégration » » est ouvert.",
+    "La Commission gère « Fonds « Asile, migration et intégration » » avec les États membres ou ses agences."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "FAMI"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#POLITIQUEMIGRATOIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fonds%20%C2%AB%20Asile%2C%20migration%20et%20int%C3%A9gration%20%C2%BB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de la migration et des affaires intérieures",
+    "Migration et asile",
+    "Cadre financier pluriannuel 2021-2027"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-01-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

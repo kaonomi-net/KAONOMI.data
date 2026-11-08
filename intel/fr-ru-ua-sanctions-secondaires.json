@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-sanctions-secondaires",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Sanctions secondaires",
+  "includedEntities": [
+    {
+      "entityName": "sanctions secondaires",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "banques",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les sanctions visant les partenaires étrangers de la Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Chine",
+    "Turquie",
+    "Émirats arabes unis"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "banques",
+    "exportations",
+    "double usage"
+  ],
+  "questions": [
+    "Quel pays visé ?",
+    "Quelles entreprises ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#SANCTIONS",
+    "#CONTOURNEMENT"
+  ],
+  "events": [
+    "@SANCTION"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE"
+  ],
+  "isDeleted": false
+}

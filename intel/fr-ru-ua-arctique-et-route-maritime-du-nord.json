@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-arctique-et-route-maritime-du-nord",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Arctique et route maritime du Nord",
+  "includedEntities": [
+    {
+      "entityName": "Arctique",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "route maritime du Nord",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les ambitions russes dans l'Arctique.",
+  "isFuzzy": true,
+  "locations": [
+    "Mourmansk",
+    "Arctique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Chine",
+    "GNL",
+    "brise-glaces"
+  ],
+  "questions": [
+    "Quel trafic ?",
+    "Quels projets ?",
+    "Quelle présence militaire ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ARCTIQUE",
+    "#STRATEGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!COMPETITION"
+  ],
+  "isDeleted": false
+}

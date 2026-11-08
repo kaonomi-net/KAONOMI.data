@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les services financiers) : Autorité de lutte contre le blanchiment de capitaux (AMLA), organe de l'Union créé en 2024 et installé dans cette ville : Francfort-sur-le-Main.",
+  "id": "eu-ag-amla",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Autorité de lutte contre le blanchiment de capitaux (AMLA)",
+  "entityType": "ORGANISATION",
+  "description": "Autorité de lutte contre le blanchiment de capitaux (AMLA), organe de l'Union créé en 2024 et installé dans cette ville : Francfort-sur-le-Main.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "« Autorité de lutte contre le blanchiment de capitaux (AMLA) » joue un rôle dans les services financiers.",
+    "Les fonctionnaires de « Autorité de lutte contre le blanchiment de capitaux (AMLA) » préparent les textes relatifs aux services financiers.",
+    "La délégation a rencontré des représentants de « Autorité de lutte contre le blanchiment de capitaux (AMLA) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "AMLA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#SERVICESFINANCIERS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Autorit%C3%A9%20de%20lutte%20contre%20le%20blanchiment%20de%20capitaux%20%28AMLA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Francfort-sur-le-Main",
+    "Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux",
+    "Services financiers",
+    "Lutte antifraude",
+    "Règlement instituant l'Autorité de lutte contre le blanchiment"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-01-01T00:00:00",
+  "endDate": null
+}

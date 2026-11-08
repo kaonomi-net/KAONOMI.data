@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Suède.",
+  "id": "pe10-mep-197398",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Pär Holmgren",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Suède. Groupe politique : Les Verts/Alliance libre européenne. Parti ou liste national : Miljöpartiet de gröna.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Les électeurs peuvent écrire à Pär Holmgren au Parlement européen.",
+    "La fiche officielle de Pär Holmgren est publiée sur le site du Parlement européen.",
+    "Lors de la session plénière à Strasbourg, Pär Holmgren a pris la parole."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Pär HOLMGREN"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/197398",
+    "https://fr.wikipedia.org/w/index.php?search=P%C3%A4r%20Holmgren"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Suède",
+    "Parlement européen",
+    "Les Verts/Alliance libre européenne",
+    "Miljöpartiet de gröna"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

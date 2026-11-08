@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-centres-de-retour-hors-de-l-union",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Centres de retour hors de l'Union",
+  "includedEntities": [
+    {
+      "entityName": "centres de retour",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "pays tiers",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les projets de centres de retour dans des pays tiers.",
+  "isFuzzy": true,
+  "locations": [
+    "Albanie",
+    "Balkans"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Italie",
+    "Pays-Bas",
+    "droits"
+  ],
+  "questions": [
+    "Quel projet ?",
+    "Quel pays d'accueil ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MIGRATION",
+    "#RETOURS"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

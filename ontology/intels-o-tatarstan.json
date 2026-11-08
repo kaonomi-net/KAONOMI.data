@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-tatarstan",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "Tatarstan",
+  "entityType": "COUNTRY",
+  "description": "Cité par 3 intels : Frappes sur l'industrie de défense russe ; Régions russes touchées par les drones ; Drones iraniens et production russe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre les frappes contre les usines d'armement en Russie.",
+    "Suivre l'extension géographique des frappes de drones en Russie.",
+    "Suivre la coopération irano-russe sur les drones."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Tatarstan",
+  "tags": [
+    "#RUSSIE",
+    "#FRAPPES",
+    "#DRONES",
+    "#INDUSTRIE-DEFENSE",
+    "#IRAN"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!ESCALADE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "drones",
+    "Shahed",
+    "Briansk",
+    "Ijevsk",
+    "missiles",
+    "frappe",
+    "industrie de défense",
+    "usine",
+    "Oural",
+    "régions"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

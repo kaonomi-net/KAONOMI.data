@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-effondrement",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La chute brutale de ce qui tenait debout.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:effondrement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:effondr(er|[ée]|[ée]e|[ée]s|[ée]es))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]croul(ement|[ée]|[ée]e|er))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]boulement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s[ée]isme(s)?)(?![\\w-])"
+  ],
+  "symbol": "effondrement",
+  "event": null,
+  "title": "Effondrement",
+  "tags": [
+    "#CATASTROPHE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

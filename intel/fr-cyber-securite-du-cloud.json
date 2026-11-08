@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-securite-du-cloud",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Sécurité du cloud",
+  "includedEntities": [
+    {
+      "entityName": "sécurité du cloud",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "configuration",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les pratiques de sécurité des environnements cloud.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "AWS",
+    "Azure",
+    "responsabilité partagée"
+  ],
+  "questions": [
+    "Quelle mauvaise configuration ?",
+    "Quel incident ?",
+    "Quelle recommandation ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CLOUD",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

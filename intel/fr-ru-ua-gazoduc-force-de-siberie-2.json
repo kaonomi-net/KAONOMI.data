@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-gazoduc-force-de-siberie-2",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Gazoduc Force de Sibérie 2",
+  "includedEntities": [
+    {
+      "entityName": "Force de Sibérie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "gazoduc",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet de gazoduc vers la Chine.",
+  "isFuzzy": true,
+  "locations": [
+    "Sibérie",
+    "Mongolie",
+    "Chine"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Gazprom",
+    "CNPC",
+    "prix"
+  ],
+  "questions": [
+    "Le contrat est-il signé ?",
+    "Quel prix ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#CHINE",
+    "#ENERGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

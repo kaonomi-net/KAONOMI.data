@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-interfaces-cerveau-machine",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Interfaces cerveau-machine",
+  "includedEntities": [
+    {
+      "entityName": "interface cerveau-machine",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "implant",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les interfaces cerveau-machine et leurs enjeux.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Neuralink",
+    "Clinatec",
+    "paralysie"
+  ],
+  "questions": [
+    "Quel implant ?",
+    "Quel résultat ?",
+    "Quel enjeu éthique ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#NEUROTECH"
+  ],
+  "events": [
+    "@ANNONCE"
+  ],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

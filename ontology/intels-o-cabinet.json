@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cabinet",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "cabinet",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Cyberattaque contre un cabinet d'avocats ou d'experts ; Style de gouvernance de von der Leyen.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les piratages de cabinets d'avocats, d'experts-comptables ou de notaires.",
+    "Suivre les critiques sur la centralisation du pouvoir autour de la présidente."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "cabinet",
+  "tags": [
+    "#CYBERSECURITE",
+    "#PROFESSIONS-LIBERALES",
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#GOUVERNANCE"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "rançon",
+    "données clients",
+    "secret professionnel",
+    "avocats",
+    "France",
+    "piratage",
+    "commissaires",
+    "von der Leyen",
+    "centralisation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

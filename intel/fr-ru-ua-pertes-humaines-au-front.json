@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-pertes-humaines-au-front",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Pertes humaines au front",
+  "includedEntities": [
+    {
+      "entityName": "pertes",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "soldats",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les estimations des pertes militaires des deux camps.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "état-major",
+    "renseignement britannique",
+    "Mediazona"
+  ],
+  "questions": [
+    "Quelle estimation ?",
+    "Quelle source ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#PERTES",
+    "#FRONT"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT",
+    "!SAD"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-moyens-letaux-et-prevention",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Moyens létaux et prévention",
+  "includedEntities": [
+    {
+      "entityName": "moyens létaux",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "restriction",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la restriction de l'accès aux moyens létaux.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ponts",
+    "médicaments",
+    "armes"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel effet ?",
+    "Quel site ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE"
+  ],
+  "events": [],
+  "signals": [
+    "!PREVENTION"
+  ],
+  "isDeleted": false
+}

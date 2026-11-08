@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-resilience-des-entites-critiques",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Résilience des entités critiques",
+  "includedEntities": [
+    {
+      "entityName": "entités critiques",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "résilience",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la directive européenne sur la résilience des entités critiques.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "loi Résilience",
+    "opérateurs",
+    "plans"
+  ],
+  "questions": [
+    "Quelle obligation ?",
+    "Quel calendrier ?",
+    "Quelles entités ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#INFRASTRUCTURES",
+    "#REGULATION"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 238,
+  "file": "0238-cybersecurite-explique-la-securite-des-postes-de.prompt.json",
+  "prompt": "Explique la sécurité des postes de travail de façon simple.",
+  "promptWords": 10,
+  "completion": "La sécurité des postes de travail est essentielle pour protéger les données, les systèmes et les utilisateurs contre les cybermenaces. Voici une explication simple des principaux aspects :\n\n1. **Mots de passe forts** :\n   - Utilisez des mots de passe complexes et uniques pour chaque compte.\n   - Évitez les mots de passe faciles à deviner comme \"123456\" ou \"password\".\n\n2. **Mises à jour régulières** :\n   - Tenez votre système d'exploitation et vos logiciels à jour pour corriger les failles de sécurité.\n\n3. **Antivirus et pare-feu** :\n   - Installez un antivirus pour détecter et bloquer les logiciels malveillants.\n   - Activez le pare-feu pour filtrer les accès non autorisés.\n\n4. **Sauvegardes** :\n   - Faites des sauvegardes régulières de vos données pour les récupérer en cas de perte ou de cyberattaque.\n\n5. **Sensibilisation des utilisateurs** :\n   - Apprenez à reconnaître les tentatives de phishing (emails ou sites frauduleux).\n   - Ne cliquez pas sur des liens ou ouvrez des pièces jointes suspectes.\n\n6. **Accès limité** :\n   - Donnez uniquement les droits nécessaires aux utilisateurs pour limiter les risques en cas de compromission.\n\n7. **Chiffrement des données** :\n   - Utilisez le chiffrement pour protéger les données sensibles, surtout sur les appareils mobiles.\n\nEn suivant ces bonnes pratiques, vous réduisez les risques de cyberattaques et protégez votre poste de travail efficacement.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:08:50.3990916+02:00",
+  "durationSeconds": 7.15,
+  "stats": "mistral-small3.2:latest · 519 + 350 tokens · 7,1 s",
+  "isError": false,
+  "language": "FR"
+}

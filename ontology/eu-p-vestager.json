@@ -1,0 +1,62 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique de concurrence) : Économiste, ancienne ministre danoise de l'Économie et de l'Intérieur, commissaire à la Concurrence de 2014 à 2024, vice-présidente exécutive chargée du numérique de 2019 à 2024.",
+  "id": "eu-p-vestager",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Margrethe Vestager",
+  "entityType": "PERSON",
+  "description": "Économiste, ancienne ministre danoise de l'Économie et de l'Intérieur, commissaire à la Concurrence de 2014 à 2024, vice-présidente exécutive chargée du numérique de 2019 à 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Margrethe Vestager.",
+    "Les manuels sur les institutions européennes citent Margrethe Vestager.",
+    "Le portrait de Margrethe Vestager figure dans le dossier consacré à la politique de concurrence."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Vestager"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUECONCURRENCE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Margrethe%20Vestager"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité danoise",
+    "Parti social-libéral danois (Radikale Venstre)",
+    "Économiste",
+    "Ministre de l'Économie",
+    "Ministre de l'Intérieur",
+    "Commissaire européen",
+    "Une Europe adaptée à l'ère du numérique et concurrence (Commission von der Leyen I)",
+    "Vice-président exécutif de la Commission",
+    "Commission von der Leyen I",
+    "Numérique",
+    "Concurrence",
+    "Concurrence (Commission Juncker)",
+    "Commission Juncker",
+    "Adoption du règlement sur l'IA par le Parlement européen"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

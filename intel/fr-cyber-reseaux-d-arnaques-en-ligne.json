@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-reseaux-d-arnaques-en-ligne",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Réseaux d'arnaques en ligne",
+  "includedEntities": [
+    {
+      "entityName": "centres d'arnaque",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "escroqueries",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les centres d'arnaques en ligne en Asie du Sud-Est.",
+  "isFuzzy": true,
+  "locations": [
+    "Birmanie",
+    "Cambodge"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "traite",
+    "arnaques sentimentales",
+    "cryptomonnaies"
+  ],
+  "questions": [
+    "Quel centre ?",
+    "Combien de victimes ?",
+    "Quelle opération ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ARNAQUE",
+    "#INTERNATIONAL"
+  ],
+  "events": [],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-surendettement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de ne plus pouvoir payer ses dettes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:surendettement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:surendett[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dossier\\s+de\\s+surendettement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:commission\\s+de\\s+surendettement)(?![\\w-])"
+  ],
+  "symbol": "surendettement",
+  "event": null,
+  "title": "Surendettement",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

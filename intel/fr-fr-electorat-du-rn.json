@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-electorat-du-rn",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Électorat du RN",
+  "includedEntities": [
+    {
+      "entityName": "électorat",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Rassemblement national",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sociologie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études sur l'électorat du RN.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "jeunes",
+    "ouvriers",
+    "retraités"
+  ],
+  "questions": [
+    "Quelles catégories progressent ?",
+    "Quels territoires ?",
+    "Quelles motivations ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#OPINION"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

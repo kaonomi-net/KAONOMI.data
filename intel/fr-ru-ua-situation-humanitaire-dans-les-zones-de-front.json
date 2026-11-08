@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-situation-humanitaire-dans-les-zones-de-front",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Situation humanitaire dans les zones de front",
+  "includedEntities": [
+    {
+      "entityName": "situation humanitaire",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "front",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "civils",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les conditions de vie des civils près du front.",
+  "isFuzzy": true,
+  "locations": [
+    "Donetsk",
+    "Kharkiv",
+    "Zaporijia"
+  ],
+  "times": [
+    "hiver"
+  ],
+  "relatedEntities": [
+    "ONG",
+    "eau",
+    "électricité"
+  ],
+  "questions": [
+    "Quels besoins ?",
+    "Quel accès humanitaire ?",
+    "Quelles évacuations ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#HUMANITAIRE",
+    "#CIVILS"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

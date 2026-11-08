@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-accords-entre-le-gouvernement-et-lr",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Accords entre le gouvernement et LR",
+  "includedEntities": [
+    {
+      "entityName": "Les Républicains",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "gouvernement",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "accord",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le soutien ou l'opposition de LR au gouvernement.",
+  "isFuzzy": true,
+  "locations": [
+    "Assemblée nationale",
+    "Sénat"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ministres LR",
+    "budget",
+    "Retailleau"
+  ],
+  "questions": [
+    "Quel soutien ?",
+    "Quelles conditions ?",
+    "Quelle rupture ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#LR",
+    "#GOUVERNEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-surchauffe",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une hausse excessive qui finit par éclater.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:surchauffe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bulle(s)?\\s+sp[ée]culative(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bulle(s)?\\s+immobili[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bulle(s)?\\s+financi[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]clatement\\s+de\\s+la\\s+bulle)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bulle\\s+internet)(?![\\w-])"
+  ],
+  "symbol": "surchauffe",
+  "event": null,
+  "title": "Surchauffe",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

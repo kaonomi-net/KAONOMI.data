@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-cables-sous-marins-en-mer-baltique",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Câbles sous-marins en mer Baltique",
+  "includedEntities": [
+    {
+      "entityName": "câbles sous-marins",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "mer Baltique",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les dommages aux câbles et gazoducs sous-marins de la Baltique.",
+  "isFuzzy": true,
+  "locations": [
+    "mer Baltique",
+    "golfe de Finlande"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ancres",
+    "navires",
+    "enquête"
+  ],
+  "questions": [
+    "Quel câble ?",
+    "Quel navire soupçonné ?",
+    "Quelle réparation ?"
+  ],
+  "tags": [
+    "#BALTIQUE",
+    "#INFRASTRUCTURES",
+    "#SABOTAGE"
+  ],
+  "events": [
+    "@SABOTAGE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

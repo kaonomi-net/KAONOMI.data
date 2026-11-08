@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-discrimination",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le traitement inégal et injuste.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:discrimination(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:discriminatoire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:discrimin(er|[ée]|[ée]e|[ée]s)|s[ée]gr[ée]gation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exclusion(s)?)(?![\\w-])"
+  ],
+  "symbol": "discrimination",
+  "event": null,
+  "title": "Discrimination",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

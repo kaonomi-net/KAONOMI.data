@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-douleur",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une sensation pénible, physique ou morale.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:douleur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:douloureu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mal\\s+[àa]\\s+(en\\s+)?mourir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:supplice(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:calvaire(s)?)(?![\\w-])"
+  ],
+  "symbol": "douleur",
+  "event": null,
+  "title": "Douleur",
+  "tags": [
+    "#SOUFFRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

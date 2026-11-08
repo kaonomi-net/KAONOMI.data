@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-fin-du-second-mandat-d-emmanuel-macron",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Fin du second mandat d'Emmanuel Macron",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "fin de mandat",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "bilan",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les derniers mois du mandat et la question du bilan.",
+  "isFuzzy": true,
+  "locations": [
+    "Élysée"
+  ],
+  "times": [
+    "jusqu'en mai 2027"
+  ],
+  "relatedEntities": [
+    "réformes",
+    "héritage",
+    "successeur"
+  ],
+  "questions": [
+    "Quelles dernières réformes ?",
+    "Quel bilan ?",
+    "Quel rôle après 2027 ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#BILAN"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "isDeleted": false
+}

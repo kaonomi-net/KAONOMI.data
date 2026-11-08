@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-bloc-central",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "bloc central",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Candidature d'Édouard Philippe ; François Bayrou et le MoDem ; Candidature unique du bloc central.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la candidature d'Édouard Philippe et de Horizons.",
+    "Suivre le rôle de François Bayrou et du MoDem dans la campagne.",
+    "Suivre les efforts pour un candidat unique du centre et de la majorité sortante."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "bloc central",
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#HORIZONS",
+    "#MODEM",
+    "#CENTRE"
+  ],
+  "events": [
+    "@CANDIDATURE"
+  ],
+  "signals": [
+    "!CAMPAGNE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Horizons",
+    "Le Havre",
+    "Édouard Philippe",
+    "sondages",
+    "candidature",
+    "MoDem",
+    "dette",
+    "François Bayrou",
+    "Pau",
+    "candidature unique"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

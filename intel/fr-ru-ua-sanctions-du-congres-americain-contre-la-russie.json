@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-sanctions-du-congres-americain-contre-la-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Sanctions du Congrès américain contre la Russie",
+  "includedEntities": [
+    {
+      "entityName": "Congrès",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sanctions",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les projets de loi de sanctions au Congrès américain.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Lindsey Graham",
+    "Sénat",
+    "droits de douane"
+  ],
+  "questions": [
+    "Quel projet ?",
+    "Est-il voté ?",
+    "Quel soutien de la Maison Blanche ?"
+  ],
+  "tags": [
+    "#ETATS-UNIS",
+    "#SANCTIONS",
+    "#RUSSIE"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE"
+  ],
+  "isDeleted": false
+}

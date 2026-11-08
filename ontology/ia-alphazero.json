@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les jeux) : DeepMind présente AlphaZero, qui apprend seul les échecs, le shogi et le go par auto-apprentissage et bat les meilleurs programmes.",
+  "id": "ia-alphazero",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Annonce d'AlphaZero",
+  "entityType": "EVENT",
+  "description": "DeepMind présente AlphaZero, qui apprend seul les échecs, le shogi et le go par auto-apprentissage et bat les meilleurs programmes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "On date souvent un tournant des jeux à « Annonce d'AlphaZero ».",
+    "« Annonce d'AlphaZero » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « Annonce d'AlphaZero »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "AlphaZero"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#JEUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Annonce%20d%27AlphaZero"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AlphaGo"
+  ],
+  "isDeleted": false,
+  "startDate": "2017-12-05T00:00:00",
+  "endDate": "2017-12-05T00:00:00"
+}

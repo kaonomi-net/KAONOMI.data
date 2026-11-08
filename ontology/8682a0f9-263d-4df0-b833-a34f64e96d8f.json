@@ -1,0 +1,63 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-13T15:05:48.561781+02:00",
+  "machineName": "Jeromes-MacBook-Pro",
+  "userName": "jerome",
+  "comment": "Kaonomi helps users maintain focus by providing a distraction‑free environment for managing tasks and ideas.",
+  "id": "8682a0f9-263d-4df0-b833-a34f64e96d8f",
+  "dateCreated": "2026-10-13 15:05:48",
+  "name": "Kaonomi",
+  "entityType": "SOFTWARE",
+  "description": "Kaonomi is a cross‑platform productivity software that focuses on simplifying task organization and note‑taking. It offers a clean, minimalist interface with powerful features such as tagging, due dates, and markdown support. Designed primarily for macOS, it integrates seamlessly with the Apple ecosystem, allowing users to sync data via iCloud. Its lightweight architecture makes it ideal for professionals who need quick access to their workflow without the overhead of larger suites.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "52a36ca9-4770-4c8f-8fad-332e5254c596",
+  "sentencesExemples": [
+    "I just finished a long project and spent the last hour organizing my next steps in Kaonomi.",
+    "Kaonomi’s markdown support makes it easy to write and format notes directly within the app.",
+    "When I need a quick reminder, I open Kaonomi and add a task with a due date in seconds."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 1,
+  "happyLevel": 7,
+  "fearLevel": 1,
+  "surpriseLevel": 3,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "",
+  "synonyms": [
+    "Kaon",
+    "Kaonim",
+    "KaonomiApp",
+    "Kaon Productivity",
+    "KaonNote",
+    "KaonTask",
+    "Kaon Organizer",
+    "KaonSuite"
+  ],
+  "title": "",
+  "tags": [
+    "#PRODUCTIVITY",
+    "#TASKMANAGEMENT",
+    "#NOTETAKING",
+    "#MACOS",
+    "#APPLEECOSYSTEM"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [],
+  "confidentiality": "COSMIC TOP SECRET(CTS)",
+  "confidentialityLevel": 4,
+  "relatedEntities": [
+    "macOS",
+    "Apple Inc.",
+    "iCloud",
+    "Markdown",
+    "Task Management",
+    "Note‑taking",
+    "Todoist",
+    "Notion"
+  ],
+  "isDeleted": false,
+  "startDate": "2025-03-16T00:00:00",
+  "endDate": "2027-04-04T00:00:00"
+}

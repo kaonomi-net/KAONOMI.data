@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-depotoir",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le lieu où l'on dépose les ordures.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]charge(s)?\\s+sauvage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]charge(s)?\\s+publique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]p[ôo]t(s)?\\s+d['’]ordures)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]potoir(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:montagne(s)?\\s+de\\s+d[ée]chets)(?![\\w-])"
+  ],
+  "symbol": "dépotoir",
+  "event": null,
+  "title": "Dépotoir",
+  "tags": [
+    "#DISGUST",
+    "#INSALUBRITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

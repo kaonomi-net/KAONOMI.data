@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-soldats-captures",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "soldats capturés",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Exécutions de soldats capturés.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Repérer les signalements d'exécutions de soldats qui se rendent."
+  ],
+  "angryLevel": null,
+  "sadLevel": 100,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "soldats capturés",
+  "tags": [
+    "#UKRAINE",
+    "#CRIMES-DE-GUERRE",
+    "#DROITS-HUMAINS"
+  ],
+  "events": [
+    "@SIGNALEMENT"
+  ],
+  "signals": [
+    "!SAD",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "crimes de guerre",
+    "vidéos",
+    "enquête",
+    "exécution"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

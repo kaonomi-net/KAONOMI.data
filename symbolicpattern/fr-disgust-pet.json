@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-pet",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un gaz intestinal.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pet(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]t(er|[ée]|ait)|flatulence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vent(s)?\\s+(l[âa]ch[ée]|bruyant)(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prout(s)?)(?![\\w-])"
+  ],
+  "symbol": "pet",
+  "event": null,
+  "title": "Pet",
+  "tags": [
+    "#DISGUST",
+    "#ODEUR",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 329,
+  "file": "0329-ia-llm-explique-le-fine-tuning-de-facon.prompt.json",
+  "prompt": "Explique le fine-tuning de façon simple.",
+  "promptWords": 6,
+  "completion": "Le fine-tuning, ou \"affinage\" en français, est une technique utilisée pour améliorer les performances d'un modèle de machine learning, comme un modèle de langage, sur une tâche spécifique.\n\nImagine que tu as un modèle généraliste, comme moi, qui a été entraîné sur une grande quantité de données pour comprendre et générer du texte dans de nombreux contextes. Cependant, ce modèle peut ne pas être aussi performant sur des tâches très spécifiques, comme répondre à des questions sur un domaine particulier (par exemple, la médecine ou le droit).\n\nLe fine-tuning consiste à prendre ce modèle général et à l'entraîner à nouveau, mais cette fois sur un ensemble de données plus petit et plus spécifique. Cela permet au modèle d'ajuster ses paramètres pour mieux répondre aux besoins de la tâche spécifique.\n\nEn résumé, le fine-tuning est comme donner des cours particuliers à un étudiant déjà bien éduqué pour l'aider à exceller dans une matière particulière.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:25:23.1410127+02:00",
+  "durationSeconds": 4.2,
+  "stats": "mistral-small3.2:latest · 517 + 200 tokens · 4,2 s",
+  "isError": false,
+  "language": "FR"
+}

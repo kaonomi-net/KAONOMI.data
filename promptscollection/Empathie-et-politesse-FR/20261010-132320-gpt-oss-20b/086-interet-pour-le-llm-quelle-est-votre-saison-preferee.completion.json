@@ -1,0 +1,13 @@
+{
+  "index": 86,
+  "file": "086-interet-pour-le-llm-quelle-est-votre-saison-preferee.prompt.json",
+  "prompt": "Quelle est votre saison préférée ?",
+  "promptWords": 6,
+  "completion": "Je n’ai pas de sentiments, donc je ne peux pas vraiment dire qu’une saison est *ma* préférée.  \nMais si l’on me demande de choisir une saison qui me semble particulièrement agréable, je pencherais vers le **printemps**.  \n\n**Pourquoi le printemps ?**  \n- Le climat est doux, ni trop chaud ni trop froid.  \n- Les fleurs commencent à éclore, les arbres reprennent leurs feuilles, et le paysage se renouvelle de façon spectaculaire.  \n- C’est une période de renouveau, où de nouvelles idées et projets prennent forme – un peu comme une métaphore pour la créativité.  \n\nCela dit, chaque saison a ses charmes :  \n- **Été** : chaleur, longues journées, vacances, soirées à la plage.  \n- **Automne** : couleurs chaudes, récoltes, soirées cosy.  \n- **Hiver** : neige, festivals, temps d’introspection.\n\nAlors, quelle est votre saison préférée, et pourquoi\u202F?",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:27:42.3447066+02:00",
+  "durationSeconds": 2.79,
+  "stats": "gpt-oss:20b · 74 + 396 tokens · 2,8 s",
+  "isError": false,
+  "language": "FR"
+}

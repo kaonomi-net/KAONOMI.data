@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-societe-generale",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Société Générale",
+  "includedEntities": [
+    {
+      "entityName": "Société Générale",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "banque",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Société Générale et son redressement.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Slawomir Krupa",
+    "rentabilité",
+    "cessions"
+  ],
+  "questions": [
+    "Quel bénéfice ?",
+    "Quelle cession ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#BANQUES"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

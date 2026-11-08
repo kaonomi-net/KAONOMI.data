@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sahel",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "Sahel",
+  "entityType": "LOCATION",
+  "description": "Cité par 4 intels : Russie en Afrique et au Moyen-Orient ; Juntes militaires du Sahel ; Terrorisme international ; Macron et l'Afrique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre la projection d'influence russe hors d'Europe.",
+    "Suivre les régimes militaires du Mali, du Burkina Faso et du Niger.",
+    "Surveiller l'activité des groupes terroristes internationaux."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 25,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Sahel",
+  "tags": [
+    "#AFRIQUE",
+    "#GEOPOLITIQUE",
+    "#RUSSIE",
+    "#INFLUENCE",
+    "#SAHEL",
+    "#TERRORISME"
+  ],
+  "events": [
+    "@ATTENTAT"
+  ],
+  "signals": [
+    "!INFLUENCE",
+    "!INSTABILITE",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Russie",
+    "Syrie",
+    "Afrique",
+    "influence",
+    "armement",
+    "Africa Corps",
+    "céréales",
+    "Libye",
+    "Mali",
+    "CEDEAO"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

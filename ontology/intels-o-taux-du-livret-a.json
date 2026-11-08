@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-taux-du-livret-a",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "taux du livret A",
+  "entityType": "PRODUCT",
+  "description": "Cité par 1 intel : Épargne des Français.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre l'épargne des ménages et son rôle face à la dette."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "taux du livret A",
+  "tags": [
+    "#FRANCE",
+    "#EPARGNE",
+    "#DETTE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "assurance vie",
+    "confiance",
+    "emprunt national",
+    "épargne",
+    "livret A"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

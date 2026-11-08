@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-addiction",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "addiction",
+  "entityType": "DOMAIN",
+  "description": "Cité par 5 intels : Santé mentale et réseaux sociaux ; Addiction aux réseaux sociaux ; Addiction aux jeux vidéo ; Pornographie et addiction ; Addiction et IA conversationnelle.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les initiatives européennes sur la santé mentale des jeunes.",
+    "Suivre les procès et études sur l'addiction aux réseaux sociaux.",
+    "Suivre le trouble du jeu vidéo."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "addiction",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADDICTIONS",
+    "#UNION-EUROPEENNE",
+    "#SANTE-MENTALE",
+    "#NUMERIQUE",
+    "#RESEAUX-SOCIAUX"
+  ],
+  "events": [
+    "@PROCES"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!SOCIETE",
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "jeunes",
+    "réseaux sociaux",
+    "plateformes",
+    "écrans",
+    "santé mentale",
+    "Bruxelles",
+    "procès",
+    "Europe",
+    "TikTok",
+    "Meta"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

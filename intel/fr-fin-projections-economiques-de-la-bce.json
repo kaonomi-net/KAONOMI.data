@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-projections-economiques-de-la-bce",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Projections économiques de la BCE",
+  "includedEntities": [
+    {
+      "entityName": "projections",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "BCE",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les projections de croissance et d'inflation de la BCE.",
+  "isFuzzy": true,
+  "locations": [
+    "Francfort"
+  ],
+  "times": [
+    "réunions trimestrielles"
+  ],
+  "relatedEntities": [
+    "croissance",
+    "inflation",
+    "énergie"
+  ],
+  "questions": [
+    "Quelle révision ?",
+    "Quels risques ?",
+    "Quel horizon ?"
+  ],
+  "tags": [
+    "#BCE",
+    "#PREVISIONS"
+  ],
+  "events": [
+    "@PREVISIONS"
+  ],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

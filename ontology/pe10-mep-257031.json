@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Pologne.",
+  "id": "pe10-mep-257031",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Dariusz Joński",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Pologne. Groupe politique : Parti populaire européen (PPE). Parti ou liste national : Koalicja Obywatelska.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Les électeurs peuvent écrire à Dariusz Joński au Parlement européen.",
+    "La fiche officielle de Dariusz Joński est publiée sur le site du Parlement européen.",
+    "Lors de la session plénière à Strasbourg, Dariusz Joński a pris la parole."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Dariusz JOŃSKI"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/257031",
+    "https://fr.wikipedia.org/w/index.php?search=Dariusz%20Jo%C5%84ski"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Pologne",
+    "Parlement européen",
+    "Parti populaire européen (PPE)",
+    "Koalicja Obywatelska"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-methane-et-importations-de-gaz",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Méthane et importations de gaz",
+  "includedEntities": [
+    {
+      "entityName": "méthane",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "importations",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'application des règles sur le méthane aux importations de gaz.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "GNL",
+    "États-Unis",
+    "Qatar"
+  ],
+  "questions": [
+    "Quelle règle ?",
+    "Quelle flexibilité ?",
+    "Quelle pression des fournisseurs ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENERGIE",
+    "#CLIMAT"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

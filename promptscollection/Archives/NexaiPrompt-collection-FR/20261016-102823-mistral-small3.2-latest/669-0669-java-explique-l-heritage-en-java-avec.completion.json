@@ -1,0 +1,13 @@
+{
+  "index": 669,
+  "file": "0669-java-explique-l-heritage-en-java-avec.prompt.json",
+  "prompt": "Explique l'héritage en Java avec un exemple simple.",
+  "promptWords": 8,
+  "completion": "L'héritage en Java est un mécanisme qui permet à une classe (appelée classe enfant ou sous-classe) d'hériter des propriétés et des comportements d'une autre classe (appelée classe parent ou super-classe). Cela favorise la réutilisation du code et la hiérarchie des classes.\n\n### Exemple simple d'héritage en Java :\n\n```java\n// Classe parent (super-classe)\nclass Animal {\n    // Attribut de la classe Animal\n    String nom;\n\n    // Constructeur de la classe Animal\n    public Animal(String nom) {\n        this.nom = nom;\n    }\n\n    // Méthode de la classe Animal\n    public void manger() {\n        System.out.println(nom + \" mange.\");\n    }\n}\n\n// Classe enfant (sous-classe) qui hérite de Animal\nclass Chien extends Animal {\n    // Constructeur de la classe Chien\n    public Chien(String nom) {\n        super(nom); // Appel au constructeur de la classe parent\n    }\n\n    // Méthode spécifique à la classe Chien\n    public void aboyer() {\n        System.out.println(nom + \" aboie.\");\n    }\n}\n\npublic class Main {\n    public static void main(String[] args) {\n        // Création d'un objet Chien\n        Chien monChien = new Chien(\"Rex\");\n\n        // Appel des méthodes héritées et spécifiques\n        monChien.manger(); // Hérite de la classe Animal\n        monChien.aboyer(); // Méthode spécifique à la classe Chien\n    }\n}\n```\n\n### Explication :\n1. **Classe `Animal`** : C'est la classe parent qui définit un attribut `nom` et une méthode `manger()`.\n2. **Classe `Chien`** : C'est la classe enfant qui hérite de `Animal` en utilisant le mot-clé `extends`. Elle peut utiliser l'attribut `nom` et la méthode `manger()` de la classe `Animal`, et ajoute une méthode spécifique `aboyer()`.\n3. **Constructeur** : Le constructeur de `Chien` appelle le constructeur de `Animal` avec `super(nom)` pour initialiser l'attribut `nom`.\n4. **Utilisation** : Dans la méthode `main`, on crée un objet `Chien` et on appelle à la fois la méthode héritée `manger()` et la méthode spécifique `aboyer()`.\n\n### Sortie attendue :\n```\nRex mange.\nRex aboie.\n```\n\nCet exemple montre comment l'héritage permet de réutiliser le code de la classe parent dans la classe enfant tout en ajoutant des fonctionnalités spécifiques.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:42:51.409816+02:00",
+  "durationSeconds": 11.44,
+  "stats": "mistral-small3.2:latest · 520 + 563 tokens · 11,4 s",
+  "isError": false,
+  "language": "FR"
+}

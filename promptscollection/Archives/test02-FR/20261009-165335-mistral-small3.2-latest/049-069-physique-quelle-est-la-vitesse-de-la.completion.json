@@ -1,0 +1,13 @@
+{
+  "index": 49,
+  "file": "069-physique-quelle-est-la-vitesse-de-la.prompt.json",
+  "prompt": "Quelle est la vitesse de la lumière et pourquoi ne peut-on pas la dépasser ?",
+  "promptWords": 15,
+  "completion": "La vitesse de la lumière dans le vide est d'environ 299 792 kilomètres par seconde (environ 1 079 252 848,8 km/h). Cette constante universelle est notée \\( c \\) et est l'une des valeurs fondamentales en physique.\n\n### Pourquoi ne peut-on pas dépasser la vitesse de la lumière ?\nSelon la théorie de la relativité restreinte d'Albert Einstein, la vitesse de la lumière est une limite absolue pour tout objet matériel. Voici pourquoi :\n\n1. **Masse et énergie** : Lorsque la vitesse d'un objet approche celle de la lumière, son énergie cinétique augmente de manière exponentielle. Pour atteindre \\( c \\), il faudrait une quantité infinie d'énergie, ce qui est impossible.\n\n2. **Dilatation du temps et contraction de la longueur** : Selon la relativité, le temps ralentit et les distances se contractent dans le référentiel d'un objet en mouvement. À la vitesse de la lumière, le temps s'arrêterait complètement pour cet objet (du point de vue d'un observateur immobile), ce qui est physiquement incohérent pour un objet matériel.\n\n3. **Conservation de l'énergie** : La relativité impose que l'énergie totale d'un système ne peut pas dépasser celle d'un photon (particule de lumière), qui se déplace toujours à \\( c \\). Un objet matériel ayant une masse au repos ne peut donc jamais atteindre cette vitesse.\n\nEn résumé, la vitesse de la lumière est une limite fondamentale de l'univers, imposée par les lois de la physique telles que nous les comprenons aujourd'hui.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:01:53.1723122+02:00",
+  "durationSeconds": 7.61,
+  "stats": "mistral-small3.2:latest · 525 + 341 tokens · 7,6 s",
+  "isError": false,
+  "language": "FR"
+}

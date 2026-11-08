@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-vote-electronique",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "vote électronique",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Vote électronique et modernisation.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les projets de modernisation du vote."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "vote électronique",
+  "tags": [
+    "#FRANCE",
+    "#ELECTIONS",
+    "#NUMERIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "machines à voter",
+    "modernisation",
+    "Français de l'étranger",
+    "sécurité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

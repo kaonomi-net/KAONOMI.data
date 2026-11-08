@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-presence-russe-en-afrique",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Présence russe en Afrique",
+  "includedEntities": [
+    {
+      "entityName": "Russie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Africa Corps",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Wagner",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'implantation militaire et économique russe en Afrique.",
+  "isFuzzy": true,
+  "locations": [
+    "Mali",
+    "Centrafrique",
+    "Libye"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "mercenaires",
+    "mines d'or",
+    "juntes"
+  ],
+  "questions": [
+    "Où sont-ils déployés ?",
+    "Quels contrats ?",
+    "Quelles exactions signalées ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#AFRIQUE",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

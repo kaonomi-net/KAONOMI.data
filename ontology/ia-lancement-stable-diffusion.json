@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les modèles génératifs) : Publication en accès libre des poids du modèle de génération d'images Stable Diffusion par Stability AI et ses partenaires.",
+  "id": "ia-lancement-stable-diffusion",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Diffusion publique de Stable Diffusion",
+  "entityType": "EVENT",
+  "description": "Publication en accès libre des poids du modèle de génération d'images Stable Diffusion par Stability AI et ses partenaires.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "Dans sa conférence, l'historien des sciences est revenu sur « Diffusion publique de Stable Diffusion ».",
+    "On date souvent un tournant des modèles génératifs à « Diffusion publique de Stable Diffusion ».",
+    "« Diffusion publique de Stable Diffusion » est un jalon de l'histoire de l'intelligence artificielle."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "sortie de Stable Diffusion"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#MODELESGENERATIFS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Diffusion%20publique%20de%20Stable%20Diffusion"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Stable Diffusion"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-08-22T00:00:00",
+  "endDate": "2022-08-22T00:00:00"
+}

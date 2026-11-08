@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-detroit-d-ormuz",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Détroit d'Ormuz",
+  "includedEntities": [
+    {
+      "entityName": "détroit d'Ormuz",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "pétroliers",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller la sécurité du passage stratégique du détroit d'Ormuz.",
+  "isFuzzy": true,
+  "locations": [
+    "golfe Persique",
+    "Ormuz"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Iran",
+    "pétrole",
+    "marine américaine"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quel impact sur le prix du pétrole ?",
+    "Quelles escortes ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ENERGIE",
+    "#MARITIME",
+    "#IRAN"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

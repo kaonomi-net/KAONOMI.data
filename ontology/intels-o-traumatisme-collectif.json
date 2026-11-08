@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-traumatisme-collectif",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "traumatisme collectif",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Traumatisme collectif après un attentat.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la prise en charge psychologique après un attentat ou une catastrophe."
+  ],
+  "angryLevel": null,
+  "sadLevel": 100,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "traumatisme collectif",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TRAUMA",
+    "#ATTENTAT"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "victimes",
+    "témoins",
+    "cellules d'urgence médico-psychologique",
+    "attentat"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

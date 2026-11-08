@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-changement-de-dirigeant-d-une-grande-puissance",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Changement de dirigeant d'une grande puissance",
+  "includedEntities": [
+    {
+      "entityName": "nouveau président",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "investiture",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "gouvernement",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les changements à la tête des grandes puissances.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "jour de l'investiture"
+  ],
+  "relatedEntities": [
+    "politique étrangère",
+    "alliances",
+    "marchés"
+  ],
+  "questions": [
+    "Qui arrive au pouvoir ?",
+    "Quelle politique étrangère ?",
+    "Quelles premières décisions ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#POUVOIR",
+    "#TRANSITION"
+  ],
+  "events": [
+    "@CHANGEMENT-POUVOIR"
+  ],
+  "signals": [
+    "!INCERTITUDE"
+  ],
+  "isDeleted": false
+}

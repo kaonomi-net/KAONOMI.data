@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-transhumanisme",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'idée d'augmenter l'humain par la technique.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:transhumanisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:transhumaniste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:humain\\s+augment[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:puce(s)?\\s+implant[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cyborg(s)?)(?![\\w-])"
+  ],
+  "symbol": "transhumanisme",
+  "event": null,
+  "title": "Transhumanisme",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

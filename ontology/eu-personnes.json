@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Classe de l'ontologie : persons › Personnalités de l'Union européenne.",
+  "id": "eu-personnes",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Personnalités de l'Union européenne",
+  "entityType": "PERSON",
+  "description": "Les présidents de la Commission, les commissaires et les dirigeants des institutions européennes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ontology-root-persons",
+  "sentencesExemples": [
+    "La branche « Personnalités de l'Union européenne » de l'ontologie regroupe les entrées de ce thème.",
+    "Pour explorer « Personnalités de l'Union européenne », ouvrez la branche dans la fenêtre de l'ontologie.",
+    "Chaque entrée de « Personnalités de l'Union européenne » est reliée à d'autres par des relations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": true,
+  "symbol": "\uD83D\uDCC2",
+  "synonyms": [
+    "acteurs européens"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ONTOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-restructuration",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "restructuration",
+  "entityType": "DOMAIN",
+  "description": "Cité par 5 intels : Restructuration de la dette ukrainienne ; Défaut ou restructuration de dette ; Syensqo ; STMicroelectronics ; Atos.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les négociations sur la dette ukrainienne.",
+    "Repérer les défauts d'entreprises ou d'États.",
+    "Suivre l'action Syensqo et la chimie de spécialité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "restructuration",
+  "tags": [
+    "#BOURSE",
+    "#UKRAINE",
+    "#DETTE",
+    "#FINANCE",
+    "#OBLIGATIONS",
+    "#DEFAUT"
+  ],
+  "events": [
+    "@DEFAUT",
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!ALERTE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "dette",
+    "créanciers",
+    "Ukraine",
+    "euro-obligations",
+    "FMI",
+    "tribunal",
+    "agences de notation",
+    "défaut",
+    "Syensqo",
+    "matériaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 154,
+  "file": "0154-microsoft-office-how-do-i-use-presenter-view.prompt.json",
+  "prompt": "How do I use Presenter View in PowerPoint?",
+  "promptWords": 8,
+  "completion": "To use Presenter View in PowerPoint, follow these steps:\n\n### **For Windows:**\n1. **Open Your Presentation**: Launch PowerPoint and open the presentation you want to use.\n2. **Enable Presenter View**:\n   - Go to the **Slide Show** tab.\n   - Click on **Use Presenter View** (or **Presented View** in some versions).\n   - Alternatively, press **Alt + F5** to start the slideshow in Presenter View.\n3. **Set Up Multiple Displays**:\n   - If you're using a second monitor (recommended for best results), go to **File > Options > Advanced**.\n   - Under **Display**, check **Show Presenter View** and ensure your second monitor is set up correctly.\n4. **Customize Presenter View**:\n   - You can see your current slide, the next slide (for reference), speaker notes, and a timer.\n   - Adjust settings like **Slide Size**, **Notes Size**, and **Timer** as needed.\n\n### **For Mac:**\n1. **Open Your Presentation**: Launch PowerPoint and open your file.\n2. **Enable Presenter View**:\n   - Go to the **Slide Show** tab.\n   - Click on **Presented View** (or press **Cmd + Shift + F5**).\n3. **Set Up Multiple Displays**:\n   - Go to **PowerPoint > Preferences > Slide Show**.\n   - Under **Display**, select **Show Presenter View** and configure your second monitor.\n\n### **Tips for Best Results:**\n- Use a second monitor to display Presenter View while the audience sees only the slides.\n- Practice using Presenter View before your actual presentation to get comfortable with the layout.\n- Adjust the timer and notes view to suit your needs.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:31:54.680906+02:00",
+  "durationSeconds": 9.42,
+  "stats": "mistral-small3.2:latest · 518 + 364 tokens · 9,4 s",
+  "isError": false,
+  "language": "EN"
+}

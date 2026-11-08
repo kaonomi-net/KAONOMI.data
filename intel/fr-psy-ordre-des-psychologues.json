@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-ordre-des-psychologues",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Ordre des psychologues",
+  "includedEntities": [
+    {
+      "entityName": "ordre des psychologues",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "création",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur la création d'un ordre des psychologues.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "déontologie",
+    "syndicats",
+    "Parlement"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quel soutien ?",
+    "Quelle opposition ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PROFESSION",
+    "#DEBAT"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

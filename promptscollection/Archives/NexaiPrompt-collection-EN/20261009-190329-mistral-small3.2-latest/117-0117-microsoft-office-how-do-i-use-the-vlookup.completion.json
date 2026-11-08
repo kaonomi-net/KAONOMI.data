@@ -1,0 +1,13 @@
+{
+  "index": 117,
+  "file": "0117-microsoft-office-how-do-i-use-the-vlookup.prompt.json",
+  "prompt": "How do I use the VLOOKUP function in Excel?",
+  "promptWords": 9,
+  "completion": "The VLOOKUP function in Excel is used to search for a value in the first column of a table or range of cells and then return a value in the same row from a specified column. Here's how to use it:\n\n### Syntax:\n```excel\nVLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])\n```\n\n### Parameters:\n1. **lookup_value**: The value you want to search for in the first column of the table.\n2. **table_array**: The range of cells that contains the data you want to search through.\n3. **col_index_num**: The column number in the table from which to return the value.\n4. **range_lookup** (optional): Specifies whether you want an exact match (FALSE) or an approximate match (TRUE).\n\n### Steps to Use VLOOKUP:\n1. **Identify the lookup value**: This is the value you want to search for.\n2. **Define the table array**: This is the range of cells that contains the data.\n3. **Determine the column index number**: This is the column number from which you want to return the value.\n4. **Choose the range lookup**: Use FALSE for an exact match and TRUE for an approximate match.\n\n### Example:\nSuppose you have a table with product IDs in column A and product names in column B. You want to find the product name for a specific product ID.\n\n1. **Lookup Value**: The product ID you are searching for (e.g., \"101\").\n2. **Table Array**: The range of cells containing the product IDs and names (e.g., \"A2:B10\").\n3. **Column Index Number**: The column number from which to return the product name (e.g., \"2\" because the product names are in column B).\n4. **Range Lookup**: FALSE (for an exact match).\n\nThe formula would look like this:\n```excel\n=VLOOKUP(\"101\", A2:B10, 2, FALSE)\n```\n\n### Tips:\n- Ensure the lookup value is in the first column of the table array.\n- Use absolute references (e.g., $A$2:$B$10) if you want to copy the formula to other cells.\n- VLOOKUP is case-insensitive.\n\nIf you need more specific help or have a particular scenario in mind, feel free to ask!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:24:52.1039293+02:00",
+  "durationSeconds": 11.37,
+  "stats": "mistral-small3.2:latest · 520 + 499 tokens · 11,3 s",
+  "isError": false,
+  "language": "EN"
+}

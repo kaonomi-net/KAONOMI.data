@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Union lituanienne des agriculteurs et des verts (LVŽS), parti politique de ce pays : Lituanie.",
+  "id": "eu-parti-lvzs",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Union lituanienne des agriculteurs et des verts (LVŽS)",
+  "entityType": "ORGANISATION",
+  "description": "Union lituanienne des agriculteurs et des verts (LVŽS), parti politique de ce pays : Lituanie. Il est affilié à la famille Les Verts/Alliance libre européenne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Le rapport annuel de « Union lituanienne des agriculteurs et des verts (LVŽS) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Union lituanienne des agriculteurs et des verts (LVŽS) ».",
+    "Les décisions de « Union lituanienne des agriculteurs et des verts (LVŽS) » touchent la vie politique nationale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Union%20lituanienne%20des%20agriculteurs%20et%20des%20verts%20%28LV%C5%BDS%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Lituanie",
+    "Les Verts/Alliance libre européenne",
+    "Virginijus Sinkevičius"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

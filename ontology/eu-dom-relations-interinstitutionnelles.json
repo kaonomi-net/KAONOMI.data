@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (les relations interinstitutionnelles) : Relations de la Commission avec le Parlement européen, le Conseil et les parlements nationaux.",
+  "id": "eu-dom-relations-interinstitutionnelles",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Relations interinstitutionnelles",
+  "entityType": "DOMAIN",
+  "description": "Relations de la Commission avec le Parlement européen, le Conseil et les parlements nationaux.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Les propositions législatives relatives au domaine « Relations interinstitutionnelles » passent par le Parlement et le Conseil.",
+    "La conférence portait sur les relations interinstitutionnelles.",
+    "Le domaine « Relations interinstitutionnelles » figure dans le programme de travail de la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#RELATIONSINTERINSTITUTIONNELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Relations%20interinstitutionnelles"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conseil de l'Union européenne",
+    "Commission des affaires constitutionnelles (AFCO)",
+    "Relations interinstitutionnelles et prospective, puis Pacte vert (Commission von der Leyen I)",
+    "Maroš Šefčovič",
+    "Commerce et sécurité économique ; relations interinstitutionnelles et transparence (Commission von der Leyen II)",
+    "Amélioration de la réglementation, relations interinstitutionnelles, état de droit et Charte des droits fondamentaux (Commission Juncker)",
+    "Frans Timmermans",
+    "Relations interinstitutionnelles et administration (Commission Barroso II)",
+    "Secrétariat général",
+    "Traité de Lisbonne",
+    "Approbation du collège von der Leyen I",
+    "Approbation du collège von der Leyen II"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

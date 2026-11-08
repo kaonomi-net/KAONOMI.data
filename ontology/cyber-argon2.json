@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (le stockage des mots de passe) : Fonction de hachage de mots de passe gourmande en mémoire, lauréate de la Password Hashing Competition en 2015.",
+  "id": "cyber-argon2",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Argon2",
+  "entityType": "ALGORITHM",
+  "description": "Fonction de hachage de mots de passe gourmande en mémoire, lauréate de la Password Hashing Competition en 2015.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "La chercheuse a présenté une analyse de Argon2 lors du séminaire.",
+    "Argon2 est enseigné dans tous les cours consacrés au stockage des mots de passe.",
+    "L'audit vérifie que Argon2 est utilisé correctement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "Argon2id"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#STOCKAGEMOTSPASSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Argon2"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "bcrypt",
+    "KeePass"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-01-01T00:00:00",
+  "endDate": null
+}

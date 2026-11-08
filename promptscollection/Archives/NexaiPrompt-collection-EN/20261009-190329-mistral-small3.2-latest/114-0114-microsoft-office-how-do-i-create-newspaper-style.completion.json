@@ -1,0 +1,13 @@
+{
+  "index": 114,
+  "file": "0114-microsoft-office-how-do-i-create-newspaper-style.prompt.json",
+  "prompt": "How do I create newspaper-style columns in Word?",
+  "promptWords": 8,
+  "completion": "To create newspaper-style columns in Microsoft Word, you can follow these steps:\n\n### **Method 1: Using the Columns Feature**\n1. **Open your Word document** and place the cursor where you want the columns to start.\n2. Go to the **Layout** or **Page Layout** tab in the ribbon.\n3. Click on **Columns** in the **Page Setup** group.\n4. Choose the number of columns you want (e.g., 2, 3, or more).\n   - Alternatively, select **More Columns** to customize the number, width, and spacing of the columns.\n\n### **Method 2: Using Text Boxes (for more control)**\n1. **Insert a Text Box**:\n   - Go to the **Insert** tab.\n   - Click on **Text Box** and choose **Draw Text Box**.\n2. **Draw the Text Box**:\n   - Click and drag to create a column-shaped box.\n   - Repeat for additional columns.\n3. **Format the Text Boxes**:\n   - Right-click inside a text box and select **Format Shape**.\n   - Under **Line**, set **Line** to **No line** to remove borders.\n   - Adjust text alignment and spacing as needed.\n4. **Link Text Boxes (for continuous text flow)**:\n   - Place the cursor at the end of the first text box.\n   - Press **Ctrl + Shift + Enter** to create a linked text box.\n   - Repeat for additional columns.\n\n### **Method 3: Using a Table (for structured content)**\n1. **Insert a Table**:\n   - Go to the **Insert** tab.\n   - Click on **Table** and choose the number of columns you need.\n2. **Remove Borders (Optional)**:\n   - Select the table.\n   - Go to the **Design** tab under **Table Tools**.\n   - Click **Borders** and choose **No Borders** to make it look like columns.\n\nWould you like help with a specific version of Word (e.g., Word 2016, Word 365)? Let me know if you need further assistance!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:24:22.6684394+02:00",
+  "durationSeconds": 10.07,
+  "stats": "mistral-small3.2:latest · 517 + 437 tokens · 10,1 s",
+  "isError": false,
+  "language": "EN"
+}

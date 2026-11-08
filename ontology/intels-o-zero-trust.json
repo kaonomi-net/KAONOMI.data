@@ -1,0 +1,56 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-zero-trust",
+  "dateCreated": "2026-11-08 17:55:50",
+  "name": "zero trust",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Zscaler et le zero trust ; Zero trust.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre Zscaler et le marché du zero trust.",
+    "Suivre l'adoption des architectures zero trust."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "zero trust",
+  "tags": [
+    "#CYBERSECURITE",
+    "#ZERO-TRUST",
+    "#ENTREPRISES",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS",
+    "!DEFENSE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "SASE",
+    "résultats",
+    "Zscaler",
+    "San José",
+    "acquisitions",
+    "accès",
+    "identités",
+    "segmentation",
+    "architecture"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

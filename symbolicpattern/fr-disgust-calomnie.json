@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-calomnie",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une accusation mensongère.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:calomnie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:calomni(er|[ée]|[ée]e|ateur|atrice|eux|euse)|diffamation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:diffam(er|[ée]|[ée]e|atoire)|ragot(s)?)(?![\\w-])"
+  ],
+  "symbol": "calomnie",
+  "event": null,
+  "title": "Calomnie",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

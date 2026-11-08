@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-trajectoire-de-la-dette-jusqu-en-2030",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Trajectoire de la dette jusqu'en 2030",
+  "includedEntities": [
+    {
+      "entityName": "trajectoire",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "dette",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "2030",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les projections de la dette française à moyen terme.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "plan budgétaire",
+    "Commission européenne",
+    "croissance"
+  ],
+  "questions": [
+    "Quelle projection ?",
+    "Quand la dette se stabilise-t-elle ?",
+    "Quelles hypothèses ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#PROSPECTIVE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

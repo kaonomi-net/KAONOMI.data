@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-refugies-ukrainiens-en-europe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Réfugiés ukrainiens en Europe",
+  "includedEntities": [
+    {
+      "entityName": "réfugiés ukrainiens",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "protection temporaire",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation des réfugiés ukrainiens et leur statut en Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Pologne",
+    "Allemagne",
+    "République tchèque"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "protection temporaire",
+    "retour",
+    "intégration"
+  ],
+  "questions": [
+    "Le statut est-il prolongé ?",
+    "Combien de retours ?",
+    "Quelles aides ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#REFUGIES",
+    "#EUROPE"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

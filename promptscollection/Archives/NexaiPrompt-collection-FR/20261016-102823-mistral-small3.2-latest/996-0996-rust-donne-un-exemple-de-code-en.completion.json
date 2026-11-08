@@ -1,0 +1,13 @@
+{
+  "index": 996,
+  "file": "0996-rust-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Rust qui illustre Result et Option.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en Rust qui illustre l'utilisation des types `Result` et `Option` :\n\n```rust\nuse std::fs::File;\nuse std::io::Read;\nuse std::num::ParseIntError;\n\n// Fonction qui retourne un Result\nfn lire_fichier_et_convertir_en_entier(nom_fichier: &str) -> Result<i32, std::io::Error> {\n    let mut fichier = File::open(nom_fichier)?;\n    let mut contenu = String::new();\n    fichier.read_to_string(&mut contenu)?;\n    contenu.trim().parse::<i32>().map_err(|e| std::io::Error::new(std::io::ErrorKind::InvalidData, e))\n}\n\n// Fonction qui retourne un Option\nfn trouver_premier_entier_positif(nombres: &[i32]) -> Option<i32> {\n    nombres.iter().find(|&&x| x > 0).copied()\n}\n\nfn main() {\n    // Exemple avec Result\n    match lire_fichier_et_convertir_en_entier(\"nombre.txt\") {\n        Ok(nombre) => println!(\"Le nombre dans le fichier est : {}\", nombre),\n        Err(e) => println!(\"Erreur lors de la lecture du fichier : {}\", e),\n    }\n\n    // Exemple avec Option\n    let nombres = [1, -2, 3, -4, 5];\n    match trouver_premier_entier_positif(&nombres) {\n        Some(nombre) => println!(\"Le premier entier positif est : {}\", nombre),\n        None => println!(\"Aucun entier positif trouvé\"),\n    }\n}\n```\n\nExplications :\n\n1. `Result` :\n   - La fonction `lire_fichier_et_convertir_en_entier` retourne un `Result<i32, std::io::Error>`\n   - Elle peut réussir (`Ok`) avec un entier ou échouer (`Err`) avec une erreur d'E/S\n   - L'opérateur `?` est utilisé pour la propagation des erreurs\n\n2. `Option` :\n   - La fonction `trouver_premier_entier_positif` retourne un `Option<i32>`\n   - Elle peut retourner `Some(nombre)` si un entier positif est trouvé ou `None` sinon\n   - La méthode `find` est utilisée pour chercher le premier élément qui satisfait une condition\n\nCe code montre comment Rust gère les erreurs et les valeurs potentielles avec ces types fondamentaux.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T14:04:32.4874046+02:00",
+  "durationSeconds": 10.68,
+  "stats": "mistral-small3.2:latest · 522 + 532 tokens · 10,7 s",
+  "isError": false,
+  "language": "FR"
+}

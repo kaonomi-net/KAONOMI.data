@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-menaces-nucleaires-du-kremlin",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Menaces nucléaires du Kremlin",
+  "includedEntities": [
+    {
+      "entityName": "Poutine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "nucléaire",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "menace",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les déclarations russes évoquant l'arme nucléaire.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "doctrine nucléaire",
+    "Medvedev",
+    "Europe"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quel changement de doctrine ?",
+    "Quelle réaction occidentale ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#NUCLEAIRE",
+    "#DISSUASION"
+  ],
+  "events": [
+    "@MENACE-NUCLEAIRE"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!FEAR"
+  ],
+  "isDeleted": false
+}

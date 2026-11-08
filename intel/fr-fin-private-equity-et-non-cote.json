@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-private-equity-et-non-cote",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Private equity et non coté",
+  "includedEntities": [
+    {
+      "entityName": "private equity",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "non coté",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le capital-investissement et son ouverture aux particuliers.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "fonds",
+    "valorisation",
+    "liquidité"
+  ],
+  "questions": [
+    "Quel flux ?",
+    "Quelle valorisation ?",
+    "Quel risque ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#PRIVATE-EQUITY"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

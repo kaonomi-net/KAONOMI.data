@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-strategie-nationale-de-cybersecurite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Stratégie nationale de cybersécurité",
+  "includedEntities": [
+    {
+      "entityName": "stratégie nationale",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cybersécurité",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les stratégies nationales de cybersécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "SGDSN",
+    "ANSSI",
+    "moyens"
+  ],
+  "questions": [
+    "Quelles priorités ?",
+    "Quels moyens ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#STRATEGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-suspect",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un objet ou une personne qui inquiète.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:colis\\s+suspect(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bagage(s)?\\s+abandonn[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:objet(s)?\\s+suspect(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:suspect(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:individu\\s+suspect)(?![\\w-])"
+  ],
+  "symbol": "suspect",
+  "event": null,
+  "title": "Suspect",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

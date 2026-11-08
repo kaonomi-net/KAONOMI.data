@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-senat-et-la-loi-de-finances",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Sénat et la loi de finances",
+  "includedEntities": [
+    {
+      "entityName": "Sénat",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "loi de finances",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'examen du budget au Sénat à partir du 20 novembre 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "Sénat"
+  ],
+  "times": [
+    "à partir du 20 novembre 2026"
+  ],
+  "relatedEntities": [
+    "Gérard Larcher",
+    "commission des finances",
+    "amendements"
+  ],
+  "questions": [
+    "Quels amendements ?",
+    "Quel vote ?",
+    "Quelle version ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SENAT",
+    "#BUDGET"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!BUDGET"
+  ],
+  "isDeleted": false
+}

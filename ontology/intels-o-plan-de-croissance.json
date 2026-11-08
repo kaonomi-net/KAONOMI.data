@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-plan-de-croissance",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "plan de croissance",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 1 intel : Plan de croissance pour les Balkans occidentaux.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre le plan de croissance européen pour les Balkans occidentaux."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "plan de croissance",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#BALKANS",
+    "#FINANCEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!ELARGISSEMENT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "marché unique",
+    "réformes",
+    "financements",
+    "Balkans occidentaux",
+    "Balkans"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

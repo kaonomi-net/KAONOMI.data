@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-raid",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une attaque rapide, souvent aérienne.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:raid(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:raid(s)?\\s+a[ée]rien(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:frappe(s)?\\s+a[ée]rienne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:frappe(s)?\\s+de\\s+missiles)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attaque(s)?\\s+a[ée]rienne(s)?)(?![\\w-])"
+  ],
+  "symbol": "raid",
+  "event": null,
+  "title": "Raid",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

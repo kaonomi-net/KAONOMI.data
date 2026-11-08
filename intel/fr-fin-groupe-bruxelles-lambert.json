@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-groupe-bruxelles-lambert",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Groupe Bruxelles Lambert",
+  "includedEntities": [
+    {
+      "entityName": "GBL",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "holding",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la holding GBL et ses participations.",
+  "isFuzzy": false,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "famille Frère",
+    "décote",
+    "cessions"
+  ],
+  "questions": [
+    "Quelle cession ?",
+    "Quelle décote ?",
+    "Quel investissement ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#HOLDINGS"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

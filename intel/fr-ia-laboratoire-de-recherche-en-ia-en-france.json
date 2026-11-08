@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-laboratoire-de-recherche-en-ia-en-france",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Laboratoire de recherche en IA en France",
+  "includedEntities": [
+    {
+      "entityName": "laboratoire",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Inria",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "recherche",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les laboratoires français de recherche en IA.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Grenoble",
+    "Saclay"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "CNRS",
+    "PRAIRIE",
+    "Kyutai"
+  ],
+  "questions": [
+    "Quels travaux ?",
+    "Quels financements ?",
+    "Quels départs vers le privé ?"
+  ],
+  "tags": [
+    "#IA",
+    "#RECHERCHE",
+    "#FRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!RECHERCHE"
+  ],
+  "isDeleted": false
+}

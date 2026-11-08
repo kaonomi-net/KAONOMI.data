@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-printemps",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La saison où la nature renaît.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:printemps)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:printanier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:printani[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:beaux\\s+jours)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:retour\\s+des\\s+hirondelles)(?![\\w-])"
+  ],
+  "symbol": "printemps",
+  "event": null,
+  "title": "Printemps",
+  "tags": [
+    "#NATURE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

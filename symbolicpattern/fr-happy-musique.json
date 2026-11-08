@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-musique",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'art des sons.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:musique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:musical(e|es|aux)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:concert(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:symphonie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:harmonieu(x|se|ses))(?![\\w-])"
+  ],
+  "symbol": "musique",
+  "event": null,
+  "title": "Musique",
+  "tags": [
+    "#FETE",
+    "#CREATION"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-marche-de-la-cybersecurite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Marché de la cybersécurité",
+  "includedEntities": [
+    {
+      "entityName": "marché de la cybersécurité",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "dépenses",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les dépenses et la croissance du marché de la cybersécurité.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "entreprises",
+    "budgets",
+    "prévisions"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quelle croissance ?",
+    "Quels segments ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#MARCHE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

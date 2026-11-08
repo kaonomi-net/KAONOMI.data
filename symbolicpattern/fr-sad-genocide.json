@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-genocide",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'extermination d'un peuple.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:g[ée]nocide(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:g[ée]nocidaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:extermination(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:extermin(er|[ée]|[ée]e|[ée]s))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]puration(s)?\\s+ethnique(s)?)(?![\\w-])"
+  ],
+  "symbol": "génocide",
+  "event": null,
+  "title": "Génocide",
+  "tags": [
+    "#GUERRE",
+    "#VIOLENCE",
+    "#MORT"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

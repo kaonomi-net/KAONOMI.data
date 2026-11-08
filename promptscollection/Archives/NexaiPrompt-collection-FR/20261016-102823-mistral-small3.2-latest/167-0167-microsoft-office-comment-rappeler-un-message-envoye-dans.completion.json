@@ -1,0 +1,13 @@
+{
+  "index": 167,
+  "file": "0167-microsoft-office-comment-rappeler-un-message-envoye-dans.prompt.json",
+  "prompt": "Comment rappeler un message envoyé dans Outlook ?",
+  "promptWords": 8,
+  "completion": "Pour rappeler un message envoyé dans Outlook, voici les étapes à suivre :\n\n1. **Ouvrir Outlook** : Lancez l'application Outlook sur votre ordinateur.\n2. **Accéder au dossier \"Élément envoyé\"** : Dans le volet de navigation de gauche, cliquez sur \"Élément envoyé\" pour voir la liste des messages que vous avez envoyés.\n3. **Sélectionner le message à rappeler** : Trouvez le message que vous souhaitez rappeler dans la liste et cliquez dessus pour l'ouvrir.\n4. **Ouvrir le menu \"Message\"** : Avec le message ouvert, allez dans l'onglet \"Message\" dans le ruban en haut de la fenêtre.\n5. **Cliquer sur \"Rappeler le message\"** : Dans le groupe \"Actions\", cliquez sur \"Rappeler le message\".\n6. **Choisir l'option de rappel** : Une fenêtre s'ouvrira avec deux options :\n   - **Rappeler tous les messages précédents** : Cela rappellera toutes les copies du message que vous avez envoyées.\n   - **Rappeler et remplacer** : Cela rappellera le message original et en enverra une nouvelle version.\n7. **Confirmer le rappel** : Cliquez sur \"OK\" pour confirmer l'action.\n\n**Remarques importantes** :\n- Le rappel de message ne fonctionne que si le destinataire utilise également Outlook et n'a pas encore ouvert le message.\n- Si le message a déjà été ouvert par le destinataire, le rappel ne sera pas possible.\n\nSi vous avez besoin d'aide supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:58:25.0438325+02:00",
+  "durationSeconds": 7.33,
+  "stats": "mistral-small3.2:latest · 515 + 347 tokens · 7,3 s",
+  "isError": false,
+  "language": "FR"
+}

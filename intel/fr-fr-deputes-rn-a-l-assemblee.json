@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-deputes-rn-a-l-assemblee",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Députés RN à l'Assemblée",
+  "includedEntities": [
+    {
+      "entityName": "députés",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Rassemblement national",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Assemblée nationale",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action du groupe RN à l'Assemblée nationale.",
+  "isFuzzy": true,
+  "locations": [
+    "Assemblée nationale"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "motions de censure",
+    "budget",
+    "propositions de loi"
+  ],
+  "questions": [
+    "Quel vote ?",
+    "Quelle stratégie ?",
+    "Quelle motion ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#PARLEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

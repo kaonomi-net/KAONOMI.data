@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-recession",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "récession",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Croissance économique russe ; Courbe des taux ; Récession.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la croissance russe, autour de 1 % en 2026.",
+    "Suivre la forme de la courbe des taux et ses signaux.",
+    "Surveiller les signaux de récession."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "récession",
+  "tags": [
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#CROISSANCE",
+    "#OBLIGATIONS",
+    "#TAUX",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE",
+    "!INDICATEUR",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "courbe des taux",
+    "Banque mondiale",
+    "PIB",
+    "croissance",
+    "Russie",
+    "BOFIT",
+    "inversion",
+    "taux longs",
+    "pentification",
+    "PMI"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sabotage",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "sabotage",
+  "entityType": "DOMAIN",
+  "description": "Cité par 14 intels : Sabotage ferroviaire en Russie ; Opérations des services de renseignement ukrainiens ; Drones au-dessus des sites militaires ; Sabotage en Europe attribué à la Russie ; Recrutement d'agents par messagerie ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les sabotages contre le rail russe.",
+    "Suivre les opérations revendiquées par le renseignement ukrainien.",
+    "Surveiller les survols de bases et sites sensibles en Europe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "sabotage",
+  "tags": [
+    "#RUSSIE",
+    "#SABOTAGE",
+    "#CYBERSECURITE",
+    "#EUROPE",
+    "#ESPIONNAGE",
+    "#GUERRE-HYBRIDE"
+  ],
+  "events": [
+    "@SABOTAGE",
+    "@CYBERATTAQUE",
+    "@ARRESTATION"
+  ],
+  "signals": [
+    "!MENACE",
+    "!CONFLIT",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Russie",
+    "Pologne",
+    "drones",
+    "Allemagne",
+    "câbles sous-marins",
+    "OTAN",
+    "Lituanie",
+    "Europe",
+    "arrestations",
+    "cyberattaque"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

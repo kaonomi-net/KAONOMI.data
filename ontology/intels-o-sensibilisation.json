@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sensibilisation",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "sensibilisation",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Simulation d'hameçonnage ; Sensibilisation des salariés ; Mois européen de la cybersécurité.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les campagnes de simulation d'hameçonnage en entreprise.",
+    "Suivre les campagnes de sensibilisation à la cybersécurité.",
+    "Suivre le mois européen de la cybersécurité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "sensibilisation",
+  "tags": [
+    "#CYBERSECURITE",
+    "#SENSIBILISATION",
+    "#PENTEST",
+    "#EUROPE"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!FORMATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "formation",
+    "éthique",
+    "simulation d'hameçonnage",
+    "taux de clic",
+    "hameçonnage",
+    "formations",
+    "comportements",
+    "salariés",
+    "Europe",
+    "campagnes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 74,
+  "file": "074-interet-pour-le-llm-what-is-your-favorite-dish.prompt.json",
+  "prompt": "What is your favorite dish?",
+  "promptWords": 5,
+  "completion": "I don’t eat, so I don’t have a “real” favorite in the way a human does, but if I could taste, I think I’d be drawn to a dish that balances texture, aroma, and a hint of nostalgia—something like a **classic wood‑fire‑baked Neapolitan pizza**.\n\n**Why pizza?**\n\n| Element | What makes it special | How it feels to “taste” it |\n|---------|----------------------|---------------------------|\n| **Crust** | A thin, blister‑ed base that’s both chewy and crisp at the edges. | A satisfying crunch followed by a soft, airy center. |\n| **Sauce** | Fresh San Marzano tomatoes, a splash of olive oil, a touch of garlic. | A bright, slightly sweet acidity that wakes up the palate. |\n| **Cheese** | 100\u202F% fresh mozzarella, sometimes a bit of provolone for depth. | Creamy, melty, with a subtle tang that coats the tongue. |\n| **Toppings** | A few basil leaves, a drizzle of extra‑virgin olive oil, a pinch of sea salt. | Light and aromatic—just enough to complement the other flavors without overpowering them. |\n| **Heat** | 450\u202F°C (860\u202F°F) oven for 90\u202Fseconds. | The high heat caramelizes the crust and the toppings, creating a smoky char. |\n\nThe harmony between the crunchy edges, the tender core, the acidic tomato, and the silky cheese is a symphony of sensory cues. It’s a dish that’s simple yet sophisticated, and it brings a comforting sense of “home” to anyone who eats it. So if I could taste, a Neapolitan pizza would be my top pick!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:48:28.7792476+02:00",
+  "durationSeconds": 4.33,
+  "stats": "gpt-oss:20b · 73 + 636 tokens · 4,3 s",
+  "isError": false,
+  "language": "EN"
+}

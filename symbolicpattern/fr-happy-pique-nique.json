@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-pique-nique",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un repas en plein air.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pique-nique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:piqueniqu(e|er)|d[ée]jeuner\\s+sur\\s+l['’]herbe)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:barbecue(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ap[ée]ro(s)?)(?![\\w-])"
+  ],
+  "symbol": "pique-nique",
+  "event": null,
+  "title": "Pique-nique",
+  "tags": [
+    "#FETE",
+    "#NATURE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 198,
+  "file": "0198-cybersecurite-qu-est-ce-qu-une-attaque.prompt.json",
+  "prompt": "Qu'est-ce qu'une attaque par déni de service distribué (DDoS) ?",
+  "promptWords": 10,
+  "completion": "Une attaque par déni de service distribué (DDoS) est une cyberattaque visant à rendre un service en ligne indisponible en le submergeant de trafic. Voici les points clés à comprendre :\n\n1. **Principe** : Contrairement à une attaque par déni de service (DoS) qui provient d'une seule source, une attaque DDoS utilise plusieurs appareils compromis (souvent des ordinateurs infectés par des logiciels malveillants) pour envoyer un flot massif de requêtes à une cible, comme un site web, un serveur ou un réseau.\n\n2. **Objectif** : L'objectif est de saturer les ressources de la cible (bande passante, mémoire, CPU) pour empêcher les utilisateurs légitimes d'accéder au service.\n\n3. **Types d'attaques DDoS** :\n   - **Attaques par volume** : Inondation de la bande passante (ex. : attaques UDP flood).\n   - **Attaques par protocole** : Exploitation de vulnérabilités dans les couches réseau ou transport (ex. : attaques SYN flood).\n   - **Attaques par application** : Ciblage des vulnérabilités spécifiques d'une application (ex. : attaques HTTP flood).\n\n4. **Conséquences** :\n   - Indisponibilité du service pour les utilisateurs.\n   - Pertes financières pour les entreprises.\n   - Atteinte à la réputation.\n\n5. **Protection** :\n   - Utilisation de solutions de mitigation DDoS (ex. : pare-feu, systèmes de détection d'intrusion).\n   - Mise en place de stratégies de redondance et de résilience.\n   - Surveillance proactive du trafic réseau.\n\nLes attaques DDoS sont courantes et peuvent être lancées par des individus, des groupes ou des États pour diverses raisons, allant du vandalisme à la cybercriminalité organisée.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:02:58.195161+02:00",
+  "durationSeconds": 8.19,
+  "stats": "mistral-small3.2:latest · 526 + 402 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

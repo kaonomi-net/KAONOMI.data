@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-mobilisation-des-troupes-russes-vers-le-donbass",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Mobilisation des troupes russes vers le Donbass",
+  "includedEntities": [
+    {
+      "entityName": "renforts",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "armée russe",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Donbass",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les concentrations de troupes russes vers le Donbass.",
+  "isFuzzy": true,
+  "locations": [
+    "Donbass"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "réserves",
+    "offensive",
+    "renseignement"
+  ],
+  "questions": [
+    "Quelles unités ?",
+    "Quel volume ?",
+    "Quel objectif probable ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#DONBASS",
+    "#FRONT"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

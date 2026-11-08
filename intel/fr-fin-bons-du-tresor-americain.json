@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-bons-du-tresor-americain",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Bons du Trésor américain",
+  "includedEntities": [
+    {
+      "entityName": "bons du Trésor",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "dix ans",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Treasuries",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le taux à dix ans américain, autour de 4,9 %.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "déficit",
+    "Fed",
+    "inflation"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quelle tendance ?",
+    "Quel effet sur les actions ?"
+  ],
+  "tags": [
+    "#DETTE",
+    "#ETATS-UNIS",
+    "#OBLIGATIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!TAUX"
+  ],
+  "isDeleted": false
+}

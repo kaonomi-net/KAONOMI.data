@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-lumiere",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui éclaire.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:lumi[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lumineu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]clat(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rayonnement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:clart[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "lumière",
+  "event": null,
+  "title": "Lumière",
+  "tags": [
+    "#NATURE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

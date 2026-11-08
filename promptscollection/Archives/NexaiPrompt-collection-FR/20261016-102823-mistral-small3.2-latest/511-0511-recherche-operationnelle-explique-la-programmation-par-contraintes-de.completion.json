@@ -1,0 +1,13 @@
+{
+  "index": 511,
+  "file": "0511-recherche-operationnelle-explique-la-programmation-par-contraintes-de.prompt.json",
+  "prompt": "Explique la programmation par contraintes de façon simple.",
+  "promptWords": 8,
+  "completion": "La programmation par contraintes est une méthode de résolution de problèmes qui consiste à définir un ensemble de contraintes et à chercher des solutions qui satisfont toutes ces contraintes. Imagine que tu veux organiser un emploi du temps pour plusieurs personnes, en tenant compte de leurs disponibilités et de leurs préférences. Chaque personne a des contraintes (par exemple, \"Je ne suis disponible que le matin\" ou \"Je dois avoir une réunion avec X avant Y\"). La programmation par contraintes permet de trouver un emploi du temps qui respecte toutes ces contraintes.\n\nEn résumé, c'est comme résoudre une énigme ou un casse-tête où tu dois trouver une configuration qui satisfait toutes les règles données.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:59:08.4766808+02:00",
+  "durationSeconds": 3.04,
+  "stats": "mistral-small3.2:latest · 518 + 140 tokens · 3,0 s",
+  "isError": false,
+  "language": "FR"
+}

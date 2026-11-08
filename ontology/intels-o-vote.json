@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-vote",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "vote",
+  "entityType": "DOMAIN",
+  "description": "Cité par 9 intels : Parlement ukrainien ; Vote des Français de l'étranger ; Procurations ; Vote des jeunes ; Accord avec le Mercosur ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les votes de la Verkhovna Rada.",
+    "Suivre le vote des Français établis hors de France.",
+    "Suivre les procurations et leur usage."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "vote",
+  "tags": [
+    "#FRANCE",
+    "#PARLEMENT-EUROPEEN",
+    "#PARLEMENT",
+    "#ELECTIONS",
+    "#UKRAINE",
+    "#POLITIQUE"
+  ],
+  "events": [
+    "@VOTE",
+    "@MOTION-CENSURE"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!GOUVERNANCE",
+    "!TENSION-COMMERCIALE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Strasbourg",
+    "Kyiv",
+    "Rada",
+    "mobilisation",
+    "lois",
+    "budget",
+    "participation",
+    "vote par procuration",
+    "consulats",
+    "Français de l'étranger"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (les statistiques) : Statisticien américain de Berkeley, co-auteur des arbres CART (1984), du bagging et des forêts aléatoires (2001).",
+  "id": "ia-breiman",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Leo Breiman",
+  "entityType": "PERSON",
+  "description": "Statisticien américain de Berkeley, co-auteur des arbres CART (1984), du bagging et des forêts aléatoires (2001).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Une biographie de Leo Breiman rappelle son rôle dans les statistiques.",
+    "Leo Breiman est l'une des figures marquantes des statistiques.",
+    "Lors de la conférence, l'oratrice a cité Leo Breiman pour illustrer les progrès des statistiques."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "L. Breiman"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#STATISTIQUES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Leo%20Breiman"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Forêts aléatoires",
+    "Arbres de décision CART"
+  ],
+  "isDeleted": false,
+  "startDate": "1928-01-27T00:00:00",
+  "endDate": "2005-07-05T00:00:00"
+}

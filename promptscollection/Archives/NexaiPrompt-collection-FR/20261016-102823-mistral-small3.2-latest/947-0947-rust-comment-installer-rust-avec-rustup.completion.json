@@ -1,0 +1,13 @@
+{
+  "index": 947,
+  "file": "0947-rust-comment-installer-rust-avec-rustup.prompt.json",
+  "prompt": "Comment installer Rust avec rustup ?",
+  "promptWords": 6,
+  "completion": "Pour installer Rust avec rustup, suivez ces étapes :\n\n1. **Ouvrez un terminal** (ou une invite de commandes) sur votre système d'exploitation.\n\n2. **Téléchargez et exécutez le script d'installation** de rustup en entrant la commande suivante :\n\n```sh\ncurl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh\n```\n\nSi vous n'avez pas `curl` installé, vous pouvez utiliser `wget` à la place :\n\n```sh\nwget https://sh.rustup.rs -O rustup.sh\nsh rustup.sh\n```\n\n3. **Suivez les instructions à l'écran** pour compléter l'installation. Le script vous proposera généralement d'installer la version par défaut de Rust, qui est recommandée pour la plupart des utilisateurs.\n\n4. **Une fois l'installation terminée**, vous pouvez vérifier que Rust est correctement installé en exécutant :\n\n```sh\nrustc --version\n```\n\nCela devrait afficher la version de Rust installée.\n\n5. **Pour mettre à jour Rust**, vous pouvez utiliser la commande suivante :\n\n```sh\nrustup update\n```\n\n6. **Pour désinstaller Rust**, utilisez la commande suivante :\n\n```sh\nrustup self uninstall\n```\n\nC'est tout ! Vous êtes maintenant prêt à utiliser Rust.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:52:20.5144723+02:00",
+  "durationSeconds": 5.82,
+  "stats": "mistral-small3.2:latest · 514 + 287 tokens · 5,8 s",
+  "isError": false,
+  "language": "FR"
+}

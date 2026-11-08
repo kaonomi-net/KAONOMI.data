@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-role-de-la-chine-dans-la-paix",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Rôle de la Chine dans la paix",
+  "includedEntities": [
+    {
+      "entityName": "Chine",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "plan de paix",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les initiatives chinoises sur la guerre en Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Pékin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Xi Jinping",
+    "Russie",
+    "Brésil"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quel soutien à Moscou ?",
+    "Quelle réception à Kyiv ?"
+  ],
+  "tags": [
+    "#CHINE",
+    "#UKRAINE",
+    "#RUSSIE",
+    "#DIPLOMATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

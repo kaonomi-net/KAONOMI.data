@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-popularite-de-zelensky",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Popularité de Zelensky",
+  "includedEntities": [
+    {
+      "entityName": "Zelensky",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "sondage",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "popularité",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la confiance des Ukrainiens envers leur président.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "KIIS",
+    "SOCIS",
+    "corruption"
+  ],
+  "questions": [
+    "Quel niveau de confiance ?",
+    "Quelle tendance ?",
+    "Quels concurrents ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#OPINION",
+    "#ZELENSKY"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

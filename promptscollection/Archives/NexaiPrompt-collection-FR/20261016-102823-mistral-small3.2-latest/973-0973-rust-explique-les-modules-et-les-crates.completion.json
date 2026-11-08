@@ -1,0 +1,13 @@
+{
+  "index": 973,
+  "file": "0973-rust-explique-les-modules-et-les-crates.prompt.json",
+  "prompt": "Explique les modules et les crates en Rust avec un exemple simple.",
+  "promptWords": 12,
+  "completion": "En Rust, les **modules** et les **crates** sont des concepts fondamentaux pour organiser et structurer le code. Voici une explication simple avec un exemple :\n\n### 1. **Crates**\nUn **crate** est l'unité de compilation la plus petite en Rust. C'est comme un \"projet\" ou une \"bibliothèque\". Il peut contenir un ou plusieurs modules. Il existe deux types de crates :\n- **Binaires** : Crates qui produisent un exécutable (comme `main.rs`).\n- **Bibliothèques** : Crates qui fournissent du code réutilisable (comme `lib.rs`).\n\n### 2. **Modules**\nUn **module** est un moyen d'organiser le code en groupes logiques. Les modules peuvent contenir :\n- D'autres modules (sous-modules).\n- Des structures (`struct`), des énumérations (`enum`), des fonctions, etc.\n\n### Exemple Simple\n\nImaginons un projet simple avec un module `greetings` qui contient une fonction pour saluer quelqu'un.\n\n#### Structure du projet :\n```\nmy_project/\n├── Cargo.toml\n└── src/\n    ├── main.rs\n    └── greetings.rs\n```\n\n#### Fichier `src/greetings.rs` (Module) :\n```rust\n// Déclaration du module\npub mod greetings {\n    // Fonction publique dans le module\n    pub fn say_hello(name: &str) -> String {\n        format!(\"Bonjour, {}!\", name)\n    }\n}\n```\n\n#### Fichier `src/main.rs` (Crate binaire) :\n```rust\n// Importation du module\nmod greetings;\n\nfn main() {\n    // Utilisation de la fonction du module\n    let message = greetings::say_hello(\"Alice\");\n    println!(\"{}\", message); // Affiche \"Bonjour, Alice!\"\n}\n```\n\n### Explications :\n1. **`mod greetings;`** : Déclare un module nommé `greetings` dans `main.rs`.\n2. **`pub mod greetings`** : Dans `greetings.rs`, le module est marqué comme `pub` (public) pour qu'il soit accessible depuis d'autres fichiers.\n3. **`pub fn say_hello`** : La fonction est marquée comme `pub` pour qu'elle soit accessible en dehors du module.\n\n### Exécution :\nPour exécuter ce projet, utilisez la commande :\n```sh\ncargo run\n```\n\n### Résultat :\n```\nBonjour, Alice!\n```\n\n### Résumé :\n- **Crates** : Unités de compilation (projets ou bibliothèques).\n- **Modules** : Organisent le code en groupes logiques.\n- **`pub`** : Rend les éléments accessibles en dehors du module.\n\nC'est une façon simple et efficace d'organiser le code en Rust !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:57:47.0314739+02:00",
+  "durationSeconds": 11.99,
+  "stats": "mistral-small3.2:latest · 522 + 596 tokens · 12,0 s",
+  "isError": false,
+  "language": "FR"
+}

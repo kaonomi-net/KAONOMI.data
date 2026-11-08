@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-echange-de-prisonniers",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Échange de prisonniers",
+  "includedEntities": [
+    {
+      "entityName": "échange de prisonniers",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "prisonniers",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les échanges de prisonniers de guerre entre la Russie et l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "frontière",
+    "Émirats arabes unis"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "médiateurs",
+    "corps des soldats",
+    "Croix-Rouge"
+  ],
+  "questions": [
+    "Combien de prisonniers échangés ?",
+    "Quel médiateur ?",
+    "Quelles conditions de détention ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#PRISONNIERS",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@ECHANGE-PRISONNIERS"
+  ],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

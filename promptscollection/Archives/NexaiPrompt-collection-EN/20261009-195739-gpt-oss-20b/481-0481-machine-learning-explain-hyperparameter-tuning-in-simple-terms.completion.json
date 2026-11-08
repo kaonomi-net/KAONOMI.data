@@ -1,0 +1,13 @@
+{
+  "index": 481,
+  "file": "0481-machine-learning-explain-hyperparameter-tuning-in-simple-terms.prompt.json",
+  "prompt": "Explain hyperparameter tuning in simple terms.",
+  "promptWords": 6,
+  "completion": "**Hyperparameter tuning** is like adjusting the knobs on a machine to get it to work best.\n\n| What it is | How it works | Why it matters |\n|------------|--------------|----------------|\n| **Hyperparameters** are the settings you choose *before* you let a machine‑learning model learn from data. They’re not learned from the data themselves. | You try different combinations of those settings, train the model, and see how well it performs. The “best” combination is the one that gives the highest accuracy (or lowest error, lowest loss, etc.). | A good choice of hyperparameters can make the difference between a model that works well and one that performs poorly. |\n\n### A simple analogy\nThink of training a model like baking a cake.  \n- **Hyperparameters** are the oven temperature, baking time, amount of sugar, etc.  \n- **Tuning** is the process of trying different temperatures and times until the cake comes out just right.\n\n### How it’s done in practice\n1. **Pick a metric** to evaluate (accuracy, F1‑score, etc.).  \n2. **Choose a search strategy**  \n   - *Grid search*: try all combinations on a pre‑defined grid.  \n   - *Random search*: sample random combinations (often faster).  \n   - *Bayesian optimization*: use past results to suggest promising new combinations.  \n3. **Run the experiments**: train and evaluate the model for each combination.  \n4. **Select the best**: pick the hyperparameter set that gives the best metric.\n\n### Quick example\nSuppose you’re training a neural network and you need to set:\n- Learning rate (e.g., 0.01, 0.001, 0.0001)\n- Number of hidden units (e.g., 64, 128, 256)\n\nA grid search would train 3 × 3 = 9 models, evaluate each, and pick the combination that gives the best validation accuracy.\n\n### Bottom line\nHyperparameter tuning is just finding the right “knob settings” for your model so it performs its best on unseen data. It’s an essential step because those settings can drastically change the outcome.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T21:59:16.5711955+02:00",
+  "durationSeconds": 5.44,
+  "stats": "gpt-oss:20b · 75 + 587 tokens · 5,4 s",
+  "isError": false,
+  "language": "EN"
+}

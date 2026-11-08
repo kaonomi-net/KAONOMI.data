@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-vivre",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Être en vie, profiter de l'existence.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vi(vre|vons|vez|vent|vais|vait|vaient|vra|vrons|vront)|v[ée]cu(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exist(er|e|ent|ait))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:profit(er|e|ons|ez|ent)\\s+de\\s+la\\s+vie)(?![\\w-])"
+  ],
+  "symbol": "vivre",
+  "event": null,
+  "title": "Vivre",
+  "tags": [
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

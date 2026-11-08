@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-securite-des-applications-web",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Sécurité des applications web",
+  "includedEntities": [
+    {
+      "entityName": "OWASP",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "applications web",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les classements et tendances de sécurité des applications web.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Top 10",
+    "injection",
+    "contrôle d'accès"
+  ],
+  "questions": [
+    "Quel classement ?",
+    "Quelle faille dominante ?",
+    "Quelle recommandation ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#APPSEC",
+    "#OWASP"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

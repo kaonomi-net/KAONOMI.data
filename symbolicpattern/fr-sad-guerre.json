@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-guerre",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un conflit armé.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:guerre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guerri(er|[èe]re|ers))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:conflit(s)?\\s+arm[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bombardement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bombard(er|[ée]|[ée]e|[ée]s))(?![\\w-])"
+  ],
+  "symbol": "guerre",
+  "event": null,
+  "title": "Guerre",
+  "tags": [
+    "#GUERRE",
+    "#VIOLENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-puce",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "puce",
+  "entityType": "HARDWARE",
+  "description": "Cité par 3 intels : Puce IA concurrente de Nvidia ; Puces neuromorphiques ; IA embarquée sur smartphone.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Repérer les alternatives aux GPU Nvidia pour l'IA.",
+    "Suivre les puces inspirées du cerveau.",
+    "Suivre l'IA qui fonctionne directement sur les téléphones."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "puce",
+  "tags": [
+    "#IA",
+    "#SEMI-CONDUCTEURS",
+    "#CONCURRENCE",
+    "#MATERIEL",
+    "#RECHERCHE",
+    "#SMARTPHONE"
+  ],
+  "events": [
+    "@LANCEMENT-MATERIEL"
+  ],
+  "signals": [
+    "!CONCURRENCE",
+    "!RECHERCHE",
+    "!NOUVEAUTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AMD",
+    "TPU",
+    "Google",
+    "Intel",
+    "Groq",
+    "efficacité énergétique",
+    "neuromorphique",
+    "IBM",
+    "Intel Loihi",
+    "NPU"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

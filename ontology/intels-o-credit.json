@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-credit",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "crédit",
+  "entityType": "PRODUCT",
+  "description": "Cité par 6 intels : Taux directeur de la Banque de Russie ; IA dans la banque et la finance ; Biais et discrimination algorithmique ; Marché du crédit d'entreprise ; Paiement fractionné ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre les décisions de la Banque de Russie, taux à 14 % fin 2026.",
+    "Suivre l'usage de l'IA dans les services financiers.",
+    "Repérer les décisions algorithmiques discriminatoires."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "crédit",
+  "tags": [
+    "#IA",
+    "#FINANCE",
+    "#CREDIT",
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#BANQUE-CENTRALE"
+  ],
+  "events": [
+    "@DECISION-BANQUE-CENTRALE",
+    "@SIGNALEMENT",
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!ECONOMIE",
+    "!OPPORTUNITE",
+    "!VIGILANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "inflation",
+    "Elvira Nabioullina",
+    "Banque de Russie",
+    "taux directeur",
+    "Moscou",
+    "La Défense",
+    "trading",
+    "City de Londres",
+    "fraude",
+    "IA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

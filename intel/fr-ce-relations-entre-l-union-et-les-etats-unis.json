@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-relations-entre-l-union-et-les-etats-unis",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Relations entre l'Union et les États-Unis",
+  "includedEntities": [
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "États-Unis",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "relations transatlantiques",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'état des relations transatlantiques.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Trump",
+    "OTAN",
+    "commerce"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quelle tension ?",
+    "Quelle déclaration ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ETATS-UNIS",
+    "#DIPLOMATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

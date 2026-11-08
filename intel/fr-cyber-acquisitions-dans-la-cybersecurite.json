@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-acquisitions-dans-la-cybersecurite",
+  "date": "2026-11-08T16:59:54.867552+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Acquisitions dans la cybersécurité",
+  "includedEntities": [
+    {
+      "entityName": "acquisition",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cybersécurité",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les rachats dans le secteur de la cybersécurité.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "plateformes",
+    "startups",
+    "fonds"
+  ],
+  "questions": [
+    "Quelle acquisition ?",
+    "Quel montant ?",
+    "Quelle stratégie ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ENTREPRISES",
+    "#FUSIONS"
+  ],
+  "events": [
+    "@FUSION"
+  ],
+  "signals": [
+    "!CONSOLIDATION"
+  ],
+  "isDeleted": false
+}

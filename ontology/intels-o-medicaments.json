@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-medicaments",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "médicaments",
+  "entityType": "MATERIAL",
+  "description": "Cité par 10 intels : Santé et hôpitaux en Ukraine ; Relocalisation industrielle ; AlphaFold et la biologie ; Dépenses de santé ; Sanofi ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre l'état du système de santé ukrainien en guerre.",
+    "Suivre le retour des productions stratégiques.",
+    "Suivre l'usage de l'IA pour prédire la structure des protéines."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "médicaments",
+  "tags": [
+    "#SANTE",
+    "#MEDICAMENTS",
+    "#PSYCHOLOGIE",
+    "#UKRAINE",
+    "#HUMANITAIRE",
+    "#GEOPOLITIQUE"
+  ],
+  "events": [
+    "@DECOUVERTE",
+    "@PENURIE"
+  ],
+  "signals": [
+    "!SANTE",
+    "!ALERTE",
+    "!HUMANITAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "hôpitaux",
+    "santé",
+    "Bruxelles",
+    "pénurie",
+    "Ukraine",
+    "blessés",
+    "OMS",
+    "relocalisation",
+    "Europe",
+    "semi-conducteurs"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

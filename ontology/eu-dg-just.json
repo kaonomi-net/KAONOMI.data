@@ -1,0 +1,64 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la justice) : Direction générale de la justice et des consommateurs (DG JUST), service de la Commission européenne compétent pour la justice, la protection des consommateurs, l'état de droit, la protection des données, placé sous l'autorité de Michael McGrath dans la Commission von der Leyen II.",
+  "id": "eu-dg-just",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de la justice et des consommateurs",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de la justice et des consommateurs (DG JUST), service de la Commission européenne compétent pour la justice, la protection des consommateurs, l'état de droit, la protection des données, placé sous l'autorité de Michael McGrath dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Le rapport annuel de « Direction générale de la justice et des consommateurs » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Direction générale de la justice et des consommateurs ».",
+    "Les décisions de « Direction générale de la justice et des consommateurs » touchent la justice."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG JUST"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20la%20justice%20et%20des%20consommateurs"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Michael McGrath",
+    "Justice",
+    "Protection des consommateurs",
+    "État de droit",
+    "Protection des données",
+    "Agence de l'Union européenne pour la coopération judiciaire en matière pénale (Eurojust)",
+    "Institut européen pour l'égalité entre les hommes et les femmes (EIGE)",
+    "Agence des droits fondamentaux de l'Union européenne (FRA)",
+    "Charte des droits fondamentaux de l'Union européenne",
+    "Règlement général sur la protection des données",
+    "Certificat COVID numérique de l'UE",
+    "Directive sur l'équilibre entre les femmes et les hommes dans les conseils d'administration",
+    "Directive sur la transparence des rémunérations",
+    "Directive sur le devoir de vigilance des entreprises en matière de durabilité",
+    "Programme Citoyens, égalité, droits et valeurs"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

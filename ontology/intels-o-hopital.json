@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-hopital",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "hôpital",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 6 intels : Hôpitaux et écoles touchés ; Hôpital et système de santé ; Cybercriminalité visant la France ; Cyberattaque contre un hôpital ; Crise de la psychiatrie publique ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les frappes touchant des hôpitaux ou des écoles.",
+    "Suivre la situation des hôpitaux et des urgences.",
+    "Suivre les cyberattaques contre les institutions françaises."
+  ],
+  "angryLevel": null,
+  "sadLevel": 17,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "hôpital",
+  "tags": [
+    "#FRANCE",
+    "#SANTE",
+    "#PSYCHOLOGIE",
+    "#HOPITAL",
+    "#UKRAINE",
+    "#CIVILS"
+  ],
+  "events": [
+    "@FRAPPE-CIVILS",
+    "@INCIDENT-CYBER",
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!SAD",
+    "!SOCIAL"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "urgences",
+    "cyberattaque",
+    "Belgique",
+    "UNICEF",
+    "école",
+    "enfants",
+    "OMS",
+    "soignants",
+    "déserts médicaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

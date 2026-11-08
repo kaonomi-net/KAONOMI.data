@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cryptoactifs",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "cryptoactifs",
+  "entityType": "PRODUCT",
+  "description": "Cité par 6 intels : Règlement MiCA ; Arnaques à l'investissement ; Politique crypto des États-Unis ; Faillite d'une plateforme crypto ; Banques et cryptoactifs ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre l'application du règlement européen MiCA.",
+    "Repérer les arnaques à l'investissement signalées par les régulateurs.",
+    "Suivre les lois et décisions américaines sur les cryptoactifs."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "cryptoactifs",
+  "tags": [
+    "#CRYPTO",
+    "#REGULATION",
+    "#UNION-EUROPEENNE",
+    "#FINANCE",
+    "#ARNAQUE",
+    "#ETATS-UNIS"
+  ],
+  "events": [
+    "@MISE-EN-GARDE",
+    "@FAILLITE"
+  ],
+  "signals": [
+    "!REGULATION",
+    "!ALERTE",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Europe",
+    "FSMA",
+    "AMF",
+    "MiCA",
+    "agréments",
+    "Belgique",
+    "faux conseiller",
+    "investissement",
+    "France",
+    "arnaque"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

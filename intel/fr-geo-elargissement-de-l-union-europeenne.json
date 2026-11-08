@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-elargissement-de-l-union-europeenne",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Élargissement de l'Union européenne",
+  "includedEntities": [
+    {
+      "entityName": "élargissement",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "adhésion",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les candidatures d'adhésion à l'Union européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Balkans"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Ukraine",
+    "Moldavie",
+    "Serbie"
+  ],
+  "questions": [
+    "Quel pays avance ?",
+    "Quelles conditions ?",
+    "Quels blocages ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

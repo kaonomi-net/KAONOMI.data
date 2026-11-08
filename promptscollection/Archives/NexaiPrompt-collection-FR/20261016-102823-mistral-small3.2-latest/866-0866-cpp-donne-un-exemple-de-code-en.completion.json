@@ -1,0 +1,13 @@
+{
+  "index": 866,
+  "file": "0866-cpp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C++ qui illustre les références.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en C++ qui illustre l'utilisation des références :\n\n```cpp\n#include <iostream>\nusing namespace std;\n\nvoid incrementerParReference(int &ref) {\n    ref++; // Incrémente la variable passée en référence\n}\n\nint main() {\n    int nombre = 5;\n    cout << \"Avant l'incrementation : \" << nombre << endl;\n\n    incrementerParReference(nombre); // Passe la variable par référence\n\n    cout << \"Après l'incrementation : \" << nombre << endl;\n\n    return 0;\n}\n```\n\nExplications :\n1. La fonction `incrementerParReference` prend un paramètre de type référence (`int &ref`)\n2. Quand on appelle cette fonction avec `nombre`, on passe la variable par référence\n3. La modification effectuée dans la fonction (`ref++`) affecte directement la variable originale `nombre`\n4. Le résultat affiché sera :\n   ```\n   Avant l'incrementation : 5\n   Après l'incrementation : 6\n   ```\n\nLes références en C++ permettent de manipuler directement une variable existante plutôt que d'en créer une copie, ce qui est utile pour modifier des variables dans des fonctions ou pour éviter des copies coûteuses.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:32:42.4968083+02:00",
+  "durationSeconds": 5.39,
+  "stats": "mistral-small3.2:latest · 523 + 259 tokens · 5,4 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 42,
+  "file": "0042-architecture-entreprise-explain-technical-debt-in-simple-terms.prompt.json",
+  "prompt": "Explain technical debt in simple terms.",
+  "promptWords": 6,
+  "completion": "**Technical debt** is a way of thinking about the shortcuts you take when building software—just like you might take out a loan to buy a house now and pay it back later.\n\n- **Imagine building a house**.  \n  *You put a roof on first because you want to stay dry, but you skip installing a proper foundation. The house looks good now, but the foundation will crack later and you’ll have to do a costly repair.*  \n  *In software, the “roof” is the new feature you add quickly, and the “foundation” is the clean code, tests, documentation, or architecture that keeps the system stable.*\n\n- **Why it matters**  \n  Every time you skip those “foundation” tasks, you’re borrowing time instead of paying the price now. Later, the cost of fixing the cracks (bug‑fixing, refactoring, adding tests) can be much higher than if you had built the foundation correctly from the start. That extra cost is the *interest* on your technical debt.\n\n- **When it’s okay**  \n  Some debt is fine if you have a plan to pay it back—maybe you need a feature out before a deadline. Just write down that debt, set a date to refactor, and don’t let it pile up.\n\n- **How to manage it**  \n  1. **Identify**: Keep a running list of shortcuts (missing tests, quick hacks, “works for now” code).  \n  2. **Prioritize**: Pay down debt that hurts the most—bugs that break users or block new work.  \n  3. **Pay it back**: Refactor, add tests, improve documentation, or rebuild parts of the system.  \n  4. **Avoid new debt**: Adopt practices like code reviews, automated testing, and regular refactoring sprints.\n\nIn short, technical debt is like a financial loan: you can use the money (or time) you save now, but you’ll have to pay it back with interest—sometimes a lot of extra effort—later. Managing it wisely keeps the codebase healthy and the project on track.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T20:07:45.6848461+02:00",
+  "durationSeconds": 5.39,
+  "stats": "gpt-oss:20b · 74 + 599 tokens · 5,4 s",
+  "isError": false,
+  "language": "EN"
+}

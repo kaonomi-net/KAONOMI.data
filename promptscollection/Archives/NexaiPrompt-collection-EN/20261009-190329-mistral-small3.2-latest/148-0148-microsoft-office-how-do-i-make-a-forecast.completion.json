@@ -1,0 +1,13 @@
+{
+  "index": 148,
+  "file": "0148-microsoft-office-how-do-i-make-a-forecast.prompt.json",
+  "prompt": "How do I make a forecast with the Forecast Sheet in Excel?",
+  "promptWords": 12,
+  "completion": "To create a forecast in Excel using the Forecast Sheet feature, follow these steps:\n\n### Prerequisites:\n1. **Excel Version**: Ensure you are using Excel 2016 or later, as the Forecast Sheet feature is available in these versions.\n2. **Data Preparation**: Your data should be in a tabular format with time-based data (e.g., dates, months, years) in one column and the corresponding values in another column.\n\n### Steps to Create a Forecast:\n\n1. **Select Your Data**:\n   - Highlight the range of cells that includes your time-based data and the values you want to forecast. For example, if you have dates in column A and sales figures in column B, select both columns.\n\n2. **Insert Forecast Sheet**:\n   - Go to the **Data** tab on the Ribbon.\n   - In the **Forecast** group, click on **Forecast Sheet**.\n   - A dialog box will appear where you can specify the forecast end date and other options.\n\n3. **Configure Forecast Options**:\n   - **Forecast End**: Set the end date for your forecast. Excel will automatically calculate the forecast period based on your historical data.\n   - **Seasonality**: Choose whether to include seasonality in your forecast. You can select options like Automatic, None, or specify a seasonality range.\n   - **Confidence Interval**: Set the confidence interval (e.g., 95%) to indicate the range in which the actual values are expected to fall.\n   - **Aggregate Data by**: If your data is aggregated (e.g., by month or year), select the appropriate option.\n\n4. **Generate Forecast**:\n   - Click **Create** to generate the forecast. Excel will create a new worksheet with your historical data, the forecasted values, and a chart visualizing the forecast.\n\n5. **Review and Adjust**:\n   - Review the forecast results and adjust the settings if necessary. You can go back to the **Forecast Sheet** options to make changes.\n\n### Tips:\n- Ensure your data is clean and consistent. Remove any outliers or inconsistencies that might affect the forecast accuracy.\n- The more historical data you have, the more accurate your forecast is likely to be.\n- You can customize the forecast chart and tables as needed to better present your data.\n\nIf you encounter any issues or need further assistance, feel free to ask!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:30:54.5262353+02:00",
+  "durationSeconds": 12.28,
+  "stats": "mistral-small3.2:latest · 521 + 490 tokens · 12,3 s",
+  "isError": false,
+  "language": "EN"
+}

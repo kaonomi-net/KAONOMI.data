@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-degringolade",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une chute rapide.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]gringolade(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]gringol(er|e|ent|[ée])|plongeon\\s+de\\s+la\\s+bourse)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chute\\s+libre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]vissage(s)?)(?![\\w-])"
+  ],
+  "symbol": "dégringolade",
+  "event": null,
+  "title": "Dégringolade",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

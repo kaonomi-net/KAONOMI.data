@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-creation",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de créer.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cr[ée]ation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cr[ée](er|[ée]|[ée]e|[ée]s|[ée]es|ateur|atrice|ateurs)|(œ|oe)uvre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chef-d['’](œ|oe)uvre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chefs-d['’](œ|oe)uvre)(?![\\w-])"
+  ],
+  "symbol": "création",
+  "event": null,
+  "title": "Création",
+  "tags": [
+    "#CREATION"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

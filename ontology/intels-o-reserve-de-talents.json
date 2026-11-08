@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-reserve-de-talents",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "réserve de talents",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 1 intel : Talents et migration légale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre les initiatives pour attirer les travailleurs qualifiés."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "réserve de talents",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MIGRATION",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "talents",
+    "reconnaissance des diplômes",
+    "migration légale",
+    "Bruxelles",
+    "pénuries"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

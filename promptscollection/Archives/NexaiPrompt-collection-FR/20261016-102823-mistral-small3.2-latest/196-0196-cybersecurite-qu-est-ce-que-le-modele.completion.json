@@ -1,0 +1,13 @@
+{
+  "index": 196,
+  "file": "0196-cybersecurite-qu-est-ce-que-le-modele.prompt.json",
+  "prompt": "Qu'est-ce que le modèle Zero Trust ?",
+  "promptWords": 7,
+  "completion": "Le modèle Zero Trust (ou confiance zéro en français) est une approche de sécurité informatique qui repose sur le principe de \"ne jamais faire confiance, toujours vérifier\". Contrairement aux modèles de sécurité traditionnels qui se basent sur des périmètres de confiance (comme les pare-feu), le Zero Trust suppose que tout utilisateur, appareil ou système pourrait être compromis et doit donc être vérifié avant d'accéder aux ressources.\n\n### Principes clés du Zero Trust :\n1. **Ne jamais faire confiance, toujours vérifier** : Chaque demande d'accès doit être authentifiée et autorisée, quel que soit l'emplacement de l'utilisateur ou de l'appareil.\n2. **Accès basé sur le moindre privilège** : Les utilisateurs et les systèmes n'ont accès qu'aux ressources strictement nécessaires pour accomplir leurs tâches.\n3. **Vérification continue** : L'authentification et l'autorisation ne sont pas des processus uniques, mais continus, avec une surveillance permanente des activités.\n4. **Micro-segmentation** : Les ressources sont divisées en segments plus petits pour limiter la propagation des attaques.\n5. **Contexte dynamique** : Les décisions d'accès prennent en compte des facteurs dynamiques comme l'heure, l'emplacement, le type d'appareil, etc.\n\n### Avantages du Zero Trust :\n- **Réduction des risques de cyberattaques** : En limitant les accès et en vérifiant constamment les identités, le modèle Zero Trust diminue les risques de compromission.\n- **Adaptabilité** : Il est particulièrement adapté aux environnements hybrides et aux architectures cloud.\n- **Conformité** : Aide à respecter les réglementations de sécurité et de protection des données.\n\n### Exemples d'implémentation :\n- **Authentification multifactorielle (MFA)** : Pour renforcer la vérification des identités.\n- **Pare-feu de nouvelle génération** : Pour contrôler les accès en fonction du contexte.\n- **Solutions de gestion des accès (IAM)** : Pour gérer les identités et les accès de manière centralisée.\n\nLe modèle Zero Trust est de plus en plus adopté par les entreprises pour renforcer leur posture de sécurité face à des menaces de plus en plus sophistiquées.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:02:36.5527797+02:00",
+  "durationSeconds": 9.33,
+  "stats": "mistral-small3.2:latest · 516 + 463 tokens · 9,3 s",
+  "isError": false,
+  "language": "FR"
+}

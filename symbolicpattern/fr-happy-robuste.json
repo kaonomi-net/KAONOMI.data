@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-robuste",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Fort et résistant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:robuste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:solide(s)?\\s+comme\\s+un\\s+roc)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:increvable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]sistant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:endurant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "robuste",
+  "event": null,
+  "title": "Robuste",
+  "tags": [
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

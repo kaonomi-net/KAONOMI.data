@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-mandats-de-la-cour-penale-internationale",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Mandats de la Cour pénale internationale",
+  "includedEntities": [
+    {
+      "entityName": "Cour pénale internationale",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "mandat d'arrêt",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les mandats d'arrêt et procédures de la CPI.",
+  "isFuzzy": true,
+  "locations": [
+    "La Haye"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "procureur",
+    "crimes de guerre",
+    "États membres"
+  ],
+  "questions": [
+    "Qui est visé ?",
+    "Quels pays coopèrent ?",
+    "Quelles réactions ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#JUSTICE-INTERNATIONALE",
+    "#CPI"
+  ],
+  "events": [
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

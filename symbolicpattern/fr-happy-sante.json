@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-sante",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le bon état du corps et de l'esprit.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sant[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bonne\\s+sant[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:en\\s+pleine\\s+forme)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bien\\s+portant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]tant(e|s|es)?\\s+de\\s+sant[ée])(?![\\w-])"
+  ],
+  "symbol": "santé",
+  "event": null,
+  "title": "Santé",
+  "tags": [
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

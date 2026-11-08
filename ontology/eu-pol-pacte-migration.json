@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la politique migratoire) : Ensemble de règlements réformant le régime d'asile européen, adopté en mai 2024.",
+  "id": "eu-pol-pacte-migration",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Pacte sur la migration et l'asile",
+  "entityType": "LAW",
+  "description": "Ensemble de règlements réformant le régime d'asile européen, adopté en mai 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Pacte sur la migration et l'asile ».",
+    "La mise en œuvre de « Pacte sur la migration et l'asile » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Pacte sur la migration et l'asile »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#POLITIQUEMIGRATOIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pacte%20sur%20la%20migration%20et%20l%27asile"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Migration et asile",
+    "Direction générale de la migration et des affaires intérieures",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-05-14T00:00:00",
+  "endDate": null
+}

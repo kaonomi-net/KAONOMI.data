@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Grèce.",
+  "id": "pe10-mep-256824",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Yannis Maniatis",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Grèce. Groupe politique : Socialistes et démocrates (S&D). Parti ou liste national : PASOK-KINAL.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Le vote de Yannis Maniatis figure dans le relevé des votes par appel nominal.",
+    "Yannis Maniatis participe aux travaux des commissions parlementaires.",
+    "Yannis Maniatis siège au Parlement européen depuis la législature 2024-2029."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Yannis MANIATIS"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256824",
+    "https://fr.wikipedia.org/w/index.php?search=Yannis%20Maniatis"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Grèce",
+    "Parlement européen",
+    "Socialistes et démocrates (S&D)",
+    "PASOK-KINAL"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

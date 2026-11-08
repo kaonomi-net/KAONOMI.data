@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-handicap-et-inclusion",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Handicap et inclusion",
+  "includedEntities": [
+    {
+      "entityName": "handicap",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "inclusion",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les politiques en faveur des personnes handicapées.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "AESH",
+    "allocations",
+    "accessibilité"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel budget ?",
+    "Quelle revendication ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#HANDICAP",
+    "#SOCIAL"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

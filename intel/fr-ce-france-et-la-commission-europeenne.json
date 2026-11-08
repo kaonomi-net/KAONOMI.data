@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-france-et-la-commission-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "France et la Commission européenne",
+  "includedEntities": [
+    {
+      "entityName": "France",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Commission européenne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Paris",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les relations entre la France et la Commission.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "budget",
+    "Mercosur",
+    "dette"
+  ],
+  "questions": [
+    "Quelle tension ?",
+    "Quelle procédure ?",
+    "Quel soutien ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#FRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

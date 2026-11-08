@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-lithium",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "lithium",
+  "entityType": "MATERIAL",
+  "description": "Cité par 5 intels : Accord sur les minerais ukrainiens ; Course au lithium ; Lithium et batteries ; Accords sur les matières premières critiques ; Trouble bipolaire.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre l'accord entre Washington et Kyiv sur les ressources minérales.",
+    "Suivre l'accès au lithium nécessaire aux batteries.",
+    "Suivre le marché du lithium et des matériaux de batteries."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "lithium",
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#LITHIUM",
+    "#ETATS-UNIS",
+    "#UKRAINE",
+    "#MINERAIS",
+    "#GEOPOLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE",
+    "!DEPENDANCE",
+    "!PRIX"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "batteries",
+    "véhicules électriques",
+    "Chine",
+    "Ukraine",
+    "Kyiv",
+    "terres rares",
+    "fonds d'investissement",
+    "titane",
+    "Washington",
+    "accord sur les minerais"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

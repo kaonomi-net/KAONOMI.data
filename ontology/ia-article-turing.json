@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (la philosophie de l'IA) : Article d'Alan Turing paru dans la revue Mind, qui pose la question « Les machines peuvent-elles penser ? » et propose le jeu de l'imitation.",
+  "id": "ia-article-turing",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Publication de « Computing Machinery and Intelligence »",
+  "entityType": "EVENT",
+  "description": "Article d'Alan Turing paru dans la revue Mind, qui pose la question « Les machines peuvent-elles penser ? » et propose le jeu de l'imitation.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "Dans sa conférence, l'historien des sciences est revenu sur « Publication de « Computing Machinery and Intelligence » ».",
+    "On date souvent un tournant de la philosophie de l'IA à « Publication de « Computing Machinery and Intelligence » ».",
+    "« Publication de « Computing Machinery and Intelligence » » est un jalon de l'histoire de l'intelligence artificielle."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "article de Turing de 1950"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#PHILOSOPHIEIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Publication%20de%20%C2%AB%20Computing%20Machinery%20and%20Intelligence%20%C2%BB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Alan Turing"
+  ],
+  "isDeleted": false,
+  "startDate": "1950-10-01T00:00:00",
+  "endDate": "1950-10-01T00:00:00"
+}

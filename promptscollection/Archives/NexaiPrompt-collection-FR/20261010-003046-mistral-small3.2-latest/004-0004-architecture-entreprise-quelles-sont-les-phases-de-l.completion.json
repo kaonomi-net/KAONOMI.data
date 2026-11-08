@@ -1,0 +1,13 @@
+{
+  "index": 4,
+  "file": "0004-architecture-entreprise-quelles-sont-les-phases-de-l.prompt.json",
+  "prompt": "Quelles sont les phases de l'ADM de TOGAF ?",
+  "promptWords": 9,
+  "completion": "L'ADM (Architecture Development Method) de TOGAF (The Open Group Architecture Framework) est une méthodologie structurée pour développer et gérer des architectures d'entreprise. Elle se compose de huit phases principales :\n\n1. **Phase Pré-ADM (Préparation)** :\n   - Définition des objectifs et des contraintes de l'architecture.\n   - Identification des parties prenantes et de leurs besoins.\n   - Préparation de l'environnement de travail.\n\n2. **Phase A : Vision de l'Architecture** :\n   - Définition des objectifs architecturaux et des exigences.\n   - Identification des parties prenantes et de leurs besoins.\n   - Création d'une vision architecturale initiale.\n\n3. **Phase B : Architecture de Départ (Baseline)** :\n   - Documentation de l'architecture actuelle (as-is).\n   - Identification des lacunes et des opportunités d'amélioration.\n   - Préparation des recommandations pour l'architecture cible.\n\n4. **Phase C : Architecture Cible (Target)** :\n   - Définition de l'architecture souhaitée (to-be).\n   - Alignement avec les objectifs métiers et technologiques.\n   - Élaboration des plans de transition.\n\n5. **Phase D : Opportunités et Plans** :\n   - Identification des opportunités de mise en œuvre.\n   - Développement de plans de transition détaillés.\n   - Évaluation des risques et des bénéfices.\n\n6. **Phase E : Gestion de la Migration** :\n   - Planification et exécution des migrations.\n   - Gestion des changements et des risques.\n   - Surveillance et ajustement des plans de migration.\n\n7. **Phase F : Gestion de l'Architecture en Opération** :\n   - Intégration de l'architecture dans les opérations quotidiennes.\n   - Surveillance continue et évaluation des performances.\n   - Mise à jour de l'architecture en fonction des besoins évolutifs.\n\n8. **Phase G : Gestion des Demandes d'Architecture** :\n   - Gestion des demandes d'architecture et des changements.\n   - Évaluation de l'impact des demandes sur l'architecture existante.\n   - Mise à jour de l'architecture en conséquence.\n\nCes phases sont conçues pour être itératives et adaptables, permettant une approche flexible et continue de la gestion de l'architecture d'entreprise.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T00:31:33.0169343+02:00",
+  "durationSeconds": 9.66,
+  "stats": "mistral-small3.2:latest · 522 + 483 tokens · 9,7 s",
+  "isError": false,
+  "language": "FR"
+}

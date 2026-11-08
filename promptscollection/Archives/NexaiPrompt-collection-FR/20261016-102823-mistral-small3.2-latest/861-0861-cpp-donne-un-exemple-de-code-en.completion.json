@@ -1,0 +1,13 @@
+{
+  "index": 861,
+  "file": "0861-cpp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C++ qui illustre la STL.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en C++ qui illustre l'utilisation de la Standard Template Library (STL) avec un conteneur (`std::vector`), un algorithme (`std::sort`) et un itérateur :\n\n```cpp\n#include <iostream>\n#include <vector>\n#include <algorithm> // Pour std::sort\n\nint main() {\n    // Création d'un vecteur (conteneur STL) d'entiers\n    std::vector<int> nombres = {5, 2, 8, 1, 9, 3};\n\n    // Affichage des éléments du vecteur avant tri\n    std::cout << \"Avant tri : \";\n    for (int nombre : nombres) {\n        std::cout << nombre << \" \";\n    }\n    std::cout << std::endl;\n\n    // Utilisation de l'algorithme std::sort pour trier le vecteur\n    std::sort(nombres.begin(), nombres.end());\n\n    // Affichage des éléments du vecteur après tri\n    std::cout << \"Après tri : \";\n    for (int nombre : nombres) {\n        std::cout << nombre << \" \";\n    }\n    std::cout << std::endl;\n\n    return 0;\n}\n```\n\n### Explications :\n1. **Conteneur** : `std::vector<int> nombres` est un conteneur dynamique qui stocke une séquence d'entiers.\n2. **Algorithme** : `std::sort(nombres.begin(), nombres.end())` trie les éléments du vecteur.\n3. **Itérateur** : `nombres.begin()` et `nombres.end()` sont des itérateurs qui définissent la plage à trier.\n\nCe code montre comment la STL permet de manipuler des collections de données de manière générique et efficace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:31:41.0611771+02:00",
+  "durationSeconds": 7.52,
+  "stats": "mistral-small3.2:latest · 522 + 368 tokens · 7,5 s",
+  "isError": false,
+  "language": "FR"
+}

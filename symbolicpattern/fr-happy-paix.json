@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-paix",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'absence de conflit, la tranquillité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:paix)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:paisible(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pacifique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tranquillit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:calme\\s+retrouv[ée])(?![\\w-])"
+  ],
+  "symbol": "paix",
+  "event": null,
+  "title": "Paix",
+  "tags": [
+    "#PAIX"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

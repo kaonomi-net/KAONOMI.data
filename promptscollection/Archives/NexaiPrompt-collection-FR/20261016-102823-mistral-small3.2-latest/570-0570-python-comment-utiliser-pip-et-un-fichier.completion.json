@@ -1,0 +1,13 @@
+{
+  "index": 570,
+  "file": "0570-python-comment-utiliser-pip-et-un-fichier.prompt.json",
+  "prompt": "Comment utiliser pip et un fichier requirements.txt ?",
+  "promptWords": 8,
+  "completion": "Pour utiliser `pip` et un fichier `requirements.txt`, voici les étapes à suivre :\n\n### 1. **Installer un package avec pip**\nPour installer un package Python spécifique, utilisez la commande suivante :\n```bash\npip install nom_du_package\n```\nRemplacez `nom_du_package` par le nom du package que vous souhaitez installer.\n\n### 2. **Créer un fichier `requirements.txt`**\nUn fichier `requirements.txt` liste tous les packages nécessaires à votre projet. Pour le créer, vous pouvez utiliser la commande suivante :\n```bash\npip freeze > requirements.txt\n```\nCette commande génère un fichier `requirements.txt` contenant tous les packages installés dans votre environnement virtuel avec leurs versions exactes.\n\n### 3. **Installer les packages à partir d'un fichier `requirements.txt`**\nPour installer tous les packages listés dans un fichier `requirements.txt`, utilisez la commande suivante :\n```bash\npip install -r requirements.txt\n```\nCette commande installe tous les packages et leurs versions spécifiées dans le fichier.\n\n### 4. **Mettre à jour les packages dans `requirements.txt`**\nSi vous avez ajouté ou mis à jour des packages, vous pouvez régénérer le fichier `requirements.txt` avec :\n```bash\npip freeze > requirements.txt\n```\n\n### 5. **Utiliser un environnement virtuel (recommandé)**\nIl est conseillé d'utiliser un environnement virtuel pour gérer les dépendances de votre projet. Voici comment faire :\n```bash\n# Créer un environnement virtuel\npython -m venv nom_de_l_environnement\n\n# Activer l'environnement virtuel\n# Sur Windows\nnom_de_l_environnement\\Scripts\\activate\n# Sur macOS/Linux\nsource nom_de_l_environnement/bin/activate\n\n# Installer les packages dans l'environnement virtuel\npip install -r requirements.txt\n```\n\n### Exemple de fichier `requirements.txt`\n```plaintext\nDjango==4.2.0\nrequests==2.28.1\nnumpy==1.23.5\n```\n\nEn suivant ces étapes, vous pouvez facilement gérer les dépendances de votre projet Python en utilisant `pip` et un fichier `requirements.txt`.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:19:41.8932163+02:00",
+  "durationSeconds": 9.32,
+  "stats": "mistral-small3.2:latest · 516 + 472 tokens · 9,3 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-souverainete",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "souveraineté",
+  "entityType": "DOMAIN",
+  "description": "Cité par 8 intels : Relocalisation industrielle ; Champion français de l'IA ; Déclaration d'Arthur Mensch ; Position du RN sur l'Europe ; OVHcloud ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le retour des productions stratégiques.",
+    "Suivre les acteurs français de l'IA et la souveraineté numérique.",
+    "Suivre les prises de parole du dirigeant de Mistral AI."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "souveraineté",
+  "tags": [
+    "#SOUVERAINETE",
+    "#IA",
+    "#FRANCE",
+    "#CYBERSECURITE",
+    "#GEOPOLITIQUE",
+    "#INDUSTRIE"
+  ],
+  "events": [
+    "@ACTEUR-NATIONAL",
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!SOUVERAINETE",
+    "!CAMPAGNE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Europe",
+    "cloud",
+    "Paris",
+    "Mistral AI",
+    "Arthur Mensch",
+    "relocalisation",
+    "semi-conducteurs",
+    "subventions",
+    "médicaments",
+    "industrie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

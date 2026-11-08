@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (la vision par ordinateur) : Réseau de neurones à poids partagés qui applique des filtres de convolution aux images ; popularisé par LeNet de Yann LeCun.",
+  "id": "ia-cnn",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Réseau de neurones convolutif",
+  "entityType": "ALGORITHM",
+  "description": "Réseau de neurones à poids partagés qui applique des filtres de convolution aux images ; popularisé par LeNet de Yann LeCun.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Pour ce projet, l'équipe a implémenté Réseau de neurones convolutif en quelques lignes de Python.",
+    "Comprendre Réseau de neurones convolutif est une étape clé pour maîtriser la vision par ordinateur.",
+    "Dans le domaine de la vision par ordinateur, Réseau de neurones convolutif reste une référence."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "CNN",
+    "ConvNet",
+    "réseau convolutionnel"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#VISIONPARORDINATEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A9seau%20de%20neurones%20convolutif"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Victoire d'AlexNet à ImageNet",
+    "Yann LeCun",
+    "Néocognitron",
+    "AlphaGo",
+    "Andrej Karpathy"
+  ],
+  "isDeleted": false,
+  "startDate": "1989-01-01T00:00:00",
+  "endDate": null
+}

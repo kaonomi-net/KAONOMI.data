@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation des attentats de Bruxelles de 2016 (l'aide aux victimes) : Association de victimes du terrorisme née après les attentats de Bruxelles, qui défend leurs droits et leur reconnaissance.",
+  "id": "be2016-v-europe",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "V-Europe",
+  "entityType": "ORGANISATION",
+  "description": "Association de victimes du terrorisme née après les attentats de Bruxelles, qui défend leurs droits et leur reconnaissance.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-organisations",
+  "sentencesExemples": [
+    "Les documents publics décrivent la place de « V-Europe » dans l'aide aux victimes.",
+    "L'organisation « V-Europe » est citée dans les rapports consacrés aux attentats de 2016.",
+    "Les médias ont rapporté les communications de « V-Europe »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 3,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "V-Europe asbl"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#ORGANISATION",
+    "#AIDEAUXVICTIMES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=V-Europe"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Procès des attentats de Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

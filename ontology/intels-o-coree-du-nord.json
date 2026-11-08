@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-coree-du-nord",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "Corée du Nord",
+  "entityType": "COUNTRY",
+  "description": "Cité par 7 intels : Missiles nord-coréens KN-23 ; Relation entre Poutine et Kim Jong-un ; Soldats nord-coréens en Russie ; Munitions nord-coréennes ; Tirs de missiles nord-coréens ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre l'usage par la Russie de missiles balistiques nord-coréens.",
+    "Suivre la coopération entre la Russie et la Corée du Nord.",
+    "Suivre la présence et le rôle des soldats nord-coréens aux côtés de la Russie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 14,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Corée du Nord",
+  "tags": [
+    "#COREE-DU-NORD",
+    "#RUSSIE",
+    "#MISSILES",
+    "#GEOPOLITIQUE",
+    "#POUTINE",
+    "#ALLIANCE"
+  ],
+  "events": [
+    "@FRAPPE",
+    "@RENCONTRE-DIRIGEANTS",
+    "@TIR-MISSILE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!ESCALADE",
+    "!ALLIANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kim Jong-un",
+    "missiles",
+    "Pyongyang",
+    "soldats nord-coréens",
+    "missiles nord-coréens",
+    "KN-23",
+    "missiles balistiques",
+    "énergie",
+    "traité de défense",
+    "Poutine"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

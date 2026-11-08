@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-les-republicains-apres-les-municipales",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Les Républicains après les municipales",
+  "includedEntities": [
+    {
+      "entityName": "Les Républicains",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "villes moyennes",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "municipales",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la dynamique de LR après ses succès dans les villes moyennes.",
+  "isFuzzy": true,
+  "locations": [
+    "villes moyennes"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "maires LR",
+    "sénateurs",
+    "implantation"
+  ],
+  "questions": [
+    "Quel réseau d'élus ?",
+    "Quelle traduction nationale ?",
+    "Quel candidat ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#LR",
+    "#MUNICIPALES"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

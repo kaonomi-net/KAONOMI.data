@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-systeme-entree-sortie-aux-frontieres",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Système entrée-sortie aux frontières",
+  "includedEntities": [
+    {
+      "entityName": "entrée-sortie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "frontières",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le déploiement du système biométrique d'entrée et de sortie.",
+  "isFuzzy": true,
+  "locations": [
+    "frontières extérieures"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ETIAS",
+    "files d'attente",
+    "biométrie"
+  ],
+  "questions": [
+    "Quel déploiement ?",
+    "Quelles difficultés ?",
+    "Quel calendrier pour ETIAS ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#FRONTIERES",
+    "#NUMERIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!MIGRATION"
+  ],
+  "isDeleted": false
+}

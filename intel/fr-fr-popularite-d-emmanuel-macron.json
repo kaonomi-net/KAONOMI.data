@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-popularite-d-emmanuel-macron",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Popularité d'Emmanuel Macron",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "popularité",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sondage",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la popularité du président, à son plus bas niveau fin 2026.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "publication mensuelle"
+  ],
+  "relatedEntities": [
+    "YouGov",
+    "IFOP",
+    "Lecornu"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quelle évolution ?",
+    "Quelle comparaison avec le Premier ministre ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#OPINION"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-une-collectivite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre une collectivité",
+  "includedEntities": [
+    {
+      "entityName": "collectivité",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "mairie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les cyberattaques contre les communes, départements et régions.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "services publics",
+    "rançongiciel",
+    "données des habitants"
+  ],
+  "questions": [
+    "Quelle collectivité ?",
+    "Quels services coupés ?",
+    "Quelle reprise ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#COLLECTIVITES"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

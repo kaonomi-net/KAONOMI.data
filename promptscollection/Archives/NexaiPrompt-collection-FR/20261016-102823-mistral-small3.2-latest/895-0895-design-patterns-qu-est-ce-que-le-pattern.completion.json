@@ -1,0 +1,13 @@
+{
+  "index": 895,
+  "file": "0895-design-patterns-qu-est-ce-que-le-pattern.prompt.json",
+  "prompt": "Qu'est-ce que le pattern Circuit Breaker dans les microservices ?",
+  "promptWords": 10,
+  "completion": "Le pattern **Circuit Breaker** (disjoncteur) est un motif de conception utilisé dans les architectures de microservices pour gérer les défaillances et améliorer la résilience des systèmes distribués. Il s'inspire du fonctionnement d'un disjoncteur électrique, qui coupe automatiquement le circuit lorsqu'une surcharge ou une panne est détectée pour éviter des dommages supplémentaires.\n\n### Fonctionnement du Circuit Breaker :\n1. **État Fermé (Closed)** :\n   - Le circuit est fermé, les requêtes passent normalement vers le service distant.\n   - Si le nombre d'échecs dépasse un seuil défini (par exemple, un certain pourcentage d'erreurs en un laps de temps donné), le circuit passe en état **Ouvert**.\n\n2. **État Ouvert (Open)** :\n   - Le circuit est ouvert, les requêtes vers le service distant sont bloquées.\n   - Une réponse par défaut (par exemple, une erreur ou un message d'avertissement) est renvoyée immédiatement.\n   - Après une période de refroidissement (timeout), le circuit passe en état **Half-Open** pour tester à nouveau le service distant.\n\n3. **État Demi-Ouvert (Half-Open)** :\n   - Un nombre limité de requêtes est autorisé à passer vers le service distant.\n   - Si ces requêtes réussissent, le circuit retourne à l'état **Fermé**.\n   - Si elles échouent, le circuit retourne à l'état **Ouvert**.\n\n### Avantages du Circuit Breaker :\n- **Résilience** : Empêche la propagation des pannes et évite la surcharge des services défaillants.\n- **Stabilité** : Permet au système de continuer à fonctionner même en cas de défaillance partielle.\n- **Réduction de la latence** : Évite les tentatives répétées de requêtes vers des services indisponibles.\n\n### Exemples d'implémentation :\n- **Netflix Hystrix** (désormais en mode maintenance, mais largement utilisé dans le passé).\n- **Resilience4j** (alternative moderne à Hystrix, compatible avec Spring Boot).\n- **Polly** (pour .NET).\n\n### Cas d'utilisation typiques :\n- Appels entre microservices.\n- Appels à des API externes.\n- Gestion des bases de données distantes.\n\nEn résumé, le pattern Circuit Breaker est un outil essentiel pour construire des systèmes distribués robustes et tolérants aux pannes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:38:24.7399193+02:00",
+  "durationSeconds": 10.43,
+  "stats": "mistral-small3.2:latest · 521 + 524 tokens · 10,4 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 80,
+  "file": "080-interet-pour-le-llm-erinnern-sie-sich-an-mich.prompt.json",
+  "prompt": "Erinnern Sie sich an mich?",
+  "promptWords": 5,
+  "completion": "Ich habe keine persönlichen Erinnerungen oder die Fähigkeit, vorherige Interaktionen zu speichern. Jedes Gespräch beginnt für mich neu. Aber keine Sorge, ich bin hier, um Ihnen bei allem zu helfen, was Sie heute brauchen! Wie kann ich Ihnen weiterhelfen?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:10:08.8565739+02:00",
+  "durationSeconds": 1.42,
+  "stats": "mistral-small3.2:latest · 515 + 61 tokens · 1,4 s",
+  "isError": false,
+  "language": "DE"
+}

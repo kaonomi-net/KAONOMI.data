@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-confiance",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de se fier à quelqu'un.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:confiance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:confiant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fiable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:loyaut[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fid[ée]lit[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "confiance",
+  "event": null,
+  "title": "Confiance",
+  "tags": [
+    "#AMITIE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

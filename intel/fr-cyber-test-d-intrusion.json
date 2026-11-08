@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-test-d-intrusion",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Test d'intrusion",
+  "includedEntities": [
+    {
+      "entityName": "test d'intrusion",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "pentest",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'actualité des tests d'intrusion autorisés.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "audit",
+    "périmètre",
+    "rapport"
+  ],
+  "questions": [
+    "Quelle méthode ?",
+    "Quel résultat ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#PENTEST"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

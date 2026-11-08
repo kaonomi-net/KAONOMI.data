@@ -1,0 +1,13 @@
+{
+  "index": 12,
+  "file": "032-cuisine-quels-legumes-sont-de-saison-en.prompt.json",
+  "prompt": "Quels légumes sont de saison en automne ?",
+  "promptWords": 8,
+  "completion": "En automne, plusieurs légumes sont de saison et offrent une variété de saveurs et de nutriments. Voici une liste des légumes typiquement disponibles pendant cette période :\n\n1. **Courges** (butternut, potimarron, spaghetti, etc.)\n2. **Potiron**\n3. **Champignons** (girolles, cèpes, pleurotes, etc.)\n4. **Épinards**\n5. **Poireaux**\n6. **Choux** (chou-fleur, chou de Bruxelles, chou rouge, chou vert)\n7. **Carottes**\n8. **Betteraves**\n9. **Panais**\n10. **Topinambours**\n11. **Navets**\n12. **Radis noirs**\n13. **Endives**\n14. **Scorsonères**\n15. **Céleri-rave**\n\nCes légumes sont souvent riches en vitamines, minéraux et fibres, et ils sont parfaits pour des plats réconfortants comme des soupes, des ragoûts et des gratins. Si tu veux des recettes spécifiques ou des conseils de préparation, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:18:39.2541858+02:00",
+  "durationSeconds": 6.12,
+  "stats": "mistral-small3.2:latest · 517 + 255 tokens · 6,1 s",
+  "isError": false,
+  "language": "FR"
+}

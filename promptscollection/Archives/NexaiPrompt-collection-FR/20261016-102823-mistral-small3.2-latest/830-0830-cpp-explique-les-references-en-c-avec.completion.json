@@ -1,0 +1,13 @@
+{
+  "index": 830,
+  "file": "0830-cpp-explique-les-references-en-c-avec.prompt.json",
+  "prompt": "Explique les références en C++ avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "En C++, les références sont des alias (surnoms) pour des variables existantes. Elles permettent d'accéder directement à la mémoire d'une variable sans utiliser de pointeurs. Voici une explication simple avec un exemple :\n\n### Caractéristiques des références :\n1. **Alias** : Une référence est un autre nom pour une variable existante.\n2. **Initialisation obligatoire** : Une référence doit être initialisée lors de sa déclaration et ne peut pas être réaffectée.\n3. **Pas d'opérateur de déréférencement** : Contrairement aux pointeurs, on accède directement à la valeur via la référence.\n\n### Exemple simple :\n\n```cpp\n#include <iostream>\n\nint main() {\n    int nombre = 10;  // Variable originale\n    int &ref = nombre; // ref est une référence vers nombre\n\n    std::cout << \"Valeur de nombre : \" << nombre << std::endl;\n    std::cout << \"Valeur via ref : \" << ref << std::endl;\n\n    ref = 20; // Modification via la référence\n\n    std::cout << \"Nouvelle valeur de nombre : \" << nombre << std::endl;\n    std::cout << \"Nouvelle valeur via ref : \" << ref << std::endl;\n\n    return 0;\n}\n```\n\n### Explication du code :\n1. On déclare une variable `nombre` avec la valeur `10`.\n2. On crée une référence `ref` qui pointe vers `nombre`.\n3. On affiche les valeurs de `nombre` et `ref` (elles sont identiques).\n4. On modifie la valeur via `ref` (qui est un alias de `nombre`).\n5. On affiche à nouveau les valeurs : `nombre` a été modifié car `ref` y fait référence.\n\n### Sortie attendue :\n```\nValeur de nombre : 10\nValeur via ref : 10\nNouvelle valeur de nombre : 20\nNouvelle valeur via ref : 20\n```\n\n### Utilité des références :\n- **Passage par référence dans les fonctions** : Permet de modifier une variable dans une fonction sans la copier.\n- **Éviter les copies inutiles** : Utile pour les objets lourds (comme les conteneurs STL).\n- **Clarté du code** : Moins verbeux que les pointeurs pour certaines opérations.\n\nSi tu as d'autres questions ou si tu veux un exemple plus complexe, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:22:32.3368346+02:00",
+  "durationSeconds": 10.89,
+  "stats": "mistral-small3.2:latest · 520 + 532 tokens · 10,9 s",
+  "isError": false,
+  "language": "FR"
+}

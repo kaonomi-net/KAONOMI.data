@@ -1,0 +1,13 @@
+{
+  "index": 17,
+  "file": "037-cuisine-comment-faire-du-pain-maison.prompt.json",
+  "prompt": "Comment faire du pain maison ?",
+  "promptWords": 6,
+  "completion": "Faire du pain maison est une activité gratifiante et relativement simple. Voici une recette de base pour un pain traditionnel :\n\n### Ingrédients :\n- 500 g de farine (type T55 ou T65)\n- 10 g de sel\n- 10 g de levure fraîche (ou 3 g de levure sèche)\n- 300 ml d'eau tiède\n- 1 cuillère à soupe d'huile d'olive (facultatif)\n\n### Étapes :\n\n1. **Préparation de la levure** :\n   - Si vous utilisez de la levure fraîche, émiettez-la dans un bol et ajoutez un peu d'eau tiède pour la dissoudre. Si vous utilisez de la levure sèche, mélangez-la directement avec l'eau tiède.\n\n2. **Mélange des ingrédients** :\n   - Dans un grand bol, mélangez la farine et le sel.\n   - Ajoutez le mélange de levure et d'eau tiède (et l'huile d'olive si vous en utilisez) à la farine.\n   - Mélangez jusqu'à obtenir une pâte homogène.\n\n3. **Pétrissage** :\n   - Pétrissez la pâte pendant environ 10 minutes à la main ou avec un robot pétrisseur jusqu'à ce qu'elle soit lisse et élastique.\n   - Si la pâte est trop collante, ajoutez un peu de farine. Si elle est trop sèche, ajoutez un peu d'eau.\n\n4. **Première levée** :\n   - Placez la pâte dans un bol légèrement huilé, couvrez d'un torchon humide et laissez lever dans un endroit tiède pendant environ 1 à 2 heures, jusqu'à ce que la pâte ait doublé de volume.\n\n5. **Façonnage** :\n   - Dégazez la pâte en la pressant doucement avec les poings.\n   - Façonnez-la en boule ou en bâton selon votre préférence.\n   - Placez la pâte sur une plaque de cuisson recouverte de papier sulfurisé ou dans un moule à pain.\n\n6. **Seconde levée** :\n   - Couvrez à nouveau la pâte et laissez-la lever pendant environ 30 à 45 minutes.\n\n7. **Cuisson** :\n   - Préchauffez votre four à 220°C (thermostat 7).\n   - Enfournez le pain et faites cuire pendant environ 25 à 30 minutes, jusqu'à ce qu'il soit bien doré et qu'il sonne creux lorsqu'on tape dessus.\n\n8. **Refroidissement** :\n   - Laissez refroidir le pain sur une grille avant de le couper.\n\n### Conseils :\n- Vous pouvez ajouter des graines (lin, tournesol, sésame) ou des herbes (romarin, thym) pour varier les saveurs.\n- Pour un pain plus croustillant, vaporisez un peu d'eau sur le pain avant de l'enfourner ou placez un bol d'eau dans le four pendant la cuisson.\n\nBon appétit ! \uD83C\uDF5E",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:56:34.7225779+02:00",
+  "durationSeconds": 14.17,
+  "stats": "mistral-small3.2:latest · 513 + 683 tokens · 14,2 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-region",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "région",
+  "entityType": "LOCATION",
+  "description": "Cité par 1 intel : Gouverneurs et régions russes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les nominations, démissions et arrestations de gouverneurs."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "région",
+  "tags": [
+    "#RUSSIE",
+    "#REGIONS",
+    "#POUVOIR"
+  ],
+  "events": [
+    "@NOMINATION"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kremlin",
+    "gouverneur",
+    "régions russes",
+    "corruption",
+    "élections"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-dette",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'argent que l'on doit.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:dette(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dette\\s+publique)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cr[ée]ance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cr[ée]ancier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:remboursement(s)?\\s+impossible(s)?)(?![\\w-])"
+  ],
+  "symbol": "dette",
+  "event": null,
+  "title": "Dette",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

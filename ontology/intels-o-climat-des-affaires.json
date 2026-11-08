@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-climat-des-affaires",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "climat des affaires",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Climat des affaires.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la confiance des entreprises."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "climat des affaires",
+  "tags": [
+    "#FRANCE",
+    "#ECONOMIE",
+    "#ENTREPRISES"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "MEDEF",
+    "investissement",
+    "moral des chefs d'entreprise",
+    "INSEE"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

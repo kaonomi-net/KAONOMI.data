@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-robots-tueurs",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les armes qui choisissent seules leurs cibles.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:robots?-tueurs?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:robot(s)?\\s+tueur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arme(s)?\\s+autonome(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:syst[èe]me(s)?\\s+d['’]armes\\s+l[ée]tales\\s+autonomes)(?![\\w-])"
+  ],
+  "symbol": "robots-tueurs",
+  "event": null,
+  "title": "Robots-tueurs",
+  "tags": [
+    "#FEAR",
+    "#IA",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

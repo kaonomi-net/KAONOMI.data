@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la politique de cohésion) : Réduction des écarts de développement entre les régions de l'Union.",
+  "id": "eu-dom-cohesion",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Cohésion et politique régionale",
+  "entityType": "DOMAIN",
+  "description": "Réduction des écarts de développement entre les régions de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Cohésion et politique régionale » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Cohésion et politique régionale » passent par le Parlement et le Conseil.",
+    "La conférence portait sur la politique de cohésion."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#POLITIQUECOHESION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Coh%C3%A9sion%20et%20politique%20r%C3%A9gionale"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Comité européen des régions",
+    "Commission du développement régional (REGI)",
+    "Cohésion et réformes (Commission von der Leyen I)",
+    "Elisa Ferreira",
+    "Cohésion et réformes (Commission von der Leyen II)",
+    "Raffaele Fitto",
+    "Politique régionale (Commission Juncker)",
+    "Corina Crețu",
+    "Politique régionale (Commission Barroso II)",
+    "Johannes Hahn",
+    "Direction générale de la politique régionale et urbaine",
+    "Fonds européen de développement régional",
+    "Fonds de cohésion",
+    "Fonds pour une transition juste"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

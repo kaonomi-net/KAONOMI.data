@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (l'apprentissage profond) : Chercheur canadien d'origine française, fondateur de Mila à Montréal, pionnier des modèles de langage neuronaux.",
+  "id": "ia-bengio",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Yoshua Bengio",
+  "entityType": "PERSON",
+  "description": "Chercheur canadien d'origine française, fondateur de Mila à Montréal, pionnier des modèles de langage neuronaux. Prix Turing 2018.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Lors de la conférence, l'oratrice a cité Yoshua Bengio pour illustrer les progrès de l'apprentissage profond.",
+    "Une biographie de Yoshua Bengio rappelle son rôle dans l'apprentissage profond.",
+    "Yoshua Bengio est l'une des figures marquantes de l'apprentissage profond."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Y. Bengio"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#APPRENTISSAGEPROFOND"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Yoshua%20Bengio"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Prix Turing 2018",
+    "Mécanisme d'attention",
+    "Theano"
+  ],
+  "isDeleted": false,
+  "startDate": "1964-03-05T00:00:00",
+  "endDate": null
+}

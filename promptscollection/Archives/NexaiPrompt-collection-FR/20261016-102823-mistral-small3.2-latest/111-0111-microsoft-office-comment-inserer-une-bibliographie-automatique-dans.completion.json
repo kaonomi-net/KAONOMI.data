@@ -1,0 +1,13 @@
+{
+  "index": 111,
+  "file": "0111-microsoft-office-comment-inserer-une-bibliographie-automatique-dans.prompt.json",
+  "prompt": "Comment insérer une bibliographie automatique dans Word ?",
+  "promptWords": 8,
+  "completion": "Pour insérer une bibliographie automatique dans Microsoft Word, vous pouvez suivre ces étapes :\n\n1. **Ajouter des sources** :\n   - Allez dans l'onglet **Références**.\n   - Cliquez sur **Insérer une nouvelle source** (ou **Gérer les sources** si vous avez déjà des sources).\n   - Choisissez le type de source (livre, article, site web, etc.) et remplissez les informations demandées.\n\n2. **Citer les sources dans votre document** :\n   - Placez le curseur à l'endroit où vous souhaitez insérer la citation.\n   - Dans l'onglet **Références**, cliquez sur **Insérer une citation**, puis sélectionnez la source appropriée.\n\n3. **Générer la bibliographie** :\n   - Placez le curseur à l'endroit où vous souhaitez insérer la bibliographie (généralement à la fin du document).\n   - Dans l'onglet **Références**, cliquez sur **Bibliographie**.\n   - Choisissez un style de bibliographie (APA, MLA, Chicago, etc.).\n\nWord générera automatiquement une bibliographie basée sur les sources que vous avez ajoutées. Vous pouvez mettre à jour la bibliographie à tout moment en cliquant sur **Mettre à jour la bibliographie** dans l'onglet **Références**.\n\nSi vous avez besoin d'aide supplémentaire ou si vous utilisez une version spécifique de Word, n'hésitez pas à me le préciser !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:49:52.6464063+02:00",
+  "durationSeconds": 6.57,
+  "stats": "mistral-small3.2:latest · 517 + 323 tokens · 6,6 s",
+  "isError": false,
+  "language": "FR"
+}

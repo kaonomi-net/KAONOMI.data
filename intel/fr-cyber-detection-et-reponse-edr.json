@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-detection-et-reponse-edr",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Détection et réponse EDR",
+  "includedEntities": [
+    {
+      "entityName": "EDR",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "XDR",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "détection",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les outils de détection et de réponse sur les postes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "contournement",
+    "éditeurs",
+    "SOC"
+  ],
+  "questions": [
+    "Quel outil ?",
+    "Quel contournement ?",
+    "Quelle efficacité ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DEFENSE",
+    "#EDR"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

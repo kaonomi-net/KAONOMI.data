@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-alliance-des-etats-du-sahel",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "Alliance des États du Sahel",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Juntes militaires du Sahel.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les régimes militaires du Mali, du Burkina Faso et du Niger."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Alliance des États du Sahel",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#SAHEL",
+    "#AFRIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!INSTABILITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Mali",
+    "CEDEAO",
+    "Sahel",
+    "Bamako",
+    "Ouagadougou",
+    "Niamey",
+    "Russie",
+    "junte"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

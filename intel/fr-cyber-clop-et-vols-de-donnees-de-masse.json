@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-clop-et-vols-de-donnees-de-masse",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Clop et vols de données de masse",
+  "includedEntities": [
+    {
+      "entityName": "Clop",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "vol de données",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les campagnes de Clop exploitant des logiciels de transfert de fichiers.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "MOVEit",
+    "Oracle",
+    "extorsion"
+  ],
+  "questions": [
+    "Quel logiciel ?",
+    "Combien de victimes ?",
+    "Quelle rançon ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL"
+  ],
+  "events": [
+    "@RANCONGICIEL"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

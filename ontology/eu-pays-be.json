@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Pays de l'Union européenne (la politique européenne) : Belgique, État membre de l'Union européenne depuis 1958 (membre fondateur), capitale Bruxelles.",
+  "id": "eu-pays-be",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Belgique",
+  "entityType": "COUNTRY",
+  "description": "Belgique, État membre de l'Union européenne depuis 1958 (membre fondateur), capitale Bruxelles.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-etats-membres",
+  "sentencesExemples": [
+    "Le représentant permanent de Belgique siège au Coreper à Bruxelles.",
+    "Le gouvernement de Belgique a désigné un commissaire européen.",
+    "Les citoyens de Belgique élisent leurs députés européens."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF0D",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#COUNTRY",
+    "#POLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Belgique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité belge",
+    "Bruxelles",
+    "Union européenne",
+    "Geel",
+    "néerlandais",
+    "français",
+    "allemand",
+    "Mouvement réformateur (MR)",
+    "Chrétiens-démocrates et flamands (CD&V)",
+    "Présidence belge du Conseil de l'UE (janvier-juin 2024)"
+  ],
+  "isDeleted": false,
+  "startDate": "1958-01-01T00:00:00",
+  "endDate": null
+}

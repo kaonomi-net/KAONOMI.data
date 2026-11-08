@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Pays de l'Union européenne (l'élargissement) : Ukraine, pays officiellement candidat à l'adhésion à l'Union européenne.",
+  "id": "eu-pays-ua",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Ukraine",
+  "entityType": "COUNTRY",
+  "description": "Ukraine, pays officiellement candidat à l'adhésion à l'Union européenne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-candidats",
+  "sentencesExemples": [
+    "Le rapport de la Commission consacre un chapitre à Ukraine.",
+    "Ukraine participe aux décisions de de l'Union européenne.",
+    "Les fonds européens financent de nombreux projets en Ukraine."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF0D",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#COUNTRY",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ukraine"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Union européenne",
+    "Élargissement",
+    "Kyiv",
+    "Direction générale de l'élargissement et du voisinage oriental",
+    "Facilité pour l'Ukraine",
+    "Invasion de l'Ukraine par la Russie",
+    "Statut de pays candidat accordé à l'Ukraine et à la Moldavie",
+    "Décision d'ouvrir les négociations d'adhésion avec l'Ukraine et la Moldavie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (la sécurité industrielle) : Première coupure de courant confirmée due à une cyberattaque, privant d'électricité plus de 200 000 foyers.",
+  "id": "cyber-ukraine-grid",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Attaque contre le réseau électrique ukrainien",
+  "entityType": "EVENT",
+  "description": "Première coupure de courant confirmée due à une cyberattaque, privant d'électricité plus de 200 000 foyers.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "Dans sa conférence, l'historienne est revenue sur « Attaque contre le réseau électrique ukrainien ».",
+    "On date souvent un tournant de la sécurité industrielle à « Attaque contre le réseau électrique ukrainien ».",
+    "« Attaque contre le réseau électrique ukrainien » est un jalon de l'histoire de la cybersécurité."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 4,
+  "surpriseLevel": 3,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "BlackEnergy"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#SECURITEINDUSTRIELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Attaque%20contre%20le%20r%C3%A9seau%20%C3%A9lectrique%20ukrainien"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Cyberattaques contre l'Estonie",
+    "NotPetya"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-12-23T00:00:00",
+  "endDate": "2015-12-23T00:00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-decision-de-la-bce-sur-les-taux",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Décision de la BCE sur les taux",
+  "includedEntities": [
+    {
+      "entityName": "BCE",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "taux directeurs",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions de politique monétaire de la Banque centrale européenne.",
+  "isFuzzy": false,
+  "locations": [
+    "Francfort"
+  ],
+  "times": [
+    "réunions du conseil des gouverneurs"
+  ],
+  "relatedEntities": [
+    "taux de dépôt à 2,50 %",
+    "inflation",
+    "Lagarde"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quel message ?",
+    "Quelle réaction des marchés ?"
+  ],
+  "tags": [
+    "#BCE",
+    "#TAUX"
+  ],
+  "events": [
+    "@DECISION-TAUX"
+  ],
+  "signals": [
+    "!POLITIQUE-MONETAIRE"
+  ],
+  "isDeleted": false
+}

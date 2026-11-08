@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-abattoir",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le lieu où l'on tue les animaux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:abattoir(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]levage(s)?\\s+intensif(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:poules\\s+en\\s+batterie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:usine(s)?\\s+[àa]\\s+viande)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souffrance\\s+des\\s+animaux)(?![\\w-])"
+  ],
+  "symbol": "abattoir",
+  "event": null,
+  "title": "Abattoir",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

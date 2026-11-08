@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-egoisme",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de ne penser qu'à soi.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]go[ïi]sme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]go[ïi]ste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]gocentrique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nombriliste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:individualisme(s)?\\s+forcen[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "égoïsme",
+  "event": null,
+  "title": "Égoïsme",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

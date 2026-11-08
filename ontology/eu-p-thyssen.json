@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'emploi) : Juriste et ancienne députée européenne, commissaire à l'Emploi, aux Affaires sociales, aux Compétences et à la Mobilité des travailleurs de 2014 à 2019.",
+  "id": "eu-p-thyssen",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Marianne Thyssen",
+  "entityType": "PERSON",
+  "description": "Juriste et ancienne députée européenne, commissaire à l'Emploi, aux Affaires sociales, aux Compétences et à la Mobilité des travailleurs de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Marianne Thyssen.",
+    "Lors du point de presse de midi, une question portait sur Marianne Thyssen.",
+    "Marianne Thyssen est une figure de l'emploi."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Thyssen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Marianne%20Thyssen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité belge",
+    "Chrétiens-démocrates et flamands (CD&V)",
+    "Juriste",
+    "Député européen",
+    "Commissaire européen",
+    "Emploi, affaires sociales, compétences et mobilité des travailleurs (Commission Juncker)",
+    "Commission Juncker",
+    "Emploi et droits sociaux",
+    "Compétences"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

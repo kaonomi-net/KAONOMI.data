@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-style-de-gouvernance-de-von-der-leyen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Style de gouvernance de von der Leyen",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "centralisation",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cabinet",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les critiques sur la centralisation du pouvoir autour de la présidente.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Bjoern Seibert",
+    "commissaires",
+    "cabinet"
+  ],
+  "questions": [
+    "Quelle critique ?",
+    "Quels commissaires se plaignent ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#GOUVERNANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

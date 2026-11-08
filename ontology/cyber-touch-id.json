@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (l'authentification biométrique) : Capteur d'empreintes digitales d'Apple apparu sur l'iPhone 5s.",
+  "id": "cyber-touch-id",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Touch ID",
+  "entityType": "HARDWARE",
+  "description": "Capteur d'empreintes digitales d'Apple apparu sur l'iPhone 5s.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Le technicien a installé Touch ID dans la salle des machines.",
+    "Lors du salon, le stand présentait Touch ID en démonstration.",
+    "Le laboratoire utilise Touch ID pour ses travaux dans le domaine de l'authentification biométrique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "capteur d'empreinte Apple"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#AUTHENTIFICATIONBIOMETRIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Touch%20ID"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Secure Enclave d'Apple"
+  ],
+  "isDeleted": false,
+  "startDate": "2013-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 173,
+  "file": "0173-microsoft-office-comment-ajouter-une-boite-aux-lettres.prompt.json",
+  "prompt": "Comment ajouter une boîte aux lettres partagée dans Outlook ?",
+  "promptWords": 10,
+  "completion": "Pour ajouter une boîte aux lettres partagée dans Outlook, suivez ces étapes :\n\n### **Sur Outlook pour Windows :**\n1. **Ouvrez Outlook** et allez dans le **Groupe Boîtes aux lettres** dans le volet de navigation.\n2. **Cliquez droit** sur **Boîtes aux lettres** et sélectionnez **Ajouter une boîte aux lettres**.\n3. **Entrez l'adresse e-mail** de la boîte aux lettres partagée et cliquez sur **OK**.\n4. **Si nécessaire**, entrez vos identifiants d'administration pour autoriser l'accès.\n5. La boîte aux lettres partagée apparaîtra dans votre liste de dossiers.\n\n### **Sur Outlook pour Mac :**\n1. **Ouvrez Outlook** et allez dans le menu **Outlook** (en haut à gauche).\n2. Sélectionnez **Préférences** > **Comptes**.\n3. Choisissez votre compte de messagerie et cliquez sur **Avancé**.\n4. Dans la section **Boîtes aux lettres partagées**, cliquez sur **Ajouter**.\n5. **Entrez l'adresse e-mail** de la boîte aux lettres partagée et cliquez sur **OK**.\n6. La boîte aux lettres partagée apparaîtra dans votre liste de dossiers.\n\n### **Sur Outlook sur le Web (Outlook.com ou Outlook 365) :**\n1. **Connectez-vous** à votre compte Outlook.\n2. **Cliquez sur l'icône des applications** (⋯) en haut à gauche.\n3. Sélectionnez **Boîtes aux lettres partagées**.\n4. **Cliquez sur Ajouter une boîte aux lettres partagée**.\n5. **Entrez l'adresse e-mail** de la boîte aux lettres partagée et confirmez.\n\nSi vous ne trouvez pas l'option, assurez-vous d'avoir les **droits d'accès** nécessaires à la boîte aux lettres partagée. Si vous avez besoin d'aide supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:59:17.614595+02:00",
+  "durationSeconds": 8.7,
+  "stats": "mistral-small3.2:latest · 518 + 429 tokens · 8,7 s",
+  "isError": false,
+  "language": "FR"
+}

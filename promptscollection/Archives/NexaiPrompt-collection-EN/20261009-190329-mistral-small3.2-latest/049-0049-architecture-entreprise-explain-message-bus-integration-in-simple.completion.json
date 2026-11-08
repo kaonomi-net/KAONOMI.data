@@ -1,0 +1,13 @@
+{
+  "index": 49,
+  "file": "0049-architecture-entreprise-explain-message-bus-integration-in-simple.prompt.json",
+  "prompt": "Explain message bus integration in simple terms.",
+  "promptWords": 7,
+  "completion": "Sure! Let's break down \"message bus integration\" in simple terms.\n\n### What is a Message Bus?\nA **message bus** is like a postal service for software applications. Instead of applications talking to each other directly, they send messages (like letters or packages) to the message bus, which then delivers those messages to the right applications.\n\n### How Does It Work?\n1. **Producer (Sender)**: An application (producer) sends a message to the message bus. For example, an online order system might send a message saying, \"A new order has been placed.\"\n2. **Message Bus (Post Office)**: The message bus receives the message and decides where to send it. It might send it to one or multiple applications.\n3. **Consumer (Receiver)**: Another application (consumer) receives the message from the message bus and acts on it. For example, an inventory system might receive the order message and update the stock levels.\n\n### Why Use a Message Bus?\n- **Decoupling**: Applications don’t need to know about each other. They just send and receive messages.\n- **Scalability**: You can add more applications without changing the existing ones.\n- **Reliability**: The message bus can handle retries and ensure messages are delivered even if a receiver is temporarily down.\n\n### Example:\nImagine you have three apps:\n1. **Order App**: Sends a message when an order is placed.\n2. **Payment App**: Receives the message and processes the payment.\n3. **Shipping App**: Receives the message and arranges delivery.\n\nThe message bus ensures all these apps work together smoothly without directly depending on each other.\n\n### Simple Analogy:\nThink of a message bus like a restaurant’s order system:\n- You (customer) place an order (message) with the waiter (message bus).\n- The waiter tells the kitchen (payment app) and the delivery guy (shipping app) what to do.\n- You don’t need to talk to the kitchen or delivery guy directly; the waiter handles it for you.\n\nThat’s message bus integration in a nutshell!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:11:55.3259333+02:00",
+  "durationSeconds": 9.55,
+  "stats": "mistral-small3.2:latest · 516 + 427 tokens · 9,5 s",
+  "isError": false,
+  "language": "EN"
+}

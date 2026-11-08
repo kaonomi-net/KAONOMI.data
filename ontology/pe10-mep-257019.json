@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Espagne.",
+  "id": "pe10-mep-257019",
+  "dateCreated": "2026-10-31 20:22:44",
+  "name": "Alvise Pérez",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Espagne. Groupe politique : Non-inscrits. Parti ou liste national : Se Acabó la Fiesta.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Le vote de Alvise Pérez figure dans le relevé des votes par appel nominal.",
+    "Alvise Pérez participe aux travaux des commissions parlementaires.",
+    "Alvise Pérez siège au Parlement européen depuis la législature 2024-2029."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Alvise PÉREZ"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/257019",
+    "https://fr.wikipedia.org/w/index.php?search=Alvise%20P%C3%A9rez"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Espagne",
+    "Parlement européen",
+    "Non-inscrits",
+    "Se Acabó la Fiesta"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

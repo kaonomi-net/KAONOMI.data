@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-applications",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "applications",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 3 intels : Véhicules connectés ; Chatbots et santé mentale ; Applications de santé mentale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre les failles des voitures connectées.",
+    "Suivre l'usage des chatbots d'IA comme soutien psychologique.",
+    "Suivre les applications de santé mentale et leur efficacité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "applications",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SANTE-MENTALE",
+    "#CYBERSECURITE",
+    "#AUTOMOBILE",
+    "#IOT",
+    "#IA"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "santé mentale",
+    "constructeurs",
+    "véhicules connectés",
+    "clés sans fil",
+    "piratage",
+    "thérapie",
+    "chatbot",
+    "ChatGPT",
+    "bien-être",
+    "méditation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

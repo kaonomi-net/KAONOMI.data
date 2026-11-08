@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (l'emploi) : Directive (UE) 2024/2831.",
+  "id": "eu-pol-plateformes",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Directive sur le travail via une plateforme",
+  "entityType": "LAW",
+  "description": "Directive (UE) 2024/2831.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "« Directive sur le travail via une plateforme » relève de l'emploi.",
+    "« Directive sur le travail via une plateforme » a fait l'objet de longues négociations.",
+    "Les entreprises doivent tenir compte de « Directive sur le travail via une plateforme »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Directive%20sur%20le%20travail%20via%20une%20plateforme"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Emploi et droits sociaux",
+    "Direction générale de l'emploi, des affaires sociales et de l'inclusion",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-10-23T00:00:00",
+  "endDate": null
+}

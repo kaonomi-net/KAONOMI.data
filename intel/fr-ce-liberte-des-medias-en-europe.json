@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-liberte-des-medias-en-europe",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Liberté des médias en Europe",
+  "includedEntities": [
+    {
+      "entityName": "liberté des médias",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "règlement",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'application du règlement européen sur la liberté des médias.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "audiovisuel public",
+    "journalistes",
+    "concentration"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Quelle atteinte ?",
+    "Quelle procédure ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MEDIAS",
+    "#LIBERTES"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-insalubre",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Malsain, contraire à l'hygiène.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:insalubre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:insalubrit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:logement(s)?\\s+indigne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inhabitable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]labr[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "insalubre",
+  "event": null,
+  "title": "Insalubre",
+  "tags": [
+    "#DISGUST",
+    "#INSALUBRITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

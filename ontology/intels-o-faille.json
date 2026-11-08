@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-faille",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "faille",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Faille Apple exploitée ; Navigateurs Chrome et Firefox ; Vulnérabilités GitLab et outils de développement.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les failles Apple exploitées, dont celle ajoutée au catalogue de la CISA le 4 novembre 2026.",
+    "Suivre les failles des navigateurs web.",
+    "Suivre les failles des outils de développement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "faille",
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#APPLE",
+    "#NAVIGATEURS",
+    "#DEVSECOPS"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "logiciel espion",
+    "Apple",
+    "iOS",
+    "iPhone",
+    "macOS",
+    "Firefox",
+    "moteur JavaScript",
+    "mises à jour",
+    "zero-day",
+    "Chrome"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

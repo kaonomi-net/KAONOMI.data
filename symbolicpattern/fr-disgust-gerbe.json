@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-gerbe",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'envie de vomir (familier).",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:la\\s+gerbe)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ger(ber|be|b[ée]|bait)|d[ée]gueul(er|[ée]|ait)|refouler\\s+du\\s+goulot)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[çc]a\\s+donne\\s+la\\s+gerbe)(?![\\w-])"
+  ],
+  "symbol": "gerbe",
+  "event": null,
+  "title": "Gerbe",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

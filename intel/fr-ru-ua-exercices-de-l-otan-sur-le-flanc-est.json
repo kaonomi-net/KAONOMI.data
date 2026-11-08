@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-exercices-de-l-otan-sur-le-flanc-est",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Exercices de l'OTAN sur le flanc est",
+  "includedEntities": [
+    {
+      "entityName": "exercice",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "OTAN",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "flanc est",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les exercices militaires de l'OTAN près de la Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Baltes",
+    "Pologne",
+    "Roumanie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Steadfast",
+    "forces de réaction",
+    "Russie"
+  ],
+  "questions": [
+    "Quelle ampleur ?",
+    "Quels pays ?",
+    "Quelle réaction russe ?"
+  ],
+  "tags": [
+    "#OTAN",
+    "#DEFENSE",
+    "#EXERCICE"
+  ],
+  "events": [
+    "@MANOEUVRES-MILITAIRES"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

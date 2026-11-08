@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (l'IA embarquée) : Petit ordinateur de NVIDIA à GPU intégré pour l'IA embarquée et la robotique, vendu sous forme de kit de développement.",
+  "id": "ia-jetson-nano",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "NVIDIA Jetson Nano",
+  "entityType": "HARDWARE",
+  "description": "Petit ordinateur de NVIDIA à GPU intégré pour l'IA embarquée et la robotique, vendu sous forme de kit de développement.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Le technicien a installé NVIDIA Jetson Nano dans la salle des machines.",
+    "Lors du salon, le stand présentait NVIDIA Jetson Nano en démonstration.",
+    "Le laboratoire utilise NVIDIA Jetson Nano pour ses travaux dans le domaine de l'IA embarquée."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Jetson Nano"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#IAEMBARQUEE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NVIDIA%20Jetson%20Nano"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "CUDA",
+    "Raspberry Pi"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-01-01T00:00:00",
+  "endDate": null
+}

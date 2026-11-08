@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-cyberharcelement",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Cyberharcèlement",
+  "includedEntities": [
+    {
+      "entityName": "cyberharcèlement",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "victimes",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le cyberharcèlement et les réponses apportées.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "3018",
+    "plateformes",
+    "justice"
+  ],
+  "questions": [
+    "Quel cas ?",
+    "Quelle plateforme ?",
+    "Quelle sanction ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#HARCELEMENT",
+    "#NUMERIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!VIOLENCE"
+  ],
+  "isDeleted": false
+}

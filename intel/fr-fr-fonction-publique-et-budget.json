@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-fonction-publique-et-budget",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Fonction publique et budget",
+  "includedEntities": [
+    {
+      "entityName": "fonction publique",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "postes",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les mesures concernant les fonctionnaires.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "suppressions de postes",
+    "point d'indice",
+    "syndicats"
+  ],
+  "questions": [
+    "Combien de postes ?",
+    "Quel point d'indice ?",
+    "Quelle mobilisation ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#FONCTION-PUBLIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-tirs-de-missiles-nord-coreens",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Tirs de missiles nord-coréens",
+  "includedEntities": [
+    {
+      "entityName": "Corée du Nord",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "missile",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Surveiller les essais et tirs de missiles de la Corée du Nord.",
+  "isFuzzy": true,
+  "locations": [
+    "Pyongyang",
+    "mer du Japon"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Kim Jong-un",
+    "Corée du Sud",
+    "Japon"
+  ],
+  "questions": [
+    "Quel type de missile ?",
+    "Quelle portée ?",
+    "Quelle réaction internationale ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#COREE-DU-NORD",
+    "#MISSILES"
+  ],
+  "events": [
+    "@TIR-MISSILE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-referendums",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "référendums",
+  "entityType": "EVENT",
+  "description": "Cité par 1 intel : Ratification des traités d'adhésion.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre la ratification des futurs traités d'adhésion par les États membres."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "référendums",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#RATIFICATION"
+  ],
+  "events": [
+    "@RATIFICATION"
+  ],
+  "signals": [
+    "!ECHEANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Monténégro",
+    "parlements nationaux",
+    "traité d'adhésion",
+    "ratification"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

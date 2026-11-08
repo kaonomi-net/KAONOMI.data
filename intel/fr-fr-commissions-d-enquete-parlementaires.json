@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-commissions-d-enquete-parlementaires",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Commissions d'enquête parlementaires",
+  "includedEntities": [
+    {
+      "entityName": "commission d'enquête",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "audition",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les commissions d'enquête et leurs auditions.",
+  "isFuzzy": true,
+  "locations": [
+    "Assemblée nationale",
+    "Sénat"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "auditions",
+    "rapport",
+    "témoins"
+  ],
+  "questions": [
+    "Quelle commission ?",
+    "Quelles révélations ?",
+    "Quel rapport ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PARLEMENT",
+    "#CONTROLE"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!TRANSPARENCE"
+  ],
+  "isDeleted": false
+}

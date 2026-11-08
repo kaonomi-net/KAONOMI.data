@@ -1,0 +1,13 @@
+{
+  "index": 320,
+  "file": "0320-ia-llm-qu-est-ce-qu-un-modele.prompt.json",
+  "prompt": "Qu'est-ce qu'un modèle de raisonnement ?",
+  "promptWords": 6,
+  "completion": "Un modèle de raisonnement est une représentation ou une structure qui décrit comment un individu ou un système (comme un programme informatique) parvient à des conclusions à partir d'informations données. Il s'agit d'une approche systématique pour comprendre et formaliser le processus de pensée.\n\nIl existe plusieurs types de modèles de raisonnement, notamment :\n\n1. **Raisonnement déductif** : Partir de principes généraux pour en tirer des conclusions spécifiques. Par exemple, si toutes les A sont des B, et que C est une A, alors C est une B.\n2. **Raisonnement inductif** : Partir d'observations spécifiques pour formuler des généralisations. Par exemple, si tous les cygnes que j'ai vus sont blancs, je pourrais conclure que tous les cygnes sont blancs.\n3. **Raisonnement abductif** : Trouver la meilleure explication pour un ensemble d'observations. Par exemple, si j'entends des pas derrière moi, je pourrais conclure que quelqu'un me suit.\n4. **Raisonnement logique** : Utilisation de règles logiques pour tirer des conclusions. Par exemple, en logique propositionnelle, on utilise des connecteurs comme ET, OU, NON, etc.\n5. **Raisonnement probabiliste** : Utilisation de probabilités pour évaluer la plausibilité des conclusions. Par exemple, en médecine, les tests diagnostiques sont souvent évalués en termes de probabilités.\n\nLes modèles de raisonnement sont utilisés dans de nombreux domaines, tels que l'intelligence artificielle, la psychologie cognitive, la philosophie, et les sciences de la décision. Ils aident à comprendre comment les humains et les machines prennent des décisions et résolvent des problèmes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:24:14.8774609+02:00",
+  "durationSeconds": 7.31,
+  "stats": "mistral-small3.2:latest · 517 + 358 tokens · 7,3 s",
+  "isError": false,
+  "language": "FR"
+}

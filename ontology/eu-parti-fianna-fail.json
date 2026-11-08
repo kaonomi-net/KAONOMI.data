@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Fianna Fáil, parti politique de ce pays : Irlande.",
+  "id": "eu-parti-fianna-fail",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Fianna Fáil",
+  "entityType": "ORGANISATION",
+  "description": "Fianna Fáil, parti politique de ce pays : Irlande. Il est affilié à la famille Renew Europe.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Fianna Fáil ».",
+    "« Fianna Fáil » joue un rôle dans la vie politique nationale.",
+    "Les fonctionnaires de « Fianna Fáil » préparent les textes relatifs à la vie politique nationale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fianna%20F%C3%A1il"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Irlande",
+    "Renew Europe",
+    "Michael McGrath"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-depenses-de-defense-de-l-otan",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Dépenses de défense de l'OTAN",
+  "includedEntities": [
+    {
+      "entityName": "dépenses de défense",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "5 %",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "OTAN",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'objectif de 5 % du PIB consacré à la défense.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "alliés",
+    "Trump",
+    "budgets"
+  ],
+  "questions": [
+    "Quels pays atteignent l'objectif ?",
+    "Quelles réticences ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#OTAN",
+    "#DEFENSE",
+    "#BUDGET"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-naitre",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Venir au monde.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:na[îi]tre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:na[îi]t)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:naiss(ent|ait|ance)|n[ée](e|s|es)?\\s+(le|en|[àa]|hier|ce\\s+matin|aujourd['’]hui)|vu\\s+le\\s+jour)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:venu(e|s|es)?\\s+au\\s+monde)(?![\\w-])"
+  ],
+  "symbol": "naître",
+  "event": null,
+  "title": "Naître",
+  "tags": [
+    "#NAISSANCE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

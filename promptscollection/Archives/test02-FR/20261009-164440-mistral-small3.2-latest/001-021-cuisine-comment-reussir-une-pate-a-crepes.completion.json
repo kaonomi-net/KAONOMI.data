@@ -1,0 +1,13 @@
+{
+  "index": 1,
+  "file": "021-cuisine-comment-reussir-une-pate-a-crepes.prompt.json",
+  "prompt": "Comment réussir une pâte à crêpes sans grumeaux ?",
+  "promptWords": 9,
+  "completion": "Pour réussir une pâte à crêpes sans grumeaux, voici quelques conseils et une méthode simple à suivre :\n\n### Ingrédients de base pour une pâte à crêpes :\n- 250 g de farine\n- 500 ml de lait\n- 4 œufs\n- 1 pincée de sel\n- 1 cuillère à soupe de sucre (facultatif, pour les crêpes sucrées)\n- 30 g de beurre fondu (facultatif)\n\n### Étapes pour éviter les grumeaux :\n\n1. **Tamiser la farine** : Tamisez la farine dans un grand saladier pour aérer la poudre et éliminer les éventuels grumeaux.\n\n2. **Mélanger les ingrédients secs** : Ajoutez le sel et le sucre (si vous en utilisez) à la farine tamisée et mélangez bien.\n\n3. **Incorporer les œufs** : Faites un puits au centre de la farine et ajoutez les œufs. Mélangez progressivement en incorporant la farine petit à petit.\n\n4. **Ajouter le lait progressivement** : Versez le lait petit à petit tout en mélangeant continuellement avec un fouet ou une cuillère en bois. Cela permet d'éviter la formation de grumeaux.\n\n5. **Mixer la pâte** : Pour une texture parfaitement lisse, vous pouvez passer la pâte au mixeur plongeant ou au blender pendant quelques secondes.\n\n6. **Laisser reposer la pâte** : Couvrez la pâte et laissez-la reposer pendant au moins 30 minutes à température ambiante. Cela permet à la farine de bien s'imprégner de liquide et d'obtenir une pâte homogène.\n\n7. **Ajouter le beurre fondu** : Si vous utilisez du beurre, ajoutez-le en fin de préparation et mélangez bien.\n\n### Astuces supplémentaires :\n- **Utilisez un fouet** pour mélanger la pâte, cela aide à éviter les grumeaux.\n- **Mélangez dans le sens des aiguilles d'une montre** pour une meilleure homogénéité.\n- **Si des grumeaux persistent**, passez la pâte au tamis fin ou utilisez un mixeur.\n\nEn suivant ces étapes, vous obtiendrez une pâte à crêpes lisse et sans grumeaux, prête à être cuite à la poêle. Bonne cuisine !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:44:40.9562611+02:00",
+  "durationSeconds": 17.92,
+  "stats": "mistral-small3.2:latest · 522 + 534 tokens · 17,9 s",
+  "isError": false,
+  "language": "FR"
+}

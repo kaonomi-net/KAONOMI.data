@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-gpu",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "GPU",
+  "entityType": "HARDWARE",
+  "description": "Cité par 5 intels : Résultats financiers de Nvidia ; Coût de l'entraînement des modèles ; Pénurie de GPU ; Annonce de Jensen Huang ; Nvidia.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre les résultats trimestriels de Nvidia, baromètre de l'IA.",
+    "Suivre le coût d'entraînement des grands modèles.",
+    "Surveiller la disponibilité des processeurs graphiques pour l'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "GPU",
+  "tags": [
+    "#IA",
+    "#NVIDIA",
+    "#INFRASTRUCTURE",
+    "#FINANCE",
+    "#COUT",
+    "#GPU"
+  ],
+  "events": [
+    "@RESULTATS-TRIMESTRIELS",
+    "@TENSION-APPROVISIONNEMENT",
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!PENURIE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Nvidia",
+    "Jensen Huang",
+    "Santa Clara",
+    "data centers",
+    "résultats",
+    "coût",
+    "électricité",
+    "entraînement",
+    "cloud",
+    "H100"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

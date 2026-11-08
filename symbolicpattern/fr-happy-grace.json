@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-grace",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le charme, la faveur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:gr[âa]ce(s)?(?!\\s+[àa]))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gracieu(x|se|ses|sement))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]l[ée]gance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]l[ée]gant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "grâce",
+  "event": null,
+  "title": "Grâce",
+  "tags": [
+    "#GRATITUDE",
+    "#BEAUTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

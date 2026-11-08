@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-troupes",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les soldats déployés.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:troupes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:troupes\\s+au\\s+sol)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]ploiement(s)?\\s+militaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:contingent(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:renforts\\s+militaires)(?![\\w-])"
+  ],
+  "symbol": "troupes",
+  "event": null,
+  "title": "Troupes",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

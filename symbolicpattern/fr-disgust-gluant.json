@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-gluant",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui colle comme de la glu.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:gluant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:visqueu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:poisseu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:collant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:g[ée]latineu(x|se|ses))(?![\\w-])"
+  ],
+  "symbol": "gluant",
+  "event": null,
+  "title": "Gluant",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

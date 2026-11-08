@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'élargissement) : Direction générale de l'élargissement et du voisinage oriental (DG ENEST), service de la Commission européenne compétent pour l'élargissement, la politique de voisinage, placé sous l'autorité de Marta Kos dans la Commission von der Leyen II.",
+  "id": "eu-dg-enest",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de l'élargissement et du voisinage oriental",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de l'élargissement et du voisinage oriental (DG ENEST), service de la Commission européenne compétent pour l'élargissement, la politique de voisinage, placé sous l'autorité de Marta Kos dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Les décisions de « Direction générale de l'élargissement et du voisinage oriental » touchent l'élargissement.",
+    "Le rapport annuel de « Direction générale de l'élargissement et du voisinage oriental » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Direction générale de l'élargissement et du voisinage oriental »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG ENEST",
+    "DG NEAR",
+    "Direction générale du voisinage et des négociations d'élargissement"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20l%27%C3%A9largissement%20et%20du%20voisinage%20oriental"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Marta Kos",
+    "Élargissement",
+    "Politique de voisinage",
+    "Ukraine",
+    "Instrument d'aide de préadhésion III",
+    "Facilité pour l'Ukraine"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

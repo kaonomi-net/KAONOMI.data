@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-banque",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "banque",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 12 intels : Arnaque au clonage de voix ; IA dans la banque et la finance ; BNP Paribas ; Société Générale ; Crédit Agricole ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les escroqueries utilisant une voix clonée par IA.",
+    "Suivre l'usage de l'IA dans les services financiers.",
+    "Suivre l'action BNP Paribas."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "banque",
+  "tags": [
+    "#BOURSE",
+    "#BANQUES",
+    "#FINANCE",
+    "#CAC40",
+    "#IA",
+    "#BEL20"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS",
+    "@CYBERATTAQUE",
+    "@FRAUDE"
+  ],
+  "signals": [
+    "!RESULTATS",
+    "!ALERTE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "fraude",
+    "finance",
+    "Paris",
+    "résultats",
+    "BNP Paribas Fortis",
+    "BNP Paribas",
+    "cyberattaque",
+    "police",
+    "famille"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

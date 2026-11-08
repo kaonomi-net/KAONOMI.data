@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-infect",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui sent ou a un goût répugnant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:infect(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:innommable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:imbuvable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:immangeable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[çc]a\\s+pue)(?![\\w-])"
+  ],
+  "symbol": "infect",
+  "event": null,
+  "title": "Infect",
+  "tags": [
+    "#DISGUST",
+    "#ODEUR"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

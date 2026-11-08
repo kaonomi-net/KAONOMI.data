@@ -1,0 +1,13 @@
+{
+  "index": 217,
+  "file": "0217-cybersecurite-comment-sauvegarder-ses-donnees-selon-la.prompt.json",
+  "prompt": "Comment sauvegarder ses données selon la règle 3-2-1 ?",
+  "promptWords": 9,
+  "completion": "La règle 3-2-1 est une stratégie de sauvegarde recommandée pour protéger vos données contre les pertes accidentelles, les pannes matérielles ou les cyberattaques. Voici comment l'appliquer :\n\n### **1. Avoir au moins 3 copies de vos données**\n- **1 copie originale** : Les données sur votre appareil principal (ordinateur, téléphone, etc.).\n- **2 copies de sauvegarde** : Deux versions supplémentaires de vos données, stockées différemment.\n\n### **2. Utiliser 2 supports de stockage différents**\n- **Disque dur externe** (HDD/SSD) : Une copie locale sur un support physique.\n- **Stockage cloud** (Google Drive, iCloud, Dropbox, etc.) : Une copie en ligne pour une accessibilité et une sécurité supplémentaires.\n\n### **3. Garder 1 copie hors site**\n- **Stockage distant** : Une copie dans un endroit physique différent (cloud, serveur distant, disque dur chez un proche).\n- **Objectif** : Protéger contre les catastrophes (incendie, inondation, vol).\n\n### **Exemple de mise en œuvre**\n1. **Copie originale** : Vos fichiers sur votre ordinateur.\n2. **Première sauvegarde** : Copie sur un disque dur externe (stocké chez vous).\n3. **Deuxième sauvegarde** : Copie sur un service cloud (Google Drive, OneDrive, etc.).\n\n### **Outils recommandés**\n- **Pour les sauvegardes locales** : Time Machine (Mac), File History (Windows), ou des logiciels comme Acronis True Image.\n- **Pour le cloud** : Google Drive, iCloud, Dropbox, ou des solutions professionnelles comme Backblaze.\n\nEn suivant cette méthode, vous minimisez les risques de perte de données. \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:06:06.3876123+02:00",
+  "durationSeconds": 7.92,
+  "stats": "mistral-small3.2:latest · 523 + 386 tokens · 7,9 s",
+  "isError": false,
+  "language": "FR"
+}

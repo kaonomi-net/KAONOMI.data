@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-dette-belge-et-olo",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Dette belge et OLO",
+  "includedEntities": [
+    {
+      "entityName": "OLO",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "dette belge",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les taux des obligations belges et le risque budgétaire de la Belgique.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Agence fédérale de la dette",
+    "déficit",
+    "notation"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quel écart avec l'Allemagne ?",
+    "Quelle note ?"
+  ],
+  "tags": [
+    "#DETTE",
+    "#BELGIQUE",
+    "#OBLIGATIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

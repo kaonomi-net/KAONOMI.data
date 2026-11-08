@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la protection des consommateurs) : Portefeuille détenu par Neven Mimica, commissaire, dans la Commission Barroso II, du 1er juillet 2013 au 31 octobre 2014.",
+  "id": "eu-pf-barroso2-mimica",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Protection des consommateurs (Commission Barroso II)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Neven Mimica, commissaire, dans la Commission Barroso II, du 1er juillet 2013 au 31 octobre 2014.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Lors de son audition, le titulaire du portefeuille « Protection des consommateurs (Commission Barroso II) » a présenté ses priorités.",
+    "Le portefeuille « Protection des consommateurs (Commission Barroso II) » s'appuie sur plusieurs directions générales.",
+    "Le portefeuille « Protection des consommateurs (Commission Barroso II) » a marqué la politique européenne de la protection des consommateurs."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#PROTECTIONCONSOMMATEURS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Protection%20des%20consommateurs%20%28Commission%20Barroso%20II%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Neven Mimica",
+    "Commission Barroso II",
+    "Commissaire européen",
+    "Protection des consommateurs"
+  ],
+  "isDeleted": false,
+  "startDate": "2013-07-01T00:00:00",
+  "endDate": "2014-10-31T00:00:00"
+}

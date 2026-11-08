@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-dubravka-suica-et-la-mediterranee",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Dubravka Šuica et la Méditerranée",
+  "includedEntities": [
+    {
+      "entityName": "Dubravka Šuica",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Méditerranée",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action de la commissaire chargée de la Méditerranée.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "pacte pour la Méditerranée",
+    "migrations",
+    "partenariats"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quel partenariat ?",
+    "Quel financement ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#MEDITERRANEE",
+    "#SUICA"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

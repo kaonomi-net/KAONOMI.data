@@ -1,0 +1,13 @@
+{
+  "index": 307,
+  "file": "0307-ia-llm-qu-est-ce-que-le-fine.prompt.json",
+  "prompt": "Qu'est-ce que le fine-tuning d'un LLM ?",
+  "promptWords": 7,
+  "completion": "Le fine-tuning d'un LLM (Large Language Model) est un processus qui consiste à adapter un modèle de langage pré-entraîné à des tâches ou à des domaines spécifiques. Voici une explication plus détaillée :\n\n### 1. **Modèle de base (Pré-entraînement)**\nUn LLM est d'abord entraîné sur un vaste corpus de texte général pour apprendre les structures linguistiques, les relations entre les mots, et les connaissances générales. Ce processus est appelé **pré-entraînement**.\n\n### 2. **Fine-tuning (Adaptation spécifique)**\nLe fine-tuning est une étape supplémentaire où le modèle est ajusté sur un ensemble de données plus petit et plus spécifique. L'objectif est d'améliorer les performances du modèle sur des tâches particulières, comme :\n- **Répondre à des questions techniques** (par exemple, dans le domaine médical ou juridique).\n- **Générer du texte dans un style particulier** (par exemple, des articles de blog, des scripts publicitaires).\n- **Comprendre des jargons spécifiques** (par exemple, le langage technique d'un métier particulier).\n\n### 3. **Méthodes de fine-tuning**\nIl existe plusieurs approches pour le fine-tuning :\n- **Fine-tuning complet** : Toutes les couches du modèle sont ajustées avec les nouvelles données.\n- **Fine-tuning partiel** : Seules certaines couches (généralement les dernières) sont ajustées.\n- **Prompt tuning** : Ajout de \"prompts\" spécifiques pour guider le modèle sans modifier ses poids.\n\n### 4. **Avantages**\n- **Amélioration des performances** sur des tâches spécifiques.\n- **Réduction des coûts** par rapport à l'entraînement d'un modèle de zéro.\n- **Personnalisation** du modèle pour des besoins particuliers.\n\n### 5. **Exemple**\nImaginons un LLM pré-entraîné sur des livres et des articles généraux. Pour l'utiliser dans un chatbot médical, on pourrait le fine-tuner avec des articles médicaux, des transcriptions de consultations, et des questions-réponses spécifiques au domaine médical.\n\nEn résumé, le fine-tuning permet de transformer un modèle généraliste en un outil spécialisé, plus précis et plus utile pour des applications particulières.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:22:02.8065955+02:00",
+  "durationSeconds": 9.69,
+  "stats": "mistral-small3.2:latest · 520 + 481 tokens · 9,7 s",
+  "isError": false,
+  "language": "FR"
+}

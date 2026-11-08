@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-alignement",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "alignement",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Alignement et sécurité des modèles.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les travaux sur l'alignement des IA avec les valeurs humaines."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "alignement",
+  "tags": [
+    "#IA",
+    "#ALIGNEMENT",
+    "#SECURITE-IA"
+  ],
+  "events": [],
+  "signals": [
+    "!RECHERCHE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OpenAI",
+    "sécurité",
+    "interprétabilité",
+    "modèle",
+    "Anthropic"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

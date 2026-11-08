@@ -1,0 +1,13 @@
+{
+  "index": 567,
+  "file": "0567-python-quelle-est-la-difference-entre-une.prompt.json",
+  "prompt": "Quelle est la différence entre une liste et un tuple en Python ?",
+  "promptWords": 13,
+  "completion": "En Python, les listes et les tuples sont deux types de collections qui permettent de stocker plusieurs éléments, mais ils présentent quelques différences clés :\n\n1. **Mutabilité** :\n   - **Liste** : Une liste est **mutable**, ce qui signifie que vous pouvez modifier son contenu après sa création. Vous pouvez ajouter, supprimer ou modifier des éléments.\n   - **Tuple** : Un tuple est **immuable**, ce qui signifie que son contenu ne peut pas être modifié après sa création. Vous ne pouvez pas ajouter, supprimer ou modifier des éléments.\n\n2. **Syntaxe** :\n   - **Liste** : Les listes sont définies avec des crochets `[]`.\n     ```python\n     ma_liste = [1, 2, 3]\n     ```\n   - **Tuple** : Les tuples sont définis avec des parenthèses `()`.\n     ```python\n     mon_tuple = (1, 2, 3)\n     ```\n\n3. **Performances** :\n   - Les tuples sont généralement plus rapides que les listes car ils sont immuables et occupent moins de mémoire.\n\n4. **Utilisation** :\n   - **Liste** : Utilisée lorsque vous avez besoin d'une collection modifiable.\n   - **Tuple** : Utilisée lorsque vous avez besoin d'une collection immuable, par exemple pour des données qui ne doivent pas changer (comme des constantes ou des clés de dictionnaire).\n\n5. **Méthodes** :\n   - Les listes ont des méthodes comme `append()`, `remove()`, `pop()`, etc., qui permettent de modifier la liste.\n   - Les tuples n'ont pas de telles méthodes car ils sont immuables.\n\n### Exemple :\n```python\n# Liste\nma_liste = [1, 2, 3]\nma_liste[0] = 10  # Modification possible\nprint(ma_liste)   # [10, 2, 3]\n\n# Tuple\nmon_tuple = (1, 2, 3)\n# mon_tuple[0] = 10  # Erreur : les tuples sont immuables\nprint(mon_tuple)   # (1, 2, 3)\n```\n\nEn résumé, le choix entre une liste et un tuple dépend de vos besoins en termes de mutabilité et de performances.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:19:05.8061746+02:00",
+  "durationSeconds": 9.62,
+  "stats": "mistral-small3.2:latest · 521 + 482 tokens · 9,6 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-bunker",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un abri fortifié.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bunker(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:abri(s)?\\s+antiatomique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:abri(s)?\\s+souterrain(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:blockhaus)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:se\\s+terrer)(?![\\w-])"
+  ],
+  "symbol": "bunker",
+  "event": null,
+  "title": "Bunker",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cles-d-acces-et-fin-des-mots-de-passe",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Clés d'accès et fin des mots de passe",
+  "includedEntities": [
+    {
+      "entityName": "passkeys",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "clés d'accès",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'adoption des clés d'accès pour remplacer les mots de passe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "FIDO2",
+    "Apple",
+    "Google"
+  ],
+  "questions": [
+    "Quel service ?",
+    "Quelle adoption ?",
+    "Quelle faille ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#AUTHENTIFICATION",
+    "#PASSKEYS"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "isDeleted": false
+}

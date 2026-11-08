@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-ravi",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Très content.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ravi(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:enchant[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:aux\\s+anges)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:transport[ée](e|s|es)?\\s+de\\s+joie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:charm[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "ravi",
+  "event": null,
+  "title": "Ravi",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

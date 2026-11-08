@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-investment-grade",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "investment grade",
+  "entityType": "PRODUCT",
+  "description": "Cité par 1 intel : Marché du crédit d'entreprise.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre les conditions de financement des entreprises sur les marchés obligataires."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "investment grade",
+  "tags": [
+    "#OBLIGATIONS",
+    "#CREDIT"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "crédit",
+    "obligations d'entreprise",
+    "haut rendement",
+    "défauts",
+    "spreads"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

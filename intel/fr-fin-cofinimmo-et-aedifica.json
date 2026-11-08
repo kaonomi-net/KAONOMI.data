@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-cofinimmo-et-aedifica",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Cofinimmo et Aedifica",
+  "includedEntities": [
+    {
+      "entityName": "Cofinimmo",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Aedifica",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les foncières belges de santé et leur rapprochement.",
+  "isFuzzy": false,
+  "locations": [
+    "Bruxelles",
+    "Anvers"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "maisons de repos",
+    "fusion",
+    "taux"
+  ],
+  "questions": [
+    "Quel rapprochement ?",
+    "Quel résultat ?",
+    "Quel effet des taux ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BELGIQUE",
+    "#IMMOBILIER"
+  ],
+  "events": [],
+  "signals": [
+    "!OPERATION"
+  ],
+  "isDeleted": false
+}

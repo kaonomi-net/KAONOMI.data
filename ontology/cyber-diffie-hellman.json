@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (la cryptographie à clé publique) : Protocole qui permet à deux parties de convenir d'un secret commun sur un canal public, fondé sur le logarithme discret.",
+  "id": "cyber-diffie-hellman",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Échange de clés Diffie-Hellman",
+  "entityType": "ALGORITHM",
+  "description": "Protocole qui permet à deux parties de convenir d'un secret commun sur un canal public, fondé sur le logarithme discret.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Échange de clés Diffie-Hellman est enseigné dans tous les cours consacrés à la cryptographie à clé publique.",
+    "L'audit vérifie que Échange de clés Diffie-Hellman est utilisé correctement.",
+    "La chercheuse a présenté une analyse de Échange de clés Diffie-Hellman lors du séminaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "Diffie-Hellman",
+    "DH"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CRYPTOGRAPHIEACLEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89change%20de%20cl%C3%A9s%20Diffie-Hellman"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Whitfield Diffie",
+    "Martin Hellman",
+    "Publication de « New Directions in Cryptography »",
+    "Ralph Merkle",
+    "Chiffrement ElGamal",
+    "Protocole TLS",
+    "SSH",
+    "Algorithme de Shor",
+    "ML-KEM"
+  ],
+  "isDeleted": false,
+  "startDate": "1976-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-penurie",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le manque d'un produit nécessaire.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:p[ée]nurie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rupture(s)?\\s+de\\s+stock)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]tals\\s+vides)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rayons\\s+vides)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:manque\\s+de\\s+carburant)(?![\\w-])"
+  ],
+  "symbol": "pénurie",
+  "event": null,
+  "title": "Pénurie",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

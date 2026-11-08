@@ -1,0 +1,13 @@
+{
+  "index": 969,
+  "file": "0969-rust-explique-les-generiques-en-rust-avec.prompt.json",
+  "prompt": "Explique les génériques en Rust avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "En Rust, les génériques (generics) permettent d'écrire du code flexible et réutilisable en définissant des types, fonctions ou structures qui peuvent fonctionner avec plusieurs types de données. Cela évite de dupliquer du code pour chaque type spécifique.\n\n### Exemple simple avec une fonction générique\n\nImaginons que nous voulons écrire une fonction qui compare deux valeurs et retourne la plus grande. Sans génériques, nous devrions écrire une fonction pour chaque type (i32, f64, etc.). Avec les génériques, nous pouvons écrire une seule fonction qui fonctionne pour tous les types qui implémentent le trait `PartialOrd` (qui permet la comparaison).\n\n```rust\n// Fonction générique pour trouver la plus grande des deux valeurs\nfn max<T: PartialOrd>(a: T, b: T) -> T {\n    if a > b {\n        a\n    } else {\n        b\n    }\n}\n\nfn main() {\n    // Utilisation avec des entiers\n    let max_int = max(5, 10);\n    println!(\"La plus grande valeur entière est: {}\", max_int); // Affiche 10\n\n    // Utilisation avec des flottants\n    let max_float = max(3.14, 1.59);\n    println!(\"La plus grande valeur flottante est: {}\", max_float); // Affiche 3.14\n\n    // Utilisation avec des chaînes de caractères\n    let max_string = max(\"apple\", \"banana\");\n    println!(\"La plus grande chaîne est: {}\", max_string); // Affiche \"banana\"\n}\n```\n\n### Explication :\n1. **Déclaration de la fonction générique** :\n   - `fn max<T: PartialOrd>(a: T, b: T) -> T` : La fonction `max` est déclarée avec un paramètre de type générique `T`, qui doit implémenter le trait `PartialOrd` (pour permettre la comparaison avec `>`).\n\n2. **Utilisation de la fonction** :\n   - La même fonction `max` peut être utilisée avec des entiers (`i32`), des flottants (`f64`), des chaînes de caractères (`&str`), etc., tant que le type implémente `PartialOrd`.\n\n### Avantages des génériques :\n- **Réutilisabilité** : Évite de dupliquer du code pour chaque type.\n- **Type-safety** : Le compilateur vérifie que le code est correct pour chaque type utilisé.\n- **Performance** : Rust génère du code optimisé pour chaque type utilisé, sans surcoût à l'exécution.\n\nLes génériques sont un outil puissant en Rust pour écrire du code concis et efficace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:56:57.6701356+02:00",
+  "durationSeconds": 11.42,
+  "stats": "mistral-small3.2:latest · 519 + 569 tokens · 11,4 s",
+  "isError": false,
+  "language": "FR"
+}

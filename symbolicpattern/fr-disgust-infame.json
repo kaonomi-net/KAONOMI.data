@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-infame",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui inspire le dégoût moral.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:inf[âa]me(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:infamie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sc[ée]l[ée]rat(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crapuleu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:odieu(x|se|ses))(?![\\w-])"
+  ],
+  "symbol": "infâme",
+  "event": null,
+  "title": "Infâme",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

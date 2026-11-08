@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (la neurophysiologie) : Neurophysiologiste américain, co-auteur avec Walter Pitts du modèle du neurone formel (1943).",
+  "id": "ia-mcculloch",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Warren McCulloch",
+  "entityType": "PERSON",
+  "description": "Neurophysiologiste américain, co-auteur avec Walter Pitts du modèle du neurone formel (1943).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Sans les idées de Warren McCulloch, l'histoire de la neurophysiologie aurait été différente.",
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Warren McCulloch.",
+    "Les étudiants lisent les articles de Warren McCulloch pour comprendre la neurophysiologie."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Warren S. McCulloch"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#NEUROPHYSIOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Warren%20McCulloch"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Neurone formel",
+    "Norbert Wiener"
+  ],
+  "isDeleted": false,
+  "startDate": "1898-11-16T00:00:00",
+  "endDate": "1969-09-24T00:00:00"
+}

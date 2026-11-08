@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'emploi) : Organe consultatif représentant les employeurs, les travailleurs et la société civile.",
+  "id": "eu-inst-cese",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Comité économique et social européen",
+  "entityType": "ORGANISATION",
+  "description": "Organe consultatif représentant les employeurs, les travailleurs et la société civile.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-institutions",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Comité économique et social européen ».",
+    "Les décisions de « Comité économique et social européen » touchent l'emploi.",
+    "Le rapport annuel de « Comité économique et social européen » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "CESE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Comit%C3%A9%20%C3%A9conomique%20et%20social%20europ%C3%A9en"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Union européenne",
+    "Emploi et droits sociaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

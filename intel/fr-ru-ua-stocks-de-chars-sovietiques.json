@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-stocks-de-chars-sovietiques",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Stocks de chars soviétiques",
+  "includedEntities": [
+    {
+      "entityName": "stocks",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "chars soviétiques",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "réserves",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'épuisement des réserves de matériel soviétique en Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Russie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "images satellites",
+    "dépôts",
+    "modernisation"
+  ],
+  "questions": [
+    "Quels stocks restants ?",
+    "Quel rythme de prélèvement ?",
+    "Quelle estimation ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ARMEMENT",
+    "#STOCKS"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

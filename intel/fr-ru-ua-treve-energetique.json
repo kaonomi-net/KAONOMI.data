@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-treve-energetique",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Trêve énergétique",
+  "includedEntities": [
+    {
+      "entityName": "trêve",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "infrastructures énergétiques",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "frappes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les propositions de moratoire sur les frappes contre l'énergie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "hiver"
+  ],
+  "relatedEntities": [
+    "États-Unis",
+    "Kremlin",
+    "Ukrenergo"
+  ],
+  "questions": [
+    "Une trêve est-elle proposée ?",
+    "Est-elle respectée ?",
+    "Quelles violations ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#ENERGIE",
+    "#CESSEZ-LE-FEU"
+  ],
+  "events": [
+    "@TREVE"
+  ],
+  "signals": [
+    "!DESESCALADE"
+  ],
+  "isDeleted": false
+}

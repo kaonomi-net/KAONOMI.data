@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la présidence de la Commission) : Ancien ministre néerlandais de l'Agriculture, artisan de la politique agricole commune, président de la Commission en 1972-1973.",
+  "id": "eu-p-mansholt",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Sicco Mansholt",
+  "entityType": "PERSON",
+  "description": "Ancien ministre néerlandais de l'Agriculture, artisan de la politique agricole commune, président de la Commission en 1972-1973.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-presidents-commission",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Sicco Mansholt.",
+    "Lors du point de presse de midi, une question portait sur Sicco Mansholt.",
+    "Sicco Mansholt est une figure de la présidence de la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Mansholt"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PRESIDENCECOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Sicco%20Mansholt"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission Mansholt",
+    "nationalité néerlandaise",
+    "Parti travailliste (PvdA)",
+    "Ministre de l'Agriculture",
+    "Commissaire européen",
+    "Président de la Commission européenne",
+    "Présidence de la Commission (Commission Mansholt)",
+    "Communication et présidence",
+    "Agriculture"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

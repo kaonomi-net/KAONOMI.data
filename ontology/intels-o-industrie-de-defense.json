@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-industrie-de-defense",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "industrie de défense",
+  "entityType": "DOMAIN",
+  "description": "Cité par 8 intels : Frappes sur l'industrie de défense russe ; Dépenses militaires russes ; Industrie de défense ukrainienne ; Hausse des dépenses militaires ; Ventes d'armes ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les frappes contre les usines d'armement en Russie.",
+    "Suivre la part de la défense dans le budget russe.",
+    "Suivre la production d'armes en Ukraine."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "industrie de défense",
+  "tags": [
+    "#DEFENSE",
+    "#RUSSIE",
+    "#INDUSTRIE-DEFENSE",
+    "#GEOPOLITIQUE",
+    "#UNION-EUROPEENNE",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE",
+    "@CONTRAT-ARMEMENT"
+  ],
+  "signals": [
+    "!REARMEMENT",
+    "!CONFLIT",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "drones",
+    "Bruxelles",
+    "missiles",
+    "dépenses militaires",
+    "Ukraine",
+    "préférence européenne",
+    "Briansk",
+    "Ijevsk",
+    "Tatarstan",
+    "frappe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

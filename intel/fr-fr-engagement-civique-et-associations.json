@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-engagement-civique-et-associations",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Engagement civique et associations",
+  "includedEntities": [
+    {
+      "entityName": "associations",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "bénévoles",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "subventions",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation du monde associatif face aux coupes budgétaires.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "subventions",
+    "Mouvement associatif",
+    "emplois"
+  ],
+  "questions": [
+    "Quelles coupes ?",
+    "Quels emplois menacés ?",
+    "Quelle mobilisation ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ASSOCIATIONS",
+    "#SOCIETE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

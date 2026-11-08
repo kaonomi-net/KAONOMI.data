@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-sadisme",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le plaisir de faire souffrir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sadisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sadisme(s)?\\s+pur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sadique(s)?\\s+en\\s+puissance)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:jouissance\\s+de\\s+la\\s+souffrance)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plaisir\\s+de\\s+faire\\s+souffrir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cruaut[ée]\\s+gratuite)(?![\\w-])"
+  ],
+  "symbol": "sadisme",
+  "event": null,
+  "title": "Sadisme",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

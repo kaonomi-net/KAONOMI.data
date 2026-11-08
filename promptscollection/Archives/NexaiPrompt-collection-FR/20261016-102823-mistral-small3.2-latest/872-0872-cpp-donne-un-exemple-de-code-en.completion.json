@@ -1,0 +1,13 @@
+{
+  "index": 872,
+  "file": "0872-cpp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C++ qui illustre les itérateurs.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en C++ qui illustre l'utilisation des itérateurs avec un conteneur standard, comme `std::vector` :\n\n```cpp\n#include <iostream>\n#include <vector>\n\nint main() {\n    // Création d'un vecteur d'entiers\n    std::vector<int> numbers = {10, 20, 30, 40, 50};\n\n    // Déclaration d'un itérateur\n    std::vector<int>::iterator it;\n\n    // Utilisation d'un itérateur pour parcourir le vecteur\n    std::cout << \"Affichage des éléments du vecteur : \" << std::endl;\n    for (it = numbers.begin(); it != numbers.end(); ++it) {\n        std::cout << *it << \" \";  // Accès à l'élément via l'itérateur\n    }\n    std::cout << std::endl;\n\n    // Utilisation d'un itérateur pour modifier les éléments\n    std::cout << \"Modification des éléments du vecteur : \" << std::endl;\n    for (it = numbers.begin(); it != numbers.end(); ++it) {\n        *it *= 2;  // Multiplication de chaque élément par 2\n    }\n\n    // Affichage du vecteur modifié\n    std::cout << \"Vecteur modifié : \" << std::endl;\n    for (it = numbers.begin(); it != numbers.end(); ++it) {\n        std::cout << *it << \" \";\n    }\n    std::cout << std::endl;\n\n    return 0;\n}\n```\n\n### Explications :\n1. **Déclaration d'un itérateur** : `std::vector<int>::iterator it;` déclare un itérateur pour un vecteur d'entiers.\n2. **Parcours du vecteur** : La boucle `for` utilise l'itérateur `it` pour parcourir le vecteur de `numbers.begin()` (début) à `numbers.end()` (fin).\n3. **Accès aux éléments** : `*it` permet d'accéder à la valeur pointée par l'itérateur.\n4. **Modification des éléments** : On peut modifier les éléments via l'itérateur, par exemple en multipliant chaque élément par 2.\n\n### Sortie attendue :\n```\nAffichage des éléments du vecteur :\n10 20 30 40 50\nModification des éléments du vecteur :\nVecteur modifié :\n20 40 60 80 100\n```\n\nCet exemple montre comment les itérateurs permettent de parcourir et de manipuler les éléments d'un conteneur de manière générique et efficace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:33:41.8026848+02:00",
+  "durationSeconds": 11.4,
+  "stats": "mistral-small3.2:latest · 524 + 566 tokens · 11,4 s",
+  "isError": false,
+  "language": "FR"
+}

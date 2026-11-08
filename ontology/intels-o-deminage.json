@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-deminage",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "déminage",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Déminage des terres agricoles ; Victimes des mines.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le déminage des territoires repris et des terres agricoles.",
+    "Suivre les civils tués ou blessés par des mines."
+  ],
+  "angryLevel": null,
+  "sadLevel": 50,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "déminage",
+  "tags": [
+    "#UKRAINE",
+    "#DEMINAGE",
+    "#AGRICULTURE",
+    "#MINES",
+    "#CIVILS"
+  ],
+  "events": [],
+  "signals": [
+    "!RECONSTRUCTION",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kherson",
+    "mines",
+    "Kharkiv",
+    "agriculture",
+    "aide internationale",
+    "Zaporijia",
+    "démineurs",
+    "victimes",
+    "enfants",
+    "Mykolaïv"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

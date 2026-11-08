@@ -1,0 +1,13 @@
+{
+  "index": 86,
+  "file": "086-interet-pour-le-llm-was-ist-ihre-lieblingsjahreszeit.prompt.json",
+  "prompt": "Was ist Ihre Lieblingsjahreszeit?",
+  "promptWords": 4,
+  "completion": "Meine Lieblingsjahreszeit ist der Frühling – die Tage werden wärmer, die Natur blüht auf und alles fühlt sich frischer an. Welche Jahreszeit magst du am liebsten?",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:37:43.7479439+02:00",
+  "durationSeconds": 0.87,
+  "stats": "gpt-oss:20b · 75 + 97 tokens · 0,9 s",
+  "isError": false,
+  "language": "DE"
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (la traque de la cellule) : Au lendemain des attentats de Paris, Salah Abdeslam est ramené à Bruxelles en voiture par deux connaissances et échappe aux contrôles en route.",
+  "id": "be2016-fuite-abdeslam",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Retour de Salah Abdeslam à Bruxelles",
+  "entityType": "EVENT",
+  "description": "Au lendemain des attentats de Paris, Salah Abdeslam est ramené à Bruxelles en voiture par deux connaissances et échappe aux contrôles en route.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "La presse belge a largement couvert « Retour de Salah Abdeslam à Bruxelles ».",
+    "L'événement « Retour de Salah Abdeslam à Bruxelles » s'inscrit dans la traque de la cellule.",
+    "La frise chronologique du dossier place « Retour de Salah Abdeslam à Bruxelles » à sa date."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 2,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "fuite d'Abdeslam"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#TRAQUECELLULE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Retour%20de%20Salah%20Abdeslam%20%C3%A0%20Bruxelles"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Salah Abdeslam",
+    "Attentats du 13 novembre 2015"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-11-14T00:00:00",
+  "endDate": "2015-11-14T00:00:00"
+}

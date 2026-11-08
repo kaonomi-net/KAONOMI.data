@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-fuites-de-donnees-en-chiffres",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Fuites de données en chiffres",
+  "includedEntities": [
+    {
+      "entityName": "fuites",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "statistiques",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "CNIL",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les bilans chiffrés des fuites de données.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Europe"
+  ],
+  "times": [
+    "annuel"
+  ],
+  "relatedEntities": [
+    "CNIL",
+    "rapports",
+    "coût moyen"
+  ],
+  "questions": [
+    "Combien de fuites ?",
+    "Quel coût moyen ?",
+    "Quels secteurs ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES",
+    "#INDICATEURS"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-mistral-ai",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Mistral AI",
+  "includedEntities": [
+    {
+      "entityName": "Mistral AI",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "valorisation",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les levées de fonds et contrats de Mistral AI.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ASML",
+    "Arthur Mensch",
+    "centres de données"
+  ],
+  "questions": [
+    "Quelle valorisation ?",
+    "Quel contrat ?",
+    "Quel investisseur ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#IA",
+    "#FRANCE"
+  ],
+  "events": [
+    "@LEVEE-DE-FONDS"
+  ],
+  "signals": [
+    "!VALORISATION"
+  ],
+  "isDeleted": false
+}

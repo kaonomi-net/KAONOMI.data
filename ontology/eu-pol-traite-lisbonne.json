@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (les relations interinstitutionnelles) : Réforme les institutions, crée le président du Conseil européen et le haut représentant vice-président de la Commission ; en vigueur le 1er décembre 2009.",
+  "id": "eu-pol-traite-lisbonne",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Traité de Lisbonne",
+  "entityType": "LAW",
+  "description": "Réforme les institutions, crée le président du Conseil européen et le haut représentant vice-président de la Commission ; en vigueur le 1er décembre 2009.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-traites",
+  "sentencesExemples": [
+    "La mise en œuvre de « Traité de Lisbonne » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Traité de Lisbonne ».",
+    "Les juristes de la Commission ont commenté « Traité de Lisbonne »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#RELATIONSINTERINSTITUTIONNELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Trait%C3%A9%20de%20Lisbonne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Relations interinstitutionnelles",
+    "Lisbonne",
+    "Président du Conseil européen",
+    "Haut représentant pour les affaires étrangères et la politique de sécurité",
+    "Charte des droits fondamentaux de l'Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": "2007-12-13T00:00:00",
+  "endDate": null
+}

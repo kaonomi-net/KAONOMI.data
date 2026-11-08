@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : France.",
+  "id": "pe10-mep-256904",
+  "dateCreated": "2026-10-31 20:22:44",
+  "name": "Chloé Ridel",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : France. Groupe politique : Socialistes et démocrates (S&D). Parti ou liste national : Parti socialiste.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Lors de la session plénière à Strasbourg, Chloé Ridel a pris la parole.",
+    "Les électeurs peuvent écrire à Chloé Ridel au Parlement européen.",
+    "La fiche officielle de Chloé Ridel est publiée sur le site du Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Chloé RIDEL"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256904",
+    "https://fr.wikipedia.org/w/index.php?search=Chlo%C3%A9%20Ridel"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "France",
+    "Parlement européen",
+    "Socialistes et démocrates (S&D)",
+    "Parti socialiste"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

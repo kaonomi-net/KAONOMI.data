@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la politique spatiale) : Constellation européenne de connectivité sécurisée par satellite.",
+  "id": "eu-prog-iris2",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "IRIS²",
+  "entityType": "PROGRAMME",
+  "description": "Constellation européenne de connectivité sécurisée par satellite.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "La Commission gère « IRIS² » avec les États membres ou ses agences.",
+    "Les bénéficiaires de « IRIS² » sont publiés en ligne.",
+    "L'appel à propositions de « IRIS² » est ouvert."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#POLITIQUESPATIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=IRIS%C2%B2"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de l'industrie de la défense et de l'espace",
+    "Espace",
+    "Cybersécurité"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-03-14T00:00:00",
+  "endDate": null
+}

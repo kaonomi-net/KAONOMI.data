@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-macron-a-l-onu",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Macron à l'ONU",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "ONU",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Assemblée générale",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les interventions françaises aux Nations unies.",
+  "isFuzzy": true,
+  "locations": [
+    "New York"
+  ],
+  "times": [
+    "Assemblée générale"
+  ],
+  "relatedEntities": [
+    "Conseil de sécurité",
+    "résolutions",
+    "climat"
+  ],
+  "questions": [
+    "Quel discours ?",
+    "Quelle initiative ?",
+    "Quel écho ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ONU",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@DISCOURS"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

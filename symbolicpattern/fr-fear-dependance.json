@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-dependance",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de ne plus pouvoir se passer d'une technologie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]pendance(s)?\\s+num[ée]rique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]pendance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:addiction(s)?\\s+aux\\s+[ée]crans)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:accro(s)?\\s+aux\\s+[ée]crans)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cyberd[ée]pendance(s)?)(?![\\w-])"
+  ],
+  "symbol": "dépendance",
+  "event": null,
+  "title": "Dépendance",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

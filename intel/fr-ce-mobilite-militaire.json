@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-mobilite-militaire",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Mobilité militaire",
+  "includedEntities": [
+    {
+      "entityName": "mobilité militaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "infrastructures",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les projets de mobilité militaire à travers l'Europe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ponts",
+    "chemins de fer",
+    "OTAN"
+  ],
+  "questions": [
+    "Quel projet ?",
+    "Quel financement ?",
+    "Quels obstacles ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DEFENSE",
+    "#INFRASTRUCTURES"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "isDeleted": false
+}

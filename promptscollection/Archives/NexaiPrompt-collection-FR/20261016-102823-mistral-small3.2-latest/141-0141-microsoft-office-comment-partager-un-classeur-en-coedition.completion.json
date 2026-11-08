@@ -1,0 +1,13 @@
+{
+  "index": 141,
+  "file": "0141-microsoft-office-comment-partager-un-classeur-en-coedition.prompt.json",
+  "prompt": "Comment partager un classeur en coédition dans Excel ?",
+  "promptWords": 9,
+  "completion": "Pour partager un classeur en coédition dans Excel, vous pouvez suivre ces étapes :\n\n### **Méthode 1 : Utiliser OneDrive ou SharePoint (Excel Online)**\n1. **Enregistrez votre fichier Excel** sur OneDrive ou SharePoint.\n2. **Ouvrez le fichier** dans Excel Online (via un navigateur).\n3. **Cliquez sur \"Partager\"** (en haut à droite).\n4. **Ajoutez les collaborateurs** en entrant leurs adresses e-mail.\n5. **Choisissez les permissions** (lecture, modification, etc.).\n6. **Envoyez l'invitation** et les destinataires pourront éditer le fichier en même temps.\n\n### **Méthode 2 : Utiliser Excel Desktop (version 2019 ou 365)**\n1. **Ouvrez votre fichier Excel**.\n2. **Allez dans l'onglet \"Fichier\"** > **\"Partager\"** > **\"Partager pour la modification\"**.\n3. **Choisissez un emplacement** (OneDrive, SharePoint, etc.).\n4. **Cliquez sur \"Partager\"** et ajoutez les collaborateurs.\n\n### **Méthode 3 : Utiliser la fonctionnalité \"Coauteur\" (Excel 365)**\n1. **Ouvrez le fichier Excel** depuis OneDrive ou SharePoint.\n2. **Activez la coauteur** en cliquant sur **\"Partager\"** > **\"Autoriser l'édition\"** (si disponible).\n3. **Les collaborateurs verront les modifications en temps réel**.\n\nSi vous utilisez une ancienne version d'Excel, certaines fonctionnalités peuvent ne pas être disponibles. Dans ce cas, l'utilisation d'Excel Online est recommandée.\n\nVous souhaitez des précisions sur une méthode en particulier ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:54:38.2265102+02:00",
+  "durationSeconds": 7.75,
+  "stats": "mistral-small3.2:latest · 518 + 381 tokens · 7,7 s",
+  "isError": false,
+  "language": "FR"
+}

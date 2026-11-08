@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Parti social-libéral danois (Radikale Venstre), parti politique de ce pays : Danemark.",
+  "id": "eu-parti-radikale",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti social-libéral danois (Radikale Venstre)",
+  "entityType": "ORGANISATION",
+  "description": "Parti social-libéral danois (Radikale Venstre), parti politique de ce pays : Danemark. Il est affilié à la famille Renew Europe.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Parti social-libéral danois (Radikale Venstre) » préparent les textes relatifs à la vie politique nationale.",
+    "La délégation a rencontré des représentants de « Parti social-libéral danois (Radikale Venstre) ».",
+    "« Parti social-libéral danois (Radikale Venstre) » joue un rôle dans la vie politique nationale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20social-lib%C3%A9ral%20danois%20%28Radikale%20Venstre%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Danemark",
+    "Renew Europe",
+    "Margrethe Vestager"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-nucleaire-belge",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Nucléaire belge",
+  "includedEntities": [
+    {
+      "entityName": "nucléaire",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Belgique",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Doel",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'avenir des centrales nucléaires belges.",
+  "isFuzzy": true,
+  "locations": [
+    "Doel",
+    "Tihange"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Engie",
+    "prolongation",
+    "gouvernement"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quel accord avec Engie ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#ENERGIE",
+    "#BELGIQUE",
+    "#NUCLEAIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!ENERGIE"
+  ],
+  "isDeleted": false
+}

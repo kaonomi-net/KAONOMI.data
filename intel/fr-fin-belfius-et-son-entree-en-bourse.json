@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-belfius-et-son-entree-en-bourse",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Belfius et son entrée en Bourse",
+  "includedEntities": [
+    {
+      "entityName": "Belfius",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Bourse",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur une introduction en Bourse de Belfius.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "État belge",
+    "privatisation",
+    "banque"
+  ],
+  "questions": [
+    "Une introduction est-elle décidée ?",
+    "Quel calendrier ?",
+    "Quelle valorisation ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BELGIQUE",
+    "#BANQUES"
+  ],
+  "events": [
+    "@INTRODUCTION-BOURSE"
+  ],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

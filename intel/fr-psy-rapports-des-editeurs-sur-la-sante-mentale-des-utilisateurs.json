@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-rapports-des-editeurs-sur-la-sante-mentale-des-utilisateurs",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Rapports des éditeurs sur la santé mentale des utilisateurs",
+  "includedEntities": [
+    {
+      "entityName": "éditeur",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "utilisateurs",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "détresse",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les chiffres publiés par les éditeurs d'IA sur les conversations de détresse.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "OpenAI",
+    "Anthropic",
+    "protocoles"
+  ],
+  "questions": [
+    "Quel chiffre ?",
+    "Quelle mesure ?",
+    "Quelle critique ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#IA",
+    "#TRANSPARENCE"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!VEILLE"
+  ],
+  "isDeleted": false
+}

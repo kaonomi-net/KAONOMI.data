@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-percee-de-lfi-aux-municipales",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Percée de LFI aux municipales",
+  "includedEntities": [
+    {
+      "entityName": "La France insoumise",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "municipales",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "percée",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les villes gagnées ou influencées par LFI en 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "Seine-Saint-Denis",
+    "villes populaires"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "maires LFI",
+    "alliances",
+    "quartiers"
+  ],
+  "questions": [
+    "Quelles villes ?",
+    "Quelles politiques ?",
+    "Quels conflits avec le PS ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#LFI",
+    "#MUNICIPALES"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

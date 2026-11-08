@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-agents-d-ia-de-test-d-intrusion",
+  "date": "2026-11-08T16:59:54.867552+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Agents d'IA de test d'intrusion",
+  "includedEntities": [
+    {
+      "entityName": "agents IA",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "pentest",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "autonomes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les agents d'IA qui trouvent et vérifient des vulnérabilités.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ARTEMIS",
+    "benchmarks",
+    "outils"
+  ],
+  "questions": [
+    "Quelle performance ?",
+    "Quelle comparaison avec les humains ?",
+    "Quelle limite ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#PENTEST"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

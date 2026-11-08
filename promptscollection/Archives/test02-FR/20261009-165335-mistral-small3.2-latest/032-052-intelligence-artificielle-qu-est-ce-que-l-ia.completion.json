@@ -1,0 +1,13 @@
+{
+  "index": 32,
+  "file": "052-intelligence-artificielle-qu-est-ce-que-l-ia.prompt.json",
+  "prompt": "Qu'est-ce que l'IA Act européen ?",
+  "promptWords": 6,
+  "completion": "L'IA Act européen, officiellement appelé \"Règlement sur l'intelligence artificielle\" (ou AI Act en anglais), est une proposition de réglementation de l'Union européenne visant à établir un cadre juridique pour l'utilisation de l'intelligence artificielle (IA) au sein de l'UE. Ce règlement a pour objectif de garantir que les systèmes d'IA développés et utilisés en Europe sont sûrs, transparents et respectueux des droits fondamentaux.\n\nVoici quelques points clés de l'IA Act européen :\n\n1. **Classification des risques** : Les systèmes d'IA sont classés en fonction des risques qu'ils présentent, allant des risques minimes aux risques inacceptables. Les systèmes à risque inacceptable (comme ceux utilisés pour la manipulation sociale ou la surveillance de masse) sont interdits.\n\n2. **Obligations pour les développeurs et les utilisateurs** : Les systèmes d'IA à risque élevé (comme ceux utilisés dans les domaines de la santé, des transports ou de l'emploi) sont soumis à des obligations strictes en matière de transparence, de documentation, de gestion des données et de surveillance humaine.\n\n3. **Transparence et explicabilité** : Les utilisateurs doivent être informés lorsqu'ils interagissent avec un système d'IA, et les décisions automatisées doivent être explicables.\n\n4. **Sanctions** : Les violations du règlement peuvent entraîner des amendes importantes, pouvant aller jusqu'à 30 millions d'euros ou 6 % du chiffre d'affaires mondial de l'entreprise, selon le montant le plus élevé.\n\n5. **Coordination européenne** : Le règlement vise à harmoniser les règles sur l'IA au sein de l'UE, facilitant ainsi le marché unique pour les technologies d'IA.\n\nL'IA Act européen est un texte en évolution, et son adoption finale peut encore être sujette à des modifications. Si vous souhaitez des informations plus récentes ou spécifiques, je peux essayer de les trouver pour vous.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:59:11.6371276+02:00",
+  "durationSeconds": 8.89,
+  "stats": "mistral-small3.2:latest · 517 + 409 tokens · 8,9 s",
+  "isError": false,
+  "language": "FR"
+}

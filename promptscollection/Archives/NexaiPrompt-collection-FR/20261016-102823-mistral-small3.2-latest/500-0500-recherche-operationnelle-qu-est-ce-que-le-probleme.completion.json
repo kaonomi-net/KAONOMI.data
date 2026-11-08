@@ -1,0 +1,13 @@
+{
+  "index": 500,
+  "file": "0500-recherche-operationnelle-qu-est-ce-que-le-probleme.prompt.json",
+  "prompt": "Qu'est-ce que le problème du voyageur de commerce ?",
+  "promptWords": 9,
+  "completion": "Le problème du voyageur de commerce (ou *Traveling Salesman Problem*, TSP en anglais) est un problème classique de l'informatique théorique et de l'optimisation combinatoire. Il consiste à trouver le plus court chemin permettant à un voyageur de commerce de visiter un ensemble de villes, en passant une et une seule fois par chaque ville, et en revenant à la ville de départ, tout en minimisant la distance totale parcourue.\n\n### Caractéristiques principales :\n1. **Ensemble de villes** : Un nombre fini de villes est donné.\n2. **Distances entre villes** : Les distances entre chaque paire de villes sont connues (généralement sous forme de matrice de distances).\n3. **Objectif** : Trouver l'ordre optimal des villes à visiter pour minimiser la distance totale.\n\n### Complexité :\nLe problème du voyageur de commerce est un problème NP-difficile, ce qui signifie qu'il n'existe pas d'algorithme connu capable de le résoudre de manière exacte en un temps polynomial pour un grand nombre de villes. Cependant, des méthodes approchées (heuristiques, métaheuristiques) et des algorithmes exacts pour des instances de taille modérée existent.\n\n### Applications :\n- Logistique et transport (optimisation des tournées de livraison).\n- Circuits électroniques (placement de composants).\n- Génétique (analyse de séquences d'ADN).\n- Planification de tournées (services de livraison, collecte de déchets).\n\n### Exemple simple :\nSupposons que nous avons 4 villes : A, B, C et D. Les distances entre elles sont les suivantes :\n- A-B : 10 km\n- A-C : 15 km\n- A-D : 20 km\n- B-C : 5 km\n- B-D : 10 km\n- C-D : 5 km\n\nUne solution possible est : A → B → C → D → A, avec une distance totale de 10 + 5 + 5 + 20 = 40 km. Cependant, il faut vérifier si c'est la solution optimale.\n\nSi vous avez besoin de plus de détails ou d'un exemple spécifique, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:56:51.2197404+02:00",
+  "durationSeconds": 9.55,
+  "stats": "mistral-small3.2:latest · 519 + 473 tokens · 9,5 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-stress",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "stress",
+  "entityType": "DOMAIN",
+  "description": "Cité par 5 intels : Risques psychosociaux ; Surveillance des salariés ; Méditation de pleine conscience ; Stress ; Psychologie des fêtes de fin d'année.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la prévention des risques psychosociaux au travail.",
+    "Suivre les outils de surveillance des salariés et leurs effets psychologiques.",
+    "Suivre les études sur la méditation de pleine conscience."
+  ],
+  "angryLevel": null,
+  "sadLevel": 20,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "stress",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TRAVAIL",
+    "#RPS",
+    "#SURVEILLANCE",
+    "#THERAPIES",
+    "#MEDITATION"
+  ],
+  "events": [],
+  "signals": [
+    "!PREVENTION",
+    "!VIE-PRIVEE",
+    "!THERAPIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "médecine du travail",
+    "employeurs",
+    "risques psychosociaux",
+    "entreprise",
+    "surveillance",
+    "CNIL",
+    "logiciels",
+    "salariés",
+    "dépression",
+    "écoles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-impaye",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une somme due non payée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:impay[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:loyer(s)?\\s+impay[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:facture(s)?\\s+impay[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:retard(s)?\\s+de\\s+paiement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:relance(s)?\\s+de\\s+paiement)(?![\\w-])"
+  ],
+  "symbol": "impayé",
+  "event": null,
+  "title": "Impayé",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

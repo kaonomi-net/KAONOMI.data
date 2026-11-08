@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-espionnage-chinois-en-europe",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Espionnage chinois en Europe",
+  "includedEntities": [
+    {
+      "entityName": "Chine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "espionnage",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "APT",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les campagnes d'espionnage attribuées à la Chine en Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "APT31",
+    "APT40",
+    "attribution"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quelle attribution ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CHINE",
+    "#ESPIONNAGE"
+  ],
+  "events": [
+    "@ATTRIBUTION"
+  ],
+  "signals": [
+    "!ESPIONNAGE"
+  ],
+  "isDeleted": false
+}

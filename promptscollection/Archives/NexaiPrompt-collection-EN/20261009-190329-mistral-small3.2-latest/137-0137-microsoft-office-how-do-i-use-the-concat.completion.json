@@ -1,0 +1,13 @@
+{
+  "index": 137,
+  "file": "0137-microsoft-office-how-do-i-use-the-concat.prompt.json",
+  "prompt": "How do I use the CONCAT function in Excel?",
+  "promptWords": 9,
+  "completion": "The CONCAT function in Excel is used to combine the text from multiple ranges or strings into one text string. Here’s how you can use it:\n\n### Syntax:\n```excel\nCONCAT(text1, [text2], ...)\n```\n\n### Parameters:\n- **text1**: The first text string or reference to a cell you want to concatenate.\n- **[text2], ...**: Additional text strings or cell references you want to concatenate (up to 252 arguments).\n\n### Steps to Use CONCAT:\n1. **Open Excel** and go to the cell where you want the combined text to appear.\n2. **Enter the CONCAT function**:\n   - Type `=CONCAT(`.\n   - Enter the first text string or cell reference (e.g., `A1`).\n   - Add a comma and enter the next text string or cell reference (e.g., `B1`).\n   - Continue adding as many text strings or cell references as needed.\n   - Close the function with a closing parenthesis `)`.\n3. **Press Enter** to see the result.\n\n### Example:\nIf you have the following data:\n- Cell A1: \"Hello\"\n- Cell B1: \"World\"\n\nYou can use the formula:\n```excel\n=CONCAT(A1, \" \", B1)\n```\nThis will return: \"Hello World\"\n\n### Notes:\n- CONCAT is available in Excel 2016 and later versions.\n- For older versions of Excel, you can use the CONCATENATE function, which works similarly.\n- You can also include static text within the function (e.g., `=CONCAT(\"Hello\", \" \", \"World\")`).\n\nWould you like more specific examples or help with a particular scenario?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:28:53.412477+02:00",
+  "durationSeconds": 9.42,
+  "stats": "mistral-small3.2:latest · 518 + 361 tokens · 9,4 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-puer",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Sentir très mauvais.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pu(er|e|ent|ait|aient|[ée])|puant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:empest(er|e|ent|ait)|schlingu(er|e|ent)|refoul(er|e)\\s+du\\s+goulot)(?![\\w-])"
+  ],
+  "symbol": "puer",
+  "event": null,
+  "title": "Puer",
+  "tags": [
+    "#DISGUST",
+    "#ODEUR"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

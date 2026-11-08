@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-revision-du-cybersecurity-act",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Révision du Cybersecurity Act",
+  "includedEntities": [
+    {
+      "entityName": "Cybersecurity Act",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "révision",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la révision du règlement européen sur la cybersécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ENISA",
+    "chaîne d'approvisionnement",
+    "fournisseurs à risque"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quels fournisseurs exclus ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#UNION-EUROPEENNE",
+    "#REGULATION"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

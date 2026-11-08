@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Classe de l'ontologie : Attentats du 22 mars 2016 en Belgique.",
+  "id": "be2016-racine",
+  "dateCreated": "2026-10-31 19:28:40",
+  "name": "Attentats du 22 mars 2016 en Belgique",
+  "entityType": "EVENT",
+  "description": "Attentats-suicides commis le 22 mars 2016 à l'aéroport de Bruxelles-National et à la station de métro Maelbeek, revendiqués par l'État islamique, qui ont fait 32 morts et plus de 300 blessés. Cette branche regroupe les événements, lieux, organisations et objets liés.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": null,
+  "sentencesExemples": [
+    "La branche « Attentats du 22 mars 2016 en Belgique » de l'ontologie regroupe les entrées de ce thème.",
+    "Pour explorer « Attentats du 22 mars 2016 en Belgique », ouvrez la branche dans la fenêtre de l'ontologie.",
+    "Chaque entrée de « Attentats du 22 mars 2016 en Belgique » est reliée à d'autres par des relations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": true,
+  "symbol": "\uD83D\uDCC2",
+  "synonyms": [
+    "attentats de Bruxelles",
+    "attentats du 22 mars"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#ONTOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-pollution",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La contamination de l'environnement.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pollution(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pollu([ée]|[ée]e|[ée]s|[ée]es|ant|ants|er)|mar[ée]e(s)?\\s+noire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:eaux\\s+us[ée]es)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:smog)(?![\\w-])"
+  ],
+  "symbol": "pollution",
+  "event": null,
+  "title": "Pollution",
+  "tags": [
+    "#DISGUST",
+    "#INSALUBRITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

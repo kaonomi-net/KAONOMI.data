@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-algorithme",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une suite d'instructions qui décide à notre place.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:algorithme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:algorithmique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]cision(s)?\\s+automatis[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:notation\\s+sociale)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cr[ée]dit\\s+social)(?![\\w-])"
+  ],
+  "symbol": "algorithme",
+  "event": null,
+  "title": "Algorithme",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

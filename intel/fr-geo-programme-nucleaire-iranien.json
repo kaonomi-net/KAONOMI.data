@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-programme-nucleaire-iranien",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Programme nucléaire iranien",
+  "includedEntities": [
+    {
+      "entityName": "Iran",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "nucléaire",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "enrichissement",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre le programme nucléaire iranien et les inspections.",
+  "isFuzzy": true,
+  "locations": [
+    "Natanz",
+    "Fordo",
+    "Vienne"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "AIEA",
+    "uranium",
+    "accord de Vienne"
+  ],
+  "questions": [
+    "Quel niveau d'enrichissement ?",
+    "Les inspections sont-elles possibles ?",
+    "Quelles négociations ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#IRAN",
+    "#NUCLEAIRE"
+  ],
+  "events": [
+    "@RAPPORT-AIEA"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

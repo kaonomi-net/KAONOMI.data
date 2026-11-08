@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-omnibus-numerique-et-ai-act",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Omnibus numérique et AI Act",
+  "includedEntities": [
+    {
+      "entityName": "omnibus numérique",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "AI Act",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'omnibus numérique qui a reporté les obligations « haut risque » de l'AI Act à décembre 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "2 décembre 2027"
+  ],
+  "relatedEntities": [
+    "entreprises",
+    "IA",
+    "conformité"
+  ],
+  "questions": [
+    "Quelles obligations reportées ?",
+    "Quelles critiques ?",
+    "Quel nouveau report ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#IA",
+    "#AI-ACT"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

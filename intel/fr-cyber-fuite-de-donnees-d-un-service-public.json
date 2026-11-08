@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-fuite-de-donnees-d-un-service-public",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Fuite de données d'un service public",
+  "includedEntities": [
+    {
+      "entityName": "service public",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "fuite",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "usagers",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les fuites de données d'administrations et services publics.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "France Travail",
+    "CAF",
+    "Assurance maladie"
+  ],
+  "questions": [
+    "Quel service ?",
+    "Combien d'usagers ?",
+    "Quelles données ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES",
+    "#ETAT"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

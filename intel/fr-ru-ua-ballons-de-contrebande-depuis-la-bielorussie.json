@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-ballons-de-contrebande-depuis-la-bielorussie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Ballons de contrebande depuis la Biélorussie",
+  "includedEntities": [
+    {
+      "entityName": "ballons",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Biélorussie",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "Lituanie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les ballons venus de Biélorussie qui perturbent l'aéroport de Vilnius.",
+  "isFuzzy": true,
+  "locations": [
+    "Vilnius",
+    "Lituanie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "contrebande",
+    "aéroport",
+    "frontière"
+  ],
+  "questions": [
+    "Combien de ballons ?",
+    "L'aéroport a-t-il fermé ?",
+    "Quelles mesures ?"
+  ],
+  "tags": [
+    "#LITUANIE",
+    "#BIELORUSSIE",
+    "#GUERRE-HYBRIDE"
+  ],
+  "events": [
+    "@FERMETURE-AEROPORT"
+  ],
+  "signals": [
+    "!PERTURBATION"
+  ],
+  "isDeleted": false
+}

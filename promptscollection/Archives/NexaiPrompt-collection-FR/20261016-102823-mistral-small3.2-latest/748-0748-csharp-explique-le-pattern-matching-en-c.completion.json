@@ -1,0 +1,13 @@
+{
+  "index": 748,
+  "file": "0748-csharp-explique-le-pattern-matching-en-c.prompt.json",
+  "prompt": "Explique le pattern matching en C# avec un exemple simple.",
+  "promptWords": 10,
+  "completion": "Le pattern matching en C# est une fonctionnalité qui permet de vérifier le type ou la forme d'une expression et d'exécuter un bloc de code en fonction du résultat de cette vérification. Il est particulièrement utile pour simplifier les structures conditionnelles complexes et rendre le code plus lisible.\n\nVoici un exemple simple de pattern matching en C# :\n\n```csharp\nusing System;\n\nclass Program\n{\n    static void Main()\n    {\n        object obj = \"Hello, World!\";\n\n        switch (obj)\n        {\n            case int i:\n                Console.WriteLine($\"C'est un entier : {i}\");\n                break;\n            case string s:\n                Console.WriteLine($\"C'est une chaîne de caractères : {s}\");\n                break;\n            case null:\n                Console.WriteLine(\"C'est null\");\n                break;\n            default:\n                Console.WriteLine(\"Type inconnu\");\n                break;\n        }\n    }\n}\n```\n\nDans cet exemple, nous avons une variable `obj` de type `object` qui contient une chaîne de caractères. Le `switch` utilise le pattern matching pour vérifier le type de `obj` :\n\n1. `case int i:` vérifie si `obj` est un entier. Si c'est le cas, il assigne la valeur à `i` et exécute le bloc de code correspondant.\n2. `case string s:` vérifie si `obj` est une chaîne de caractères. Si c'est le cas, il assigne la valeur à `s` et exécute le bloc de code correspondant.\n3. `case null:` vérifie si `obj` est `null`.\n4. `default:` est exécuté si aucun des cas précédents ne correspond.\n\nLe pattern matching peut également être utilisé avec des expressions `is` et des expressions `switch` :\n\n```csharp\nif (obj is string s)\n{\n    Console.WriteLine($\"C'est une chaîne de caractères : {s}\");\n}\n```\n\nDans cet exemple, l'expression `is` vérifie si `obj` est une chaîne de caractères et, si c'est le cas, assigne la valeur à `s`.\n\nLe pattern matching est une fonctionnalité puissante qui peut rendre votre code plus concis et plus facile à comprendre.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:02:15.1997037+02:00",
+  "durationSeconds": 9.25,
+  "stats": "mistral-small3.2:latest · 520 + 453 tokens · 9,2 s",
+  "isError": false,
+  "language": "FR"
+}

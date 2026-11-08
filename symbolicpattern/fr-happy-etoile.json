@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-etoile",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un astre qui brille la nuit.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]toile(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]toil[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ciel\\s+[ée]toil[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:voie\\s+lact[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]toile(s)?\\s+filante(s)?)(?![\\w-])"
+  ],
+  "symbol": "étoile",
+  "event": null,
+  "title": "Étoile",
+  "tags": [
+    "#NATURE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

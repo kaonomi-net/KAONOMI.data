@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-maison-blanche",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "Maison Blanche",
+  "entityType": "LOCATION",
+  "description": "Cité par 7 intels : Entretien entre Poutine et Trump ; Position de Donald Trump sur l'Ukraine ; Rôle de Melania Trump ; Relation entre Trump et Zelensky ; Élection présidentielle américaine ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les échanges téléphoniques et rencontres entre Poutine et Trump.",
+    "Suivre la politique de Donald Trump sur la guerre en Ukraine.",
+    "Suivre le rôle de Melania Trump dans les initiatives humanitaires et de trêve."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Maison Blanche",
+  "tags": [
+    "#ETATS-UNIS",
+    "#DIPLOMATIE",
+    "#UKRAINE",
+    "#POUTINE",
+    "#TRUMP",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@ENTRETIEN",
+    "@DECLARATION",
+    "@RENCONTRE-DIRIGEANTS"
+  ],
+  "signals": [
+    "!INCERTITUDE",
+    "!DIPLOMATIE",
+    "!DESESCALADE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Washington",
+    "Trump",
+    "Ukraine",
+    "Poutine",
+    "Zelensky",
+    "Kremlin",
+    "entretien",
+    "guerre",
+    "Olechky",
+    "enfants"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

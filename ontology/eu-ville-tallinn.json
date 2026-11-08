@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ville de l'Union européenne (la géographie européenne) : Tallinn, capitale de ce pays : Estonie.",
+  "id": "eu-ville-tallinn",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "Tallinn",
+  "entityType": "CITY",
+  "description": "Tallinn, capitale de ce pays : Estonie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-villes",
+  "sentencesExemples": [
+    "La délégation s'est rendue à Tallinn.",
+    "La réunion s'est tenue à Tallinn.",
+    "Tallinn apparaît sur la carte des implantations de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFD9",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#CITY",
+    "#GEOGRAPHIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Tallinn"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Estonie",
+    "Agence de l'Union européenne pour la gestion opérationnelle des systèmes d'information à grande échelle (eu-LISA)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

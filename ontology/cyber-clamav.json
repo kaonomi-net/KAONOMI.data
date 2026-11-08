@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (la défense) : Antivirus libre, très utilisé pour analyser les courriels sur les serveurs.",
+  "id": "cyber-clamav",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "ClamAV",
+  "entityType": "SOFTWARE",
+  "description": "Antivirus libre, très utilisé pour analyser les courriels sur les serveurs.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "Le rapport d'incident cite ClamAV à plusieurs reprises.",
+    "L'analyste a utilisé ClamAV pendant l'enquête.",
+    "Les historiens de l'informatique considèrent ClamAV comme une étape de la défense."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Clam AntiVirus"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=ClamAV"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Emotet"
+  ],
+  "isDeleted": false,
+  "startDate": "2002-01-01T00:00:00",
+  "endDate": null
+}

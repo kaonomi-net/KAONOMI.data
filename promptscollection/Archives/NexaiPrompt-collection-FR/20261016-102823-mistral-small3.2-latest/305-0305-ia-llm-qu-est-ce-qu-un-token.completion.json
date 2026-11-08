@@ -1,0 +1,13 @@
+{
+  "index": 305,
+  "file": "0305-ia-llm-qu-est-ce-qu-un-token.prompt.json",
+  "prompt": "Qu'est-ce qu'un token et comment fonctionne la tokenisation ?",
+  "promptWords": 9,
+  "completion": "Un **token** est une unité de base utilisée dans le traitement du langage naturel (NLP) pour représenter un mot, un symbole ou une partie d'un texte. La **tokenisation** est le processus de division d'un texte en ces unités plus petites, appelées tokens.\n\n### Comment fonctionne la tokenisation ?\n1. **Segmentation** : Le texte est divisé en mots, symboles ou autres éléments significatifs.\n   - Exemple : La phrase *\"Bonjour, comment ça va ?\"* peut être tokenisée en : `[\"Bonjour\", \",\", \"comment\", \"ça\", \"va\", \"?\"]`.\n\n2. **Nettoyage** : Suppression des espaces, ponctuations ou autres caractères non pertinents (selon le contexte).\n\n3. **Normalisation** : Transformation des tokens en une forme standard (minuscules, lemmatisation, etc.).\n\n### Types de tokenisation :\n- **Tokenisation par mots** : Division en mots individuels.\n- **Tokenisation par sous-mots** (BPE, WordPiece) : Découpage en sous-parties (utile pour les mots rares ou composés).\n- **Tokenisation par caractères** : Découpage en lettres ou symboles individuels.\n\n### Applications :\n- **Modèles de langage** (comme moi) utilisent la tokenisation pour comprendre et générer du texte.\n- **Recherche d'information** : Indexation de documents.\n- **Traduction automatique** : Préparation des données pour les modèles.\n\nSi tu veux des détails sur un type spécifique de tokenisation ou son utilisation dans un domaine particulier, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:21:49.6125042+02:00",
+  "durationSeconds": 6.94,
+  "stats": "mistral-small3.2:latest · 520 + 338 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

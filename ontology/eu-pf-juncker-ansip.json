@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la transformation numérique) : Portefeuille détenu par Andrus Ansip, vice-président, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "id": "eu-pf-juncker-ansip",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Marché unique numérique (Commission Juncker)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Andrus Ansip, vice-président, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "La lettre de mission du portefeuille « Marché unique numérique (Commission Juncker) » fixe les objectifs en matière de la transformation numérique.",
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Marché unique numérique (Commission Juncker) ».",
+    "Le portefeuille « Marché unique numérique (Commission Juncker) » couvre la transformation numérique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#TRANSFORMATIONNUMERIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=March%C3%A9%20unique%20num%C3%A9rique%20%28Commission%20Juncker%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Andrus Ansip",
+    "Commission Juncker",
+    "Vice-président de la Commission",
+    "Numérique"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-11-01T00:00:00",
+  "endDate": "2019-11-30T00:00:00"
+}

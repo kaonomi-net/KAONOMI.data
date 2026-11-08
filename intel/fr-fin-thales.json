@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-thales",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Thales",
+  "includedEntities": [
+    {
+      "entityName": "Thales",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "défense",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [
+    {
+      "entityName": "philosophe",
+      "entityWeight": ""
+    }
+  ],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Thales et les commandes de défense.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "radars",
+    "espace",
+    "cybersécurité"
+  ],
+  "questions": [
+    "Quelle commande ?",
+    "Quelle prévision ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

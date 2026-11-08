@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-gouverneurs-et-regions-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Gouverneurs et régions russes",
+  "includedEntities": [
+    {
+      "entityName": "gouverneur",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "région",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les nominations, démissions et arrestations de gouverneurs.",
+  "isFuzzy": true,
+  "locations": [
+    "régions russes"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Kremlin",
+    "élections",
+    "corruption"
+  ],
+  "questions": [
+    "Quel gouverneur ?",
+    "Quel motif ?",
+    "Quel successeur ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#REGIONS",
+    "#POUVOIR"
+  ],
+  "events": [
+    "@NOMINATION"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

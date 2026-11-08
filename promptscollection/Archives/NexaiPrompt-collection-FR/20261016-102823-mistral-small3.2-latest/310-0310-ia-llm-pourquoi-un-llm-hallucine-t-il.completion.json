@@ -1,0 +1,13 @@
+{
+  "index": 310,
+  "file": "0310-ia-llm-pourquoi-un-llm-hallucine-t-il.prompt.json",
+  "prompt": "Pourquoi un LLM hallucine-t-il et comment limiter les hallucinations ?",
+  "promptWords": 10,
+  "completion": "Les modèles de langage comme moi peuvent parfois produire des informations incorrectes ou inventées, un phénomène appelé \"hallucination\". Voici pourquoi cela se produit et comment limiter ce problème :\n\n**Pourquoi les LLM hallucinent ?**\n1. **Manque de connaissances précises** : Nous n'avons pas de conscience ni de compréhension réelle du monde, nous générons du texte basé sur des motifs appris.\n2. **Surconfiance** : Nous présentons souvent les informations avec une certitude qui ne reflète pas notre niveau réel de confiance.\n3. **Biais d'entraînement** : Les données d'entraînement peuvent contenir des erreurs ou des informations obsolètes.\n4. **Généralisation excessive** : Nous essayons de compléter les informations manquantes en extrapolant à partir de motifs appris.\n\n**Comment limiter les hallucinations ?**\n1. **Vérification des faits** : Toujours vérifier les informations critiques avec des sources fiables.\n2. **Précision des requêtes** : Poser des questions précises et contextuelles pour guider le modèle.\n3. **Utilisation de outils spécialisés** : Pour les informations sensibles ou techniques, utiliser des outils spécialisés ou des bases de données.\n4. **Mise à jour des connaissances** : Nous avons une base de connaissances figée (jusqu'en 2023-10-01), donc pour les informations récentes, il faut consulter des sources actualisées.\n5. **Demander des références** : Si possible, demander au modèle de citer ses sources.\n\n**Exemple concret** :\nSi je vous dis qu'une ville a une population de X habitants, et que cela semble improbable, vérifiez avec des sources officielles comme l'INSEE ou les recensements récents.\n\nJe suis conçu pour être transparent sur mes limites et pour encourager la vérification des informations. N'hésitez pas à me demander de clarifier ou de vérifier toute information que je fournis.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:22:31.3681638+02:00",
+  "durationSeconds": 8.35,
+  "stats": "mistral-small3.2:latest · 523 + 412 tokens · 8,3 s",
+  "isError": false,
+  "language": "FR"
+}

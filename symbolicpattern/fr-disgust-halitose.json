@@ -1,0 +1,30 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-halitose",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'odeur du souffle.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:halitose(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mauvaise\\s+haleine)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:haleine\\s+f[ée]tide)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:haleine\\s+de\\s+chacal)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:haleine\\s+charg[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sent\\s+de\\s+la\\s+bouche)(?![\\w-])"
+  ],
+  "symbol": "halitose",
+  "event": null,
+  "title": "Halitose",
+  "tags": [
+    "#DISGUST",
+    "#ODEUR",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

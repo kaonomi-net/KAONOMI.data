@@ -1,0 +1,13 @@
+{
+  "index": 176,
+  "file": "0176-microsoft-office-how-do-i-share-my-screen.prompt.json",
+  "prompt": "How do I share my screen during a meeting in Teams?",
+  "promptWords": 11,
+  "completion": "To share your screen during a meeting in Microsoft Teams, follow these steps:\n\n1. **Join or Start a Meeting**:\n   - Open Microsoft Teams and join an existing meeting or start a new one.\n\n2. **Access the Share Button**:\n   - Once in the meeting, look for the **\"Share\"** button at the top of the screen (it looks like a rectangle with an upward arrow).\n\n3. **Select What to Share**:\n   - Click on the **\"Share\"** button.\n   - A sidebar will appear with options to share your entire screen, a specific window, a PowerPoint file, or a whiteboard.\n\n4. **Choose the Screen or Window**:\n   - Select the screen or window you want to share. If you choose a specific window, make sure it is open before starting the share.\n\n5. **Start Sharing**:\n   - Click **\"Share\"** to start sharing your screen. The selected content will now be visible to all meeting participants.\n\n6. **Stop Sharing**:\n   - To stop sharing, click on the **\"Stop sharing\"** button in the meeting controls at the top of the screen.\n\nIf you encounter any issues or need further assistance, feel free to ask!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:35:35.5051158+02:00",
+  "durationSeconds": 6.84,
+  "stats": "mistral-small3.2:latest · 519 + 240 tokens · 6,8 s",
+  "isError": false,
+  "language": "EN"
+}

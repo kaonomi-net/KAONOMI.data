@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-cyberguerre",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La guerre menée par attaques informatiques.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cyberguerre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cyber-guerre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guerre\\s+hybride)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guerre\\s+de\\s+l['’]information)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cybermenace(s)?)(?![\\w-])"
+  ],
+  "symbol": "cyberguerre",
+  "event": null,
+  "title": "Cyberguerre",
+  "tags": [
+    "#FEAR",
+    "#GUERRE",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

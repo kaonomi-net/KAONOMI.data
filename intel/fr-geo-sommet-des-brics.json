@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-sommet-des-brics",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Sommet des BRICS",
+  "includedEntities": [
+    {
+      "entityName": "BRICS",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sommet",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les décisions des BRICS et leur élargissement.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "dates du sommet"
+  ],
+  "relatedEntities": [
+    "Chine",
+    "Inde",
+    "Brésil"
+  ],
+  "questions": [
+    "Quels nouveaux membres ?",
+    "Quelle monnaie commune ?",
+    "Quelles déclarations ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#BRICS",
+    "#MULTIPOLARITE"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!MULTIPOLARITE"
+  ],
+  "isDeleted": false
+}

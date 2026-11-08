@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-ralliements-au-rn",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Ralliements au RN",
+  "includedEntities": [
+    {
+      "entityName": "ralliement",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Rassemblement national",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les personnalités qui rejoignent ou soutiennent le RN.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "élus",
+    "anciens ministres",
+    "Reconquête"
+  ],
+  "questions": [
+    "Qui se rallie ?",
+    "D'où vient-il ?",
+    "Quel impact ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#CAMPAGNE"
+  ],
+  "events": [
+    "@RALLIEMENT"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

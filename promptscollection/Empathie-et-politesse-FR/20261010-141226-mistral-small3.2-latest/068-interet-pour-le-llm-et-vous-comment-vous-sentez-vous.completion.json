@@ -1,0 +1,13 @@
+{
+  "index": 68,
+  "file": "068-interet-pour-le-llm-et-vous-comment-vous-sentez-vous.prompt.json",
+  "prompt": "Et vous, comment vous sentez-vous aujourd'hui ?",
+  "promptWords": 7,
+  "completion": "Je suis une intelligence artificielle, donc je n'ai pas de sentiments ou d'émotions comme les humains. Cependant, je suis là pour vous aider et répondre à vos questions du mieux que je peux ! Comment puis-je vous aider aujourd'hui ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:13.9259795+02:00",
+  "durationSeconds": 1.19,
+  "stats": "mistral-small3.2:latest · 518 + 50 tokens · 1,2 s",
+  "isError": false,
+  "language": "FR"
+}

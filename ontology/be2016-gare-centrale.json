@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (le contexte de la menace terroriste) : À la gare de Bruxelles-Central, une bombe n'explose que partiellement ; son auteur est abattu par un militaire en patrouille.",
+  "id": "be2016-gare-centrale",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Tentative d'attentat de la gare Centrale",
+  "entityType": "EVENT",
+  "description": "À la gare de Bruxelles-Central, une bombe n'explose que partiellement ; son auteur est abattu par un militaire en patrouille.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "Les enquêteurs et les historiens ont reconstitué le déroulement de « Tentative d'attentat de la gare Centrale ».",
+    "« Tentative d'attentat de la gare Centrale » figure dans la chronologie des attentats de 2016.",
+    "Les rapports officiels reviennent sur « Tentative d'attentat de la gare Centrale »."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 4,
+  "surpriseLevel": 4,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "attentat raté de la gare Centrale"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#CONTEXTEMENACETERRORISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Tentative%20d%27attentat%20de%20la%20gare%20Centrale"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Défense belge"
+  ],
+  "isDeleted": false,
+  "startDate": "2017-06-20T00:00:00",
+  "endDate": "2017-06-20T00:00:00"
+}

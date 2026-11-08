@@ -1,0 +1,13 @@
+{
+  "index": 1,
+  "file": "001-politesse-bonjour-comment-allez-vous-aujourd-hui.prompt.json",
+  "prompt": "Bonjour, comment allez-vous aujourd'hui ?",
+  "promptWords": 5,
+  "completion": "Bonjour ! Je suis une intelligence artificielle, donc je n'ai pas de sentiments, mais je suis prêt à vous aider aujourd'hui. Comment puis-je vous assister ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:12:26.6008684+02:00",
+  "durationSeconds": 3.24,
+  "stats": "mistral-small3.2:latest · 516 + 35 tokens · 3,2 s",
+  "isError": false,
+  "language": "FR"
+}

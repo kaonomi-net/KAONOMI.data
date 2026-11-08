@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-modeles-d-ia",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "modèles d'IA",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 1 intel : Capacités cyber des modèles d'IA.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre l'évaluation des capacités offensives des modèles d'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "modèles d'IA",
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#SECURITE-IA"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "restrictions de diffusion",
+    "évaluations",
+    "laboratoires",
+    "capacités cyber"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-beatitude",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un bonheur calme et parfait.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:b[ée]atitude(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:b[ée]at(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:extase(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ravissement(s)?)(?![\\w-])"
+  ],
+  "symbol": "béatitude",
+  "event": null,
+  "title": "Béatitude",
+  "tags": [
+    "#JOIE",
+    "#PAIX"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

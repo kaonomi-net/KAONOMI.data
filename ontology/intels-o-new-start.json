@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-new-start",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "New START",
+  "entityType": "LAW",
+  "description": "Cité par 3 intels : Relation entre Poutine et Xi Jinping ; Expiration du traité New START ; Traités de désarmement.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre les rencontres et déclarations communes de Poutine et Xi Jinping.",
+    "Suivre les conséquences de l'expiration du traité New START début 2026.",
+    "Suivre l'avenir des traités de contrôle des armements."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "New START",
+  "tags": [
+    "#NUCLEAIRE",
+    "#DESARMEMENT",
+    "#POUTINE",
+    "#CHINE",
+    "#ALLIANCE",
+    "#RUSSIE"
+  ],
+  "events": [
+    "@RENCONTRE-DIRIGEANTS"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!ALLIANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chine",
+    "Russie",
+    "États-Unis",
+    "traité",
+    "Pékin",
+    "Xi Jinping",
+    "partenariat sans limites",
+    "Poutine",
+    "énergie",
+    "Moscou"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

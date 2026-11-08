@@ -1,0 +1,54 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-depression-resistante",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "dépression résistante",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Eskétamine et kétamine ; Stimulation magnétique transcrânienne.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'usage de la kétamine dans la dépression résistante.",
+    "Suivre les traitements par stimulation cérébrale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "dépression résistante",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#THERAPIES",
+    "#DEPRESSION",
+    "#NEUROSTIMULATION"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "mésusage",
+    "eskétamine",
+    "kétamine",
+    "cliniques",
+    "stimulation profonde",
+    "électroconvulsivothérapie",
+    "rTMS",
+    "stimulation magnétique transcrânienne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

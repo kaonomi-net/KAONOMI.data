@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-excellence",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le plus haut degré de qualité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:excellence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:excellent(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:remarquable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exceptionnel(le|s|les)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:parfait(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "excellence",
+  "event": null,
+  "title": "Excellence",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

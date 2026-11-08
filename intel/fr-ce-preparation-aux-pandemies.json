@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-preparation-aux-pandemies",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Préparation aux pandémies",
+  "includedEntities": [
+    {
+      "entityName": "pandémie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "préparation",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "HERA",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la préparation européenne aux futures pandémies.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "HERA",
+    "vaccins",
+    "stocks"
+  ],
+  "questions": [
+    "Quelle menace ?",
+    "Quel stock ?",
+    "Quelle coordination ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SANTE",
+    "#PANDEMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE"
+  ],
+  "isDeleted": false
+}

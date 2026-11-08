@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Polskie Stronnictwo Ludowe, parti ou liste de ce pays : Pologne, qui compte 2 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-pl-polskie-stronnictwo-ludowe",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Polskie Stronnictwo Ludowe",
+  "entityType": "ORGANISATION",
+  "description": "Polskie Stronnictwo Ludowe, parti ou liste de ce pays : Pologne, qui compte 2 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les eurodéputés de « Polskie Stronnictwo Ludowe » ont été élus en juin 2024.",
+    "« Polskie Stronnictwo Ludowe » est représenté dans le Parlement européen.",
+    "Le programme européen de « Polskie Stronnictwo Ludowe » a été publié avant le scrutin."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Polskie%20Stronnictwo%20Ludowe"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Krzysztof Hetman",
+    "Adam Jarubas",
+    "Pologne",
+    "Parti populaire européen (PPE)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-attentat",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une attaque criminelle contre des personnes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:attentat(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attentat(s)?\\s+meurtrier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attaque(s)?\\s+terroriste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:acte(s)?\\s+de\\s+terreur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tuerie(s)?\\s+de\\s+masse)(?![\\w-])"
+  ],
+  "symbol": "attentat",
+  "event": null,
+  "title": "Attentat",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

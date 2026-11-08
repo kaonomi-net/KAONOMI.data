@@ -1,0 +1,13 @@
+{
+  "index": 104,
+  "file": "0104-microsoft-office-comment-mettre-une-page-en-orientation.prompt.json",
+  "prompt": "Comment mettre une page en orientation paysage au milieu d'un document dans Word ?",
+  "promptWords": 14,
+  "completion": "Pour mettre une page en orientation paysage au milieu d'un document Word, vous pouvez suivre ces étapes :\n\n1. **Placez le curseur** à l'endroit où vous souhaitez que commence la page en orientation paysage.\n2. **Allez dans l'onglet** \"Mise en page\" (ou \"Disposition\" selon la version de Word).\n3. **Cliquez sur** \"Sauts de page\".\n4. **Sélectionnez** \"Page suivante\" sous l'onglet \"Sauts de page\".\n5. **Maintenant, placez le curseur** sur la page que vous venez de créer (ou sur les pages suivantes que vous souhaitez mettre en paysage).\n6. **Allez à nouveau dans l'onglet** \"Mise en page\".\n7. **Cliquez sur** \"Orientation\".\n8. **Choisissez** \"Paysage\".\n9. **Répétez les étapes 1 à 8** pour revenir à l'orientation \"Portrait\" après les pages en paysage.\n\nSi vous souhaitez que plusieurs pages consécutives soient en paysage, vous pouvez sélectionner toutes les pages concernées avant de changer l'orientation.\n\nSi vous avez besoin d'aide supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:49:01.8128838+02:00",
+  "durationSeconds": 5.66,
+  "stats": "mistral-small3.2:latest · 522 + 262 tokens · 5,7 s",
+  "isError": false,
+  "language": "FR"
+}

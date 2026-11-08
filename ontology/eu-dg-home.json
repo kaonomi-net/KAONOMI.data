@@ -1,0 +1,62 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique migratoire) : Direction générale de la migration et des affaires intérieures (DG HOME), service de la Commission européenne compétent pour la politique migratoire, les affaires intérieures, placé sous l'autorité de Magnus Brunner dans la Commission von der Leyen II.",
+  "id": "eu-dg-home",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de la migration et des affaires intérieures",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de la migration et des affaires intérieures (DG HOME), service de la Commission européenne compétent pour la politique migratoire, les affaires intérieures, placé sous l'autorité de Magnus Brunner dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Le rapport annuel de « Direction générale de la migration et des affaires intérieures » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Direction générale de la migration et des affaires intérieures ».",
+    "Les décisions de « Direction générale de la migration et des affaires intérieures » touchent la politique migratoire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG HOME"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEMIGRATOIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20la%20migration%20et%20des%20affaires%20int%C3%A9rieures"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Magnus Brunner",
+    "Migration et asile",
+    "Affaires intérieures et sécurité",
+    "Agence européenne de garde-frontières et de garde-côtes (Frontex)",
+    "Agence de l'Union européenne pour l'asile (EUAA)",
+    "Agence de l'Union européenne pour la coopération des services répressifs (Europol)",
+    "Agence de l'Union européenne pour la formation des services répressifs (CEPOL)",
+    "Agence de l'Union européenne sur les drogues (EUDA)",
+    "Agence de l'Union européenne pour la gestion opérationnelle des systèmes d'information à grande échelle (eu-LISA)",
+    "Espace Schengen",
+    "Pacte sur la migration et l'asile",
+    "Fonds « Asile, migration et intégration »",
+    "Fonds pour la sécurité intérieure"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-burn-out",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "burn-out",
+  "entityType": "DOMAIN",
+  "description": "Cité par 5 intels : Santé mentale des soignants ; Incapacités de travail pour raisons psychiques en Belgique ; Burn-out en Belgique ; Burn-out ; Reconnaissance du burn-out en maladie professionnelle.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la santé mentale des soignants.",
+    "Suivre la part des troubles psychiques dans les incapacités de travail de longue durée, 38,3 % fin 2025.",
+    "Suivre le burn-out en Belgique et sa prise en charge."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "burn-out",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BURN-OUT",
+    "#TRAVAIL",
+    "#BELGIQUE",
+    "#SOIGNANTS"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!INDICATEUR",
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "France",
+    "INAMI",
+    "soignants",
+    "hôpitaux",
+    "suicide",
+    "santé mentale",
+    "épuisement",
+    "troubles psychiques",
+    "dépression"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-tribunaux",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "tribunaux",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 4 intels : Saisies d'actifs étrangers en Russie ; Responsabilité en cas d'accident causé par une IA ; IA dans la justice ; Indemnisation des victimes de fuites.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les saisies d'entreprises étrangères par l'État russe.",
+    "Suivre la jurisprudence sur la responsabilité des systèmes d'IA.",
+    "Surveiller l'usage de l'IA par les juridictions et les avocats."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "tribunaux",
+  "tags": [
+    "#JUSTICE",
+    "#IA",
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#NATIONALISATION",
+    "#RESPONSABILITE"
+  ],
+  "events": [
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!RISQUE-JURIDIQUE",
+    "!VIGILANCE",
+    "!JUSTICE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "IA",
+    "nationalisation",
+    "décrets",
+    "actifs étrangers",
+    "gestion temporaire",
+    "saisie",
+    "fabricants",
+    "assureurs",
+    "responsabilité",
+    "accident"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

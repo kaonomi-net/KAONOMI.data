@@ -1,0 +1,13 @@
+{
+  "index": 74,
+  "file": "094-mathematiques-qu-est-ce-qu-un-nombre.prompt.json",
+  "prompt": "Qu'est-ce qu'un nombre complexe ?",
+  "promptWords": 5,
+  "completion": "Un nombre complexe est un nombre qui s'écrit sous la forme \\( a + ib \\), où \\( a \\) et \\( b \\) sont des nombres réels, et \\( i \\) est l'unité imaginaire, définie par la propriété \\( i^2 = -1 \\).\n\nVoici quelques points clés pour comprendre les nombres complexes :\n\n1. **Partie réelle et partie imaginaire** :\n   - \\( a \\) est appelé la partie réelle du nombre complexe.\n   - \\( b \\) est appelé la partie imaginaire.\n\n2. **Exemples** :\n   - \\( 3 + 2i \\) est un nombre complexe où la partie réelle est 3 et la partie imaginaire est 2.\n   - \\( -1 + 4i \\) est un nombre complexe où la partie réelle est -1 et la partie imaginaire est 4.\n\n3. **Représentation géométrique** :\n   Les nombres complexes peuvent être représentés dans un plan appelé plan complexe, où l'axe horizontal représente la partie réelle et l'axe vertical représente la partie imaginaire.\n\n4. **Opérations** :\n   Les nombres complexes peuvent être additionnés, soustraits, multipliés et divisés. Par exemple, l'addition de deux nombres complexes \\( (a + ib) \\) et \\( (c + id) \\) donne \\( (a + c) + i(b + d) \\).\n\n5. **Applications** :\n   Les nombres complexes sont utilisés dans de nombreux domaines, notamment en physique, en ingénierie, en électronique, et en mathématiques avancées.\n\nSi tu as des questions plus spécifiques ou si tu veux des exemples supplémentaires, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:29:34.2712365+02:00",
+  "durationSeconds": 8.4,
+  "stats": "mistral-small3.2:latest · 515 + 356 tokens · 8,4 s",
+  "isError": false,
+  "language": "FR"
+}

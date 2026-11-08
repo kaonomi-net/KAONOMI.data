@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-arrestations",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "arrestations",
+  "entityType": "EVENT",
+  "description": "Cité par 6 intels : Sabotage en Europe attribué à la Russie ; Recrutement d'agents par messagerie ; Tatars de Crimée ; Répression des opposants ; Scattered Spider ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les actes de sabotage en Europe soupçonnés d'être commandités par Moscou.",
+    "Suivre le recrutement de petites mains en Europe via les messageries.",
+    "Suivre la situation des Tatars de Crimée sous occupation."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "arrestations",
+  "tags": [
+    "#EUROPE",
+    "#GUERRE-HYBRIDE",
+    "#DROITS-HUMAINS",
+    "#CYBERSECURITE",
+    "#SABOTAGE",
+    "#ESPIONNAGE"
+  ],
+  "events": [
+    "@SABOTAGE",
+    "@ARRESTATION",
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!VIGILANCE",
+    "!DEFENSE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sabotage",
+    "répression",
+    "ingénierie sociale",
+    "Lituanie",
+    "Europe",
+    "Allemagne",
+    "incendies",
+    "Russie",
+    "services de renseignement",
+    "Pologne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

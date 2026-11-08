@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-terres-rares-et-dependance-a-la-chine",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Terres rares et dépendance à la Chine",
+  "includedEntities": [
+    {
+      "entityName": "terres rares",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les restrictions chinoises sur les terres rares et la réponse européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Pékin",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "aimants",
+    "industrie",
+    "stocks"
+  ],
+  "questions": [
+    "Quelle restriction ?",
+    "Quel impact ?",
+    "Quelle diversification ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CHINE",
+    "#MATIERES-PREMIERES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEPENDANCE"
+  ],
+  "isDeleted": false
+}

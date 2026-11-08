@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-hacktivisme-ciblant-les-systemes-industriels",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Hacktivisme ciblant les systèmes industriels",
+  "includedEntities": [
+    {
+      "entityName": "hacktivistes",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "SCADA",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "automates",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les hacktivistes qui s'en prennent aux automates industriels exposés.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "eau",
+    "énergie",
+    "interfaces exposées"
+  ],
+  "questions": [
+    "Quelle installation ?",
+    "Quel impact réel ?",
+    "Quel groupe ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#HACKTIVISME",
+    "#OT"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

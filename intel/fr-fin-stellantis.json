@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-stellantis",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Stellantis",
+  "includedEntities": [
+    {
+      "entityName": "Stellantis",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "automobile",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Stellantis et son redressement.",
+  "isFuzzy": false,
+  "locations": [
+    "Amsterdam",
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Antonio Filosa",
+    "États-Unis",
+    "droits de douane"
+  ],
+  "questions": [
+    "Quelles ventes ?",
+    "Quel plan ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#AUTOMOBILE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESTRUCTURATION"
+  ],
+  "isDeleted": false
+}

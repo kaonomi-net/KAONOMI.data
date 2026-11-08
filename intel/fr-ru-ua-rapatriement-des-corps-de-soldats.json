@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-rapatriement-des-corps-de-soldats",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Rapatriement des corps de soldats",
+  "includedEntities": [
+    {
+      "entityName": "corps",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "rapatriement",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "soldats",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les échanges de corps de soldats tués.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "identification",
+    "familles",
+    "médiateurs"
+  ],
+  "questions": [
+    "Combien de corps ?",
+    "Quel médiateur ?",
+    "Quelle identification ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@ECHANGE"
+  ],
+  "signals": [
+    "!SAD"
+  ],
+  "isDeleted": false
+}

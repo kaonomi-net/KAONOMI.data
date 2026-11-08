@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-haine",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'hostilité qui pousse à la violence.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:discours\\s+de\\s+haine)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:appel(s)?\\s+au\\s+meurtre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:haine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:incitation\\s+[àa]\\s+la\\s+haine)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:menace(s)?\\s+de\\s+mort)(?![\\w-])"
+  ],
+  "symbol": "haine",
+  "event": null,
+  "title": "Haine",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (l'authentification) : Protocole d'authentification par tiers de confiance, base de Kerberos ; une faille de sa version à clé publique a été trouvée par Gavin Lowe en 1995.",
+  "id": "cyber-needham-schroeder",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Protocole Needham-Schroeder",
+  "entityType": "ALGORITHM",
+  "description": "Protocole d'authentification par tiers de confiance, base de Kerberos ; une faille de sa version à clé publique a été trouvée par Gavin Lowe en 1995.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Comprendre Protocole Needham-Schroeder est une étape clé pour maîtriser l'authentification.",
+    "Dans le domaine de l'authentification, Protocole Needham-Schroeder reste une référence.",
+    "Pour ce projet, l'équipe a implémenté Protocole Needham-Schroeder à l'aide d'une bibliothèque éprouvée."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "Needham-Schroeder"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#AUTHENTIFICATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Protocole%20Needham-Schroeder"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kerberos"
+  ],
+  "isDeleted": false,
+  "startDate": "1978-01-01T00:00:00",
+  "endDate": null
+}

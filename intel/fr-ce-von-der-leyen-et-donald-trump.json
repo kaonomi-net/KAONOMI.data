@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-von-der-leyen-et-donald-trump",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Von der Leyen et Donald Trump",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Trump",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "relation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les relations entre la présidente de la Commission et le président américain.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "droits de douane",
+    "Ukraine",
+    "OTAN"
+  ],
+  "questions": [
+    "Quelle rencontre ?",
+    "Quel accord ?",
+    "Quel désaccord ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#ETATS-UNIS",
+    "#VON-DER-LEYEN"
+  ],
+  "events": [
+    "@RENCONTRE"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

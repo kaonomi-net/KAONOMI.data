@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-propagande-et-television-d-etat",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Propagande et télévision d'État",
+  "includedEntities": [
+    {
+      "entityName": "propagande",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "télévision d'État",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Soloviev",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les messages de la télévision d'État russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pervy Kanal",
+    "Russia 1",
+    "désinformation"
+  ],
+  "questions": [
+    "Quel message dominant ?",
+    "Quelle cible ?",
+    "Quel changement de ton ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#PROPAGANDE",
+    "#MEDIAS"
+  ],
+  "events": [],
+  "signals": [
+    "!DESINFORMATION"
+  ],
+  "isDeleted": false
+}

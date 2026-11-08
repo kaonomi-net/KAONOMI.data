@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ville de l'Union européenne (la géographie européenne) : Dublin, capitale de ce pays : Irlande.",
+  "id": "eu-ville-dublin",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "Dublin",
+  "entityType": "CITY",
+  "description": "Dublin, capitale de ce pays : Irlande.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-villes",
+  "sentencesExemples": [
+    "Plusieurs fonctionnaires européens travaillent à Dublin.",
+    "Le siège installé à Dublin emploie des agents de nombreuses nationalités.",
+    "La ville de Dublin accueille une institution ou un événement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFD9",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#CITY",
+    "#GEOGRAPHIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Dublin"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Irlande",
+    "Fondation européenne pour l'amélioration des conditions de vie et de travail (Eurofound)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

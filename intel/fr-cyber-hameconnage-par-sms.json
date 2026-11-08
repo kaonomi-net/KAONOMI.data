@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-hameconnage-par-sms",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Hameçonnage par SMS",
+  "includedEntities": [
+    {
+      "entityName": "SMS",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "smishing",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "colis",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les arnaques par SMS frauduleux.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "colis",
+    "amendes",
+    "Ameli"
+  ],
+  "questions": [
+    "Quelle arnaque ?",
+    "Quel organisme usurpé ?",
+    "Quelle alerte ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#HAMECONNAGE",
+    "#SMS"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

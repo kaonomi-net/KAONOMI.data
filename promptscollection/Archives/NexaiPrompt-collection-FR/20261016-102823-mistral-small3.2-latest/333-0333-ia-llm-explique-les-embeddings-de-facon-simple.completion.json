@@ -1,0 +1,13 @@
+{
+  "index": 333,
+  "file": "0333-ia-llm-explique-les-embeddings-de-facon-simple.prompt.json",
+  "prompt": "Explique les embeddings de façon simple.",
+  "promptWords": 6,
+  "completion": "Les embeddings sont une façon de représenter des données, comme des mots, des images ou des sons, sous forme de nombres (vecteurs) dans un espace mathématique. Imagine que chaque mot est un point dans un grand espace multidimensionnel : les mots qui ont des significations similaires seront proches les uns des autres, tandis que ceux qui n’ont rien en commun seront éloignés.\n\n### Exemple simple :\n- Le mot **\"chat\"** et le mot **\"chien\"** seront proches dans l’espace des embeddings parce qu’ils sont tous deux des animaux.\n- Le mot **\"roi\"** et le mot **\"reine\"** seront aussi proches, car ils sont liés par un concept similaire (la royauté).\n\n### À quoi ça sert ?\nLes embeddings permettent aux machines de comprendre les relations entre les mots ou les objets sans avoir à tout apprendre par cœur. Par exemple, un modèle peut deviner que **\"Paris\"** est à la France comme **\"Berlin\"** est à l’Allemagne, simplement parce que les embeddings de ces mots sont organisés de manière logique.\n\nEn résumé, les embeddings transforment des données complexes en représentations numériques utiles pour l’intelligence artificielle. \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:25:43.6463945+02:00",
+  "durationSeconds": 5.06,
+  "stats": "mistral-small3.2:latest · 516 + 247 tokens · 5,1 s",
+  "isError": false,
+  "language": "FR"
+}

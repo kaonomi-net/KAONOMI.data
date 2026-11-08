@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-def-con",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "DEF CON",
+  "entityType": "EVENT",
+  "description": "Cité par 2 intels : Compétitions CTF ; Conférences de sécurité offensive.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les compétitions de type capture du drapeau.",
+    "Suivre les découvertes présentées aux grandes conférences de sécurité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "DEF CON",
+  "tags": [
+    "#CYBERSECURITE",
+    "#CTF",
+    "#FORMATION",
+    "#CONFERENCES"
+  ],
+  "events": [
+    "@COMPETITION",
+    "@CONFERENCE"
+  ],
+  "signals": [
+    "!FORMATION",
+    "!VEILLE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "CTF",
+    "FCSC",
+    "capture du drapeau",
+    "équipes",
+    "Black Hat",
+    "SSTIC",
+    "Paris",
+    "Las Vegas",
+    "conférence",
+    "Rennes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

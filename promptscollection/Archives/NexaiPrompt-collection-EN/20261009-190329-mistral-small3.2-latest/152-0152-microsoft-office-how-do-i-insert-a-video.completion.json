@@ -1,0 +1,13 @@
+{
+  "index": 152,
+  "file": "0152-microsoft-office-how-do-i-insert-a-video.prompt.json",
+  "prompt": "How do I insert a video in PowerPoint?",
+  "promptWords": 8,
+  "completion": "To insert a video in PowerPoint, follow these steps:\n\n1. **Open your PowerPoint presentation** and go to the slide where you want to insert the video.\n\n2. **Go to the \"Insert\" tab** on the ribbon at the top of the screen.\n\n3. **Click on \"Video\"** in the Media group. You will see two options:\n   - **Online Video**: This allows you to insert a video from an online source like YouTube.\n   - **Video from File**: This allows you to insert a video file from your computer.\n\n4. **Choose the appropriate option**:\n   - If you select **Online Video**, you will need to paste the embed code or the URL of the video you want to insert.\n   - If you select **Video from File**, browse to the location of the video file on your computer, select it, and click \"Insert.\"\n\n5. **The video will appear on your slide**. You can resize, reposition, or format it as needed.\n\n6. **To play the video**, you can either:\n   - Click the **Play button** on the video during a slide show.\n   - Set it to play automatically when the slide appears by right-clicking the video, selecting \"Play,\" and then \"Automatically.\"\n\nThat's it! You have successfully inserted a video into your PowerPoint presentation.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:31:37.7759673+02:00",
+  "durationSeconds": 7.62,
+  "stats": "mistral-small3.2:latest · 517 + 277 tokens · 7,6 s",
+  "isError": false,
+  "language": "EN"
+}

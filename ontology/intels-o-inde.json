@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-inde",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "Inde",
+  "entityType": "COUNTRY",
+  "description": "Cité par 10 intels : Déplacements de Poutine à l'étranger ; Poutine et l'Inde ; Exportations de pétrole vers l'Inde et la Chine ; Russie et les BRICS ; Frontière entre l'Inde et la Chine ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre les voyages officiels du président russe.",
+    "Suivre les relations entre la Russie et l'Inde.",
+    "Suivre les achats de pétrole russe par l'Inde et la Chine."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Inde",
+  "tags": [
+    "#INDE",
+    "#GEOPOLITIQUE",
+    "#POUTINE",
+    "#DIPLOMATIE",
+    "#RUSSIE",
+    "#COMMERCE"
+  ],
+  "events": [
+    "@VISITE-OFFICIELLE",
+    "@SOMMET",
+    "@INCIDENT-FRONTALIER"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!MULTIPOLARITE",
+    "!CONTOURNEMENT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chine",
+    "New Delhi",
+    "Poutine",
+    "Modi",
+    "sanctions",
+    "sommet",
+    "BRICS",
+    "voyage",
+    "Asie centrale",
+    "visite"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

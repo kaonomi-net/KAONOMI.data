@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (la robotique) : Premier robot mobile capable de raisonner sur ses actions, développé au SRI ; il a donné naissance à l'algorithme A* et au planificateur STRIPS.",
+  "id": "ia-shakey",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Robot Shakey",
+  "entityType": "HARDWARE",
+  "description": "Premier robot mobile capable de raisonner sur ses actions, développé au SRI ; il a donné naissance à l'algorithme A* et au planificateur STRIPS.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Lors du salon, le stand présentait Robot Shakey en démonstration.",
+    "Le laboratoire utilise Robot Shakey pour ses travaux dans le domaine de la robotique.",
+    "Le technicien a installé Robot Shakey dans la salle des machines."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Shakey the robot"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#ROBOTIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Robot%20Shakey"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Algorithme A*"
+  ],
+  "isDeleted": false,
+  "startDate": "1966-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 20,
+  "file": "0020-architecture-entreprise-qu-est-ce-qu-un-architecture.prompt.json",
+  "prompt": "Qu'est-ce qu'un Architecture Decision Record (ADR) ?",
+  "promptWords": 7,
+  "completion": "Un **Architecture Decision Record (ADR)**, ou **Document de Décision d'Architecture** en français, est un document qui capture les décisions importantes prises concernant l'architecture d'un système logiciel. Ces décisions peuvent concerner des choix techniques, des frameworks, des technologies, des modèles d'architecture, ou toute autre décision ayant un impact significatif sur le projet.\n\n### **Objectifs d'un ADR**\n1. **Documentation** : Fournir une trace écrite des décisions prises, pour référence future.\n2. **Transparence** : Expliquer pourquoi une décision a été prise, en particulier pour les nouveaux membres de l'équipe.\n3. **Communication** : Faciliter les discussions et les revues des choix architecturaux.\n4. **Maintenance** : Aider à comprendre les raisons derrière certaines implémentations, ce qui peut être utile lors des évolutions ou des corrections de bugs.\n\n### **Structure typique d'un ADR**\nUn ADR suit généralement un format standardisé, comme le modèle **MADR** (Markdown Architecture Decision Record). Voici un exemple de structure :\n\n```markdown\n# Titre du ADR\n\n## Contexte\nDescription du problème ou de la situation qui a conduit à la décision.\n\n## Décision\nQuelle décision a été prise ?\n\n## Statut\n- **Proposé** : La décision est en discussion.\n- **Accepté** : La décision a été validée.\n- **Rejeté** : La décision a été abandonnée.\n- **Déprécié** : La décision est toujours en vigueur, mais ne doit plus être utilisée pour de nouveaux développements.\n\n## Conséquences\nQuelles sont les implications de cette décision ? Quels sont les avantages et les inconvénients ?\n```\n\n### **Exemple d'utilisation**\nUn ADR pourrait documenter un choix entre deux bases de données (PostgreSQL vs MongoDB), en expliquant :\n- Les critères de sélection (scalabilité, performance, coût, etc.).\n- Les avantages et inconvénients de chaque option.\n- La décision finale et ses justifications.\n\n### **Avantages des ADR**\n- **Clarté** : Évite les malentendus sur les choix techniques.\n- **Historique** : Permet de retracer l'évolution des décisions.\n- **Collaboration** : Facilite les discussions entre développeurs, architectes et parties prenantes.\n\nEn résumé, un ADR est un outil précieux pour maintenir une architecture logicielle bien documentée et compréhensible.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:32:48.269113+02:00",
+  "durationSeconds": 10.64,
+  "stats": "mistral-small3.2:latest · 520 + 525 tokens · 10,6 s",
+  "isError": false,
+  "language": "FR"
+}

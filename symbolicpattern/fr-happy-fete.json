@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-fete",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un moment de réjouissance.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:f[êe]te(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:f[êe]t(er|[ée]|[ée]e|ons|ent)|festivit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:soir[ée]e(s)?\\s+festive(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:faire\\s+la\\s+f[êe]te)(?![\\w-])"
+  ],
+  "symbol": "fête",
+  "event": null,
+  "title": "Fête",
+  "tags": [
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

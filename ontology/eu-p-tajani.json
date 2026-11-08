@@ -1,0 +1,59 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique industrielle) : Journaliste, ancien commissaire européen, président du Parlement européen de 2017 à 2019.",
+  "id": "eu-p-tajani",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Antonio Tajani",
+  "entityType": "PERSON",
+  "description": "Journaliste, ancien commissaire européen, président du Parlement européen de 2017 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Le portrait de Antonio Tajani figure dans le dossier consacré à la politique industrielle.",
+    "La presse européenne a longuement commenté le parcours de Antonio Tajani.",
+    "Les manuels sur les institutions européennes citent Antonio Tajani."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Tajani"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUEINDUSTRIELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Antonio%20Tajani"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité italienne",
+    "Forza Italia",
+    "Journaliste",
+    "Commissaire européen",
+    "Président du Parlement européen",
+    "Industrie et entrepreneuriat (Commission Barroso II)",
+    "Vice-président de la Commission",
+    "Commission Barroso II",
+    "Industrie",
+    "PME et startups",
+    "Parlement européen"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

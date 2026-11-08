@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (les valeurs de l'Union) : Prix remis à Oslo pour la contribution de l'Union à la paix et à la réconciliation en Europe.",
+  "id": "eu-ev-nobel-2012",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Prix Nobel de la paix décerné à l'Union européenne",
+  "entityType": "EVENT",
+  "description": "Prix remis à Oslo pour la contribution de l'Union à la paix et à la réconciliation en Europe.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "La chronologie de la Commission place « Prix Nobel de la paix décerné à l'Union européenne » à sa date.",
+    "« Prix Nobel de la paix décerné à l'Union européenne » est un jalon de l'histoire de de l'Union européenne.",
+    "Les historiens de la construction européenne reviennent sur « Prix Nobel de la paix décerné à l'Union européenne »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 4,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#VALEURSUNION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Prix%20Nobel%20de%20la%20paix%20d%C3%A9cern%C3%A9%20%C3%A0%20l%27Union%20europ%C3%A9enne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Valeurs et transparence",
+    "José Manuel Barroso",
+    "Herman Van Rompuy",
+    "Martin Schulz",
+    "Commission Barroso II",
+    "Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": "2012-12-10T00:00:00",
+  "endDate": null
+}

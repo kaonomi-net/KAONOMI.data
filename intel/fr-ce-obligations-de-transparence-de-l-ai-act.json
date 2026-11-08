@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-obligations-de-transparence-de-l-ai-act",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Obligations de transparence de l'AI Act",
+  "includedEntities": [
+    {
+      "entityName": "AI Act",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "transparence",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "filigrane",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les obligations de transparence et de marquage des contenus générés par IA.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "2 décembre 2026"
+  ],
+  "relatedEntities": [
+    "article 50",
+    "deepfakes",
+    "chatbots"
+  ],
+  "questions": [
+    "Quelle obligation ?",
+    "Quelle application ?",
+    "Quelles sanctions ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#IA",
+    "#TRANSPARENCE"
+  ],
+  "events": [
+    "@ECHEANCE-REGLEMENTAIRE"
+  ],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

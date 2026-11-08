@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (les messageries chiffrées) : Messagerie chiffrée de bout en bout de la fondation Signal, créée par Moxie Marlinspike.",
+  "id": "cyber-signal",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Signal",
+  "entityType": "SOFTWARE",
+  "description": "Messagerie chiffrée de bout en bout de la fondation Signal, créée par Moxie Marlinspike.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "Les historiens de l'informatique considèrent Signal comme une étape des messageries chiffrées.",
+    "Le rapport d'incident cite Signal à plusieurs reprises.",
+    "L'analyste a utilisé Signal pendant l'enquête."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Signal Messenger"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#MESSAGERIESCHIFFREES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Signal"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Moxie Marlinspike",
+    "Protocole Signal",
+    "Pegasus"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-01-01T00:00:00",
+  "endDate": null
+}

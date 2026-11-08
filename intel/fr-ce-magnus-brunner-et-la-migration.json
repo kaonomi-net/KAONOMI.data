@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-magnus-brunner-et-la-migration",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Magnus Brunner et la migration",
+  "includedEntities": [
+    {
+      "entityName": "Magnus Brunner",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "migration",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action du commissaire aux affaires intérieures et à la migration.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "pacte asile",
+    "retours",
+    "Frontex"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel calendrier ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#MIGRATION",
+    "#BRUNNER"
+  ],
+  "events": [],
+  "signals": [
+    "!MIGRATION"
+  ],
+  "isDeleted": false
+}

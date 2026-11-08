@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-droit-d-auteur-et-entrainement-des-modeles",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Droit d'auteur et entraînement des modèles",
+  "includedEntities": [
+    {
+      "entityName": "droit d'auteur",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "entraînement",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "procès",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Surveiller les litiges sur l'usage d'œuvres protégées pour entraîner les IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "éditeurs",
+    "artistes",
+    "New York Times"
+  ],
+  "questions": [
+    "Quelles œuvres sont en cause ?",
+    "Quelle décision du tribunal ?",
+    "Quelle compensation ?"
+  ],
+  "tags": [
+    "#IA",
+    "#DROIT-AUTEUR",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@PROCES"
+  ],
+  "signals": [
+    "!RISQUE-JURIDIQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la gestion des crises) : Journaliste, ancienne ministre belge des Affaires étrangères, commissaire à la Préparation, à la Gestion des crises et à l'Égalité depuis 2024.",
+  "id": "eu-p-lahbib",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Hadja Lahbib",
+  "entityType": "PERSON",
+  "description": "Journaliste, ancienne ministre belge des Affaires étrangères, commissaire à la Préparation, à la Gestion des crises et à l'Égalité depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Hadja Lahbib.",
+    "Les manuels sur les institutions européennes citent Hadja Lahbib.",
+    "Le portrait de Hadja Lahbib figure dans le dossier consacré à la gestion des crises."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Lahbib"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#GESTIONCRISES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Hadja%20Lahbib"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité belge",
+    "Mouvement réformateur (MR)",
+    "Journaliste",
+    "Ministre des Affaires étrangères",
+    "Commissaire européen",
+    "Préparation et gestion des crises ; égalité (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Gestion des crises",
+    "Aide humanitaire",
+    "Égalité",
+    "Direction générale de la protection civile et des opérations d'aide humanitaire européennes",
+    "Autorité de préparation et de réaction en cas d'urgence sanitaire"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

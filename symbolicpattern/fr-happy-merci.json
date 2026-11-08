@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-merci",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le mot qui remercie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:merci(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mille\\s+mercis)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:remerci(er|e|[ée]|[ée]e|ons)|thank\\s+you)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:je\\s+vous\\s+remercie)(?![\\w-])"
+  ],
+  "symbol": "merci",
+  "event": null,
+  "title": "Merci",
+  "tags": [
+    "#GRATITUDE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

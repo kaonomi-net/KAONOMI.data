@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-transparence-salariale",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "transparence salariale",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Égalité et droits des femmes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les politiques européennes d'égalité entre les femmes et les hommes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "transparence salariale",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#EGALITE",
+    "#SOCIAL"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "directive violences",
+    "femmes",
+    "égalité",
+    "violences",
+    "quotas",
+    "Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

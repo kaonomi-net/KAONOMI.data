@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-famine",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "famine",
+  "entityType": "EVENT",
+  "description": "Cité par 3 intels : Guerre au Soudan ; Exportations de céréales ; Crise alimentaire mondiale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre la guerre au Soudan et la crise humanitaire.",
+    "Suivre les exportations de blé et leurs effets sur la sécurité alimentaire.",
+    "Surveiller l'insécurité alimentaire liée aux conflits et au climat."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "famine",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#HUMANITAIRE",
+    "#ALIMENTATION",
+    "#SOUDAN",
+    "#AFRIQUE",
+    "#CEREALES"
+  ],
+  "events": [
+    "@EVOLUTION-CONFLIT",
+    "@ALERTE-HUMANITAIRE"
+  ],
+  "signals": [
+    "!HUMANITAIRE",
+    "!CONFLIT",
+    "!SECURITE-ALIMENTAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "céréales",
+    "Darfour",
+    "Soudan",
+    "Khartoum",
+    "armée soudanaise",
+    "Forces de soutien rapide",
+    "El-Fasher",
+    "réfugiés",
+    "Afrique du Nord",
+    "prix alimentaires"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

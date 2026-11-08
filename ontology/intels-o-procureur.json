@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-procureur",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "procureur",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Mandats de la Cour pénale internationale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les mandats d'arrêt et procédures de la CPI."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "procureur",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#JUSTICE-INTERNATIONALE",
+    "#CPI"
+  ],
+  "events": [
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "crimes de guerre",
+    "Cour pénale internationale",
+    "La Haye",
+    "mandat d'arrêt",
+    "États membres"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

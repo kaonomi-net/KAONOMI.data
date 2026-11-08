@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (les cyberattaques) : Attaque destructrice contre Sony Pictures, accompagnée de fuites de données, attribuée par les États-Unis à la Corée du Nord.",
+  "id": "cyber-sony-hack",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Piratage de Sony Pictures",
+  "entityType": "EVENT",
+  "description": "Attaque destructrice contre Sony Pictures, accompagnée de fuites de données, attribuée par les États-Unis à la Corée du Nord.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "Les journaux de l'époque ont largement commenté l'événement « Piratage de Sony Pictures ».",
+    "L'événement « Piratage de Sony Pictures » a marqué durablement l'histoire des cyberattaques.",
+    "La frise chronologique de la salle de formation place « Piratage de Sony Pictures » en bonne place."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 2,
+  "surpriseLevel": 3,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "attaque contre Sony Pictures"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#CYBERATTAQUES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Piratage%20de%20Sony%20Pictures"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "WannaCry",
+    "Attaque contre TV5Monde"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-11-24T00:00:00",
+  "endDate": "2014-11-24T00:00:00"
+}

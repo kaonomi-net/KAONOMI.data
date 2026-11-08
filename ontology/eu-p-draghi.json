@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la vie politique européenne) : Économiste, président de la Banque centrale européenne (2011-2019) puis président du Conseil italien, auteur du rapport de 2024 sur la compétitivité européenne.",
+  "id": "eu-p-draghi",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Mario Draghi",
+  "entityType": "PERSON",
+  "description": "Économiste, président de la Banque centrale européenne (2011-2019) puis président du Conseil italien, auteur du rapport de 2024 sur la compétitivité européenne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-dirigeants",
+  "sentencesExemples": [
+    "Le portrait de Mario Draghi figure dans le dossier consacré à la vie politique européenne.",
+    "La presse européenne a longuement commenté le parcours de Mario Draghi.",
+    "Les manuels sur les institutions européennes citent Mario Draghi."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Draghi"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#VIEPOLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Mario%20Draghi"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité italienne",
+    "Économiste",
+    "Banquier central",
+    "Chef de gouvernement",
+    "Banque centrale européenne",
+    "Christine Lagarde",
+    "Ursula von der Leyen",
+    "Rapport Draghi sur la compétitivité européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

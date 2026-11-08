@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-reconnaissance-vocale",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Reconnaissance vocale",
+  "includedEntities": [
+    {
+      "entityName": "reconnaissance vocale",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "transcription",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les systèmes qui transcrivent la parole.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Whisper",
+    "assistants vocaux",
+    "sous-titres"
+  ],
+  "questions": [
+    "Quelle précision ?",
+    "Quelles langues ?",
+    "Quelle confidentialité ?"
+  ],
+  "tags": [
+    "#IA",
+    "#VOIX",
+    "#TECHNIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!OPPORTUNITE"
+  ],
+  "isDeleted": false
+}

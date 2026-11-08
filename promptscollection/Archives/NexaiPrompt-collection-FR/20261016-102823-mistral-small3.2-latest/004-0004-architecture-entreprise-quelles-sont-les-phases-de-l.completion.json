@@ -1,0 +1,13 @@
+{
+  "index": 4,
+  "file": "0004-architecture-entreprise-quelles-sont-les-phases-de-l.prompt.json",
+  "prompt": "Quelles sont les phases de l'ADM de TOGAF ?",
+  "promptWords": 9,
+  "completion": "L'ADM (Architecture Development Method) de TOGAF (The Open Group Architecture Framework) est une méthode structurée pour développer une architecture d'entreprise. Elle se compose de huit phases principales :\n\n1. **Phase Pré-ADM (Préparation)** :\n   - Définition du cadre et des objectifs de l'initiative d'architecture.\n   - Identification des parties prenantes et des besoins.\n\n2. **Phase A : Vision de l'architecture** :\n   - Définition des objectifs, des exigences et des contraintes de l'architecture.\n   - Élaboration d'une vision partagée et d'un plan de travail.\n\n3. **Phase B : Architecture de référence** :\n   - Développement de l'architecture de référence basée sur les exigences identifiées.\n   - Identification des lacunes et des opportunités d'amélioration.\n\n4. **Phase C : Architecture cible** :\n   - Définition de l'architecture cible détaillée pour chaque domaine (business, données, applications, technologie).\n   - Alignement avec la vision et les objectifs de l'entreprise.\n\n5. **Phase D : Évaluation de l'architecture** :\n   - Évaluation des impacts et des avantages de l'architecture cible.\n   - Identification des risques et des opportunités.\n\n6. **Phase E : Mise en œuvre de l'architecture** :\n   - Planification et exécution des projets de mise en œuvre.\n   - Gestion des changements et des transitions vers l'architecture cible.\n\n7. **Phase F : Gestion de la conformité** :\n   - Assurance que les solutions mises en œuvre sont conformes à l'architecture cible.\n   - Gestion des écarts et des ajustements nécessaires.\n\n8. **Phase G : Gestion de l'architecture** :\n   - Surveillance continue et amélioration de l'architecture.\n   - Gestion des changements et des évolutions futures.\n\nCes phases sont conçues pour être itératives et adaptables, permettant une approche flexible et structurée pour le développement et la gestion des architectures d'entreprise.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:29:34.3374766+02:00",
+  "durationSeconds": 8.4,
+  "stats": "mistral-small3.2:latest · 522 + 414 tokens · 8,4 s",
+  "isError": false,
+  "language": "FR"
+}

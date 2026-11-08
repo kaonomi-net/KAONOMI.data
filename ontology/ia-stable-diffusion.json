@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (la génération d'images) : Modèle de diffusion latente en poids ouverts pour générer des images à partir de texte, publié par Stability AI.",
+  "id": "ia-stable-diffusion",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "Stable Diffusion",
+  "entityType": "SOFTWARE",
+  "description": "Modèle de diffusion latente en poids ouverts pour générer des images à partir de texte, publié par Stability AI.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé Stable Diffusion avec d'autres outils de la génération d'images.",
+    "Stable Diffusion figure parmi les logiciels marquants de la génération d'images.",
+    "En atelier, les élèves ont découvert Stable Diffusion et ses possibilités."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "SD"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#GENERATIONIMAGES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Stable%20Diffusion"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Diffusion publique de Stable Diffusion",
+    "Modèles de diffusion",
+    "DALL·E",
+    "NVIDIA GeForce RTX 4090"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-journee-mondiale-de-prevention-du-suicide",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Journée mondiale de prévention du suicide",
+  "includedEntities": [
+    {
+      "entityName": "journée mondiale",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "prévention du suicide",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les actions de la journée mondiale de prévention du suicide.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "10 septembre"
+  ],
+  "relatedEntities": [
+    "OMS",
+    "campagnes",
+    "associations"
+  ],
+  "questions": [
+    "Quelle campagne ?",
+    "Quel message ?",
+    "Quels chiffres ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!PREVENTION"
+  ],
+  "isDeleted": false
+}

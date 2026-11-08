@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (le chiffrement électromécanique) : Machine à rotors brevetée par Arthur Scherbius, utilisée par l'armée allemande pendant la Seconde Guerre mondiale.",
+  "id": "cyber-enigma",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Machine Enigma",
+  "entityType": "HARDWARE",
+  "description": "Machine à rotors brevetée par Arthur Scherbius, utilisée par l'armée allemande pendant la Seconde Guerre mondiale.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Pour cet audit, l'équipe a comparé Machine Enigma à d'autres solutions matérielles.",
+    "Machine Enigma a marqué l'histoire du matériel consacré au chiffrement électromécanique.",
+    "La fiche technique de Machine Enigma détaille ses caractéristiques de sécurité."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Enigma"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#CHIFFREMENTELECTROMECANIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Machine%20Enigma"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Reconstitution d'Enigma par le Biuro Szyfrów",
+    "Décryptage à Bletchley Park",
+    "SIGABA",
+    "Machine Purple",
+    "Crypto AG CX-52"
+  ],
+  "isDeleted": false,
+  "startDate": "1923-01-01T00:00:00",
+  "endDate": null
+}

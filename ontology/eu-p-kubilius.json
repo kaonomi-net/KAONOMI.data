@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la défense européenne) : Ancien Premier ministre de Lituanie et député européen, premier commissaire à la Défense et à l'Espace depuis 2024.",
+  "id": "eu-p-kubilius",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Andrius Kubilius",
+  "entityType": "PERSON",
+  "description": "Ancien Premier ministre de Lituanie et député européen, premier commissaire à la Défense et à l'Espace depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Le portrait de Andrius Kubilius figure dans le dossier consacré à la défense européenne.",
+    "La presse européenne a longuement commenté le parcours de Andrius Kubilius.",
+    "Les manuels sur les institutions européennes citent Andrius Kubilius."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Kubilius"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#DEFENSEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Andrius%20Kubilius"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité lituanienne",
+    "Union de la patrie – Chrétiens-démocrates lituaniens",
+    "Chef de gouvernement",
+    "Député européen",
+    "Commissaire européen",
+    "Défense et espace (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Défense",
+    "Espace",
+    "Direction générale de l'industrie de la défense et de l'espace"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

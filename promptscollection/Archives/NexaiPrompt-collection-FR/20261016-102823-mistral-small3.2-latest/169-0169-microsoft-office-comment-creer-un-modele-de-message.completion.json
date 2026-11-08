@@ -1,0 +1,13 @@
+{
+  "index": 169,
+  "file": "0169-microsoft-office-comment-creer-un-modele-de-message.prompt.json",
+  "prompt": "Comment créer un modèle de message dans Outlook ?",
+  "promptWords": 9,
+  "completion": "Créer un modèle de message dans Outlook peut vous faire gagner du temps en réutilisant des formats ou des contenus récurrents. Voici comment procéder :\n\n### **Sur Outlook pour Windows :**\n1. **Ouvrir Outlook** et cliquer sur **Nouveau message** (ou **Nouveau courriel**).\n2. **Rédiger votre message** comme vous le souhaitez (ajoutez le texte, les images, les pièces jointes, etc.).\n3. **Enregistrer le modèle** :\n   - Allez dans l'onglet **Fichier** > **Enregistrer sous**.\n   - Choisissez **Modèle Outlook (*.oft)** comme type de fichier.\n   - Donnez un nom à votre modèle et enregistrez-le dans le dossier **Modèles Outlook** (ou un autre emplacement de votre choix).\n\n4. **Utiliser le modèle** :\n   - Allez dans **Nouveau message** > **Nouveau message à partir du modèle**.\n   - Sélectionnez votre modèle enregistré.\n\n### **Sur Outlook pour Mac :**\n1. **Ouvrir Outlook** et créer un **nouveau message**.\n2. **Rédiger votre message** comme souhaité.\n3. **Enregistrer le modèle** :\n   - Allez dans **Fichier** > **Enregistrer sous**.\n   - Choisissez **Modèle Outlook (*.oft)** et enregistrez-le.\n\n4. **Utiliser le modèle** :\n   - Allez dans **Nouveau message** > **Nouveau message à partir du modèle**.\n   - Sélectionnez votre modèle.\n\n### **Sur Outlook Web (Outlook.com ou Microsoft 365 Online) :**\nOutlook Web ne permet pas directement de créer des modèles, mais vous pouvez :\n- **Copier-coller** un message existant.\n- **Utiliser des signatures** pour des éléments récurrents.\n\nSi vous avez besoin d'aide supplémentaire ou d'une version plus détaillée, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:58:41.4809269+02:00",
+  "durationSeconds": 8.44,
+  "stats": "mistral-small3.2:latest · 516 + 415 tokens · 8,4 s",
+  "isError": false,
+  "language": "FR"
+}

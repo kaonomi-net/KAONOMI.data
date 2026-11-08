@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'administration européenne) : Secrétariat général (SG), service de la Commission européenne compétent pour l'administration européenne, les relations interinstitutionnelles, placé sous l'autorité de Ursula von der Leyen dans la Commission von der Leyen II.",
+  "id": "eu-dg-sg",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Secrétariat général",
+  "entityType": "ORGANISATION",
+  "description": "Secrétariat général (SG), service de la Commission européenne compétent pour l'administration européenne, les relations interinstitutionnelles, placé sous l'autorité de Ursula von der Leyen dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Le rapport annuel de « Secrétariat général » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Secrétariat général ».",
+    "Les décisions de « Secrétariat général » touchent l'administration européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "SG"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#ADMINISTRATIONEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Secr%C3%A9tariat%20g%C3%A9n%C3%A9ral"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Secrétaire général de la Commission",
+    "Commission européenne",
+    "Ursula von der Leyen",
+    "Administration",
+    "Relations interinstitutionnelles",
+    "Paquets omnibus de simplification"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

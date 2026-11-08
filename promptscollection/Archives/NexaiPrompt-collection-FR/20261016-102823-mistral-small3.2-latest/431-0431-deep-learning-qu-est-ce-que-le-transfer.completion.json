@@ -1,0 +1,13 @@
+{
+  "index": 431,
+  "file": "0431-deep-learning-qu-est-ce-que-le-transfer.prompt.json",
+  "prompt": "Qu'est-ce que le transfer learning ?",
+  "promptWords": 6,
+  "completion": "Le *transfer learning* (ou apprentissage par transfert en français) est une technique en apprentissage automatique (machine learning) où un modèle pré-entraîné sur une grande quantité de données est réutilisé pour une nouvelle tâche, souvent avec moins de données disponibles.\n\n### Comment ça marche ?\n1. **Pré-entraînement** : Un modèle est d'abord entraîné sur une tâche source (généralement un grand jeu de données). Par exemple, un modèle de vision par ordinateur pourrait être pré-entraîné sur des millions d'images pour reconnaître des objets courants.\n2. **Transfert** : Les connaissances acquises (les poids des couches du modèle) sont réutilisées pour une nouvelle tâche cible, souvent similaire mais différente. Par exemple, le même modèle pourrait être adapté pour reconnaître des maladies à partir d'images médicales.\n3. **Fine-tuning (affinage)** : Les couches du modèle peuvent être ajustées (fine-tuning) avec les nouvelles données pour améliorer les performances sur la tâche cible.\n\n### Avantages :\n- **Réduction du besoin en données** : Utile lorsque les données de la tâche cible sont limitées.\n- **Gain de temps** : Évite d'entraîner un modèle complexe à partir de zéro.\n- **Meilleures performances** : Les modèles pré-entraînés capturent souvent des caractéristiques générales utiles pour de nombreuses tâches.\n\n### Exemples d'utilisation :\n- **Traitement du langage naturel (NLP)** : Un modèle comme BERT, pré-entraîné sur un grand corpus de texte, peut être adapté pour des tâches comme la classification de sentiments ou la réponse aux questions.\n- **Vision par ordinateur** : Un modèle comme ResNet, pré-entraîné sur ImageNet, peut être utilisé pour des tâches de segmentation d'images médicales.\n\nLe *transfer learning* est particulièrement puissant dans des domaines où les données sont rares ou coûteuses à collecter.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:43:57.9128931+02:00",
+  "durationSeconds": 8.26,
+  "stats": "mistral-small3.2:latest · 515 + 408 tokens · 8,3 s",
+  "isError": false,
+  "language": "FR"
+}

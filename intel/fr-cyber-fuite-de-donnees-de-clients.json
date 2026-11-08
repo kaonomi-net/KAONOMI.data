@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-fuite-de-donnees-de-clients",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Fuite de données de clients",
+  "includedEntities": [
+    {
+      "entityName": "clients",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "fuite",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "enseigne",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les fuites de données de clients d'enseignes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "fidélité",
+    "e-commerce",
+    "hameçonnage"
+  ],
+  "questions": [
+    "Quelle enseigne ?",
+    "Combien de clients ?",
+    "Quelles données ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

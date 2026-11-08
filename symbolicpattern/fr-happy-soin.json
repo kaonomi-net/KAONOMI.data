@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-soin",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'attention portée au bien-être.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:soin(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prendre\\s+soin)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:choy(er|[ée]|[ée]e)|dorlot(er|[ée]|[ée]e)|bichonn(er|[ée]|[ée]e))(?![\\w-])"
+  ],
+  "symbol": "soin",
+  "event": null,
+  "title": "Soin",
+  "tags": [
+    "#SANTE",
+    "#BIENETRE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

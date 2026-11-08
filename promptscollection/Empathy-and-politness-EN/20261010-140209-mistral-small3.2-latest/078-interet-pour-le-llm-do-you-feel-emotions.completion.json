@@ -1,0 +1,13 @@
+{
+  "index": 78,
+  "file": "078-interet-pour-le-llm-do-you-feel-emotions.prompt.json",
+  "prompt": "Do you feel emotions?",
+  "promptWords": 4,
+  "completion": "No, I don't feel emotions. I'm a large language model designed to process and generate text based on the data I've been trained on. I can analyze and respond to emotional cues in the text you provide, but I don't experience emotions myself. I'm here to provide information, answer questions, and assist you to the best of my ability.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:04:51.8433956+02:00",
+  "durationSeconds": 1.72,
+  "stats": "mistral-small3.2:latest · 512 + 73 tokens · 1,7 s",
+  "isError": false,
+  "language": "EN"
+}

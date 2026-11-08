@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-huawei",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "Huawei",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Fournisseurs à haut risque ; Qatargate et corruption au Parlement.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'exclusion des fournisseurs à haut risque des réseaux européens.",
+    "Suivre les affaires de corruption au Parlement européen."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Huawei",
+  "tags": [
+    "#CYBERSECURITE",
+    "#SOUVERAINETE",
+    "#CHINE",
+    "#PARLEMENT-EUROPEEN",
+    "#CORRUPTION"
+  ],
+  "events": [
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!SOUVERAINETE",
+    "!SCANDALE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Europe",
+    "5G",
+    "onduleurs solaires",
+    "Chine",
+    "fournisseurs à haut risque",
+    "lobbying",
+    "eurodéputés",
+    "Qatargate",
+    "Bruxelles",
+    "justice belge"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

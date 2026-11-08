@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-moral-de-la-population-ukrainienne",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Moral de la population ukrainienne",
+  "includedEntities": [
+    {
+      "entityName": "moral",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "population",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "fatigue",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'état d'esprit des Ukrainiens face à la guerre.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "hiver"
+  ],
+  "relatedEntities": [
+    "sondages",
+    "coupures",
+    "négociations"
+  ],
+  "questions": [
+    "Quelle tendance ?",
+    "Quel soutien aux concessions ?",
+    "Quelle fatigue ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#SOCIETE",
+    "#OPINION"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

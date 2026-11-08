@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-kremlin",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Kremlin",
+  "entityType": "LOCATION",
+  "description": "Cité par 17 intels : Délégation russe menée par Medinski ; Projet de sommet Trump-Poutine-Xi ; Concessions territoriales ; Trêve énergétique ; Trêve de Pâques et trêves temporaires ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre le rôle de Vladimir Medinski, négociateur en chef de Moscou.",
+    "Surveiller l'idée d'un sommet entre les dirigeants américain, russe et chinois.",
+    "Suivre le débat sur d'éventuelles cessions de territoires dans un accord."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 6,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Kremlin",
+  "tags": [
+    "#RUSSIE",
+    "#ETATS-UNIS",
+    "#UKRAINE",
+    "#DIPLOMATIE",
+    "#NEGOCIATIONS",
+    "#KREMLIN"
+  ],
+  "events": [
+    "@DECLARATION",
+    "@SOMMET",
+    "@TREVE"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!BLOCAGE",
+    "!DESESCALADE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Poutine",
+    "Moscou",
+    "Ukraine",
+    "Trump",
+    "Peskov",
+    "négociations",
+    "Abou Dhabi",
+    "sommet",
+    "trêve",
+    "Lavrov"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

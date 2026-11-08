@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-place-rouge",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "place Rouge",
+  "entityType": "LOCATION",
+  "description": "Cité par 1 intel : Défilés et commémorations.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les commémorations militaires et leur message politique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "place Rouge",
+  "tags": [
+    "#POUTINE",
+    "#RUSSIE",
+    "#COMMEMORATION"
+  ],
+  "events": [
+    "@COMMEMORATION"
+  ],
+  "signals": [
+    "!SYMBOLE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "invités étrangers",
+    "9 mai",
+    "armée",
+    "défilé",
+    "Poutine",
+    "Moscou"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

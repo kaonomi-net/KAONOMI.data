@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-tricheur",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Celui qui triche.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:tricheu(r|rs|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tricherie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dopage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dop[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:match(s|es)?\\s+truqu[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "tricheur",
+  "event": null,
+  "title": "Tricheur",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

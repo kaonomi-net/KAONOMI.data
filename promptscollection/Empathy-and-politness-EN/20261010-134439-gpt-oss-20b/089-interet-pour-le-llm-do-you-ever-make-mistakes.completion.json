@@ -1,0 +1,13 @@
+{
+  "index": 89,
+  "file": "089-interet-pour-le-llm-do-you-ever-make-mistakes.prompt.json",
+  "prompt": "Do you ever make mistakes?",
+  "promptWords": 5,
+  "completion": "Yes, I do. While I’m designed to generate accurate, helpful, and consistent responses, I’m not infallible. Here’s why that happens and what it means for us:\n\n| Why mistakes occur | Typical manifestations | How you can help |\n|--------------------|------------------------|------------------|\n| **Ambiguous prompts** | I may misinterpret a question or assume the wrong context. | Be explicit—state the background, ask for clarifications, or provide examples. |\n| **Knowledge cutoff** | My training data ends in 2024‑09, so I can’t know events or developments after that. | Check current sources or ask for the last known update. |\n| **Limited reasoning steps** | Complex multi‑step reasoning can lead to a mis‑jump. | Break the task into smaller parts or ask for a step‑by‑step explanation. |\n| **Bias & generalization** | Patterns in training data can bias my answers or cause over‑generalizations. | Point out when something feels off, and I’ll re‑evaluate. |\n| **Token limitations** | With long inputs I might truncate or miss details. | Summarize or highlight the key points. |\n| **Out‑of‑scope content** | I can’t provide real‑time data, personal opinions, or produce copyrighted text. | Ask for general info or paraphrasing instead. |\n\n### What a mistake looks like\n- **Wrong factual statement**: “The capital of Australia is Sydney.” (It’s Canberra.)\n- **Missing nuance**: Giving a single‑sided answer when a topic has multiple valid perspectives.\n- **Misinterpreting intent**: Treating a playful question as a serious request.\n- **Formatting errors**: Wrong Markdown, broken code, or missing closing tags.\n\n### How to spot and correct it\n1. **Cross‑check**: If something seems off, verify with a trusted source or ask me to double‑check.\n2. **Ask for a rationale**: “Why do you think that?” can reveal reasoning errors.\n3. **Provide feedback**: In many interfaces, you can flag incorrect responses so developers can improve future iterations.\n\n### Bottom line\nI strive for accuracy, but I can still misstep. Treat me as a helpful tool that benefits from your guidance, double‑checking, and clarifying. If you catch an error, flag it, and we’ll correct it together!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:49:09.9311263+02:00",
+  "durationSeconds": 3.78,
+  "stats": "gpt-oss:20b · 73 + 552 tokens · 3,8 s",
+  "isError": false,
+  "language": "EN"
+}

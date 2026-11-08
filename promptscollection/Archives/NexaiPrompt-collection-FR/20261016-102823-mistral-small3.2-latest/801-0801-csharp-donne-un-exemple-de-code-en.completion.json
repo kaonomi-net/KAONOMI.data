@@ -1,0 +1,13 @@
+{
+  "index": 801,
+  "file": "0801-csharp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C# qui illustre les tâches (Task) et le parallélisme.",
+  "promptWords": 15,
+  "completion": "Voici un exemple de code en C# qui illustre l'utilisation des tâches (`Task`) et le parallélisme avec `Parallel.ForEach` :\n\n```csharp\nusing System;\nusing System.Collections.Generic;\nusing System.Threading.Tasks;\n\nclass Program\n{\n    static async Task Main(string[] args)\n    {\n        Console.WriteLine(\"Début du programme principal\");\n\n        // Exemple 1: Utilisation de Task.Run pour exécuter une tâche asynchrone\n        Task<int> task1 = Task.Run(() =>\n        {\n            Console.WriteLine(\"Tâche 1 exécutée de manière asynchrone\");\n            return 42;\n        });\n\n        // Exemple 2: Utilisation de Parallel.ForEach pour le parallélisme\n        var items = new List<int> { 1, 2, 3, 4, 5 };\n        Parallel.ForEach(items, item =>\n        {\n            Console.WriteLine($\"Traitement de l'élément {item} dans un thread parallèle\");\n        });\n\n        // Attendre la fin de la tâche 1\n        int result = await task1;\n        Console.WriteLine($\"Résultat de la tâche 1: {result}\");\n\n        Console.WriteLine(\"Fin du programme principal\");\n    }\n}\n```\n\n### Explications :\n\n1. **Task.Run** :\n   - Crée une tâche asynchrone qui s'exécute sur le pool de threads.\n   - La méthode `Task.Run` est utilisée pour encapsuler le code dans une tâche.\n\n2. **Parallel.ForEach** :\n   - Permet d'itérer sur une collection en parallèle.\n   - Chaque itération peut s'exécuter sur un thread différent, ce qui permet de tirer parti des processeurs multi-cœurs.\n\n3. **await** :\n   - Utilisé pour attendre la fin de la tâche asynchrone (`task1`).\n   - Permet de récupérer le résultat de la tâche une fois qu'elle est terminée.\n\nCe code montre comment combiner les tâches asynchrones et le parallélisme pour améliorer les performances d'une application C#.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:16:15.3901005+02:00",
+  "durationSeconds": 8.89,
+  "stats": "mistral-small3.2:latest · 531 + 437 tokens · 8,9 s",
+  "isError": false,
+  "language": "FR"
+}

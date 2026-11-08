@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la sécurité alimentaire) : Stratégie pour un système alimentaire équitable, sain et respectueux de l'environnement.",
+  "id": "eu-pol-ferme-table",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Stratégie « De la ferme à la table »",
+  "entityType": "LAW",
+  "description": "Stratégie pour un système alimentaire équitable, sain et respectueux de l'environnement.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "La mise en œuvre de « Stratégie « De la ferme à la table » » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Stratégie « De la ferme à la table » ».",
+    "Les juristes de la Commission ont commenté « Stratégie « De la ferme à la table » »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "Farm to Fork"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#SECURITEALIMENTAIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Strat%C3%A9gie%20%C2%AB%20De%20la%20ferme%20%C3%A0%20la%20table%20%C2%BB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Sécurité alimentaire",
+    "Agriculture",
+    "Direction générale de la santé et de la sécurité alimentaire",
+    "Commission von der Leyen I",
+    "Pacte vert pour l'Europe"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-05-20T00:00:00",
+  "endDate": null
+}

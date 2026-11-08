@@ -1,0 +1,13 @@
+{
+  "index": 80,
+  "file": "100-mathematiques-qu-est-ce-qu-une-matrice.prompt.json",
+  "prompt": "Qu'est-ce qu'une matrice et à quoi sert-elle ?",
+  "promptWords": 8,
+  "completion": "Une matrice est un tableau rectangulaire de nombres, de symboles ou d'expressions, organisé en lignes et en colonnes. Elle est utilisée dans de nombreux domaines des mathématiques, de la physique, de l'ingénierie, de l'informatique et même en économie.\n\n### À quoi sert une matrice ?\n1. **Algèbre linéaire** : Les matrices sont fondamentales en algèbre linéaire pour représenter des transformations linéaires, des systèmes d'équations linéaires, et des espaces vectoriels.\n2. **Résolution de systèmes d'équations** : Elles permettent de résoudre des systèmes d'équations linéaires de manière efficace, par exemple en utilisant la méthode de Gauss-Jordan.\n3. **Graphes et réseaux** : Les matrices d'adjacence représentent les connexions entre les nœuds d'un graphe.\n4. **Traitement d'images** : Les images numériques peuvent être représentées sous forme de matrices, où chaque pixel est un élément de la matrice.\n5. **Apprentissage automatique** : Les matrices sont utilisées pour représenter des données, des poids dans les réseaux de neurones, et des transformations dans les algorithmes de machine learning.\n6. **Physique et ingénierie** : Elles modélisent des systèmes dynamiques, des tenseurs en relativité, et des propriétés matérielles.\n\n### Exemple simple\nUne matrice de taille \\( m \\times n \\) (lue \"m par n\") a \\( m \\) lignes et \\( n \\) colonnes. Par exemple :\n\n\\[\n\\begin{pmatrix}\n1 & 2 & 3 \\\\\n4 & 5 & 6 \\\\\n\\end{pmatrix}\n\\]\n\nest une matrice \\( 2 \\times 3 \\).\n\nSi tu as un domaine spécifique en tête, je peux te donner plus de détails sur l'utilisation des matrices dans ce contexte !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:30:32.5663392+02:00",
+  "durationSeconds": 9.02,
+  "stats": "mistral-small3.2:latest · 519 + 383 tokens · 9,0 s",
+  "isError": false,
+  "language": "FR"
+}

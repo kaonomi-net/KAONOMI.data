@@ -1,0 +1,56 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-evaluations",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "évaluations",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Capacités cyber des modèles d'IA ; Benchmarks cyber pour l'IA.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'évaluation des capacités offensives des modèles d'IA.",
+    "Suivre les bancs d'essai qui mesurent les capacités cyber des IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "évaluations",
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#SECURITE-IA",
+    "#EVALUATION"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE",
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "restrictions de diffusion",
+    "laboratoires",
+    "modèles d'IA",
+    "capacités cyber",
+    "CTF",
+    "Cybench",
+    "CVE-bench",
+    "IA",
+    "benchmark"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

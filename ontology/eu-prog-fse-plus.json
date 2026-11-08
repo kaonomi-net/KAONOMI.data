@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (l'emploi) : Principal instrument de l'Union pour investir dans les personnes.",
+  "id": "eu-prog-fse-plus",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Fonds social européen plus",
+  "entityType": "PROGRAMME",
+  "description": "Principal instrument de l'Union pour investir dans les personnes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "L'appel à propositions de « Fonds social européen plus » est ouvert.",
+    "La Commission gère « Fonds social européen plus » avec les États membres ou ses agences.",
+    "Les bénéficiaires de « Fonds social européen plus » sont publiés en ligne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "FSE+"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fonds%20social%20europ%C3%A9en%20plus"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de l'emploi, des affaires sociales et de l'inclusion",
+    "Emploi et droits sociaux",
+    "Compétences",
+    "Cadre financier pluriannuel 2021-2027"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-01-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

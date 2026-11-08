@@ -1,0 +1,69 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (le budget de l'Union) : Ancien représentant permanent de la Pologne auprès de l'Union européenne, commissaire au Budget, à la Lutte antifraude et à l'Administration publique depuis 2024.",
+  "id": "eu-p-serafin",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Piotr Serafin",
+  "entityType": "PERSON",
+  "description": "Ancien représentant permanent de la Pologne auprès de l'Union européenne, commissaire au Budget, à la Lutte antifraude et à l'Administration publique depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Lors du point de presse de midi, une question portait sur Piotr Serafin.",
+    "Piotr Serafin est une figure de le budget de l'Union.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Piotr Serafin."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Serafin"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#BUDGETUNION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Piotr%20Serafin"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité polonaise",
+    "Diplomate",
+    "Fonctionnaire européen",
+    "Commissaire européen",
+    "Budget, lutte antifraude et administration publique (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Budget",
+    "Lutte antifraude",
+    "Administration",
+    "Direction générale du budget",
+    "Direction générale des ressources humaines et de la sécurité",
+    "Direction générale de l'informatique",
+    "Office européen de lutte antifraude",
+    "Service d'audit interne",
+    "Direction générale de la traduction",
+    "Direction générale de l'interprétation",
+    "Office de gestion et de liquidation des droits individuels",
+    "Office pour les infrastructures et la logistique à Bruxelles",
+    "Office pour les infrastructures et la logistique à Luxembourg",
+    "Office des publications de l'Union européenne",
+    "Office européen de sélection du personnel"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

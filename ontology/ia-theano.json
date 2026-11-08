@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les bibliothèques d'apprentissage profond) : Bibliothèque Python de calcul symbolique du MILA de Montréal, pionnière de la différentiation automatique sur GPU.",
+  "id": "ia-theano",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "Theano",
+  "entityType": "SOFTWARE",
+  "description": "Bibliothèque Python de calcul symbolique du MILA de Montréal, pionnière de la différentiation automatique sur GPU.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé Theano avec d'autres outils des bibliothèques d'apprentissage profond.",
+    "Theano figure parmi les logiciels marquants des bibliothèques d'apprentissage profond.",
+    "En atelier, les élèves ont découvert Theano et ses possibilités."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Theano"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#BIBLIOTHEQUESAPPRENTISSAGEPROF"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Theano"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "TensorFlow",
+    "Yoshua Bengio"
+  ],
+  "isDeleted": false,
+  "startDate": "2007-01-01T00:00:00",
+  "endDate": null
+}

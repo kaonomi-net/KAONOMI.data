@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-decision-de-la-fed-sur-les-taux",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Décision de la Fed sur les taux",
+  "includedEntities": [
+    {
+      "entityName": "Fed",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "taux",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Réserve fédérale",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions de la Réserve fédérale américaine.",
+  "isFuzzy": false,
+  "locations": [
+    "Washington"
+  ],
+  "times": [
+    "réunions du FOMC"
+  ],
+  "relatedEntities": [
+    "taux à 3,75-4,00 %",
+    "inflation",
+    "emploi"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Combien de dissidents ?",
+    "Quelle trajectoire ?"
+  ],
+  "tags": [
+    "#FED",
+    "#TAUX"
+  ],
+  "events": [
+    "@DECISION-TAUX"
+  ],
+  "signals": [
+    "!POLITIQUE-MONETAIRE"
+  ],
+  "isDeleted": false
+}

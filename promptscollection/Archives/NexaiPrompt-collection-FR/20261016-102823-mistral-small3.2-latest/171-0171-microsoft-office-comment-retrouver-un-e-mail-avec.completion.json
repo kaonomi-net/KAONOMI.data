@@ -1,0 +1,13 @@
+{
+  "index": 171,
+  "file": "0171-microsoft-office-comment-retrouver-un-e-mail-avec.prompt.json",
+  "prompt": "Comment retrouver un e-mail avec la recherche avancée dans Outlook ?",
+  "promptWords": 11,
+  "completion": "Pour retrouver un e-mail avec la recherche avancée dans Outlook, vous pouvez suivre ces étapes :\n\n1. **Ouvrir la boîte de recherche** :\n   - Dans Outlook, cliquez sur la barre de recherche en haut de la fenêtre (généralement située à côté de l'icône de la loupe).\n\n2. **Accéder à la recherche avancée** :\n   - Après avoir cliqué sur la barre de recherche, vous verrez une option pour \"Recherche avancée\" ou \"Options de recherche\" (cela peut varier selon la version d'Outlook). Cliquez dessus.\n\n3. **Utiliser les critères de recherche avancée** :\n   - Dans la fenêtre de recherche avancée, vous pouvez spécifier plusieurs critères pour affiner votre recherche, tels que :\n     - **De** : L'expéditeur de l'e-mail.\n     - **À** : Le destinataire de l'e-mail.\n     - **Objet** : Le sujet de l'e-mail.\n     - **Corps** : Le contenu de l'e-mail.\n     - **Date reçue** : La plage de dates pendant laquelle l'e-mail a été reçu.\n     - **Taille** : La taille de l'e-mail.\n     - **Avoir des pièces jointes** : Pour rechercher les e-mails avec pièces jointes.\n     - **Catégorie** : Les catégories attribuées à l'e-mail.\n\n4. **Appliquer les filtres** :\n   - Remplissez les champs appropriés avec les informations que vous connaissez sur l'e-mail que vous recherchez.\n   - Cliquez sur \"Rechercher\" ou \"OK\" pour lancer la recherche.\n\n5. **Affiner les résultats** :\n   - Si les résultats ne sont pas suffisamment précis, vous pouvez ajouter ou modifier des critères et relancer la recherche.\n\n6. **Utiliser des mots-clés spécifiques** :\n   - Si vous connaissez des mots-clés spécifiques présents dans l'e-mail, vous pouvez les saisir directement dans la barre de recherche principale pour une recherche rapide.\n\nCes étapes devraient vous aider à retrouver rapidement l'e-mail que vous cherchez dans Outlook. Si vous avez besoin d'informations plus spécifiques ou si vous utilisez une version particulière d'Outlook, n'hésitez pas à me le préciser !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:58:56.78757+02:00",
+  "durationSeconds": 9.86,
+  "stats": "mistral-small3.2:latest · 520 + 485 tokens · 9,9 s",
+  "isError": false,
+  "language": "FR"
+}

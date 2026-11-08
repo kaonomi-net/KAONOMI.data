@@ -1,0 +1,13 @@
+{
+  "index": 128,
+  "file": "0128-microsoft-office-comment-proteger-certaines-cellules-d-une.prompt.json",
+  "prompt": "Comment protéger certaines cellules d'une feuille dans Excel ?",
+  "promptWords": 9,
+  "completion": "Pour protéger certaines cellules d'une feuille dans Excel, suivez ces étapes :\n\n1. **Sélectionnez les cellules à protéger** :\n   - Cliquez et faites glisser pour sélectionner les cellules que vous souhaitez protéger.\n\n2. **Ouvrez l'onglet \"Accueil\"** :\n   - Allez dans l'onglet \"Accueil\" dans le ruban en haut de l'écran.\n\n3. **Cliquez sur \"Format de cellule\"** :\n   - Dans le groupe \"Cellules\", cliquez sur \"Format de cellule\" (ou utilisez le raccourci `Ctrl + 1`).\n\n4. **Accédez à l'onglet \"Protection\"** :\n   - Dans la fenêtre \"Format de cellule\", allez à l'onglet \"Protection\".\n\n5. **Décochez \"Verrouillée\"** :\n   - Décochez la case \"Verrouillée\" pour les cellules que vous ne souhaitez pas protéger. Par défaut, toutes les cellules sont verrouillées.\n\n6. **Protégez la feuille** :\n   - Fermez la fenêtre \"Format de cellule\".\n   - Allez dans l'onglet \"Révision\" dans le ruban.\n   - Cliquez sur \"Protéger la feuille\".\n   - Dans la fenêtre \"Protéger la feuille\", vous pouvez définir un mot de passe (facultatif) et choisir les options de protection (par exemple, autoriser la sélection des cellules verrouillées ou non).\n\n7. **Validez** :\n   - Cliquez sur \"OK\" pour appliquer la protection.\n\nMaintenant, seules les cellules non verrouillées pourront être modifiées, tandis que les autres seront protégées.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:52:30.9919835+02:00",
+  "durationSeconds": 7.32,
+  "stats": "mistral-small3.2:latest · 517 + 356 tokens · 7,3 s",
+  "isError": false,
+  "language": "FR"
+}

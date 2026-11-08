@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-otice",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "OTICE",
+  "entityType": "LAW",
+  "description": "Cité par 1 intel : Essai nucléaire.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Détecter les annonces ou indices d'essais nucléaires."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 100,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "OTICE",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#NUCLEAIRE"
+  ],
+  "events": [
+    "@ESSAI-NUCLEAIRE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!FEAR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sismographes",
+    "explosion",
+    "essai nucléaire",
+    "Corée du Nord"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

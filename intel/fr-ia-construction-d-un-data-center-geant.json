@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-construction-d-un-data-center-geant",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Construction d'un data center géant",
+  "includedEntities": [
+    {
+      "entityName": "data center",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "construction",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "gigawatt",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre la construction des grands centres de données pour l'IA.",
+  "isFuzzy": true,
+  "locations": [
+    "Texas",
+    "France",
+    "Émirats arabes unis"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Stargate",
+    "électricité",
+    "refroidissement"
+  ],
+  "questions": [
+    "Quelle puissance ?",
+    "Quel coût ?",
+    "Quel impact local ?"
+  ],
+  "tags": [
+    "#IA",
+    "#DATA-CENTER",
+    "#INFRASTRUCTURE"
+  ],
+  "events": [
+    "@PROJET-INFRASTRUCTURE"
+  ],
+  "signals": [
+    "!INVESTISSEMENT"
+  ],
+  "isDeleted": false
+}

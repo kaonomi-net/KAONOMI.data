@@ -1,0 +1,64 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la transformation numérique) : Députée européenne, commissaire à l'Économie numérique (2017-2019) puis à l'Innovation, la recherche, la culture, l'éducation et la jeunesse (2019-2023), devenue ministre bulgare des Affaires étrangères en 2023.",
+  "id": "eu-p-gabriel",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Mariya Gabriel",
+  "entityType": "PERSON",
+  "description": "Députée européenne, commissaire à l'Économie numérique (2017-2019) puis à l'Innovation, la recherche, la culture, l'éducation et la jeunesse (2019-2023), devenue ministre bulgare des Affaires étrangères en 2023.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Mariya Gabriel est une figure de la transformation numérique.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Mariya Gabriel.",
+    "Lors du point de presse de midi, une question portait sur Mariya Gabriel."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Gabriel"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#TRANSFORMATIONNUMERIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Mariya%20Gabriel"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité bulgare",
+    "GERB",
+    "Député européen",
+    "Ministre des Affaires étrangères",
+    "Commissaire européen",
+    "Innovation, recherche, culture, éducation et jeunesse (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Innovation",
+    "Recherche",
+    "Culture",
+    "Éducation",
+    "Jeunesse",
+    "Économie et société numériques (Commission Juncker)",
+    "Commission Juncker",
+    "Numérique",
+    "Iliana Ivanova"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

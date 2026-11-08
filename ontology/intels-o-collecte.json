@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-collecte",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "collecte",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Assurance-vie ; Livret A ; Plan d'épargne retraite.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la collecte et les rendements de l'assurance-vie.",
+    "Suivre le taux et la collecte du Livret A.",
+    "Suivre le PER et l'épargne retraite."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "collecte",
+  "tags": [
+    "#EPARGNE",
+    "#FRANCE",
+    "#RETRAITE"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!EPARGNE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "taux",
+    "fonds euros",
+    "unités de compte",
+    "assurance-vie",
+    "inflation",
+    "Banque de France",
+    "livret A",
+    "PER",
+    "réforme"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

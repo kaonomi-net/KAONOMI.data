@@ -1,0 +1,72 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les relations interinstitutionnelles) : Diplomate slovaque, membre de la Commission sans interruption depuis 2009 : relations interinstitutionnelles, union de l'énergie, Pacte vert, puis commerce et sécurité économique.",
+  "id": "eu-p-sefcovic",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Maroš Šefčovič",
+  "entityType": "PERSON",
+  "description": "Diplomate slovaque, membre de la Commission sans interruption depuis 2009 : relations interinstitutionnelles, union de l'énergie, Pacte vert, puis commerce et sécurité économique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Maroš Šefčovič.",
+    "Lors du point de presse de midi, une question portait sur Maroš Šefčovič.",
+    "Maroš Šefčovič est une figure de les relations interinstitutionnelles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Šefčovič",
+    "Sefcovic"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#RELATIONSINTERINSTITUTIONNELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Maro%C5%A1%20%C5%A0ef%C4%8Dovi%C4%8D"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité slovaque",
+    "Diplomate",
+    "Commissaire européen",
+    "Relations interinstitutionnelles et prospective, puis Pacte vert (Commission von der Leyen I)",
+    "Vice-président de la Commission",
+    "Commission von der Leyen I",
+    "Relations interinstitutionnelles",
+    "Prospective stratégique",
+    "Pacte vert",
+    "Commerce et sécurité économique ; relations interinstitutionnelles et transparence (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Commerce",
+    "Sécurité économique",
+    "Union de l'énergie (Commission Juncker)",
+    "Commission Juncker",
+    "Énergie",
+    "Relations interinstitutionnelles et administration (Commission Barroso II)",
+    "Commission Barroso II",
+    "Administration",
+    "Ursula von der Leyen",
+    "Direction générale du commerce et de la sécurité économique",
+    "Départ de Frans Timmermans de la Commission",
+    "Accord commercial UE–États-Unis de Turnberry"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

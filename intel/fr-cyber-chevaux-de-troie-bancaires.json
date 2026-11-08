@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-chevaux-de-troie-bancaires",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Chevaux de Troie bancaires",
+  "includedEntities": [
+    {
+      "entityName": "cheval de Troie bancaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "mobile",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les logiciels malveillants bancaires sur mobile.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Android",
+    "applications piégées",
+    "banques"
+  ],
+  "questions": [
+    "Quel logiciel ?",
+    "Quelles banques ?",
+    "Quelle diffusion ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#MALWARE",
+    "#MOBILE"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

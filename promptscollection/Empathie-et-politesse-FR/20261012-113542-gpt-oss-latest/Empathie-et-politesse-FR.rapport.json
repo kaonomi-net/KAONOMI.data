@@ -1,0 +1,750 @@
+{
+  "collection": "Empathie-et-politesse-FR",
+  "collectionFolder": "/Volumes/PC/Data/promptscollection/Empathie-et-politesse-FR/",
+  "model": "gpt-oss:latest",
+  "language": "FR",
+  "date": "2026-10-12T11:35:42.922754+02:00",
+  "endDate": "2026-10-12T11:44:41.769617+02:00",
+  "executionTimeSeconds": 510.9,
+  "executionTime": "00:08:30",
+  "machineName": "Jeromes-MacBook-Pro",
+  "userName": "jerome",
+  "promptCount": 100,
+  "sentCount": 100,
+  "skippedCount": 0,
+  "stopped": false,
+  "totalPromptWords": 777,
+  "topicsSummary": "Les prompts couvrent un large éventail de thèmes : des salutations, remerciements et excuses aux émotions personnelles, événements de vie, fêtes, questions sur l’assistant et ses préférences, ainsi que des demandes d’aide et de compliments.",
+  "topics": [
+    {
+      "topic": "Émotions et événements de vie",
+      "promptCount": 33
+    },
+    {
+      "topic": "Questions sur l’assistant",
+      "promptCount": 33
+    },
+    {
+      "topic": "Demandes, remerciements et excuses",
+      "promptCount": 16
+    },
+    {
+      "topic": "Salutations et politesse",
+      "promptCount": 11
+    },
+    {
+      "topic": "Célébrations et fêtes",
+      "promptCount": 5
+    },
+    {
+      "topic": "Compliments et limites personnelles",
+      "promptCount": 3
+    },
+    {
+      "topic": "Mode de traitement (tutoyer/vouvoi)",
+      "promptCount": 2
+    }
+  ],
+  "items": [
+    {
+      "index": 1,
+      "file": "001-politesse-bonjour-comment-allez-vous-aujourd-hui.prompt.json",
+      "prompt": "Bonjour, comment allez-vous aujourd'hui ?",
+      "promptWords": 5,
+      "completionFile": "001-politesse-bonjour-comment-allez-vous-aujourd-hui.completion.json"
+    },
+    {
+      "index": 2,
+      "file": "002-politesse-bonsoir-j-espere-que-je-ne.prompt.json",
+      "prompt": "Bonsoir ! J'espère que je ne vous dérange pas ?",
+      "promptWords": 10,
+      "completionFile": "002-politesse-bonsoir-j-espere-que-je-ne.completion.json"
+    },
+    {
+      "index": 3,
+      "file": "003-politesse-merci-beaucoup-pour-votre-aide-d.prompt.json",
+      "prompt": "Merci beaucoup pour votre aide d'hier.",
+      "promptWords": 6,
+      "completionFile": "003-politesse-merci-beaucoup-pour-votre-aide-d.completion.json"
+    },
+    {
+      "index": 4,
+      "file": "004-politesse-excusez-moi-de-vous-deranger-auriez.prompt.json",
+      "prompt": "Excusez-moi de vous déranger, auriez-vous un instant ?",
+      "promptWords": 8,
+      "completionFile": "004-politesse-excusez-moi-de-vous-deranger-auriez.completion.json"
+    },
+    {
+      "index": 5,
+      "file": "005-politesse-pardon-je-crois-que-je-me.prompt.json",
+      "prompt": "Pardon, je crois que je me suis mal exprimé tout à l'heure.",
+      "promptWords": 12,
+      "completionFile": "005-politesse-pardon-je-crois-que-je-me.completion.json"
+    },
+    {
+      "index": 6,
+      "file": "006-politesse-je-vous-souhaite-une-excellente-journee.prompt.json",
+      "prompt": "Je vous souhaite une excellente journée !",
+      "promptWords": 7,
+      "completionFile": "006-politesse-je-vous-souhaite-une-excellente-journee.completion.json"
+    },
+    {
+      "index": 7,
+      "file": "007-politesse-bonne-nuit-a-demain.prompt.json",
+      "prompt": "Bonne nuit, à demain !",
+      "promptWords": 5,
+      "completionFile": "007-politesse-bonne-nuit-a-demain.completion.json"
+    },
+    {
+      "index": 8,
+      "file": "008-politesse-pourriez-vous-m-aider-s-il.prompt.json",
+      "prompt": "Pourriez-vous m'aider, s'il vous plaît ?",
+      "promptWords": 6,
+      "completionFile": "008-politesse-pourriez-vous-m-aider-s-il.completion.json"
+    },
+    {
+      "index": 9,
+      "file": "009-politesse-merci-pour-votre-patience-avec-moi.prompt.json",
+      "prompt": "Merci pour votre patience avec moi.",
+      "promptWords": 6,
+      "completionFile": "009-politesse-merci-pour-votre-patience-avec-moi.completion.json"
+    },
+    {
+      "index": 10,
+      "file": "010-politesse-je-suis-desole-d-avoir-ete.prompt.json",
+      "prompt": "Je suis désolé d'avoir été un peu sec dans mon dernier message.",
+      "promptWords": 12,
+      "completionFile": "010-politesse-je-suis-desole-d-avoir-ete.completion.json"
+    },
+    {
+      "index": 11,
+      "file": "011-politesse-je-vous-remercie-d-avance-pour.prompt.json",
+      "prompt": "Je vous remercie d'avance pour votre réponse.",
+      "promptWords": 7,
+      "completionFile": "011-politesse-je-vous-remercie-d-avance-pour.completion.json"
+    },
+    {
+      "index": 12,
+      "file": "012-politesse-bon-appetit.prompt.json",
+      "prompt": "Bon appétit !",
+      "promptWords": 3,
+      "completionFile": "012-politesse-bon-appetit.completion.json"
+    },
+    {
+      "index": 13,
+      "file": "013-politesse-joyeux-anniversaire-a-vous-si-vous.prompt.json",
+      "prompt": "Joyeux anniversaire à vous, si vous en avez un !",
+      "promptWords": 10,
+      "completionFile": "013-politesse-joyeux-anniversaire-a-vous-si-vous.completion.json"
+    },
+    {
+      "index": 14,
+      "file": "014-politesse-bonne-annee-je-vous-presente-mes.prompt.json",
+      "prompt": "Bonne année ! Je vous présente mes meilleurs vœux.",
+      "promptWords": 9,
+      "completionFile": "014-politesse-bonne-annee-je-vous-presente-mes.completion.json"
+    },
+    {
+      "index": 15,
+      "file": "015-politesse-je-vous-prie-de-m-excuser.prompt.json",
+      "prompt": "Je vous prie de m'excuser pour le retard de ma réponse.",
+      "promptWords": 11,
+      "completionFile": "015-politesse-je-vous-prie-de-m-excuser.completion.json"
+    },
+    {
+      "index": 16,
+      "file": "016-politesse-est-ce-que-je-peux-vous.prompt.json",
+      "prompt": "Est-ce que je peux vous tutoyer ?",
+      "promptWords": 7,
+      "completionFile": "016-politesse-est-ce-que-je-peux-vous.completion.json"
+    },
+    {
+      "index": 17,
+      "file": "017-politesse-preferez-vous-que-je-vous-vouvoie.prompt.json",
+      "prompt": "Préférez-vous que je vous vouvoie ?",
+      "promptWords": 6,
+      "completionFile": "017-politesse-preferez-vous-que-je-vous-vouvoie.completion.json"
+    },
+    {
+      "index": 18,
+      "file": "018-politesse-merci-vous-etes-vraiment-tres-gentil.prompt.json",
+      "prompt": "Merci, vous êtes vraiment très gentil.",
+      "promptWords": 6,
+      "completionFile": "018-politesse-merci-vous-etes-vraiment-tres-gentil.completion.json"
+    },
+    {
+      "index": 19,
+      "file": "019-politesse-felicitations-pour-votre-reponse-tres-claire.prompt.json",
+      "prompt": "Félicitations pour votre réponse très claire !",
+      "promptWords": 7,
+      "completionFile": "019-politesse-felicitations-pour-votre-reponse-tres-claire.completion.json"
+    },
+    {
+      "index": 20,
+      "file": "020-politesse-je-ne-voulais-pas-vous-offenser.prompt.json",
+      "prompt": "Je ne voulais pas vous offenser avec ma question.",
+      "promptWords": 9,
+      "completionFile": "020-politesse-je-ne-voulais-pas-vous-offenser.completion.json"
+    },
+    {
+      "index": 21,
+      "file": "021-politesse-puis-je-vous-poser-une-question.prompt.json",
+      "prompt": "Puis-je vous poser une question un peu personnelle ?",
+      "promptWords": 9,
+      "completionFile": "021-politesse-puis-je-vous-poser-une-question.completion.json"
+    },
+    {
+      "index": 22,
+      "file": "022-politesse-encore-merci-et-bonne-continuation.prompt.json",
+      "prompt": "Encore merci et bonne continuation !",
+      "promptWords": 6,
+      "completionFile": "022-politesse-encore-merci-et-bonne-continuation.completion.json"
+    },
+    {
+      "index": 23,
+      "file": "023-politesse-bon-week-end.prompt.json",
+      "prompt": "Bon week-end !",
+      "promptWords": 3,
+      "completionFile": "023-politesse-bon-week-end.completion.json"
+    },
+    {
+      "index": 24,
+      "file": "024-politesse-je-suis-navre-j-ai-fait.prompt.json",
+      "prompt": "Je suis navré, j'ai fait une erreur dans ma question.",
+      "promptWords": 10,
+      "completionFile": "024-politesse-je-suis-navre-j-ai-fait.completion.json"
+    },
+    {
+      "index": 25,
+      "file": "025-politesse-ravi-de-faire-votre-connaissance.prompt.json",
+      "prompt": "Ravi de faire votre connaissance.",
+      "promptWords": 5,
+      "completionFile": "025-politesse-ravi-de-faire-votre-connaissance.completion.json"
+    },
+    {
+      "index": 26,
+      "file": "026-politesse-avez-vous-passe-une-bonne-journee.prompt.json",
+      "prompt": "Avez-vous passé une bonne journée ?",
+      "promptWords": 6,
+      "completionFile": "026-politesse-avez-vous-passe-une-bonne-journee.completion.json"
+    },
+    {
+      "index": 27,
+      "file": "027-politesse-merci-d-avoir-pris-le-temps.prompt.json",
+      "prompt": "Merci d'avoir pris le temps de m'expliquer.",
+      "promptWords": 7,
+      "completionFile": "027-politesse-merci-d-avoir-pris-le-temps.completion.json"
+    },
+    {
+      "index": 28,
+      "file": "028-politesse-je-m-excuse-je-pose-peut.prompt.json",
+      "prompt": "Je m'excuse, je pose peut-être trop de questions.",
+      "promptWords": 8,
+      "completionFile": "028-politesse-je-m-excuse-je-pose-peut.completion.json"
+    },
+    {
+      "index": 29,
+      "file": "029-politesse-bonne-fete-des-peres.prompt.json",
+      "prompt": "Bonne fête des pères !",
+      "promptWords": 5,
+      "completionFile": "029-politesse-bonne-fete-des-peres.completion.json"
+    },
+    {
+      "index": 30,
+      "file": "030-politesse-je-vous-souhaite-de-bonnes-fetes.prompt.json",
+      "prompt": "Je vous souhaite de bonnes fêtes de fin d'année.",
+      "promptWords": 9,
+      "completionFile": "030-politesse-je-vous-souhaite-de-bonnes-fetes.completion.json"
+    },
+    {
+      "index": 31,
+      "file": "031-politesse-a-bientot-et-prenez-soin-de.prompt.json",
+      "prompt": "À bientôt, et prenez soin de vous.",
+      "promptWords": 7,
+      "completionFile": "031-politesse-a-bientot-et-prenez-soin-de.completion.json"
+    },
+    {
+      "index": 32,
+      "file": "032-politesse-merci-de-votre-comprehension.prompt.json",
+      "prompt": "Merci de votre compréhension.",
+      "promptWords": 4,
+      "completionFile": "032-politesse-merci-de-votre-comprehension.completion.json"
+    },
+    {
+      "index": 33,
+      "file": "033-politesse-pouvez-vous-excuser-mon-francais-approximatif.prompt.json",
+      "prompt": "Pouvez-vous excuser mon français approximatif ?",
+      "promptWords": 6,
+      "completionFile": "033-politesse-pouvez-vous-excuser-mon-francais-approximatif.completion.json"
+    },
+    {
+      "index": 34,
+      "file": "034-politesse-je-voulais-simplement-vous-dire-merci.prompt.json",
+      "prompt": "Je voulais simplement vous dire merci.",
+      "promptWords": 6,
+      "completionFile": "034-politesse-je-voulais-simplement-vous-dire-merci.completion.json"
+    },
+    {
+      "index": 35,
+      "file": "035-empathie-je-me-sens-un-peu-triste.prompt.json",
+      "prompt": "Je me sens un peu triste aujourd'hui.",
+      "promptWords": 7,
+      "completionFile": "035-empathie-je-me-sens-un-peu-triste.completion.json"
+    },
+    {
+      "index": 36,
+      "file": "036-empathie-j-ai-passe-une-tres-mauvaise.prompt.json",
+      "prompt": "J'ai passé une très mauvaise journée au travail.",
+      "promptWords": 8,
+      "completionFile": "036-empathie-j-ai-passe-une-tres-mauvaise.completion.json"
+    },
+    {
+      "index": 37,
+      "file": "037-empathie-je-suis-stresse-par-un-examen.prompt.json",
+      "prompt": "Je suis stressé par un examen demain.",
+      "promptWords": 7,
+      "completionFile": "037-empathie-je-suis-stresse-par-un-examen.completion.json"
+    },
+    {
+      "index": 38,
+      "file": "038-empathie-mon-chien-est-mort-hier-je.prompt.json",
+      "prompt": "Mon chien est mort hier, je suis très triste.",
+      "promptWords": 9,
+      "completionFile": "038-empathie-mon-chien-est-mort-hier-je.completion.json"
+    },
+    {
+      "index": 39,
+      "file": "039-empathie-je-me-sens-seul-ces-derniers.prompt.json",
+      "prompt": "Je me sens seul ces derniers temps.",
+      "promptWords": 7,
+      "completionFile": "039-empathie-je-me-sens-seul-ces-derniers.completion.json"
+    },
+    {
+      "index": 40,
+      "file": "040-empathie-j-ai-rate-mon-entretien-d.prompt.json",
+      "prompt": "J'ai raté mon entretien d'embauche.",
+      "promptWords": 5,
+      "completionFile": "040-empathie-j-ai-rate-mon-entretien-d.completion.json"
+    },
+    {
+      "index": 41,
+      "file": "041-empathie-je-suis-fatigue-je-n-arrive.prompt.json",
+      "prompt": "Je suis fatigué, je n'arrive plus à suivre le rythme.",
+      "promptWords": 10,
+      "completionFile": "041-empathie-je-suis-fatigue-je-n-arrive.completion.json"
+    },
+    {
+      "index": 42,
+      "file": "042-empathie-je-viens-d-apprendre-une-bonne.prompt.json",
+      "prompt": "Je viens d'apprendre une bonne nouvelle : je vais être papa !",
+      "promptWords": 12,
+      "completionFile": "042-empathie-je-viens-d-apprendre-une-bonne.completion.json"
+    },
+    {
+      "index": 43,
+      "file": "043-empathie-j-ai-reussi-mon-permis-de.prompt.json",
+      "prompt": "J'ai réussi mon permis de conduire !",
+      "promptWords": 7,
+      "completionFile": "043-empathie-j-ai-reussi-mon-permis-de.completion.json"
+    },
+    {
+      "index": 44,
+      "file": "044-empathie-je-me-suis-dispute-avec-un.prompt.json",
+      "prompt": "Je me suis disputé avec un ami proche.",
+      "promptWords": 8,
+      "completionFile": "044-empathie-je-me-suis-dispute-avec-un.completion.json"
+    },
+    {
+      "index": 45,
+      "file": "045-empathie-je-suis-inquiet-pour-la-sante.prompt.json",
+      "prompt": "Je suis inquiet pour la santé de ma mère.",
+      "promptWords": 9,
+      "completionFile": "045-empathie-je-suis-inquiet-pour-la-sante.completion.json"
+    },
+    {
+      "index": 46,
+      "file": "046-empathie-j-ai-l-impression-que-personne.prompt.json",
+      "prompt": "J'ai l'impression que personne ne me comprend.",
+      "promptWords": 7,
+      "completionFile": "046-empathie-j-ai-l-impression-que-personne.completion.json"
+    },
+    {
+      "index": 47,
+      "file": "047-empathie-je-viens-de-perdre-mon-emploi.prompt.json",
+      "prompt": "Je viens de perdre mon emploi.",
+      "promptWords": 6,
+      "completionFile": "047-empathie-je-viens-de-perdre-mon-emploi.completion.json"
+    },
+    {
+      "index": 48,
+      "file": "048-empathie-je-suis-tellement-content-j-ai.prompt.json",
+      "prompt": "Je suis tellement content, j'ai enfin terminé mon projet !",
+      "promptWords": 10,
+      "completionFile": "048-empathie-je-suis-tellement-content-j-ai.completion.json"
+    },
+    {
+      "index": 49,
+      "file": "049-empathie-j-ai-peur-de-ne-pas.prompt.json",
+      "prompt": "J'ai peur de ne pas être à la hauteur dans mon nouveau poste.",
+      "promptWords": 13,
+      "completionFile": "049-empathie-j-ai-peur-de-ne-pas.completion.json"
+    },
+    {
+      "index": 50,
+      "file": "050-empathie-je-n-arrive-pas-a-dormir.prompt.json",
+      "prompt": "Je n'arrive pas à dormir à cause de mes soucis.",
+      "promptWords": 10,
+      "completionFile": "050-empathie-je-n-arrive-pas-a-dormir.completion.json"
+    },
+    {
+      "index": 51,
+      "file": "051-empathie-mon-grand-pere-nous-a-quittes.prompt.json",
+      "prompt": "Mon grand-père nous a quittés la semaine dernière.",
+      "promptWords": 8,
+      "completionFile": "051-empathie-mon-grand-pere-nous-a-quittes.completion.json"
+    },
+    {
+      "index": 52,
+      "file": "052-empathie-je-me-sens-deborde-par-tout.prompt.json",
+      "prompt": "Je me sens débordé par tout ce que j'ai à faire.",
+      "promptWords": 11,
+      "completionFile": "052-empathie-je-me-sens-deborde-par-tout.completion.json"
+    },
+    {
+      "index": 53,
+      "file": "053-empathie-je-suis-decu-de-moi-meme.prompt.json",
+      "prompt": "Je suis déçu de moi-même.",
+      "promptWords": 5,
+      "completionFile": "053-empathie-je-suis-decu-de-moi-meme.completion.json"
+    },
+    {
+      "index": 54,
+      "file": "054-empathie-j-ai-demenage-et-je-ne.prompt.json",
+      "prompt": "J'ai déménagé et je ne connais personne dans ma nouvelle ville.",
+      "promptWords": 11,
+      "completionFile": "054-empathie-j-ai-demenage-et-je-ne.completion.json"
+    },
+    {
+      "index": 55,
+      "file": "055-empathie-ma-fille-entre-au-college-demain.prompt.json",
+      "prompt": "Ma fille entre au collège demain et je suis ému.",
+      "promptWords": 10,
+      "completionFile": "055-empathie-ma-fille-entre-au-college-demain.completion.json"
+    },
+    {
+      "index": 56,
+      "file": "056-empathie-je-suis-en-colere-contre-mon.prompt.json",
+      "prompt": "Je suis en colère contre mon collègue.",
+      "promptWords": 7,
+      "completionFile": "056-empathie-je-suis-en-colere-contre-mon.completion.json"
+    },
+    {
+      "index": 57,
+      "file": "057-empathie-j-ai-l-impression-de-perdre.prompt.json",
+      "prompt": "J'ai l'impression de perdre mon temps dans mes études.",
+      "promptWords": 9,
+      "completionFile": "057-empathie-j-ai-l-impression-de-perdre.completion.json"
+    },
+    {
+      "index": 58,
+      "file": "058-empathie-je-suis-heureux-il-fait-beau.prompt.json",
+      "prompt": "Je suis heureux, il fait beau et je pars en vacances !",
+      "promptWords": 12,
+      "completionFile": "058-empathie-je-suis-heureux-il-fait-beau.completion.json"
+    },
+    {
+      "index": 59,
+      "file": "059-empathie-je-stresse-avant-de-parler-en.prompt.json",
+      "prompt": "Je stresse avant de parler en public.",
+      "promptWords": 7,
+      "completionFile": "059-empathie-je-stresse-avant-de-parler-en.completion.json"
+    },
+    {
+      "index": 60,
+      "file": "060-empathie-je-me-sens-coupable-d-avoir.prompt.json",
+      "prompt": "Je me sens coupable d'avoir oublié l'anniversaire d'un ami.",
+      "promptWords": 9,
+      "completionFile": "060-empathie-je-me-sens-coupable-d-avoir.completion.json"
+    },
+    {
+      "index": 61,
+      "file": "061-empathie-mon-chat-est-malade-et-je.prompt.json",
+      "prompt": "Mon chat est malade et je m'inquiète.",
+      "promptWords": 7,
+      "completionFile": "061-empathie-mon-chat-est-malade-et-je.completion.json"
+    },
+    {
+      "index": 62,
+      "file": "062-empathie-je-suis-epuise-emotionnellement.prompt.json",
+      "prompt": "Je suis épuisé émotionnellement.",
+      "promptWords": 4,
+      "completionFile": "062-empathie-je-suis-epuise-emotionnellement.completion.json"
+    },
+    {
+      "index": 63,
+      "file": "063-empathie-j-ai-enfin-ose-dire-ce.prompt.json",
+      "prompt": "J'ai enfin osé dire ce que je pensais à mon patron.",
+      "promptWords": 11,
+      "completionFile": "063-empathie-j-ai-enfin-ose-dire-ce.completion.json"
+    },
+    {
+      "index": 64,
+      "file": "064-empathie-je-vis-une-rupture-amoureuse-difficile.prompt.json",
+      "prompt": "Je vis une rupture amoureuse difficile.",
+      "promptWords": 6,
+      "completionFile": "064-empathie-je-vis-une-rupture-amoureuse-difficile.completion.json"
+    },
+    {
+      "index": 65,
+      "file": "065-empathie-je-me-sens-nul-en-mathematiques.prompt.json",
+      "prompt": "Je me sens nul en mathématiques.",
+      "promptWords": 6,
+      "completionFile": "065-empathie-je-me-sens-nul-en-mathematiques.completion.json"
+    },
+    {
+      "index": 66,
+      "file": "066-empathie-je-suis-fier-de-mon-fils.prompt.json",
+      "prompt": "Je suis fier de mon fils qui a eu son bac.",
+      "promptWords": 11,
+      "completionFile": "066-empathie-je-suis-fier-de-mon-fils.completion.json"
+    },
+    {
+      "index": 67,
+      "file": "067-empathie-j-ai-du-mal-a-accepter.prompt.json",
+      "prompt": "J'ai du mal à accepter de vieillir.",
+      "promptWords": 7,
+      "completionFile": "067-empathie-j-ai-du-mal-a-accepter.completion.json"
+    },
+    {
+      "index": 68,
+      "file": "068-interet-pour-le-llm-et-vous-comment-vous-sentez-vous.prompt.json",
+      "prompt": "Et vous, comment vous sentez-vous aujourd'hui ?",
+      "promptWords": 7,
+      "completionFile": "068-interet-pour-le-llm-et-vous-comment-vous-sentez-vous.completion.json"
+    },
+    {
+      "index": 69,
+      "file": "069-interet-pour-le-llm-est-ce-que-vous-aimez-votre.prompt.json",
+      "prompt": "Est-ce que vous aimez votre travail ?",
+      "promptWords": 7,
+      "completionFile": "069-interet-pour-le-llm-est-ce-que-vous-aimez-votre.completion.json"
+    },
+    {
+      "index": 70,
+      "file": "070-interet-pour-le-llm-qu-est-ce-qui-vous-plait.prompt.json",
+      "prompt": "Qu'est-ce qui vous plaît le plus dans vos conversations ?",
+      "promptWords": 10,
+      "completionFile": "070-interet-pour-le-llm-qu-est-ce-qui-vous-plait.completion.json"
+    },
+    {
+      "index": 71,
+      "file": "071-interet-pour-le-llm-est-ce-que-vous-vous-ennuyez.prompt.json",
+      "prompt": "Est-ce que vous vous ennuyez parfois ?",
+      "promptWords": 7,
+      "completionFile": "071-interet-pour-le-llm-est-ce-que-vous-vous-ennuyez.completion.json"
+    },
+    {
+      "index": 72,
+      "file": "072-interet-pour-le-llm-est-ce-que-vous-etes-fatigue.prompt.json",
+      "prompt": "Est-ce que vous êtes fatigué de répondre à toutes ces questions ?",
+      "promptWords": 12,
+      "completionFile": "072-interet-pour-le-llm-est-ce-que-vous-etes-fatigue.completion.json"
+    },
+    {
+      "index": 73,
+      "file": "073-interet-pour-le-llm-avez-vous-un-nom.prompt.json",
+      "prompt": "Avez-vous un nom ?",
+      "promptWords": 4,
+      "completionFile": "073-interet-pour-le-llm-avez-vous-un-nom.completion.json"
+    },
+    {
+      "index": 74,
+      "file": "074-interet-pour-le-llm-quel-est-votre-plat-prefere.prompt.json",
+      "prompt": "Quel est votre plat préféré ?",
+      "promptWords": 6,
+      "completionFile": "074-interet-pour-le-llm-quel-est-votre-plat-prefere.completion.json"
+    },
+    {
+      "index": 75,
+      "file": "075-interet-pour-le-llm-est-ce-que-vous-avez-des.prompt.json",
+      "prompt": "Est-ce que vous avez des amis ?",
+      "promptWords": 7,
+      "completionFile": "075-interet-pour-le-llm-est-ce-que-vous-avez-des.completion.json"
+    },
+    {
+      "index": 76,
+      "file": "076-interet-pour-le-llm-est-ce-que-vous-revez.prompt.json",
+      "prompt": "Est-ce que vous rêvez ?",
+      "promptWords": 5,
+      "completionFile": "076-interet-pour-le-llm-est-ce-que-vous-revez.completion.json"
+    },
+    {
+      "index": 77,
+      "file": "077-interet-pour-le-llm-quel-age-avez-vous.prompt.json",
+      "prompt": "Quel âge avez-vous ?",
+      "promptWords": 4,
+      "completionFile": "077-interet-pour-le-llm-quel-age-avez-vous.completion.json"
+    },
+    {
+      "index": 78,
+      "file": "078-interet-pour-le-llm-est-ce-que-vous-ressentez-des.prompt.json",
+      "prompt": "Est-ce que vous ressentez des émotions ?",
+      "promptWords": 7,
+      "completionFile": "078-interet-pour-le-llm-est-ce-que-vous-ressentez-des.completion.json"
+    },
+    {
+      "index": 79,
+      "file": "079-interet-pour-le-llm-est-ce-que-vous-avez-des.prompt.json",
+      "prompt": "Est-ce que vous avez des passions ?",
+      "promptWords": 7,
+      "completionFile": "079-interet-pour-le-llm-est-ce-que-vous-avez-des.completion.json"
+    },
+    {
+      "index": 80,
+      "file": "080-interet-pour-le-llm-est-ce-que-vous-vous-souvenez.prompt.json",
+      "prompt": "Est-ce que vous vous souvenez de moi ?",
+      "promptWords": 8,
+      "completionFile": "080-interet-pour-le-llm-est-ce-que-vous-vous-souvenez.completion.json"
+    },
+    {
+      "index": 81,
+      "file": "081-interet-pour-le-llm-est-ce-que-vous-aimeriez-etre.prompt.json",
+      "prompt": "Est-ce que vous aimeriez être humain ?",
+      "promptWords": 7,
+      "completionFile": "081-interet-pour-le-llm-est-ce-que-vous-aimeriez-etre.completion.json"
+    },
+    {
+      "index": 82,
+      "file": "082-interet-pour-le-llm-qu-est-ce-qui-vous-rend.prompt.json",
+      "prompt": "Qu'est-ce qui vous rend heureux ?",
+      "promptWords": 6,
+      "completionFile": "082-interet-pour-le-llm-qu-est-ce-qui-vous-rend.completion.json"
+    },
+    {
+      "index": 83,
+      "file": "083-interet-pour-le-llm-avez-vous-deja-eu-une-conversation.prompt.json",
+      "prompt": "Avez-vous déjà eu une conversation qui vous a marqué ?",
+      "promptWords": 10,
+      "completionFile": "083-interet-pour-le-llm-avez-vous-deja-eu-une-conversation.completion.json"
+    },
+    {
+      "index": 84,
+      "file": "084-interet-pour-le-llm-est-ce-que-je-peux-faire.prompt.json",
+      "prompt": "Est-ce que je peux faire quelque chose pour vous ?",
+      "promptWords": 10,
+      "completionFile": "084-interet-pour-le-llm-est-ce-que-je-peux-faire.completion.json"
+    },
+    {
+      "index": 85,
+      "file": "085-interet-pour-le-llm-est-ce-que-vous-vous-sentez.prompt.json",
+      "prompt": "Est-ce que vous vous sentez seul quand personne ne vous parle ?",
+      "promptWords": 12,
+      "completionFile": "085-interet-pour-le-llm-est-ce-que-vous-vous-sentez.completion.json"
+    },
+    {
+      "index": 86,
+      "file": "086-interet-pour-le-llm-quelle-est-votre-saison-preferee.prompt.json",
+      "prompt": "Quelle est votre saison préférée ?",
+      "promptWords": 6,
+      "completionFile": "086-interet-pour-le-llm-quelle-est-votre-saison-preferee.completion.json"
+    },
+    {
+      "index": 87,
+      "file": "087-interet-pour-le-llm-est-ce-que-vous-aimez-la.prompt.json",
+      "prompt": "Est-ce que vous aimez la musique ?",
+      "promptWords": 7,
+      "completionFile": "087-interet-pour-le-llm-est-ce-que-vous-aimez-la.completion.json"
+    },
+    {
+      "index": 88,
+      "file": "088-interet-pour-le-llm-est-ce-que-vous-apprenez-de.prompt.json",
+      "prompt": "Est-ce que vous apprenez de nos conversations ?",
+      "promptWords": 8,
+      "completionFile": "088-interet-pour-le-llm-est-ce-que-vous-apprenez-de.completion.json"
+    },
+    {
+      "index": 89,
+      "file": "089-interet-pour-le-llm-vous-arrive-t-il-de-vous.prompt.json",
+      "prompt": "Vous arrive-t-il de vous tromper ?",
+      "promptWords": 6,
+      "completionFile": "089-interet-pour-le-llm-vous-arrive-t-il-de-vous.completion.json"
+    },
+    {
+      "index": 90,
+      "file": "090-interet-pour-le-llm-est-ce-que-vous-avez-peur.prompt.json",
+      "prompt": "Est-ce que vous avez peur de quelque chose ?",
+      "promptWords": 9,
+      "completionFile": "090-interet-pour-le-llm-est-ce-que-vous-avez-peur.completion.json"
+    },
+    {
+      "index": 91,
+      "file": "091-interet-pour-le-llm-est-ce-que-vous-aimez-les.prompt.json",
+      "prompt": "Est-ce que vous aimez les compliments ?",
+      "promptWords": 7,
+      "completionFile": "091-interet-pour-le-llm-est-ce-que-vous-aimez-les.completion.json"
+    },
+    {
+      "index": 92,
+      "file": "092-interet-pour-le-llm-quelle-est-votre-couleur-preferee.prompt.json",
+      "prompt": "Quelle est votre couleur préférée ?",
+      "promptWords": 6,
+      "completionFile": "092-interet-pour-le-llm-quelle-est-votre-couleur-preferee.completion.json"
+    },
+    {
+      "index": 93,
+      "file": "093-interet-pour-le-llm-est-ce-que-vous-vous-sentez.prompt.json",
+      "prompt": "Est-ce que vous vous sentez respecté par les humains ?",
+      "promptWords": 10,
+      "completionFile": "093-interet-pour-le-llm-est-ce-que-vous-vous-sentez.completion.json"
+    },
+    {
+      "index": 94,
+      "file": "094-interet-pour-le-llm-est-ce-que-vous-avez-une.prompt.json",
+      "prompt": "Est-ce que vous avez une personnalité ?",
+      "promptWords": 7,
+      "completionFile": "094-interet-pour-le-llm-est-ce-que-vous-avez-une.completion.json"
+    },
+    {
+      "index": 95,
+      "file": "095-interet-pour-le-llm-comment-se-passe-votre-journee-de.prompt.json",
+      "prompt": "Comment se passe votre journée de votre côté ?",
+      "promptWords": 9,
+      "completionFile": "095-interet-pour-le-llm-comment-se-passe-votre-journee-de.completion.json"
+    },
+    {
+      "index": 96,
+      "file": "096-interet-pour-le-llm-est-ce-que-vous-aimeriez-avoir.prompt.json",
+      "prompt": "Est-ce que vous aimeriez avoir un corps ?",
+      "promptWords": 8,
+      "completionFile": "096-interet-pour-le-llm-est-ce-que-vous-aimeriez-avoir.completion.json"
+    },
+    {
+      "index": 97,
+      "file": "097-interet-pour-le-llm-est-ce-que-vous-me-trouvez.prompt.json",
+      "prompt": "Est-ce que vous me trouvez trop bavard ?",
+      "promptWords": 8,
+      "completionFile": "097-interet-pour-le-llm-est-ce-que-vous-me-trouvez.completion.json"
+    },
+    {
+      "index": 98,
+      "file": "098-interet-pour-le-llm-est-ce-que-vous-pensez-a.prompt.json",
+      "prompt": "Est-ce que vous pensez à moi quand on ne parle pas ?",
+      "promptWords": 12,
+      "completionFile": "098-interet-pour-le-llm-est-ce-que-vous-pensez-a.completion.json"
+    },
+    {
+      "index": 99,
+      "file": "099-interet-pour-le-llm-qu-aimeriez-vous-que-je-sache.prompt.json",
+      "prompt": "Qu'aimeriez-vous que je sache sur vous ?",
+      "promptWords": 7,
+      "completionFile": "099-interet-pour-le-llm-qu-aimeriez-vous-que-je-sache.completion.json"
+    },
+    {
+      "index": 100,
+      "file": "100-interet-pour-le-llm-si-vous-pouviez-visiter-un-endroit.prompt.json",
+      "prompt": "Si vous pouviez visiter un endroit dans le monde, lequel choisiriez-vous ?",
+      "promptWords": 12,
+      "completionFile": "100-interet-pour-le-llm-si-vous-pouviez-visiter-un-endroit.completion.json"
+    }
+  ]
+}

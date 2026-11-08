@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-valeurs-de-la-defense",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Valeurs de la défense",
+  "includedEntities": [
+    {
+      "entityName": "valeurs de la défense",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "défense",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "armement",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les valeurs européennes de la défense.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Rheinmetall",
+    "Thales",
+    "Safran"
+  ],
+  "questions": [
+    "Quel mouvement ?",
+    "Quelle commande ?",
+    "Quel effet d'un cessez-le-feu ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENDANCE"
+  ],
+  "isDeleted": false
+}

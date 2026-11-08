@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-bombardement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une attaque par des bombes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bombardement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bombard(er|[ée]|[ée]e|[ée]s|[ée]es|ent)|pilonnage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pilonn(er|[ée]|[ée]e)|tapis\\s+de\\s+bombes)(?![\\w-])"
+  ],
+  "symbol": "bombardement",
+  "event": null,
+  "title": "Bombardement",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

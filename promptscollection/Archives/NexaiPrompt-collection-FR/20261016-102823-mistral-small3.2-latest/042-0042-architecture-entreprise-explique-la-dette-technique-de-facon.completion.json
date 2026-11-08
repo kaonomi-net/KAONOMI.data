@@ -1,0 +1,13 @@
+{
+  "index": 42,
+  "file": "0042-architecture-entreprise-explique-la-dette-technique-de-facon.prompt.json",
+  "prompt": "Explique la dette technique de façon simple.",
+  "promptWords": 7,
+  "completion": "La dette technique, c'est un peu comme si tu construisais une maison en prenant des raccourcis pour aller plus vite. Au début, ça semble bien, mais plus tard, tu dois revenir en arrière pour réparer les choses mal faites.\n\nEn programmation, cela signifie qu'on prend des décisions rapides ou qu'on utilise des solutions temporaires pour avancer plus vite, mais qui peuvent poser problème plus tard. Par exemple :\n- **Code mal écrit** : Des fonctions ou des parties de code qui ne sont pas optimisées ou qui sont difficiles à comprendre.\n- **Architecture obsolète** : Une structure de projet qui ne convient plus aux besoins actuels.\n- **Commentaires manquants** : Du code sans explication, ce qui le rend plus difficile à maintenir.\n\nÀ long terme, la dette technique peut ralentir le développement, augmenter les bugs et rendre le code plus coûteux à modifier. C'est comme si tu devais de l'argent : plus tu attends pour la rembourser, plus les intérêts (les corrections) s'accumulent.\n\nPour la gérer, il faut régulièrement **refactoriser** le code (le nettoyer et l'améliorer) et éviter de prendre trop de raccourcis.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:36:56.5300526+02:00",
+  "durationSeconds": 5.21,
+  "stats": "mistral-small3.2:latest · 516 + 252 tokens · 5,2 s",
+  "isError": false,
+  "language": "FR"
+}

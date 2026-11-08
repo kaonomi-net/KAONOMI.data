@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-missile-hypersonique-kinjal",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Missile hypersonique Kinjal",
+  "includedEntities": [
+    {
+      "entityName": "Kinjal",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "hypersonique",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage des missiles Kinjal.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "MiG-31",
+    "Patriot",
+    "interception"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "A-t-il été intercepté ?",
+    "Quels dégâts ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#MISSILES",
+    "#HYPERSONIQUE"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

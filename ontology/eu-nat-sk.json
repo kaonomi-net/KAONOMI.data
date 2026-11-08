@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Nationalité de l'Union européenne (la citoyenneté européenne) : Nationalité des citoyens de ce pays : Slovaquie.",
+  "id": "eu-nat-sk",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "nationalité slovaque",
+  "entityType": "NORP",
+  "description": "Nationalité des citoyens de ce pays : Slovaquie. Les ressortissants sont appelés slovaques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-nationalites",
+  "sentencesExemples": [
+    "La nationalité slovaque est représentée dans les institutions européennes.",
+    "La nationalité slovaque donne la citoyenneté européenne.",
+    "Les statistiques du personnel détaillent la répartition par nationalité, dont la nationalité slovaque."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDEAA",
+  "synonyms": [
+    "slovaque",
+    "slovaque"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#NORP",
+    "#CITOYENNETEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=nationalit%C3%A9%20slovaque"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Slovaquie",
+    "Maroš Šefčovič"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

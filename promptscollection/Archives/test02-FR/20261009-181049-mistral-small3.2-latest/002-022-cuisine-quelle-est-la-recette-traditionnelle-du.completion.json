@@ -1,0 +1,13 @@
+{
+  "index": 2,
+  "file": "022-cuisine-quelle-est-la-recette-traditionnelle-du.prompt.json",
+  "prompt": "Quelle est la recette traditionnelle du bœuf bourguignon ?",
+  "promptWords": 9,
+  "completion": "Le bœuf bourguignon est un plat emblématique de la cuisine française, originaire de Bourgogne. Voici une recette traditionnelle :\n\n### Ingrédients (pour 6 personnes) :\n- 1,5 kg de bœuf à bourguignon (paleron, joue ou gîte)\n- 200 g de lardons fumés\n- 500 g de petits oignons grelots (ou oignons perlés)\n- 500 g de champignons de Paris\n- 2 carottes\n- 2 gousses d'ail\n- 1 bouteille de vin rouge de Bourgogne (ou autre vin rouge corsé)\n- 2 cuillères à soupe de farine\n- 2 cuillères à soupe d'huile d'olive\n- 1 bouquet garni (thym, laurier, persil)\n- Sel et poivre\n\n### Préparation :\n\n1. **Préparer la viande** :\n   - Coupez la viande en gros cubes.\n   - Dans une cocotte en fonte, faites chauffer l'huile d'olive et faites revenir les lardons jusqu'à ce qu'ils soient dorés. Retirez-les et réservez.\n   - Dans la même cocotte, faites dorer la viande par petites portions. Retirez-la et réservez.\n\n2. **Faire revenir les légumes** :\n   - Dans la même cocotte, ajoutez les carottes coupées en rondelles, les oignons grelots et l'ail haché. Faites revenir quelques minutes.\n   - Saupoudrez de farine et mélangez bien.\n\n3. **Mouiller avec le vin** :\n   - Remettez la viande et les lardons dans la cocotte.\n   - Versez le vin rouge jusqu'à couvrir la viande.\n   - Ajoutez le bouquet garni, salez et poivrez.\n\n4. **Cuisson longue** :\n   - Portez à ébullition, puis baissez le feu et laissez mijoter à couvert pendant 2 à 3 heures à feu doux.\n   - Pendant ce temps, faites revenir les champignons à la poêle avec un peu d'huile d'olive.\n\n5. **Finalisation** :\n   - Ajoutez les champignons dans la cocotte et laissez mijoter encore 30 minutes.\n   - Rectifiez l'assaisonnement si nécessaire.\n\n6. **Service** :\n   - Servez bien chaud avec des pommes de terre vapeur, des pâtes ou du pain frais.\n\n### Conseils :\n- Le bœuf bourguignon est encore meilleur réchauffé le lendemain.\n- Vous pouvez ajouter un peu de beurre manié (mélange de beurre et de farine) à la fin pour lier la sauce si nécessaire.\n\nBon appétit !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T18:11:03.0221116+02:00",
+  "durationSeconds": 13.4,
+  "stats": "mistral-small3.2:latest · 522 + 610 tokens · 13,4 s",
+  "isError": false,
+  "language": "FR"
+}

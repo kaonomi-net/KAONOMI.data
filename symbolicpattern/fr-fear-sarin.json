@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-sarin",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un gaz de combat mortel.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sarin)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gaz\\s+toxique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arme(s)?\\s+chimique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attaque(s)?\\s+chimique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gaz\\s+innervant(s)?)(?![\\w-])"
+  ],
+  "symbol": "sarin",
+  "event": null,
+  "title": "Sarin",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

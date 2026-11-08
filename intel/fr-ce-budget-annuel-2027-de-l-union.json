@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-budget-annuel-2027-de-l-union",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Budget annuel 2027 de l'Union",
+  "includedEntities": [
+    {
+      "entityName": "budget 2027",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la négociation du budget annuel 2027 de l'Union.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Strasbourg"
+  ],
+  "times": [
+    "novembre 2026"
+  ],
+  "relatedEntities": [
+    "conciliation",
+    "Parlement",
+    "Conseil"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quels montants ?",
+    "Quelles priorités ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#BUDGET-UE"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!BUDGET"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-accord-avec-l-australie",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Accord avec l'Australie",
+  "includedEntities": [
+    {
+      "entityName": "Australie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "libre-échange",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la reprise des négociations commerciales avec l'Australie.",
+  "isFuzzy": true,
+  "locations": [
+    "Canberra",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "viande",
+    "minerais critiques",
+    "agriculteurs"
+  ],
+  "questions": [
+    "Un accord est-il trouvé ?",
+    "Quels quotas ?",
+    "Quels minerais ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#AUSTRALIE"
+  ],
+  "events": [],
+  "signals": [
+    "!COMMERCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-clients",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "clients",
+  "entityType": "PROFESSION",
+  "description": "Cité par 8 intels : Publicis et la publicité ; Néobanques ; Fuite de données chez Smartbox ; Cyberattaque contre un e-commerçant ; Cyberattaque contre une banque ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre l'action Publicis face à l'IA.",
+    "Suivre les néobanques et leur rentabilité.",
+    "Suivre l'accès non autorisé détecté le 3 novembre 2026 sur une plateforme de Smartbox."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "clients",
+  "tags": [
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES",
+    "#FINANCE",
+    "#BOURSE",
+    "#CAC40",
+    "#MEDIAS"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES",
+    "@PUBLICATION-RESULTATS",
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!RESULTATS",
+    "!CONCURRENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "fuite",
+    "France",
+    "e-commerce",
+    "Paris",
+    "Publicis",
+    "Arthur Sadoun",
+    "IA générative",
+    "publicité",
+    "Europe",
+    "Revolut"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

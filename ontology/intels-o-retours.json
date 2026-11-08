@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-retours",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "retours",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Magnus Brunner et la migration ; Protection temporaire des réfugiés ukrainiens ; Règlement sur les retours.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'action du commissaire aux affaires intérieures et à la migration.",
+    "Suivre la prolongation de la protection temporaire des Ukrainiens.",
+    "Suivre le nouveau règlement européen sur les retours de migrants."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "retours",
+  "tags": [
+    "#MIGRATION",
+    "#UNION-EUROPEENNE",
+    "#COMMISSION-EUROPEENNE",
+    "#BRUNNER",
+    "#UKRAINE",
+    "#REFUGIES"
+  ],
+  "events": [
+    "@DECISION-UE"
+  ],
+  "signals": [
+    "!MIGRATION",
+    "!HUMANITAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Magnus Brunner",
+    "migration",
+    "pacte asile",
+    "Frontex",
+    "protection temporaire",
+    "réfugiés ukrainiens",
+    "intégration",
+    "États membres",
+    "expulsions"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

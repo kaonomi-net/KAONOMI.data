@@ -1,0 +1,12 @@
+{
+  "index": 1,
+  "file": "001-philosophie-qu-est-ce-que-la-philosophie.prompt.json",
+  "prompt": "Qu'est-ce que la philosophie et à quoi sert-elle ?",
+  "promptWords": 9,
+  "completion": "La philosophie est une discipline intellectuelle qui cherche à comprendre et à interroger les fondements de la connaissance, de l'existence, de la morale, de la raison, de l'esprit et des choses. Elle se distingue par son approche critique et systématique des questions fondamentales qui concernent l'être humain et le monde.\n\n### À quoi sert la philosophie ?\n1. **Compréhension du monde** : La philosophie aide à mieux comprendre les concepts complexes et les problèmes fondamentaux de la vie, comme la nature de la réalité, la conscience, la liberté, la justice, etc.\n\n2. **Développement de la pensée critique** : Elle encourage à questionner les idées reçues, à analyser les arguments de manière logique et à former son propre jugement.\n\n3. **Clarté et rigueur intellectuelle** : La philosophie enseigne à définir précisément les concepts, à éviter les ambiguïtés et à structurer sa pensée de manière cohérente.\n\n4. **Éthique et morale** : Elle permet de réfléchir sur les valeurs, les principes moraux et les choix de vie, aidant ainsi à prendre des décisions éclairées.\n\n5. **Innovation et progrès** : De nombreuses avancées scientifiques, politiques et sociales ont été inspirées par des réflexions philosophiques. Par exemple, les idées des Lumières ont influencé les révolutions démocratiques.\n\n6. **Autonomie intellectuelle** : La philosophie apprend à penser par soi-même plutôt que de se contenter de suivre des opinions ou des doctrines sans les examiner.\n\nEn résumé, la philosophie sert à éclairer, à questionner et à structurer notre compréhension du monde et de nous-mêmes, tout en développant des compétences intellectuelles essentielles.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T15:44:11.9971796+02:00",
+  "durationSeconds": 15.28,
+  "stats": "mistral-small3.2:latest · 519 + 358 tokens · 15,3 s",
+  "isError": false
+}

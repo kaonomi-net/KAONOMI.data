@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-double-extorsion",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "double extorsion",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Rançongiciel ; Groupe Qilin ; Double extorsion.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les attaques par rançongiciel.",
+    "Suivre l'activité du groupe Qilin.",
+    "Suivre les menaces de publication de données volées."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "double extorsion",
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#EXTORSION"
+  ],
+  "events": [
+    "@RANCONGICIEL"
+  ],
+  "signals": [
+    "!MENACE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "rançongiciel",
+    "sites de fuite",
+    "ransomware",
+    "chiffrement",
+    "santé",
+    "Qilin",
+    "affiliés",
+    "site de fuite",
+    "publication",
+    "délai"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

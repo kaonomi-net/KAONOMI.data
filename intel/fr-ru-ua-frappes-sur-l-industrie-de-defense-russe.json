@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-sur-l-industrie-de-defense-russe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes sur l'industrie de défense russe",
+  "includedEntities": [
+    {
+      "entityName": "industrie de défense",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "usine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "frappe",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les frappes contre les usines d'armement en Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Tatarstan",
+    "Briansk",
+    "Ijevsk"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "drones",
+    "missiles",
+    "Shahed"
+  ],
+  "questions": [
+    "Quelle usine ?",
+    "Quelle production touchée ?",
+    "Quelle confirmation ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#INDUSTRIE-DEFENSE",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

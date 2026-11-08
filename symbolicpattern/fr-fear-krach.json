@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-krach",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'effondrement brutal de la Bourse.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:krach(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:krach\\s+boursier)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chute\\s+des\\s+march[ée]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:effondrement\\s+des\\s+march[ée]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lundi\\s+noir)(?![\\w-])"
+  ],
+  "symbol": "krach",
+  "event": null,
+  "title": "Krach",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

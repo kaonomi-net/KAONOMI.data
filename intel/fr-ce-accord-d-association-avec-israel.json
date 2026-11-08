@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-accord-d-association-avec-israel",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Accord d'association avec Israël",
+  "includedEntities": [
+    {
+      "entityName": "accord d'association",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Israël",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le réexamen de l'accord d'association entre l'Union et Israël.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "droits humains",
+    "Gaza",
+    "États membres"
+  ],
+  "questions": [
+    "Une suspension est-elle décidée ?",
+    "Quels pays la soutiennent ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ISRAEL",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@DECISION-UE"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

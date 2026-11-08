@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-espionnage-entre-etats",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Espionnage entre États",
+  "includedEntities": [
+    {
+      "entityName": "espionnage",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "espion",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "renseignement",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les affaires d'espionnage entre États.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "services de renseignement",
+    "expulsions",
+    "diplomates"
+  ],
+  "questions": [
+    "Quelle affaire ?",
+    "Quel pays ?",
+    "Quelles expulsions ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ESPIONNAGE",
+    "#RENSEIGNEMENT"
+  ],
+  "events": [
+    "@AFFAIRE-ESPIONNAGE"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

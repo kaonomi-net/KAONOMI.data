@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la communication de la Commission) : Portefeuille détenu par Roy Jenkins, président de la Commission, dans la Commission Jenkins, du 6 janvier 1977 au 5 janvier 1981.",
+  "id": "eu-pf-jenkins-jenkins",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Présidence de la Commission (Commission Jenkins)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Roy Jenkins, président de la Commission, dans la Commission Jenkins, du 6 janvier 1977 au 5 janvier 1981.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Le portefeuille « Présidence de la Commission (Commission Jenkins) » couvre la communication de la Commission.",
+    "La lettre de mission du portefeuille « Présidence de la Commission (Commission Jenkins) » fixe les objectifs en matière de la communication de la Commission.",
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Présidence de la Commission (Commission Jenkins) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#COMMUNICATIONCOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pr%C3%A9sidence%20de%20la%20Commission%20%28Commission%20Jenkins%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Roy Jenkins",
+    "Commission Jenkins",
+    "Président de la Commission européenne",
+    "Communication et présidence",
+    "Économie"
+  ],
+  "isDeleted": false,
+  "startDate": "1977-01-06T00:00:00",
+  "endDate": "1981-01-05T00:00:00"
+}

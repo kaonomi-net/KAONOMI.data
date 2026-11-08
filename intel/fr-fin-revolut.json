@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-revolut",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Revolut",
+  "includedEntities": [
+    {
+      "entityName": "Revolut",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "banque",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre Revolut, sa valorisation et ses licences.",
+  "isFuzzy": true,
+  "locations": [
+    "Londres",
+    "Vilnius"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "valorisation",
+    "licence",
+    "France"
+  ],
+  "questions": [
+    "Quelle valorisation ?",
+    "Quelle licence ?",
+    "Quelle expansion ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#FINTECH"
+  ],
+  "events": [],
+  "signals": [
+    "!CROISSANCE"
+  ],
+  "isDeleted": false
+}

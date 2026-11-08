@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Lieu des attentats de Bruxelles de 2016 (la mémoire des attentats) : Artère du quartier européen sous laquelle se trouve la station Maelbeek et où a été érigé le monument en hommage aux victimes.",
+  "id": "be2016-rue-de-la-loi",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Rue de la Loi",
+  "entityType": "LOCATION",
+  "description": "Artère du quartier européen sous laquelle se trouve la station Maelbeek et où a été érigé le monument en hommage aux victimes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-lieux",
+  "sentencesExemples": [
+    "Le lieu « Rue de la Loi » est lié aux attentats de 2016.",
+    "Le lieu « Rue de la Loi » apparaît sur la carte des faits établie par les enquêteurs.",
+    "Le lieu « Rue de la Loi » est cité dans les comptes rendus consacrés à la mémoire des attentats."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 2,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCCD",
+  "synonyms": [
+    "Wetstraat"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#LOCATION",
+    "#MEMOIREATTENTATS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Rue%20de%20la%20Loi"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Station de métro Maelbeek",
+    "Monument de la rue de la Loi"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

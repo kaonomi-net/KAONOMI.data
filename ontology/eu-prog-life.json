@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (l'environnement) : Instrument financier de l'Union pour l'environnement et l'action pour le climat.",
+  "id": "eu-prog-life",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Programme LIFE",
+  "entityType": "PROGRAMME",
+  "description": "Instrument financier de l'Union pour l'environnement et l'action pour le climat.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Les bénéficiaires de « Programme LIFE » sont publiés en ligne.",
+    "L'appel à propositions de « Programme LIFE » est ouvert.",
+    "La Commission gère « Programme LIFE » avec les États membres ou ses agences."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "LIFE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Programme%20LIFE"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de l'environnement",
+    "Environnement",
+    "Action pour le climat",
+    "Agence exécutive européenne pour le climat, les infrastructures et l'environnement (CINEA)"
+  ],
+  "isDeleted": false,
+  "startDate": "1992-01-01T00:00:00",
+  "endDate": null
+}

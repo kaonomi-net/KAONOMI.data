@@ -1,0 +1,54 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-handicap",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "handicap",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Handicap et inclusion ; Handicap et santé mentale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les politiques en faveur des personnes handicapées.",
+    "Suivre la santé mentale des personnes handicapées et de leurs proches."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "handicap",
+  "tags": [
+    "#HANDICAP",
+    "#FRANCE",
+    "#SOCIAL",
+    "#PSYCHOLOGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL",
+    "!ACCES-AUX-SOINS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "inclusion",
+    "AESH",
+    "allocations",
+    "accessibilité",
+    "isolement",
+    "santé mentale",
+    "MDPH"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

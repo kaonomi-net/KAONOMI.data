@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-edf",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "EDF",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 5 intels : Prix de l'énergie en France ; EDF et le nucléaire ; Prix de l'électricité ; EDF et nucléaire français ; Cybersécurité nucléaire.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les prix de l'électricité, du gaz et des carburants.",
+    "Suivre la situation d'EDF et la relance du nucléaire.",
+    "Suivre les prix de l'électricité et la demande des centres de données."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "EDF",
+  "tags": [
+    "#ENERGIE",
+    "#FRANCE",
+    "#NUCLEAIRE",
+    "#POUVOIR-ACHAT",
+    "#ELECTRICITE",
+    "#CYBERSECURITE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL",
+    "!STRATEGIE",
+    "!PRIX"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "électricité",
+    "nucléaire",
+    "prix",
+    "EPR2",
+    "taxes",
+    "carburant",
+    "tarif réglementé",
+    "prix de l'énergie",
+    "Flamanville",
+    "Penly"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

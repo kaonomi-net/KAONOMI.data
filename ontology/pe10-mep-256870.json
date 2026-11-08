@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : France.",
+  "id": "pe10-mep-256870",
+  "dateCreated": "2026-10-31 20:22:42",
+  "name": "Valérie Devaux",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : France. Groupe politique : Renew Europe. Parti ou liste national : Union des démocrates et indépendants.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Valérie Devaux participe aux travaux des commissions parlementaires.",
+    "Valérie Devaux siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Valérie Devaux figure dans le relevé des votes par appel nominal."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Valérie DEVAUX"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256870",
+    "https://fr.wikipedia.org/w/index.php?search=Val%C3%A9rie%20Devaux"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "France",
+    "Parlement européen",
+    "Renew Europe",
+    "Union des démocrates et indépendants"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

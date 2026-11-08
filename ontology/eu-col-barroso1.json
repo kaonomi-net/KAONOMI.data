@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la Commission européenne) : Commission Barroso I, collège des commissaires présidé par José Manuel Barroso, en fonction du 22 novembre 2004 au 9 février 2010.",
+  "id": "eu-col-barroso1",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Commission Barroso I",
+  "entityType": "ORGANISATION",
+  "description": "Commission Barroso I, collège des commissaires présidé par José Manuel Barroso, en fonction du 22 novembre 2004 au 9 février 2010.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-colleges",
+  "sentencesExemples": [
+    "« Commission Barroso I » joue un rôle dans la Commission européenne.",
+    "Les fonctionnaires de « Commission Barroso I » préparent les textes relatifs à la Commission européenne.",
+    "La délégation a rencontré des représentants de « Commission Barroso I »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20Barroso%20I"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "José Manuel Barroso",
+    "Commission européenne",
+    "Commission Prodi",
+    "Commission Barroso II",
+    "Présidence de la Commission (Commission Barroso I)",
+    "Système d'échange de quotas d'émission de l'UE",
+    "Élargissement de 2007"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-11-22T00:00:00",
+  "endDate": "2010-02-09T00:00:00"
+}

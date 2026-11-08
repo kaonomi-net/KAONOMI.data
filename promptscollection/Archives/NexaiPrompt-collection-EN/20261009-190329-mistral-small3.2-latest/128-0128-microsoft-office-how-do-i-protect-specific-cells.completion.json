@@ -1,0 +1,13 @@
+{
+  "index": 128,
+  "file": "0128-microsoft-office-how-do-i-protect-specific-cells.prompt.json",
+  "prompt": "How do I protect specific cells of a sheet in Excel?",
+  "promptWords": 11,
+  "completion": "To protect specific cells in an Excel sheet, follow these steps:\n\n1. **Unprotect the Sheet (if it's already protected):**\n   - Go to the \"Review\" tab in the Excel ribbon.\n   - Click on \"Unprotect Sheet\" and enter the password if prompted.\n\n2. **Select the Cells to Protect:**\n   - Click and drag to select the specific cells you want to protect.\n\n3. **Format Cells as Locked:**\n   - Right-click on the selected cells and choose \"Format Cells.\"\n   - In the \"Format Cells\" dialog box, go to the \"Protection\" tab.\n   - Check the \"Locked\" box and click \"OK.\"\n\n4. **Protect the Sheet:**\n   - Go back to the \"Review\" tab.\n   - Click on \"Protect Sheet.\"\n   - In the \"Protect Sheet\" dialog box, you can set a password (optional) and choose what actions users are allowed to perform (e.g., select locked cells, select unlocked cells).\n   - Click \"OK.\"\n\nNow, only the cells you selected will be protected, and users will not be able to edit them unless they unprotect the sheet.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:27:09.0739725+02:00",
+  "durationSeconds": 6.98,
+  "stats": "mistral-small3.2:latest · 519 + 243 tokens · 7,0 s",
+  "isError": false,
+  "language": "EN"
+}

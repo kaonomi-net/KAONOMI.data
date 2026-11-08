@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-detroit-d-ormuz",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "détroit d'Ormuz",
+  "entityType": "LOCATION",
+  "description": "Cité par 2 intels : Détroit d'Ormuz ; Détroit d'Ormuz et marchés.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Surveiller la sécurité du passage stratégique du détroit d'Ormuz.",
+    "Suivre l'effet du blocus iranien du détroit d'Ormuz sur les marchés."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "détroit d'Ormuz",
+  "tags": [
+    "#ENERGIE",
+    "#IRAN",
+    "#GEOPOLITIQUE",
+    "#MARITIME",
+    "#BOURSE"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Iran",
+    "Ormuz",
+    "pétrole",
+    "pétroliers",
+    "marine américaine",
+    "golfe Persique",
+    "transport maritime",
+    "inflation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

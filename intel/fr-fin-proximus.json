@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-proximus",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Proximus",
+  "includedEntities": [
+    {
+      "entityName": "Proximus",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "télécoms",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Proximus et le marché belge des télécoms.",
+  "isFuzzy": false,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Digi",
+    "fibre",
+    "dividende"
+  ],
+  "questions": [
+    "Quel résultat ?",
+    "Quel effet de la concurrence ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BELGIQUE",
+    "#TELECOMS"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

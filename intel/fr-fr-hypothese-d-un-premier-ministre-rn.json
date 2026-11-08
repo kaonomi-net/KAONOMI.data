@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-hypothese-d-un-premier-ministre-rn",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Hypothèse d'un Premier ministre RN",
+  "includedEntities": [
+    {
+      "entityName": "Premier ministre",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Rassemblement national",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cohabitation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les scénarios d'un gouvernement mené par le RN.",
+  "isFuzzy": true,
+  "locations": [
+    "Matignon"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Jordan Bardella",
+    "majorité",
+    "Assemblée"
+  ],
+  "questions": [
+    "Qui serait Premier ministre ?",
+    "Avec quelle majorité ?",
+    "Quel programme ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#GOUVERNEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!INCERTITUDE"
+  ],
+  "isDeleted": false
+}

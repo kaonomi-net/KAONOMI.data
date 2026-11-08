@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-avis-de-la-cour-de-justice-sur-le-mercosur",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Avis de la Cour de justice sur le Mercosur",
+  "includedEntities": [
+    {
+      "entityName": "Cour de justice",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Mercosur",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'avis demandé à la Cour de justice sur l'accord avec le Mercosur.",
+  "isFuzzy": true,
+  "locations": [
+    "Luxembourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Parlement européen",
+    "application provisoire",
+    "compétences"
+  ],
+  "questions": [
+    "Quand l'avis est-il rendu ?",
+    "Quelle conclusion ?",
+    "Quel retard pour l'accord ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MERCOSUR",
+    "#COUR-DE-JUSTICE"
+  ],
+  "events": [
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!BLOCAGE"
+  ],
+  "isDeleted": false
+}

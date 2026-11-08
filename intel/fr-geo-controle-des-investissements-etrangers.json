@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-controle-des-investissements-etrangers",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Contrôle des investissements étrangers",
+  "includedEntities": [
+    {
+      "entityName": "investissements étrangers",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "contrôle",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "rachat",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le filtrage des investissements étrangers dans les secteurs stratégiques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Chine",
+    "entreprises stratégiques",
+    "État"
+  ],
+  "questions": [
+    "Quel rachat bloqué ?",
+    "Quel secteur ?",
+    "Quel pays acheteur ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ECONOMIE",
+    "#SOUVERAINETE"
+  ],
+  "events": [],
+  "signals": [
+    "!PROTECTION"
+  ],
+  "isDeleted": false
+}

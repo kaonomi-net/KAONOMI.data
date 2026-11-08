@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-mineurs-delinquants",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Mineurs délinquants",
+  "includedEntities": [
+    {
+      "entityName": "mineurs",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "délinquance",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "justice des mineurs",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur la justice des mineurs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "réforme",
+    "comparution immédiate",
+    "éducateurs"
+  ],
+  "questions": [
+    "Quelle réforme ?",
+    "Quel vote ?",
+    "Quelle critique ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#JUSTICE",
+    "#MINEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

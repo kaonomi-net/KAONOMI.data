@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-passion",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un amour intense.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:passion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:passionn[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fou\\s+amoureux)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:folle\\s+amoureuse)(?![\\w-])"
+  ],
+  "symbol": "passion",
+  "event": null,
+  "title": "Passion",
+  "tags": [
+    "#AMOUR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

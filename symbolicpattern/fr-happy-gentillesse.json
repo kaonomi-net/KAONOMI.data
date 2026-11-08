@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-gentillesse",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une douceur aimable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:gentillesse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gentil(le|s|les)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:aimable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:adorable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:charmant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "gentillesse",
+  "event": null,
+  "title": "Gentillesse",
+  "tags": [
+    "#AMITIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

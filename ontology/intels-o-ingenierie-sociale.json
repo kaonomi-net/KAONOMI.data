@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ingenierie-sociale",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "ingénierie sociale",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Scattered Spider ; Tests d'intrusion physiques ; Ingénierie sociale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le groupe Scattered Spider et ses attaques par ingénierie sociale.",
+    "Suivre les tests d'intrusion physiques autorisés.",
+    "Suivre les attaques par ingénierie sociale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "ingénierie sociale",
+  "tags": [
+    "#CYBERSECURITE",
+    "#INGENIERIE-SOCIALE",
+    "#RANCONGICIEL",
+    "#PENTEST",
+    "#SECURITE-PHYSIQUE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!DEFENSE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "arrestations",
+    "Scattered Spider",
+    "centres d'assistance",
+    "Royaume-Uni",
+    "distribution",
+    "États-Unis",
+    "intrusion physique",
+    "contrôle d'accès",
+    "badge",
+    "centre d'assistance"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

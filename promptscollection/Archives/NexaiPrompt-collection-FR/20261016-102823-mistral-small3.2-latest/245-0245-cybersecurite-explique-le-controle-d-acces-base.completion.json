@@ -1,0 +1,13 @@
+{
+  "index": 245,
+  "file": "0245-cybersecurite-explique-le-controle-d-acces-base.prompt.json",
+  "prompt": "Explique le contrôle d'accès basé sur les rôles de façon simple.",
+  "promptWords": 11,
+  "completion": "Le contrôle d'accès basé sur les rôles (RBAC, pour *Role-Based Access Control*) est une méthode simple et efficace pour gérer les permissions dans un système informatique. Voici une explication simplifiée :\n\n1. **Rôles** : Au lieu de donner des droits à chaque personne individuellement, on crée des rôles qui regroupent des permissions similaires. Par exemple, dans une entreprise, on pourrait avoir les rôles \"Administrateur\", \"Employé\" ou \"Invité\".\n\n2. **Permissions** : Chaque rôle a des permissions spécifiques. Par exemple, un \"Administrateur\" peut tout faire, un \"Employé\" peut seulement accéder à certaines données, et un \"Invité\" ne peut que consulter des informations.\n\n3. **Attribution** : On attribue ensuite ces rôles aux utilisateurs. Un employé du service comptabilité aura le rôle \"Comptable\", et un manager aura le rôle \"Manager\".\n\n4. **Accès contrôlé** : Quand un utilisateur veut accéder à une ressource (un fichier, une page web, etc.), le système vérifie son rôle et ses permissions pour autoriser ou refuser l'accès.\n\n**Avantages** :\n- **Simplicité** : Moins de configurations individuelles.\n- **Sécurité** : Moins de risques d'erreurs ou de permissions mal attribuées.\n- **Flexibilité** : Facile à adapter quand les besoins changent.\n\nEn résumé, le RBAC permet de gérer qui peut faire quoi dans un système de manière organisée et sécurisée.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:09:45.8540606+02:00",
+  "durationSeconds": 6.58,
+  "stats": "mistral-small3.2:latest · 521 + 322 tokens · 6,6 s",
+  "isError": false,
+  "language": "FR"
+}

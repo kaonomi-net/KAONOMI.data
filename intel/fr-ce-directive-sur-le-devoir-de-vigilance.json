@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-directive-sur-le-devoir-de-vigilance",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Directive sur le devoir de vigilance",
+  "includedEntities": [
+    {
+      "entityName": "devoir de vigilance",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "CSDDD",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'allègement de la directive sur le devoir de vigilance des entreprises.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "omnibus",
+    "entreprises",
+    "ONG"
+  ],
+  "questions": [
+    "Quel allègement ?",
+    "Quelles entreprises concernées ?",
+    "Quel vote ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SIMPLIFICATION",
+    "#ENTREPRISES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

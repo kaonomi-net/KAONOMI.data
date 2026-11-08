@@ -1,0 +1,13 @@
+{
+  "index": 470,
+  "file": "0470-machine-learning-qu-est-ce-qu-une-matrice.prompt.json",
+  "prompt": "Qu'est-ce qu'une matrice de confusion ?",
+  "promptWords": 6,
+  "completion": "Une matrice de confusion est un tableau utilisé pour évaluer les performances d'un modèle de classification, en particulier en machine learning. Elle permet de visualiser les erreurs commises par le modèle en comparant ses prédictions avec les valeurs réelles.\n\nVoici comment elle est structurée :\n\n- **Lignes** : Représentent les classes réelles (les valeurs observées).\n- **Colonnes** : Représentent les classes prédites par le modèle.\n\nPour un problème binaire (deux classes), la matrice de confusion est généralement organisée comme suit :\n\n|                   | Prédit Positif | Prédit Négatif |\n|-------------------|----------------|----------------|\n| **Réel Positif**  | Vrais Positifs (VP) | Faux Négatifs (FN) |\n| **Réel Négatif**  | Faux Positifs (FP) | Vrais Négatifs (VN) |\n\n- **Vrais Positifs (VP)** : Le modèle a correctement prédit la classe positive.\n- **Faux Négatifs (FN)** : Le modèle a prédit la classe négative alors que c'était positif.\n- **Faux Positifs (FP)** : Le modèle a prédit la classe positive alors que c'était négatif.\n- **Vrais Négatifs (VN)** : Le modèle a correctement prédit la classe négative.\n\nÀ partir de cette matrice, on peut calculer plusieurs métriques importantes comme :\n- **Précision** : \\( \\frac{VP}{VP + FP} \\)\n- **Rappel (Sensibilité)** : \\( \\frac{VP}{VP + FN} \\)\n- **F-mesure** : Moyenne harmonique de la précision et du rappel.\n- **Taux d'erreur** : \\( \\frac{FN + FP}{VP + VN + FP + FN} \\)\n\nLa matrice de confusion est particulièrement utile pour comprendre les types d'erreurs commises par le modèle et pour identifier les classes pour lesquelles le modèle a des difficultés.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:51:24.5115655+02:00",
+  "durationSeconds": 8.7,
+  "stats": "mistral-small3.2:latest · 516 + 431 tokens · 8,7 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-genetique",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "génétique",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Intelligence et QI ; Génétique et troubles psychiques.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les études sur l'intelligence et le quotient intellectuel.",
+    "Suivre la génétique des troubles psychiques."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "génétique",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#COGNITION",
+    "#INTELLIGENCE",
+    "#GENETIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT",
+    "!SCIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "effet Flynn",
+    "intelligence",
+    "QI",
+    "tests",
+    "troubles psychiques",
+    "gènes",
+    "héritabilité",
+    "scores polygéniques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

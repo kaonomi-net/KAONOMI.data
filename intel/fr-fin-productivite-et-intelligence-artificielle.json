@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-productivite-et-intelligence-artificielle",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Productivité et intelligence artificielle",
+  "includedEntities": [
+    {
+      "entityName": "productivité",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les effets mesurés de l'IA sur la productivité.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "entreprises",
+    "emploi",
+    "croissance"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel gain ?",
+    "Quel secteur ?"
+  ],
+  "tags": [
+    "#ECONOMIE",
+    "#IA",
+    "#PRODUCTIVITE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENDANCE"
+  ],
+  "isDeleted": false
+}

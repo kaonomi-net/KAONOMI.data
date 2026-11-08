@@ -1,0 +1,13 @@
+{
+  "index": 997,
+  "file": "0997-rust-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Rust qui illustre les itérateurs.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en Rust qui illustre l'utilisation des itérateurs. Ce code montre comment créer et manipuler des itérateurs pour filtrer, mapper et réduire une collection de données :\n\n```rust\nfn main() {\n    // Création d'un vecteur de nombres\n    let numbers = vec![1, 2, 3, 4, 5, 6, 7, 8, 9, 10];\n\n    // Utilisation d'un itérateur pour filtrer les nombres pairs\n    let even_numbers: Vec<i32> = numbers.iter()\n        .filter(|&&x| x % 2 == 0)  // Filtre les nombres pairs\n        .map(|&x| x * 2)           // Multiplie chaque nombre pair par 2\n        .collect();                 // Collecte les résultats dans un nouveau vecteur\n\n    println!(\"Nombres pairs multipliés par 2: {:?}\", even_numbers);\n\n    // Utilisation d'un itérateur pour calculer la somme des nombres impairs\n    let sum_of_odds: i32 = numbers.iter()\n        .filter(|&&x| x % 2 != 0)  // Filtre les nombres impairs\n        .sum();                     // Calcule la somme des nombres impairs\n\n    println!(\"Somme des nombres impairs: {}\", sum_of_odds);\n\n    // Utilisation d'un itérateur pour trouver le premier nombre supérieur à 5\n    if let Some(&first_above_five) = numbers.iter().find(|&&x| x > 5) {\n        println!(\"Premier nombre supérieur à 5: {}\", first_above_five);\n    } else {\n        println!(\"Aucun nombre supérieur à 5 trouvé.\");\n    }\n}\n```\n\nExplications :\n1. `iter()` crée un itérateur sur le vecteur.\n2. `filter()` permet de sélectionner les éléments qui satisfont une condition.\n3. `map()` transforme chaque élément selon une fonction donnée.\n4. `collect()` permet de convertir l'itérateur en une autre collection (ici un `Vec`).\n5. `sum()` calcule la somme des éléments de l'itérateur.\n6. `find()` retourne le premier élément qui satisfait une condition.\n\nLes itérateurs en Rust sont puissants et permettent de manipuler des collections de manière déclarative et efficace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T14:04:43.1879588+02:00",
+  "durationSeconds": 10.18,
+  "stats": "mistral-small3.2:latest · 523 + 504 tokens · 10,2 s",
+  "isError": false,
+  "language": "FR"
+}

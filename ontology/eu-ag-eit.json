@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'innovation) : Institut européen d'innovation et de technologie (EIT), organe de l'Union créé en 2008 et installé dans cette ville : Budapest.",
+  "id": "eu-ag-eit",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Institut européen d'innovation et de technologie (EIT)",
+  "entityType": "ORGANISATION",
+  "description": "Institut européen d'innovation et de technologie (EIT), organe de l'Union créé en 2008 et installé dans cette ville : Budapest.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "« Institut européen d'innovation et de technologie (EIT) » joue un rôle dans l'innovation.",
+    "Les fonctionnaires de « Institut européen d'innovation et de technologie (EIT) » préparent les textes relatifs à l'innovation.",
+    "La délégation a rencontré des représentants de « Institut européen d'innovation et de technologie (EIT) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EIT"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#INNOVATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Institut%20europ%C3%A9en%20d%27innovation%20et%20de%20technologie%20%28EIT%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Budapest",
+    "Direction générale de l'éducation, de la jeunesse, du sport et de la culture",
+    "Innovation"
+  ],
+  "isDeleted": false,
+  "startDate": "2008-01-01T00:00:00",
+  "endDate": null
+}

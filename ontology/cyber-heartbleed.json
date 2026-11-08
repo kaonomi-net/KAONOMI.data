@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (les vulnérabilités) : Faille d'OpenSSL qui permettait de lire la mémoire des serveurs, dont leurs clés privées ; elle touche une large part du web.",
+  "id": "cyber-heartbleed",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Faille Heartbleed",
+  "entityType": "EVENT",
+  "description": "Faille d'OpenSSL qui permettait de lire la mémoire des serveurs, dont leurs clés privées ; elle touche une large part du web.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "« Faille Heartbleed » est un jalon de l'histoire de la cybersécurité.",
+    "Dans sa conférence, l'historienne est revenue sur « Faille Heartbleed ».",
+    "On date souvent un tournant des vulnérabilités à « Faille Heartbleed »."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 4,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "CVE-2014-0160"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#VULNERABILITES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Faille%20Heartbleed"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Neel Mehta",
+    "OpenSSL",
+    "Faille Shellshock",
+    "Faille DNS de Kaminsky"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-04-07T00:00:00",
+  "endDate": "2014-04-07T00:00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (l'éducation) : Programme de mobilité et de coopération dans l'éducation, la formation, la jeunesse et le sport.",
+  "id": "eu-prog-erasmus",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Erasmus+",
+  "entityType": "PROGRAMME",
+  "description": "Programme de mobilité et de coopération dans l'éducation, la formation, la jeunesse et le sport.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Les bénéficiaires de « Erasmus+ » sont publiés en ligne.",
+    "L'appel à propositions de « Erasmus+ » est ouvert.",
+    "La Commission gère « Erasmus+ » avec les États membres ou ses agences."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "Erasmus"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#EDUCATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Erasmus%2B"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de l'éducation, de la jeunesse, du sport et de la culture",
+    "Éducation",
+    "Jeunesse",
+    "Sport",
+    "Agence exécutive européenne pour l'éducation et la culture (EACEA)"
+  ],
+  "isDeleted": false,
+  "startDate": "1987-01-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

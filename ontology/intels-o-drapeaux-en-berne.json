@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-drapeaux-en-berne",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "drapeaux en berne",
+  "entityType": "EVENT",
+  "description": "Cité par 1 intel : Von der Leyen et les attentats ou drames en Europe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les réactions de la présidente aux drames qui frappent l'Europe."
+  ],
+  "angryLevel": null,
+  "sadLevel": 100,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "drapeaux en berne",
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#SOLIDARITE"
+  ],
+  "events": [
+    "@CONDOLEANCES"
+  ],
+  "signals": [
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "victimes",
+    "Cracovie",
+    "von der Leyen",
+    "solidarité",
+    "condoléances",
+    "États membres"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

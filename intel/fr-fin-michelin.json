@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-michelin",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Michelin",
+  "includedEntities": [
+    {
+      "entityName": "Michelin",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "pneumatiques",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [
+    {
+      "entityName": "étoile",
+      "entityWeight": ""
+    }
+  ],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Michelin.",
+  "isFuzzy": false,
+  "locations": [
+    "Clermont-Ferrand"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "volumes",
+    "usines",
+    "droits de douane"
+  ],
+  "questions": [
+    "Quels volumes ?",
+    "Quelle restructuration ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#AUTOMOBILE"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

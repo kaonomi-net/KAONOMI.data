@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Spécialiste de l'histoire.",
+  "id": "eu-met-historien",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Historien",
+  "entityType": "PROFESSION",
+  "description": "Spécialiste de l'histoire.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "Les candidats aux concours européens découvrent le métier « Historien ».",
+    "Historien : plusieurs personnalités de l'ontologie ont exercé cette fonction.",
+    "La fiche « Historien » décrit le rôle et les responsabilités associés."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Historien"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Donald Tusk"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

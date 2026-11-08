@@ -1,0 +1,13 @@
+{
+  "index": 138,
+  "file": "0138-microsoft-office-how-do-i-round-a-result.prompt.json",
+  "prompt": "How do I round a result in Excel?",
+  "promptWords": 8,
+  "completion": "To round a result in Excel, you can use one of the following functions depending on your needs:\n\n1. **ROUND function**: Rounds a number to a specified number of digits.\n   - Syntax: `=ROUND(number, num_digits)`\n   - Example: `=ROUND(3.14159, 2)` returns `3.14`\n\n2. **ROUNDUP function**: Rounds a number up to a specified number of digits.\n   - Syntax: `=ROUNDUP(number, num_digits)`\n   - Example: `=ROUNDUP(3.14159, 2)` returns `3.15`\n\n3. **ROUNDDOWN function**: Rounds a number down to a specified number of digits.\n   - Syntax: `=ROUNDDOWN(number, num_digits)`\n   - Example: `=ROUNDDOWN(3.14159, 2)` returns `3.14`\n\n4. **MROUND function**: Rounds a number to the nearest multiple or significant digit.\n   - Syntax: `=MROUND(number, multiple)`\n   - Example: `=MROUND(3.14159, 0.05)` returns `3.15`\n\n5. **FLOOR function**: Rounds a number down to the nearest multiple or significant digit.\n   - Syntax: `=FLOOR(number, significance)`\n   - Example: `=FLOOR(3.14159, 0.05)` returns `3.10`\n\n6. **CEILING function**: Rounds a number up to the nearest multiple or significant digit.\n   - Syntax: `=CEILING(number, significance)`\n   - Example: `=CEILING(3.14159, 0.05)` returns `3.15`\n\n7. **INT function**: Rounds a number down to the nearest integer.\n   - Syntax: `=INT(number)`\n   - Example: `=INT(3.14159)` returns `3`\n\n8. **TRUNC function**: Truncates a number to a specified number of digits.\n   - Syntax: `=TRUNC(number, num_digits)`\n   - Example: `=TRUNC(3.14159, 2)` returns `3.14`\n\nChoose the function that best fits your rounding needs.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:29:02.8697695+02:00",
+  "durationSeconds": 12.71,
+  "stats": "mistral-small3.2:latest · 516 + 515 tokens · 12,7 s",
+  "isError": false,
+  "language": "EN"
+}

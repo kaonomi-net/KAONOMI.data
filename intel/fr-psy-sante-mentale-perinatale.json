@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-sante-mentale-perinatale",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Santé mentale périnatale",
+  "includedEntities": [
+    {
+      "entityName": "périnatalité",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la santé mentale des parents autour de la naissance.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "entretien postnatal",
+    "1000 premiers jours",
+    "pères"
+  ],
+  "questions": [
+    "Quel dispositif ?",
+    "Quelle étude ?",
+    "Quel manque ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PERINATALITE"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

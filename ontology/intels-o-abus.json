@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-abus",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "abus",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Rapports des laboratoires d'IA sur les abus.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les rapports d'Anthropic, OpenAI et Google sur les usages malveillants détectés."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "abus",
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#TRANSPARENCE"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!VEILLE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "États",
+    "cybercriminels",
+    "laboratoire d'IA",
+    "comptes bannis",
+    "rapport"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (la sécurité industrielle) : Découverte d'un ver conçu pour saboter les centrifugeuses iraniennes en reprogrammant des automates industriels.",
+  "id": "cyber-stuxnet-discovery",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Découverte de Stuxnet",
+  "entityType": "EVENT",
+  "description": "Découverte d'un ver conçu pour saboter les centrifugeuses iraniennes en reprogrammant des automates industriels.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "La frise chronologique de la salle de formation place « Découverte de Stuxnet » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Découverte de Stuxnet ».",
+    "L'événement « Découverte de Stuxnet » a marqué durablement l'histoire de la sécurité industrielle."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 2,
+  "surpriseLevel": 4,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "découverte de Stuxnet"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#SECURITEINDUSTRIELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=D%C3%A9couverte%20de%20Stuxnet"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Stuxnet"
+  ],
+  "isDeleted": false,
+  "startDate": "2010-06-01T00:00:00",
+  "endDate": "2010-06-01T00:00:00"
+}

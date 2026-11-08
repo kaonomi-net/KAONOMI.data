@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-meta-analyses-en-psychologie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Méta-analyses en psychologie",
+  "includedEntities": [
+    {
+      "entityName": "méta-analyse",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "psychologie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les méta-analyses qui font le point sur un sujet.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "preuves",
+    "efficacité",
+    "biais de publication"
+  ],
+  "questions": [
+    "Quelle méta-analyse ?",
+    "Quelle conclusion ?",
+    "Quelle limite ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#RECHERCHE",
+    "#PREUVES"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

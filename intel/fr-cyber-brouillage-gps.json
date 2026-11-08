@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-brouillage-gps",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Brouillage GPS",
+  "includedEntities": [
+    {
+      "entityName": "brouillage",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "GPS",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le brouillage et le leurrage GPS.",
+  "isFuzzy": true,
+  "locations": [
+    "mer Baltique",
+    "Moyen-Orient"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "aviation",
+    "navires",
+    "Russie"
+  ],
+  "questions": [
+    "Quelle zone ?",
+    "Quel impact ?",
+    "Quelle attribution ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#GUERRE-ELECTRONIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

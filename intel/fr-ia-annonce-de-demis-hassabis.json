@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-annonce-de-demis-hassabis",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Annonce de Demis Hassabis",
+  "includedEntities": [
+    {
+      "entityName": "Demis Hassabis",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "DeepMind",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les annonces du dirigeant de Google DeepMind.",
+  "isFuzzy": true,
+  "locations": [
+    "Londres"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Google",
+    "AlphaFold",
+    "Gemini"
+  ],
+  "questions": [
+    "Quelle annonce ?",
+    "Quelle découverte ?",
+    "Quelle vision de l'AGI ?"
+  ],
+  "tags": [
+    "#IA",
+    "#PERSONNALITE",
+    "#DEEPMIND"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

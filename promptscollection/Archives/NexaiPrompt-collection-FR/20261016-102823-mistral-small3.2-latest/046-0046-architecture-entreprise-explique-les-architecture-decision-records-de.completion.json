@@ -1,0 +1,13 @@
+{
+  "index": 46,
+  "file": "0046-architecture-entreprise-explique-les-architecture-decision-records-de.prompt.json",
+  "prompt": "Explique les Architecture Decision Records de façon simple.",
+  "promptWords": 8,
+  "completion": "Les **Architecture Decision Records (ADRs)** sont des documents simples et concis qui enregistrent les décisions importantes prises lors du développement d'un projet logiciel. Leur but est de garder une trace des choix architecturaux, de leurs motivations et de leurs conséquences, afin que toute l'équipe puisse comprendre pourquoi certaines décisions ont été prises.\n\n### En résumé :\n1. **Quoi ?**\n   - Un ADR est un fichier texte (souvent en Markdown) qui décrit une décision architecturale.\n   - Il inclut :\n     - Le **problème** à résoudre.\n     - Les **options** envisagées.\n     - La **solution choisie** et pourquoi.\n     - Les **conséquences** (avantages/inconvénients).\n\n2. **Pourquoi ?**\n   - **Clarté** : Expliquer les choix pour les nouveaux membres de l'équipe.\n   - **Transparence** : Justifier les décisions pour éviter les débats futurs.\n   - **Historique** : Garder une trace des évolutions du projet.\n\n3. **Exemple de structure** :\n   ```markdown\n   # Titre de la décision\n\n   **Date** : 2023-10-01\n   **Statut** : Acceptée\n\n   ## Contexte\n   [Décrire le problème ou le besoin.]\n\n   ## Options\n   - Option 1 : [Description]\n   - Option 2 : [Description]\n\n   ## Décision\n   [Choix final et justification.]\n\n   ## Conséquences\n   [Impact positif/négatif.]\n   ```\n\n4. **Où les stocker ?**\n   - Souvent dans un dépôt Git, dans un dossier dédié (ex: `/docs/adr`).\n\n### À retenir :\nLes ADRs ne sont pas des documents rigides, mais des outils vivants qui aident à documenter et partager la connaissance au sein d'une équipe. Ils sont particulièrement utiles dans les projets complexes où les choix architecturaux ont un impact à long terme.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:37:27.6097513+02:00",
+  "durationSeconds": 8.56,
+  "stats": "mistral-small3.2:latest · 517 + 424 tokens · 8,6 s",
+  "isError": false,
+  "language": "FR"
+}

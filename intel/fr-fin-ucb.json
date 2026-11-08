@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-ucb",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "UCB",
+  "includedEntities": [
+    {
+      "entityName": "UCB",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Bimzelx",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action UCB, portée par Bimzelx et des objectifs 2026 relevés.",
+  "isFuzzy": false,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Bimzelx",
+    "Jean-Christophe Tellier",
+    "analystes"
+  ],
+  "questions": [
+    "Quelles ventes ?",
+    "Quel objectif ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#PHARMA"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

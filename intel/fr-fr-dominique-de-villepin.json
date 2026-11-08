@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-dominique-de-villepin",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Dominique de Villepin",
+  "includedEntities": [
+    {
+      "entityName": "Dominique de Villepin",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "candidature",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la candidature éventuelle de Dominique de Villepin.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "La France humaniste",
+    "diplomatie",
+    "sondages"
+  ],
+  "questions": [
+    "Est-il candidat ?",
+    "Quel score ?",
+    "Quels soutiens ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#CANDIDATS"
+  ],
+  "events": [
+    "@CANDIDATURE"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-mer-noire",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "mer Noire",
+  "entityType": "LOCATION",
+  "description": "Cité par 12 intels : Médiation de la Turquie ; Frappes de missiles de croisière ; Frappes sur Odessa et les ports ; Drones navals ukrainiens ; Avions russes près de l'espace aérien de l'OTAN ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre le rôle de médiateur de la Turquie entre Moscou et Kyiv.",
+    "Suivre les frappes de missiles de croisière russes.",
+    "Surveiller les frappes sur Odessa et les infrastructures portuaires."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "mer Noire",
+  "tags": [
+    "#MER-NOIRE",
+    "#UKRAINE",
+    "#MARITIME",
+    "#RUSSIE",
+    "#CEREALES",
+    "#GEOPOLITIQUE"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME",
+    "@FRAPPE",
+    "@ATTAQUE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!SECURITE",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Odessa",
+    "navires",
+    "céréales",
+    "Bulgarie",
+    "Roumanie",
+    "Turquie",
+    "port",
+    "flotte russe",
+    "OTAN",
+    "Bosphore"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

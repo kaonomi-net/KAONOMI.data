@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-sage-femme",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La personne qui aide les femmes à accoucher.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sage(s)?-femme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ma[ïi]euticien(ne|s|nes)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:suivi\\s+de\\s+grossesse)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]chographie(s)?)(?![\\w-])"
+  ],
+  "symbol": "sage-femme",
+  "event": null,
+  "title": "Sage-femme",
+  "tags": [
+    "#NAISSANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

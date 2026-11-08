@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-junte",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "junte",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Guerre civile en Birmanie ; Juntes militaires du Sahel ; Coups d'État en Afrique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre le conflit entre la junte birmane et les groupes armés.",
+    "Suivre les régimes militaires du Mali, du Burkina Faso et du Niger.",
+    "Repérer les prises de pouvoir militaires sur le continent africain."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "junte",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#AFRIQUE",
+    "#BIRMANIE",
+    "#CONFLIT",
+    "#SAHEL",
+    "#COUP-ETAT"
+  ],
+  "events": [
+    "@COUP-ETAT"
+  ],
+  "signals": [
+    "!INSTABILITE",
+    "!CONFLIT",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "CEDEAO",
+    "Rohingyas",
+    "ASEAN",
+    "États shan",
+    "résistance",
+    "Birmanie",
+    "Rangoun",
+    "Chine",
+    "Naypyidaw",
+    "Mali"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

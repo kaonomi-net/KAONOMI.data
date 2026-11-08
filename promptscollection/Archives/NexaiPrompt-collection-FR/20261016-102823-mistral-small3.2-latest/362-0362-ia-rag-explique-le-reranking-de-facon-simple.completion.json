@@ -1,0 +1,13 @@
+{
+  "index": 362,
+  "file": "0362-ia-rag-explique-le-reranking-de-facon-simple.prompt.json",
+  "prompt": "Explique le reranking de façon simple.",
+  "promptWords": 6,
+  "completion": "Le reranking est une technique utilisée en traitement automatique du langage (NLP) et en recherche d'information pour améliorer l'ordre des résultats obtenus après une première recherche. Voici une explication simple :\n\n1. **Première recherche (Ranking initial)** : Imagine que tu cherches des articles sur un sujet précis. Un moteur de recherche te donne une liste de résultats, mais ils ne sont pas toujours parfaitement classés par pertinence.\n\n2. **Reranking** : C'est comme un tri supplémentaire. Après avoir obtenu cette première liste, le reranking utilise des modèles plus sophistiqués (souvent des modèles de langage comme moi) pour reclasser les résultats en fonction de leur pertinence réelle par rapport à ta requête.\n\n3. **Résultat final** : Tu obtiens une liste de résultats mieux organisée, avec les éléments les plus pertinents en haut.\n\nEn résumé, le reranking est une étape qui affine les résultats pour te donner ce qui correspond le mieux à ce que tu cherches.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:31:19.3913977+02:00",
+  "durationSeconds": 4.32,
+  "stats": "mistral-small3.2:latest · 516 + 209 tokens · 4,3 s",
+  "isError": false,
+  "language": "FR"
+}

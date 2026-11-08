@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-obscenite",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui blesse la pudeur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:obsc[ée]nit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:obsc[èe]ne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ind[ée]cence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ind[ée]cent(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:impudique(s)?)(?![\\w-])"
+  ],
+  "symbol": "obscénité",
+  "event": null,
+  "title": "Obscénité",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

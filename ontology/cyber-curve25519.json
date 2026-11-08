@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (la cryptographie sur courbes elliptiques) : Courbe elliptique de Daniel J.",
+  "id": "cyber-curve25519",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Curve25519",
+  "entityType": "ALGORITHM",
+  "description": "Courbe elliptique de Daniel J. Bernstein conçue pour un échange de clés rapide et sûr (X25519).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "La chercheuse a présenté une analyse de Curve25519 lors du séminaire.",
+    "Curve25519 est enseigné dans tous les cours consacrés à la cryptographie sur courbes elliptiques.",
+    "L'audit vérifie que Curve25519 est utilisé correctement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "X25519"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CRYPTOGRAPHIESURCOURBESELLIPTI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Curve25519"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Daniel J. Bernstein",
+    "Cryptographie sur courbes elliptiques",
+    "Protocole Signal",
+    "WireGuard"
+  ],
+  "isDeleted": false,
+  "startDate": "2005-01-01T00:00:00",
+  "endDate": null
+}

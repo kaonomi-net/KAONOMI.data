@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-charge-de-la-dette-francaise",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Charge de la dette française",
+  "includedEntities": [
+    {
+      "entityName": "charge de la dette",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "intérêts",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le coût des intérêts de la dette française.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "budget",
+    "taux",
+    "Cour des comptes"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quelle hausse ?",
+    "Quel effet sur le budget ?"
+  ],
+  "tags": [
+    "#DETTE",
+    "#FRANCE",
+    "#BUDGET"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

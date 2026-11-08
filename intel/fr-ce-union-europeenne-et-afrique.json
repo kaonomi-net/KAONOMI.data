@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-union-europeenne-et-afrique",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Union européenne et Afrique",
+  "includedEntities": [
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Afrique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "partenariat",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les relations entre l'Union et l'Afrique.",
+  "isFuzzy": true,
+  "locations": [
+    "Addis-Abeba",
+    "Bruxelles"
+  ],
+  "times": [
+    "sommet UE-UA"
+  ],
+  "relatedEntities": [
+    "Union africaine",
+    "migrations",
+    "investissements"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quel financement ?",
+    "Quelle concurrence chinoise ou russe ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AFRIQUE",
+    "#PARTENARIAT"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-hackers",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "hackers",
+  "entityType": "PROFESSION",
+  "description": "Cité par 4 intels : Cyberattaques contre les commerces européens ; Cyberattaque assistée par IA ; Fraude aux données personnelles ; Anonymous.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les cyberattaques contre des commerces et systèmes de réfrigération.",
+    "Surveiller l'usage de l'IA par les attaquants informatiques.",
+    "Repérer les fuites massives de données de Français."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "hackers",
+  "tags": [
+    "#CYBER",
+    "#CYBERSECURITE",
+    "#EUROPE",
+    "#GUERRE-HYBRIDE",
+    "#IA",
+    "#MENACE"
+  ],
+  "events": [
+    "@INCIDENT-CYBER",
+    "@INCIDENT-SECURITE",
+    "@FUITE-DONNEES"
+  ],
+  "signals": [
+    "!MENACE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "cyberattaque",
+    "Europe",
+    "supermarchés",
+    "infrastructures",
+    "Russie",
+    "piratage",
+    "Pologne",
+    "rançongiciel",
+    "phishing",
+    "IA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

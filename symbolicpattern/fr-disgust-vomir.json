@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-vomir",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Rejeter par la bouche le contenu de l'estomac.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vomi(r|t|ssent|ssait|ssement|ssements)|rend(re|u)\\s+(son|tout\\s+son)\\s+repas)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]gurgit(er|[ée]|[ée]e)|d[ée]gobill(er|[ée])|rendre\\s+tripes\\s+et\\s+boyaux)(?![\\w-])"
+  ],
+  "symbol": "vomir",
+  "event": null,
+  "title": "Vomir",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

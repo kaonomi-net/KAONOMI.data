@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (les compétences) : Formation tout au long de la vie, reconversion et adaptation aux besoins du marché du travail.",
+  "id": "eu-dom-competences",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Compétences",
+  "entityType": "DOMAIN",
+  "description": "Formation tout au long de la vie, reconversion et adaptation aux besoins du marché du travail.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Plusieurs commissaires ont été chargés du domaine « Compétences ».",
+    "Le domaine « Compétences » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Compétences »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#COMPETENCES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Comp%C3%A9tences"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Emploi et droits sociaux (Commission von der Leyen I)",
+    "Nicolas Schmit",
+    "Personnes, compétences et préparation (Commission von der Leyen II)",
+    "Roxana Mînzatu",
+    "Emploi, affaires sociales, compétences et mobilité des travailleurs (Commission Juncker)",
+    "Marianne Thyssen",
+    "Direction générale de l'emploi, des affaires sociales et de l'inclusion",
+    "Centre européen pour le développement de la formation professionnelle (Cedefop)",
+    "Fondation européenne pour la formation (ETF)",
+    "Fonds social européen plus"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

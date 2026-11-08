@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-russes-sur-l-energie-ukrainienne",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes russes sur l'énergie ukrainienne",
+  "includedEntities": [
+    {
+      "entityName": "infrastructures énergétiques",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "frappe",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les frappes contre le réseau électrique et gazier ukrainien.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "hiver"
+  ],
+  "relatedEntities": [
+    "Ukrenergo",
+    "Naftogaz",
+    "coupures"
+  ],
+  "questions": [
+    "Quelles installations touchées ?",
+    "Combien de foyers privés de courant ?",
+    "Quelle durée des coupures ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ENERGIE",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE-ENERGIE"
+  ],
+  "signals": [
+    "!TENSION-ENERGETIQUE"
+  ],
+  "isDeleted": false
+}

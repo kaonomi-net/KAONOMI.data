@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-faille-cryptographique",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Faille cryptographique",
+  "includedEntities": [
+    {
+      "entityName": "faille cryptographique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "implémentation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les failles dans des algorithmes ou implémentations cryptographiques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "OpenSSL",
+    "canaux auxiliaires",
+    "générateurs aléatoires"
+  ],
+  "questions": [
+    "Quel algorithme ?",
+    "Quelle implémentation ?",
+    "Quel correctif ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#VULNERABILITE"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

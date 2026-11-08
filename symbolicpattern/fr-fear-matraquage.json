@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-matraquage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une pression fiscale très forte.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:matraquage\\s+fiscal)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:matraquage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hausse(s)?\\s+d['’]imp[ôo]ts)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ras-le-bol\\s+fiscal)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pression\\s+fiscale)(?![\\w-])"
+  ],
+  "symbol": "matraquage",
+  "event": null,
+  "title": "Matraquage",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

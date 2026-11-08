@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Frères d'Italie (FdI), parti politique de ce pays : Italie.",
+  "id": "eu-parti-fdi",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Frères d'Italie (FdI)",
+  "entityType": "ORGANISATION",
+  "description": "Frères d'Italie (FdI), parti politique de ce pays : Italie. Il est affilié à la famille Conservateurs et réformistes européens (ECR).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Les décisions de « Frères d'Italie (FdI) » touchent la vie politique nationale.",
+    "Le rapport annuel de « Frères d'Italie (FdI) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Frères d'Italie (FdI) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fr%C3%A8res%20d%27Italie%20%28FdI%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Italie",
+    "Conservateurs et réformistes européens (ECR)",
+    "Raffaele Fitto"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

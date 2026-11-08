@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-delinquant",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Celui qui commet des délits.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]linquant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]linquance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:malfaiteur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:voleur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cambrioleur(s)?)(?![\\w-])"
+  ],
+  "symbol": "délinquant",
+  "event": null,
+  "title": "Délinquant",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

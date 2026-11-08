@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Christlich-Soziale Union in Bayern e.V., parti ou liste de ce pays : Allemagne, qui compte 6 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-de-christlich-soziale-union-in-bayern-e.v.",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Christlich-Soziale Union in Bayern e.V.",
+  "entityType": "ORGANISATION",
+  "description": "Christlich-Soziale Union in Bayern e.V., parti ou liste de ce pays : Allemagne, qui compte 6 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les eurodéputés de « Christlich-Soziale Union in Bayern e.V. » ont été élus en juin 2024.",
+    "« Christlich-Soziale Union in Bayern e.V. » est représenté dans le Parlement européen.",
+    "Le programme européen de « Christlich-Soziale Union in Bayern e.V. » a été publié avant le scrutin."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Christlich-Soziale%20Union%20in%20Bayern%20e.V."
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Christian Doleschal",
+    "Markus Ferber",
+    "Monika Hohlmeier",
+    "Stefan Köhler",
+    "Angelika Niebler",
+    "Manfred Weber",
+    "Allemagne",
+    "Parti populaire européen (PPE)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

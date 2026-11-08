@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-sur-les-chemins-de-fer",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes sur les chemins de fer",
+  "includedEntities": [
+    {
+      "entityName": "chemins de fer",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Ukrzaliznytsia",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "frappe",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques contre le réseau ferroviaire ukrainien.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "trains",
+    "gares",
+    "logistique"
+  ],
+  "questions": [
+    "Quelle ligne ?",
+    "Quelles victimes ?",
+    "Quel impact logistique ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#TRANSPORT",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!VULNERABILITE"
+  ],
+  "isDeleted": false
+}

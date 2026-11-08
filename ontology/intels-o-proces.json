@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-proces",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "procès",
+  "entityType": "EVENT",
+  "description": "Cité par 14 intels : Répression des opposants russes ; Arrestations d'espions russes ; Droit d'auteur et entraînement des modèles ; Affaires judiciaires de candidats ; Justice et procès médiatiques ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les condamnations et arrestations d'opposants en Russie.",
+    "Repérer les arrestations de personnes espionnant pour la Russie en Europe.",
+    "Surveiller les litiges sur l'usage d'œuvres protégées pour entraîner les IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": 7,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "procès",
+  "tags": [
+    "#JUSTICE",
+    "#PSYCHOLOGIE",
+    "#FRANCE",
+    "#TRAVAIL",
+    "#RUSSIE",
+    "#IA"
+  ],
+  "events": [
+    "@PROCES",
+    "@CONDAMNATION",
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!JUSTICE",
+    "!RISQUE-JURIDIQUE",
+    "!VIOLENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "condamnation",
+    "victimes",
+    "justice",
+    "enquête",
+    "tribunal",
+    "États-Unis",
+    "travail",
+    "France",
+    "irresponsabilité pénale",
+    "OVD-Info"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

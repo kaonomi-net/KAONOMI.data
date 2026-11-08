@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-hacktivistes-prorusses",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Hacktivistes prorusses",
+  "includedEntities": [
+    {
+      "entityName": "hacktivistes",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "prorusses",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les hacktivistes prorusses visant l'Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "NoName057(16)",
+    "Cyber Army of Russia",
+    "Telegram"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quelle revendication ?",
+    "Quel impact ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#HACKTIVISME",
+    "#RUSSIE"
+  ],
+  "events": [
+    "@REVENDICATION"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

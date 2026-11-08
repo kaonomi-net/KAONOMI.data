@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (le chiffrement par blocs) : Data Encryption Standard, chiffrement par blocs de 64 bits à clé de 56 bits, standard fédéral américain de 1977 à 2001.",
+  "id": "cyber-des",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "DES",
+  "entityType": "ALGORITHM",
+  "description": "Data Encryption Standard, chiffrement par blocs de 64 bits à clé de 56 bits, standard fédéral américain de 1977 à 2001.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Comprendre DES est une étape clé pour maîtriser le chiffrement par blocs.",
+    "Dans le domaine du chiffrement par blocs, DES reste une référence.",
+    "Pour ce projet, l'équipe a implémenté DES à l'aide d'une bibliothèque éprouvée."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "Data Encryption Standard"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CHIFFREMENTPARBLOCS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=DES"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Réseau de Feistel",
+    "Adoption du DES",
+    "Triple DES",
+    "AES",
+    "Cryptanalyse différentielle",
+    "Cryptanalyse linéaire",
+    "Carte à puce"
+  ],
+  "isDeleted": false,
+  "startDate": "1977-01-01T00:00:00",
+  "endDate": null
+}

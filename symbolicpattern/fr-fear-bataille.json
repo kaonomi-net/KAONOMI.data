@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-bataille",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un combat entre armées.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bataille(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:champ(s)?\\s+de\\s+bataille)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:combats\\s+acharn[ée]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:combats\\s+de\\s+rue)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gu[ée]rilla(s)?)(?![\\w-])"
+  ],
+  "symbol": "bataille",
+  "event": null,
+  "title": "Bataille",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

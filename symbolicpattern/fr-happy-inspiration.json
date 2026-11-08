@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-inspiration",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un élan créateur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:inspiration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inspir([ée]|[ée]e|[ée]s|ant|ante|er)|muse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]lan(s)?\\s+cr[ée]ateur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]clic(s)?)(?![\\w-])"
+  ],
+  "symbol": "inspiration",
+  "event": null,
+  "title": "Inspiration",
+  "tags": [
+    "#CREATION",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

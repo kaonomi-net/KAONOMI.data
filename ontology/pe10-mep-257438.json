@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Pays-Bas.",
+  "id": "pe10-mep-257438",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Anouk van Brug",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Pays-Bas. Groupe politique : Renew Europe. Parti ou liste national : Volkspartij voor Vrijheid en Democratie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Anouk van Brug participe aux travaux des commissions parlementaires.",
+    "Anouk van Brug siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Anouk van Brug figure dans le relevé des votes par appel nominal."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Anouk VAN BRUG"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/257438",
+    "https://fr.wikipedia.org/w/index.php?search=Anouk%20van%20Brug"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Pays-Bas",
+    "Parlement européen",
+    "Renew Europe",
+    "Volkspartij voor Vrijheid en Democratie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

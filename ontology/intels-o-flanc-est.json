@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-flanc-est",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "flanc est",
+  "entityType": "LOCATION",
+  "description": "Cité par 2 intels : Exercices de l'OTAN sur le flanc est ; Surveillance du flanc est.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les exercices militaires de l'OTAN près de la Russie.",
+    "Suivre les initiatives de protection de la frontière orientale de l'Union."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "flanc est",
+  "tags": [
+    "#DEFENSE",
+    "#OTAN",
+    "#EXERCICE",
+    "#UNION-EUROPEENNE",
+    "#FLANC-EST"
+  ],
+  "events": [
+    "@MANOEUVRES-MILITAIRES"
+  ],
+  "signals": [
+    "!TENSION",
+    "!SECURITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Roumanie",
+    "Pologne",
+    "Baltes",
+    "Russie",
+    "exercice",
+    "forces de réaction",
+    "Steadfast",
+    "OTAN",
+    "Finlande",
+    "Eastern Flank Watch"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

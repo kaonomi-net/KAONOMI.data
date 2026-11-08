@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-inflation-en-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Inflation en Russie",
+  "includedEntities": [
+    {
+      "entityName": "inflation",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre l'inflation russe, remontée à environ 6 % en 2026.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "publication mensuelle"
+  ],
+  "relatedEntities": [
+    "Rosstat",
+    "prix alimentaires",
+    "salaires"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quels produits les plus chers ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#INFLATION"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

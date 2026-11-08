@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-sante-mentale-grande-cause",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Santé mentale grande cause",
+  "includedEntities": [
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "psychiatrie",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les politiques de santé mentale.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "psychiatres",
+    "jeunes",
+    "budget"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quels moyens ?",
+    "Quelle situation de la psychiatrie ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SANTE-MENTALE",
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

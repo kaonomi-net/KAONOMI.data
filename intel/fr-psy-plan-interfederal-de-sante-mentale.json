@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-plan-interfederal-de-sante-mentale",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Plan interfédéral de santé mentale",
+  "includedEntities": [
+    {
+      "entityName": "plan interfédéral",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les propositions de plan interfédéral de promotion de la santé mentale.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "mutualités",
+    "entités fédérées",
+    "trajets de soins"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quel financement ?",
+    "Quelle adoption ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BELGIQUE",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

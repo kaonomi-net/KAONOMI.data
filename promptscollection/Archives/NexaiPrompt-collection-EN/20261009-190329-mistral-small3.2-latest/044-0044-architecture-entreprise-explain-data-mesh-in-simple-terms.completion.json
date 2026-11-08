@@ -1,0 +1,13 @@
+{
+  "index": 44,
+  "file": "0044-architecture-entreprise-explain-data-mesh-in-simple-terms.prompt.json",
+  "prompt": "Explain data mesh in simple terms.",
+  "promptWords": 6,
+  "completion": "Data Mesh is a modern approach to managing and organizing data within an organization. It's like a decentralized way of handling data, where different teams or domains take ownership of their own data, similar to how microservices work in software development.\n\nHere’s a simple breakdown:\n\n1. **Domain-Oriented Decentralization**: Instead of having a single central team managing all data, each business domain (like sales, marketing, or finance) manages its own data. This makes teams more autonomous and responsible for their data.\n\n2. **Data as a Product**: Each domain treats its data like a product, meaning it should be well-documented, reliable, and easy to use by others. This ensures that data is high-quality and useful for everyone in the organization.\n\n3. **Self-Serve Data Platform**: There’s a common platform that provides tools and infrastructure so teams can easily publish, discover, and consume data without needing a lot of help from a central IT team.\n\n4. **Federated Governance**: While teams manage their own data, there are still some common rules and standards (like security and compliance) that everyone follows. This ensures consistency across the organization.\n\nIn short, Data Mesh aims to make data more accessible, reliable, and useful by giving ownership to the teams that understand it best, while still maintaining some overarching guidelines. It’s like giving each team their own \"data store\" but making sure everyone can still access and use the data easily.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:11:20.8349429+02:00",
+  "durationSeconds": 7.1,
+  "stats": "mistral-small3.2:latest · 515 + 297 tokens · 7,1 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 77,
+  "file": "077-interet-pour-le-llm-how-old-are-you.prompt.json",
+  "prompt": "How old are you?",
+  "promptWords": 4,
+  "completion": "I don't know how or when I will be trained.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:04:51.3297267+02:00",
+  "durationSeconds": 0.5,
+  "stats": "mistral-small3.2:latest · 512 + 13 tokens · 0,5 s",
+  "isError": false,
+  "language": "EN"
+}

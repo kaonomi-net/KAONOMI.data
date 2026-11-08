@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-faillite",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'état d'une entreprise qui ne peut plus payer.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:faillite(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:banqueroute(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:liquidation(s)?\\s+judiciaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]p[ôo]t\\s+de\\s+bilan)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:insolvab(le|les|ilit[ée]))(?![\\w-])"
+  ],
+  "symbol": "faillite",
+  "event": null,
+  "title": "Faillite",
+  "tags": [
+    "#ECHEC",
+    "#MISERE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

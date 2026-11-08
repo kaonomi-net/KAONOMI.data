@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-repos",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le temps où l'on se repose.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:repos)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:repos(er|[ée]|[ée]e|ant|ante)|sieste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grasse\\s+matin[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ressourc(er|[ée]|[ée]e|ement))(?![\\w-])"
+  ],
+  "symbol": "repos",
+  "event": null,
+  "title": "Repos",
+  "tags": [
+    "#BIENETRE",
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

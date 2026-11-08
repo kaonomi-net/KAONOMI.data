@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique étrangère) : Centre satellitaire de l'Union européenne (SatCen), organe de l'Union créé en 2002 et installé dans cette ville : Torrejón de Ardoz.",
+  "id": "eu-ag-satcen",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Centre satellitaire de l'Union européenne (SatCen)",
+  "entityType": "ORGANISATION",
+  "description": "Centre satellitaire de l'Union européenne (SatCen), organe de l'Union créé en 2002 et installé dans cette ville : Torrejón de Ardoz.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Centre satellitaire de l'Union européenne (SatCen) ».",
+    "Les décisions de « Centre satellitaire de l'Union européenne (SatCen) » touchent la politique étrangère.",
+    "Le rapport annuel de « Centre satellitaire de l'Union européenne (SatCen) » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "SatCen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Centre%20satellitaire%20de%20l%27Union%20europ%C3%A9enne%20%28SatCen%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Torrejón de Ardoz",
+    "Affaires étrangères",
+    "Espace",
+    "Service européen pour l'action extérieure"
+  ],
+  "isDeleted": false,
+  "startDate": "2002-01-01T00:00:00",
+  "endDate": null
+}

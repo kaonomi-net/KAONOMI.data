@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-incendie-criminel-contre-une-station-starlink",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Incendie criminel contre une station Starlink",
+  "includedEntities": [
+    {
+      "entityName": "Starlink",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "incendie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Lituanie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques contre les infrastructures de communication en Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Lituanie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "enquête",
+    "Pologne",
+    "Russie"
+  ],
+  "questions": [
+    "Quels suspects ?",
+    "Quel commanditaire ?",
+    "Quelles mesures ?"
+  ],
+  "tags": [
+    "#EUROPE",
+    "#SABOTAGE",
+    "#COMMUNICATIONS"
+  ],
+  "events": [
+    "@SABOTAGE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

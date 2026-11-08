@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-plage",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le bord de mer où l'on se baigne.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:plage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bord\\s+de\\s+mer)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:baignade(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sable\\s+chaud)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:estival(e|es|aux)?)(?![\\w-])"
+  ],
+  "symbol": "plage",
+  "event": null,
+  "title": "Plage",
+  "tags": [
+    "#NATURE",
+    "#BIENETRE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

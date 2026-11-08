@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-joyeux",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui exprime la joie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:joyeu(x|se|ses|sement))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:jovial(e|es|aux)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guilleret(te|s|tes)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:enjou[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:de\\s+bonne\\s+humeur)(?![\\w-])"
+  ],
+  "symbol": "joyeux",
+  "event": null,
+  "title": "Joyeux",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

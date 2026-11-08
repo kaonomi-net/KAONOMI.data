@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-deepfake",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une fausse vidéo réaliste créée par l'IA.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:deepfake(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:deep\\s+fake(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hypertrucage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fausse(s)?\\s+vid[ée]o(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:clonage\\s+de\\s+voix)(?![\\w-])"
+  ],
+  "symbol": "deepfake",
+  "event": null,
+  "title": "Deepfake",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

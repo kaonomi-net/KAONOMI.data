@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-livraisons-de-chars-et-de-blindes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Livraisons de chars et de blindés",
+  "includedEntities": [
+    {
+      "entityName": "chars",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "blindés",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "livraison",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les livraisons de véhicules blindés à l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Leopard",
+    "Abrams",
+    "Bradley"
+  ],
+  "questions": [
+    "Quels véhicules ?",
+    "Combien ?",
+    "Quelles pertes ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ARMEMENT",
+    "#BLINDES"
+  ],
+  "events": [
+    "@ANNONCE-AIDE"
+  ],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

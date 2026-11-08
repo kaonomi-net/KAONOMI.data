@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-vulnerabilites-android",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Vulnérabilités Android",
+  "includedEntities": [
+    {
+      "entityName": "Android",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "vulnérabilité",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les bulletins de sécurité Android.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "mensuel"
+  ],
+  "relatedEntities": [
+    "Google",
+    "Qualcomm",
+    "exploitation"
+  ],
+  "questions": [
+    "Quelle faille ?",
+    "Est-elle exploitée ?",
+    "Quel correctif ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#MOBILE"
+  ],
+  "events": [
+    "@CORRECTIFS"
+  ],
+  "signals": [
+    "!CORRECTIFS"
+  ],
+  "isDeleted": false
+}

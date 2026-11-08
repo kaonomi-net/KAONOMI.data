@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-hacktivisme-et-conflit-au-moyen-orient",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Hacktivisme et conflit au Moyen-Orient",
+  "includedEntities": [
+    {
+      "entityName": "hacktivisme",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Israël",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Gaza",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les cyberattaques liées au conflit au Moyen-Orient.",
+  "isFuzzy": true,
+  "locations": [
+    "Moyen-Orient"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "groupes pro-palestiniens",
+    "groupes pro-israéliens",
+    "DDoS"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quel groupe ?",
+    "Quel impact ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#HACKTIVISME",
+    "#MOYEN-ORIENT"
+  ],
+  "events": [
+    "@REVENDICATION"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

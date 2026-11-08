@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-secourisme-en-sante-mentale",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Secourisme en santé mentale",
+  "includedEntities": [
+    {
+      "entityName": "premiers secours en santé mentale",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "secouristes",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la formation de secouristes en santé mentale.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "PSSM France",
+    "entreprises",
+    "étudiants"
+  ],
+  "questions": [
+    "Combien de formés ?",
+    "Quel objectif ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SANTE-MENTALE",
+    "#FORMATION"
+  ],
+  "events": [],
+  "signals": [
+    "!PREVENTION"
+  ],
+  "isDeleted": false
+}

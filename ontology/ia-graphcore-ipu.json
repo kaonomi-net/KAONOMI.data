@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (les accélérateurs d'IA) : Processeur d'intelligence de la société britannique Graphcore, conçu pour le calcul massivement parallèle sur graphes.",
+  "id": "ia-graphcore-ipu",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Graphcore IPU",
+  "entityType": "HARDWARE",
+  "description": "Processeur d'intelligence de la société britannique Graphcore, conçu pour le calcul massivement parallèle sur graphes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Pour ce projet d'IA, l'équipe a comparé Graphcore IPU à d'autres solutions matérielles.",
+    "Graphcore IPU a marqué l'histoire du matériel consacré aux accélérateurs d'IA.",
+    "La fiche technique de Graphcore IPU détaille ses performances."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Intelligence Processing Unit"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#ACCELERATEURSIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Graphcore%20IPU"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NVIDIA Tesla V100"
+  ],
+  "isDeleted": false,
+  "startDate": "2018-01-01T00:00:00",
+  "endDate": null
+}

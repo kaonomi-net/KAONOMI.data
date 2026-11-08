@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la cybersécurité) : Agence de l'Union européenne pour la cybersécurité (ENISA), organe de l'Union créé en 2004 et installé dans cette ville : Athènes.",
+  "id": "eu-ag-enisa",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence de l'Union européenne pour la cybersécurité (ENISA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence de l'Union européenne pour la cybersécurité (ENISA), organe de l'Union créé en 2004 et installé dans cette ville : Athènes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "« Agence de l'Union européenne pour la cybersécurité (ENISA) » joue un rôle dans la cybersécurité.",
+    "Les fonctionnaires de « Agence de l'Union européenne pour la cybersécurité (ENISA) » préparent les textes relatifs à la cybersécurité.",
+    "La délégation a rencontré des représentants de « Agence de l'Union européenne pour la cybersécurité (ENISA) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ENISA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#CYBERSECURITE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20de%20l%27Union%20europ%C3%A9enne%20pour%20la%20cybers%C3%A9curit%C3%A9%20%28ENISA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Athènes",
+    "Direction générale des réseaux de communication, du contenu et des technologies",
+    "Cybersécurité"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-01-01T00:00:00",
+  "endDate": null
+}

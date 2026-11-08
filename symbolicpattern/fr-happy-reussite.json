@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-reussite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de réussir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]ussite(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]uss(ir|i|ie|is|ies|it|issent)|aboutissement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mission\\s+accomplie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:objectif(s)?\\s+atteint(s)?)(?![\\w-])"
+  ],
+  "symbol": "réussite",
+  "event": null,
+  "title": "Réussite",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

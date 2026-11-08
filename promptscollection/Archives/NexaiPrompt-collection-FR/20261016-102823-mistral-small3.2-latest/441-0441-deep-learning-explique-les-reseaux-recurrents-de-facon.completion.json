@@ -1,0 +1,13 @@
+{
+  "index": 441,
+  "file": "0441-deep-learning-explique-les-reseaux-recurrents-de-facon.prompt.json",
+  "prompt": "Explique les réseaux récurrents de façon simple.",
+  "promptWords": 7,
+  "completion": "Les réseaux récurrents, ou **Réseaux de Neurones Récurrents (RNN)** en anglais, sont un type d'architecture de réseaux de neurones artificiels spécialement conçus pour traiter des séquences de données, comme du texte, des séries temporelles ou des vidéos.\n\n### Explication simple :\nImaginez que vous lisez un livre. Chaque mot que vous lisez dépend du mot précédent pour comprendre le sens. Par exemple, si je dis \"Le chat est sur le...\", vous devinez probablement que la suite sera \"sol\" ou \"canapé\" plutôt que \"voiture\" ou \"avion\".\n\nUn RNN fonctionne de la même manière : il \"se souvient\" des informations précédentes dans la séquence pour traiter les données actuelles. Il a une **boucle** qui permet à l'information de circuler et d'être réutilisée à chaque étape.\n\n### À quoi servent-ils ?\n- **Traitement du langage naturel** (traduction, génération de texte, chatbots).\n- **Prévision de séries temporelles** (météo, actions en bourse).\n- **Reconnaissance vocale** (Siri, Google Assistant).\n\n### Problème des RNN classiques :\nLes RNN traditionnels ont du mal à se souvenir d'informations sur de longues séquences (problème de **gradient vanishing**). C'est pourquoi des variantes comme les **LSTM** (Long Short-Term Memory) ou les **GRU** (Gated Recurrent Units) ont été développées pour mieux gérer ce problème.\n\nEn résumé, les RNN sont comme une mémoire à court terme qui aide les ordinateurs à comprendre et à générer des séquences de données.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:45:43.8951613+02:00",
+  "durationSeconds": 7.41,
+  "stats": "mistral-small3.2:latest · 518 + 362 tokens · 7,4 s",
+  "isError": false,
+  "language": "FR"
+}

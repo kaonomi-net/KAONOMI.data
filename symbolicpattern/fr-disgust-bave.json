@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-bave",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La salive qui coule.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bave(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bav(er|e|ent|eu|euse|eux)|salive(s)?\\s+qui\\s+coule)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]cume(s)?\\s+aux\\s+l[èe]vres)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:filet(s)?\\s+de\\s+bave)(?![\\w-])"
+  ],
+  "symbol": "bave",
+  "event": null,
+  "title": "Bave",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

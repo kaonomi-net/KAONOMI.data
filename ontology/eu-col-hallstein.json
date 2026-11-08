@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la Commission européenne) : Commission Hallstein, collège des commissaires présidé par Walter Hallstein, en fonction du 7 janvier 1958 au 30 juin 1967.",
+  "id": "eu-col-hallstein",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission Hallstein",
+  "entityType": "ORGANISATION",
+  "description": "Commission Hallstein, collège des commissaires présidé par Walter Hallstein, en fonction du 7 janvier 1958 au 30 juin 1967.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-colleges",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Commission Hallstein ».",
+    "Les décisions de « Commission Hallstein » touchent la Commission européenne.",
+    "Le rapport annuel de « Commission Hallstein » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20Hallstein"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Walter Hallstein",
+    "Commission européenne",
+    "Commission Rey",
+    "Présidence de la Commission (Commission Hallstein)",
+    "Politique agricole commune"
+  ],
+  "isDeleted": false,
+  "startDate": "1958-01-07T00:00:00",
+  "endDate": "1967-06-30T00:00:00"
+}

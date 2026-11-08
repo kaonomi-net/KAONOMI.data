@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-matignon",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "Matignon",
+  "entityType": "LOCATION",
+  "description": "Cité par 7 intels : Hypothèse d'un Premier ministre RN ; Relation entre Macron et Lecornu ; Gouvernement de Sébastien Lecornu ; Chute du gouvernement ; Remaniement ministériel ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les scénarios d'un gouvernement mené par le RN.",
+    "Suivre les relations entre le président et son Premier ministre.",
+    "Suivre l'action et la survie du gouvernement de Sébastien Lecornu."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Matignon",
+  "tags": [
+    "#FRANCE",
+    "#GOUVERNEMENT",
+    "#RN",
+    "#MACRON",
+    "#LECORNU",
+    "#CRISE"
+  ],
+  "events": [
+    "@CHUTE-GOUVERNEMENT",
+    "@REMANIEMENT",
+    "@ORDONNANCE"
+  ],
+  "signals": [
+    "!CRISE-POLITIQUE",
+    "!GOUVERNANCE",
+    "!INCERTITUDE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "budget",
+    "gouvernement",
+    "cohabitation",
+    "Sébastien Lecornu",
+    "Élysée",
+    "ministres",
+    "Rassemblement national",
+    "Jordan Bardella",
+    "majorité",
+    "Assemblée"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

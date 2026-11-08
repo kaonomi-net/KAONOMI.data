@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-differends-a-l-omc",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Différends à l'OMC",
+  "includedEntities": [
+    {
+      "entityName": "OMC",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "différend",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les litiges commerciaux portés devant l'Organisation mondiale du commerce.",
+  "isFuzzy": true,
+  "locations": [
+    "Genève"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "droits de douane",
+    "subventions",
+    "panel"
+  ],
+  "questions": [
+    "Quel litige ?",
+    "Quelle décision ?",
+    "L'organe d'appel fonctionne-t-il ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#COMMERCE",
+    "#OMC"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION-COMMERCIALE"
+  ],
+  "isDeleted": false
+}

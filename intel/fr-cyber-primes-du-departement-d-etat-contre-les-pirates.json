@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-primes-du-departement-d-etat-contre-les-pirates",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Primes du département d'État contre les pirates",
+  "includedEntities": [
+    {
+      "entityName": "récompense",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "département d'État",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les récompenses offertes pour l'identification de pirates.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "rançongiciels",
+    "Rewards for Justice",
+    "suspects"
+  ],
+  "questions": [
+    "Quel groupe ?",
+    "Quel montant ?",
+    "Quel suspect ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ETATS-UNIS",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@RECOMPENSE"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

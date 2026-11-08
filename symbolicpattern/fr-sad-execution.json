@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-execution",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La mise à mort d'un condamné.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ex[ée]cution(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:peine(s)?\\s+de\\s+mort)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pendaison(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guillotine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:peloton(s)?\\s+d['’]ex[ée]cution)(?![\\w-])"
+  ],
+  "symbol": "exécution",
+  "event": null,
+  "title": "Exécution",
+  "tags": [
+    "#JUSTICE",
+    "#MORT"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

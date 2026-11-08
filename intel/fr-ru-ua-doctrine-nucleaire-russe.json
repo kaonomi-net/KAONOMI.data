@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-doctrine-nucleaire-russe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Doctrine nucléaire russe",
+  "includedEntities": [
+    {
+      "entityName": "doctrine nucléaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les évolutions de la doctrine nucléaire russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "seuil d'emploi",
+    "Biélorussie",
+    "dissuasion"
+  ],
+  "questions": [
+    "Quel changement ?",
+    "Quelle déclaration ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#NUCLEAIRE",
+    "#RUSSIE",
+    "#DISSUASION"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE",
+    "!FEAR"
+  ],
+  "isDeleted": false
+}

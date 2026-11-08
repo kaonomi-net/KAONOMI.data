@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-subprimes",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les crédits à risque à l'origine de la crise de 2008.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:subprime(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crise\\s+de\\s+2008)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cr[ée]dit(s)?\\s+toxique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pr[êe]t(s)?\\s+toxique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:actif(s)?\\s+toxique(s)?)(?![\\w-])"
+  ],
+  "symbol": "subprimes",
+  "event": null,
+  "title": "Subprimes",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

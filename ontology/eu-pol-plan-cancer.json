@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la santé publique) : Plan de prévention, de dépistage et de traitement du cancer.",
+  "id": "eu-pol-plan-cancer",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Plan européen pour vaincre le cancer",
+  "entityType": "LAW",
+  "description": "Plan de prévention, de dépistage et de traitement du cancer.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Le Journal officiel de l'Union a publié « Plan européen pour vaincre le cancer ».",
+    "Les juristes de la Commission ont commenté « Plan européen pour vaincre le cancer ».",
+    "La mise en œuvre de « Plan européen pour vaincre le cancer » est suivie par la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Plan%20europ%C3%A9en%20pour%20vaincre%20le%20cancer"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Santé",
+    "Direction générale de la santé et de la sécurité alimentaire",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-02-03T00:00:00",
+  "endDate": null
+}

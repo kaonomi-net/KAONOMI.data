@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-perseverance",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de continuer malgré les obstacles.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pers[ée]v[ée]rance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pers[ée]v[ée]r(er|[ée]|ant|ante)|t[ée]nacit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tenace(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]termination(s)?)(?![\\w-])"
+  ],
+  "symbol": "persévérance",
+  "event": null,
+  "title": "Persévérance",
+  "tags": [
+    "#ESPOIR",
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

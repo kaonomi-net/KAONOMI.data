@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-chercheur-en-securite",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "chercheur en sécurité",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Chercheurs en sécurité poursuivis.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les poursuites contre des chercheurs en sécurité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "chercheur en sécurité",
+  "tags": [
+    "#CYBERSECURITE",
+    "#DIVULGATION",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "divulgation",
+    "éthique",
+    "loi",
+    "poursuites"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

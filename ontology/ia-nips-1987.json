@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (la communauté scientifique) : Première édition de la conférence Neural Information Processing Systems, devenue NeurIPS, rendez-vous majeur de l'apprentissage automatique.",
+  "id": "ia-nips-1987",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Première conférence NIPS",
+  "entityType": "EVENT",
+  "description": "Première édition de la conférence Neural Information Processing Systems, devenue NeurIPS, rendez-vous majeur de l'apprentissage automatique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "L'événement « Première conférence NIPS » a marqué durablement l'histoire de la communauté scientifique.",
+    "La frise chronologique de la salle de cours place « Première conférence NIPS » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Première conférence NIPS »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "NeurIPS 1987"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#COMMUNAUTESCIENTIFIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Premi%C3%A8re%20conf%C3%A9rence%20NIPS"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Rétropropagation du gradient"
+  ],
+  "isDeleted": false,
+  "startDate": "1987-01-01T00:00:00",
+  "endDate": "1987-01-01T00:00:00"
+}

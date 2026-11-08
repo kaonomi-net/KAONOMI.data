@@ -1,0 +1,13 @@
+{
+  "index": 164,
+  "file": "0164-microsoft-office-comment-creer-une-signature-dans-outlook.prompt.json",
+  "prompt": "Comment créer une signature dans Outlook ?",
+  "promptWords": 7,
+  "completion": "Créer une signature dans Outlook est assez simple. Voici les étapes à suivre pour créer une signature dans Outlook sur différents appareils :\n\n### **Sur Outlook pour Windows :**\n1. **Ouvrez Outlook** et allez dans l'onglet **Fichier**.\n2. Cliquez sur **Options**.\n3. Dans la fenêtre **Options Outlook**, sélectionnez **Courrier**.\n4. Sous l'onglet **Signatures**, cliquez sur **Signatures**.\n5. Dans la fenêtre **Signatures et images**, cliquez sur **Nouveau**.\n6. Donnez un nom à votre signature et cliquez sur **OK**.\n7. Rédigez votre signature dans l'espace prévu.\n8. Cliquez sur **Enregistrer** puis sur **OK**.\n\n### **Sur Outlook pour Mac :**\n1. **Ouvrez Outlook** et allez dans **Outlook** (dans la barre de menu en haut).\n2. Sélectionnez **Préférences**.\n3. Cliquez sur **Signatures**.\n4. Dans la fenêtre **Signatures**, sélectionnez le compte pour lequel vous souhaitez créer une signature.\n5. Cliquez sur **+** pour ajouter une nouvelle signature.\n6. Rédigez votre signature et cliquez sur **Enregistrer**.\n\n### **Sur Outlook Web (Outlook.com ou Microsoft 365) :**\n1. **Connectez-vous** à votre compte Outlook sur [Outlook.com](https://outlook.live.com) ou via votre organisation (ex: [outlook.office.com](https://outlook.office.com)).\n2. Cliquez sur l'**icône d'engrenage** (⚙️) en haut à droite et sélectionnez **Paramètres de messagerie**.\n3. Dans le menu de gauche, cliquez sur **Signatures**.\n4. Sous **Signatures**, sélectionnez le compte pour lequel vous souhaitez créer une signature.\n5. Cliquez sur **Nouvelle signature** et rédigez votre texte.\n6. Cliquez sur **Enregistrer**.\n\n### **Conseils pour une signature professionnelle :**\n- Incluez votre nom, poste, entreprise, numéro de téléphone et adresse e-mail.\n- Ajoutez un logo ou une image si nécessaire.\n- Utilisez une police lisible et une taille de texte appropriée.\n- Gardez-la concise et professionnelle.\n\nSi vous avez besoin d'aide supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:57:58.1032064+02:00",
+  "durationSeconds": 10.45,
+  "stats": "mistral-small3.2:latest · 514 + 517 tokens · 10,4 s",
+  "isError": false,
+  "language": "FR"
+}

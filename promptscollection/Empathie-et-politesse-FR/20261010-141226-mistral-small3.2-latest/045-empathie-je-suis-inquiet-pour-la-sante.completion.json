@@ -1,0 +1,13 @@
+{
+  "index": 45,
+  "file": "045-empathie-je-suis-inquiet-pour-la-sante.prompt.json",
+  "prompt": "Je suis inquiet pour la santé de ma mère.",
+  "promptWords": 9,
+  "completion": "Je suis désolé d'apprendre que vous êtes inquiet pour la santé de votre mère. Pouvez-vous me donner plus de détails sur ce qui vous préoccupe ? Est-ce un symptôme spécifique, un diagnostic récent, ou autre chose ? Plus vous me donnerez d'informations, mieux je pourrai vous aider ou vous orienter vers les ressources appropriées.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:13:31.1159799+02:00",
+  "durationSeconds": 1.73,
+  "stats": "mistral-small3.2:latest · 517 + 76 tokens · 1,7 s",
+  "isError": false,
+  "language": "FR"
+}

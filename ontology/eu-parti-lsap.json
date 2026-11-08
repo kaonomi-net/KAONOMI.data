@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Parti ouvrier socialiste luxembourgeois (LSAP), parti politique de ce pays : Luxembourg.",
+  "id": "eu-parti-lsap",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti ouvrier socialiste luxembourgeois (LSAP)",
+  "entityType": "ORGANISATION",
+  "description": "Parti ouvrier socialiste luxembourgeois (LSAP), parti politique de ce pays : Luxembourg. Il est affilié à la famille Socialistes et démocrates (S&D).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "« Parti ouvrier socialiste luxembourgeois (LSAP) » joue un rôle dans la vie politique nationale.",
+    "Les fonctionnaires de « Parti ouvrier socialiste luxembourgeois (LSAP) » préparent les textes relatifs à la vie politique nationale.",
+    "La délégation a rencontré des représentants de « Parti ouvrier socialiste luxembourgeois (LSAP) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20ouvrier%20socialiste%20luxembourgeois%20%28LSAP%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Luxembourg",
+    "Socialistes et démocrates (S&D)",
+    "Nicolas Schmit"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la démocratie européenne) : Élection des 720 députés européens, le PPE restant le premier groupe.",
+  "id": "eu-ev-elections-2024",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Élections européennes de 2024",
+  "entityType": "EVENT",
+  "description": "Élection des 720 députés européens, le PPE restant le premier groupe.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les historiens de la construction européenne reviennent sur « Élections européennes de 2024 ».",
+    "La chronologie de la Commission place « Élections européennes de 2024 » à sa date.",
+    "« Élections européennes de 2024 » est un jalon de l'histoire de de l'Union européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#DEMOCRATIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89lections%20europ%C3%A9ennes%20de%202024"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Démocratie",
+    "Commission von der Leyen I",
+    "Parlement européen",
+    "Réélection d'Ursula von der Leyen"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-06-06T00:00:00",
+  "endDate": "2024-06-09T00:00:00"
+}

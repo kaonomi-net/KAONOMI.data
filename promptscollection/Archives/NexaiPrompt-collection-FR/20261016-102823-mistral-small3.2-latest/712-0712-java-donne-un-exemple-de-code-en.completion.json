@@ -1,0 +1,13 @@
+{
+  "index": 712,
+  "file": "0712-java-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Java qui illustre les interfaces fonctionnelles.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en Java qui illustre l'utilisation des interfaces fonctionnelles. Les interfaces fonctionnelles sont des interfaces qui ne contiennent qu'une seule méthode abstraite. Elles sont souvent utilisées avec les expressions lambda en Java.\n\n```java\n// Définition d'une interface fonctionnelle\n@FunctionalInterface\ninterface Operation {\n    int calculer(int a, int b);\n}\n\npublic class Main {\n    public static void main(String[] args) {\n        // Utilisation d'une expression lambda pour implémenter l'interface fonctionnelle\n        Operation addition = (a, b) -> a + b;\n        Operation soustraction = (a, b) -> a - b;\n        Operation multiplication = (a, b) -> a * b;\n        Operation division = (a, b) -> {\n            if (b == 0) {\n                throw new ArithmeticException(\"Division par zéro\");\n            }\n            return a / b;\n        };\n\n        // Appel des opérations\n        System.out.println(\"Addition: \" + operation(5, 3, addition));\n        System.out.println(\"Soustraction: \" + operation(5, 3, soustraction));\n        System.out.println(\"Multiplication: \" + operation(5, 3, multiplication));\n        System.out.println(\"Division: \" + operation(6, 3, division));\n    }\n\n    // Méthode utilitaire pour exécuter une opération\n    public static int operation(int a, int b, Operation op) {\n        return op.calculer(a, b);\n    }\n}\n```\n\n### Explications :\n1. **Interface fonctionnelle** : L'interface `Operation` est marquée avec `@FunctionalInterface` et contient une seule méthode abstraite `calculer`.\n2. **Expressions lambda** : Les expressions lambda `(a, b) -> a + b`, `(a, b) -> a - b`, etc., implémentent l'interface `Operation`.\n3. **Méthode utilitaire** : La méthode `operation` prend deux entiers et une référence à une implémentation de `Operation`, puis exécute l'opération.\n\nCe code montre comment les interfaces fonctionnelles et les expressions lambda peuvent être utilisées pour passer du comportement sous forme de paramètres, ce qui est une caractéristique puissante de Java.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:54:32.5411932+02:00",
+  "durationSeconds": 9.57,
+  "stats": "mistral-small3.2:latest · 523 + 477 tokens · 9,6 s",
+  "isError": false,
+  "language": "FR"
+}

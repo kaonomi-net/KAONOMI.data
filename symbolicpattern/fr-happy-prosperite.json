@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-prosperite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'état de ce qui est florissant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:prosp[ée]rit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prosp[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:florissant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:abondance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:richesse(s)?\\s+partag[ée]e(s)?)(?![\\w-])"
+  ],
+  "symbol": "prospérité",
+  "event": null,
+  "title": "Prospérité",
+  "tags": [
+    "#REUSSITE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

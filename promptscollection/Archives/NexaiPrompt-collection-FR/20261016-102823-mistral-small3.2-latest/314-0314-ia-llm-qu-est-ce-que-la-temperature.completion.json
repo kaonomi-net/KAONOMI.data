@@ -1,0 +1,13 @@
+{
+  "index": 314,
+  "file": "0314-ia-llm-qu-est-ce-que-la-temperature.prompt.json",
+  "prompt": "Qu'est-ce que la température et le top-p dans la génération de texte ?",
+  "promptWords": 13,
+  "completion": "La température et le top-p (nucleus sampling) sont deux paramètres importants dans la génération de texte par des modèles de langage comme moi. Ils influencent la diversité et la cohérence des réponses produites.\n\n1. **Température** :\n   - La température contrôle la \"créativité\" du modèle.\n   - Une température élevée (proche de 1) rend les réponses plus variées et imprévisibles, mais parfois moins cohérentes.\n   - Une température faible (proche de 0) rend les réponses plus prévisibles et cohérentes, mais potentiellement moins créatives.\n   - Par défaut, la température est souvent réglée autour de 0,7 pour un bon équilibre.\n\n2. **Top-p (Nucleus Sampling)** :\n   - Le top-p est une méthode de sélection des mots qui prend en compte les probabilités cumulées des mots possibles.\n   - Par exemple, avec top-p=0,9, le modèle considère les mots dont les probabilités cumulées atteignent 90% avant de choisir aléatoirement parmi eux.\n   - Cela permet de garder un bon équilibre entre diversité et cohérence, en évitant les mots trop improbables.\n   - Par défaut, top-p est souvent réglé autour de 0,95.\n\nCes paramètres sont souvent utilisés ensemble pour affiner les résultats de génération de texte.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:23:08.0947053+02:00",
+  "durationSeconds": 6.17,
+  "stats": "mistral-small3.2:latest · 523 + 290 tokens · 6,2 s",
+  "isError": false,
+  "language": "FR"
+}

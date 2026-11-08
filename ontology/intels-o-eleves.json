@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-eleves",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "élèves",
+  "entityType": "PROFESSION",
+  "description": "Cité par 5 intels : IA à l'école ; Élèves en souffrance psychique ; Psychologues en milieu scolaire belge ; Harcèlement scolaire ; Psychologues de l'Éducation nationale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre l'arrivée de l'IA dans l'éducation.",
+    "Suivre le dispositif d'orientation prioritaire des élèves en souffrance psychique.",
+    "Suivre les centres psycho-médico-sociaux et le soutien psychologique aux élèves."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "élèves",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ECOLE",
+    "#IA",
+    "#EDUCATION",
+    "#ENFANCE",
+    "#BELGIQUE"
+  ],
+  "events": [
+    "@AFFAIRE"
+  ],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!DEBAT",
+    "!VIOLENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "école",
+    "psychologues de l'Éducation nationale",
+    "triche",
+    "Éducation nationale",
+    "universités",
+    "enseignants",
+    "écoles",
+    "IA",
+    "infirmières scolaires"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la démocratie européenne) : Les Verts/Alliance libre européenne, famille politique européenne représentée par un groupe au Parlement européen.",
+  "id": "eu-parti-verts",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Les Verts/Alliance libre européenne",
+  "entityType": "ORGANISATION",
+  "description": "Les Verts/Alliance libre européenne, famille politique européenne représentée par un groupe au Parlement européen.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-europeens",
+  "sentencesExemples": [
+    "Les décisions de « Les Verts/Alliance libre européenne » touchent la démocratie européenne.",
+    "Le rapport annuel de « Les Verts/Alliance libre européenne » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Les Verts/Alliance libre européenne »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "Verts/ALE",
+    "Greens/EFA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#DEMOCRATIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Les%20Verts/Alliance%20libre%20europ%C3%A9enne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Union lituanienne des agriculteurs et des verts (LVŽS)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

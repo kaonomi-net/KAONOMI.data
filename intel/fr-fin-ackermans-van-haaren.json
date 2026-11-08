@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-ackermans-van-haaren",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Ackermans & van Haaren",
+  "includedEntities": [
+    {
+      "entityName": "Ackermans",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "holding",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la holding Ackermans & van Haaren.",
+  "isFuzzy": false,
+  "locations": [
+    "Anvers"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "DEME",
+    "Delen",
+    "banque"
+  ],
+  "questions": [
+    "Quel résultat ?",
+    "Quelle participation ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#HOLDINGS"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

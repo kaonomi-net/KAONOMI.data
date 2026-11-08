@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-interpretabilite-des-reseaux-de-neurones",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Interprétabilité des réseaux de neurones",
+  "includedEntities": [
+    {
+      "entityName": "interprétabilité",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "réseaux de neurones",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre la recherche pour comprendre le fonctionnement interne des modèles.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Anthropic",
+    "explicabilité",
+    "neurones"
+  ],
+  "questions": [
+    "Quelle méthode ?",
+    "Qu'a-t-on découvert ?",
+    "Peut-on contrôler le modèle ?"
+  ],
+  "tags": [
+    "#IA",
+    "#RECHERCHE",
+    "#INTERPRETABILITE"
+  ],
+  "events": [
+    "@PUBLICATION"
+  ],
+  "signals": [
+    "!RECHERCHE"
+  ],
+  "isDeleted": false
+}

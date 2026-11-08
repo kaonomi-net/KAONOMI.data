@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (les PME et les startups) : Accès au financement, simplification et croissance des petites et moyennes entreprises.",
+  "id": "eu-dom-pme",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "PME et startups",
+  "entityType": "DOMAIN",
+  "description": "Accès au financement, simplification et croissance des petites et moyennes entreprises.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « PME et startups » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « PME et startups » passent par le Parlement et le Conseil.",
+    "La conférence portait sur les PME et les startups."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#PMEETSTARTUPS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=PME%20et%20startups"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Prospérité et stratégie industrielle (Commission von der Leyen II)",
+    "Stéphane Séjourné",
+    "Startups, recherche et innovation (Commission von der Leyen II)",
+    "Ekaterina Zaharieva",
+    "Marché intérieur, industrie, entrepreneuriat et PME (Commission Juncker)",
+    "Elżbieta Bieńkowska",
+    "Industrie et entrepreneuriat (Commission Barroso II)",
+    "Antonio Tajani",
+    "Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME",
+    "Agence exécutive du Conseil européen de l'innovation et des PME (EISMEA)",
+    "InvestEU",
+    "Programme pour le marché unique"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

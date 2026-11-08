@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cerveau",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "cerveau",
+  "entityType": "DOMAIN",
+  "description": "Cité par 6 intels : Neurosciences et cerveau ; Microbiote et cerveau ; Cerveau des adolescents ; Prise de décision ; Émotions et cerveau ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les découvertes en neurosciences.",
+    "Suivre les études sur l'axe intestin-cerveau.",
+    "Suivre les études sur le développement du cerveau adolescent."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "cerveau",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#NEUROSCIENCES",
+    "#MICROBIOTE",
+    "#ADOLESCENTS",
+    "#COGNITION",
+    "#DECISION"
+  ],
+  "events": [
+    "@DECOUVERTE"
+  ],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "émotions",
+    "études",
+    "neurones",
+    "imagerie",
+    "neurosciences",
+    "probiotiques",
+    "microbiote",
+    "dépression",
+    "autisme",
+    "maturation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

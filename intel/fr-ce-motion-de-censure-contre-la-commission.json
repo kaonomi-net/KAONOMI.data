@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-motion-de-censure-contre-la-commission",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Motion de censure contre la Commission",
+  "includedEntities": [
+    {
+      "entityName": "motion de censure",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Commission",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller le dépôt et le vote des motions de censure contre la Commission.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Patriotes pour l'Europe",
+    "Conservateurs",
+    "vote"
+  ],
+  "questions": [
+    "Qui dépose la motion ?",
+    "Combien de voix ?",
+    "La Commission tombe-t-elle ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#COMMISSION-EUROPEENNE",
+    "#CENSURE"
+  ],
+  "events": [
+    "@MOTION-CENSURE"
+  ],
+  "signals": [
+    "!CRISE-POLITIQUE"
+  ],
+  "isDeleted": false
+}

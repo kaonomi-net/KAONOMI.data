@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les partenariats internationaux) : Direction générale des partenariats internationaux (DG INTPA), service de la Commission européenne compétent pour les partenariats internationaux, placé sous l'autorité de Jozef Síkela dans la Commission von der Leyen II.",
+  "id": "eu-dg-intpa",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale des partenariats internationaux",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale des partenariats internationaux (DG INTPA), service de la Commission européenne compétent pour les partenariats internationaux, placé sous l'autorité de Jozef Síkela dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Direction générale des partenariats internationaux ».",
+    "« Direction générale des partenariats internationaux » joue un rôle dans les partenariats internationaux.",
+    "Les fonctionnaires de « Direction générale des partenariats internationaux » préparent les textes relatifs aux partenariats internationaux."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG INTPA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#PARTENARIATSINTERNATIONAUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20des%20partenariats%20internationaux"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Jozef Síkela",
+    "Partenariats internationaux",
+    "Global Gateway",
+    "Instrument de voisinage, de coopération au développement et de coopération internationale"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 78,
+  "file": "098-mathematiques-qu-est-ce-que-la-conjecture.prompt.json",
+  "prompt": "Qu'est-ce que la conjecture de Riemann ?",
+  "promptWords": 7,
+  "completion": "La conjecture de Riemann est l'un des problèmes non résolus les plus célèbres en mathématiques. Elle concerne la distribution des nombres premiers et est formulée en termes de la fonction zêta de Riemann, une fonction complexe définie pour des nombres complexes ayant une partie réelle supérieure à 1.\n\nLa conjecture affirme que tous les zéros non triviaux de la fonction zêta de Riemann ont une partie réelle égale à 1/2. En d'autres termes, ces zéros sont situés sur la ligne critique Re(s) = 1/2 dans le plan complexe.\n\nCette conjecture a des implications profondes en théorie des nombres, notamment sur la distribution des nombres premiers. Elle est considérée comme l'un des sept problèmes du prix du millénaire, pour lesquels l'Institut de mathématiques Clay offre une récompense d'un million de dollars pour sa résolution.\n\nSi vous souhaitez des détails plus techniques ou des explications supplémentaires, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:30:15.023427+02:00",
+  "durationSeconds": 5.2,
+  "stats": "mistral-small3.2:latest · 516 + 193 tokens · 5,2 s",
+  "isError": false,
+  "language": "FR"
+}

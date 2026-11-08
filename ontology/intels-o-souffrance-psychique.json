@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-souffrance-psychique",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "souffrance psychique",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Élèves en souffrance psychique ; Euthanasie pour souffrance psychique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le dispositif d'orientation prioritaire des élèves en souffrance psychique.",
+    "Suivre le débat sur l'euthanasie pour souffrance psychique en Belgique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "souffrance psychique",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ENFANCE",
+    "#ECOLE",
+    "#BELGIQUE",
+    "#ETHIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "infirmières scolaires",
+    "psychologues de l'Éducation nationale",
+    "repérage",
+    "école",
+    "France",
+    "élèves",
+    "Belgique",
+    "commission de contrôle",
+    "jeunes",
+    "psychiatres"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

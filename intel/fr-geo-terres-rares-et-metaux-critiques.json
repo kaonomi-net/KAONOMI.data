@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-terres-rares-et-metaux-critiques",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Terres rares et métaux critiques",
+  "includedEntities": [
+    {
+      "entityName": "terres rares",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "métaux critiques",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre la concurrence pour les terres rares et métaux stratégiques.",
+  "isFuzzy": true,
+  "locations": [
+    "Chine",
+    "Groenland",
+    "Afrique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Chine",
+    "exportations",
+    "aimants"
+  ],
+  "questions": [
+    "Quelles restrictions d'export ?",
+    "Quels nouveaux gisements ?",
+    "Quelle dépendance européenne ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#MATIERES-PREMIERES",
+    "#TERRES-RARES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEPENDANCE"
+  ],
+  "isDeleted": false
+}

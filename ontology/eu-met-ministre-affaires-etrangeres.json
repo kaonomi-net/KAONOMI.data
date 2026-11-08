@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Membre d'un gouvernement chargé de la diplomatie.",
+  "id": "eu-met-ministre-affaires-etrangeres",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Ministre des Affaires étrangères",
+  "entityType": "PROFESSION",
+  "description": "Membre d'un gouvernement chargé de la diplomatie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "Le parcours de nombreux commissaires passe par la fonction « Ministre des Affaires étrangères ».",
+    "Le métier « Ministre des Affaires étrangères » apparaît dans les biographies officielles.",
+    "La fonction « Ministre des Affaires étrangères » relève de la vie publique européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ministre%20des%20Affaires%20%C3%A9trang%C3%A8res"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Frans Timmermans",
+    "Josep Borrell",
+    "Didier Reynders",
+    "Mariya Gabriel",
+    "Paolo Gentiloni",
+    "Wopke Hoekstra",
+    "Stéphane Séjourné",
+    "Hadja Lahbib",
+    "Ekaterina Zaharieva",
+    "Federica Mogherini",
+    "Tibor Navracsics",
+    "José Manuel Barroso"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

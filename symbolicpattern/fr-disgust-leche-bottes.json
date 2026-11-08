@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-leche-bottes",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne servile et flatteuse.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:l[èe]che-bottes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:l[èe]che-cul(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fayot(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:flagorneur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:carpette(s)?)(?![\\w-])"
+  ],
+  "symbol": "lèche-bottes",
+  "event": null,
+  "title": "Lèche-bottes",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

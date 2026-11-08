@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la pêche) : Agence européenne de contrôle des pêches (AECP), organe de l'Union créé en 2005 et installé dans cette ville : Vigo.",
+  "id": "eu-ag-efca",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence européenne de contrôle des pêches (AECP)",
+  "entityType": "ORGANISATION",
+  "description": "Agence européenne de contrôle des pêches (AECP), organe de l'Union créé en 2005 et installé dans cette ville : Vigo.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "« Agence européenne de contrôle des pêches (AECP) » joue un rôle dans la pêche.",
+    "Les fonctionnaires de « Agence européenne de contrôle des pêches (AECP) » préparent les textes relatifs à la pêche.",
+    "La délégation a rencontré des représentants de « Agence européenne de contrôle des pêches (AECP) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "AECP"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#PECHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20europ%C3%A9enne%20de%20contr%C3%B4le%20des%20p%C3%AAches%20%28AECP%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Vigo",
+    "Direction générale des affaires maritimes et de la pêche",
+    "Pêche"
+  ],
+  "isDeleted": false,
+  "startDate": "2005-01-01T00:00:00",
+  "endDate": null
+}

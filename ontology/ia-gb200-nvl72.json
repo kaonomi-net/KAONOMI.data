@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul accéléré) : Baie de calcul refroidie par liquide réunissant 72 GPU Blackwell et 36 processeurs Grace en un seul domaine NVLink.",
+  "id": "ia-gb200-nvl72",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "NVIDIA GB200 NVL72",
+  "entityType": "HARDWARE",
+  "description": "Baie de calcul refroidie par liquide réunissant 72 GPU Blackwell et 36 processeurs Grace en un seul domaine NVLink.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "NVIDIA GB200 NVL72 a marqué l'histoire du matériel consacré au calcul accéléré.",
+    "La fiche technique de NVIDIA GB200 NVL72 détaille ses performances.",
+    "Pour ce projet d'IA, l'équipe a comparé NVIDIA GB200 NVL72 à d'autres solutions matérielles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "GB200 NVL72"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULACCELERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NVIDIA%20GB200%20NVL72"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NVIDIA B200",
+    "NVLink"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-01-01T00:00:00",
+  "endDate": null
+}

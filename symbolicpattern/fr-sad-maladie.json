@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-maladie",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une altération de la santé.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:maladie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:malade(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pathologie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:affection(s)?\\s+grave(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mal\\s+incurable)(?![\\w-])"
+  ],
+  "symbol": "maladie",
+  "event": null,
+  "title": "Maladie",
+  "tags": [
+    "#MALADIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

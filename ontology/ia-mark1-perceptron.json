@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (les réseaux de neurones) : Machine de reconnaissance d'images construite par Frank Rosenblatt, dont les poids étaient réglés par des potentiomètres motorisés.",
+  "id": "ia-mark1-perceptron",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Mark I Perceptron",
+  "entityType": "HARDWARE",
+  "description": "Machine de reconnaissance d'images construite par Frank Rosenblatt, dont les poids étaient réglés par des potentiomètres motorisés.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Pour ce projet d'IA, l'équipe a comparé Mark I Perceptron à d'autres solutions matérielles.",
+    "Mark I Perceptron a marqué l'histoire du matériel consacré aux réseaux de neurones.",
+    "La fiche technique de Mark I Perceptron détaille ses performances."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "machine perceptron"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#RESEAUXNEURONES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Mark%20I%20Perceptron"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Frank Rosenblatt",
+    "Perceptron"
+  ],
+  "isDeleted": false,
+  "startDate": "1958-01-01T00:00:00",
+  "endDate": null
+}

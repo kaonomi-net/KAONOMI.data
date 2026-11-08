@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (l'anonymat en ligne) : Informaticien américain, cofondateur du projet Tor avec Nick Mathewson et Paul Syverson.",
+  "id": "cyber-dingledine",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Roger Dingledine",
+  "entityType": "PERSON",
+  "description": "Informaticien américain, cofondateur du projet Tor avec Nick Mathewson et Paul Syverson.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les travaux de Roger Dingledine pour comprendre l'anonymat en ligne.",
+    "Sans Roger Dingledine, l'histoire de l'anonymat en ligne aurait été différente.",
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Roger Dingledine."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "arma"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#ANONYMATENLIGNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Roger%20Dingledine"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Tor"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

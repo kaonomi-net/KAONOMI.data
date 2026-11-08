@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les véhicules autonomes) : Compétition de véhicules autonomes dans le désert américain ; personne ne termine en 2004, la voiture Stanley de Stanford gagne en 2005.",
+  "id": "ia-darpa-grand-challenge",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "DARPA Grand Challenge",
+  "entityType": "EVENT",
+  "description": "Compétition de véhicules autonomes dans le désert américain ; personne ne termine en 2004, la voiture Stanley de Stanford gagne en 2005.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "Les journaux de l'époque ont largement commenté l'événement « DARPA Grand Challenge ».",
+    "L'événement « DARPA Grand Challenge » a marqué durablement l'histoire des véhicules autonomes.",
+    "La frise chronologique de la salle de cours place « DARPA Grand Challenge » en bonne place."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Grand Challenge de la DARPA"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#VEHICULESAUTONOMES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=DARPA%20Grand%20Challenge"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Véhicule autonome Stanley"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-03-13T00:00:00",
+  "endDate": "2005-10-08T00:00:00"
+}

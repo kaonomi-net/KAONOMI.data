@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne des attentats de Bruxelles de 2016 (la mémoire des attentats) : Roi des Belges depuis 2013, il s'est adressé à la nation le jour des attentats et participe aux commémorations.",
+  "id": "be2016-roi-philippe",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Roi Philippe",
+  "entityType": "PERSON",
+  "description": "Roi des Belges depuis 2013, il s'est adressé à la nation le jour des attentats et participe aux commémorations.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-personnes",
+  "sentencesExemples": [
+    "Le dossier documentaire consacré aux attentats comporte une fiche sur Roi Philippe.",
+    "Les comptes rendus de l'époque évoquent Roi Philippe à plusieurs reprises.",
+    "Les journalistes ont retracé le rôle de Roi Philippe dans la mémoire des attentats."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Philippe de Belgique"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#PERSON",
+    "#MEMOIREATTENTATS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Roi%20Philippe"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Inauguration du monument de la rue de la Loi",
+    "Commémorations du 22 mars"
+  ],
+  "isDeleted": false,
+  "startDate": "1960-04-15T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 142,
+  "file": "0142-microsoft-office-how-do-i-use-the-let.prompt.json",
+  "prompt": "How do I use the LET function in Excel?",
+  "promptWords": 9,
+  "completion": "The LET function in Excel is a powerful tool that allows you to assign names to calculation results, which can simplify complex formulas and improve readability. Here’s how you can use it:\n\n### Syntax:\n```excel\nLET(name1, value1, name2, value2, ..., calculation)\n```\n\n- **name1, name2, ...**: Names you assign to intermediate results.\n- **value1, value2, ...**: Values or expressions that calculate the results for the names.\n- **calculation**: The final formula that uses the named results.\n\n### Steps to Use the LET Function:\n\n1. **Define Names and Values**:\n   - Start by listing the names you want to assign and their corresponding values or expressions.\n   - Each name-value pair must be separated by a comma.\n\n2. **Write the Final Calculation**:\n   - After defining all names and values, write the final formula that uses these names.\n\n### Example:\nSuppose you want to calculate the area of a rectangle and then apply a discount to the result. You can use the LET function as follows:\n\n```excel\n=LET(\n    length, 10,\n    width, 5,\n    area, length * width,\n    discounted_area, area * 0.9,\n    discounted_area\n)\n```\n\nIn this example:\n- `length` and `width` are assigned values.\n- `area` is calculated as `length * width`.\n- `discounted_area` is calculated as `area * 0.9`.\n- The final result returned is `discounted_area`.\n\n### Benefits of Using LET:\n- **Simplifies Complex Formulas**: By breaking down a complex formula into smaller, named parts.\n- **Improves Readability**: Makes the formula easier to understand and maintain.\n- **Avoids Redundant Calculations**: You can reuse the named results within the same formula.\n\n### Note:\n- The LET function is available in Excel 365 and Excel 2021. If you are using an older version of Excel, you might not have access to this function.\n\nIf you have a specific scenario in mind, feel free to share it, and I can help you construct the LET function accordingly!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:29:44.0140008+02:00",
+  "durationSeconds": 11.47,
+  "stats": "mistral-small3.2:latest · 518 + 458 tokens · 11,4 s",
+  "isError": false,
+  "language": "EN"
+}

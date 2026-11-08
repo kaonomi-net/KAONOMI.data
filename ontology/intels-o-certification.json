@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-certification",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "certification",
+  "entityType": "DOMAIN",
+  "description": "Cité par 6 intels : Bureau Veritas ; Boeing face à Airbus ; ENISA ; Certification européenne de cybersécurité ; Certifications de pentesteur ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'action Bureau Veritas.",
+    "Suivre la concurrence entre Boeing et Airbus.",
+    "Suivre l'agence de l'Union européenne pour la cybersécurité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "certification",
+  "tags": [
+    "#CYBERSECURITE",
+    "#UNION-EUROPEENNE",
+    "#BOURSE",
+    "#CAC40",
+    "#AERONAUTIQUE",
+    "#ENISA"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!RESULTATS",
+    "!CONCURRENCE",
+    "!DEFENSE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ENISA",
+    "Athènes",
+    "Paris",
+    "Bureau Veritas",
+    "résultats",
+    "croissance",
+    "rapprochement",
+    "Toulouse",
+    "Boeing",
+    "livraisons"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (le traitement du langage) : Architecture de réseau fondée uniquement sur l'auto-attention, introduite dans « Attention Is All You Need » ; elle est à la base des grands modèles de langage.",
+  "id": "ia-transformer",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Transformeur",
+  "entityType": "ALGORITHM",
+  "description": "Architecture de réseau fondée uniquement sur l'auto-attention, introduite dans « Attention Is All You Need » ; elle est à la base des grands modèles de langage.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Dans le domaine du traitement du langage, Transformeur reste une référence.",
+    "Pour ce projet, l'équipe a implémenté Transformeur en quelques lignes de Python.",
+    "Comprendre Transformeur est une étape clé pour maîtriser le traitement du langage."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "Transformer",
+    "architecture Transformeur"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#TRAITEMENTLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Transformeur"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Publication de « Attention Is All You Need »",
+    "Mécanisme d'attention",
+    "Optimiseur Adam",
+    "BERT",
+    "GPT-3",
+    "LLaMA",
+    "Mistral 7B",
+    "Claude",
+    "Whisper"
+  ],
+  "isDeleted": false,
+  "startDate": "2017-01-01T00:00:00",
+  "endDate": null
+}

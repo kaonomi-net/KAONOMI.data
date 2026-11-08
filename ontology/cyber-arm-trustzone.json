@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (l'informatique de confiance) : Extension des processeurs ARM qui sépare un monde sécurisé du monde normal.",
+  "id": "cyber-arm-trustzone",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "ARM TrustZone",
+  "entityType": "HARDWARE",
+  "description": "Extension des processeurs ARM qui sépare un monde sécurisé du monde normal.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Le technicien a installé ARM TrustZone dans la salle des machines.",
+    "Lors du salon, le stand présentait ARM TrustZone en démonstration.",
+    "Le laboratoire utilise ARM TrustZone pour ses travaux dans le domaine de l'informatique de confiance."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "TrustZone"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#INFORMATIQUECONFIANCE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=ARM%20TrustZone"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Secure Enclave d'Apple"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-01-01T00:00:00",
+  "endDate": null
+}

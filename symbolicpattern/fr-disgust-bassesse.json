@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-bassesse",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un manque de noblesse morale.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bassesse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mesquinerie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mesquin(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:petitesse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coup(s)?\\s+bas)(?![\\w-])"
+  ],
+  "symbol": "bassesse",
+  "event": null,
+  "title": "Bassesse",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

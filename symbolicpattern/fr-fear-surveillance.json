@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-surveillance",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le contrôle permanent des personnes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:surveillance\\s+de\\s+masse)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:surveillance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:big\\s+brother)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:soci[ée]t[ée]\\s+de\\s+surveillance)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:flicage(s)?)(?![\\w-])"
+  ],
+  "symbol": "surveillance",
+  "event": null,
+  "title": "Surveillance",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

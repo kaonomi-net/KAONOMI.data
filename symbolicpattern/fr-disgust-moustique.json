@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-moustique",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un insecte piqueur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:moustique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:piq[ûu]re(s)?\\s+de\\s+moustique)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nu[ée]e(s)?\\s+de\\s+moustiques)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:moucheron(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:taon(s)?)(?![\\w-])"
+  ],
+  "symbol": "moustique",
+  "event": null,
+  "title": "Moustique",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

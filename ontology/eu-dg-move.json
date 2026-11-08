@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les transports) : Direction générale de la mobilité et des transports (DG MOVE), service de la Commission européenne compétent pour les transports, le tourisme, placé sous l'autorité de Apostolos Tzitzikostas dans la Commission von der Leyen II.",
+  "id": "eu-dg-move",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de la mobilité et des transports",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de la mobilité et des transports (DG MOVE), service de la Commission européenne compétent pour les transports, le tourisme, placé sous l'autorité de Apostolos Tzitzikostas dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Direction générale de la mobilité et des transports ».",
+    "Les décisions de « Direction générale de la mobilité et des transports » touchent les transports.",
+    "Le rapport annuel de « Direction générale de la mobilité et des transports » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG MOVE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#TRANSPORTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20la%20mobilit%C3%A9%20et%20des%20transports"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Apostolos Tzitzikostas",
+    "Transports",
+    "Tourisme",
+    "Agence exécutive européenne pour le climat, les infrastructures et l'environnement (CINEA)",
+    "Agence de l'Union européenne pour la sécurité aérienne (EASA)",
+    "Agence européenne pour la sécurité maritime (EMSA)",
+    "Agence de l'Union européenne pour les chemins de fer (ERA)",
+    "Mécanisme pour l'interconnexion en Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

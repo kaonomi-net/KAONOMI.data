@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (l'audit de sécurité) : Outil portable multifonction pour tester les radios sub-GHz, le RFID, le NFC et l'infrarouge.",
+  "id": "cyber-flipper",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Flipper Zero",
+  "entityType": "HARDWARE",
+  "description": "Outil portable multifonction pour tester les radios sub-GHz, le RFID, le NFC et l'infrarouge.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Lors du salon, le stand présentait Flipper Zero en démonstration.",
+    "Le laboratoire utilise Flipper Zero pour ses travaux dans le domaine de l'audit de sécurité.",
+    "Le technicien a installé Flipper Zero dans la salle des machines."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Flipper"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#AUDITSECURITE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Flipper%20Zero"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Proxmark3",
+    "USB Rubber Ducky",
+    "HackRF One"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-01-01T00:00:00",
+  "endDate": null
+}

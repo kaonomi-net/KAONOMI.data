@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-drones-au-dessus-de-la-pologne",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Drones au-dessus de la Pologne",
+  "includedEntities": [
+    {
+      "entityName": "drones",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Pologne",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Surveiller les incursions de drones dans l'espace aérien polonais.",
+  "isFuzzy": true,
+  "locations": [
+    "Pologne",
+    "aéroports"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "OTAN",
+    "défense antiaérienne",
+    "Russie"
+  ],
+  "questions": [
+    "Combien de drones ?",
+    "Ont-ils été abattus ?",
+    "Quels aéroports fermés ?"
+  ],
+  "tags": [
+    "#POLOGNE",
+    "#DRONES",
+    "#GUERRE-HYBRIDE"
+  ],
+  "events": [
+    "@INCURSION"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

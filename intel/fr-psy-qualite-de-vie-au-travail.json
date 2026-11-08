@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-qualite-de-vie-au-travail",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Qualité de vie au travail",
+  "includedEntities": [
+    {
+      "entityName": "qualité de vie au travail",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "bien-être",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les démarches de qualité de vie et des conditions de travail.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "accords",
+    "baromètres",
+    "engagement"
+  ],
+  "questions": [
+    "Quelle démarche ?",
+    "Quel effet ?",
+    "Quel baromètre ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TRAVAIL",
+    "#QVT"
+  ],
+  "events": [],
+  "signals": [
+    "!PREVENTION"
+  ],
+  "isDeleted": false
+}

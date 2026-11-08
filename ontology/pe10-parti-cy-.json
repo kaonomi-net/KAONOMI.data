@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Εθνικό Λαϊκό Μέτωπο, parti ou liste de ce pays : Chypre, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-cy-",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Εθνικό Λαϊκό Μέτωπο",
+  "entityType": "ORGANISATION",
+  "description": "Εθνικό Λαϊκό Μέτωπο, parti ou liste de ce pays : Chypre, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "La presse a commenté le score de « Εθνικό Λαϊκό Μέτωπο » aux élections européennes.",
+    "Les positions de « Εθνικό Λαϊκό Μέτωπο » sont suivies à Bruxelles et à Strasbourg.",
+    "« Εθνικό Λαϊκό Μέτωπο » compte des élus au Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C%20%CE%9B%CE%B1%CF%8A%CE%BA%CF%8C%20%CE%9C%CE%AD%CF%84%CF%89%CF%80%CE%BF"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Geadis Geadi",
+    "Chypre",
+    "Conservateurs et réformistes européens (ECR)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-vie",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La vie, le fait d'exister.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:existence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:joie\\s+de\\s+vivre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:go[ûu]t\\s+de\\s+vivre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pleine\\s+vie)(?![\\w-])"
+  ],
+  "symbol": "vie",
+  "event": null,
+  "title": "Vie",
+  "tags": [
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

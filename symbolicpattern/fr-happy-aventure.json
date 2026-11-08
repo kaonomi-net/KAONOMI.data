@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-aventure",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une expérience nouvelle et excitante.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:aventure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:aventureu(x|se|ses|rier|ri[èe]re)|p[ée]riple(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]pop[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:excitant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "aventure",
+  "event": null,
+  "title": "Aventure",
+  "tags": [
+    "#VOYAGE",
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

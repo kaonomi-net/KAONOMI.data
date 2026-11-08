@@ -1,0 +1,13 @@
+{
+  "index": 89,
+  "file": "089-interet-pour-le-llm-vous-arrive-t-il-de-vous.prompt.json",
+  "prompt": "Vous arrive-t-il de vous tromper ?",
+  "promptWords": 6,
+  "completion": "Oui, comme tout système d’intelligence artificielle, je peux me tromper.\u202FJe m’appuie sur les données et les modèles avec lesquels j’ai été entraîné, mais je ne suis pas infaillible\u202F: parfois je peux mal interpréter une question, proposer une réponse inexacte ou manquer de contexte. Si tu remarques une erreur, n’hésite pas à me le signaler\u202F; je pourrai alors corriger ou approfondir l’information.",
+  "model": "gpt-oss:latest",
+  "date": "2026-10-12T11:43:28.259384+02:00",
+  "durationSeconds": 2.72,
+  "stats": "gpt-oss:latest · 76 + 175 tokens · 2.7 s",
+  "isError": false,
+  "language": "FR"
+}

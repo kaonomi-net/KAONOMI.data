@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-independance-de-la-fed",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Indépendance de la Fed",
+  "includedEntities": [
+    {
+      "entityName": "indépendance",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Fed",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Trump",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les pressions politiques sur la Réserve fédérale.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Maison Blanche",
+    "président de la Fed",
+    "nominations"
+  ],
+  "questions": [
+    "Quelle pression ?",
+    "Quelle réaction de la Fed ?",
+    "Quel effet sur le dollar ?"
+  ],
+  "tags": [
+    "#FED",
+    "#INDEPENDANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

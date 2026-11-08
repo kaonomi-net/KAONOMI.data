@@ -1,0 +1,13 @@
+{
+  "index": 39,
+  "file": "059-intelligence-artificielle-qu-est-ce-qu-un-biais.prompt.json",
+  "prompt": "Qu'est-ce qu'un biais algorithmique ?",
+  "promptWords": 5,
+  "completion": "Un biais algorithmique, également appelé biais des algorithmes, se produit lorsqu'un algorithme produit des résultats systématiquement biaisés ou discriminatoires envers certains groupes ou individus. Cela peut se manifester de plusieurs manières, par exemple en favorisant certains groupes au détriment d'autres, en reproduisant des stéréotypes existants, ou en prenant des décisions injustes.\n\nLes causes des biais algorithmiques peuvent être multiples :\n1. **Données biaisées** : Si les données utilisées pour entraîner l'algorithme sont biaisées (par exemple, si elles reflètent des préjugés historiques ou sociétaux), l'algorithme reproduira ces biais.\n2. **Problèmes de conception** : Les choix faits par les concepteurs de l'algorithme, comme les critères de sélection ou les objectifs, peuvent introduire des biais.\n3. **Manque de diversité** : Si les équipes qui conçoivent et testent les algorithmes ne sont pas diversifiées, elles peuvent ne pas anticiper ou reconnaître certains biais.\n\nLes conséquences des biais algorithmiques peuvent être graves, notamment dans des domaines sensibles comme le recrutement, les prêts bancaires, la justice pénale, ou les diagnostics médicaux. Par exemple, un algorithme de recrutement pourrait favoriser les candidats masculins si les données d'entraînement proviennent majoritairement d'entreprises où les postes de direction sont occupés par des hommes.\n\nPour limiter les biais algorithmiques, plusieurs approches sont possibles :\n- **Audits des algorithmes** : Vérifier régulièrement les résultats pour détecter et corriger les biais.\n- **Diversification des données** : Utiliser des ensembles de données représentatifs et équilibrés.\n- **Transparence** : Rendre les processus algorithmiques plus compréhensibles et ouverts à l'examen.\n- **Éthique et régulation** : Intégrer des principes éthiques dans la conception des algorithmes et mettre en place des cadres réglementaires.\n\nEn résumé, un biais algorithmique est un problème complexe qui nécessite une attention particulière pour garantir que les systèmes automatisés soient justes et équitables.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:23:43.7348717+02:00",
+  "durationSeconds": 9.9,
+  "stats": "mistral-small3.2:latest · 516 + 442 tokens · 9,9 s",
+  "isError": false,
+  "language": "FR"
+}

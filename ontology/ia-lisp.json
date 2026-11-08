@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les langages de programmation) : Langage de programmation fonctionnel créé par John McCarthy, langage historique de la recherche en IA.",
+  "id": "ia-lisp",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Lisp",
+  "entityType": "SOFTWARE",
+  "description": "Langage de programmation fonctionnel créé par John McCarthy, langage historique de la recherche en IA.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "En atelier, les élèves ont découvert Lisp et ses possibilités.",
+    "L'équipe a comparé Lisp avec d'autres outils des langages de programmation.",
+    "Lisp figure parmi les logiciels marquants des langages de programmation."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "LISP",
+    "List Processing"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#LANGAGESPROGRAMMATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Lisp"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "John McCarthy",
+    "Prolog"
+  ],
+  "isDeleted": false,
+  "startDate": "1958-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-risque-existentiel-de-l-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Risque existentiel de l'IA",
+  "includedEntities": [
+    {
+      "entityName": "risque existentiel",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "superintelligence",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre le débat sur les risques extrêmes liés à une IA très puissante.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Geoffrey Hinton",
+    "Yoshua Bengio",
+    "moratoire"
+  ],
+  "questions": [
+    "Qui alerte ?",
+    "Quelles mesures proposées ?",
+    "Quel consensus scientifique ?"
+  ],
+  "tags": [
+    "#IA",
+    "#RISQUE",
+    "#ALIGNEMENT"
+  ],
+  "events": [
+    "@ALERTE-EXPERTS"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

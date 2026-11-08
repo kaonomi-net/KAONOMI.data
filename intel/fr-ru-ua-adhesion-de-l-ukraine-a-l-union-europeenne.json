@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-adhesion-de-l-ukraine-a-l-union-europeenne",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Adhésion de l'Ukraine à l'Union européenne",
+  "includedEntities": [
+    {
+      "entityName": "adhésion",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le processus d'adhésion de l'Ukraine à l'Union européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Kyiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "chapitres de négociation",
+    "Hongrie",
+    "réformes"
+  ],
+  "questions": [
+    "Quel chapitre ouvert ?",
+    "Quels blocages ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#UNION-EUROPEENNE",
+    "#ADHESION"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

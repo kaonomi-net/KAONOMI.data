@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-matieres-premieres-agricoles",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Matières premières agricoles",
+  "includedEntities": [
+    {
+      "entityName": "cacao",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "blé",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "café",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prix des matières premières agricoles.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "climat",
+    "récoltes",
+    "spéculation"
+  ],
+  "questions": [
+    "Quel prix ?",
+    "Quelle cause ?",
+    "Quel effet sur les industriels ?"
+  ],
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [
+    "!PRIX"
+  ],
+  "isDeleted": false
+}

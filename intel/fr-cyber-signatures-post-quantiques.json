@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-signatures-post-quantiques",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Signatures post-quantiques",
+  "includedEntities": [
+    {
+      "entityName": "ML-DSA",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "SLH-DSA",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "signatures",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les algorithmes de signature post-quantiques et le concours additionnel du NIST.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "FIPS 204",
+    "FIPS 205",
+    "candidats"
+  ],
+  "questions": [
+    "Quel algorithme ?",
+    "Quel candidat retenu ?",
+    "Quel déploiement ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#POST-QUANTIQUE",
+    "#SIGNATURE"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cofinimmo",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "Cofinimmo",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Immobilier coté et taux ; Cofinimmo et Aedifica ; Immobilier coté belge.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les foncières cotées face aux taux.",
+    "Suivre les foncières belges de santé et leur rapprochement.",
+    "Suivre les sociétés immobilières réglementées belges."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Cofinimmo",
+  "tags": [
+    "#BOURSE",
+    "#IMMOBILIER",
+    "#BELGIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENDANCE",
+    "!OPERATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "taux",
+    "WDP",
+    "Europe",
+    "immobilier coté",
+    "foncières",
+    "Unibail",
+    "Anvers",
+    "fusion",
+    "Bruxelles",
+    "maisons de repos"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

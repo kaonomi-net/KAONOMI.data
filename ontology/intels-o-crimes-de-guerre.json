@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-crimes-de-guerre",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "crimes de guerre",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Exécutions de soldats capturés ; Enquêtes sur les crimes de guerre ; Mandats de la Cour pénale internationale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les signalements d'exécutions de soldats qui se rendent.",
+    "Suivre les enquêtes et procès pour crimes de guerre.",
+    "Suivre les mandats d'arrêt et procédures de la CPI."
+  ],
+  "angryLevel": null,
+  "sadLevel": 33,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "crimes de guerre",
+  "tags": [
+    "#UKRAINE",
+    "#CRIMES-DE-GUERRE",
+    "#DROITS-HUMAINS",
+    "#JUSTICE",
+    "#GEOPOLITIQUE",
+    "#JUSTICE-INTERNATIONALE"
+  ],
+  "events": [
+    "@SIGNALEMENT",
+    "@PROCES",
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!JUSTICE",
+    "!SAD",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "enquête",
+    "La Haye",
+    "soldats capturés",
+    "vidéos",
+    "exécution",
+    "Kyiv",
+    "CPI",
+    "parquet ukrainien",
+    "Eurojust",
+    "procureur"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

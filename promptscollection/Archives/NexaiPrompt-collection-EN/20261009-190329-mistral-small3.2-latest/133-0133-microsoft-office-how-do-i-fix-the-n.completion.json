@@ -1,0 +1,13 @@
+{
+  "index": 133,
+  "file": "0133-microsoft-office-how-do-i-fix-the-n.prompt.json",
+  "prompt": "How do I fix the #N/A error in Excel?",
+  "promptWords": 9,
+  "completion": "The #N/A error in Excel typically occurs when a function or formula cannot find the data it is looking for. Here are some common ways to fix this error:\n\n1. **Check the Function or Formula**:\n   - Ensure that the function or formula you are using is correct and that all arguments are properly specified.\n   - For example, if you are using the `VLOOKUP` function, make sure the lookup value exists in the range you are searching.\n\n2. **Verify Data Range**:\n   - Check that the data range you are referencing includes the value you are looking for.\n   - Ensure there are no typos or extra spaces in the data.\n\n3. **Use IFERROR or IFNA**:\n   - You can use the `IFERROR` or `IFNA` function to handle the #N/A error gracefully.\n   - Example: `=IFNA(VLOOKUP(A1, B1:B10, 1, FALSE), \"Not Found\")`\n\n4. **Check for Hidden Characters**:\n   - Sometimes, hidden characters or formatting issues can cause the #N/A error.\n   - Try cleaning the data using the `TRIM` function or by removing any special characters.\n\n5. **Update Data**:\n   - If the data is being pulled from an external source, ensure that the source data is up-to-date and accurate.\n\n6. **Use Exact Match Criteria**:\n   - If you are using a lookup function, make sure the exact match criteria is set correctly.\n   - For example, in `VLOOKUP`, use `FALSE` for an exact match and `TRUE` for an approximate match.\n\nIf you provide more details about the specific formula or function you are using, I can offer more targeted advice.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:28:03.1994716+02:00",
+  "durationSeconds": 9.27,
+  "stats": "mistral-small3.2:latest · 519 + 358 tokens · 9,3 s",
+  "isError": false,
+  "language": "EN"
+}

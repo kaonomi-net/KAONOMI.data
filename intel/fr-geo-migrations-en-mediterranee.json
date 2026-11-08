@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-migrations-en-mediterranee",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Migrations en Méditerranée",
+  "includedEntities": [
+    {
+      "entityName": "migrants",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Méditerranée",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "naufrage",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les traversées et les drames en mer Méditerranée.",
+  "isFuzzy": true,
+  "locations": [
+    "Lampedusa",
+    "Libye",
+    "Tunisie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Frontex",
+    "ONG",
+    "garde-côtes"
+  ],
+  "questions": [
+    "Combien d'arrivées ?",
+    "Quels naufrages ?",
+    "Quelle politique européenne ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#MIGRATIONS",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@NAUFRAGE"
+  ],
+  "signals": [
+    "!HUMANITAIRE",
+    "!SAD"
+  ],
+  "isDeleted": false
+}

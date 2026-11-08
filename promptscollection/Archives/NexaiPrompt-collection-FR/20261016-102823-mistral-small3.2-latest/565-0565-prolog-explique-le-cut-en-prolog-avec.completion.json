@@ -1,0 +1,13 @@
+{
+  "index": 565,
+  "file": "0565-prolog-explique-le-cut-en-prolog-avec.prompt.json",
+  "prompt": "Explique le cut en Prolog avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "En Prolog, le **cut** (ou `!`) est un opérateur qui permet de contrôler l'exécution des règles en éliminant certaines alternatives de backtracking. Il est souvent utilisé pour optimiser les performances ou pour imposer des contraintes logiques.\n\n### Fonctionnement du cut :\n- Lorsqu'un cut est rencontré pendant l'exécution, Prolog \"coupe\" les choix précédents, empêchant le backtracking de revenir en arrière au-delà de ce point.\n- Cela peut être utile pour éviter des calculs inutiles ou pour garantir que certaines conditions sont vérifiées avant de poursuivre.\n\n### Exemple simple :\nConsidérons une base de connaissances avec des faits et des règles pour déterminer si une personne est autorisée à entrer dans un club.\n\n```prolog\n% Faits : membres du club\nmembre(john).\nmembre(mary).\n\n% Règle pour vérifier l'entrée\nentree(P) :-\n    membre(P),\n    !,  % Cut : si P est membre, on ne vérifie pas les autres conditions\n    write(P, ' est un membre et peut entrer.'), nl.\n\nentree(P) :-\n    write(P, ' n\\'est pas membre et ne peut pas entrer.'), nl.\n```\n\n### Explications :\n1. Si `P` est un membre (par exemple `john`), la première règle s'applique :\n   - `membre(john)` est vrai, donc le cut `!` est exécuté.\n   - Prolog \"coupe\" les autres alternatives et affiche : `john est un membre et peut entrer.`\n   - Même si d'autres règles existent, elles ne seront pas explorées grâce au cut.\n\n2. Si `P` n'est pas un membre (par exemple `paul`), la première règle échoue (car `membre(paul)` est faux), et la deuxième règle s'applique :\n   - `paul n'est pas membre et ne peut pas entrer.` est affiché.\n\n### Cas sans cut :\nSans le cut, Prolog continuerait à explorer les autres règles même après avoir trouvé une solution, ce qui pourrait être inefficace ou logique incorrecte.\n\n```prolog\nentree(P) :-\n    membre(P),\n    write(P, ' est un membre et peut entrer.'), nl.\n\nentree(P) :-\n    write(P, ' n\\'est pas membre et ne peut pas entrer.'), nl.\n```\n\nDans ce cas, pour `john`, les deux règles seraient explorées (même si la première est vraie), ce qui n'est pas souhaitable.\n\n### Conclusion :\nLe cut est un outil puissant pour optimiser les programmes Prolog, mais il doit être utilisé avec précaution car il peut rendre le code moins lisible ou modifier le comportement attendu si mal placé.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:18:42.212806+02:00",
+  "durationSeconds": 11.48,
+  "stats": "mistral-small3.2:latest · 519 + 581 tokens · 11,5 s",
+  "isError": false,
+  "language": "FR"
+}

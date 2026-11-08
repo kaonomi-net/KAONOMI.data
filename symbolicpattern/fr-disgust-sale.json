@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-sale",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui n'est pas propre.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sali(r|e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souill[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crasseu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pas\\s+propre)(?![\\w-])"
+  ],
+  "symbol": "sale",
+  "event": null,
+  "title": "Sale",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

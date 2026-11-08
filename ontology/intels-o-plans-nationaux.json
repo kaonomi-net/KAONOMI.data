@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-plans-nationaux",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "plans nationaux",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 3 intels : Plans de partenariat nationaux et régionaux ; Fonds social pour le climat ; Politique agricole commune après 2027.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre le projet de fusionner les fonds dans 27 plans nationaux.",
+    "Suivre le fonds destiné à compenser le coût de la transition pour les ménages.",
+    "Suivre l'avenir de la PAC dans le prochain budget européen."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "plans nationaux",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#BUDGET-UE",
+    "#COHESION",
+    "#CLIMAT",
+    "#SOCIAL",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION",
+    "!CLIMAT",
+    "!AGRICULTURE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "PAC",
+    "cohésion",
+    "régions",
+    "partenariat",
+    "précarité énergétique",
+    "ménages",
+    "ETS2",
+    "fonds social pour le climat",
+    "Hansen"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

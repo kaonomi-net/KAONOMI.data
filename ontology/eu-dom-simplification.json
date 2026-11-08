@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la simplification) : Réduction de la charge administrative et meilleure application du droit de l'Union.",
+  "id": "eu-dom-simplification",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Simplification et mise en œuvre",
+  "entityType": "DOMAIN",
+  "description": "Réduction de la charge administrative et meilleure application du droit de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Simplification et mise en œuvre » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Simplification et mise en œuvre ».",
+    "Plusieurs commissaires ont été chargés du domaine « Simplification et mise en œuvre »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#SIMPLIFICATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Simplification%20et%20mise%20en%20%C5%93uvre"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Économie et productivité ; mise en œuvre et simplification (Commission von der Leyen II)",
+    "Valdis Dombrovskis",
+    "Boussole pour la compétitivité",
+    "Paquets omnibus de simplification"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

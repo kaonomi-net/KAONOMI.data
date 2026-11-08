@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-zaporijia",
+  "dateCreated": "2026-11-08 17:55:50",
+  "name": "Zaporijia",
+  "entityType": "CITY",
+  "description": "Cité par 15 intels : Concessions territoriales ; Bombes planantes russes ; Contre-offensive ukrainienne de Zaporijia ; Combats autour de Houliaïpole ; Frappe sur Komychouvakha ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre le débat sur d'éventuelles cessions de territoires dans un accord.",
+    "Surveiller l'usage massif des bombes planantes guidées.",
+    "Suivre la contre-offensive ukrainienne lancée en février 2026 dans la région de Zaporijia."
+  ],
+  "angryLevel": null,
+  "sadLevel": 7,
+  "happyLevel": null,
+  "fearLevel": 13,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Zaporijia",
+  "tags": [
+    "#UKRAINE",
+    "#ZAPORIJIA",
+    "#RUSSIE",
+    "#CIVILS",
+    "#NUCLEAIRE",
+    "#GEOPOLITIQUE"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT",
+    "@ALERTE-NUCLEAIRE",
+    "@FRAPPE-CIVILS"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!MENACE",
+    "!CONFLIT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kharkiv",
+    "Kherson",
+    "Donbass",
+    "AIEA",
+    "bombes planantes",
+    "armée ukrainienne",
+    "drones",
+    "mines",
+    "civils",
+    "ONG"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

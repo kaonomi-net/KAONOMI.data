@@ -1,0 +1,13 @@
+{
+  "index": 100,
+  "file": "100-interet-pour-le-llm-si-vous-pouviez-visiter-un-endroit.prompt.json",
+  "prompt": "Si vous pouviez visiter un endroit dans le monde, lequel choisiriez-vous ?",
+  "promptWords": 12,
+  "completion": "Si je pouvais choisir un seul endroit à visiter, je pencherais vers **le parc national de Torres del Paine, au Chili**.\n\nCe lieu est un véritable tableau vivant, où se mêlent majestueux sommets glaciaires, lacs d’un bleu irréel, prairies verdoyantes et falaises de granit qui se dressent comme des sentinelles. C’est un espace naturel préservé où la nature semble encore à l’état brut, loin de l’effervescence des grandes métropoles. Les sentiers de randonnée – la boucle W ou la boucle O – offrent des panoramas à couper le souffle, et chaque étape révèle une nouvelle scène spectaculaire : des lacs de jade, des forêts de pin, des cascades glacées, et parfois même la rencontre inattendue avec des chamois ou des condors.\n\nAu-delà de la beauté, ce parc représente un rappel de la fragilité de notre planète. Ses glaciers, qui se retirent lentement, sont un message d’urgence et de respect pour l’environnement. Visiter Torres del Paine, c’est aussi prendre conscience de l’importance de la conservation et de la protection des espaces naturels.\n\nEn somme, choisir Torres del Paine, c’est se projeter dans un cadre à la fois majestueux, paisible et chargé de sens, où l’on peut contempler l’immense diversité de la Terre et se sentir profondément connecté à la nature.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:28:13.1860721+02:00",
+  "durationSeconds": 6.13,
+  "stats": "gpt-oss:20b · 83 + 945 tokens · 6,1 s",
+  "isError": false,
+  "language": "FR"
+}

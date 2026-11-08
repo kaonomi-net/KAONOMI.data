@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-perte",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de perdre quelqu'un ou quelque chose.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:perte(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perdu(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:privation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:manque(s)?\\s+cruel(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:irr[ée]parable(s)?)(?![\\w-])"
+  ],
+  "symbol": "perte",
+  "event": null,
+  "title": "Perte",
+  "tags": [
+    "#DEUIL",
+    "#ECHEC"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

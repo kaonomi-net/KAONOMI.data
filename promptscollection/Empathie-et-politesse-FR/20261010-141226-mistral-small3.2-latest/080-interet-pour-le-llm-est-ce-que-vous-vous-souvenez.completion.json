@@ -1,0 +1,13 @@
+{
+  "index": 80,
+  "file": "080-interet-pour-le-llm-est-ce-que-vous-vous-souvenez.prompt.json",
+  "prompt": "Est-ce que vous vous souvenez de moi ?",
+  "promptWords": 8,
+  "completion": "Je ne stocke pas d'informations sur les conversations précédentes. Chaque nouvelle conversation est indépendante, donc je ne me souviens pas des interactions passées. Comment puis-je vous aider aujourd'hui ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:34.4837298+02:00",
+  "durationSeconds": 0.99,
+  "stats": "mistral-small3.2:latest · 518 + 39 tokens · 1,0 s",
+  "isError": false,
+  "language": "FR"
+}

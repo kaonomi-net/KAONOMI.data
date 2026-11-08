@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Projet de loi de finances pour 2027",
+  "includedEntities": [
+    {
+      "entityName": "projet de loi de finances",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "PLF",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'examen du projet de loi de finances pour 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Parlement"
+  ],
+  "times": [
+    "novembre et décembre 2026"
+  ],
+  "relatedEntities": [
+    "recettes",
+    "dépenses",
+    "amendements"
+  ],
+  "questions": [
+    "Quelle étape ?",
+    "Quels amendements clés ?",
+    "Quel solde ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET"
+  ],
+  "events": [],
+  "signals": [
+    "!BUDGET"
+  ],
+  "isDeleted": false
+}

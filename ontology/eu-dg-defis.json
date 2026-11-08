@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la défense européenne) : Direction générale de l'industrie de la défense et de l'espace (DG DEFIS), service de la Commission européenne compétent pour la défense européenne, la politique spatiale, placé sous l'autorité de Andrius Kubilius dans la Commission von der Leyen II.",
+  "id": "eu-dg-defis",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de l'industrie de la défense et de l'espace",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de l'industrie de la défense et de l'espace (DG DEFIS), service de la Commission européenne compétent pour la défense européenne, la politique spatiale, placé sous l'autorité de Andrius Kubilius dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Direction générale de l'industrie de la défense et de l'espace ».",
+    "« Direction générale de l'industrie de la défense et de l'espace » joue un rôle dans la défense européenne.",
+    "Les fonctionnaires de « Direction générale de l'industrie de la défense et de l'espace » préparent les textes relatifs à la défense européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG DEFIS"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#DEFENSEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20l%27industrie%20de%20la%20d%C3%A9fense%20et%20de%20l%27espace"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Andrius Kubilius",
+    "Défense",
+    "Espace",
+    "Agence de l'Union européenne pour le programme spatial (EUSPA)",
+    "Plan ReArm Europe / Préparation 2030",
+    "Livre blanc sur l'avenir de la défense européenne",
+    "Copernicus",
+    "Galileo",
+    "IRIS²",
+    "Fonds européen de la défense",
+    "Instrument SAFE (Action pour la sécurité de l'Europe)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

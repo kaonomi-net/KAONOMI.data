@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-remaniements-a-kyiv",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Remaniements à Kyiv",
+  "includedEntities": [
+    {
+      "entityName": "remaniement",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "gouvernement",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Kyiv",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les changements au gouvernement et dans l'administration présidentielle.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Rada",
+    "ministres",
+    "chef de cabinet"
+  ],
+  "questions": [
+    "Qui part ?",
+    "Qui arrive ?",
+    "Quelle raison ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#GOUVERNEMENT",
+    "#POLITIQUE"
+  ],
+  "events": [
+    "@NOMINATION"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

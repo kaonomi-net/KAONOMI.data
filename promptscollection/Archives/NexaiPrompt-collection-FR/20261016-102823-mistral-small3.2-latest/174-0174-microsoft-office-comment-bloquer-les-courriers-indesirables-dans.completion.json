@@ -1,0 +1,13 @@
+{
+  "index": 174,
+  "file": "0174-microsoft-office-comment-bloquer-les-courriers-indesirables-dans.prompt.json",
+  "prompt": "Comment bloquer les courriers indésirables dans Outlook ?",
+  "promptWords": 8,
+  "completion": "Pour bloquer les courriers indésirables dans Outlook, vous pouvez suivre ces étapes :\n\n### **Sur Outlook.com (version web) :**\n1. **Ouvrez Outlook.com** et connectez-vous à votre compte.\n2. **Accédez aux paramètres** :\n   - Cliquez sur l’icône d’engrenage (⚙️) en haut à droite.\n   - Sélectionnez **Afficher tous les paramètres des courriers**.\n3. **Gestion des courriers indésirables** :\n   - Allez dans **Courrier > Courrier indésirable**.\n   - Ajoutez des adresses e-mail ou des domaines dans la liste **Bloquer les expéditeurs et les domaines**.\n   - Vous pouvez aussi ajouter des mots-clés dans **Liste des mots-clés du courrier indésirable**.\n4. **Enregistrez** vos modifications.\n\n### **Sur Outlook Desktop (Windows) :**\n1. **Ouvrez Outlook** et allez dans l’onglet **Accueil**.\n2. **Sélectionnez un e-mail indésirable** dans votre boîte de réception.\n3. **Cliquez sur l’icône \"Courrier indésirable\"** (en forme de poubelle barrée) dans le ruban.\n4. **Choisissez \"Bloquer l’expéditeur\"** pour ajouter automatiquement l’adresse à la liste noire.\n\n### **Sur Outlook Mobile (Android/iOS) :**\n1. **Ouvrez l’e-mail indésirable** dans votre boîte de réception.\n2. **Appuyez sur les trois points (⋮)** en haut à droite.\n3. **Sélectionnez \"Marquer comme courrier indésirable\"** ou \"Bloquer l’expéditeur\".\n\nCes méthodes permettent de réduire les spams et les e-mails non souhaités. Si vous avez besoin d’aide supplémentaire, n’hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:59:26.3295828+02:00",
+  "durationSeconds": 8.21,
+  "stats": "mistral-small3.2:latest · 520 + 406 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

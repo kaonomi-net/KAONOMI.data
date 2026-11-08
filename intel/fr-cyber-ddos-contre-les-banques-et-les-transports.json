@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-ddos-contre-les-banques-et-les-transports",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "DDoS contre les banques et les transports",
+  "includedEntities": [
+    {
+      "entityName": "DDoS",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "transports",
+      "entityWeight": "25"
+    },
+    {
+      "entityName": "banques",
+      "entityWeight": "25"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les attaques DDoS contre les banques, aéroports et transports.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "aéroports",
+    "banques en ligne",
+    "hacktivistes"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quel impact ?",
+    "Quel groupe ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DDOS",
+    "#INFRASTRUCTURES"
+  ],
+  "events": [
+    "@DDOS"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

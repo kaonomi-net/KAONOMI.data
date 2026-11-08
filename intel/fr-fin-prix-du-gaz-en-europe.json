@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-prix-du-gaz-en-europe",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Prix du gaz en Europe",
+  "includedEntities": [
+    {
+      "entityName": "gaz",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "TTF",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "prix",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le prix du gaz européen.",
+  "isFuzzy": true,
+  "locations": [
+    "Amsterdam"
+  ],
+  "times": [
+    "hiver"
+  ],
+  "relatedEntities": [
+    "stocks",
+    "GNL",
+    "Russie"
+  ],
+  "questions": [
+    "Quel prix ?",
+    "Quel niveau de stocks ?",
+    "Quel risque hivernal ?"
+  ],
+  "tags": [
+    "#ENERGIE",
+    "#GAZ"
+  ],
+  "events": [],
+  "signals": [
+    "!PRIX"
+  ],
+  "isDeleted": false
+}

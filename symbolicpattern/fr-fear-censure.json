@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-censure",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le contrôle de ce que l'on peut dire.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:censure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:censur(er|[ée]|[ée]e|[ée]s)|mod[ée]ration\\s+automatique)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:libert[ée]\\s+d['’]expression\\s+menac[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:shadowban)(?![\\w-])"
+  ],
+  "symbol": "censure",
+  "event": null,
+  "title": "Censure",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

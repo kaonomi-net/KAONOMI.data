@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-pacte-europeen-pour-les-soins",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Pacte européen pour les soins",
+  "includedEntities": [
+    {
+      "entityName": "pacte pour les soins",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "soins",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "aidants",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le pacte européen pour les soins prévu en 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "2027"
+  ],
+  "relatedEntities": [
+    "aidants",
+    "dépendance",
+    "personnel"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quel financement ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SOCIAL",
+    "#PROGRAMME-2027"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

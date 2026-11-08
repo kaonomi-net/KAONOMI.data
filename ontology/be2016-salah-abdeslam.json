@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne des attentats de Bruxelles de 2016 (la cellule terroriste) : Seul membre survivant des commandos du 13 novembre 2015 à Paris, il s'est caché à Bruxelles pendant quatre mois avant son arrestation à Molenbeek le 18 mars 2016, quatre jours avant les attentats.",
+  "id": "be2016-salah-abdeslam",
+  "dateCreated": "2026-10-31 19:28:40",
+  "name": "Salah Abdeslam",
+  "entityType": "PERSON",
+  "description": "Seul membre survivant des commandos du 13 novembre 2015 à Paris, il s'est caché à Bruxelles pendant quatre mois avant son arrestation à Molenbeek le 18 mars 2016, quatre jours avant les attentats. Condamné en France en 2022 à la réclusion criminelle à perpétuité incompressible, il a aussi été jugé au procès de Bruxelles.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-personnes",
+  "sentencesExemples": [
+    "Les journalistes ont retracé le rôle de Salah Abdeslam dans la cellule terroriste.",
+    "Le dossier documentaire consacré aux attentats comporte une fiche sur Salah Abdeslam.",
+    "Les comptes rendus de l'époque évoquent Salah Abdeslam à plusieurs reprises."
+  ],
+  "angryLevel": 4,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 1,
+  "disgustLevel": 4,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "S. Abdeslam"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#PERSON",
+    "#CELLULETERRORISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Salah%20Abdeslam"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Attentats du 13 novembre 2015",
+    "Retour de Salah Abdeslam à Bruxelles",
+    "Arrestation de Salah Abdeslam",
+    "Fusillade de la rue du Dries",
+    "Molenbeek-Saint-Jean",
+    "Cellule terroriste Paris-Bruxelles",
+    "Procès des attentats du 13 novembre 2015",
+    "Procès des attentats de Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": "1989-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,47 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-spiritualite",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "spiritualité",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Sens de la vie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les recherches sur le sens de la vie et les questions existentielles."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "spiritualité",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#EXISTENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "existentiel",
+    "bien-être",
+    "jeunes",
+    "sens de la vie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

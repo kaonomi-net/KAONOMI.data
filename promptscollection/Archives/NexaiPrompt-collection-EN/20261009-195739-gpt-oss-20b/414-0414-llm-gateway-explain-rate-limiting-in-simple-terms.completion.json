@@ -1,0 +1,13 @@
+{
+  "index": 414,
+  "file": "0414-llm-gateway-explain-rate-limiting-in-simple-terms.prompt.json",
+  "prompt": "Explain rate limiting in simple terms.",
+  "promptWords": 6,
+  "completion": "**Rate limiting** is just a fancy way of saying “I’ll only let you do a certain amount of things in a given time.”\n\nThink of it like this:\n\n| Everyday situation | What “rate limiting” looks like |\n|---------------------|---------------------------------|\n| **A busy coffee shop** | There’s a line of people waiting to order. The barista can only serve a few customers per minute, so the line keeps a steady pace. |\n| **Your phone’s data plan** | You’re allowed 5\u202FGB per month. If you try to download a huge video after you’ve already used 4\u202FGB, the phone will pause the download until you have more data left. |\n| **A toll booth on a highway** | Only a certain number of cars can pass through per minute. If too many cars show up, they’re told to wait. |\n| **A website’s API** | The site can handle, say, 100 requests per second. If a user or a bot sends 1,000 requests in a second, the site will respond with “Slow down” or “Try again later.” |\n\nSo what’s actually happening?\n\n1. **Counting** – The system keeps a tally of how many “requests” (calls, orders, actions) it has received from a particular source (a user, an IP address, an app, etc.) in a recent time window (e.g., the last 60 seconds).\n2. **Checking** – When a new request comes in, it checks that tally.\n3. **Deciding** – If the tally is below the allowed limit, the request is let through. If it’s above the limit, the system rejects or delays the request.\n4. **Resetting** – After the time window passes (the window slides forward), the tally is reset, allowing new requests.\n\n### Why bother?\n\n- **Prevent abuse** – Stops people from spamming a service.\n- **Keep things fair** – No single user hogs all the bandwidth or resources.\n- **Protect performance** – Keeps servers from crashing under a sudden surge.\n\n### Quick take‑away\n\nRate limiting is like putting a “maximum speed” sign on how fast you can do something. It helps keep everything running smoothly and fairly.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T21:43:16.791559+02:00",
+  "durationSeconds": 5.52,
+  "stats": "gpt-oss:20b · 74 + 566 tokens · 5,5 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-execrable",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Extrêmement mauvais.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ex[ée]crable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ex[ée]cr(er|[ée]|[ée]e|ation)|d[ée]testable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:abominable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:insupportable(s)?)(?![\\w-])"
+  ],
+  "symbol": "exécrable",
+  "event": null,
+  "title": "Exécrable",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

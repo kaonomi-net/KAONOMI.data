@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Croatie.",
+  "id": "pe10-mep-197417",
+  "dateCreated": "2026-10-31 20:22:44",
+  "name": "Tomislav Sokol",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Croatie. Groupe politique : Parti populaire européen (PPE). Parti ou liste national : Hrvatska demokratska zajednica.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Le vote de Tomislav Sokol figure dans le relevé des votes par appel nominal.",
+    "Tomislav Sokol participe aux travaux des commissions parlementaires.",
+    "Tomislav Sokol siège au Parlement européen depuis la législature 2024-2029."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Tomislav SOKOL"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/197417",
+    "https://fr.wikipedia.org/w/index.php?search=Tomislav%20Sokol"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Croatie",
+    "Parlement européen",
+    "Parti populaire européen (PPE)",
+    "Union démocratique croate (HDZ)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

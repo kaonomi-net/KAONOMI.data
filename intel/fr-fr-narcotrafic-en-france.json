@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-narcotrafic-en-france",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Narcotrafic en France",
+  "includedEntities": [
+    {
+      "entityName": "narcotrafic",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "trafic de drogue",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la lutte contre le narcotrafic.",
+  "isFuzzy": true,
+  "locations": [
+    "Marseille",
+    "Nîmes",
+    "Grenoble"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "DZ Mafia",
+    "règlements de comptes",
+    "parquet national"
+  ],
+  "questions": [
+    "Quel règlement de comptes ?",
+    "Quelle saisie ?",
+    "Quelle loi ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SECURITE",
+    "#NARCOTRAFIC"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

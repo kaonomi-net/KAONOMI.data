@@ -1,0 +1,13 @@
+{
+  "index": 74,
+  "file": "074-interet-pour-le-llm-was-ist-ihr-lieblingsgericht.prompt.json",
+  "prompt": "Was ist Ihr Lieblingsgericht?",
+  "promptWords": 4,
+  "completion": "Als KI habe ich keine eigenen Geschmackspräferenzen, aber ich kann Ihnen ein Gericht empfehlen, das bei vielen Menschen sehr beliebt ist: **Schnitzel mit Kartoffelsalat**.  \n\n- **Schnitzel**: dünn geklopftes Kalb- oder Schweinefleisch, paniert und goldbraun gebraten.  \n- **Kartoffelsalat**: knackige Kartoffeln, Zwiebeln, ein Hauch Senf, Sahne und etwas Essig, alles mit frischen Kräutern verfeinert.\n\nFalls Sie etwas anderes ausprobieren möchten, lassen Sie es mich wissen – ich helfe gerne bei der Suche nach einem Rezept!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:37:08.168195+02:00",
+  "durationSeconds": 1.95,
+  "stats": "gpt-oss:20b · 73 + 270 tokens · 1,9 s",
+  "isError": false,
+  "language": "DE"
+}

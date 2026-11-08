@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-necrologie",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'annonce ou le récit de la mort d'une personne.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:n[ée]crologie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:n[ée]crologique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:avis\\s+de\\s+d[ée]c[èe]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:faire-part\\s+de\\s+d[ée]c[èe]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:oraison(s)?\\s+fun[èe]bre(s)?)(?![\\w-])"
+  ],
+  "symbol": "nécrologie",
+  "event": null,
+  "title": "Nécrologie",
+  "tags": [
+    "#MORT",
+    "#DEUIL"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

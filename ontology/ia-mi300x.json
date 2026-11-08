@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul accéléré) : Accélérateur d'AMD doté de 192 Go de mémoire HBM3, concurrent des GPU NVIDIA pour l'IA.",
+  "id": "ia-mi300x",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "AMD Instinct MI300X",
+  "entityType": "HARDWARE",
+  "description": "Accélérateur d'AMD doté de 192 Go de mémoire HBM3, concurrent des GPU NVIDIA pour l'IA.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Le technicien a installé AMD Instinct MI300X dans la salle des machines.",
+    "Lors du salon, le stand présentait AMD Instinct MI300X en démonstration.",
+    "Le laboratoire utilise AMD Instinct MI300X pour ses travaux dans le domaine du calcul accéléré."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "MI300X"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULACCELERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=AMD%20Instinct%20MI300X"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Mémoire HBM",
+    "NVIDIA H100"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-01-01T00:00:00",
+  "endDate": null
+}

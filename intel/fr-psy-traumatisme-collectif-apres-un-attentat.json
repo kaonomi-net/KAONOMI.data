@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-traumatisme-collectif-apres-un-attentat",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Traumatisme collectif après un attentat",
+  "includedEntities": [
+    {
+      "entityName": "traumatisme collectif",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "attentat",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la prise en charge psychologique après un attentat ou une catastrophe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "cellules d'urgence médico-psychologique",
+    "victimes",
+    "témoins"
+  ],
+  "questions": [
+    "Quel événement ?",
+    "Quelle prise en charge ?",
+    "Quel suivi ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TRAUMA",
+    "#ATTENTAT"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "isDeleted": false
+}

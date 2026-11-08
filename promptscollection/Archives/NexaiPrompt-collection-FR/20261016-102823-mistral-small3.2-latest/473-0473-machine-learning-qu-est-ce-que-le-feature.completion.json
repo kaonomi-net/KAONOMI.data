@@ -1,0 +1,13 @@
+{
+  "index": 473,
+  "file": "0473-machine-learning-qu-est-ce-que-le-feature.prompt.json",
+  "prompt": "Qu'est-ce que le feature engineering ?",
+  "promptWords": 6,
+  "completion": "Le **feature engineering** (ou ingénierie des caractéristiques en français) est une étape cruciale dans le processus de développement de modèles de machine learning. Il consiste à créer de nouvelles caractéristiques (ou *features*) à partir des données brutes pour améliorer la performance d'un modèle.\n\n### Objectifs du feature engineering :\n1. **Améliorer la qualité des données** : Transformer des données brutes en caractéristiques plus pertinentes pour le modèle.\n2. **Augmenter la performance du modèle** : Un bon choix de caractéristiques peut réduire le biais et la variance du modèle.\n3. **Réduire la complexité** : En sélectionnant ou en combinant des caractéristiques pertinentes, on peut simplifier le modèle.\n\n### Techniques courantes de feature engineering :\n- **Transformation des données** : Normalisation, standardisation, log-transformation, etc.\n- **Encodage des variables catégorielles** : One-hot encoding, label encoding, etc.\n- **Création de nouvelles variables** : Combinaison de plusieurs caractéristiques existantes (ex : ratio, différence, produit).\n- **Sélection de caractéristiques** : Suppression des caractéristiques redondantes ou peu informatives.\n- **Gestion des valeurs manquantes** : Imputation, suppression, etc.\n\n### Exemple simple :\nSi vous travaillez avec des données de ventes, vous pourriez créer une nouvelle caractéristique comme le **ratio entre le chiffre d'affaires et le nombre de clients**, ce qui pourrait être plus prédictif qu'une simple utilisation du chiffre d'affaires seul.\n\nLe feature engineering demande souvent une bonne compréhension du domaine d'application et des données pour créer des caractéristiques pertinentes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:51:57.3795411+02:00",
+  "durationSeconds": 7.31,
+  "stats": "mistral-small3.2:latest · 515 + 344 tokens · 7,3 s",
+  "isError": false,
+  "language": "FR"
+}

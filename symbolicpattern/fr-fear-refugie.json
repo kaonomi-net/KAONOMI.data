@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-refugie",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne qui fuit la guerre.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]fugi[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exode(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fuir\\s+la\\s+guerre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]plac[ée](e|s|es)?\\s+de\\s+guerre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:camp(s)?\\s+de\\s+r[ée]fugi[ée]s)(?![\\w-])"
+  ],
+  "symbol": "réfugié",
+  "event": null,
+  "title": "Réfugié",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

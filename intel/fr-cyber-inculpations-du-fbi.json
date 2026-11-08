@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-inculpations-du-fbi",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Inculpations du FBI",
+  "includedEntities": [
+    {
+      "entityName": "FBI",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "inculpation",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les inculpations américaines de pirates.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ministère de la Justice",
+    "APT",
+    "rançongiciels"
+  ],
+  "questions": [
+    "Qui est inculpé ?",
+    "Pour quelles attaques ?",
+    "Quel pays ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ETATS-UNIS",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@INCULPATION"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

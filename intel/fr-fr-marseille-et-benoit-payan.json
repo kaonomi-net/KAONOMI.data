@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-marseille-et-benoit-payan",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Marseille et Benoît Payan",
+  "includedEntities": [
+    {
+      "entityName": "Benoît Payan",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Marseille",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action de Benoît Payan, réélu maire de Marseille.",
+  "isFuzzy": true,
+  "locations": [
+    "Marseille"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "narcotrafic",
+    "transports",
+    "État"
+  ],
+  "questions": [
+    "Quelles décisions ?",
+    "Quel soutien de l'État ?",
+    "Quel rôle national ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MARSEILLE",
+    "#GAUCHE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

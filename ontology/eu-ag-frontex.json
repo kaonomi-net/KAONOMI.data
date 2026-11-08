@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique migratoire) : Agence européenne de garde-frontières et de garde-côtes (Frontex), organe de l'Union créé en 2004 et installé dans cette ville : Varsovie.",
+  "id": "eu-ag-frontex",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence européenne de garde-frontières et de garde-côtes (Frontex)",
+  "entityType": "ORGANISATION",
+  "description": "Agence européenne de garde-frontières et de garde-côtes (Frontex), organe de l'Union créé en 2004 et installé dans cette ville : Varsovie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Le rapport annuel de « Agence européenne de garde-frontières et de garde-côtes (Frontex) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Agence européenne de garde-frontières et de garde-côtes (Frontex) ».",
+    "Les décisions de « Agence européenne de garde-frontières et de garde-côtes (Frontex) » touchent la politique migratoire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "Frontex"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEMIGRATOIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20europ%C3%A9enne%20de%20garde-fronti%C3%A8res%20et%20de%20garde-c%C3%B4tes%20%28Frontex%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Varsovie",
+    "Direction générale de la migration et des affaires intérieures",
+    "Migration et asile"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-01-01T00:00:00",
+  "endDate": null
+}

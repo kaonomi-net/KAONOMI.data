@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la politique étrangère) : Début de l'invasion à grande échelle ; l'Union adopte des paquets de sanctions successifs et soutient l'Ukraine.",
+  "id": "eu-ev-invasion-ukraine",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Invasion de l'Ukraine par la Russie",
+  "entityType": "EVENT",
+  "description": "Début de l'invasion à grande échelle ; l'Union adopte des paquets de sanctions successifs et soutient l'Ukraine.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "La presse européenne a largement couvert « Invasion de l'Ukraine par la Russie ».",
+    "« Invasion de l'Ukraine par la Russie » concerne la politique étrangère.",
+    "Les archives audiovisuelles de la Commission conservent des images de « Invasion de l'Ukraine par la Russie »."
+  ],
+  "angryLevel": 4,
+  "sadLevel": 5,
+  "happyLevel": 0,
+  "fearLevel": 5,
+  "surpriseLevel": 4,
+  "disgustLevel": 3,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Invasion%20de%20l%27Ukraine%20par%20la%20Russie"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Plan REPowerEU",
+    "Affaires étrangères",
+    "Défense",
+    "Énergie",
+    "Ursula von der Leyen",
+    "Josep Borrell",
+    "Charles Michel",
+    "Commission von der Leyen I",
+    "Kyiv",
+    "Ukraine",
+    "Statut de pays candidat accordé à l'Ukraine et à la Moldavie"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-02-24T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (l'apprentissage connexionniste) : Modèle mathématique du neurone proposé par McCulloch et Pitts : une somme pondérée d'entrées binaires comparée à un seuil.",
+  "id": "ia-neurone-formel",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Neurone formel",
+  "entityType": "ALGORITHM",
+  "description": "Modèle mathématique du neurone proposé par McCulloch et Pitts : une somme pondérée d'entrées binaires comparée à un seuil. C'est la brique de base des réseaux de neurones.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Dans le domaine de l'apprentissage connexionniste, Neurone formel reste une référence.",
+    "Pour ce projet, l'équipe a implémenté Neurone formel en quelques lignes de Python.",
+    "Comprendre Neurone formel est une étape clé pour maîtriser l'apprentissage connexionniste."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "neurone de McCulloch-Pitts",
+    "neurone artificiel"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#APPRENTISSAGECONNEXIONNISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Neurone%20formel"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Warren McCulloch",
+    "Walter Pitts",
+    "Perceptron"
+  ],
+  "isDeleted": false,
+  "startDate": "1943-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-capacites-cyber-des-modeles-d-ia",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Capacités cyber des modèles d'IA",
+  "includedEntities": [
+    {
+      "entityName": "capacités cyber",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "modèles d'IA",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évaluation des capacités offensives des modèles d'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "laboratoires",
+    "évaluations",
+    "restrictions de diffusion"
+  ],
+  "questions": [
+    "Quel modèle ?",
+    "Quelle capacité ?",
+    "Quelle restriction ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#SECURITE-IA"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

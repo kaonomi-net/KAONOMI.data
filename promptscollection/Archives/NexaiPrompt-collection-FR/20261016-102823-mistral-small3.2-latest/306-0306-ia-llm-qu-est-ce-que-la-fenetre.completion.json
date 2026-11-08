@@ -1,0 +1,13 @@
+{
+  "index": 306,
+  "file": "0306-ia-llm-qu-est-ce-que-la-fenetre.prompt.json",
+  "prompt": "Qu'est-ce que la fenêtre de contexte d'un LLM ?",
+  "promptWords": 9,
+  "completion": "La fenêtre de contexte d'un modèle de langage (LLM) comme moi fait référence à la quantité d'informations (généralement mesurée en nombre de tokens) que je peux prendre en compte simultanément pour générer une réponse. En d'autres termes, c'est la \"mémoire\" temporaire que j'utilise pour comprendre et répondre à une question ou une conversation.\n\n### Points clés à retenir :\n1. **Limite de tokens** : Ma fenêtre de contexte est limitée à un certain nombre de tokens (par exemple, 4096 tokens pour certains modèles). Un token peut être un mot, une partie de mot, ou un caractère, selon le langage.\n2. **Impact sur les réponses** : Si la conversation ou la question dépasse cette limite, je ne peux pas prendre en compte l'ensemble des informations fournies. Cela peut entraîner des réponses incomplètes ou des oublis de détails antérieurs.\n3. **Gestion des longues conversations** : Pour des échanges prolongés, il est parfois nécessaire de résumer ou de reformuler les informations importantes pour rester dans la limite de la fenêtre de contexte.\n\n### Exemple :\nSi vous me posez une question qui fait référence à des informations échangées il y a plusieurs tours de conversation, je pourrais ne pas me souvenir des détails si la fenêtre de contexte a été dépassée.\n\nSi vous avez des questions plus spécifiques sur ce sujet, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:21:56.5714185+02:00",
+  "durationSeconds": 6.21,
+  "stats": "mistral-small3.2:latest · 520 + 300 tokens · 6,2 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,63 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la politique migratoire) : Gestion des frontières extérieures, régime d'asile commun et migration légale.",
+  "id": "eu-dom-migration",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Migration et asile",
+  "entityType": "DOMAIN",
+  "description": "Gestion des frontières extérieures, régime d'asile commun et migration légale.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Les propositions législatives relatives au domaine « Migration et asile » passent par le Parlement et le Conseil.",
+    "La conférence portait sur la politique migratoire.",
+    "Le domaine « Migration et asile » figure dans le programme de travail de la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#POLITIQUEMIGRATOIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Migration%20et%20asile"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conseil Justice et affaires intérieures (JHA)",
+    "Promotion du mode de vie européen (Commission von der Leyen I)",
+    "Margaritis Schinas",
+    "Affaires intérieures (Commission von der Leyen I)",
+    "Ylva Johansson",
+    "Affaires intérieures et migration (Commission von der Leyen II)",
+    "Magnus Brunner",
+    "Migration, affaires intérieures et citoyenneté (Commission Juncker)",
+    "Dimitris Avramopoulos",
+    "Affaires intérieures (Commission Barroso II)",
+    "Cecilia Malmström",
+    "Direction générale de la migration et des affaires intérieures",
+    "Agence européenne de garde-frontières et de garde-côtes (Frontex)",
+    "Agence de l'Union européenne pour l'asile (EUAA)",
+    "Espace Schengen",
+    "Pacte sur la migration et l'asile",
+    "Fonds « Asile, migration et intégration »"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

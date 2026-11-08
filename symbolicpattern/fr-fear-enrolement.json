@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-enrolement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'enrôlement dans un groupe violent.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:enr[ôo]lement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:recrutement\\s+terroriste)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:recrue(s)?\\s+terroriste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fili[èe]re(s)?\\s+terroriste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:recrut(er|[ée]|[ée]e)\\s+par\\s+un\\s+groupe\\s+arm[ée])(?![\\w-])"
+  ],
+  "symbol": "enrôlement",
+  "event": null,
+  "title": "Enrôlement",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

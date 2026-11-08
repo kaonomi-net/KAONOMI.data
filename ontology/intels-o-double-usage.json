@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-double-usage",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "double usage",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Sanctions secondaires.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Surveiller les sanctions visant les partenaires étrangers de la Russie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "double usage",
+  "tags": [
+    "#RUSSIE",
+    "#SANCTIONS",
+    "#CONTOURNEMENT"
+  ],
+  "events": [
+    "@SANCTION"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sanctions secondaires",
+    "Émirats arabes unis",
+    "Chine",
+    "Turquie",
+    "exportations",
+    "banques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

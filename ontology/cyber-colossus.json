@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (la cryptanalyse) : Premier calculateur électronique programmable, construit par Tommy Flowers pour casser la machine de Lorenz.",
+  "id": "cyber-colossus",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Colossus",
+  "entityType": "HARDWARE",
+  "description": "Premier calculateur électronique programmable, construit par Tommy Flowers pour casser la machine de Lorenz.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Lors du salon, le stand présentait Colossus en démonstration.",
+    "Le laboratoire utilise Colossus pour ses travaux dans le domaine de la cryptanalyse.",
+    "Le technicien a installé Colossus dans la salle des machines."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Colossus Mark 1"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#CRYPTANALYSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Colossus"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Machine de Lorenz",
+    "Décryptage à Bletchley Park"
+  ],
+  "isDeleted": false,
+  "startDate": "1944-01-01T00:00:00",
+  "endDate": null
+}

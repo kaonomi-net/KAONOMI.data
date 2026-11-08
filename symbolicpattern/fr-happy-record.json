@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-record",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une performance jamais atteinte.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:record(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:battre\\s+(le|son|un)\\s+record)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:record\\s+du\\s+monde)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:in[ée]dit(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:historique(s)?)(?![\\w-])"
+  ],
+  "symbol": "record",
+  "event": null,
+  "title": "Record",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

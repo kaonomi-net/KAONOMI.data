@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul accéléré) : Carte graphique grand public de l'architecture Ada Lovelace, très utilisée pour faire tourner des modèles en local.",
+  "id": "ia-rtx-4090",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "NVIDIA GeForce RTX 4090",
+  "entityType": "HARDWARE",
+  "description": "Carte graphique grand public de l'architecture Ada Lovelace, très utilisée pour faire tourner des modèles en local.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Le laboratoire utilise NVIDIA GeForce RTX 4090 pour ses travaux dans le domaine du calcul accéléré.",
+    "Le technicien a installé NVIDIA GeForce RTX 4090 dans la salle des machines.",
+    "Lors du salon, le stand présentait NVIDIA GeForce RTX 4090 en démonstration."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "RTX 4090"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULACCELERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NVIDIA%20GeForce%20RTX%204090"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "llama.cpp",
+    "Whisper",
+    "Stable Diffusion"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-01-01T00:00:00",
+  "endDate": null
+}

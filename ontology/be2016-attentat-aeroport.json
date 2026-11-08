@@ -1,0 +1,61 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (les attentats du 22 mars 2016) : Deux explosions frappent le hall des départs de l'aéroport de Bruxelles-National vers 7 h 58 ; une troisième bombe, abandonnée, est neutralisée plus tard par les démineurs.",
+  "id": "be2016-attentat-aeroport",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Attentat de l'aéroport de Bruxelles-National",
+  "entityType": "EVENT",
+  "description": "Deux explosions frappent le hall des départs de l'aéroport de Bruxelles-National vers 7 h 58 ; une troisième bombe, abandonnée, est neutralisée plus tard par les démineurs.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "La presse belge a largement couvert « Attentat de l'aéroport de Bruxelles-National ».",
+    "L'événement « Attentat de l'aéroport de Bruxelles-National » s'inscrit dans les attentats du 22 mars 2016.",
+    "La frise chronologique du dossier place « Attentat de l'aéroport de Bruxelles-National » à sa date."
+  ],
+  "angryLevel": 5,
+  "sadLevel": 5,
+  "happyLevel": 0,
+  "fearLevel": 5,
+  "surpriseLevel": 5,
+  "disgustLevel": 4,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "attentat de Zaventem"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#ATTENTATS22MARS2016"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Attentat%20de%20l%27a%C3%A9roport%20de%20Bruxelles-National"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ibrahim El Bakraoui",
+    "Najim Laachraoui",
+    "Mohamed Abrini",
+    "Cellule terroriste Paris-Bruxelles",
+    "Revendication par l'État islamique",
+    "Arrestation de Salah Abdeslam",
+    "Attentat de la station Maelbeek",
+    "Bombes dans des valises",
+    "Niveau de menace 4 en mars 2016",
+    "Commission d'enquête parlementaire",
+    "Aéroport de Bruxelles-National",
+    "Deuil national",
+    "Réouverture partielle de l'aéroport"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-03-22T00:00:00",
+  "endDate": "2016-03-22T00:00:00"
+}

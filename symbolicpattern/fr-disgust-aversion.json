@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-aversion",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un rejet profond.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:aversion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:allergie\\s+[àa])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:phobie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:horreur\\s+de)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ne\\s+pas\\s+supporter)(?![\\w-])"
+  ],
+  "symbol": "aversion",
+  "event": null,
+  "title": "Aversion",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

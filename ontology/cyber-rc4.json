@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (le chiffrement par flot) : Chiffrement par flot de Ron Rivest, longtemps utilisé dans le WEP et TLS avant que ses faiblesses ne le fassent abandonner.",
+  "id": "cyber-rc4",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "RC4",
+  "entityType": "ALGORITHM",
+  "description": "Chiffrement par flot de Ron Rivest, longtemps utilisé dans le WEP et TLS avant que ses faiblesses ne le fassent abandonner.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "La chercheuse a présenté une analyse de RC4 lors du séminaire.",
+    "RC4 est enseigné dans tous les cours consacrés au chiffrement par flot.",
+    "L'audit vérifie que RC4 est utilisé correctement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "ARC4",
+    "Rivest Cipher 4"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CHIFFREMENTPARFLOT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=RC4"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ron Rivest",
+    "ChaCha20",
+    "Aircrack-ng"
+  ],
+  "isDeleted": false,
+  "startDate": "1987-01-01T00:00:00",
+  "endDate": null
+}

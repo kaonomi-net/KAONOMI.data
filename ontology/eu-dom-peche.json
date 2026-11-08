@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la pêche) : Politique commune de la pêche et gestion durable des ressources halieutiques.",
+  "id": "eu-dom-peche",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Pêche",
+  "entityType": "DOMAIN",
+  "description": "Politique commune de la pêche et gestion durable des ressources halieutiques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le budget de l'Union consacre des crédits au domaine « Pêche ».",
+    "Plusieurs commissaires ont été chargés du domaine « Pêche ».",
+    "Le domaine « Pêche » mobilise plusieurs directions générales."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#PECHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=P%C3%AAche"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission de la pêche (PECH)",
+    "Conseil Agriculture et pêche (AGRIFISH)",
+    "Environnement, océans et pêche (Commission von der Leyen I)",
+    "Virginijus Sinkevičius",
+    "Pêche et océans (Commission von der Leyen II)",
+    "Costas Kadis",
+    "Environnement, affaires maritimes et pêche (Commission Juncker)",
+    "Karmenu Vella",
+    "Direction générale des affaires maritimes et de la pêche",
+    "Agence européenne de contrôle des pêches (AECP)",
+    "Politique commune de la pêche",
+    "Fonds européen pour les affaires maritimes, la pêche et l'aquaculture"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

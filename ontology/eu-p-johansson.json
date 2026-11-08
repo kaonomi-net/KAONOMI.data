@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les affaires intérieures) : Enseignante, ancienne ministre suédoise de l'Emploi, commissaire aux Affaires intérieures de 2019 à 2024, en charge du pacte sur la migration et l'asile.",
+  "id": "eu-p-johansson",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Ylva Johansson",
+  "entityType": "PERSON",
+  "description": "Enseignante, ancienne ministre suédoise de l'Emploi, commissaire aux Affaires intérieures de 2019 à 2024, en charge du pacte sur la migration et l'asile.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Ylva Johansson.",
+    "Lors du point de presse de midi, une question portait sur Ylva Johansson.",
+    "Ylva Johansson est une figure de les affaires intérieures."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Johansson"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#AFFAIRESINTERIEURES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ylva%20Johansson"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité suédoise",
+    "Parti social-démocrate suédois",
+    "Enseignant",
+    "Ministre du Travail",
+    "Commissaire européen",
+    "Affaires intérieures (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Affaires intérieures et sécurité",
+    "Migration et asile"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

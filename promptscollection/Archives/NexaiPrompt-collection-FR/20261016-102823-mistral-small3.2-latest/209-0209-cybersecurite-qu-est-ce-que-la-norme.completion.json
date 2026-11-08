@@ -1,0 +1,13 @@
+{
+  "index": 209,
+  "file": "0209-cybersecurite-qu-est-ce-que-la-norme.prompt.json",
+  "prompt": "Qu'est-ce que la norme ISO 27001 ?",
+  "promptWords": 7,
+  "completion": "La norme ISO/IEC 27001 est une norme internationale qui spécifie les exigences pour un système de management de la sécurité de l'information (SMSI). Elle fait partie de la famille des normes ISO/IEC 27000 et est publiée par l'Organisation internationale de normalisation (ISO) et la Commission électrotechnique internationale (IEC).\n\n### Objectifs principaux de la norme ISO 27001 :\n1. **Protéger les informations sensibles** : Assurer la confidentialité, l'intégrité et la disponibilité des informations.\n2. **Gérer les risques** : Identifier et traiter les risques liés à la sécurité de l'information.\n3. **Améliorer la sécurité** : Mettre en place des contrôles de sécurité adaptés aux besoins de l'organisation.\n\n### Principales caractéristiques :\n- **Approche systématique** : La norme encourage une approche structurée et proactive pour gérer la sécurité de l'information.\n- **Cycle PDCA** : Utilisation du cycle Plan-Do-Check-Act (Planifier-Exécuter-Vérifier-Agir) pour améliorer continuellement le SMSI.\n- **Conformité légale** : Aide les organisations à respecter les exigences légales et réglementaires en matière de sécurité de l'information.\n\n### Domaines d'application :\nLa norme ISO 27001 peut être appliquée à tous les types d'organisations, quelles que soient leur taille ou leur secteur d'activité. Elle est particulièrement utile pour les entreprises qui traitent des données sensibles, comme les banques, les hôpitaux, les fournisseurs de services cloud, etc.\n\n### Certification :\nUne organisation peut choisir de se faire certifier ISO 27001 par un organisme de certification accrédité. Cette certification démontre que l'organisation a mis en place un système de management de la sécurité de l'information conforme aux exigences de la norme.\n\nSi vous avez besoin de plus de détails ou d'informations spécifiques, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:04:46.1032393+02:00",
+  "durationSeconds": 8.89,
+  "stats": "mistral-small3.2:latest · 521 + 426 tokens · 8,9 s",
+  "isError": false,
+  "language": "FR"
+}

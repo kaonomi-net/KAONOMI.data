@@ -1,0 +1,13 @@
+{
+  "index": 724,
+  "file": "0724-java-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Java qui illustre les classes internes et anonymes.",
+  "promptWords": 14,
+  "completion": "Voici un exemple de code Java qui illustre à la fois les classes internes et les classes anonymes :\n\n```java\npublic class ExempleClasses {\n\n    // Classe interne\n    class ClasseInterne {\n        void afficher() {\n            System.out.println(\"Je suis une classe interne\");\n        }\n    }\n\n    // Méthode qui utilise une classe anonyme\n    void utiliserClasseAnonyme() {\n        // Classe anonyme qui implémente l'interface Runnable\n        Runnable r = new Runnable() {\n            @Override\n            public void run() {\n                System.out.println(\"Je suis une classe anonyme implémentant Runnable\");\n            }\n        };\n\n        // Exécution du Runnable\n        r.run();\n    }\n\n    public static void main(String[] args) {\n        ExempleClasses exemple = new ExempleClasses();\n\n        // Utilisation de la classe interne\n        ExempleClasses.ClasseInterne interne = exemple.new ClasseInterne();\n        interne.afficher();\n\n        // Utilisation de la classe anonyme\n        exemple.utiliserClasseAnonyme();\n    }\n}\n```\n\nExplications :\n1. La classe `ClasseInterne` est une classe interne définie à l'intérieur de `ExempleClasses`.\n2. Dans la méthode `utiliserClasseAnonyme()`, nous créons une classe anonyme qui implémente l'interface `Runnable`.\n3. La classe anonyme est une instance de `Runnable` qui est créée et définie en une seule étape.\n4. Dans la méthode `main()`, nous utilisons à la fois la classe interne et la classe anonyme.\n\nCe code montre comment les classes internes permettent de regrouper des classes logiquement liées, tandis que les classes anonymes permettent de créer des instances d'interfaces ou de classes abstraites de manière concise.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:56:46.106688+02:00",
+  "durationSeconds": 7.55,
+  "stats": "mistral-small3.2:latest · 525 + 372 tokens · 7,5 s",
+  "isError": false,
+  "language": "FR"
+}

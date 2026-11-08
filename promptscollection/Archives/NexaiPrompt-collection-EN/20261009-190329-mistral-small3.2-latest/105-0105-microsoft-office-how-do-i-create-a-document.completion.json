@@ -1,0 +1,13 @@
+{
+  "index": 105,
+  "file": "0105-microsoft-office-how-do-i-create-a-document.prompt.json",
+  "prompt": "How do I create a document template in Word?",
+  "promptWords": 9,
+  "completion": "Creating a document template in Microsoft Word is a straightforward process. Here’s a step-by-step guide to help you:\n\n### Steps to Create a Document Template in Word:\n\n1. **Open Microsoft Word**:\n   - Launch Microsoft Word on your computer.\n\n2. **Create a New Document**:\n   - Go to `File` > `New` to start a new blank document.\n\n3. **Design Your Template**:\n   - Add all the elements you want in your template, such as text, images, tables, headers, footers, etc.\n   - Use styles to format your text consistently. You can find styles in the `Home` tab.\n\n4. **Save as a Template**:\n   - Once your template is ready, go to `File` > `Save As`.\n   - In the `Save as type` dropdown menu, select `Word Template (*.dotx)`.\n   - Choose a location to save your template, preferably in the `Templates` folder.\n   - Give your template a descriptive name and click `Save`.\n\n5. **Using Your Template**:\n   - To use your template, go to `File` > `New`.\n   - Click on `Personal` or `My Templates` (depending on your version of Word).\n   - Select your template and click `Create`.\n\n### Tips:\n- **Placeholders**: Use placeholders for text that will change, such as `[Date]` or `[Client Name]`.\n- **Headers and Footers**: Add headers and footers with page numbers, dates, or other recurring information.\n- **Styles**: Use built-in styles or create your own to maintain consistency.\n\nWould you like more detailed instructions for a specific version of Word?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:23:12.620955+02:00",
+  "durationSeconds": 8.27,
+  "stats": "mistral-small3.2:latest · 517 + 345 tokens · 8,3 s",
+  "isError": false,
+  "language": "EN"
+}

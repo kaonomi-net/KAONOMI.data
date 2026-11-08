@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-jetons-oauth",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "jetons OAuth",
+  "entityType": "PRODUCT",
+  "description": "Cité par 1 intel : Attaques contre l'identité dans le cloud.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre les attaques visant les annuaires et identités cloud."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "jetons OAuth",
+  "tags": [
+    "#CYBERSECURITE",
+    "#IDENTITES",
+    "#CLOUD"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "identités",
+    "Okta",
+    "Entra ID",
+    "applications tierces",
+    "cloud"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

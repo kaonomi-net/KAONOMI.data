@@ -1,0 +1,13 @@
+{
+  "index": 65,
+  "file": "085-mathematiques-comment-calculer-un-pourcentage.prompt.json",
+  "prompt": "Comment calculer un pourcentage ?",
+  "promptWords": 5,
+  "completion": "Calculer un pourcentage est une opération mathématique simple. Voici comment procéder :\n\n### Formule de base\nPour calculer un pourcentage \\( P \\) d'une valeur \\( V \\), utilisez la formule suivante :\n\n\\[ P = \\left( \\frac{\\text{Partie}}{\\text{Total}} \\right) \\times 100 \\]\n\n### Étapes à suivre\n1. **Identifiez la partie et le total** :\n   - La **partie** est la quantité ou la valeur dont vous voulez calculer le pourcentage.\n   - Le **total** est la quantité ou la valeur de référence.\n\n2. **Divisez la partie par le total** :\n   \\[ \\text{Résultat} = \\frac{\\text{Partie}}{\\text{Total}} \\]\n\n3. **Multipliez par 100** pour obtenir le pourcentage :\n   \\[ P = \\text{Résultat} \\times 100 \\]\n\n### Exemple\nSupposons que vous voulez calculer le pourcentage de 30 par rapport à 200.\n\n1. **Partie** = 30\n2. **Total** = 200\n3. **Calcul** :\n   \\[ \\frac{30}{200} = 0.15 \\]\n   \\[ 0.15 \\times 100 = 15\\% \\]\n\nDonc, 30 est 15% de 200.\n\n### Autres cas courants\n- **Augmentation ou diminution en pourcentage** :\n  \\[ \\text{Pourcentage de changement} = \\left( \\frac{\\text{Nouvelle valeur} - \\text{Ancienne valeur}}{\\text{Ancienne valeur}} \\right) \\times 100 \\]\n\n- **Calculer une valeur à partir d'un pourcentage** :\n  \\[ \\text{Valeur} = \\text{Pourcentage} \\times \\text{Total} \\]\n\nSi vous avez un cas spécifique en tête, n'hésitez pas à me le décrire et je pourrai vous aider à effectuer le calcul.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:28:09.8189249+02:00",
+  "durationSeconds": 9.98,
+  "stats": "mistral-small3.2:latest · 513 + 438 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

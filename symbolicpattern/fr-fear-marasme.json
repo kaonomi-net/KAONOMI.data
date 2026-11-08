@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-marasme",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une stagnation profonde.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:marasme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:morosit[ée]\\s+[ée]conomique)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]conomie\\s+en\\s+panne)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:croissance\\s+atone)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:climat\\s+morose)(?![\\w-])"
+  ],
+  "symbol": "marasme",
+  "event": null,
+  "title": "Marasme",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

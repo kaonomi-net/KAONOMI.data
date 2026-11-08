@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la politique économique) : Portefeuille détenu par Pierre Moscovici, commissaire, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "id": "eu-pf-juncker-moscovici",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Affaires économiques et financières, fiscalité et union douanière (Commission Juncker)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Pierre Moscovici, commissaire, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Lors de son audition, le titulaire du portefeuille « Affaires économiques et financières, fiscalité et union douanière (Commission Juncker) » a présenté ses priorités.",
+    "Le portefeuille « Affaires économiques et financières, fiscalité et union douanière (Commission Juncker) » s'appuie sur plusieurs directions générales.",
+    "Le portefeuille « Affaires économiques et financières, fiscalité et union douanière (Commission Juncker) » a marqué la politique européenne de la politique économique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Affaires%20%C3%A9conomiques%20et%20financi%C3%A8res%2C%20fiscalit%C3%A9%20et%20union%20douani%C3%A8re%20%28Commission%20Juncker%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pierre Moscovici",
+    "Commission Juncker",
+    "Commissaire européen",
+    "Économie",
+    "Fiscalité et union douanière"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-11-01T00:00:00",
+  "endDate": "2019-11-30T00:00:00"
+}

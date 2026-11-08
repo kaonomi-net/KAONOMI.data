@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-force-de-reassurance",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "force de réassurance",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 4 intels : Garanties de sécurité pour l'Ukraine ; Coalition des volontaires ; Coalition des volontaires menée par Paris et Londres ; Garanties de sécurité européennes pour l'Ukraine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les propositions de garanties de sécurité pour l'Ukraine après un accord.",
+    "Suivre la coalition européenne prête à garantir un cessez-le-feu.",
+    "Suivre la coalition franco-britannique pour garantir un cessez-le-feu."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "force de réassurance",
+  "tags": [
+    "#UKRAINE",
+    "#SECURITE",
+    "#DIPLOMATIE",
+    "#EUROPE",
+    "#FRANCE",
+    "#MACRON"
+  ],
+  "events": [],
+  "signals": [
+    "!GARANTIES"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Londres",
+    "coalition des volontaires",
+    "Ukraine",
+    "garanties de sécurité",
+    "OTAN",
+    "Washington",
+    "Royaume-Uni",
+    "France",
+    "Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

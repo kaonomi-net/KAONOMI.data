@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la politique de voisinage) : Portefeuille détenu par Johannes Hahn, commissaire, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "id": "eu-pf-juncker-hahn",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Politique européenne de voisinage et négociations d'élargissement (Commission Juncker)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Johannes Hahn, commissaire, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "La lettre de mission du portefeuille « Politique européenne de voisinage et négociations d'élargissement (Commission Juncker) » fixe les objectifs en matière de la politique de voisinage.",
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Politique européenne de voisinage et négociations d'élargissement (Commission Juncker) ».",
+    "Le portefeuille « Politique européenne de voisinage et négociations d'élargissement (Commission Juncker) » couvre la politique de voisinage."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#POLITIQUEVOISINAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Politique%20europ%C3%A9enne%20de%20voisinage%20et%20n%C3%A9gociations%20d%27%C3%A9largissement%20%28Commission%20Juncker%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Johannes Hahn",
+    "Commission Juncker",
+    "Commissaire européen",
+    "Politique de voisinage",
+    "Élargissement"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-11-01T00:00:00",
+  "endDate": "2019-11-30T00:00:00"
+}

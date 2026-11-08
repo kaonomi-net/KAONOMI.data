@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (la classification) : Classifieur probabiliste fondé sur le théorème de Bayes avec une hypothèse d'indépendance entre les variables ; très utilisé pour le filtrage du spam.",
+  "id": "ia-naive-bayes",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Classifieur bayésien naïf",
+  "entityType": "ALGORITHM",
+  "description": "Classifieur probabiliste fondé sur le théorème de Bayes avec une hypothèse d'indépendance entre les variables ; très utilisé pour le filtrage du spam.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Le notebook compare Classifieur bayésien naïf aux autres méthodes de la classification.",
+    "La chercheuse a présenté une variante de Classifieur bayésien naïf lors du séminaire.",
+    "Classifieur bayésien naïf est enseigné dans tous les cours consacrés à la classification."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "naive Bayes"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#CLASSIFICATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Classifieur%20bay%C3%A9sien%20na%C3%AFf"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "scikit-learn"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

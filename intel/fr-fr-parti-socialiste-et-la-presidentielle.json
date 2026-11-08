@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-parti-socialiste-et-la-presidentielle",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Parti socialiste et la présidentielle",
+  "includedEntities": [
+    {
+      "entityName": "Parti socialiste",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Olivier Faure",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la stratégie du Parti socialiste pour 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "primaire",
+    "Glucksmann",
+    "LFI"
+  ],
+  "questions": [
+    "Qui soutient-il ?",
+    "Quelle stratégie ?",
+    "Quelles divisions ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#PS"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

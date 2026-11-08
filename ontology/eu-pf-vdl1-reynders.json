@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la justice) : Portefeuille détenu par Didier Reynders, commissaire, dans la Commission von der Leyen I, du 1er décembre 2019 au 30 novembre 2024.",
+  "id": "eu-pf-vdl1-reynders",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Justice (Commission von der Leyen I)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Didier Reynders, commissaire, dans la Commission von der Leyen I, du 1er décembre 2019 au 30 novembre 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Le portefeuille « Justice (Commission von der Leyen I) » couvre la justice.",
+    "La lettre de mission du portefeuille « Justice (Commission von der Leyen I) » fixe les objectifs en matière de la justice.",
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Justice (Commission von der Leyen I) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Justice%20%28Commission%20von%20der%20Leyen%20I%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Didier Reynders",
+    "Commission von der Leyen I",
+    "Commissaire européen",
+    "Justice",
+    "Protection des consommateurs",
+    "État de droit"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-12-01T00:00:00",
+  "endDate": "2024-11-30T00:00:00"
+}

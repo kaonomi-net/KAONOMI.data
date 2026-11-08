@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-tensions-autour-de-taiwan",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Tensions autour de Taïwan",
+  "includedEntities": [
+    {
+      "entityName": "Taïwan",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "détroit",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les tensions militaires et diplomatiques autour de Taïwan.",
+  "isFuzzy": true,
+  "locations": [
+    "détroit de Taïwan",
+    "Taipei"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Armée populaire de libération",
+    "États-Unis",
+    "Japon"
+  ],
+  "questions": [
+    "Quelles manœuvres chinoises ?",
+    "Quelles incursions aériennes ?",
+    "Quelle réaction américaine ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#TAIWAN",
+    "#CHINE"
+  ],
+  "events": [
+    "@MANOEUVRES-MILITAIRES"
+  ],
+  "signals": [
+    "!TENSION",
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

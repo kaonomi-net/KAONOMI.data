@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'environnement) : Agence européenne pour l'environnement (AEE), organe de l'Union créé en 1990 et installé dans cette ville : Copenhague.",
+  "id": "eu-ag-eea",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence européenne pour l'environnement (AEE)",
+  "entityType": "ORGANISATION",
+  "description": "Agence européenne pour l'environnement (AEE), organe de l'Union créé en 1990 et installé dans cette ville : Copenhague.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Le rapport annuel de « Agence européenne pour l'environnement (AEE) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Agence européenne pour l'environnement (AEE) ».",
+    "Les décisions de « Agence européenne pour l'environnement (AEE) » touchent l'environnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "AEE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20europ%C3%A9enne%20pour%20l%27environnement%20%28AEE%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Copenhague",
+    "Direction générale de l'environnement",
+    "Environnement",
+    "Action pour le climat"
+  ],
+  "isDeleted": false,
+  "startDate": "1990-01-01T00:00:00",
+  "endDate": null
+}

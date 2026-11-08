@@ -1,0 +1,53 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-accords-d-abraham",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "accords d'Abraham",
+  "entityType": "LAW",
+  "description": "Cité par 1 intel : Normalisation entre Israël et l'Arabie saoudite.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre les discussions de normalisation diplomatique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "accords d'Abraham",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#DIPLOMATIE",
+    "#MOYEN-ORIENT"
+  ],
+  "events": [
+    "@NEGOCIATIONS"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Israël",
+    "Jérusalem",
+    "Riyad",
+    "Arabie saoudite",
+    "normalisation",
+    "Palestiniens",
+    "États-Unis"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

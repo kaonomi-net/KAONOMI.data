@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-roumanie-et-instabilite-politique",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Roumanie et instabilité politique",
+  "includedEntities": [
+    {
+      "entityName": "Roumanie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "gouvernement",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation politique roumaine et le soutien européen.",
+  "isFuzzy": true,
+  "locations": [
+    "Bucarest"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Nicușor Dan",
+    "déficit",
+    "ingérence"
+  ],
+  "questions": [
+    "Quelle crise ?",
+    "Quel déficit ?",
+    "Quelle aide européenne ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ROUMANIE",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!INSTABILITE"
+  ],
+  "isDeleted": false
+}

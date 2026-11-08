@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (le marché intérieur) : Conseil Compétitivité, formation du Conseil de l'Union européenne compétente pour le marché intérieur, la politique industrielle, la recherche, la politique spatiale.",
+  "id": "eu-cons-compet",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Conseil Compétitivité (COMPET)",
+  "entityType": "ORGANISATION",
+  "description": "Conseil Compétitivité, formation du Conseil de l'Union européenne compétente pour le marché intérieur, la politique industrielle, la recherche, la politique spatiale.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-formations-conseil",
+  "sentencesExemples": [
+    "« Conseil Compétitivité (COMPET) » joue un rôle dans le marché intérieur.",
+    "Les fonctionnaires de « Conseil Compétitivité (COMPET) » préparent les textes relatifs au marché intérieur.",
+    "La délégation a rencontré des représentants de « Conseil Compétitivité (COMPET) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "COMPET"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#MARCHEINTERIEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Conseil%20Comp%C3%A9titivit%C3%A9%20%28COMPET%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conseil de l'Union européenne",
+    "Marché intérieur",
+    "Industrie",
+    "Recherche",
+    "Espace"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

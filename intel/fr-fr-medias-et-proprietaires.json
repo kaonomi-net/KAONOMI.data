@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-medias-et-proprietaires",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Médias et propriétaires",
+  "includedEntities": [
+    {
+      "entityName": "médias",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Bolloré",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "concentration",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle des grands groupes de médias dans la campagne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "CNews",
+    "Europe 1",
+    "JDD"
+  ],
+  "questions": [
+    "Quelle ligne éditoriale ?",
+    "Quelles sanctions de l'Arcom ?",
+    "Quel débat ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MEDIAS",
+    "#CAMPAGNE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

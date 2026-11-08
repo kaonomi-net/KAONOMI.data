@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-budget-de-la-psychiatrie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Budget de la psychiatrie",
+  "includedEntities": [
+    {
+      "entityName": "budget",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "psychiatrie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "financement",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le financement de la psychiatrie dans le budget de la Sécurité sociale.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [
+    "PLFSS"
+  ],
+  "relatedEntities": [
+    "Sécurité sociale",
+    "établissements",
+    "réforme du financement"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quelle hausse ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PSYCHIATRIE",
+    "#BUDGET"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

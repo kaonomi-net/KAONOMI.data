@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-glaire",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un mucus épais.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:glaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:glaireu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mucosit[ée](s)?\\s+[ée]paisse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s[ée]cr[ée]tion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:expectoration(s)?)(?![\\w-])"
+  ],
+  "symbol": "glaire",
+  "event": null,
+  "title": "Glaire",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

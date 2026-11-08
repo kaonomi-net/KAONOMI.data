@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (les séquences) : Réseau récurrent à mémoire à long terme dont les portes contrôlent l'information conservée, conçu par Hochreiter et Schmidhuber contre l'évanescence du gradient.",
+  "id": "ia-lstm",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "LSTM",
+  "entityType": "ALGORITHM",
+  "description": "Réseau récurrent à mémoire à long terme dont les portes contrôlent l'information conservée, conçu par Hochreiter et Schmidhuber contre l'évanescence du gradient.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Dans le domaine des séquences, LSTM reste une référence.",
+    "Pour ce projet, l'équipe a implémenté LSTM en quelques lignes de Python.",
+    "Comprendre LSTM est une étape clé pour maîtriser les séquences."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "Long Short-Term Memory",
+    "mémoire à long court terme"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#SEQUENCES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=LSTM"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Jürgen Schmidhuber",
+    "Sepp Hochreiter",
+    "Réseau de neurones récurrent"
+  ],
+  "isDeleted": false,
+  "startDate": "1997-01-01T00:00:00",
+  "endDate": null
+}

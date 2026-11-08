@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-treve-de-paques-et-treves-temporaires",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Trêve de Pâques et trêves temporaires",
+  "includedEntities": [
+    {
+      "entityName": "trêve",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Pâques",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "temporaire",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les trêves temporaires et leur respect par les deux parties.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "fêtes religieuses"
+  ],
+  "relatedEntities": [
+    "Kremlin",
+    "Zelensky",
+    "violations"
+  ],
+  "questions": [
+    "Quelle durée ?",
+    "Combien de violations ?",
+    "Une prolongation est-elle proposée ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#TREVE"
+  ],
+  "events": [
+    "@TREVE"
+  ],
+  "signals": [
+    "!DESESCALADE"
+  ],
+  "isDeleted": false
+}

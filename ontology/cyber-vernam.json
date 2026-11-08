@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (le chiffrement) : Ingénieur américain d'AT&T, inventeur en 1917 d'un chiffrement par addition d'une clé au texte, base du masque jetable.",
+  "id": "cyber-vernam",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Gilbert Vernam",
+  "entityType": "PERSON",
+  "description": "Ingénieur américain d'AT&T, inventeur en 1917 d'un chiffrement par addition d'une clé au texte, base du masque jetable.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les travaux de Gilbert Vernam pour comprendre le chiffrement.",
+    "Sans Gilbert Vernam, l'histoire du chiffrement aurait été différente.",
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Gilbert Vernam."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Gilbert S. Vernam"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CHIFFREMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Gilbert%20Vernam"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Masque jetable"
+  ],
+  "isDeleted": false,
+  "startDate": "1890-04-03T00:00:00",
+  "endDate": "1960-02-07T00:00:00"
+}

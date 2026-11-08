@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-bug-bounty",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Bug bounty",
+  "includedEntities": [
+    {
+      "entityName": "bug bounty",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "primes",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les programmes de primes aux bogues.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "YesWeHack",
+    "HackerOne",
+    "chercheurs"
+  ],
+  "questions": [
+    "Quel programme ?",
+    "Quelle prime record ?",
+    "Quelle faille trouvée ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#PENTEST",
+    "#BUG-BOUNTY"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

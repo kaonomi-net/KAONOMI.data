@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (la cryptographie à clé publique) : Article de Diffie et Hellman qui introduit la cryptographie à clé publique et l'échange de clés sur un canal public.",
+  "id": "cyber-new-directions",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Publication de « New Directions in Cryptography »",
+  "entityType": "EVENT",
+  "description": "Article de Diffie et Hellman qui introduit la cryptographie à clé publique et l'échange de clés sur un canal public.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "Dans sa conférence, l'historienne est revenue sur « Publication de « New Directions in Cryptography » ».",
+    "On date souvent un tournant de la cryptographie à clé publique à « Publication de « New Directions in Cryptography » ».",
+    "« Publication de « New Directions in Cryptography » » est un jalon de l'histoire de la cybersécurité."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "article de Diffie et Hellman"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#CRYPTOGRAPHIEACLEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Publication%20de%20%C2%AB%20New%20Directions%20in%20Cryptography%20%C2%BB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Whitfield Diffie",
+    "Martin Hellman",
+    "Échange de clés Diffie-Hellman"
+  ],
+  "isDeleted": false,
+  "startDate": "1976-11-01T00:00:00",
+  "endDate": "1976-11-01T00:00:00"
+}

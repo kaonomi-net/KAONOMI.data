@@ -1,0 +1,13 @@
+{
+  "index": 501,
+  "file": "0501-recherche-operationnelle-qu-est-ce-que-le-probleme.prompt.json",
+  "prompt": "Qu'est-ce que le problème du sac à dos ?",
+  "promptWords": 9,
+  "completion": "Le problème du sac à dos (ou *knapsack problem* en anglais) est un problème classique en informatique théorique et en recherche opérationnelle. Il s'agit d'un problème d'optimisation combinatoire qui peut être formulé de la manière suivante :\n\n**Problème du sac à dos (version 0-1) :**\nOn dispose d'un ensemble d'objets, chacun ayant un poids et une valeur. Le but est de sélectionner un sous-ensemble de ces objets à placer dans un sac à dos de capacité limitée, de manière à maximiser la valeur totale des objets sélectionnés, sans dépasser la capacité du sac.\n\n**Formulation mathématique :**\n- Soit \\( n \\) le nombre d'objets.\n- Chaque objet \\( i \\) a un poids \\( w_i \\) et une valeur \\( v_i \\).\n- La capacité du sac est \\( W \\).\n- On cherche à maximiser \\( \\sum_{i=1}^{n} v_i \\cdot x_i \\) sous la contrainte \\( \\sum_{i=1}^{n} w_i \\cdot x_i \\leq W \\), où \\( x_i \\) est une variable binaire (0 ou 1) indiquant si l'objet \\( i \\) est sélectionné (\\( x_i = 1 \\)) ou non (\\( x_i = 0 \\)).\n\n**Variantes :**\n1. **Problème du sac à dos fractionnaire** : Les objets peuvent être sélectionnés de manière fractionnaire (par exemple, prendre 50% d'un objet).\n2. **Problème du sac à dos multiple** : Plusieurs sacs à dos sont disponibles, chacun avec sa propre capacité.\n\n**Applications :**\n- Gestion de projets (sélection de tâches sous contrainte de temps ou de budget).\n- Logistique (optimisation des chargements de camions).\n- Cryptographie (certains algorithmes utilisent des variantes du problème du sac à dos).\n\n**Complexité :**\nLe problème du sac à dos est un problème NP-difficile, ce qui signifie qu'il n'existe pas d'algorithme connu pour le résoudre de manière optimale en temps polynomial pour des instances de grande taille. Cependant, des algorithmes dynamiques peuvent résoudre le problème en temps pseudo-polynomial pour la version 0-1.\n\nSi tu as besoin de plus de détails ou d'exemples spécifiques, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:57:00.8013077+02:00",
+  "durationSeconds": 10.08,
+  "stats": "mistral-small3.2:latest · 518 + 500 tokens · 10,1 s",
+  "isError": false,
+  "language": "FR"
+}

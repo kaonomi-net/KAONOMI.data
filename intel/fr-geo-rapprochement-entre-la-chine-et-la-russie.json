@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-rapprochement-entre-la-chine-et-la-russie",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Rapprochement entre la Chine et la Russie",
+  "includedEntities": [
+    {
+      "entityName": "Chine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "partenariat",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre le partenariat stratégique entre la Chine et la Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Pékin",
+    "Moscou"
+  ],
+  "times": [
+    "visites officielles"
+  ],
+  "relatedEntities": [
+    "énergie",
+    "armement",
+    "dédollarisation"
+  ],
+  "questions": [
+    "Quels accords signés ?",
+    "Quel soutien militaire ?",
+    "Quels échanges commerciaux ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#CHINE",
+    "#RUSSIE",
+    "#ALLIANCE"
+  ],
+  "events": [
+    "@VISITE-OFFICIELLE"
+  ],
+  "signals": [
+    "!ALLIANCE"
+  ],
+  "isDeleted": false
+}

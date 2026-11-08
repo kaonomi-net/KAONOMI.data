@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-inceste",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les relations sexuelles entre proches parents.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:inceste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:incestueu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:violence(s)?\\s+intrafamiliale(s)?)(?![\\w-])"
+  ],
+  "symbol": "inceste",
+  "event": null,
+  "title": "Inceste",
+  "tags": [
+    "#DISGUST",
+    "#MORAL",
+    "#CRIME"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

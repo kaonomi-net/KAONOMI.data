@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-bouclier-antimissile-golden-dome",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Bouclier antimissile Golden Dome",
+  "includedEntities": [
+    {
+      "entityName": "Golden Dome",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "défense antimissile",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet américain Golden Dome et la réaction russe et chinoise.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pentagone",
+    "Russie",
+    "Chine"
+  ],
+  "questions": [
+    "Quel budget ?",
+    "Quelle critique russe ?",
+    "Quel impact sur la dissuasion ?"
+  ],
+  "tags": [
+    "#ETATS-UNIS",
+    "#DEFENSE",
+    "#NUCLEAIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!COURSE-ARMEMENTS"
+  ],
+  "isDeleted": false
+}

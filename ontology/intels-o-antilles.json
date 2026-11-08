@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-antilles",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "Antilles",
+  "entityType": "LOCATION",
+  "description": "Cité par 1 intel : Santé mentale en outre-mer.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre la santé mentale et l'offre de soins dans les territoires ultramarins."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Antilles",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#OUTRE-MER",
+    "#SANTE-MENTALE"
+  ],
+  "events": [],
+  "signals": [
+    "!ACCES-AUX-SOINS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "manque de soins",
+    "Guyane",
+    "jeunes",
+    "suicide",
+    "outre-mer",
+    "santé mentale",
+    "Mayotte"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

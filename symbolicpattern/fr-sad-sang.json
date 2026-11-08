@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-sang",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le liquide rouge des veines ; la violence qui le fait couler.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sang(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sanglant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ensanglant([ée]|[ée]e|[ée]s|[ée]es))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:h[ée]morragie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:saign(er|e|[ée]|[ée]e|ant))(?![\\w-])"
+  ],
+  "symbol": "sang",
+  "event": null,
+  "title": "Sang",
+  "tags": [
+    "#VIOLENCE",
+    "#MORT"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

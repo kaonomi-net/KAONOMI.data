@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-union-europeenne-aux-nations-unies",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Union européenne aux Nations unies",
+  "includedEntities": [
+    {
+      "entityName": "Nations unies",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action de l'Union aux Nations unies.",
+  "isFuzzy": true,
+  "locations": [
+    "New York",
+    "Genève"
+  ],
+  "times": [
+    "Assemblée générale"
+  ],
+  "relatedEntities": [
+    "multilatéralisme",
+    "résolutions",
+    "financement"
+  ],
+  "questions": [
+    "Quelle initiative ?",
+    "Quel vote ?",
+    "Quel soutien ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ONU",
+    "#MULTILATERALISME"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

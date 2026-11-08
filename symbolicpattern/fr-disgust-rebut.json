@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-rebut",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne traitée comme un déchet (injure).",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:rebut(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rebut\\s+de\\s+l['’]humanit[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ordure(s)?\\s+humaine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vermine\\s+humaine)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:moins\\s+que\\s+rien)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sous-homme(s)?)(?![\\w-])"
+  ],
+  "symbol": "rebut",
+  "event": null,
+  "title": "Rebut",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

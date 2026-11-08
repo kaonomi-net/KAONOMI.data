@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-david-lisnard",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "David Lisnard",
+  "includedEntities": [
+    {
+      "entityName": "David Lisnard",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Nouvelle Énergie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la candidature de David Lisnard, maire de Cannes.",
+  "isFuzzy": true,
+  "locations": [
+    "Cannes"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Nouvelle Énergie",
+    "Les Républicains",
+    "maires"
+  ],
+  "questions": [
+    "Quelle annonce ?",
+    "Quel programme ?",
+    "Quel score ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#DROITE"
+  ],
+  "events": [
+    "@CANDIDATURE"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

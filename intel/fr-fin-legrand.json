@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-legrand",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Legrand",
+  "includedEntities": [
+    {
+      "entityName": "Legrand",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "centres de données",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Legrand et sa part dans les centres de données.",
+  "isFuzzy": false,
+  "locations": [
+    "Limoges"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "acquisitions",
+    "IA",
+    "bâtiment"
+  ],
+  "questions": [
+    "Quelle croissance ?",
+    "Quelle acquisition ?",
+    "Quel effet du repli de l'IA ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

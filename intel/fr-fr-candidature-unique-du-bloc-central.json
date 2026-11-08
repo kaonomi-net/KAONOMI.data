@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-candidature-unique-du-bloc-central",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Candidature unique du bloc central",
+  "includedEntities": [
+    {
+      "entityName": "bloc central",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "candidature unique",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les efforts pour un candidat unique du centre et de la majorité sortante.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Philippe",
+    "Attal",
+    "Bayrou"
+  ],
+  "questions": [
+    "Un accord est-il trouvé ?",
+    "Qui se retire ?",
+    "Quelles conditions ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#CENTRE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

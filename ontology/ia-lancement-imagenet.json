@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (la vision par ordinateur) : Création du ImageNet Large Scale Visual Recognition Challenge, concours annuel de classification d'images sur la base ImageNet.",
+  "id": "ia-lancement-imagenet",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Lancement du concours ImageNet",
+  "entityType": "EVENT",
+  "description": "Création du ImageNet Large Scale Visual Recognition Challenge, concours annuel de classification d'images sur la base ImageNet.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "Les journaux de l'époque ont largement commenté l'événement « Lancement du concours ImageNet ».",
+    "L'événement « Lancement du concours ImageNet » a marqué durablement l'histoire de la vision par ordinateur.",
+    "La frise chronologique de la salle de cours place « Lancement du concours ImageNet » en bonne place."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "ILSVRC"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#VISIONPARORDINATEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Lancement%20du%20concours%20ImageNet"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Victoire d'AlexNet à ImageNet",
+    "Fei-Fei Li"
+  ],
+  "isDeleted": false,
+  "startDate": "2010-01-01T00:00:00",
+  "endDate": "2017-01-01T00:00:00"
+}

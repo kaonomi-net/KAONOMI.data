@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Perussuomalaiset, parti ou liste de ce pays : Finlande, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-fi-perussuomalaiset",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Perussuomalaiset",
+  "entityType": "ORGANISATION",
+  "description": "Perussuomalaiset, parti ou liste de ce pays : Finlande, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les positions de « Perussuomalaiset » sont suivies à Bruxelles et à Strasbourg.",
+    "« Perussuomalaiset » compte des élus au Parlement européen.",
+    "La presse a commenté le score de « Perussuomalaiset » aux élections européennes."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Perussuomalaiset"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Sebastian Tynkkynen",
+    "Finlande",
+    "Conservateurs et réformistes européens (ECR)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

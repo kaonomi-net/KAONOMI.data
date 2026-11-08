@@ -1,0 +1,13 @@
+{
+  "index": 177,
+  "file": "0177-microsoft-office-comment-enregistrer-une-reunion-dans-teams.prompt.json",
+  "prompt": "Comment enregistrer une réunion dans Teams ?",
+  "promptWords": 7,
+  "completion": "Pour enregistrer une réunion dans Microsoft Teams, voici les étapes à suivre :\n\n1. **Lancer l'enregistrement** :\n   - Pendant la réunion, cliquez sur les trois points (⋯) dans la barre d'outils en haut de l'écran.\n   - Sélectionnez **\"Enregistrer\"** dans le menu déroulant.\n\n2. **Informer les participants** :\n   - Une notification apparaîtra à l'écran pour informer tous les participants que la réunion est en cours d'enregistrement.\n   - Le bouton d'enregistrement devient rouge pour indiquer que l'enregistrement est actif.\n\n3. **Arrêter l'enregistrement** :\n   - Pour arrêter l'enregistrement, cliquez à nouveau sur les trois points (⋯) et sélectionnez **\"Arrêter l'enregistrement\"**.\n\n4. **Accéder à l'enregistrement** :\n   - Une fois la réunion terminée, l'enregistrement sera automatiquement sauvegardé dans le cloud.\n   - Vous pouvez le trouver dans l'onglet **\"Fichiers\"** de la réunion dans Teams, ou dans le dossier **\"Enregistrements\"** de l'équipe concernée.\n\n5. **Partager l'enregistrement** :\n   - Vous pouvez partager le lien de l'enregistrement avec les participants ou d'autres membres de votre organisation.\n\nSi vous avez besoin d'informations plus détaillées ou d'une assistance spécifique, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:59:51.507+02:00",
+  "durationSeconds": 5.92,
+  "stats": "mistral-small3.2:latest · 515 + 288 tokens · 5,9 s",
+  "isError": false,
+  "language": "FR"
+}

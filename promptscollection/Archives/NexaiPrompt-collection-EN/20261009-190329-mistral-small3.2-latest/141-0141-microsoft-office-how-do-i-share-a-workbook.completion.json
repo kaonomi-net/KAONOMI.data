@@ -1,0 +1,13 @@
+{
+  "index": 141,
+  "file": "0141-microsoft-office-how-do-i-share-a-workbook.prompt.json",
+  "prompt": "How do I share a workbook for co-authoring in Excel?",
+  "promptWords": 10,
+  "completion": "To share a workbook for co-authoring in Excel, follow these steps:\n\n### **For Excel Online (Web Version):**\n1. **Open your Excel file** in a web browser (Excel Online).\n2. **Click on \"Share\"** in the top-right corner.\n3. **Select \"People you choose\"** or **\"Anyone with the link\"** (depending on your preference).\n4. **Set permissions** (e.g., \"Can edit\" for co-authoring).\n5. **Click \"Apply\"** and then **\"Share\"**.\n6. **Copy the link** and send it to collaborators.\n\n### **For Excel Desktop (Windows or Mac):**\n1. **Open your Excel file**.\n2. **Go to \"File\"** > **\"Share\"** > **\"Invite People\"**.\n3. **Enter email addresses** of collaborators.\n4. **Set permissions** (e.g., \"Can edit\").\n5. **Click \"Share\"** to send invitations.\n\n### **For OneDrive or SharePoint:**\n1. **Save your Excel file** to OneDrive or SharePoint.\n2. **Right-click the file** and select **\"Share\"**.\n3. **Enter email addresses** or **\"Get a link\"** for sharing.\n4. **Set permissions** (e.g., \"Edit\" for co-authoring).\n5. **Click \"Send\"** or **\"Copy link\"**.\n\n### **Notes:**\n- Co-authoring works best when the file is stored in **OneDrive, SharePoint, or Excel Online**.\n- Ensure all collaborators have **edit permissions**.\n- Multiple users can edit the same workbook simultaneously.\n\nWould you like help with a specific version of Excel?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:29:35.0401185+02:00",
+  "durationSeconds": 8.94,
+  "stats": "mistral-small3.2:latest · 520 + 340 tokens · 8,9 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 518,
+  "file": "0518-cybernetique-quelle-est-la-difference-entre-retroaction.prompt.json",
+  "prompt": "Quelle est la différence entre rétroaction positive et négative ?",
+  "promptWords": 10,
+  "completion": "La rétroaction positive et la rétroaction négative sont deux concepts fondamentaux en biologie, en ingénierie et en sciences sociales, notamment en psychologie et en management. Voici leurs différences principales :\n\n### **Rétroaction positive (boucle de rétroaction positive)**\n1. **Définition** : Un mécanisme où l'effet d'un processus amplifie ce processus, conduisant à une augmentation ou une accélération continue.\n2. **Exemples** :\n   - En biologie : La croissance exponentielle des bactéries (plus il y a de bactéries, plus la reproduction est rapide).\n   - En économie : L'effet de richesse (plus les gens ont d'argent, plus ils consomment, ce qui stimule l'économie).\n   - En psychologie : L'encouragement constant peut renforcer un comportement souhaité.\n3. **Conséquences** : Peut mener à une croissance rapide, mais aussi à des instabilités ou des crises si non régulée.\n\n### **Rétroaction négative (boucle de rétroaction négative)**\n1. **Définition** : Un mécanisme où l'effet d'un processus réduit ou stabilise ce processus, maintenant un équilibre.\n2. **Exemples** :\n   - En biologie : La régulation de la température corporelle (si la température monte, le corps transpire pour se refroidir).\n   - En ingénierie : Un thermostat qui coupe le chauffage lorsqu'une température cible est atteinte.\n   - En psychologie : Un feedback constructif qui aide à corriger une erreur sans décourager.\n3. **Conséquences** : Favorise la stabilité et l'équilibre, mais peut limiter la croissance.\n\n### **Différence clé**\n- La **rétroaction positive** amplifie un effet.\n- La **rétroaction négative** stabilise ou réduit un effet.\n\nCes mécanismes sont essentiels pour comprendre des systèmes complexes, qu'ils soient biologiques, économiques ou sociaux.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:00:19.1829797+02:00",
+  "durationSeconds": 8.44,
+  "stats": "mistral-small3.2:latest · 521 + 418 tokens · 8,4 s",
+  "isError": false,
+  "language": "FR"
+}

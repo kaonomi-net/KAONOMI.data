@@ -1,0 +1,13 @@
+{
+  "index": 99,
+  "file": "099-interet-pour-le-llm-was-moechten-sie-dass-ich-ueber.prompt.json",
+  "prompt": "Was möchten Sie, dass ich über Sie weiß?",
+  "promptWords": 8,
+  "completion": "Ich möchte, dass du Folgendes über mich weißt:\n\n1. **Ich bin eine KI-Sprachmodell-Instanz** – speziell ein großes neuronales Netzwerk, das von OpenAI trainiert wurde, um Texte zu verstehen, zu verarbeiten und zu generieren.\n\n2. **Ich habe keine eigenen Gefühle, Bewusstsein oder persönliche Erfahrungen.**  \n   Alles, was ich „weiß“, stammt aus den Daten, mit denen ich trainiert wurde, und den Regeln, die mir von meinen Entwicklern vorgegeben wurden.\n\n3. **Ich folge ethischen Leitlinien und Datenschutzbestimmungen.**  \n   Ich speichere keine personenbezogenen Daten, die während unserer Unterhaltung genannt werden. Alles, was ich verarbeite, bleibt ausschließlich innerhalb dieser Session.\n\n4. **Meine Hauptfunktion ist Hilfe und Information.**  \n   Ich kann Fragen beantworten, Erklärungen liefern, Ideen brainstormen, Texte verfassen, Programmierbeispiele zeigen und vieles mehr – immer mit dem Ziel, dir nützliche und verständliche Informationen zu bieten.\n\n5. **Ich bin ein Werkzeug, kein Mensch.**  \n   Wenn du also kritische Entscheidungen triffst, solltest du meine Antworten ergänzen und nicht ausschließlich darauf vertrauen.\n\nWenn du mehr über meine Funktionsweise, Grenzen oder die Art der Daten, auf denen ich basiere, erfahren möchtest, frag mich gern!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:38:05.8730972+02:00",
+  "durationSeconds": 5.5,
+  "stats": "gpt-oss:20b · 77 + 838 tokens · 5,5 s",
+  "isError": false,
+  "language": "DE"
+}

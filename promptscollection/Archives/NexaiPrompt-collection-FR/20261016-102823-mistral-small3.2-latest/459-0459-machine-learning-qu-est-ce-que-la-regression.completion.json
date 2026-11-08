@@ -1,0 +1,13 @@
+{
+  "index": 459,
+  "file": "0459-machine-learning-qu-est-ce-que-la-regression.prompt.json",
+  "prompt": "Qu'est-ce que la régression logistique ?",
+  "promptWords": 6,
+  "completion": "La régression logistique est une technique statistique utilisée pour prédire la probabilité qu'une observation appartienne à une catégorie particulière. Contrairement à la régression linéaire, qui prédit des valeurs continues, la régression logistique est utilisée pour des problèmes de classification binaire (deux catégories) ou multiclasse (plus de deux catégories).\n\n### Principaux aspects de la régression logistique :\n\n1. **Modèle de probabilité** :\n   - Elle modélise la probabilité qu'une observation appartienne à une catégorie donnée en utilisant la fonction logistique (ou sigmoïde), qui transforme une combinaison linéaire des variables d'entrée en une probabilité comprise entre 0 et 1.\n\n2. **Fonction de coût** :\n   - La fonction de coût utilisée pour ajuster le modèle est souvent la log-vraisemblance (ou entropie croisée), qui mesure la différence entre les probabilités prédites et les valeurs réelles.\n\n3. **Interprétation des coefficients** :\n   - Les coefficients du modèle indiquent comment les variables d'entrée influencent la probabilité de la classe cible. Un coefficient positif augmente la probabilité, tandis qu'un coefficient négatif la diminue.\n\n4. **Applications courantes** :\n   - Classification binaire (par exemple, spam vs non-spam, maladie vs non-maladie).\n   - Classification multiclasse (par exemple, prédiction de la catégorie d'un produit).\n\n5. **Avantages** :\n   - Simple à comprendre et à implémenter.\n   - Efficace pour des problèmes de classification avec des données linéairement séparables.\n   - Fournit des probabilités directement interprétables.\n\n6. **Limitations** :\n   - Suppose une relation linéaire entre les variables d'entrée et le logarithme des probabilités.\n   - Peut être moins performante pour des données non linéairement séparables.\n\nSi vous avez besoin de plus de détails ou d'exemples spécifiques, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:49:29.865695+02:00",
+  "durationSeconds": 8.19,
+  "stats": "mistral-small3.2:latest · 517 + 408 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

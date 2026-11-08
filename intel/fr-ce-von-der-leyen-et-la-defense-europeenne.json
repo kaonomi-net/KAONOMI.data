@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-von-der-leyen-et-la-defense-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Von der Leyen et la défense européenne",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "défense",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "réarmement",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les initiatives de la présidente en matière de défense.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "SAFE",
+    "Readiness 2030",
+    "Kubilius"
+  ],
+  "questions": [
+    "Quelle annonce ?",
+    "Quel financement ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#DEFENSE",
+    "#VON-DER-LEYEN"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "isDeleted": false
+}

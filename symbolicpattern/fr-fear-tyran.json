@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-tyran",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un dirigeant cruel et absolu.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:tyran(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:despote(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:autocrate(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:oppresseur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bourreau(x)?)(?![\\w-])"
+  ],
+  "symbol": "tyran",
+  "event": null,
+  "title": "Tyran",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

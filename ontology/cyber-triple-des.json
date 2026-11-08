@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (le chiffrement par blocs) : Application triple du DES avec deux ou trois clés pour allonger la clé effective, utilisé dans la monétique.",
+  "id": "cyber-triple-des",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Triple DES",
+  "entityType": "ALGORITHM",
+  "description": "Application triple du DES avec deux ou trois clés pour allonger la clé effective, utilisé dans la monétique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Triple DES est enseigné dans tous les cours consacrés au chiffrement par blocs.",
+    "L'audit vérifie que Triple DES est utilisé correctement.",
+    "La chercheuse a présenté une analyse de Triple DES lors du séminaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "3DES",
+    "TDEA"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CHIFFREMENTPARBLOCS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Triple%20DES"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "DES"
+  ],
+  "isDeleted": false,
+  "startDate": "1998-01-01T00:00:00",
+  "endDate": null
+}

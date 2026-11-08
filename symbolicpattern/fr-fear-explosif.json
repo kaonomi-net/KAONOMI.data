@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-explosif",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une substance ou un engin qui explose.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:explosif(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:engin(s)?\\s+explosif(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bombe(s)?\\s+artisanale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tatp)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]tonateur(s)?)(?![\\w-])"
+  ],
+  "symbol": "explosif",
+  "event": null,
+  "title": "Explosif",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-acier",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "acier",
+  "entityType": "MATERIAL",
+  "description": "Cité par 8 intels : Acier et aluminium ; ArcelorMittal ; Bekaert ; Stéphane Séjourné et la stratégie industrielle ; Droits de douane américains sur l'Union ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre les prix de l'acier et de l'aluminium.",
+    "Suivre l'action ArcelorMittal et la crise de l'acier européen.",
+    "Suivre l'action Bekaert."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "acier",
+  "tags": [
+    "#ACIER",
+    "#UNION-EUROPEENNE",
+    "#INDUSTRIE",
+    "#COMMERCE",
+    "#BOURSE",
+    "#MATIERES-PREMIERES"
+  ],
+  "events": [
+    "@HAUSSE-TARIFS"
+  ],
+  "signals": [
+    "!STRATEGIE",
+    "!PRIX",
+    "!RESTRUCTURATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "automobile",
+    "ArcelorMittal",
+    "droits de douane",
+    "emplois",
+    "industrie",
+    "surcapacités",
+    "aluminium",
+    "Aperam",
+    "Luxembourg"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

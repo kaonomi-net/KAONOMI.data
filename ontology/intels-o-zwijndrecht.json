@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-zwijndrecht",
+  "dateCreated": "2026-11-08 17:55:50",
+  "name": "Zwijndrecht",
+  "entityType": "CITY",
+  "description": "Cité par 1 intel : DEME et éolien en mer.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre l'action DEME et les chantiers d'éolien en mer."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Zwijndrecht",
+  "tags": [
+    "#BOURSE",
+    "#BELGIQUE",
+    "#ENERGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!COMMANDE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "éolien en mer",
+    "commandes",
+    "Ackermans",
+    "DEME",
+    "navires"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

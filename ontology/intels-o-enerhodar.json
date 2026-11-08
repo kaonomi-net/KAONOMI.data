@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-enerhodar",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "Enerhodar",
+  "entityType": "CITY",
+  "description": "Cité par 5 intels : Nikopol et la rive opposée de la centrale ; Situation à Enerhodar ; Centrale nucléaire de Zaporijia et l'AIEA ; Coupures d'alimentation de la centrale de Zaporijia ; Centrale nucléaire de Zaporijia.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les bombardements sur Nikopol, face à la centrale de Zaporijia.",
+    "Suivre la situation de la ville des employés de la centrale de Zaporijia.",
+    "Suivre la sûreté de la centrale de Zaporijia et les rapports de l'AIEA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 40,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Enerhodar",
+  "tags": [
+    "#UKRAINE",
+    "#NUCLEAIRE",
+    "#NIKOPOL",
+    "#CIVILS",
+    "#OCCUPATION",
+    "#AIEA"
+  ],
+  "events": [
+    "@ALERTE-NUCLEAIRE",
+    "@FRAPPE",
+    "@RAPPORT-AIEA"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!FEAR",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AIEA",
+    "Rosatom",
+    "bombardements",
+    "Zaporijia",
+    "Marhanets",
+    "Nikopol",
+    "drones",
+    "civils",
+    "ville",
+    "personnel"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (l'analyse de logiciels malveillants) : Chercheur britannique qui a stoppé la propagation de WannaCry en mai 2017 en enregistrant le nom de domaine qui servait d'interrupteur.",
+  "id": "cyber-hutchins",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Marcus Hutchins",
+  "entityType": "PERSON",
+  "description": "Chercheur britannique qui a stoppé la propagation de WannaCry en mai 2017 en enregistrant le nom de domaine qui servait d'interrupteur.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Marcus Hutchins.",
+    "Les étudiants lisent les travaux de Marcus Hutchins pour comprendre l'analyse de logiciels malveillants.",
+    "Sans Marcus Hutchins, l'histoire de l'analyse de logiciels malveillants aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "MalwareTech"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#ANALYSELOGICIELSMALVEILLANTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Marcus%20Hutchins"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "WannaCry"
+  ],
+  "isDeleted": false,
+  "startDate": "1994-01-01T00:00:00",
+  "endDate": null
+}

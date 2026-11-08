@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-diplomatie-de-serguei-lavrov",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Diplomatie de Sergueï Lavrov",
+  "includedEntities": [
+    {
+      "entityName": "Lavrov",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "diplomatie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les déclarations et déplacements du ministre russe des Affaires étrangères.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Kremlin",
+    "ONU",
+    "Chine"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quelle rencontre ?",
+    "Quel message aux Occidentaux ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

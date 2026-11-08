@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (la vision et les modèles de langage) : Chercheur slovaco-canadien, ancien directeur de l'IA de Tesla (Autopilot), membre fondateur d'OpenAI et pédagogue reconnu (CS231n).",
+  "id": "ia-karpathy",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Andrej Karpathy",
+  "entityType": "PERSON",
+  "description": "Chercheur slovaco-canadien, ancien directeur de l'IA de Tesla (Autopilot), membre fondateur d'OpenAI et pédagogue reconnu (CS231n).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Andrej Karpathy.",
+    "Les étudiants lisent les articles de Andrej Karpathy pour comprendre la vision et les modèles de langage.",
+    "Sans les idées de Andrej Karpathy, l'histoire de la vision et les modèles de langage aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "A. Karpathy"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#VISIONETMODELESLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Andrej%20Karpathy"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Fondation d'OpenAI",
+    "Réseau de neurones convolutif"
+  ],
+  "isDeleted": false,
+  "startDate": "1986-10-23T00:00:00",
+  "endDate": null
+}

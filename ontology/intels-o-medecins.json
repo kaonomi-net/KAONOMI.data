@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-medecins",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "médecins",
+  "entityType": "PROFESSION",
+  "description": "Cité par 4 intels : Macron et la fin de vie ; Déserts médicaux ; Aide médicale d'État ; Suicide des soignants.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre la loi sur la fin de vie et l'aide à mourir.",
+    "Suivre les mesures contre les déserts médicaux.",
+    "Suivre le débat sur l'aide médicale d'État."
+  ],
+  "angryLevel": null,
+  "sadLevel": 25,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "médecins",
+  "tags": [
+    "#FRANCE",
+    "#SANTE",
+    "#FIN-DE-VIE",
+    "#SOCIETE",
+    "#TERRITOIRES",
+    "#IMMIGRATION"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!DEBAT",
+    "!SOCIAL",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Sénat",
+    "aide à mourir",
+    "Assemblée nationale",
+    "soins palliatifs",
+    "référendum",
+    "fin de vie",
+    "déserts médicaux",
+    "régulation",
+    "loi",
+    "zones rurales"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

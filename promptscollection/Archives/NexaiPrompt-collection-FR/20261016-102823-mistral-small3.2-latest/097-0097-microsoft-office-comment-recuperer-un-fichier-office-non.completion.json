@@ -1,0 +1,13 @@
+{
+  "index": 97,
+  "file": "0097-microsoft-office-comment-recuperer-un-fichier-office-non.prompt.json",
+  "prompt": "Comment récupérer un fichier Office non enregistré ?",
+  "promptWords": 8,
+  "completion": "Pour récupérer un fichier Office (Word, Excel, PowerPoint, etc.) non enregistré, voici quelques méthodes que vous pouvez essayer :\n\n### 1. **Récupérer à partir des fichiers temporaires**\n   - **Word/Excel/PowerPoint** : Les applications Office créent souvent des fichiers temporaires automatiquement. Vous pouvez les trouver dans le dossier suivant :\n     - **Windows** : `C:\\Users\\[VotreNomUtilisateur]\\AppData\\Local\\Microsoft\\Office\\UnsavedFiles`\n     - **Mac** : `/Users/[VotreNomUtilisateur]/Library/Containers/com.microsoft.[Application]/Data/Library/Preferences/AutoRecovery`\n\n### 2. **Utiliser la fonction de récupération automatique**\n   - **Word/Excel/PowerPoint** : Ouvrez l'application Office concernée, puis allez dans `Fichier > Ouvrir > Récupérer les fichiers non enregistrés`. Les fichiers temporaires devraient apparaître ici.\n\n### 3. **Vérifier la corbeille ou la poubelle**\n   - Si vous avez supprimé le fichier par accident, vérifiez la corbeille (Windows) ou la poubelle (Mac).\n\n### 4. **Utiliser un logiciel de récupération de fichiers**\n   - Si les méthodes ci-dessus ne fonctionnent pas, vous pouvez utiliser un logiciel de récupération de fichiers comme **Recuva**, **EaseUS Data Recovery Wizard**, ou **Disk Drill**.\n\n### 5. **Vérifier les sauvegardes automatiques**\n   - Si vous utilisez un service de cloud comme **OneDrive** ou **Google Drive**, vérifiez si une version antérieure du fichier est disponible.\n\nSi vous avez besoin d'aide supplémentaire ou si vous souhaitez des instructions plus détaillées pour une méthode spécifique, n'hésitez pas à me le dire !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:48:08.6375894+02:00",
+  "durationSeconds": 8.05,
+  "stats": "mistral-small3.2:latest · 515 + 398 tokens · 8,0 s",
+  "isError": false,
+  "language": "FR"
+}

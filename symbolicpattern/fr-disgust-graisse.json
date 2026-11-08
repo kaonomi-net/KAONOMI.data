@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-graisse",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une matière grasse qui colle.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:graisse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:graisseu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:huileu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]goulinant(e|s|es)?\\s+de\\s+graisse)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cambouis)(?![\\w-])"
+  ],
+  "symbol": "graisse",
+  "event": null,
+  "title": "Graisse",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

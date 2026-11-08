@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-guerre-electronique",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Guerre électronique",
+  "includedEntities": [
+    {
+      "entityName": "guerre électronique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "brouillage",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution de la guerre électronique sur le front.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "drones",
+    "GPS",
+    "radios"
+  ],
+  "questions": [
+    "Quelle nouveauté ?",
+    "Quel effet ?",
+    "Quelle contre-mesure ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#GUERRE-ELECTRONIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-ingerence-etrangere-dans-une-election",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Ingérence étrangère dans une élection",
+  "includedEntities": [
+    {
+      "entityName": "ingérence",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "élection",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "influence",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les tentatives d'ingérence étrangère dans les scrutins.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "période électorale"
+  ],
+  "relatedEntities": [
+    "désinformation",
+    "cyberattaque",
+    "Viginum"
+  ],
+  "questions": [
+    "Quel pays visé ?",
+    "Quel acteur soupçonné ?",
+    "Quelles preuves ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#INGERENCE",
+    "#ELECTIONS"
+  ],
+  "events": [
+    "@INGERENCE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

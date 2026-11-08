@@ -1,0 +1,13 @@
+{
+  "index": 168,
+  "file": "0168-microsoft-office-comment-archiver-ses-e-mails-dans.prompt.json",
+  "prompt": "Comment archiver ses e-mails dans Outlook ?",
+  "promptWords": 7,
+  "completion": "Pour archiver vos e-mails dans Outlook, vous pouvez suivre ces étapes :\n\n### **Méthode 1 : Utiliser la fonction d'archivage automatique**\n1. **Ouvrez Outlook** et allez dans l'onglet **Fichier**.\n2. Cliquez sur **Options** (ou **Paramètres** selon la version).\n3. Sélectionnez **Options avancées**.\n4. Dans la section **Archivage**, cliquez sur **Paramètres d'archivage**.\n5. Choisissez le dossier à archiver et définissez la date avant laquelle les éléments seront archivés.\n6. Cliquez sur **OK** pour enregistrer.\n\n### **Méthode 2 : Archiver manuellement un dossier**\n1. **Faites un clic droit** sur le dossier que vous souhaitez archiver (par exemple, **Boîte de réception**).\n2. Sélectionnez **Archiver ce dossier**.\n3. Choisissez la date d'archivage et confirmez.\n\n### **Méthode 3 : Créer un fichier d'archives (.pst)**\n1. Allez dans **Fichier** > **Ouvrir et exporter** > **Importer/Exporter**.\n2. Sélectionnez **Exporter vers un fichier** et cliquez sur **Suivant**.\n3. Choisissez **Fichier de données Outlook (.pst)** et cliquez sur **Suivant**.\n4. Sélectionnez le dossier à exporter et cliquez sur **Suivant**.\n5. Choisissez l'emplacement où enregistrer le fichier .pst et cliquez sur **Terminer**.\n\n### **Remarques :**\n- Les e-mails archivés sont déplacés vers un fichier séparé (.pst) mais restent accessibles via Outlook.\n- Vous pouvez configurer l'archivage automatique pour qu'il se fasse périodiquement.\n\nSi vous utilisez une version spécifique d'Outlook (2016, 2019, 365, etc.), certaines options peuvent légèrement varier.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:58:32.3885819+02:00",
+  "durationSeconds": 9.08,
+  "stats": "mistral-small3.2:latest · 517 + 440 tokens · 9,1 s",
+  "isError": false,
+  "language": "FR"
+}

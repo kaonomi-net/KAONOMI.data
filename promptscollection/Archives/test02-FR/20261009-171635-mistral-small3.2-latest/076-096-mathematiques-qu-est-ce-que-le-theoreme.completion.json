@@ -1,0 +1,13 @@
+{
+  "index": 76,
+  "file": "096-mathematiques-qu-est-ce-que-le-theoreme.prompt.json",
+  "prompt": "Qu'est-ce que le théorème de Thalès ?",
+  "promptWords": 7,
+  "completion": "Le théorème de Thalès est un résultat fondamental en géométrie, attribué au mathématicien grec Thalès de Milet. Il permet de calculer des longueurs dans des configurations géométriques spécifiques impliquant des droites parallèles et des transversales. Voici une formulation classique du théorème :\n\n**Théorème de Thalès** :\nSoit une configuration de deux droites sécantes \\((OA)\\) et \\((OB)\\) coupées par une droite \\((AB)\\) parallèle à une autre droite \\((CD)\\) passant par \\(O\\). Alors, les rapports des longueurs sont égaux :\n\\[\n\\frac{OA}{OC} = \\frac{OB}{OD}\n\\]\n\nEn termes plus concrets, si vous avez deux droites parallèles coupées par deux sécantes, les segments déterminés sur les sécantes sont proportionnels.\n\n**Exemple d'application** :\nSi vous avez un triangle \\(ABC\\) et une droite parallèle à \\(BC\\) coupant \\(AB\\) et \\(AC\\) en \\(D\\) et \\(E\\) respectivement, alors :\n\\[\n\\frac{AD}{AB} = \\frac{AE}{AC}\n\\]\n\nCe théorème est très utile pour résoudre des problèmes de proportionnalité et de calcul de longueurs dans des figures géométriques.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:29:59.2046166+02:00",
+  "durationSeconds": 6.81,
+  "stats": "mistral-small3.2:latest · 519 + 265 tokens · 6,8 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 975,
+  "file": "0975-rust-explique-les-tests-unitaires-en-rust.prompt.json",
+  "prompt": "Explique les tests unitaires en Rust avec un exemple simple.",
+  "promptWords": 10,
+  "completion": "Les tests unitaires en Rust sont un moyen de vérifier que des parties spécifiques de votre code fonctionnent comme prévu. Ils permettent de tester des fonctions ou des méthodes individuelles en isolant leur comportement du reste du programme.\n\n### Caractéristiques des tests unitaires en Rust :\n1. **Isolation** : Chaque test unitaire teste une seule unité de code (généralement une fonction).\n2. **Rapidité** : Ils doivent être rapides à exécuter.\n3. **Automatisation** : Ils peuvent être exécutés automatiquement via la commande `cargo test`.\n\n### Exemple simple\n\nVoici un exemple de code avec des tests unitaires en Rust :\n\n```rust\n// Fonction à tester\npub fn add(a: i32, b: i32) -> i32 {\n    a + b\n}\n\n// Fonction à tester\npub fn subtract(a: i32, b: i32) -> i32 {\n    a - b\n}\n\n#[cfg(test)]\nmod tests {\n    use super::*;\n\n    #[test]\n    fn test_add() {\n        assert_eq!(add(2, 3), 5);\n        assert_eq!(add(-1, 1), 0);\n        assert_eq!(add(0, 0), 0);\n    }\n\n    #[test]\n    fn test_subtract() {\n        assert_eq!(subtract(5, 3), 2);\n        assert_eq!(subtract(-1, 1), -2);\n        assert_eq!(subtract(0, 0), 0);\n    }\n}\n```\n\n### Explication :\n1. **Fonctions à tester** : Nous avons deux fonctions simples, `add` et `subtract`, que nous voulons tester.\n2. **Module de test** : Le bloc `#[cfg(test)] mod tests` définit un module qui ne sera compilé que lorsque les tests sont exécutés.\n3. **Tests individuels** : Chaque fonction de test est annotée avec `#[test]`. Ces fonctions testent le comportement des fonctions `add` et `subtract` en utilisant `assert_eq!` pour vérifier que les résultats sont ceux attendus.\n\n### Exécution des tests\nPour exécuter les tests, utilisez la commande suivante dans votre terminal :\n```sh\ncargo test\n```\n\n### Sortie attendue\nSi tous les tests passent, vous devriez voir une sortie similaire à ceci :\n```\nrunning 2 tests\ntest tests::test_add ... ok\ntest tests::test_subtract ... ok\n\ntest result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out\n```\n\nLes tests unitaires sont un élément essentiel du développement en Rust, car ils aident à garantir que votre code fonctionne correctement et à détecter les régressions lors des modifications futures.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:58:11.4939914+02:00",
+  "durationSeconds": 11.91,
+  "stats": "mistral-small3.2:latest · 520 + 590 tokens · 11,9 s",
+  "isError": false,
+  "language": "FR"
+}

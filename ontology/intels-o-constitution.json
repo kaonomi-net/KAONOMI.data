@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-constitution",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "Constitution",
+  "entityType": "LAW",
+  "description": "Cité par 3 intels : Réarmement du Japon ; Macron et les institutions ; Macédoine du Nord.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre l'évolution de la politique de défense japonaise.",
+    "Suivre les projets de réforme institutionnelle du président.",
+    "Suivre le blocage de la Macédoine du Nord lié au différend avec la Bulgarie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Constitution",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#JAPON",
+    "#DEFENSE",
+    "#FRANCE",
+    "#MACRON",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT",
+    "!INSTITUTIONS",
+    "!BLOCAGE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "défense",
+    "Tokyo",
+    "Japon",
+    "Chine",
+    "États-Unis",
+    "budget",
+    "proportionnelle",
+    "Élysée",
+    "Parlement",
+    "réforme"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

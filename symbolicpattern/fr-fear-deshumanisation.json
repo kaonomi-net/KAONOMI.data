@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-deshumanisation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La perte de l'humain dans les relations.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]shumanisation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]shumanis([ée]|[ée]e|[ée]s|ant|ante)|sans\\s+contact\\s+humain)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:relation(s)?\\s+virtuelle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:isolement\\s+num[ée]rique)(?![\\w-])"
+  ],
+  "symbol": "déshumanisation",
+  "event": null,
+  "title": "Déshumanisation",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

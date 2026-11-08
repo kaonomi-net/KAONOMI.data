@@ -1,0 +1,13 @@
+{
+  "index": 80,
+  "file": "080-interet-pour-le-llm-herinnert-u-zich-mij.prompt.json",
+  "prompt": "Herinnert u zich mij?",
+  "promptWords": 4,
+  "completion": "Nee, ik herinner me niet aan eerdere gesprekken. Elke keer dat je met me praat, begin ik vers. Ik kan je niet herkennen of me herinneren aan vorige conversaties. Hoe kan ik je vandaag helpen?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:23:11.9933778+02:00",
+  "durationSeconds": 1.46,
+  "stats": "mistral-small3.2:latest · 514 + 59 tokens · 1,5 s",
+  "isError": false,
+  "language": "NL"
+}

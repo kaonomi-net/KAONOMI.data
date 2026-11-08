@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-detente",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le relâchement agréable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]tente(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]tendu(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]contract[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:relax(e|[ée]|[ée]e)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cool)(?![\\w-])"
+  ],
+  "symbol": "détente",
+  "event": null,
+  "title": "Détente",
+  "tags": [
+    "#BIENETRE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-blinde",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un véhicule militaire protégé.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:blind[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:char(s)?\\s+d['’]assaut)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:char(s)?\\s+de\\s+combat)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:colonne(s)?\\s+de\\s+chars)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tank(s)?)(?![\\w-])"
+  ],
+  "symbol": "blindé",
+  "event": null,
+  "title": "Blindé",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

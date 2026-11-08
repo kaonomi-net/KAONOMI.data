@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-preference-europeenne",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "préférence européenne",
+  "entityType": "DOMAIN",
+  "description": "Cité par 5 intels : Stéphane Séjourné et la stratégie industrielle ; Achats conjoints d'armement ; Programme européen pour l'industrie de défense ; Préférence européenne dans l'armement ; Préférence européenne dans les marchés publics.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'action du vice-président chargé de la prospérité et de la stratégie industrielle.",
+    "Suivre l'objectif de 40 % d'achats d'armement en commun d'ici fin 2027.",
+    "Suivre le programme européen pour l'industrie de défense."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "préférence européenne",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DEFENSE",
+    "#INDUSTRIE",
+    "#SOUVERAINETE",
+    "#COMMISSION-EUROPEENNE",
+    "#SEJOURNE"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT",
+    "!SOUVERAINETE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "industrie",
+    "armement",
+    "industrie de défense",
+    "acier",
+    "automobile",
+    "Stéphane Séjourné",
+    "achats conjoints",
+    "États membres",
+    "Ukraine"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

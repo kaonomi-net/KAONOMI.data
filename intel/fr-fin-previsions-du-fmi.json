@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-previsions-du-fmi",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Prévisions du FMI",
+  "includedEntities": [
+    {
+      "entityName": "FMI",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "prévisions",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prévisions économiques du Fonds monétaire international.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [
+    "avril et octobre"
+  ],
+  "relatedEntities": [
+    "croissance mondiale",
+    "risques",
+    "dette"
+  ],
+  "questions": [
+    "Quelle révision ?",
+    "Quels risques ?",
+    "Quel pays ?"
+  ],
+  "tags": [
+    "#ECONOMIE",
+    "#FMI"
+  ],
+  "events": [
+    "@PREVISIONS"
+  ],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

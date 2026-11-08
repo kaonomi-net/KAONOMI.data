@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-strategie-pour-la-mer-noire",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Stratégie pour la mer Noire",
+  "includedEntities": [
+    {
+      "entityName": "stratégie mer Noire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "mer Noire",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la stratégie européenne pour la sécurité et la connectivité en mer Noire.",
+  "isFuzzy": true,
+  "locations": [
+    "Roumanie",
+    "Bulgarie",
+    "Géorgie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "drones",
+    "navigation",
+    "Ukraine"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quel financement ?",
+    "Quelle réaction aux attaques ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MER-NOIRE",
+    "#STRATEGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SECURITE"
+  ],
+  "isDeleted": false
+}

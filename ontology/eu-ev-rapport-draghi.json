@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la politique industrielle) : Rapport sur l'avenir de la compétitivité européenne appelant à un investissement supplémentaire de 750 à 800 milliards d'euros par an.",
+  "id": "eu-ev-rapport-draghi",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Rapport Draghi sur la compétitivité européenne",
+  "entityType": "EVENT",
+  "description": "Rapport sur l'avenir de la compétitivité européenne appelant à un investissement supplémentaire de 750 à 800 milliards d'euros par an.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les historiens de la construction européenne reviennent sur « Rapport Draghi sur la compétitivité européenne ».",
+    "La chronologie de la Commission place « Rapport Draghi sur la compétitivité européenne » à sa date.",
+    "« Rapport Draghi sur la compétitivité européenne » est un jalon de l'histoire de de l'Union européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#POLITIQUEINDUSTRIELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Rapport%20Draghi%20sur%20la%20comp%C3%A9titivit%C3%A9%20europ%C3%A9enne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Boussole pour la compétitivité",
+    "Industrie",
+    "Économie",
+    "Mario Draghi",
+    "Ursula von der Leyen",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-09-09T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-bilan-des-victimes-civiles-de-l-onu",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Bilan des victimes civiles de l'ONU",
+  "includedEntities": [
+    {
+      "entityName": "victimes civiles",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "ONU",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les bilans des victimes civiles publiés par l'ONU.",
+  "isFuzzy": true,
+  "locations": [
+    "Genève"
+  ],
+  "times": [
+    "publication mensuelle"
+  ],
+  "relatedEntities": [
+    "HCDH",
+    "mission de surveillance",
+    "enfants"
+  ],
+  "questions": [
+    "Quel bilan ?",
+    "Quelle tendance ?",
+    "Quelles régions ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#CIVILS",
+    "#ONU"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "isDeleted": false
+}

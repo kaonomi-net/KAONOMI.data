@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la politique industrielle) : Stratégie visant une industrie européenne compétitive, verte et numérique.",
+  "id": "eu-pol-strategie-industrielle",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Nouvelle stratégie industrielle pour l'Europe",
+  "entityType": "LAW",
+  "description": "Stratégie visant une industrie européenne compétitive, verte et numérique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les entreprises doivent tenir compte de « Nouvelle stratégie industrielle pour l'Europe ».",
+    "« Nouvelle stratégie industrielle pour l'Europe » relève de la politique industrielle.",
+    "« Nouvelle stratégie industrielle pour l'Europe » a fait l'objet de longues négociations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#POLITIQUEINDUSTRIELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Nouvelle%20strat%C3%A9gie%20industrielle%20pour%20l%27Europe"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Industrie",
+    "Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-03-10T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-psychologie-de-l-argent",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Psychologie de l'argent",
+  "includedEntities": [
+    {
+      "entityName": "argent",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "comportement financier",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études sur le rapport psychologique à l'argent.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "dépenses",
+    "anxiété financière",
+    "épargne"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel comportement ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-faux-captcha-et-clickfix",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Faux CAPTCHA et ClickFix",
+  "includedEntities": [
+    {
+      "entityName": "ClickFix",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "faux CAPTCHA",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les campagnes qui poussent les victimes à exécuter des commandes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "PowerShell",
+    "sites compromis",
+    "voleurs d'informations"
+  ],
+  "questions": [
+    "Quelle campagne ?",
+    "Quel logiciel diffusé ?",
+    "Quelle parade ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#INGENIERIE-SOCIALE",
+    "#MALWARE"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

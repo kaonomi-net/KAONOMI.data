@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-marches-noirs-du-dark-web",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Marchés noirs du dark web",
+  "includedEntities": [
+    {
+      "entityName": "dark web",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "marché noir",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les marchés illicites du dark web et leurs fermetures.",
+  "isFuzzy": true,
+  "locations": [
+    "dark web"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "drogues",
+    "données",
+    "saisies"
+  ],
+  "questions": [
+    "Quel marché ?",
+    "Quelle fermeture ?",
+    "Quels administrateurs ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DARK-WEB",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@DEMANTELEMENT"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

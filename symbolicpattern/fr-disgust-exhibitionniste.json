@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-exhibitionniste",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui fait le mal par plaisir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pervers\\s+narcissique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:manipulateur(s)?\\s+pervers)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pr[ée]dateur(s)?\\s+sexuel(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exhibitionniste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:voyeur(s)?)(?![\\w-])"
+  ],
+  "symbol": "exhibitionniste",
+  "event": null,
+  "title": "Exhibitionniste",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

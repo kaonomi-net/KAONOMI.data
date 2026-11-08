@@ -1,0 +1,13 @@
+{
+  "index": 876,
+  "file": "0876-design-patterns-qu-est-ce-qu-un-design.prompt.json",
+  "prompt": "Qu'est-ce qu'un design pattern ?",
+  "promptWords": 5,
+  "completion": "Un design pattern (ou patron de conception en français) est une solution éprouvée à un problème récurrent dans la conception de logiciels. Il s'agit de bonnes pratiques ou de modèles architecturaux qui permettent de résoudre des problèmes courants de manière efficace et réutilisable.\n\nLes design patterns sont utilisés pour améliorer la qualité, la maintenabilité et la flexibilité du code. Ils sont souvent classés en trois catégories principales :\n\n1. **Patterns créatifs** : Ils traitent de la création d'objets. Par exemple, le pattern *Singleton* garantit qu'une classe n'a qu'une seule instance.\n2. **Patterns structurels** : Ils concernent la composition de classes et d'objets pour former des structures plus grandes. Par exemple, le pattern *Adapter* permet de rendre compatibles des interfaces incompatibles.\n3. **Patterns comportementaux** : Ils caractérisent les algorithmes et l'assignation des responsabilités entre objets. Par exemple, le pattern *Observer* définit une dépendance un-à-plusieurs entre objets.\n\nCes patterns sont largement utilisés dans le développement logiciel pour standardiser les solutions et faciliter la communication entre développeurs.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:34:25.0743216+02:00",
+  "durationSeconds": 4.95,
+  "stats": "mistral-small3.2:latest · 515 + 237 tokens · 4,9 s",
+  "isError": false,
+  "language": "FR"
+}

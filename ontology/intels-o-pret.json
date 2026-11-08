@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-pret",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "prêt",
+  "entityType": "PRODUCT",
+  "description": "Cité par 3 intels : Prêt européen de 90 milliards d'euros ; Financement du RN ; Prêt de 90 milliards d'euros à l'Ukraine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre le prêt européen de 90 milliards d'euros à l'Ukraine pour 2026 et 2027.",
+    "Suivre le financement du RN et ses emprunts."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "prêt",
+  "tags": [
+    "#FINANCEMENT",
+    "#UNION-EUROPEENNE",
+    "#UKRAINE",
+    "#FRANCE",
+    "#RN"
+  ],
+  "events": [
+    "@VERSEMENT"
+  ],
+  "signals": [
+    "!SOUTIEN",
+    "!TRANSPARENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "budget européen",
+    "Bruxelles",
+    "90 milliards",
+    "Kyiv",
+    "Conseil européen",
+    "Union européenne",
+    "Rassemblement national",
+    "financement",
+    "dons",
+    "CNCCFP"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

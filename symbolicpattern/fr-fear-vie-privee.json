@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-vie-privee",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui ne regarde que soi.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vie\\s+priv[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:atteinte\\s+[àa]\\s+la\\s+vie\\s+priv[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:intimit[ée]\\s+viol[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:respect\\s+de\\s+la\\s+vie\\s+priv[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plus\\s+aucune\\s+vie\\s+priv[ée]e)(?![\\w-])"
+  ],
+  "symbol": "vie privée",
+  "event": null,
+  "title": "Vie privée",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 19,
+  "file": "039-cuisine-quels-vins-servir-avec-un-plateau.prompt.json",
+  "prompt": "Quels vins servir avec un plateau de fromages ?",
+  "promptWords": 9,
+  "completion": "Servir du vin avec un plateau de fromages est une excellente idée, car les fromages offrent une grande variété de saveurs et de textures qui peuvent être sublimées par le choix approprié de vins. Voici quelques suggestions pour accompagner différents types de fromages :\n\n### 1. **Fromages frais (ex : Brie, Camembert, Chèvre frais)**\n   - **Vin blanc** : Un vin blanc frais et fruité comme un Sancerre, un Chablis ou un Muscadet.\n   - **Vin rosé** : Un rosé sec et fruité, comme un Tavel ou un Bandol rosé.\n\n### 2. **Fromages à pâte molle (ex : Brie, Camembert, Saint-André)**\n   - **Vin blanc** : Un vin blanc riche et rond comme un White Burgundy (Chardonnay) ou un Riesling.\n   - **Vin rouge** : Un vin rouge léger et fruité comme un Beaujolais ou un Pinot Noir.\n\n### 3. **Fromages à pâte pressée non cuite (ex : Cheddar, Gouda, Edam)**\n   - **Vin rouge** : Un vin rouge moyen en corps comme un Merlot ou un Cabernet Sauvignon.\n   - **Vin blanc** : Un vin blanc sec et structuré comme un Chardonnay ou un Viognier.\n\n### 4. **Fromages à pâte pressée cuite (ex : Comté, Emmental, Gruyère)**\n   - **Vin blanc** : Un vin blanc puissant comme un Gewurztraminer ou un Riesling vendanges tardives.\n   - **Vin rouge** : Un vin rouge corsé comme un Syrah ou un Zinfandel.\n\n### 5. **Fromages bleus (ex : Roquefort, Bleu d'Auvergne, Gorgonzola)**\n   - **Vin blanc moelleux** : Un Sauternes ou un Monbazillac.\n   - **Vin rouge** : Un vin rouge doux comme un Porto ou un Banyuls.\n\n### 6. **Fromages de chèvre (ex : Crottin de Chavignol, Valençay)**\n   - **Vin blanc** : Un Sancerre ou un Pouilly-Fumé.\n   - **Vin rouge** : Un Pinot Noir léger.\n\n### 7. **Fromages de brebis (ex : Roquefort, Ossau-Iraty)**\n   - **Vin blanc** : Un Gewurztraminer ou un Riesling.\n   - **Vin rouge** : Un vin rouge corsé comme un Syrah.\n\n### Conseils généraux :\n- **Équilibre des saveurs** : Essayez de faire correspondre l'intensité du fromage avec l'intensité du vin.\n- **Expérimentation** : N'hésitez pas à essayer différentes combinaisons pour trouver celle qui vous plaît le plus.\n- **Température** : Servez les vins blancs et rosés frais (entre 8 et 12°C) et les vins rouges à température ambiante (entre 14 et 18°C).\n\nSi vous avez des fromages spécifiques en tête, n'hésitez pas à me le dire pour des recommandations plus précises !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:20:11.214973+02:00",
+  "durationSeconds": 15.12,
+  "stats": "mistral-small3.2:latest · 518 + 699 tokens · 15,1 s",
+  "isError": false,
+  "language": "FR"
+}

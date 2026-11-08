@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-composition-du-cac-40",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Composition du CAC 40",
+  "includedEntities": [
+    {
+      "entityName": "composition",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "CAC 40",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "entrée",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les entrées et sorties du CAC 40.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "révisions trimestrielles"
+  ],
+  "relatedEntities": [
+    "conseil scientifique",
+    "capitalisation",
+    "indice"
+  ],
+  "questions": [
+    "Quelle entrée ?",
+    "Quelle sortie ?",
+    "Quel effet sur le titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40"
+  ],
+  "events": [
+    "@REVISION-INDICE"
+  ],
+  "signals": [
+    "!MARCHE"
+  ],
+  "isDeleted": false
+}

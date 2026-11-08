@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (l'espionnage) : Petit boîtier inséré entre le clavier et l'ordinateur qui enregistre tout ce qui est tapé.",
+  "id": "cyber-hardware-keylogger",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Enregistreur de frappe matériel",
+  "entityType": "HARDWARE",
+  "description": "Petit boîtier inséré entre le clavier et l'ordinateur qui enregistre tout ce qui est tapé.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Le technicien a installé Enregistreur de frappe matériel dans la salle des machines.",
+    "Lors du salon, le stand présentait Enregistreur de frappe matériel en démonstration.",
+    "Le laboratoire utilise Enregistreur de frappe matériel pour ses travaux dans le domaine de l'espionnage."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "keylogger matériel"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#ESPIONNAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Enregistreur%20de%20frappe%20mat%C3%A9riel"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Catalogue ANT de la NSA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

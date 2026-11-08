@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-bureau-europeen-de-l-ia",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Bureau européen de l'IA",
+  "includedEntities": [
+    {
+      "entityName": "Bureau de l'IA",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action du Bureau européen de l'IA.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "modèles d'IA à usage général",
+    "code de bonne pratique",
+    "supervision"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quel modèle examiné ?",
+    "Quelle sanction ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#IA",
+    "#SUPERVISION"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

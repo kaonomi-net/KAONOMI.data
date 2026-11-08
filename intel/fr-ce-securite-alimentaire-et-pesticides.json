@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-securite-alimentaire-et-pesticides",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Sécurité alimentaire et pesticides",
+  "includedEntities": [
+    {
+      "entityName": "pesticides",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "autorisation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions européennes sur les pesticides.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "glyphosate",
+    "EFSA",
+    "agriculteurs"
+  ],
+  "questions": [
+    "Quelle autorisation ?",
+    "Quelle interdiction ?",
+    "Quelle contestation ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AGRICULTURE",
+    "#PESTICIDES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 88,
+  "file": "088-interet-pour-le-llm-do-you-learn-from-our-conversations.prompt.json",
+  "prompt": "Do you learn from our conversations?",
+  "promptWords": 6,
+  "completion": "No, I don't learn from our conversations. Each interaction is independent, and I don't retain any information from previous chats. I'm here to provide helpful and accurate responses based on the information I've been trained on (up to 2023-10-01) and any tools I have access to. Every conversation starts fresh! How can I assist you today?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:05:10.9780899+02:00",
+  "durationSeconds": 1.83,
+  "stats": "mistral-small3.2:latest · 514 + 80 tokens · 1,8 s",
+  "isError": false,
+  "language": "EN"
+}

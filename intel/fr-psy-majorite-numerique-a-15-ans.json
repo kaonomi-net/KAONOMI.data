@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-majorite-numerique-a-15-ans",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Majorité numérique à 15 ans",
+  "includedEntities": [
+    {
+      "entityName": "majorité numérique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "réseaux sociaux",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la majorité numérique à 15 ans pour l'accès aux réseaux sociaux.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Europe"
+  ],
+  "times": [
+    "2026"
+  ],
+  "relatedEntities": [
+    "vérification de l'âge",
+    "plateformes",
+    "Commission européenne"
+  ],
+  "questions": [
+    "Quelle application ?",
+    "Quelle vérification ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ENFANCE",
+    "#RESEAUX-SOCIAUX"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-frontiere-entre-l-inde-et-la-chine",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Frontière entre l'Inde et la Chine",
+  "includedEntities": [
+    {
+      "entityName": "Inde",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "frontière",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Surveiller les tensions à la frontière himalayenne entre l'Inde et la Chine.",
+  "isFuzzy": true,
+  "locations": [
+    "Ladakh",
+    "Arunachal Pradesh"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "armée indienne",
+    "Armée populaire de libération",
+    "Himalaya"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quelles négociations ?",
+    "Quels déploiements ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#INDE",
+    "#CHINE"
+  ],
+  "events": [
+    "@INCIDENT-FRONTALIER"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

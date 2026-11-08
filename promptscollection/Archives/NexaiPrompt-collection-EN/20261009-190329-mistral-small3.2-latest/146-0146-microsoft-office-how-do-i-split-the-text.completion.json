@@ -1,0 +1,13 @@
+{
+  "index": 146,
+  "file": "0146-microsoft-office-how-do-i-split-the-text.prompt.json",
+  "prompt": "How do I split the text of a cell into several columns in Excel?",
+  "promptWords": 14,
+  "completion": "To split the text of a cell into several columns in Excel, you can use the \"Text to Columns\" feature. Here’s how to do it:\n\n### Steps to Split Text into Columns:\n1. **Select the Column**:\n   - Click on the column header (e.g., Column A) that contains the text you want to split.\n\n2. **Open Text to Columns**:\n   - Go to the **Data** tab in the Excel ribbon.\n   - Click on **Text to Columns** in the Data Tools group.\n\n3. **Choose the Split Type**:\n   - A dialog box will appear. Select the type of data you are splitting:\n     - **Delimited**: If your text is separated by a specific character (e.g., comma, space, tab).\n     - **Fixed Width**: If your text is divided into specific column widths.\n\n4. **Select Delimiters**:\n   - If you chose **Delimited**, click **Next**.\n   - Check the box for the delimiter that separates your text (e.g., Comma, Tab, Space, Other).\n   - If using a custom delimiter, enter it in the \"Other\" field.\n\n5. **Preview and Adjust**:\n   - Excel will show a preview of how the data will be split.\n   - Adjust the settings if needed.\n\n6. **Choose Destination**:\n   - By default, Excel will replace the original data. If you want to keep the original data, select a different destination column.\n\n7. **Finish**:\n   - Click **Finish** to split the text into the selected columns.\n\n### Example:\nIf your cell contains `John,Doe,30` and you split by comma, the result will be:\n- Column 1: `John`\n- Column 2: `Doe`\n- Column 3: `30`\n\n### Additional Tips:\n- You can also use **Power Query** (Data > Get & Transform) for more advanced text splitting options.\n- If the text is consistent, you can use **Flash Fill** (Ctrl + E) to automatically split and fill the data.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:30:31.3060522+02:00",
+  "durationSeconds": 10.89,
+  "stats": "mistral-small3.2:latest · 522 + 428 tokens · 10,9 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-drones-navals-ukrainiens",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Drones navals ukrainiens",
+  "includedEntities": [
+    {
+      "entityName": "drones navals",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "mer Noire",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques de drones navals contre la flotte et les ports russes.",
+  "isFuzzy": true,
+  "locations": [
+    "mer Noire",
+    "Novorossiïsk",
+    "Sébastopol"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Magura",
+    "flotte russe",
+    "pétroliers"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quels dégâts ?",
+    "Quelle nouveauté tactique ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#MARITIME",
+    "#DRONES"
+  ],
+  "events": [
+    "@ATTAQUE"
+  ],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

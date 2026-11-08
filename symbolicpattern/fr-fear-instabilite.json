@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-instabilite",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le manque de stabilité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:instabilit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:instable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:turbulence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tourmente(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fragilit[ée](s)?\\s+financi[èe]re(s)?)(?![\\w-])"
+  ],
+  "symbol": "instabilité",
+  "event": null,
+  "title": "Instabilité",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

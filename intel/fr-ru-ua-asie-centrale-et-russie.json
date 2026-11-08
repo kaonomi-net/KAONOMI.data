@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-asie-centrale-et-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Asie centrale et Russie",
+  "includedEntities": [
+    {
+      "entityName": "Asie centrale",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Kazakhstan",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les relations entre la Russie et les pays d'Asie centrale.",
+  "isFuzzy": true,
+  "locations": [
+    "Astana",
+    "Tachkent",
+    "Bichkek"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "migrants",
+    "sanctions",
+    "Chine"
+  ],
+  "questions": [
+    "Quelle position sur la guerre ?",
+    "Quel commerce ?",
+    "Quel contournement des sanctions ?"
+  ],
+  "tags": [
+    "#ASIE-CENTRALE",
+    "#RUSSIE",
+    "#INFLUENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'environnement) : Conseil Environnement, formation du Conseil de l'Union européenne compétente pour l'environnement, l'action pour le climat.",
+  "id": "eu-cons-envi-conseil",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Conseil Environnement (ENVI)",
+  "entityType": "ORGANISATION",
+  "description": "Conseil Environnement, formation du Conseil de l'Union européenne compétente pour l'environnement, l'action pour le climat.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-formations-conseil",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Conseil Environnement (ENVI) » préparent les textes relatifs à l'environnement.",
+    "La délégation a rencontré des représentants de « Conseil Environnement (ENVI) ».",
+    "« Conseil Environnement (ENVI) » joue un rôle dans l'environnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ENVI"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Conseil%20Environnement%20%28ENVI%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conseil de l'Union européenne",
+    "Environnement",
+    "Action pour le climat"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

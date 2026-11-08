@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-honteux",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui devrait faire honte.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:honteu(x|se|ses|sement))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:c['’]est\\s+une\\s+honte)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:quelle\\s+honte)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:honte\\s+[àa]\\s+(lui|elle|eux|vous))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inadmissible(s)?)(?![\\w-])"
+  ],
+  "symbol": "honteux",
+  "event": null,
+  "title": "Honteux",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

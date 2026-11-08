@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-tsmc-et-la-fabrication-de-puces",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "TSMC et la fabrication de puces",
+  "includedEntities": [
+    {
+      "entityName": "TSMC",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "puces",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre le premier fondeur mondial de semi-conducteurs.",
+  "isFuzzy": false,
+  "locations": [
+    "Taïwan",
+    "Arizona"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Nvidia",
+    "Apple",
+    "Taïwan"
+  ],
+  "questions": [
+    "Quelles capacités ?",
+    "Quel risque géopolitique ?",
+    "Quelles nouvelles usines ?"
+  ],
+  "tags": [
+    "#IA",
+    "#SEMI-CONDUCTEURS",
+    "#GEOPOLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE-GEOPOLITIQUE"
+  ],
+  "isDeleted": false
+}

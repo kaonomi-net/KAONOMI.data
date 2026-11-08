@@ -1,0 +1,23 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-gagner",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Être vainqueur, obtenir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:gagn(er|e|es|ons|ez|ent|[ée]|[ée]e|[ée]s|ait|ant|ante|ants)|vainc(re|u|ue)|l['’]emport(er|[ée]))(?![\\w-])"
+  ],
+  "symbol": "gagner",
+  "event": null,
+  "title": "Gagner",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-aide-sociale-a-l-enfance-et-sante-mentale",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Aide sociale à l'enfance et santé mentale",
+  "includedEntities": [
+    {
+      "entityName": "aide sociale à l'enfance",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "enfants placés",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la santé mentale des enfants placés.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ASE",
+    "foyers",
+    "troubles"
+  ],
+  "questions": [
+    "Quel constat ?",
+    "Quel rapport ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ENFANCE",
+    "#PROTECTION"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

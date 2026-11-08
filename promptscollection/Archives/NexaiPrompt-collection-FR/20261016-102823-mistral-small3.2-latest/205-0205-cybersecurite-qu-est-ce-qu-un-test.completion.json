@@ -1,0 +1,13 @@
+{
+  "index": 205,
+  "file": "0205-cybersecurite-qu-est-ce-qu-un-test.prompt.json",
+  "prompt": "Qu'est-ce qu'un test d'intrusion (pentest) ?",
+  "promptWords": 6,
+  "completion": "Un test d'intrusion, également appelé pentest (pour *penetration test*), est une évaluation de la sécurité d'un système informatique, d'un réseau ou d'une application. Il consiste à simuler une attaque malveillante pour identifier les vulnérabilités qui pourraient être exploitées par des hackers.\n\n### Objectifs d'un test d'intrusion :\n1. **Identifier les failles de sécurité** : Découvrir les points faibles dans les systèmes, les applications ou les réseaux.\n2. **Évaluer l'impact des vulnérabilités** : Comprendre comment une faille pourrait être exploitée et quelles pourraient en être les conséquences.\n3. **Améliorer la sécurité** : Fournir des recommandations pour corriger les failles et renforcer la défense contre les cyberattaques.\n\n### Types de tests d'intrusion :\n- **Test en boîte noire** : Le testeur n'a aucune information préalable sur le système. Il simule une attaque externe.\n- **Test en boîte grise** : Le testeur dispose de certaines informations (comme des identifiants ou des schémas de réseau) pour simuler une attaque interne ou semi-informée.\n- **Test en boîte blanche** : Le testeur a accès complet au système, y compris au code source, pour une analyse approfondie.\n\n### Méthodologie :\n1. **Reconnaissance** : Collecte d'informations sur la cible (réseaux, applications, etc.).\n2. **Scan** : Utilisation d'outils pour détecter les vulnérabilités potentielles.\n3. **Exploitation** : Tentative d'exploiter les failles identifiées pour accéder au système.\n4. **Rapport** : Documentation des résultats et recommandations pour corriger les failles.\n\nLes tests d'intrusion sont essentiels pour les entreprises et les organisations afin de protéger leurs données sensibles et de se conformer aux réglementations en matière de sécurité informatique.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:04:04.9002702+02:00",
+  "durationSeconds": 8.46,
+  "stats": "mistral-small3.2:latest · 522 + 415 tokens · 8,5 s",
+  "isError": false,
+  "language": "FR"
+}

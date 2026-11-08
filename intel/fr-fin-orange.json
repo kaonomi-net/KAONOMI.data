@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-orange",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Orange",
+  "includedEntities": [
+    {
+      "entityName": "Orange",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "opérateur",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [
+    {
+      "entityName": "jus",
+      "entityWeight": ""
+    },
+    {
+      "entityName": "fruit",
+      "entityWeight": ""
+    }
+  ],
+  "triggerLevel": 70,
+  "instructions": "Suivre l'action Orange et la consolidation des télécoms.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Christel Heydemann",
+    "SFR",
+    "fibre"
+  ],
+  "questions": [
+    "Quelle consolidation ?",
+    "Quelle croissance ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#TELECOMS"
+  ],
+  "events": [],
+  "signals": [
+    "!CONSOLIDATION"
+  ],
+  "isDeleted": false
+}

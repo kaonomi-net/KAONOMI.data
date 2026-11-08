@@ -1,0 +1,13 @@
+{
+  "index": 964,
+  "file": "0964-rust-explique-les-traits-en-rust-avec.prompt.json",
+  "prompt": "Explique les traits en Rust avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "Les traits en Rust sont similaires aux interfaces dans d'autres langages de programmation. Ils définissent un ensemble de méthodes que les types peuvent implémenter. Les traits permettent de définir un comportement commun entre différents types, ce qui favorise la réutilisation du code et la polymorphisme.\n\nVoici un exemple simple pour illustrer les traits en Rust :\n\n```rust\n// Définition d'un trait nommé `Greet`\ntrait Greet {\n    // Méthode associée au trait\n    fn greet(&self) -> String;\n}\n\n// Structure `Person`\nstruct Person {\n    name: String,\n}\n\n// Implémentation du trait `Greet` pour `Person`\nimpl Greet for Person {\n    fn greet(&self) -> String {\n        format!(\"Bonjour, je suis {}!\", self.name)\n    }\n}\n\n// Structure `Dog`\nstruct Dog {\n    name: String,\n}\n\n// Implémentation du trait `Greet` pour `Dog`\nimpl Greet for Dog {\n    fn greet(&self) -> String {\n        format!(\"Woof! Je suis {}, le chien!\", self.name)\n    }\n}\n\nfn main() {\n    let person = Person { name: String::from(\"Alice\") };\n    let dog = Dog { name: String::from(\"Rex\") };\n\n    // Appel de la méthode `greet` pour `Person`\n    println!(\"{}\", person.greet()); // Affiche: Bonjour, je suis Alice!\n\n    // Appel de la méthode `greet` pour `Dog`\n    println!(\"{}\", dog.greet()); // Affiche: Woof! Je suis Rex, le chien!\n}\n```\n\n### Explications :\n\n1. **Définition du trait** : Le trait `Greet` définit une méthode `greet` qui retourne une `String`.\n2. **Implémentation du trait** : Les structures `Person` et `Dog` implémentent le trait `Greet` en fournissant leur propre implémentation de la méthode `greet`.\n3. **Utilisation du trait** : Dans la fonction `main`, nous créons des instances de `Person` et `Dog`, puis nous appelons la méthode `greet` sur ces instances.\n\nLes traits sont très puissants en Rust et permettent de créer des abstractions flexibles et réutilisables.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:55:59.6285819+02:00",
+  "durationSeconds": 9.97,
+  "stats": "mistral-small3.2:latest · 518 + 484 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

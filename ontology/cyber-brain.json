@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (les logiciels malveillants) : Premier virus pour les PC compatibles IBM, écrit par deux frères pakistanais.",
+  "id": "cyber-brain",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Brain",
+  "entityType": "SOFTWARE",
+  "description": "Premier virus pour les PC compatibles IBM, écrit par deux frères pakistanais.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "En atelier, les élèves ont découvert Brain et son fonctionnement.",
+    "L'équipe a comparé Brain avec d'autres outils des logiciels malveillants.",
+    "Brain figure parmi les logiciels marquants des logiciels malveillants."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "©Brain"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#LOGICIELSMALVEILLANTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Brain"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Elk Cloner"
+  ],
+  "isDeleted": false,
+  "startDate": "1986-01-01T00:00:00",
+  "endDate": null
+}

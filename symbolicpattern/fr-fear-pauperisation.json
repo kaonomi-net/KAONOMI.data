@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-pauperisation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'appauvrissement d'une population.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:paup[ée]risation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:appauvrissement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:appauvr(ir|i|ie|is)|pouvoir\\s+d['’]achat\\s+en\\s+berne)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fin\\s+du\\s+mois)(?![\\w-])"
+  ],
+  "symbol": "paupérisation",
+  "event": null,
+  "title": "Paupérisation",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

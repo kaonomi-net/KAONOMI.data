@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-giorgia-meloni",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "Giorgia Meloni",
+  "entityType": "PERSON",
+  "description": "Cité par 1 intel : Italie et Giorgia Meloni.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre les relations entre le gouvernement italien et la Commission."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Giorgia Meloni",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ITALIE",
+    "#MELONI"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Italie",
+    "PPE",
+    "Rome",
+    "migrations",
+    "budget"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

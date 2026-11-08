@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-hausse-des-depenses-militaires",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Hausse des dépenses militaires",
+  "includedEntities": [
+    {
+      "entityName": "dépenses militaires",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "budget de défense",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre la hausse des budgets de défense dans le monde.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe",
+    "Asie"
+  ],
+  "times": [
+    "vote des budgets"
+  ],
+  "relatedEntities": [
+    "OTAN",
+    "SIPRI",
+    "industrie de défense"
+  ],
+  "questions": [
+    "Quelle hausse ?",
+    "Quel pourcentage du PIB ?",
+    "Quels programmes ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#DEFENSE",
+    "#BUDGET"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "isDeleted": false
+}

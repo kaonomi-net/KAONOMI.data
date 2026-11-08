@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-cellules-d-urgence-medico-psychologique",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Cellules d'urgence médico-psychologique",
+  "includedEntities": [
+    {
+      "entityName": "cellule d'urgence médico-psychologique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "CUMP",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le déclenchement des cellules d'urgence médico-psychologique.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "SAMU",
+    "victimes",
+    "catastrophes"
+  ],
+  "questions": [
+    "Quel événement ?",
+    "Combien de personnes prises en charge ?",
+    "Quel suivi ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TRAUMA",
+    "#URGENCE"
+  ],
+  "events": [
+    "@INTERVENTION"
+  ],
+  "signals": [
+    "!SAD"
+  ],
+  "isDeleted": false
+}

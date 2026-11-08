@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-emerveillement",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'être émerveillé.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]merveillement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]merveill(er|[ée]|[ée]e|[ée]s|[ée]es|ant|ante)|[ée]bloui(e|s|es|ssant|ssante)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fascin[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:wow)(?![\\w-])"
+  ],
+  "symbol": "émerveillement",
+  "event": null,
+  "title": "Émerveillement",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

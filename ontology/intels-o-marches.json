@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-marches",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "marchés",
+  "entityType": "DOMAIN",
+  "description": "Cité par 12 intels : Changement de dirigeant d'une grande puissance ; Dégradation de la note de la France ; Taux des obligations françaises ; Écart de taux avec l'Allemagne ; Crise de la dette en France ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les changements à la tête des grandes puissances.",
+    "Repérer toute dégradation de la note souveraine française.",
+    "Suivre le taux d'emprunt de l'État à dix ans."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 8,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "marchés",
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#MARCHES",
+    "#BOURSE",
+    "#GEOPOLITIQUE",
+    "#TAUX"
+  ],
+  "events": [
+    "@CHANGEMENT-POUVOIR",
+    "@DEGRADATION",
+    "@ALERTE-MARCHE"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!INDICATEUR",
+    "!INCERTITUDE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "taux",
+    "France",
+    "BCE",
+    "spread",
+    "Paris",
+    "Trump",
+    "inflation",
+    "Bruxelles",
+    "politique étrangère",
+    "investiture"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

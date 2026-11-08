@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-vermoulu",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Rongé, abîmé par le temps.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vermoulu(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rong[ée](e|s|es)?\\s+par\\s+les\\s+vers)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:miteu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mit[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]cr[ée]pit(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "vermoulu",
+  "event": null,
+  "title": "Vermoulu",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

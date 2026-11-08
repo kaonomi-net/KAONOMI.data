@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-entreprise",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "entreprise",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 6 intels : Fuite de données par un chatbot ; Génération augmentée par recherche ; Fine-tuning d'un modèle ; Risques psychosociaux ; Psychologues du travail ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les fuites d'informations confidentielles via des assistants d'IA.",
+    "Suivre les systèmes qui combinent recherche documentaire et modèles de langage.",
+    "Suivre l'adaptation de modèles à des usages spécifiques."
+  ],
+  "angryLevel": null,
+  "sadLevel": 17,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "entreprise",
+  "tags": [
+    "#IA",
+    "#PSYCHOLOGIE",
+    "#TRAVAIL",
+    "#CYBERSECURITE",
+    "#DONNEES",
+    "#RAG"
+  ],
+  "events": [
+    "@INCIDENT-SECURITE",
+    "@PROCES"
+  ],
+  "signals": [
+    "!OPPORTUNITE",
+    "!ALERTE",
+    "!PREVENTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "confidentiel",
+    "fuite de données",
+    "Samsung",
+    "ChatGPT",
+    "chatbot",
+    "embeddings",
+    "documents",
+    "recherche",
+    "RAG",
+    "base vectorielle"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

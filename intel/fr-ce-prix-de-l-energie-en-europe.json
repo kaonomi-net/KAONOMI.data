@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-prix-de-l-energie-en-europe",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Prix de l'énergie en Europe",
+  "includedEntities": [
+    {
+      "entityName": "prix de l'énergie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "électricité",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "gaz",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prix de l'énergie et les mesures européennes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "hiver"
+  ],
+  "relatedEntities": [
+    "industrie",
+    "ménages",
+    "marché"
+  ],
+  "questions": [
+    "Quel prix ?",
+    "Quelle mesure ?",
+    "Quelle réforme du marché ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENERGIE",
+    "#PRIX"
+  ],
+  "events": [],
+  "signals": [
+    "!ENERGIE"
+  ],
+  "isDeleted": false
+}

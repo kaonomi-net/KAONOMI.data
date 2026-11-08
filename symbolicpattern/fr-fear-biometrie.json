@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-biometrie",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'identification automatique des corps et des visages.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:biom[ée]trie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:biom[ée]trique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:reconnaissance\\s+faciale)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cam[ée]ra(s)?\\s+intelligente(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vid[ée]osurveillance(s)?)(?![\\w-])"
+  ],
+  "symbol": "biométrie",
+  "event": null,
+  "title": "Biométrie",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

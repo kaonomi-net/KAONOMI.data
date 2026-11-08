@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-divulgation-responsable",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Divulgation responsable",
+  "includedEntities": [
+    {
+      "entityName": "divulgation responsable",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "chercheur",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les divulgations coordonnées de vulnérabilités.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "éditeurs",
+    "délai",
+    "CVE"
+  ],
+  "questions": [
+    "Quelle faille ?",
+    "Quel délai ?",
+    "Quel conflit avec l'éditeur ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#DIVULGATION"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

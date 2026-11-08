@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (les affaires intérieures) : Intègre l'acquis de Schengen et renforce les pouvoirs du Parlement européen.",
+  "id": "eu-pol-traite-amsterdam",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Traité d'Amsterdam",
+  "entityType": "LAW",
+  "description": "Intègre l'acquis de Schengen et renforce les pouvoirs du Parlement européen.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-traites",
+  "sentencesExemples": [
+    "Le Journal officiel de l'Union a publié « Traité d'Amsterdam ».",
+    "Les juristes de la Commission ont commenté « Traité d'Amsterdam ».",
+    "La mise en œuvre de « Traité d'Amsterdam » est suivie par la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#AFFAIRESINTERIEURES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Trait%C3%A9%20d%27Amsterdam"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Affaires intérieures et sécurité",
+    "Amsterdam",
+    "Espace Schengen"
+  ],
+  "isDeleted": false,
+  "startDate": "1997-10-02T00:00:00",
+  "endDate": null
+}

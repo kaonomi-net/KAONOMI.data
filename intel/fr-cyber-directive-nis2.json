@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-directive-nis2",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Directive NIS2",
+  "includedEntities": [
+    {
+      "entityName": "NIS2",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "directive",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'application de la directive NIS2 dans l'Union.",
+  "isFuzzy": false,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "entités essentielles",
+    "sanctions",
+    "notification"
+  ],
+  "questions": [
+    "Quel pays a transposé ?",
+    "Quelles obligations ?",
+    "Quelle procédure ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#REGULATION",
+    "#NIS2"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

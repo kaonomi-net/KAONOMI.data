@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-fraude-aux-donnees-personnelles",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Fraude aux données personnelles",
+  "includedEntities": [
+    {
+      "entityName": "fuite de données",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "données personnelles",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les fuites massives de données de Français.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "CNIL",
+    "France Travail",
+    "hackers"
+  ],
+  "questions": [
+    "Quelle fuite ?",
+    "Combien de personnes ?",
+    "Quelles conséquences ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#CYBER",
+    "#DONNEES"
+  ],
+  "events": [
+    "@FUITE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

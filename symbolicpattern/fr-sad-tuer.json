@@ -1,0 +1,24 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-tuer",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Donner la mort à un être vivant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:tu(er|e|es|ent|[ée]|[ée]e|[ée]s|[ée]es|ait|aient|era|erai|eur|eurs|euse)|abatt(re|u|ue|us|ues|ait)|ex[ée]cut(er|[ée]|[ée]e|[ée]s)|[ée]liminer|[ée]limin([ée]|[ée]e|[ée]s|[ée]es))(?![\\w-])"
+  ],
+  "symbol": "tuer",
+  "event": null,
+  "title": "Tuer",
+  "tags": [
+    "#MORT",
+    "#VIOLENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

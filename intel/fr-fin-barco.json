@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-barco",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Barco",
+  "includedEntities": [
+    {
+      "entityName": "Barco",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "écrans",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Barco.",
+  "isFuzzy": false,
+  "locations": [
+    "Courtrai"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "cinéma",
+    "salles de réunion",
+    "santé"
+  ],
+  "questions": [
+    "Quel résultat ?",
+    "Quelle prévision ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BELGIQUE",
+    "#TECH"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

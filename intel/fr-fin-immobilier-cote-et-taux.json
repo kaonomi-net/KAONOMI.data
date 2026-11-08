@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-immobilier-cote-et-taux",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Immobilier coté et taux",
+  "includedEntities": [
+    {
+      "entityName": "immobilier coté",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "foncières",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "taux",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les foncières cotées face aux taux.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Unibail",
+    "Cofinimmo",
+    "WDP"
+  ],
+  "questions": [
+    "Quel effet des taux ?",
+    "Quelle valorisation ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#IMMOBILIER"
+  ],
+  "events": [],
+  "signals": [
+    "!TENDANCE"
+  ],
+  "isDeleted": false
+}

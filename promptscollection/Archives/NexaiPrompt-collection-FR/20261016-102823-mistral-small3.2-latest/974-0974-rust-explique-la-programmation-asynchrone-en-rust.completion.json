@@ -1,0 +1,13 @@
+{
+  "index": 974,
+  "file": "0974-rust-explique-la-programmation-asynchrone-en-rust.prompt.json",
+  "prompt": "Explique la programmation asynchrone en Rust avec un exemple simple.",
+  "promptWords": 10,
+  "completion": "La programmation asynchrone en Rust permet d'écrire du code qui peut effectuer des opérations longues (comme des requêtes réseau ou des E/S de fichiers) sans bloquer le thread d'exécution. Cela est particulièrement utile pour améliorer les performances des applications concurrentes.\n\n### Concepts clés :\n1. **Futures** : Un `Future` est un objet qui représente une valeur qui peut être calculée à l'avenir. Il est \"pollué\" pour vérifier s'il est prêt.\n2. **Async/Await** : Le mot-clé `async` permet de définir une fonction asynchrone, et `await` permet d'attendre la résolution d'un `Future`.\n3. **Runtime** : Un exécuteur (comme `tokio` ou `async-std`) est nécessaire pour exécuter les `Futures`.\n\n### Exemple simple avec `tokio` :\nVoici un exemple simple d'une fonction asynchrone qui simule une tâche longue (comme une requête réseau) :\n\n1. **Ajoutez `tokio` à votre `Cargo.toml`** :\n```toml\n[dependencies]\ntokio = { version = \"1.0\", features = [\"full\"] }\n```\n\n2. **Code Rust** :\n```rust\nuse tokio::time::{sleep, Duration};\n\nasync fn task(name: &str, duration: u64) {\n    println!(\"Début de la tâche {}\", name);\n    sleep(Duration::from_secs(duration)).await; // Simule une opération longue\n    println!(\"Fin de la tâche {}\", name);\n}\n\n#[tokio::main]\nasync fn main() {\n    // Lance deux tâches asynchrones\n    let task1 = task(\"A\", 2);\n    let task2 = task(\"B\", 1);\n\n    // Attend la résolution des deux tâches\n    tokio::join!(task1, task2);\n}\n```\n\n### Explication :\n- `task` est une fonction asynchrone qui imite une opération longue avec `sleep`.\n- `tokio::main` est un attribut qui transforme `main` en une fonction asynchrone.\n- `tokio::join!` permet d'attendre la résolution de plusieurs `Futures` simultanément.\n\n### Résultat attendu :\n```\nDébut de la tâche A\nDébut de la tâche B\nFin de la tâche B\nFin de la tâche A\n```\n\nLes deux tâches sont exécutées en parallèle, et la tâche `B` (plus courte) se termine avant la tâche `A`.\n\n### Points importants :\n- Les fonctions asynchrones doivent être appelées depuis un contexte asynchrone (comme `main` avec `#[tokio::main]`).\n- `await` ne bloque pas le thread, mais permet à d'autres tâches de s'exécuter.\n\nSi vous avez besoin de plus de détails ou d'un autre exemple, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:57:59.0452032+02:00",
+  "durationSeconds": 12.43,
+  "stats": "mistral-small3.2:latest · 523 + 618 tokens · 12,4 s",
+  "isError": false,
+  "language": "FR"
+}

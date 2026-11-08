@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-course-au-lithium",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Course au lithium",
+  "includedEntities": [
+    {
+      "entityName": "lithium",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "batteries",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'accès au lithium nécessaire aux batteries.",
+  "isFuzzy": true,
+  "locations": [
+    "Chili",
+    "Argentine",
+    "Bolivie",
+    "Australie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "véhicules électriques",
+    "Chine",
+    "mines"
+  ],
+  "questions": [
+    "Quels contrats ?",
+    "Quel prix ?",
+    "Quelle nationalisation ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#MATIERES-PREMIERES",
+    "#LITHIUM"
+  ],
+  "events": [],
+  "signals": [
+    "!DEPENDANCE"
+  ],
+  "isDeleted": false
+}

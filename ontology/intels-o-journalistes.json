@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-journalistes",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "journalistes",
+  "entityType": "PROFESSION",
+  "description": "Cité par 9 intels : Agents de l'étranger ; Liberté de la presse en Ukraine ; Civils détenus par la Russie ; Journalistes tués ou détenus ; Liberté de la presse en France ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre l'extension du statut d'agent de l'étranger en Russie.",
+    "Suivre la situation des médias et du télémarathon unique.",
+    "Suivre les civils ukrainiens détenus en Russie."
+  ],
+  "angryLevel": null,
+  "sadLevel": 11,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "journalistes",
+  "tags": [
+    "#LIBERTES",
+    "#UKRAINE",
+    "#MEDIAS",
+    "#RUSSIE",
+    "#REPRESSION",
+    "#DETENTION"
+  ],
+  "events": [
+    "@SIGNALEMENT",
+    "@REVELATION"
+  ],
+  "signals": [
+    "!VIGILANCE",
+    "!HUMANITAIRE",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "liberté de la presse",
+    "Reporters sans frontières",
+    "Bruxelles",
+    "agent de l'étranger",
+    "ministère de la Justice",
+    "liste",
+    "ONG",
+    "Moscou",
+    "loi martiale",
+    "Kyiv"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

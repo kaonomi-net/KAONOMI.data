@@ -1,0 +1,13 @@
+{
+  "index": 56,
+  "file": "076-physique-comment-se-forme-un-arc-en.prompt.json",
+  "prompt": "Comment se forme un arc-en-ciel ?",
+  "promptWords": 6,
+  "completion": "Un arc-en-ciel se forme lorsque la lumière du soleil traverse des gouttelettes d'eau dans l'atmosphère, généralement après une pluie ou près d'une cascade. Voici les étapes principales de sa formation :\n\n1. **Réflexion et réfraction de la lumière** : Lorsque la lumière du soleil entre dans une goutte d'eau, elle est d'abord réfractée (déviée) en raison de la différence d'indice de réfraction entre l'air et l'eau.\n\n2. **Réflexion interne** : À l'intérieur de la goutte, la lumière est réfléchie sur la paroi interne de la goutte.\n\n3. **Seconde réfraction** : En sortant de la goutte, la lumière est à nouveau réfractée. Cette double réfraction et la réflexion interne séparent la lumière blanche en ses différentes couleurs constitutives (rouge, orange, jaune, vert, bleu, indigo et violet).\n\n4. **Formation de l'arc** : Chaque goutte d'eau agit comme un prisme miniature, dispersant la lumière sous un angle spécifique. L'observateur voit alors un arc coloré dans le ciel, avec le rouge à l'extérieur et le violet à l'intérieur.\n\nPour voir un arc-en-ciel, il faut que le soleil soit derrière l'observateur et que la lumière traverse des gouttelettes d'eau en face de lui. Les arcs-en-ciel sont généralement visibles sous un angle d'environ 42 degrés par rapport à la ligne reliant l'œil de l'observateur au soleil.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:26:45.3978716+02:00",
+  "durationSeconds": 8.49,
+  "stats": "mistral-small3.2:latest · 516 + 318 tokens · 8,5 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ville de l'Union européenne (la géographie européenne) : Luxembourg, capitale de ce pays : Luxembourg.",
+  "id": "eu-ville-luxembourg",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "Luxembourg",
+  "entityType": "CITY",
+  "description": "Luxembourg, capitale de ce pays : Luxembourg.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-villes",
+  "sentencesExemples": [
+    "La réunion s'est tenue à Luxembourg.",
+    "Luxembourg apparaît sur la carte des implantations de l'Union.",
+    "La délégation s'est rendue à Luxembourg."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFD9",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#CITY",
+    "#GEOGRAPHIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Luxembourg"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Luxembourg",
+    "Cour de justice de l'Union européenne",
+    "Cour des comptes européenne",
+    "Banque européenne d'investissement",
+    "Parquet européen",
+    "Eurogroupe",
+    "Centre de traduction des organes de l'Union européenne (CdT)",
+    "Agence d'approvisionnement d'Euratom (AAE)",
+    "Arrêt du Tribunal sur les SMS Pfizer"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

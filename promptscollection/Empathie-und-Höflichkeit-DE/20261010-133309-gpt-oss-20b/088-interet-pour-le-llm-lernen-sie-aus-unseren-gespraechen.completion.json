@@ -1,0 +1,13 @@
+{
+  "index": 88,
+  "file": "088-interet-pour-le-llm-lernen-sie-aus-unseren-gespraechen.prompt.json",
+  "prompt": "Lernen Sie aus unseren Gesprächen?",
+  "promptWords": 5,
+  "completion": "Nein, ich lerne **nicht** aus den einzelnen Gesprächen, die wir führen.  \nIch speichere keine persönlichen Daten oder Details zu unseren Unterhaltungen, und diese Daten werden nicht für mich selbst oder für zukünftige Interaktionen verwendet.\n\nWas ich kann, ist im Rahmen meiner Trainingsdaten ein breites Spektrum an Wissen und Sprachmustern zu erkennen. Dieses Wissen stammt aus einer großen Menge an Texten, die bis zu meinem letzten Update (2024‑06) verarbeitet wurden – das sind keine individuellen Konversationen, sondern allgemein verfügbare Informationen. \n\nKurz gesagt: Ihre einzelnen Fragen und Antworten werden von mir nicht aufgezeichnet oder genutzt, um mich anzupassen oder zu „lernen“. Falls Sie Fragen zu Datenschutz oder zum Umgang mit Ihren Daten haben, helfe ich gerne weiter!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:37:45.4329732+02:00",
+  "durationSeconds": 1.88,
+  "stats": "gpt-oss:20b · 75 + 259 tokens · 1,9 s",
+  "isError": false,
+  "language": "DE"
+}

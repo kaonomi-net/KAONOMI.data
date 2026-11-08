@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-liberte",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'être libre.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:libert[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:libre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lib[ée]r([ée]|[ée]e|[ée]s|[ée]es|ation)|[ée]mancipation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ind[ée]pendance(s)?)(?![\\w-])"
+  ],
+  "symbol": "liberté",
+  "event": null,
+  "title": "Liberté",
+  "tags": [
+    "#PAIX",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

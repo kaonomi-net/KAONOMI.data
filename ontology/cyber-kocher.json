@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (les attaques par canaux auxiliaires) : Cryptographe américain, découvreur des attaques temporelles (1996) et par analyse de consommation, co-concepteur de SSL 3.0 et co-découvreur de Spectre.",
+  "id": "cyber-kocher",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Paul Kocher",
+  "entityType": "PERSON",
+  "description": "Cryptographe américain, découvreur des attaques temporelles (1996) et par analyse de consommation, co-concepteur de SSL 3.0 et co-découvreur de Spectre.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Lors de la conférence, l'oratrice a cité Paul Kocher pour illustrer les progrès des attaques par canaux auxiliaires.",
+    "Une biographie de Paul Kocher rappelle son rôle dans les attaques par canaux auxiliaires.",
+    "Paul Kocher est l'une des figures marquantes des attaques par canaux auxiliaires."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "P. Kocher"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#ATTAQUESPARCANAUXAUXILIAIRES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Paul%20Kocher"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Divulgation de Spectre et Meltdown"
+  ],
+  "isDeleted": false,
+  "startDate": "1973-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la transformation numérique) : Ancien Premier ministre d'Estonie (2005-2014), vice-président chargé du Marché unique numérique de 2014 à 2019.",
+  "id": "eu-p-ansip",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Andrus Ansip",
+  "entityType": "PERSON",
+  "description": "Ancien Premier ministre d'Estonie (2005-2014), vice-président chargé du Marché unique numérique de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les manuels sur les institutions européennes citent Andrus Ansip.",
+    "Le portrait de Andrus Ansip figure dans le dossier consacré à la transformation numérique.",
+    "La presse européenne a longuement commenté le parcours de Andrus Ansip."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Ansip"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#TRANSFORMATIONNUMERIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Andrus%20Ansip"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité estonienne",
+    "Parti de la réforme d'Estonie",
+    "Chef de gouvernement",
+    "Commissaire européen",
+    "Marché unique numérique (Commission Juncker)",
+    "Vice-président de la Commission",
+    "Commission Juncker",
+    "Numérique"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

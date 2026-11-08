@@ -1,0 +1,13 @@
+{
+  "index": 11,
+  "file": "031-cuisine-comment-faire-un-pot-au-feu.prompt.json",
+  "prompt": "Comment faire un pot-au-feu ?",
+  "promptWords": 5,
+  "completion": "Le pot-au-feu est un classique de la cuisine française, réconfortant et savoureux. Voici une recette traditionnelle pour le préparer :\n\n### Ingrédients (pour 6 personnes) :\n- 1,5 kg de viande de bœuf à pot-au-feu (paleron, joue, gîte, etc.)\n- 4 carottes\n- 3 navets\n- 2 poireaux\n- 2 oignons\n- 1 branche de céleri\n- 1 bouquet garni (thym, laurier, persil)\n- 10 grains de poivre\n- 2 clous de girofle\n- Sel\n- Eau\n\n### Ustensiles :\n- Une grande cocotte ou marmite\n- Une passoire\n\n### Préparation :\n\n1. **Préparation de la viande** :\n   - Rincez la viande sous l'eau froide et essuyez-la avec du papier absorbant.\n   - Coupez-la en gros morceaux.\n\n2. **Préparation des légumes** :\n   - Épluchez et lavez les carottes, navets, poireaux et oignons.\n   - Coupez les carottes et les navets en gros tronçons.\n   - Coupez les poireaux en deux dans le sens de la longueur et rincez-les bien.\n   - Piquez les oignons avec les clous de girofle.\n\n3. **Cuisson** :\n   - Placez la viande dans la cocotte et couvrez d'eau froide.\n   - Portez à ébullition, écumez la surface pour enlever les impuretés.\n   - Ajoutez les légumes, le bouquet garni, les grains de poivre et les oignons piqués.\n   - Salez modérément (vous pourrez rectifier à la fin).\n   - Couvrez et laissez mijoter à feu doux pendant environ 3 heures (la viande doit être tendre et se détacher facilement).\n\n4. **Dressage** :\n   - Retirez la viande et les légumes avec une écumoire et disposez-les dans un plat.\n   - Filtrez le bouillon à travers une passoire fine pour enlever les petits débris.\n   - Servez le pot-au-feu bien chaud, accompagné du bouillon dans des bols ou des assiettes creuses.\n\n### Conseils :\n- Vous pouvez ajouter des pommes de terre coupées en deux dans le bouillon pendant les 30 dernières minutes de cuisson.\n- Le pot-au-feu se déguste traditionnellement avec du gros sel, de la moutarde et des cornichons.\n- Les restes de viande et de légumes peuvent être utilisés pour préparer un hachis Parmentier le lendemain.\n\nBon appétit !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:18:26.7648371+02:00",
+  "durationSeconds": 12.46,
+  "stats": "mistral-small3.2:latest · 515 + 589 tokens · 12,5 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-vulnerabilites",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "vulnérabilités",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Cybersécurité et règlement sur la cyberrésilience.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la mise en œuvre du règlement sur la cyberrésilience."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "vulnérabilités",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CYBER",
+    "#REGULATION"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "produits connectés",
+    "fabricants",
+    "cyberrésilience",
+    "Bruxelles",
+    "échéances"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

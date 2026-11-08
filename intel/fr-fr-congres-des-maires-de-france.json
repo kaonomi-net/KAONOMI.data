@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-congres-des-maires-de-france",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Congrès des maires de France",
+  "includedEntities": [
+    {
+      "entityName": "congrès des maires",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "AMF",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le congrès annuel de l'Association des maires de France.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "novembre"
+  ],
+  "relatedEntities": [
+    "David Lisnard",
+    "gouvernement",
+    "dotations"
+  ],
+  "questions": [
+    "Quelles annonces ?",
+    "Quel accueil du gouvernement ?",
+    "Quelles revendications ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#COLLECTIVITES",
+    "#MAIRES"
+  ],
+  "events": [
+    "@CONGRES"
+  ],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

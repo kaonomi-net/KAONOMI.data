@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-feuilles-de-route-d-adhesion",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Feuilles de route d'adhésion",
+  "includedEntities": [
+    {
+      "entityName": "feuille de route",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "adhésion",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les feuilles de route indicatives proposées aux pays les plus avancés.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Monténégro",
+    "Albanie",
+    "Ukraine"
+  ],
+  "questions": [
+    "Quel calendrier ?",
+    "Quelles étapes ?",
+    "Quelle crédibilité ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!ELARGISSEMENT"
+  ],
+  "isDeleted": false
+}

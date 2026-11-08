@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-defi",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "DeFi",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Ether et Ethereum ; Défis dangereux sur les réseaux sociaux.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le cours de l'ether.",
+    "Repérer les défis dangereux viraux chez les jeunes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [
+    "défi"
+  ],
+  "title": "DeFi",
+  "tags": [
+    "#CRYPTO",
+    "#ETHEREUM",
+    "#PSYCHOLOGIE",
+    "#ADOLESCENTS",
+    "#RESEAUX-SOCIAUX"
+  ],
+  "events": [
+    "@ALERTE"
+  ],
+  "signals": [
+    "!VOLATILITE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "mises à jour",
+    "ETF",
+    "ether",
+    "Ethereum",
+    "plateformes",
+    "dangereux",
+    "prévention",
+    "TikTok",
+    "accidents"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

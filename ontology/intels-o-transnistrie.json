@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-transnistrie",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "Transnistrie",
+  "entityType": "LOCATION",
+  "description": "Cité par 4 intels : Moldavie et pressions russes ; Transit du gaz par l'Ukraine ; Moldavie et Transnistrie ; Adhésion de la Moldavie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les pressions russes sur la Moldavie.",
+    "Suivre la fin du transit de gaz russe par l'Ukraine et ses conséquences.",
+    "Surveiller les tensions autour de la Moldavie et de la région séparatiste de Transnistrie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Transnistrie",
+  "tags": [
+    "#MOLDAVIE",
+    "#RUSSIE",
+    "#INGERENCE",
+    "#ENERGIE",
+    "#GAZ",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@CONFERENCE-ADHESION"
+  ],
+  "signals": [
+    "!INGERENCE",
+    "!TENSION-ENERGETIQUE",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chișinău",
+    "Moldavie",
+    "Russie",
+    "Maia Sandu",
+    "ingérence",
+    "Gagaouzie",
+    "énergie",
+    "TurkStream",
+    "Ukraine",
+    "Slovaquie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

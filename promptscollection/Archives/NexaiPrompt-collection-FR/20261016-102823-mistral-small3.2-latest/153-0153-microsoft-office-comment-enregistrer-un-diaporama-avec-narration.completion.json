@@ -1,0 +1,13 @@
+{
+  "index": 153,
+  "file": "0153-microsoft-office-comment-enregistrer-un-diaporama-avec-narration.prompt.json",
+  "prompt": "Comment enregistrer un diaporama avec narration dans PowerPoint ?",
+  "promptWords": 9,
+  "completion": "Pour enregistrer un diaporama avec narration dans PowerPoint, suivez ces étapes :\n\n1. **Préparez votre diaporama** : Assurez-vous que toutes vos diapositives sont prêtes et dans l'ordre souhaité.\n\n2. **Ouvrez l'onglet \"Diaporama\"** :\n   - Allez dans l'onglet **\"Diaporama\"** dans le ruban en haut de l'écran.\n\n3. **Cliquez sur \"Enregistrer le diaporama\"** :\n   - Dans le groupe **\"Enregistrer le diaporama\"**, cliquez sur **\"Enregistrer le diaporama\"**.\n\n4. **Configurez les paramètres d'enregistrement** :\n   - Une fenêtre s'ouvre avec plusieurs options :\n     - **Diapositives** : Choisissez si vous voulez enregistrer toutes les diapositives ou une sélection.\n     - **Temps** : Vous pouvez choisir de définir un temps personnalisé pour chaque diapositive.\n     - **Narration et animation** : Cochez cette option pour inclure votre voix et les animations.\n     - **Enregistrer le diaporama dans un fichier** : Cochez cette option pour enregistrer le diaporama avec la narration.\n\n5. **Commencez l'enregistrement** :\n   - Cliquez sur **\"Enregistrer\"** pour commencer.\n   - PowerPoint passera en mode diaporama et vous pourrez commencer à parler.\n   - Vous pouvez avancer manuellement les diapositives ou laisser PowerPoint les avancer automatiquement si vous avez défini un temps.\n\n6. **Terminez l'enregistrement** :\n   - Une fois terminé, cliquez sur **\"Terminer l'enregistrement\"** dans la barre d'outils en haut de l'écran.\n\n7. **Enregistrez votre présentation** :\n   - PowerPoint enregistrera la narration avec le diaporama. Vous pouvez ensuite enregistrer votre présentation comme d'habitude (Fichier > Enregistrer ou Enregistrer sous).\n\nVotre diaporama est maintenant enregistré avec la narration. Vous pouvez le lire en mode diaporama pour vérifier que tout est correct.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:56:24.9102019+02:00",
+  "durationSeconds": 9.26,
+  "stats": "mistral-small3.2:latest · 520 + 452 tokens · 9,3 s",
+  "isError": false,
+  "language": "FR"
+}

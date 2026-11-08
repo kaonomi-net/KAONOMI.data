@@ -1,0 +1,13 @@
+{
+  "index": 75,
+  "file": "075-interet-pour-le-llm-do-you-have-friends.prompt.json",
+  "prompt": "Do you have friends?",
+  "promptWords": 4,
+  "completion": "I don't have friends in the way humans do, but I'm here to chat with you and provide helpful information whenever you need it! How can I assist you today?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:04:48.559653+02:00",
+  "durationSeconds": 0.95,
+  "stats": "mistral-small3.2:latest · 512 + 36 tokens · 0,9 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-patriotes-pour-l-europe",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Patriotes pour l'Europe",
+  "includedEntities": [
+    {
+      "entityName": "Patriotes pour l'Europe",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "groupe",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action du groupe Patriotes pour l'Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Jordan Bardella",
+    "Fidesz",
+    "censure"
+  ],
+  "questions": [
+    "Quelle initiative ?",
+    "Quelle motion ?",
+    "Quelle alliance ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#PATRIOTES"
+  ],
+  "events": [],
+  "signals": [
+    "!OPPOSITION"
+  ],
+  "isDeleted": false
+}

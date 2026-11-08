@@ -1,0 +1,13 @@
+{
+  "index": 77,
+  "file": "097-mathematiques-qu-est-ce-qu-une-fonction.prompt.json",
+  "prompt": "Qu'est-ce qu'une fonction exponentielle ?",
+  "promptWords": 5,
+  "completion": "Une fonction exponentielle est une fonction mathématique de la forme \\( f(x) = a^x \\), où \\( a \\) est une constante positive différente de 1, et \\( x \\) est la variable.\n\n### Caractéristiques principales :\n1. **Base \\( a \\)** : La base \\( a \\) doit être strictement positive (\\( a > 0 \\)) et différente de 1 (\\( a \\neq 1 \\)). Les bases les plus couramment utilisées sont \\( e \\) (environ 2,718, appelé nombre d'Euler) et 10.\n2. **Croissance/Decroissance** :\n   - Si \\( a > 1 \\), la fonction est strictement croissante.\n   - Si \\( 0 < a < 1 \\), la fonction est strictement décroissante.\n3. **Propriétés** :\n   - \\( f(0) = a^0 = 1 \\) pour tout \\( a > 0 \\).\n   - La dérivée de \\( f(x) = a^x \\) est \\( f'(x) = a^x \\ln(a) \\).\n   - La primitive de \\( f(x) = a^x \\) est \\( F(x) = \\frac{a^x}{\\ln(a)} + C \\), où \\( C \\) est une constante.\n\n### Exemples :\n- \\( f(x) = e^x \\) (fonction exponentielle naturelle).\n- \\( f(x) = 2^x \\) (croissance exponentielle).\n- \\( f(x) = 0.5^x \\) (décroissance exponentielle).\n\nLes fonctions exponentielles sont largement utilisées en mathématiques, en physique, en biologie, en économie, et dans de nombreux autres domaines pour modéliser des phénomènes de croissance ou de décroissance rapide.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:30:06.0501849+02:00",
+  "durationSeconds": 8.94,
+  "stats": "mistral-small3.2:latest · 516 + 378 tokens · 8,9 s",
+  "isError": false,
+  "language": "FR"
+}

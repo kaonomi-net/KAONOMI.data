@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-fonds",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "fonds",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 10 intels : État de droit dans l'Union européenne ; Flux vers les actions européennes ; Retraits de la cote à Bruxelles ; Épargne-pension belge ; Fonds de défense et épargne ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre les procédures européennes sur le respect de l'État de droit.",
+    "Suivre les flux de capitaux vers ou hors des actions européennes.",
+    "Repérer les offres publiques qui retirent des sociétés de la Bourse de Bruxelles."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "fonds",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#FINANCE",
+    "#BOURSE",
+    "#BELGIQUE",
+    "#EPARGNE",
+    "#GEOPOLITIQUE"
+  ],
+  "events": [
+    "@OFFRE",
+    "@FUSION"
+  ],
+  "signals": [
+    "!TENDANCE",
+    "!RISQUE",
+    "!GOUVERNANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Europe",
+    "investisseurs",
+    "startups",
+    "État de droit",
+    "justice",
+    "Commission européenne",
+    "article 7",
+    "Hongrie",
+    "Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

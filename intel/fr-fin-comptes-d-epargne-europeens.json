@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-comptes-d-epargne-europeens",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Comptes d'épargne européens",
+  "includedEntities": [
+    {
+      "entityName": "compte d'épargne européen",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "union de l'épargne",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet de comptes d'épargne et d'investissement européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Commission",
+    "fiscalité",
+    "marchés de capitaux"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quel avantage ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#EPARGNE",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

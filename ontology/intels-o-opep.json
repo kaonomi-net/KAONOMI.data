@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-opep",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "OPEP",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Décision de l'OPEP+ ; Prix du pétrole et géopolitique ; OPEP+ et production pétrolière.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les décisions de production des pays exportateurs de pétrole.",
+    "Suivre les variations du prix du pétrole liées aux crises.",
+    "Suivre les décisions de production de l'OPEP+."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "OPEP",
+  "tags": [
+    "#ENERGIE",
+    "#GEOPOLITIQUE",
+    "#OPEP",
+    "#PETROLE"
+  ],
+  "events": [
+    "@DECISION-OPEP",
+    "@DECISION"
+  ],
+  "signals": [
+    "!PRIX-ENERGIE",
+    "!PRIX"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Vienne",
+    "production",
+    "Arabie saoudite",
+    "pétrole",
+    "quotas",
+    "Russie",
+    "Riyad",
+    "Moyen-Orient",
+    "Brent",
+    "prix"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

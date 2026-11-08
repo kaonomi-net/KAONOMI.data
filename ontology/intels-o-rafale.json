@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-rafale",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "Rafale",
+  "entityType": "HARDWARE",
+  "description": "Cité par 3 intels : Ventes d'armes ; Ventes d'armes françaises ; Dassault Aviation.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre les grands contrats d'armement.",
+    "Suivre les contrats d'armement français à l'export.",
+    "Suivre l'action Dassault Aviation et les commandes de Rafale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Rafale",
+  "tags": [
+    "#DEFENSE",
+    "#GEOPOLITIQUE",
+    "#ARMEMENT",
+    "#FRANCE",
+    "#EXPORT",
+    "#BOURSE"
+  ],
+  "events": [
+    "@CONTRAT-ARMEMENT"
+  ],
+  "signals": [
+    "!COMMERCE-ARMES",
+    "!COMMANDE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "contrat",
+    "ventes d'armes",
+    "exportations",
+    "industrie de défense",
+    "Inde",
+    "Indonésie",
+    "Dassault",
+    "SCAF",
+    "Saint-Cloud",
+    "Dassault Aviation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

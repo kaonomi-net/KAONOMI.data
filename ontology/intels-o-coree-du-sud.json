@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-coree-du-sud",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "Corée du Sud",
+  "entityType": "COUNTRY",
+  "description": "Cité par 2 intels : Artillerie et obus de 155 mm ; Tirs de missiles nord-coréens.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre la consommation et l'approvisionnement en obus d'artillerie.",
+    "Surveiller les essais et tirs de missiles de la Corée du Nord."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Corée du Sud",
+  "tags": [
+    "#UKRAINE",
+    "#ARTILLERIE",
+    "#MUNITIONS",
+    "#GEOPOLITIQUE",
+    "#COREE-DU-NORD",
+    "#MISSILES"
+  ],
+  "events": [
+    "@TIR-MISSILE"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "155 mm",
+    "Europe",
+    "artillerie",
+    "obus",
+    "États-Unis",
+    "missile",
+    "Corée du Nord",
+    "Kim Jong-un",
+    "Japon",
+    "Pyongyang"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

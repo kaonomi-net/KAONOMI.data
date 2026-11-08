@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-devsecops",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "DevSecOps",
+  "includedEntities": [
+    {
+      "entityName": "DevSecOps",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sécurité du code",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'intégration de la sécurité dans le développement logiciel.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "SBOM",
+    "analyse de code",
+    "dépendances"
+  ],
+  "questions": [
+    "Quelle pratique ?",
+    "Quel outil ?",
+    "Quelle obligation ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DEVSECOPS",
+    "#APPSEC"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

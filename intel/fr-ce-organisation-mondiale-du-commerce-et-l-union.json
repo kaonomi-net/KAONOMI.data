@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-organisation-mondiale-du-commerce-et-l-union",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Organisation mondiale du commerce et l'Union",
+  "includedEntities": [
+    {
+      "entityName": "OMC",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la position européenne à l'OMC et la réforme du système commercial.",
+  "isFuzzy": true,
+  "locations": [
+    "Genève"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "organe d'appel",
+    "arrangement provisoire",
+    "États-Unis"
+  ],
+  "questions": [
+    "Quelle initiative ?",
+    "Quel différend ?",
+    "Quelle réforme ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#OMC"
+  ],
+  "events": [],
+  "signals": [
+    "!COMMERCE"
+  ],
+  "isDeleted": false
+}

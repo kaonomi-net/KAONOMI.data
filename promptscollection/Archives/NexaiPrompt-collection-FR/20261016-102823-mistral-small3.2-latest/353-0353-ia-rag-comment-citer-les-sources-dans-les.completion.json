@@ -1,0 +1,13 @@
+{
+  "index": 353,
+  "file": "0353-ia-rag-comment-citer-les-sources-dans-les.prompt.json",
+  "prompt": "Comment citer les sources dans les réponses d'un RAG ?",
+  "promptWords": 10,
+  "completion": "Pour citer les sources dans les réponses d'un système de RAG (Retrieval-Augmented Generation), voici quelques bonnes pratiques à suivre :\n\n1. **Attribution claire** :\n   - Mentionnez explicitement la source d'où provient l'information. Par exemple : *\"Selon [Nom de la source], ...\"*.\n\n2. **Liens hypertextes** (si disponible) :\n   - Si vous avez accès à l'URL de la source, incluez-la dans la réponse. Cela permet aux utilisateurs de vérifier directement l'information.\n\n3. **Format standardisé** :\n   - Utilisez un format de citation reconnu (APA, MLA, Chicago, etc.) si cela est pertinent pour le contexte.\n\n4. **Transparence** :\n   - Indiquez si l'information a été générée par le modèle ou extraite d'une source externe.\n\n5. **Contexte** :\n   - Fournissez suffisamment de détails pour que l'utilisateur comprenne pourquoi cette source est pertinente.\n\nExemple de réponse avec citation :\n*\"D'après l'Organisation Mondiale de la Santé (OMS), les mesures de prévention contre les maladies infectieuses incluent le lavage fréquent des mains et le port du masque. (Source : [Lien vers le site de l'OMS])\"*\n\nSi vous utilisez un système RAG, assurez-vous que le module de récupération d'informations (retriever) est configuré pour extraire et citer correctement les sources.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:29:35.962318+02:00",
+  "durationSeconds": 6.46,
+  "stats": "mistral-small3.2:latest · 520 + 314 tokens · 6,5 s",
+  "isError": false,
+  "language": "FR"
+}

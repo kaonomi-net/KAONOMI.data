@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-grande-cause-nationale",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "grande cause nationale",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 1 intel : Santé mentale grande cause nationale 2026.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre les actions de la santé mentale, grande cause nationale prolongée en 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "grande cause nationale",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SANTE-MENTALE",
+    "#FRANCE"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "campagnes",
+    "associations",
+    "santé mentale",
+    "France",
+    "gouvernement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

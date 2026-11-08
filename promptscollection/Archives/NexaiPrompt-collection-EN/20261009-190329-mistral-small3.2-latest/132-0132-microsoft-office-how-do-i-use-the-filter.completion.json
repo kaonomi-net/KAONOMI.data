@@ -1,0 +1,13 @@
+{
+  "index": 132,
+  "file": "0132-microsoft-office-how-do-i-use-the-filter.prompt.json",
+  "prompt": "How do I use the FILTER function in Excel?",
+  "promptWords": 9,
+  "completion": "The FILTER function in Excel is used to filter a range of data based on specified criteria. Here’s how you can use it:\n\n### Syntax:\n```excel\nFILTER(array, include, [if_empty])\n```\n\n### Parameters:\n- **array**: The range of data you want to filter.\n- **include**: The condition that specifies which rows to include in the filtered results. This can be a single condition or an array of conditions.\n- **if_empty** (optional): The value to return if no data is found. If omitted, a #CALC! error is returned.\n\n### Examples:\n\n1. **Basic Filtering**:\n   - Suppose you have a list of names in column A (A2:A10) and you want to filter names that start with \"A\".\n   - Formula:\n     ```excel\n     =FILTER(A2:A10, A2:A10=\"A*\")\n     ```\n\n2. **Filtering with Multiple Criteria**:\n   - Suppose you have a table with columns for \"Name\" (A2:A10), \"Age\" (B2:B10), and you want to filter names of people who are older than 30.\n   - Formula:\n     ```excel\n     =FILTER(A2:A10, B2:B10>30)\n     ```\n\n3. **Filtering with a Spill Range**:\n   - If you want to filter multiple columns based on a condition in one column.\n   - Suppose you have a table with \"Name\" (A2:A10) and \"Age\" (B2:B10), and you want to filter all columns where the age is greater than 30.\n   - Formula:\n     ```excel\n     =FILTER(A2:B10, B2:B10>30)\n     ```\n\n4. **Using the if_empty Parameter**:\n   - If you want to return a custom message when no data is found.\n   - Formula:\n     ```excel\n     =FILTER(A2:A10, A2:A10=\"X\", \"No data found\")\n     ```\n\n### Notes:\n- The FILTER function is available in Excel 365 and Excel 2021.\n- The `include` argument can be a single condition, an array of conditions, or a reference to a range of cells containing conditions.\n- The `if_empty` argument is optional and can be any value you want to display when no data matches the criteria.\n\nWould you like more specific examples or help with a particular scenario?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:27:50.0820728+02:00",
+  "durationSeconds": 13.08,
+  "stats": "mistral-small3.2:latest · 517 + 534 tokens · 13,1 s",
+  "isError": false,
+  "language": "EN"
+}

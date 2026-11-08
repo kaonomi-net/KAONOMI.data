@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptographie) : Cryptographe américain du MIT, co-inventeur de RSA (1977), auteur de MD5 et de RC4.",
+  "id": "cyber-rivest",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Ron Rivest",
+  "entityType": "PERSON",
+  "description": "Cryptographe américain du MIT, co-inventeur de RSA (1977), auteur de MD5 et de RC4. Prix Turing 2002.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Ron Rivest.",
+    "Les étudiants lisent les travaux de Ron Rivest pour comprendre la cryptographie.",
+    "Sans Ron Rivest, l'histoire de la cryptographie aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Ronald Rivest"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTOGRAPHIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ron%20Rivest"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "RSA",
+    "MD5",
+    "RC4"
+  ],
+  "isDeleted": false,
+  "startDate": "1947-05-06T00:00:00",
+  "endDate": null
+}

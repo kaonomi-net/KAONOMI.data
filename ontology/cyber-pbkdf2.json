@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (le stockage des mots de passe) : Fonction de dérivation de clé à partir d'un mot de passe par itérations de HMAC, publiée dans le RFC 2898.",
+  "id": "cyber-pbkdf2",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "PBKDF2",
+  "entityType": "ALGORITHM",
+  "description": "Fonction de dérivation de clé à partir d'un mot de passe par itérations de HMAC, publiée dans le RFC 2898.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "PBKDF2 est enseigné dans tous les cours consacrés au stockage des mots de passe.",
+    "L'audit vérifie que PBKDF2 est utilisé correctement.",
+    "La chercheuse a présenté une analyse de PBKDF2 lors du séminaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "Password-Based Key Derivation Function 2"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#STOCKAGEMOTSPASSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=PBKDF2"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "HMAC"
+  ],
+  "isDeleted": false,
+  "startDate": "2000-01-01T00:00:00",
+  "endDate": null
+}

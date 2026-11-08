@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-mutualites-et-sante-mentale",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Mutualités et santé mentale",
+  "includedEntities": [
+    {
+      "entityName": "mutualités",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études des mutualités belges sur la santé mentale.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Mutualités libres",
+    "Solidaris",
+    "incapacités"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel constat ?",
+    "Quelle recommandation ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BELGIQUE",
+    "#MUTUALITES"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

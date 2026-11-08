@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-reprise-de-localites-par-l-armee-ukrainienne",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Reprise de localités par l'armée ukrainienne",
+  "includedEntities": [
+    {
+      "entityName": "contre-attaque",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "libération",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "armée ukrainienne",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les localités reprises par les forces ukrainiennes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "état-major",
+    "brigades",
+    "vidéos géolocalisées"
+  ],
+  "questions": [
+    "Quelle localité ?",
+    "Est-ce confirmé ?",
+    "Quelle importance ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#FRONT",
+    "#CONTRE-OFFENSIVE"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!CONTRE-OFFENSIVE"
+  ],
+  "isDeleted": false
+}

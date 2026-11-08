@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-hiver-et-chauffage-en-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Hiver et chauffage en Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "hiver",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "chauffage",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les risques liés au froid pour la population.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv",
+    "Kharkiv"
+  ],
+  "times": [
+    "hiver"
+  ],
+  "relatedEntities": [
+    "coupures",
+    "points d'invincibilité",
+    "générateurs"
+  ],
+  "questions": [
+    "Quelle situation du chauffage ?",
+    "Quels quartiers privés ?",
+    "Quelle aide ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#HUMANITAIRE",
+    "#ENERGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

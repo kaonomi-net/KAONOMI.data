@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne des attentats de Bruxelles de 2016 (la cellule terroriste) : Kamikaze qui s'est fait exploser à l'aéroport de Bruxelles-National.",
+  "id": "be2016-najim-laachraoui",
+  "dateCreated": "2026-10-31 19:28:40",
+  "name": "Najim Laachraoui",
+  "entityType": "PERSON",
+  "description": "Kamikaze qui s'est fait exploser à l'aéroport de Bruxelles-National. Les enquêteurs le considèrent comme l'artificier de la cellule : son ADN a été retrouvé sur des explosifs liés aux attentats de Paris.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-personnes",
+  "sentencesExemples": [
+    "Le dossier documentaire consacré aux attentats comporte une fiche sur Najim Laachraoui.",
+    "Les comptes rendus de l'époque évoquent Najim Laachraoui à plusieurs reprises.",
+    "Les journalistes ont retracé le rôle de Najim Laachraoui dans la cellule terroriste."
+  ],
+  "angryLevel": 4,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 1,
+  "disgustLevel": 4,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "N. Laachraoui"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#PERSON",
+    "#CELLULETERRORISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Najim%20Laachraoui"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Attentat de l'aéroport de Bruxelles-National",
+    "Cellule terroriste Paris-Bruxelles",
+    "Attentats du 13 novembre 2015",
+    "Image de vidéosurveillance de l'aéroport"
+  ],
+  "isDeleted": false,
+  "startDate": "1991-01-01T00:00:00",
+  "endDate": "2016-03-22T00:00:00"
+}

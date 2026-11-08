@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-eglise-orthodoxe-liee-a-moscou-en-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Église orthodoxe liée à Moscou en Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "Église orthodoxe",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "interdiction",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Moscou",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les mesures contre l'Église liée au patriarcat de Moscou.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv",
+    "Laure de Kyiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "loi",
+    "Église orthodoxe d'Ukraine",
+    "patriarche Kirill"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quelles paroisses ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RELIGION",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

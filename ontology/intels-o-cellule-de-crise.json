@@ -1,0 +1,47 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cellule-de-crise",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "cellule de crise",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Gestion de crise cyber.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre la gestion de crise après une cyberattaque."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "cellule de crise",
+  "tags": [
+    "#CYBERSECURITE",
+    "#CRISE"
+  ],
+  "events": [],
+  "signals": [
+    "!RESILIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "reprise",
+    "communication",
+    "cyberattaque",
+    "gestion de crise"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

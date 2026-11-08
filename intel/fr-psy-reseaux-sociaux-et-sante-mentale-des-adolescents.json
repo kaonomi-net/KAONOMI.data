@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-reseaux-sociaux-et-sante-mentale-des-adolescents",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Réseaux sociaux et santé mentale des adolescents",
+  "includedEntities": [
+    {
+      "entityName": "réseaux sociaux",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "adolescents",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études et débats sur les réseaux sociaux et le mal-être des adolescents.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "TikTok",
+    "Instagram",
+    "Jonathan Haidt"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel lien ?",
+    "Quel débat ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADOLESCENTS",
+    "#RESEAUX-SOCIAUX"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

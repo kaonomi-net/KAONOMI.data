@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-cadeau",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un présent offert.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cadeau(x)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pr[ée]sent(s)?\\s+offert(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:offr(ir|e|ent|ait)\\s+(un|des)\\s+cadeau(x)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:surprise(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]trenne(s)?)(?![\\w-])"
+  ],
+  "symbol": "cadeau",
+  "event": null,
+  "title": "Cadeau",
+  "tags": [
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

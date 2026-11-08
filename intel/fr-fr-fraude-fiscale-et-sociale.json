@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-fraude-fiscale-et-sociale",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Fraude fiscale et sociale",
+  "includedEntities": [
+    {
+      "entityName": "fraude",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "fiscale",
+      "entityWeight": "25"
+    },
+    {
+      "entityName": "sociale",
+      "entityWeight": "25"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les mesures de lutte contre la fraude dans le budget.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "contrôles",
+    "rendement",
+    "projet de loi"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel rendement attendu ?",
+    "Quels résultats ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#FRAUDE"
+  ],
+  "events": [],
+  "signals": [
+    "!BUDGET"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-accord-ue-mercosur",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Accord UE-Mercosur",
+  "includedEntities": [
+    {
+      "entityName": "Mercosur",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "accord",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'accord commercial entre l'Union européenne et le Mercosur, signé à Asunción.",
+  "isFuzzy": true,
+  "locations": [
+    "Asunción",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "agriculteurs",
+    "France",
+    "Cour de justice"
+  ],
+  "questions": [
+    "Où en est la ratification ?",
+    "Quelle application provisoire ?",
+    "Quelle mobilisation agricole ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#MERCOSUR"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION-COMMERCIALE"
+  ],
+  "isDeleted": false
+}

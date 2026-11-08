@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-banques-belges-et-epargne",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Banques belges et épargne",
+  "includedEntities": [
+    {
+      "entityName": "banques belges",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "comptes d'épargne",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la rémunération de l'épargne par les banques belges.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "taux",
+    "bon d'État",
+    "KBC"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quelle hausse ?",
+    "Quelle critique ?"
+  ],
+  "tags": [
+    "#BELGIQUE",
+    "#BANQUES",
+    "#EPARGNE"
+  ],
+  "events": [],
+  "signals": [
+    "!EPARGNE"
+  ],
+  "isDeleted": false
+}

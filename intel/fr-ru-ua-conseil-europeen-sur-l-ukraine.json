@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-conseil-europeen-sur-l-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Conseil européen sur l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "Conseil européen",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "sommet",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les conclusions des sommets européens sur l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "dates des sommets"
+  ],
+  "relatedEntities": [
+    "António Costa",
+    "Ursula von der Leyen",
+    "Zelensky"
+  ],
+  "questions": [
+    "Quelles conclusions ?",
+    "Quels désaccords ?",
+    "Quels financements ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#UKRAINE",
+    "#SOMMET"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

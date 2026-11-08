@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-philippines-et-chine",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Philippines et Chine",
+  "includedEntities": [
+    {
+      "entityName": "Philippines",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "garde-côtes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les confrontations entre les Philippines et la Chine.",
+  "isFuzzy": true,
+  "locations": [
+    "Second Thomas Shoal",
+    "Manille"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "États-Unis",
+    "traité de défense",
+    "canons à eau"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quel soutien américain ?",
+    "Quelle escalade ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#PHILIPPINES",
+    "#CHINE",
+    "#MARITIME"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

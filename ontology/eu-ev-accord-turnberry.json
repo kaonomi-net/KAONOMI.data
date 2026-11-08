@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la politique commerciale) : Accord politique conclu en Écosse prévoyant un droit de douane américain de 15 % sur la plupart des produits européens.",
+  "id": "eu-ev-accord-turnberry",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Accord commercial UE–États-Unis de Turnberry",
+  "entityType": "EVENT",
+  "description": "Accord politique conclu en Écosse prévoyant un droit de douane américain de 15 % sur la plupart des produits européens.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les archives audiovisuelles de la Commission conservent des images de « Accord commercial UE–États-Unis de Turnberry ».",
+    "La presse européenne a largement couvert « Accord commercial UE–États-Unis de Turnberry ».",
+    "« Accord commercial UE–États-Unis de Turnberry » concerne la politique commerciale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#POLITIQUECOMMERCIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Accord%20commercial%20UE%E2%80%93%C3%89tats-Unis%20de%20Turnberry"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commerce",
+    "Ursula von der Leyen",
+    "Maroš Šefčovič",
+    "Commission von der Leyen II",
+    "Turnberry",
+    "Direction générale du commerce et de la sécurité économique"
+  ],
+  "isDeleted": false,
+  "startDate": "2025-07-27T00:00:00",
+  "endDate": null
+}

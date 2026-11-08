@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-rapport-sur-l-etat-de-droit",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Rapport sur l'État de droit",
+  "includedEntities": [
+    {
+      "entityName": "rapport sur l'État de droit",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Commission",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rapport annuel de la Commission sur l'État de droit.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "juillet"
+  ],
+  "relatedEntities": [
+    "justice",
+    "corruption",
+    "médias"
+  ],
+  "questions": [
+    "Quels pays épinglés ?",
+    "Quelles recommandations ?",
+    "Quelles réactions ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ETAT-DE-DROIT",
+    "#RAPPORT"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

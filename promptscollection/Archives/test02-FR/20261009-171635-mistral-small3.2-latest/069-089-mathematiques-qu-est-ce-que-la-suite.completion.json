@@ -1,0 +1,13 @@
+{
+  "index": 69,
+  "file": "089-mathematiques-qu-est-ce-que-la-suite.prompt.json",
+  "prompt": "Qu'est-ce que la suite de Fibonacci ?",
+  "promptWords": 7,
+  "completion": "La suite de Fibonacci est une séquence de nombres entiers dans laquelle chaque nombre est la somme des deux nombres qui le précèdent. Elle commence généralement par 0 et 1, bien que certaines définitions commencent par 1 et 1. Voici les premiers termes de la suite :\n\n0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ...\n\nLa suite est définie par la relation de récurrence suivante :\n\\[ F(n) = F(n-1) + F(n-2) \\]\navec les conditions initiales :\n\\[ F(0) = 0 \\]\n\\[ F(1) = 1 \\]\n\nCette suite a été décrite pour la première fois par le mathématicien italien Leonardo Fibonacci au XIIIe siècle dans son livre *Liber Abaci*. Elle apparaît dans de nombreux domaines des mathématiques, comme la géométrie, l'analyse, et la combinatoire, mais aussi dans la nature, comme dans la disposition des feuilles sur une tige ou la structure des coquillages.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:28:48.8995116+02:00",
+  "durationSeconds": 6.14,
+  "stats": "mistral-small3.2:latest · 517 + 237 tokens · 6,1 s",
+  "isError": false,
+  "language": "FR"
+}

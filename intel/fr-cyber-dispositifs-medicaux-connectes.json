@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-dispositifs-medicaux-connectes",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Dispositifs médicaux connectés",
+  "includedEntities": [
+    {
+      "entityName": "dispositifs médicaux",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "vulnérabilité",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les failles des dispositifs médicaux connectés.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "pompes",
+    "moniteurs",
+    "fabricants"
+  ],
+  "questions": [
+    "Quel dispositif ?",
+    "Quelle faille ?",
+    "Quel correctif ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SANTE",
+    "#OT"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

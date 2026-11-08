@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-bitcoin",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Bitcoin",
+  "includedEntities": [
+    {
+      "entityName": "Bitcoin",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "cours",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le cours du bitcoin.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ETF",
+    "volatilité",
+    "régulation"
+  ],
+  "questions": [
+    "Quel prix ?",
+    "Quelle variation ?",
+    "Quelle cause ?"
+  ],
+  "tags": [
+    "#CRYPTO",
+    "#BITCOIN"
+  ],
+  "events": [],
+  "signals": [
+    "!VOLATILITE"
+  ],
+  "isDeleted": false
+}

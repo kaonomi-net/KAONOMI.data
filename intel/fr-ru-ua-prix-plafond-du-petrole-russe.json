@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-prix-plafond-du-petrole-russe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Prix plafond du pétrole russe",
+  "includedEntities": [
+    {
+      "entityName": "prix plafond",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "pétrole russe",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le plafonnement du prix du pétrole russe par le G7 et l'Union européenne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "G7",
+    "Union européenne",
+    "Oural"
+  ],
+  "questions": [
+    "Quel plafond ?",
+    "Est-il respecté ?",
+    "Quel prix réel ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#SANCTIONS",
+    "#PETROLE"
+  ],
+  "events": [
+    "@SANCTION"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE"
+  ],
+  "isDeleted": false
+}

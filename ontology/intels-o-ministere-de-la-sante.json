@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ministere-de-la-sante",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "ministère de la Santé",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Feuille de route santé mentale et psychiatrie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre la feuille de route gouvernementale en santé mentale et psychiatrie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "ministère de la Santé",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SANTE-MENTALE",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "feuille de route",
+    "financement",
+    "santé mentale",
+    "France",
+    "mesures"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

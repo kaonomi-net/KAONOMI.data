@@ -1,0 +1,13 @@
+{
+  "index": 5,
+  "file": "005-politesse-verzeihung-ich-glaube-ich-habe-mich.prompt.json",
+  "prompt": "Verzeihung, ich glaube, ich habe mich vorhin schlecht ausgedrückt.",
+  "promptWords": 9,
+  "completion": "Kein Problem! Wie kann ich Ihnen heute helfen? Bitte geben Sie mir mehr Details oder stellen Sie Ihre Frage noch einmal, damit ich Ihnen bestmöglich weiterhelfen kann.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:07:06.5528746+02:00",
+  "durationSeconds": 0.98,
+  "stats": "mistral-small3.2:latest · 524 + 38 tokens · 1,0 s",
+  "isError": false,
+  "language": "DE"
+}

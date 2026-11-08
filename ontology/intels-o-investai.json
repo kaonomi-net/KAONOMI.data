@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-investai",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "InvestAI",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Accélération du déploiement de l'IA.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le plan européen pour accélérer l'IA et les gigafactories d'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "InvestAI",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#IA",
+    "#INVESTISSEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "supercalculateurs",
+    "déploiement de l'IA",
+    "gigafactories",
+    "IA",
+    "startups"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

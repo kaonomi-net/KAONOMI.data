@@ -1,0 +1,13 @@
+{
+  "index": 633,
+  "file": "0633-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre les dictionnaires.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en Python qui illustre l'utilisation des dictionnaires :\n\n```python\n# Création d'un dictionnaire\netudiant = {\n    \"nom\": \"Dupont\",\n    \"age\": 20,\n    \"cours\": [\"Mathématiques\", \"Physique\", \"Informatique\"],\n    \"moyenne\": 15.5\n}\n\n# Accès aux éléments du dictionnaire\nprint(\"Nom de l'étudiant:\", etudiant[\"nom\"])\nprint(\"Âge de l'étudiant:\", etudiant[\"age\"])\nprint(\"Cours suivis:\", etudiant[\"cours\"])\nprint(\"Moyenne:\", etudiant[\"moyenne\"])\n\n# Ajout d'une nouvelle clé-valeur\netudiant[\"ville\"] = \"Paris\"\nprint(\"\\nAprès ajout de la ville:\")\nprint(etudiant)\n\n# Modification d'une valeur existante\netudiant[\"age\"] = 21\nprint(\"\\nAprès modification de l'âge:\")\nprint(etudiant)\n\n# Suppression d'une clé\ndel etudiant[\"moyenne\"]\nprint(\"\\nAprès suppression de la moyenne:\")\nprint(etudiant)\n\n# Parcours des clés et valeurs\nprint(\"\\nParcours du dictionnaire:\")\nfor cle, valeur in etudiant.items():\n    print(f\"{cle}: {valeur}\")\n\n# Vérification de l'existence d'une clé\nif \"nom\" in etudiant:\n    print(\"\\nLa clé 'nom' existe dans le dictionnaire.\")\n```\n\nCe code montre comment :\n1. Créer un dictionnaire\n2. Accéder aux éléments\n3. Ajouter une nouvelle clé-valeur\n4. Modifier une valeur existante\n5. Supprimer une clé\n6. Parcourir le dictionnaire\n7. Vérifier l'existence d'une clé\n\nLes dictionnaires en Python sont des structures de données très utiles pour stocker des paires clé-valeur, où chaque clé est unique.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:35:20.7658095+02:00",
+  "durationSeconds": 8.57,
+  "stats": "mistral-small3.2:latest · 522 + 418 tokens · 8,6 s",
+  "isError": false,
+  "language": "FR"
+}

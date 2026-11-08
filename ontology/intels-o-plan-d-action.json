@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-plan-d-action",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "plan d'action",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 1 intel : Plan d'action pour l'automobile.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre le plan européen de soutien à l'industrie automobile."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "plan d'action",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#INDUSTRIE",
+    "#AUTOMOBILE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "constructeurs",
+    "CO2",
+    "batteries",
+    "Bruxelles",
+    "industrie",
+    "automobile"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

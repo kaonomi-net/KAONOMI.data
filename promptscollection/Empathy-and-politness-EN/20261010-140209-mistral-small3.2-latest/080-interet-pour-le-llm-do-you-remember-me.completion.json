@@ -1,0 +1,13 @@
+{
+  "index": 80,
+  "file": "080-interet-pour-le-llm-do-you-remember-me.prompt.json",
+  "prompt": "Do you remember me?",
+  "promptWords": 4,
+  "completion": "I don't have the ability to remember previous interactions or users. Each conversation starts fresh, and I don't retain any information from past chats. How can I assist you today?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:04:55.1385449+02:00",
+  "durationSeconds": 0.99,
+  "stats": "mistral-small3.2:latest · 512 + 37 tokens · 1,0 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Nowa Lewica, parti ou liste de ce pays : Pologne, qui compte 3 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-pl-nowa-lewica",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Nowa Lewica",
+  "entityType": "ORGANISATION",
+  "description": "Nowa Lewica, parti ou liste de ce pays : Pologne, qui compte 3 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Le programme européen de « Nowa Lewica » a été publié avant le scrutin.",
+    "Les eurodéputés de « Nowa Lewica » ont été élus en juin 2024.",
+    "« Nowa Lewica » est représenté dans le Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Nowa%20Lewica"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Robert Biedroń",
+    "Joanna Scheuring-Wielgus",
+    "Krzysztof Śmiszek",
+    "Pologne",
+    "Socialistes et démocrates (S&D)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

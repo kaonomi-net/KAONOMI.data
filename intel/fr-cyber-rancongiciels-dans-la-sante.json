@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-rancongiciels-dans-la-sante",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Rançongiciels dans la santé",
+  "includedEntities": [
+    {
+      "entityName": "rançongiciel",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "santé",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "hôpitaux",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la hausse des rançongiciels dans le secteur de la santé.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "90 derniers jours"
+  ],
+  "relatedEntities": [
+    "hôpitaux",
+    "cliniques",
+    "données de santé"
+  ],
+  "questions": [
+    "Combien de victimes ?",
+    "Quelle hausse ?",
+    "Quel impact sur les soins ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

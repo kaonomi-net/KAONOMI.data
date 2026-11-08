@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-defiance-envers-les-politiques",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Défiance envers les politiques",
+  "includedEntities": [
+    {
+      "entityName": "défiance",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "confiance",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "politique",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études sur la confiance dans la vie politique.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Cevipof",
+    "baromètre",
+    "abstention"
+  ],
+  "questions": [
+    "Quel niveau de confiance ?",
+    "Quelle évolution ?",
+    "Quelles institutions ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DEMOCRATIE",
+    "#OPINION"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

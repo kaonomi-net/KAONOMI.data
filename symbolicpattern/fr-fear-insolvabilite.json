@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-insolvabilite",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'incapacité de payer ses dettes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:insolvabilit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:insolvable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]faut\\s+de\\s+paiement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cessation\\s+de\\s+paiements)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ne\\s+plus\\s+pouvoir\\s+payer)(?![\\w-])"
+  ],
+  "symbol": "insolvabilité",
+  "event": null,
+  "title": "Insolvabilité",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

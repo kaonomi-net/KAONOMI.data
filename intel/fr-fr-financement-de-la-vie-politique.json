@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-financement-de-la-vie-politique",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Financement de la vie politique",
+  "includedEntities": [
+    {
+      "entityName": "financement",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "partis",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "dons",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le financement des partis politiques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "CNCCFP",
+    "banque de la démocratie",
+    "prêts"
+  ],
+  "questions": [
+    "Quel parti ?",
+    "Quels prêts ?",
+    "Quelle irrégularité ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#FINANCEMENT",
+    "#PARTIS"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSPARENCE"
+  ],
+  "isDeleted": false
+}

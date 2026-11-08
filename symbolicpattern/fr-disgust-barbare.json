@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-barbare",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "D'une cruauté sauvage.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:barbare(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bestial(e|es|aux|it[ée])?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sauvage(s)?\\s+et\\s+cruel(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inhumanit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:monstre(s)?\\s+humain(s)?)(?![\\w-])"
+  ],
+  "symbol": "barbare",
+  "event": null,
+  "title": "Barbare",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

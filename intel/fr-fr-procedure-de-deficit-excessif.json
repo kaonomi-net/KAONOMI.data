@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-procedure-de-deficit-excessif",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Procédure de déficit excessif",
+  "includedEntities": [
+    {
+      "entityName": "déficit excessif",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Commission européenne",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la procédure européenne pour déficit excessif visant la France.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "pacte de stabilité",
+    "trajectoire",
+    "recommandations"
+  ],
+  "questions": [
+    "Quelle recommandation ?",
+    "La trajectoire est-elle respectée ?",
+    "Quelle sanction possible ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#EUROPE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

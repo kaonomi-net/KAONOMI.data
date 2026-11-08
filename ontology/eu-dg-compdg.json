@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique de concurrence) : Direction générale de la concurrence (DG COMP), service de la Commission européenne compétent pour la politique de concurrence, placé sous l'autorité de Teresa Ribera dans la Commission von der Leyen II.",
+  "id": "eu-dg-compdg",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de la concurrence",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de la concurrence (DG COMP), service de la Commission européenne compétent pour la politique de concurrence, placé sous l'autorité de Teresa Ribera dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Direction générale de la concurrence ».",
+    "Les décisions de « Direction générale de la concurrence » touchent la politique de concurrence.",
+    "Le rapport annuel de « Direction générale de la concurrence » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG COMP"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUECONCURRENCE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20la%20concurrence"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Teresa Ribera",
+    "Concurrence"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

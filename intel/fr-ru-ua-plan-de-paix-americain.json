@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-plan-de-paix-americain",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Plan de paix américain",
+  "includedEntities": [
+    {
+      "entityName": "plan de paix",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "États-Unis",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les propositions de paix portées par Washington.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Donald Trump",
+    "envoyés spéciaux",
+    "Europe"
+  ],
+  "questions": [
+    "Quels points contient le plan ?",
+    "Qui l'accepte ?",
+    "Quelles objections ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#ETATS-UNIS",
+    "#NEGOCIATIONS"
+  ],
+  "events": [
+    "@PROPOSITION-PAIX"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-popularite-des-personnalites-politiques",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Popularité des personnalités politiques",
+  "includedEntities": [
+    {
+      "entityName": "popularité",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "baromètre",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "personnalités",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les baromètres de popularité des personnalités.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "publication mensuelle"
+  ],
+  "relatedEntities": [
+    "Bardella",
+    "Philippe",
+    "Lecornu"
+  ],
+  "questions": [
+    "Qui progresse ?",
+    "Qui recule ?",
+    "Quel classement ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#OPINION",
+    "#SONDAGES"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

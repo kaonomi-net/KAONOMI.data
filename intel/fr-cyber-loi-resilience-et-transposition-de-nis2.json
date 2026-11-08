@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-loi-resilience-et-transposition-de-nis2",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Loi Résilience et transposition de NIS2",
+  "includedEntities": [
+    {
+      "entityName": "loi Résilience",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "NIS2",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'examen de la loi Résilience, qui transpose NIS2 en France.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "à partir du 9 novembre 2026"
+  ],
+  "relatedEntities": [
+    "Assemblée nationale",
+    "ANSSI",
+    "entités essentielles"
+  ],
+  "questions": [
+    "Quel calendrier ?",
+    "Quels amendements ?",
+    "Quand l'adoption ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#REGULATION",
+    "#NIS2"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

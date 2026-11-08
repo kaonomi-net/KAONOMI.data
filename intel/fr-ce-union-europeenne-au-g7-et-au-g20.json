@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-union-europeenne-au-g7-et-au-g20",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Union européenne au G7 et au G20",
+  "includedEntities": [
+    {
+      "entityName": "G7",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "G20",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la position européenne aux sommets du G7 et du G20.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "dates des sommets"
+  ],
+  "relatedEntities": [
+    "von der Leyen",
+    "Costa",
+    "déclarations"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quel engagement ?",
+    "Quels désaccords ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#G7",
+    "#G20"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

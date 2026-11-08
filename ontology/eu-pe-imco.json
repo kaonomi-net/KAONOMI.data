@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (le marché intérieur) : Commission du marché intérieur et de la protection des consommateurs du Parlement européen, chargée de le marché intérieur, la protection des consommateurs.",
+  "id": "eu-pe-imco",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission du marché intérieur et de la protection des consommateurs (IMCO)",
+  "entityType": "ORGANISATION",
+  "description": "Commission du marché intérieur et de la protection des consommateurs du Parlement européen, chargée de le marché intérieur, la protection des consommateurs.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Commission du marché intérieur et de la protection des consommateurs (IMCO) ».",
+    "« Commission du marché intérieur et de la protection des consommateurs (IMCO) » joue un rôle dans le marché intérieur.",
+    "Les fonctionnaires de « Commission du marché intérieur et de la protection des consommateurs (IMCO) » préparent les textes relatifs au marché intérieur."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "IMCO"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#MARCHEINTERIEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20du%20march%C3%A9%20int%C3%A9rieur%20et%20de%20la%20protection%20des%20consommateurs%20%28IMCO%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Marché intérieur",
+    "Protection des consommateurs"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

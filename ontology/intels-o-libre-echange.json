@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-libre-echange",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "libre-échange",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Accord de libre-échange avec l'Inde ; Accord avec l'Australie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la négociation de l'accord de libre-échange entre l'Union et l'Inde.",
+    "Suivre la reprise des négociations commerciales avec l'Australie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "libre-échange",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#INDE",
+    "#AUSTRALIE"
+  ],
+  "events": [
+    "@ACCORD"
+  ],
+  "signals": [
+    "!COMMERCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Inde",
+    "services",
+    "New Delhi",
+    "tarifs",
+    "Modi",
+    "Australie",
+    "viande",
+    "minerais critiques",
+    "Canberra"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

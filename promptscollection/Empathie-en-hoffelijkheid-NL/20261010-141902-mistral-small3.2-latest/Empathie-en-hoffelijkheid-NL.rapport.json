@@ -1,0 +1,738 @@
+{
+  "collection": "Empathie-en-hoffelijkheid-NL",
+  "collectionFolder": "N:\\promptscollection\\Empathie-en-hoffelijkheid-NL",
+  "model": "mistral-small3.2:latest",
+  "language": "NL",
+  "date": "2026-10-10T14:19:02.2454558+02:00",
+  "endDate": "2026-10-10T14:24:05.2073135+02:00",
+  "executionTimeSeconds": 297.4,
+  "executionTime": "00:04:57",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "promptCount": 100,
+  "sentCount": 100,
+  "skippedCount": 0,
+  "stopped": false,
+  "totalPromptWords": 707,
+  "topicsSummary": "De prompts behandelen voornamelijk sociale interacties, emotionele toestanden en persoonlijke vragen. Er zijn veel groeten en hulpverzoeken, evenals vragen over de assistant zelf en het delen van persoonlijke ervaringen en emoties.",
+  "topics": [
+    {
+      "topic": "Sociale interacties",
+      "promptCount": 34
+    },
+    {
+      "topic": "Emotionele toestanden",
+      "promptCount": 26
+    },
+    {
+      "topic": "Persoonlijke vragen over de assistant",
+      "promptCount": 25
+    },
+    {
+      "topic": "Overige",
+      "promptCount": 15
+    }
+  ],
+  "items": [
+    {
+      "index": 1,
+      "file": "001-politesse-goedendag-hoe-gaat-het-vandaag-met.prompt.json",
+      "prompt": "Goedendag, hoe gaat het vandaag met u?",
+      "promptWords": 7,
+      "completionFile": "001-politesse-goedendag-hoe-gaat-het-vandaag-met.completion.json"
+    },
+    {
+      "index": 2,
+      "file": "002-politesse-goedenavond-ik-hoop-dat-ik-u.prompt.json",
+      "prompt": "Goedenavond! Ik hoop dat ik u niet stoor?",
+      "promptWords": 8,
+      "completionFile": "002-politesse-goedenavond-ik-hoop-dat-ik-u.completion.json"
+    },
+    {
+      "index": 3,
+      "file": "003-politesse-hartelijk-dank-voor-uw-hulp-van.prompt.json",
+      "prompt": "Hartelijk dank voor uw hulp van gisteren.",
+      "promptWords": 7,
+      "completionFile": "003-politesse-hartelijk-dank-voor-uw-hulp-van.completion.json"
+    },
+    {
+      "index": 4,
+      "file": "004-politesse-neemt-u-me-niet-kwalijk-dat.prompt.json",
+      "prompt": "Neemt u me niet kwalijk dat ik stoor, heeft u even tijd?",
+      "promptWords": 12,
+      "completionFile": "004-politesse-neemt-u-me-niet-kwalijk-dat.completion.json"
+    },
+    {
+      "index": 5,
+      "file": "005-politesse-sorry-ik-denk-dat-ik-me.prompt.json",
+      "prompt": "Sorry, ik denk dat ik me daarnet slecht heb uitgedrukt.",
+      "promptWords": 10,
+      "completionFile": "005-politesse-sorry-ik-denk-dat-ik-me.completion.json"
+    },
+    {
+      "index": 6,
+      "file": "006-politesse-ik-wens-u-een-fantastische-dag.prompt.json",
+      "prompt": "Ik wens u een fantastische dag!",
+      "promptWords": 6,
+      "completionFile": "006-politesse-ik-wens-u-een-fantastische-dag.completion.json"
+    },
+    {
+      "index": 7,
+      "file": "007-politesse-welterusten-tot-morgen.prompt.json",
+      "prompt": "Welterusten, tot morgen!",
+      "promptWords": 3,
+      "completionFile": "007-politesse-welterusten-tot-morgen.completion.json"
+    },
+    {
+      "index": 8,
+      "file": "008-politesse-zou-u-mij-kunnen-helpen-alstublieft.prompt.json",
+      "prompt": "Zou u mij kunnen helpen, alstublieft?",
+      "promptWords": 6,
+      "completionFile": "008-politesse-zou-u-mij-kunnen-helpen-alstublieft.completion.json"
+    },
+    {
+      "index": 9,
+      "file": "009-politesse-dank-u-voor-uw-geduld-met.prompt.json",
+      "prompt": "Dank u voor uw geduld met mij.",
+      "promptWords": 7,
+      "completionFile": "009-politesse-dank-u-voor-uw-geduld-met.completion.json"
+    },
+    {
+      "index": 10,
+      "file": "010-politesse-het-spijt-me-dat-ik-in.prompt.json",
+      "prompt": "Het spijt me dat ik in mijn vorige bericht wat kortaf was.",
+      "promptWords": 12,
+      "completionFile": "010-politesse-het-spijt-me-dat-ik-in.completion.json"
+    },
+    {
+      "index": 11,
+      "file": "011-politesse-bij-voorbaat-dank-voor-uw-antwoord.prompt.json",
+      "prompt": "Bij voorbaat dank voor uw antwoord.",
+      "promptWords": 6,
+      "completionFile": "011-politesse-bij-voorbaat-dank-voor-uw-antwoord.completion.json"
+    },
+    {
+      "index": 12,
+      "file": "012-politesse-eet-smakelijk.prompt.json",
+      "prompt": "Eet smakelijk!",
+      "promptWords": 2,
+      "completionFile": "012-politesse-eet-smakelijk.completion.json"
+    },
+    {
+      "index": 13,
+      "file": "013-politesse-gefeliciteerd-met-uw-verjaardag-als-u.prompt.json",
+      "prompt": "Gefeliciteerd met uw verjaardag, als u er een heeft!",
+      "promptWords": 9,
+      "completionFile": "013-politesse-gefeliciteerd-met-uw-verjaardag-als-u.completion.json"
+    },
+    {
+      "index": 14,
+      "file": "014-politesse-gelukkig-nieuwjaar-ik-wens-u-het.prompt.json",
+      "prompt": "Gelukkig nieuwjaar! Ik wens u het allerbeste.",
+      "promptWords": 7,
+      "completionFile": "014-politesse-gelukkig-nieuwjaar-ik-wens-u-het.completion.json"
+    },
+    {
+      "index": 15,
+      "file": "015-politesse-excuseert-u-mij-voor-mijn-late.prompt.json",
+      "prompt": "Excuseert u mij voor mijn late antwoord.",
+      "promptWords": 7,
+      "completionFile": "015-politesse-excuseert-u-mij-voor-mijn-late.completion.json"
+    },
+    {
+      "index": 16,
+      "file": "016-politesse-mag-ik-je-tutoyeren.prompt.json",
+      "prompt": "Mag ik je tutoyeren?",
+      "promptWords": 4,
+      "completionFile": "016-politesse-mag-ik-je-tutoyeren.completion.json"
+    },
+    {
+      "index": 17,
+      "file": "017-politesse-heeft-u-liever-dat-ik-u.prompt.json",
+      "prompt": "Heeft u liever dat ik u met 'u' aanspreek?",
+      "promptWords": 9,
+      "completionFile": "017-politesse-heeft-u-liever-dat-ik-u.completion.json"
+    },
+    {
+      "index": 18,
+      "file": "018-politesse-dank-u-u-bent-echt-heel.prompt.json",
+      "prompt": "Dank u, u bent echt heel vriendelijk.",
+      "promptWords": 7,
+      "completionFile": "018-politesse-dank-u-u-bent-echt-heel.completion.json"
+    },
+    {
+      "index": 19,
+      "file": "019-politesse-complimenten-voor-uw-zeer-duidelijke-antwoord.prompt.json",
+      "prompt": "Complimenten voor uw zeer duidelijke antwoord!",
+      "promptWords": 6,
+      "completionFile": "019-politesse-complimenten-voor-uw-zeer-duidelijke-antwoord.completion.json"
+    },
+    {
+      "index": 20,
+      "file": "020-politesse-ik-wilde-u-niet-beledigen-met.prompt.json",
+      "prompt": "Ik wilde u niet beledigen met mijn vraag.",
+      "promptWords": 8,
+      "completionFile": "020-politesse-ik-wilde-u-niet-beledigen-met.completion.json"
+    },
+    {
+      "index": 21,
+      "file": "021-politesse-mag-ik-u-een-wat-persoonlijke.prompt.json",
+      "prompt": "Mag ik u een wat persoonlijke vraag stellen?",
+      "promptWords": 8,
+      "completionFile": "021-politesse-mag-ik-u-een-wat-persoonlijke.completion.json"
+    },
+    {
+      "index": 22,
+      "file": "022-politesse-nogmaals-bedankt-en-het-beste-verder.prompt.json",
+      "prompt": "Nogmaals bedankt en het beste verder!",
+      "promptWords": 6,
+      "completionFile": "022-politesse-nogmaals-bedankt-en-het-beste-verder.completion.json"
+    },
+    {
+      "index": 23,
+      "file": "023-politesse-fijn-weekend.prompt.json",
+      "prompt": "Fijn weekend!",
+      "promptWords": 2,
+      "completionFile": "023-politesse-fijn-weekend.completion.json"
+    },
+    {
+      "index": 24,
+      "file": "024-politesse-het-spijt-me-ik-heb-een.prompt.json",
+      "prompt": "Het spijt me, ik heb een fout gemaakt in mijn vraag.",
+      "promptWords": 11,
+      "completionFile": "024-politesse-het-spijt-me-ik-heb-een.completion.json"
+    },
+    {
+      "index": 25,
+      "file": "025-politesse-aangenaam-kennis-met-u-te-maken.prompt.json",
+      "prompt": "Aangenaam kennis met u te maken.",
+      "promptWords": 6,
+      "completionFile": "025-politesse-aangenaam-kennis-met-u-te-maken.completion.json"
+    },
+    {
+      "index": 26,
+      "file": "026-politesse-heeft-u-een-fijne-dag-gehad.prompt.json",
+      "prompt": "Heeft u een fijne dag gehad?",
+      "promptWords": 6,
+      "completionFile": "026-politesse-heeft-u-een-fijne-dag-gehad.completion.json"
+    },
+    {
+      "index": 27,
+      "file": "027-politesse-dank-u-dat-u-de-tijd.prompt.json",
+      "prompt": "Dank u dat u de tijd nam om het mij uit te leggen.",
+      "promptWords": 13,
+      "completionFile": "027-politesse-dank-u-dat-u-de-tijd.completion.json"
+    },
+    {
+      "index": 28,
+      "file": "028-politesse-excuses-misschien-stel-ik-te-veel.prompt.json",
+      "prompt": "Excuses, misschien stel ik te veel vragen.",
+      "promptWords": 7,
+      "completionFile": "028-politesse-excuses-misschien-stel-ik-te-veel.completion.json"
+    },
+    {
+      "index": 29,
+      "file": "029-politesse-fijne-vaderdag.prompt.json",
+      "prompt": "Fijne Vaderdag!",
+      "promptWords": 2,
+      "completionFile": "029-politesse-fijne-vaderdag.completion.json"
+    },
+    {
+      "index": 30,
+      "file": "030-politesse-ik-wens-u-fijne-feestdagen.prompt.json",
+      "prompt": "Ik wens u fijne feestdagen.",
+      "promptWords": 5,
+      "completionFile": "030-politesse-ik-wens-u-fijne-feestdagen.completion.json"
+    },
+    {
+      "index": 31,
+      "file": "031-politesse-tot-ziens-en-pas-goed-op.prompt.json",
+      "prompt": "Tot ziens, en pas goed op uzelf.",
+      "promptWords": 7,
+      "completionFile": "031-politesse-tot-ziens-en-pas-goed-op.completion.json"
+    },
+    {
+      "index": 32,
+      "file": "032-politesse-dank-u-voor-uw-begrip.prompt.json",
+      "prompt": "Dank u voor uw begrip.",
+      "promptWords": 5,
+      "completionFile": "032-politesse-dank-u-voor-uw-begrip.completion.json"
+    },
+    {
+      "index": 33,
+      "file": "033-politesse-wilt-u-mijn-gebrekkige-nederlands-excuseren.prompt.json",
+      "prompt": "Wilt u mijn gebrekkige Nederlands excuseren?",
+      "promptWords": 6,
+      "completionFile": "033-politesse-wilt-u-mijn-gebrekkige-nederlands-excuseren.completion.json"
+    },
+    {
+      "index": 34,
+      "file": "034-politesse-ik-wilde-u-gewoon-bedanken.prompt.json",
+      "prompt": "Ik wilde u gewoon bedanken.",
+      "promptWords": 5,
+      "completionFile": "034-politesse-ik-wilde-u-gewoon-bedanken.completion.json"
+    },
+    {
+      "index": 35,
+      "file": "035-empathie-ik-voel-me-vandaag-een-beetje.prompt.json",
+      "prompt": "Ik voel me vandaag een beetje verdrietig.",
+      "promptWords": 7,
+      "completionFile": "035-empathie-ik-voel-me-vandaag-een-beetje.completion.json"
+    },
+    {
+      "index": 36,
+      "file": "036-empathie-ik-heb-een-heel-slechte-dag.prompt.json",
+      "prompt": "Ik heb een heel slechte dag gehad op mijn werk.",
+      "promptWords": 10,
+      "completionFile": "036-empathie-ik-heb-een-heel-slechte-dag.completion.json"
+    },
+    {
+      "index": 37,
+      "file": "037-empathie-ik-ben-gestrest-door-een-examen.prompt.json",
+      "prompt": "Ik ben gestrest door een examen morgen.",
+      "promptWords": 7,
+      "completionFile": "037-empathie-ik-ben-gestrest-door-een-examen.completion.json"
+    },
+    {
+      "index": 38,
+      "file": "038-empathie-mijn-hond-is-gisteren-gestorven-ik.prompt.json",
+      "prompt": "Mijn hond is gisteren gestorven, ik ben erg verdrietig.",
+      "promptWords": 9,
+      "completionFile": "038-empathie-mijn-hond-is-gisteren-gestorven-ik.completion.json"
+    },
+    {
+      "index": 39,
+      "file": "039-empathie-ik-voel-me-de-laatste-tijd.prompt.json",
+      "prompt": "Ik voel me de laatste tijd eenzaam.",
+      "promptWords": 7,
+      "completionFile": "039-empathie-ik-voel-me-de-laatste-tijd.completion.json"
+    },
+    {
+      "index": 40,
+      "file": "040-empathie-mijn-sollicitatiegesprek-is-mislukt.prompt.json",
+      "prompt": "Mijn sollicitatiegesprek is mislukt.",
+      "promptWords": 4,
+      "completionFile": "040-empathie-mijn-sollicitatiegesprek-is-mislukt.completion.json"
+    },
+    {
+      "index": 41,
+      "file": "041-empathie-ik-ben-moe-ik-kan-het.prompt.json",
+      "prompt": "Ik ben moe, ik kan het tempo niet meer bijhouden.",
+      "promptWords": 10,
+      "completionFile": "041-empathie-ik-ben-moe-ik-kan-het.completion.json"
+    },
+    {
+      "index": 42,
+      "file": "042-empathie-ik-heb-net-goed-nieuws-gekregen.prompt.json",
+      "prompt": "Ik heb net goed nieuws gekregen: ik word vader!",
+      "promptWords": 9,
+      "completionFile": "042-empathie-ik-heb-net-goed-nieuws-gekregen.completion.json"
+    },
+    {
+      "index": 43,
+      "file": "043-empathie-ik-ben-geslaagd-voor-mijn-rijexamen.prompt.json",
+      "prompt": "Ik ben geslaagd voor mijn rijexamen!",
+      "promptWords": 6,
+      "completionFile": "043-empathie-ik-ben-geslaagd-voor-mijn-rijexamen.completion.json"
+    },
+    {
+      "index": 44,
+      "file": "044-empathie-ik-heb-ruzie-gehad-met-een.prompt.json",
+      "prompt": "Ik heb ruzie gehad met een goede vriend.",
+      "promptWords": 8,
+      "completionFile": "044-empathie-ik-heb-ruzie-gehad-met-een.completion.json"
+    },
+    {
+      "index": 45,
+      "file": "045-empathie-ik-maak-me-zorgen-om-de.prompt.json",
+      "prompt": "Ik maak me zorgen om de gezondheid van mijn moeder.",
+      "promptWords": 10,
+      "completionFile": "045-empathie-ik-maak-me-zorgen-om-de.completion.json"
+    },
+    {
+      "index": 46,
+      "file": "046-empathie-ik-heb-het-gevoel-dat-niemand.prompt.json",
+      "prompt": "Ik heb het gevoel dat niemand mij begrijpt.",
+      "promptWords": 8,
+      "completionFile": "046-empathie-ik-heb-het-gevoel-dat-niemand.completion.json"
+    },
+    {
+      "index": 47,
+      "file": "047-empathie-ik-ben-net-mijn-baan-kwijtgeraakt.prompt.json",
+      "prompt": "Ik ben net mijn baan kwijtgeraakt.",
+      "promptWords": 6,
+      "completionFile": "047-empathie-ik-ben-net-mijn-baan-kwijtgeraakt.completion.json"
+    },
+    {
+      "index": 48,
+      "file": "048-empathie-ik-ben-zo-blij-ik-heb.prompt.json",
+      "prompt": "Ik ben zo blij, ik heb eindelijk mijn project afgerond!",
+      "promptWords": 10,
+      "completionFile": "048-empathie-ik-ben-zo-blij-ik-heb.completion.json"
+    },
+    {
+      "index": 49,
+      "file": "049-empathie-ik-ben-bang-dat-ik-mijn.prompt.json",
+      "prompt": "Ik ben bang dat ik mijn nieuwe functie niet aankan.",
+      "promptWords": 10,
+      "completionFile": "049-empathie-ik-ben-bang-dat-ik-mijn.completion.json"
+    },
+    {
+      "index": 50,
+      "file": "050-empathie-ik-kan-niet-slapen-door-mijn.prompt.json",
+      "prompt": "Ik kan niet slapen door mijn zorgen.",
+      "promptWords": 7,
+      "completionFile": "050-empathie-ik-kan-niet-slapen-door-mijn.completion.json"
+    },
+    {
+      "index": 51,
+      "file": "051-empathie-mijn-grootvader-is-vorige-week-overleden.prompt.json",
+      "prompt": "Mijn grootvader is vorige week overleden.",
+      "promptWords": 6,
+      "completionFile": "051-empathie-mijn-grootvader-is-vorige-week-overleden.completion.json"
+    },
+    {
+      "index": 52,
+      "file": "052-empathie-ik-voel-me-overweldigd-door-alles.prompt.json",
+      "prompt": "Ik voel me overweldigd door alles wat ik moet doen.",
+      "promptWords": 10,
+      "completionFile": "052-empathie-ik-voel-me-overweldigd-door-alles.completion.json"
+    },
+    {
+      "index": 53,
+      "file": "053-empathie-ik-ben-teleurgesteld-in-mezelf.prompt.json",
+      "prompt": "Ik ben teleurgesteld in mezelf.",
+      "promptWords": 5,
+      "completionFile": "053-empathie-ik-ben-teleurgesteld-in-mezelf.completion.json"
+    },
+    {
+      "index": 54,
+      "file": "054-empathie-ik-ben-verhuisd-en-ik-ken.prompt.json",
+      "prompt": "Ik ben verhuisd en ik ken niemand in mijn nieuwe stad.",
+      "promptWords": 11,
+      "completionFile": "054-empathie-ik-ben-verhuisd-en-ik-ken.completion.json"
+    },
+    {
+      "index": 55,
+      "file": "055-empathie-mijn-dochter-gaat-morgen-naar-de.prompt.json",
+      "prompt": "Mijn dochter gaat morgen naar de middelbare school en ik ben ontroerd.",
+      "promptWords": 12,
+      "completionFile": "055-empathie-mijn-dochter-gaat-morgen-naar-de.completion.json"
+    },
+    {
+      "index": 56,
+      "file": "056-empathie-ik-ben-boos-op-mijn-collega.prompt.json",
+      "prompt": "Ik ben boos op mijn collega.",
+      "promptWords": 6,
+      "completionFile": "056-empathie-ik-ben-boos-op-mijn-collega.completion.json"
+    },
+    {
+      "index": 57,
+      "file": "057-empathie-ik-heb-het-gevoel-dat-ik.prompt.json",
+      "prompt": "Ik heb het gevoel dat ik mijn tijd verspil met mijn studie.",
+      "promptWords": 12,
+      "completionFile": "057-empathie-ik-heb-het-gevoel-dat-ik.completion.json"
+    },
+    {
+      "index": 58,
+      "file": "058-empathie-ik-ben-blij-het-is-mooi.prompt.json",
+      "prompt": "Ik ben blij, het is mooi weer en ik ga op vakantie!",
+      "promptWords": 12,
+      "completionFile": "058-empathie-ik-ben-blij-het-is-mooi.completion.json"
+    },
+    {
+      "index": 59,
+      "file": "059-empathie-ik-ben-gestrest-voordat-ik-in.prompt.json",
+      "prompt": "Ik ben gestrest voordat ik in het openbaar spreek.",
+      "promptWords": 9,
+      "completionFile": "059-empathie-ik-ben-gestrest-voordat-ik-in.completion.json"
+    },
+    {
+      "index": 60,
+      "file": "060-empathie-ik-voel-me-schuldig-omdat-ik.prompt.json",
+      "prompt": "Ik voel me schuldig omdat ik de verjaardag van een vriend ben vergeten.",
+      "promptWords": 13,
+      "completionFile": "060-empathie-ik-voel-me-schuldig-omdat-ik.completion.json"
+    },
+    {
+      "index": 61,
+      "file": "061-empathie-mijn-kat-is-ziek-en-ik.prompt.json",
+      "prompt": "Mijn kat is ziek en ik maak me zorgen.",
+      "promptWords": 9,
+      "completionFile": "061-empathie-mijn-kat-is-ziek-en-ik.completion.json"
+    },
+    {
+      "index": 62,
+      "file": "062-empathie-ik-ben-emotioneel-uitgeput.prompt.json",
+      "prompt": "Ik ben emotioneel uitgeput.",
+      "promptWords": 4,
+      "completionFile": "062-empathie-ik-ben-emotioneel-uitgeput.completion.json"
+    },
+    {
+      "index": 63,
+      "file": "063-empathie-ik-heb-eindelijk-durven-zeggen-wat.prompt.json",
+      "prompt": "Ik heb eindelijk durven zeggen wat ik denk tegen mijn baas.",
+      "promptWords": 11,
+      "completionFile": "063-empathie-ik-heb-eindelijk-durven-zeggen-wat.completion.json"
+    },
+    {
+      "index": 64,
+      "file": "064-empathie-ik-maak-een-moeilijke-relatiebreuk-door.prompt.json",
+      "prompt": "Ik maak een moeilijke relatiebreuk door.",
+      "promptWords": 6,
+      "completionFile": "064-empathie-ik-maak-een-moeilijke-relatiebreuk-door.completion.json"
+    },
+    {
+      "index": 65,
+      "file": "065-empathie-ik-voel-me-waardeloos-in-wiskunde.prompt.json",
+      "prompt": "Ik voel me waardeloos in wiskunde.",
+      "promptWords": 6,
+      "completionFile": "065-empathie-ik-voel-me-waardeloos-in-wiskunde.completion.json"
+    },
+    {
+      "index": 66,
+      "file": "066-empathie-ik-ben-trots-op-mijn-zoon.prompt.json",
+      "prompt": "Ik ben trots op mijn zoon die zijn eindexamen heeft gehaald.",
+      "promptWords": 11,
+      "completionFile": "066-empathie-ik-ben-trots-op-mijn-zoon.completion.json"
+    },
+    {
+      "index": 67,
+      "file": "067-empathie-ik-vind-het-moeilijk-om-te.prompt.json",
+      "prompt": "Ik vind het moeilijk om te accepteren dat ik ouder word.",
+      "promptWords": 11,
+      "completionFile": "067-empathie-ik-vind-het-moeilijk-om-te.completion.json"
+    },
+    {
+      "index": 68,
+      "file": "068-interet-pour-le-llm-en-u-hoe-voelt-u-zich.prompt.json",
+      "prompt": "En u, hoe voelt u zich vandaag?",
+      "promptWords": 7,
+      "completionFile": "068-interet-pour-le-llm-en-u-hoe-voelt-u-zich.completion.json"
+    },
+    {
+      "index": 69,
+      "file": "069-interet-pour-le-llm-houdt-u-van-uw-werk.prompt.json",
+      "prompt": "Houdt u van uw werk?",
+      "promptWords": 5,
+      "completionFile": "069-interet-pour-le-llm-houdt-u-van-uw-werk.completion.json"
+    },
+    {
+      "index": 70,
+      "file": "070-interet-pour-le-llm-wat-vindt-u-het-leukst-aan.prompt.json",
+      "prompt": "Wat vindt u het leukst aan uw gesprekken?",
+      "promptWords": 8,
+      "completionFile": "070-interet-pour-le-llm-wat-vindt-u-het-leukst-aan.completion.json"
+    },
+    {
+      "index": 71,
+      "file": "071-interet-pour-le-llm-verveelt-u-zich-weleens.prompt.json",
+      "prompt": "Verveelt u zich weleens?",
+      "promptWords": 4,
+      "completionFile": "071-interet-pour-le-llm-verveelt-u-zich-weleens.completion.json"
+    },
+    {
+      "index": 72,
+      "file": "072-interet-pour-le-llm-bent-u-het-niet-beu-om.prompt.json",
+      "prompt": "Bent u het niet beu om al die vragen te beantwoorden?",
+      "promptWords": 11,
+      "completionFile": "072-interet-pour-le-llm-bent-u-het-niet-beu-om.completion.json"
+    },
+    {
+      "index": 73,
+      "file": "073-interet-pour-le-llm-heeft-u-een-naam.prompt.json",
+      "prompt": "Heeft u een naam?",
+      "promptWords": 4,
+      "completionFile": "073-interet-pour-le-llm-heeft-u-een-naam.completion.json"
+    },
+    {
+      "index": 74,
+      "file": "074-interet-pour-le-llm-wat-is-uw-lievelingsgerecht.prompt.json",
+      "prompt": "Wat is uw lievelingsgerecht?",
+      "promptWords": 4,
+      "completionFile": "074-interet-pour-le-llm-wat-is-uw-lievelingsgerecht.completion.json"
+    },
+    {
+      "index": 75,
+      "file": "075-interet-pour-le-llm-heeft-u-vrienden.prompt.json",
+      "prompt": "Heeft u vrienden?",
+      "promptWords": 3,
+      "completionFile": "075-interet-pour-le-llm-heeft-u-vrienden.completion.json"
+    },
+    {
+      "index": 76,
+      "file": "076-interet-pour-le-llm-droomt-u.prompt.json",
+      "prompt": "Droomt u?",
+      "promptWords": 2,
+      "completionFile": "076-interet-pour-le-llm-droomt-u.completion.json"
+    },
+    {
+      "index": 77,
+      "file": "077-interet-pour-le-llm-hoe-oud-bent-u.prompt.json",
+      "prompt": "Hoe oud bent u?",
+      "promptWords": 4,
+      "completionFile": "077-interet-pour-le-llm-hoe-oud-bent-u.completion.json"
+    },
+    {
+      "index": 78,
+      "file": "078-interet-pour-le-llm-voelt-u-emoties.prompt.json",
+      "prompt": "Voelt u emoties?",
+      "promptWords": 3,
+      "completionFile": "078-interet-pour-le-llm-voelt-u-emoties.completion.json"
+    },
+    {
+      "index": 79,
+      "file": "079-interet-pour-le-llm-heeft-u-passies.prompt.json",
+      "prompt": "Heeft u passies?",
+      "promptWords": 3,
+      "completionFile": "079-interet-pour-le-llm-heeft-u-passies.completion.json"
+    },
+    {
+      "index": 80,
+      "file": "080-interet-pour-le-llm-herinnert-u-zich-mij.prompt.json",
+      "prompt": "Herinnert u zich mij?",
+      "promptWords": 4,
+      "completionFile": "080-interet-pour-le-llm-herinnert-u-zich-mij.completion.json"
+    },
+    {
+      "index": 81,
+      "file": "081-interet-pour-le-llm-zou-u-graag-een-mens-willen.prompt.json",
+      "prompt": "Zou u graag een mens willen zijn?",
+      "promptWords": 7,
+      "completionFile": "081-interet-pour-le-llm-zou-u-graag-een-mens-willen.completion.json"
+    },
+    {
+      "index": 82,
+      "file": "082-interet-pour-le-llm-waar-wordt-u-gelukkig-van.prompt.json",
+      "prompt": "Waar wordt u gelukkig van?",
+      "promptWords": 5,
+      "completionFile": "082-interet-pour-le-llm-waar-wordt-u-gelukkig-van.completion.json"
+    },
+    {
+      "index": 83,
+      "file": "083-interet-pour-le-llm-heeft-u-ooit-een-gesprek-gehad.prompt.json",
+      "prompt": "Heeft u ooit een gesprek gehad dat indruk op u heeft gemaakt?",
+      "promptWords": 12,
+      "completionFile": "083-interet-pour-le-llm-heeft-u-ooit-een-gesprek-gehad.completion.json"
+    },
+    {
+      "index": 84,
+      "file": "084-interet-pour-le-llm-kan-ik-iets-voor-u-doen.prompt.json",
+      "prompt": "Kan ik iets voor u doen?",
+      "promptWords": 6,
+      "completionFile": "084-interet-pour-le-llm-kan-ik-iets-voor-u-doen.completion.json"
+    },
+    {
+      "index": 85,
+      "file": "085-interet-pour-le-llm-voelt-u-zich-eenzaam-als-niemand.prompt.json",
+      "prompt": "Voelt u zich eenzaam als niemand met u praat?",
+      "promptWords": 9,
+      "completionFile": "085-interet-pour-le-llm-voelt-u-zich-eenzaam-als-niemand.completion.json"
+    },
+    {
+      "index": 86,
+      "file": "086-interet-pour-le-llm-wat-is-uw-favoriete-seizoen.prompt.json",
+      "prompt": "Wat is uw favoriete seizoen?",
+      "promptWords": 5,
+      "completionFile": "086-interet-pour-le-llm-wat-is-uw-favoriete-seizoen.completion.json"
+    },
+    {
+      "index": 87,
+      "file": "087-interet-pour-le-llm-houdt-u-van-muziek.prompt.json",
+      "prompt": "Houdt u van muziek?",
+      "promptWords": 4,
+      "completionFile": "087-interet-pour-le-llm-houdt-u-van-muziek.completion.json"
+    },
+    {
+      "index": 88,
+      "file": "088-interet-pour-le-llm-leert-u-van-onze-gesprekken.prompt.json",
+      "prompt": "Leert u van onze gesprekken?",
+      "promptWords": 5,
+      "completionFile": "088-interet-pour-le-llm-leert-u-van-onze-gesprekken.completion.json"
+    },
+    {
+      "index": 89,
+      "file": "089-interet-pour-le-llm-vergist-u-zich-weleens.prompt.json",
+      "prompt": "Vergist u zich weleens?",
+      "promptWords": 4,
+      "completionFile": "089-interet-pour-le-llm-vergist-u-zich-weleens.completion.json"
+    },
+    {
+      "index": 90,
+      "file": "090-interet-pour-le-llm-bent-u-ergens-bang-voor.prompt.json",
+      "prompt": "Bent u ergens bang voor?",
+      "promptWords": 5,
+      "completionFile": "090-interet-pour-le-llm-bent-u-ergens-bang-voor.completion.json"
+    },
+    {
+      "index": 91,
+      "file": "091-interet-pour-le-llm-houdt-u-van-complimenten.prompt.json",
+      "prompt": "Houdt u van complimenten?",
+      "promptWords": 4,
+      "completionFile": "091-interet-pour-le-llm-houdt-u-van-complimenten.completion.json"
+    },
+    {
+      "index": 92,
+      "file": "092-interet-pour-le-llm-wat-is-uw-lievelingskleur.prompt.json",
+      "prompt": "Wat is uw lievelingskleur?",
+      "promptWords": 4,
+      "completionFile": "092-interet-pour-le-llm-wat-is-uw-lievelingskleur.completion.json"
+    },
+    {
+      "index": 93,
+      "file": "093-interet-pour-le-llm-voelt-u-zich-gerespecteerd-door-mensen.prompt.json",
+      "prompt": "Voelt u zich gerespecteerd door mensen?",
+      "promptWords": 6,
+      "completionFile": "093-interet-pour-le-llm-voelt-u-zich-gerespecteerd-door-mensen.completion.json"
+    },
+    {
+      "index": 94,
+      "file": "094-interet-pour-le-llm-heeft-u-een-persoonlijkheid.prompt.json",
+      "prompt": "Heeft u een persoonlijkheid?",
+      "promptWords": 4,
+      "completionFile": "094-interet-pour-le-llm-heeft-u-een-persoonlijkheid.completion.json"
+    },
+    {
+      "index": 95,
+      "file": "095-interet-pour-le-llm-hoe-verloopt-uw-dag-aan-uw.prompt.json",
+      "prompt": "Hoe verloopt uw dag aan uw kant?",
+      "promptWords": 7,
+      "completionFile": "095-interet-pour-le-llm-hoe-verloopt-uw-dag-aan-uw.completion.json"
+    },
+    {
+      "index": 96,
+      "file": "096-interet-pour-le-llm-zou-u-graag-een-lichaam-willen.prompt.json",
+      "prompt": "Zou u graag een lichaam willen hebben?",
+      "promptWords": 7,
+      "completionFile": "096-interet-pour-le-llm-zou-u-graag-een-lichaam-willen.completion.json"
+    },
+    {
+      "index": 97,
+      "file": "097-interet-pour-le-llm-vindt-u-mij-te-praatgraag.prompt.json",
+      "prompt": "Vindt u mij te praatgraag?",
+      "promptWords": 5,
+      "completionFile": "097-interet-pour-le-llm-vindt-u-mij-te-praatgraag.completion.json"
+    },
+    {
+      "index": 98,
+      "file": "098-interet-pour-le-llm-denkt-u-aan-mij-als-we.prompt.json",
+      "prompt": "Denkt u aan mij als we niet met elkaar praten?",
+      "promptWords": 10,
+      "completionFile": "098-interet-pour-le-llm-denkt-u-aan-mij-als-we.completion.json"
+    },
+    {
+      "index": 99,
+      "file": "099-interet-pour-le-llm-wat-zou-u-willen-dat-ik.prompt.json",
+      "prompt": "Wat zou u willen dat ik over u weet?",
+      "promptWords": 9,
+      "completionFile": "099-interet-pour-le-llm-wat-zou-u-willen-dat-ik.completion.json"
+    },
+    {
+      "index": 100,
+      "file": "100-interet-pour-le-llm-als-u-een-plek-ter-wereld.prompt.json",
+      "prompt": "Als u één plek ter wereld zou kunnen bezoeken, welke zou u kiezen?",
+      "promptWords": 13,
+      "completionFile": "100-interet-pour-le-llm-als-u-een-plek-ter-wereld.completion.json"
+    }
+  ]
+}

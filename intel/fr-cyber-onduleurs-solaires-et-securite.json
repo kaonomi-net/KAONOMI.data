@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-onduleurs-solaires-et-securite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Onduleurs solaires et sécurité",
+  "includedEntities": [
+    {
+      "entityName": "onduleurs",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "solaires",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les risques des onduleurs solaires connectés.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "fabricants chinois",
+    "télécommande",
+    "réseau"
+  ],
+  "questions": [
+    "Quel risque ?",
+    "Quelle découverte ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ENERGIE",
+    "#CHINE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

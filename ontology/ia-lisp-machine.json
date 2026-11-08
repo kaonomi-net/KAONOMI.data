@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul symbolique) : Ordinateurs conçus pour exécuter efficacement le langage Lisp (MIT CADR, Symbolics, LMI), dont l'effondrement du marché a marqué le second hiver de l'IA.",
+  "id": "ia-lisp-machine",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Machine Lisp",
+  "entityType": "HARDWARE",
+  "description": "Ordinateurs conçus pour exécuter efficacement le langage Lisp (MIT CADR, Symbolics, LMI), dont l'effondrement du marché a marqué le second hiver de l'IA.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Le technicien a installé Machine Lisp dans la salle des machines.",
+    "Lors du salon, le stand présentait Machine Lisp en démonstration.",
+    "Le laboratoire utilise Machine Lisp pour ses travaux dans le domaine du calcul symbolique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Lisp machine"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULSYMBOLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Machine%20Lisp"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Second hiver de l'IA"
+  ],
+  "isDeleted": false,
+  "startDate": "1979-01-01T00:00:00",
+  "endDate": null
+}

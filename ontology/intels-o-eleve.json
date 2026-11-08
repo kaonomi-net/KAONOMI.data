@@ -1,0 +1,53 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-eleve",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "élève",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Suicide et harcèlement.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les drames liés au harcèlement et leurs suites."
+  ],
+  "angryLevel": null,
+  "sadLevel": 100,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "élève",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE",
+    "#HARCELEMENT"
+  ],
+  "events": [
+    "@AFFAIRE"
+  ],
+  "signals": [
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "justice",
+    "suicide",
+    "école",
+    "prévention",
+    "France",
+    "harcèlement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

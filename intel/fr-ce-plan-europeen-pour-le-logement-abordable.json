@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-plan-europeen-pour-le-logement-abordable",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Plan européen pour le logement abordable",
+  "includedEntities": [
+    {
+      "entityName": "logement abordable",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "plan",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le premier plan européen pour le logement abordable.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Jørgensen",
+    "BEI",
+    "locations touristiques"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quel financement ?",
+    "Quelle règle sur les locations courtes ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#LOGEMENT",
+    "#SOCIAL"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

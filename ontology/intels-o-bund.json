@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-bund",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "Bund",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Écart de taux avec l'Allemagne ; Écart de taux entre la France et l'Allemagne ; Bund allemand et plan d'investissement.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'écart entre les taux français et allemands.",
+    "Suivre l'écart entre les taux à dix ans français et allemands, proche de 170 points de base fin octobre 2026.",
+    "Suivre les taux allemands et la hausse des émissions liée au plan d'investissement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Bund",
+  "tags": [
+    "#DETTE",
+    "#FRANCE",
+    "#OBLIGATIONS",
+    "#MARCHES",
+    "#ALLEMAGNE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR",
+    "!RISQUE",
+    "!TAUX"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Allemagne",
+    "spread",
+    "Italie",
+    "écart",
+    "marchés",
+    "Paris",
+    "Francfort",
+    "OAT",
+    "notation",
+    "BCE"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

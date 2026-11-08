@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-cybersecurite-et-reglement-sur-la-cyberresilience",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Cybersécurité et règlement sur la cyberrésilience",
+  "includedEntities": [
+    {
+      "entityName": "cyberrésilience",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "produits connectés",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la mise en œuvre du règlement sur la cyberrésilience.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "fabricants",
+    "vulnérabilités",
+    "échéances"
+  ],
+  "questions": [
+    "Quelle obligation ?",
+    "Quel calendrier ?",
+    "Quelle simplification ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CYBER",
+    "#REGULATION"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

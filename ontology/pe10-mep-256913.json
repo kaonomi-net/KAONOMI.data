@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : France.",
+  "id": "pe10-mep-256913",
+  "dateCreated": "2026-10-31 20:22:42",
+  "name": "Emma Fourreau",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : France. Groupe politique : La Gauche au Parlement européen (GUE/NGL). Parti ou liste national : La France Insoumise.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Emma Fourreau siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Emma Fourreau figure dans le relevé des votes par appel nominal.",
+    "Emma Fourreau participe aux travaux des commissions parlementaires."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Emma FOURREAU"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256913",
+    "https://fr.wikipedia.org/w/index.php?search=Emma%20Fourreau"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "France",
+    "Parlement européen",
+    "La Gauche au Parlement européen (GUE/NGL)",
+    "La France Insoumise"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

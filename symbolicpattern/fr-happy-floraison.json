@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-floraison",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le moment où les plantes fleurissent.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:floraison(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]closion\\s+des\\s+fleurs)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:en\\s+fleurs)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fleurissement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cerisier(s)?\\s+en\\s+fleurs)(?![\\w-])"
+  ],
+  "symbol": "floraison",
+  "event": null,
+  "title": "Floraison",
+  "tags": [
+    "#NATURE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

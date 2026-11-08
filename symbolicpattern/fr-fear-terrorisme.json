@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-terrorisme",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'usage de la terreur à des fins politiques.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:terrorisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:menace\\s+terroriste)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:acte(s)?\\s+terroriste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]seau(x)?\\s+terroriste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cellule(s)?\\s+terroriste(s)?)(?![\\w-])"
+  ],
+  "symbol": "terrorisme",
+  "event": null,
+  "title": "Terrorisme",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

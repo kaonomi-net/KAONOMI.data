@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-violences-contre-les-policiers",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Violences contre les policiers",
+  "includedEntities": [
+    {
+      "entityName": "policiers",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "violences",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "agression",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les violences visant les forces de l'ordre.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "refus d'obtempérer",
+    "syndicats de police",
+    "justice"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quel bilan ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SECURITE",
+    "#POLICE"
+  ],
+  "events": [
+    "@AGRESSION"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

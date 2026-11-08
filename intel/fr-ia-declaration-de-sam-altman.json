@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-declaration-de-sam-altman",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Déclaration de Sam Altman",
+  "includedEntities": [
+    {
+      "entityName": "Sam Altman",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "OpenAI",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les déclarations publiques du dirigeant d'OpenAI.",
+  "isFuzzy": true,
+  "locations": [
+    "San Francisco"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "OpenAI",
+    "ChatGPT",
+    "AGI"
+  ],
+  "questions": [
+    "Quelle annonce ?",
+    "Quelle stratégie ?",
+    "Quelles réactions ?"
+  ],
+  "tags": [
+    "#IA",
+    "#PERSONNALITE",
+    "#OPENAI"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

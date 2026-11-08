@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (les logiciels malveillants) : Cheval de Troie bancaire qui volait les identifiants de banque en ligne, dont le code a fuité en 2011.",
+  "id": "cyber-zeus",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Zeus",
+  "entityType": "SOFTWARE",
+  "description": "Cheval de Troie bancaire qui volait les identifiants de banque en ligne, dont le code a fuité en 2011.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "Les historiens de l'informatique considèrent Zeus comme une étape des logiciels malveillants.",
+    "Le rapport d'incident cite Zeus à plusieurs reprises.",
+    "L'analyste a utilisé Zeus pendant l'enquête."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 1,
+  "disgustLevel": 2,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Zbot"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#LOGICIELSMALVEILLANTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Zeus"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Emotet"
+  ],
+  "isDeleted": false,
+  "startDate": "2007-01-01T00:00:00",
+  "endDate": null
+}

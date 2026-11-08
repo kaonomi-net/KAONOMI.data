@@ -1,0 +1,13 @@
+{
+  "index": 45,
+  "file": "065-physique-que-signifie-e-mc2.prompt.json",
+  "prompt": "Que signifie E = mc² ?",
+  "promptWords": 6,
+  "completion": "**E = mc²** est la célèbre équation d’Einstein qui exprime la *mass‑energy equivalence* (équivalence masse‑énergie).  \n\n- **E** : l’énergie totale de l’objet (en joules,\u202FJ).  \n- **m** : la masse «\u202Fau repos\u202F» de l’objet (en kilogrammes,\u202Fkg).  \n- **c** : la vitesse de la lumière dans le vide (≈\u202F3\u202F×\u202F10⁸\u202Fm/s).  \n- **c²** : la valeur de la vitesse de la lumière au carré (≈\u202F9\u202F×\u202F10¹⁶\u202Fm²/s²).\n\n---\n\n### Que dit l’équation\u202F?\n\nElle indique que **une quantité de masse possède une énergie équivalente**.  \nUn petit morceau de matière peut donc être converti en énergie, et vice‑versa.  \nLa constante **c²** est gigantesque, donc même une très petite masse se traduit par une énergie énorme.\n\n---\n\n### Exemples concrets\n\n| Situation | Masse impliquée | Énergie équivalente (≈\u202FE) |\n|-----------|----------------|--------------------------|\n| La fusion de deux noyaux d’hydrogène en un noyau d’hélium (proton‑proton) | ≈\u202F0,0002\u202Fkg | ≈\u202F1,8\u202F×\u202F10¹⁴\u202FJ (≈\u202F42\u202FMJ) |\n| La conversion d’un gramme de matière en énergie (annihilation matière‑antimatière) | 1\u202Fg | ≈\u202F9\u202F×\u202F10¹⁰\u202FJ (≈\u202F21\u202FMWh) |\n\n---\n\n### Signification plus profonde\n\n- **Relativité restreinte** : la formule provient de la théorie de la relativité restreinte d’Einstein (1905).  \n- **Physique nucléaire** : explique la puissance des réactions nucléaires (fusion dans les étoiles, fission dans les réacteurs).  \n- **Cosmologie** : la masse sombre et l’énergie sombre de l’univers sont étudiées à travers ce principe.  \n- **Technologie** : les applications comprennent les centrales nucléaires, la médecine (imagerie PET) et même les armes nucléaires.\n\n---\n\n### Rappel historique\n\n- **1911** : Einstein publie la formule comme conséquence de la relativité.  \n- **1920‑30s** : expérimentation confirmée (détection de la masse de l’énergie électromagnétique, etc.).  \n- **Aujourd’hui** : l’équation est un pilier de la physique moderne et de la compréhension de la structure de la matière.\n\n---\n\n**En résumé** : **E = mc²** signifie que la masse est une forme condensée d’énergie. Elle montre que l’énergie que nous observons dans la nature peut être issue de la conversion de masse, et vice‑versa, et elle est à la base de nombreuses avancées scientifiques et technologiques.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T18:39:15.2701916+02:00",
+  "durationSeconds": 7.44,
+  "stats": "gpt-oss:20b · 74 + 818 tokens · 7,4 s",
+  "isError": false,
+  "language": "FR"
+}

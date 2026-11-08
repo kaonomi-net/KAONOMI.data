@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (l'aide humanitaire) : Aide d'urgence aux populations touchées par des conflits ou des catastrophes.",
+  "id": "eu-dom-humanitaire",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Aide humanitaire",
+  "entityType": "DOMAIN",
+  "description": "Aide d'urgence aux populations touchées par des conflits ou des catastrophes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Les propositions législatives relatives au domaine « Aide humanitaire » passent par le Parlement et le Conseil.",
+    "La conférence portait sur l'aide humanitaire.",
+    "Le domaine « Aide humanitaire » figure dans le programme de travail de la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#AIDEHUMANITAIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Aide%20humanitaire"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Gestion des crises (Commission von der Leyen I)",
+    "Janez Lenarčič",
+    "Préparation et gestion des crises ; égalité (Commission von der Leyen II)",
+    "Hadja Lahbib",
+    "Aide humanitaire et gestion des crises (Commission Juncker)",
+    "Christos Stylianides",
+    "Coopération internationale, aide humanitaire et réaction aux crises (Commission Barroso II)",
+    "Kristalina Georgieva",
+    "Direction générale de la protection civile et des opérations d'aide humanitaire européennes",
+    "rescEU"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

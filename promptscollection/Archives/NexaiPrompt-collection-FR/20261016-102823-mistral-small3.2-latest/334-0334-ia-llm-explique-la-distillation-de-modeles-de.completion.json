@@ -1,0 +1,13 @@
+{
+  "index": 334,
+  "file": "0334-ia-llm-explique-la-distillation-de-modeles-de.prompt.json",
+  "prompt": "Explique la distillation de modèles de façon simple.",
+  "promptWords": 8,
+  "completion": "La distillation de modèles est une technique utilisée en apprentissage automatique pour créer un modèle plus petit et plus efficace à partir d'un ou plusieurs modèles plus grands et plus complexes. Voici une explication simple :\n\n1. **Modèle Enseignant (Teacher Model)** : Imaginez un modèle très performant, mais aussi très gros et lent. Ce modèle a été entraîné sur beaucoup de données et donne de très bonnes prédictions.\n\n2. **Modèle Élève (Student Model)** : C'est le modèle que vous voulez créer. Il est plus petit et plus rapide, mais il n'est pas aussi performant que le modèle enseignant.\n\n3. **Processus de Distillation** : Le modèle enseignant \"enseigne\" au modèle élève. Pendant l'entraînement du modèle élève, on utilise les prédictions du modèle enseignant comme guide. Le modèle élève essaie de reproduire les sorties du modèle enseignant, plutôt que de simplement apprendre à partir des données brutes.\n\n4. **Résultat** : Le modèle élève devient plus performant qu'il ne l'aurait été s'il avait été entraîné seul, tout en restant plus petit et plus rapide. C'est un peu comme si un élève apprenait d'un professeur expérimenté.\n\nEn résumé, la distillation de modèles permet de transférer les connaissances d'un grand modèle à un plus petit, pour obtenir un bon compromis entre performance et efficacité.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:25:48.7175434+02:00",
+  "durationSeconds": 5.99,
+  "stats": "mistral-small3.2:latest · 517 + 285 tokens · 6,0 s",
+  "isError": false,
+  "language": "FR"
+}

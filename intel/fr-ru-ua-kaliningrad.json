@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-kaliningrad",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Kaliningrad",
+  "includedEntities": [
+    {
+      "entityName": "Kaliningrad",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "Lituanie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les tensions autour de l'enclave de Kaliningrad.",
+  "isFuzzy": true,
+  "locations": [
+    "Kaliningrad",
+    "corridor de Suwałki"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Lituanie",
+    "transit",
+    "missiles"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quel déploiement ?",
+    "Quelles restrictions de transit ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#KALININGRAD",
+    "#TENSION"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

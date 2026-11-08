@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-australie",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Australie",
+  "entityType": "COUNTRY",
+  "description": "Cité par 4 intels : Alliance AUKUS ; Course au lithium ; Accord avec l'Australie ; Interdiction des réseaux sociaux aux mineurs.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre l'alliance entre l'Australie, le Royaume-Uni et les États-Unis.",
+    "Suivre l'accès au lithium nécessaire aux batteries.",
+    "Suivre la reprise des négociations commerciales avec l'Australie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Australie",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#INDO-PACIFIQUE",
+    "#DEFENSE",
+    "#MATIERES-PREMIERES",
+    "#LITHIUM",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [],
+  "signals": [
+    "!ALLIANCE",
+    "!DEPENDANCE",
+    "!COMMERCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "Canberra",
+    "AUKUS",
+    "sous-marins",
+    "Londres",
+    "Washington",
+    "sous-marins nucléaires",
+    "lithium",
+    "Chili",
+    "batteries"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

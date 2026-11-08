@@ -1,0 +1,13 @@
+{
+  "index": 233,
+  "file": "0233-cybersecurite-explique-la-securite-du-cloud-de.prompt.json",
+  "prompt": "Explique la sécurité du cloud de façon simple.",
+  "promptWords": 8,
+  "completion": "La sécurité du cloud, c'est un peu comme louer une chambre forte dans un bâtiment ultra-sécurisé plutôt que de garder ses objets de valeur chez soi.\n\n1. **Protection des données** : Les fournisseurs de cloud (comme AWS, Google Cloud ou Microsoft Azure) utilisent des technologies avancées pour protéger les données stockées. C'est comme si tes informations étaient enfermées dans un coffre-fort numérique avec des serrures à code.\n\n2. **Contrôle d'accès** : Seules les personnes autorisées peuvent accéder aux données. C'est comme donner une clé spéciale uniquement à ceux qui en ont besoin.\n\n3. **Sauvegardes et récupération** : En cas de problème (comme un incendie ou une panne), les données sont automatiquement sauvegardées et peuvent être restaurées. C'est comme avoir une copie de sécurité dans un autre endroit.\n\n4. **Chiffrement** : Les données sont transformées en code secret (chiffrement) pour les rendre illisibles en cas de vol. C'est comme écrire un message en langage codé que seul le destinataire peut comprendre.\n\n5. **Surveillance constante** : Les systèmes de cloud sont surveillés 24/7 pour détecter et bloquer les intrusions. C'est comme avoir des gardes qui patrouillent en permanence.\n\nEn résumé, le cloud est souvent plus sécurisé que les solutions locales, car les fournisseurs investissent massivement dans la protection des données. Mais il faut aussi faire sa part en utilisant des mots de passe forts et en suivant les bonnes pratiques de sécurité.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:08:20.0363323+02:00",
+  "durationSeconds": 6.84,
+  "stats": "mistral-small3.2:latest · 517 + 334 tokens · 6,8 s",
+  "isError": false,
+  "language": "FR"
+}

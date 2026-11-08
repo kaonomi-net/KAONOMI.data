@@ -1,0 +1,13 @@
+{
+  "index": 139,
+  "file": "0139-microsoft-office-how-do-i-count-non-empty.prompt.json",
+  "prompt": "How do I count non-empty cells in Excel?",
+  "promptWords": 8,
+  "completion": "To count non-empty cells in Excel, you can use the `COUNTA` function. Here's how:\n\n1. **Basic Syntax**:\n   ```\n   =COUNTA(range)\n   ```\n   Replace `range` with the cells you want to count.\n\n2. **Example**:\n   If you want to count non-empty cells in the range `A1:A10`, the formula would be:\n   ```\n   =COUNTA(A1:A10)\n   ```\n\n3. **Counting Across Multiple Ranges**:\n   You can also specify multiple ranges separated by commas:\n   ```\n   =COUNTA(A1:A10, B1:B10)\n   ```\n\n4. **Counting Non-Empty Cells in an Entire Column**:\n   To count non-empty cells in an entire column (e.g., column A), you can use:\n   ```\n   =COUNTA(A:A)\n   ```\n\nThe `COUNTA` function counts cells that are not empty, including cells with text, numbers, logical values, error values, and empty text (\"\"). If you specifically want to count cells with numerical values, you can use the `COUNT` function instead.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:29:15.6160464+02:00",
+  "durationSeconds": 6.94,
+  "stats": "mistral-small3.2:latest · 517 + 243 tokens · 6,9 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 313,
+  "file": "0313-ia-llm-qu-est-ce-que-le-chain.prompt.json",
+  "prompt": "Qu'est-ce que le chain-of-thought prompting ?",
+  "promptWords": 6,
+  "completion": "Le *chain-of-thought prompting* (ou *CoT prompting*) est une technique utilisée dans les modèles de langage pour améliorer leur capacité à résoudre des problèmes complexes en encourageant une réflexion étape par étape. Au lieu de fournir une réponse directe, le modèle est invité à expliquer son raisonnement de manière détaillée avant d'arriver à la conclusion.\n\n### Comment ça marche ?\n1. **Invitation à la réflexion** : Le modèle est guidé pour décomposer le problème en sous-étapes logiques.\n2. **Exemples de raisonnement** : Des exemples de raisonnement étape par étape peuvent être fournis pour montrer comment aborder le problème.\n3. **Réponse structurée** : Le modèle génère une réponse qui inclut les étapes intermédiaires avant d'arriver à la conclusion finale.\n\n### Exemple\n**Question** : *Quel est le résultat de 15 × 4 ?*\n\n**Réponse avec CoT** :\n1. 15 × 4 = (10 × 4) + (5 × 4)\n2. 10 × 4 = 40\n3. 5 × 4 = 20\n4. 40 + 20 = 60\n**Réponse finale** : 60\n\n### Avantages\n- Améliore la précision des réponses, surtout pour les problèmes mathématiques ou logiques.\n- Rend le processus de raisonnement plus transparent et compréhensible.\n\nCette technique est particulièrement utile pour les tâches nécessitant une logique complexe, comme les mathématiques, les raisonnements déductifs ou les problèmes de planification.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:23:00.8425149+02:00",
+  "durationSeconds": 7.23,
+  "stats": "mistral-small3.2:latest · 518 + 336 tokens · 7,2 s",
+  "isError": false,
+  "language": "FR"
+}

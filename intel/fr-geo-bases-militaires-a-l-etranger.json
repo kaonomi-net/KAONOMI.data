@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-bases-militaires-a-l-etranger",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Bases militaires à l'étranger",
+  "includedEntities": [
+    {
+      "entityName": "base militaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "étranger",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "accord",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'ouverture et la fermeture de bases militaires à l'étranger.",
+  "isFuzzy": true,
+  "locations": [
+    "Djibouti",
+    "océan Pacifique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Chine",
+    "États-Unis",
+    "France"
+  ],
+  "questions": [
+    "Quelle base ?",
+    "Quel accord ?",
+    "Quelle réaction locale ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#DEFENSE",
+    "#INFLUENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

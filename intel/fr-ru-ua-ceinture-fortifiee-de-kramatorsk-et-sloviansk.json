@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-ceinture-fortifiee-de-kramatorsk-et-sloviansk",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Ceinture fortifiée de Kramatorsk et Sloviansk",
+  "includedEntities": [
+    {
+      "entityName": "Kramatorsk",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Sloviansk",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "fortifications",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller la menace sur les dernières grandes villes ukrainiennes du Donbass.",
+  "isFuzzy": true,
+  "locations": [
+    "Kramatorsk",
+    "Sloviansk",
+    "Droujkivka"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ceinture fortifiée",
+    "artillerie",
+    "bombes planantes"
+  ],
+  "questions": [
+    "Quelles frappes sur ces villes ?",
+    "Quelle distance du front ?",
+    "Quelles évacuations ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#DONBASS",
+    "#FRONT"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

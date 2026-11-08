@@ -1,0 +1,13 @@
+{
+  "index": 171,
+  "file": "0171-microsoft-office-how-do-i-find-an-email.prompt.json",
+  "prompt": "How do I find an email with advanced search in Outlook?",
+  "promptWords": 11,
+  "completion": "To find an email using advanced search in Outlook, you can follow these steps:\n\n### **Using the Search Bar (Basic and Advanced Search)**\n1. **Open Outlook** and go to the **Mail** view.\n2. **Type your search query** in the search bar at the top of the screen.\n3. **Press Enter** to see initial results.\n4. **Refine your search** using filters:\n   - Click the **filter icon (funnel)** next to the search bar.\n   - Choose criteria like:\n     - **From** (sender)\n     - **To** (recipient)\n     - **Subject contains**\n     - **Has attachments**\n     - **Date received is** (specific date range)\n     - **Size** (small, medium, large)\n     - **Importance** (high, normal, low)\n5. **Click Search** to apply the filters.\n\n### **Using Advanced Search (More Detailed Criteria)**\n1. **Open Outlook** and go to the **Mail** view.\n2. **Click in the search bar** and press **Ctrl + Shift + A** (Windows) or **Cmd + Shift + A** (Mac) to open the **Advanced Search** pane.\n3. **Set search criteria** in the Advanced Search window:\n   - **From, To, Subject, Body, etc.**\n   - **Date range** (Received, Sent)\n   - **Size, Importance, Read/Unread status**\n   - **Folder location** (if searching in a specific folder)\n4. **Click Search** to run the query.\n\n### **Using Search Folders (For Recurring Searches)**\nIf you frequently search for the same type of emails, you can create a **Search Folder**:\n1. **Right-click on \"Search Folders\"** in the folder pane.\n2. **Select \"New Search Folder\"**.\n3. **Choose a criteria** (e.g., \"Mail from specific people\").\n4. **Click \"Choose\"** and select contacts or conditions.\n5. **Name the folder** and click **OK**.\n\nWould you like help with a specific type of search (e.g., finding large emails, unread messages, or emails from a particular sender)?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:34:46.7444507+02:00",
+  "durationSeconds": 11.64,
+  "stats": "mistral-small3.2:latest · 519 + 456 tokens · 11,6 s",
+  "isError": false,
+  "language": "EN"
+}

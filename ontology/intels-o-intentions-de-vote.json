@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-intentions-de-vote",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "intentions de vote",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : Rassemblement national en tête des sondages ; Score de la gauche dans les sondages ; Sondage Elabe ; Sondage Odoxa et OpinionWay.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le niveau du RN dans les intentions de vote.",
+    "Suivre le score cumulé et dispersé des candidats de gauche.",
+    "Suivre les sondages Elabe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "intentions de vote",
+  "tags": [
+    "#FRANCE",
+    "#SONDAGES",
+    "#RN",
+    "#GAUCHE"
+  ],
+  "events": [
+    "@SONDAGE"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sondage",
+    "Elabe",
+    "Rassemblement national",
+    "IFOP",
+    "Ipsos",
+    "Glucksmann",
+    "écologistes",
+    "Mélenchon",
+    "gauche",
+    "opinion"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

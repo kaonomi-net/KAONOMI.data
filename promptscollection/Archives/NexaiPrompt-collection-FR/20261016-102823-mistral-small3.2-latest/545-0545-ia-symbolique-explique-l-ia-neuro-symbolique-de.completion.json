@@ -1,0 +1,13 @@
+{
+  "index": 545,
+  "file": "0545-ia-symbolique-explique-l-ia-neuro-symbolique-de.prompt.json",
+  "prompt": "Explique l'IA neuro-symbolique de façon simple.",
+  "promptWords": 6,
+  "completion": "L'IA neuro-symbolique est une approche qui combine deux types d'intelligence artificielle :\n\n1. **L'IA neuronale** (ou apprentissage profond) : elle imite le fonctionnement du cerveau humain avec des réseaux de neurones artificiels. Elle est très bonne pour reconnaître des motifs dans des données complexes (comme des images ou des textes), mais elle a du mal à expliquer ses décisions ou à raisonner de manière logique.\n\n2. **L'IA symbolique** : elle utilise des règles et des symboles (comme en logique mathématique) pour représenter des connaissances et raisonner de manière explicite. Elle est transparente et bonne pour le raisonnement, mais elle a du mal à traiter des données non structurées ou ambiguës.\n\nL'IA neuro-symbolique cherche à allier les forces des deux :\n- Elle utilise l'apprentissage profond pour extraire des informations utiles à partir de données brutes.\n- Puis elle applique des méthodes symboliques pour structurer ces informations, raisonner dessus et prendre des décisions compréhensibles.\n\n**Exemple simple** :\nImaginez un système qui doit diagnostiquer une maladie à partir d'une image médicale.\n- La partie neuronale détecte des anomalies dans l'image.\n- La partie symbolique utilise des règles médicales pour interpréter ces anomalies et proposer un diagnostic explicable.\n\nEn résumé, c'est comme avoir un cerveau qui apprend par l'expérience (neuronal) et un ordinateur qui raisonne avec des règles claires (symbolique), travaillant ensemble pour être plus efficace et compréhensible.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:04:33.143553+02:00",
+  "durationSeconds": 6.65,
+  "stats": "mistral-small3.2:latest · 520 + 326 tokens · 6,6 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-pourri",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "En décomposition.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pourri(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pourri(r|t|ssent|ssait|ssant|ssante)|pourriture(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:g[âa]t[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:blet(te|s|tes)?)(?![\\w-])"
+  ],
+  "symbol": "pourri",
+  "event": null,
+  "title": "Pourri",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

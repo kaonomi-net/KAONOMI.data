@@ -1,0 +1,13 @@
+{
+  "index": 117,
+  "file": "0117-microsoft-office-comment-utiliser-la-fonction-recherchev-dans.prompt.json",
+  "prompt": "Comment utiliser la fonction RECHERCHEV dans Excel ?",
+  "promptWords": 8,
+  "completion": "La fonction RECHERCHEV (ou VLOOKUP en anglais) dans Excel est utilisée pour rechercher une valeur dans la première colonne d'un tableau et renvoyer une valeur dans la même ligne d'une colonne spécifiée. Voici comment l'utiliser :\n\n### Syntaxe de la fonction RECHERCHEV :\n```excel\n=RECHERCHEV(valeur_recherchée ; tableau_matrice ; numéro_index_col ; [valeur_proche])\n```\n\n### Paramètres :\n1. **valeur_recherchée** : La valeur que vous voulez rechercher dans la première colonne du tableau.\n2. **tableau_matrice** : La plage de cellules qui contient les données.\n3. **numéro_index_col** : Le numéro de la colonne dans le tableau d'où vous voulez renvoyer la valeur.\n4. **valeur_proche** (facultatif) :\n   - `VRAI` ou `1` : Excel recherche une valeur proche (approximative).\n   - `FAUX` ou `0` : Excel recherche une valeur exacte.\n\n### Exemple d'utilisation :\nSupposons que vous avez un tableau avec des noms dans la colonne A et des âges dans la colonne B. Vous voulez trouver l'âge de \"Jean\".\n\n| Nom    | Âge |\n|--------|-----|\n| Jean   | 25  |\n| Marie  | 30  |\n| Pierre | 28  |\n\nLa formule serait :\n```excel\n=RECHERCHEV(\"Jean\" ; A2:B4 ; 2 ; FAUX)\n```\n\n### Explications :\n- **\"Jean\"** est la valeur que vous recherchez.\n- **A2:B4** est la plage de cellules qui contient les données.\n- **2** est le numéro de la colonne où se trouve l'âge (la colonne B).\n- **FAUX** indique que vous voulez une correspondance exacte.\n\n### Remarques :\n- La fonction RECHERCHEV est sensible à la casse.\n- Si la valeur recherchée n'est pas trouvée, la fonction renvoie `#N/A`.\n- Pour des recherches plus flexibles, vous pouvez utiliser la fonction INDEX/EQUIV ou XLOOKUP (disponible dans les versions récentes d'Excel).\n\nSi vous avez besoin d'un exemple plus spécifique ou d'une aide supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:50:38.2863243+02:00",
+  "durationSeconds": 9.98,
+  "stats": "mistral-small3.2:latest · 519 + 496 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les relations interinstitutionnelles) : Commission des affaires constitutionnelles du Parlement européen, chargée de les relations interinstitutionnelles.",
+  "id": "eu-pe-afco",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission des affaires constitutionnelles (AFCO)",
+  "entityType": "ORGANISATION",
+  "description": "Commission des affaires constitutionnelles du Parlement européen, chargée de les relations interinstitutionnelles.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Commission des affaires constitutionnelles (AFCO) » préparent les textes relatifs aux relations interinstitutionnelles.",
+    "La délégation a rencontré des représentants de « Commission des affaires constitutionnelles (AFCO) ».",
+    "« Commission des affaires constitutionnelles (AFCO) » joue un rôle dans les relations interinstitutionnelles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "AFCO"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#RELATIONSINTERINSTITUTIONNELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20des%20affaires%20constitutionnelles%20%28AFCO%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Relations interinstitutionnelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

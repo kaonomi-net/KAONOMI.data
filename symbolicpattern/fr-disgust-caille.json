@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-caille",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Coagulé, tourné.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:caill[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lait\\s+caill[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grumeleu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grumeau(x)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]p[ôo]t(s)?\\s+douteu(x|se))(?![\\w-])"
+  ],
+  "symbol": "caillé",
+  "event": null,
+  "title": "Caillé",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

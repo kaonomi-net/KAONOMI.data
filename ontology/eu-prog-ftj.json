@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la politique de cohésion) : Soutien aux régions les plus touchées par la transition vers la neutralité climatique.",
+  "id": "eu-prog-ftj",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Fonds pour une transition juste",
+  "entityType": "PROGRAMME",
+  "description": "Soutien aux régions les plus touchées par la transition vers la neutralité climatique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "La Commission gère « Fonds pour une transition juste » avec les États membres ou ses agences.",
+    "Les bénéficiaires de « Fonds pour une transition juste » sont publiés en ligne.",
+    "L'appel à propositions de « Fonds pour une transition juste » est ouvert."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "FTJ"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#POLITIQUECOHESION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fonds%20pour%20une%20transition%20juste"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de la politique régionale et urbaine",
+    "Cohésion et politique régionale",
+    "Action pour le climat",
+    "Cadre financier pluriannuel 2021-2027"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-01-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

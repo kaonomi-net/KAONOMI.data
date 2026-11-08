@@ -1,0 +1,13 @@
+{
+  "index": 44,
+  "file": "064-physique-qu-est-ce-qu-un-trou.prompt.json",
+  "prompt": "Qu'est-ce qu'un trou noir ?",
+  "promptWords": 5,
+  "completion": "Un trou noir est un objet céleste extrêmement dense dont le champ gravitationnel est si intense que rien, pas même la lumière, ne peut s'en échapper une fois franchie une certaine limite appelée **horizon des événements**.\n\n### Caractéristiques principales :\n1. **Formation** : Les trous noirs se forment généralement à la fin de la vie d'une étoile massive. Lorsque le cœur de l'étoile s'effondre sous l'effet de sa propre gravité, il peut créer un trou noir si sa masse est suffisante (généralement plus de 20 à 25 masses solaires).\n\n2. **Horizon des événements** : C'est la frontière autour du trou noir au-delà de laquelle toute matière ou rayonnement est inexorablement attiré vers le centre. Sa taille est proportionnelle à la masse du trou noir (rayon de Schwarzschild).\n\n3. **Singularité** : Au centre du trou noir se trouve une singularité, un point où la densité devient infinie et où les lois de la physique classique cessent de s'appliquer.\n\n4. **Types de trous noirs** :\n   - **Trous noirs stellaires** : Formés à partir de l'effondrement d'une étoile massive.\n   - **Trous noirs supermassifs** : Situés au centre des galaxies, avec des masses allant de millions à milliards de masses solaires (ex. : Sagittarius A* au centre de la Voie lactée).\n   - **Trous noirs intermédiaires** : Moins courants, avec des masses comprises entre celles des trous noirs stellaires et supermassifs.\n\n5. **Effets observables** :\n   - **Disque d'accrétion** : Matière chauffée à des températures extrêmes en spirale vers le trou noir, émettant des rayons X.\n   - **Lentille gravitationnelle** : La lumière des objets derrière le trou noir est déviée, créant des effets de distorsion.\n\nLes trous noirs sont un sujet de recherche actif en astrophysique, notamment pour tester les théories de la relativité générale d'Einstein et explorer les conditions extrêmes de l'univers.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:24:35.9688984+02:00",
+  "durationSeconds": 21.77,
+  "stats": "mistral-small3.2:latest · 515 + 454 tokens · 21,8 s",
+  "isError": false,
+  "language": "FR"
+}

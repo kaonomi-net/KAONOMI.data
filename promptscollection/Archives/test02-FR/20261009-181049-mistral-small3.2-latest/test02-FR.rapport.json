@@ -1,0 +1,84 @@
+{
+  "collection": "test02-FR",
+  "collectionFolder": "N:\\promptscollection\\test02-FR",
+  "model": "mistral-small3.2:latest",
+  "language": "FR",
+  "date": "2026-10-09T18:10:49.6092548+02:00",
+  "endDate": "2026-10-09T18:12:33.4351755+02:00",
+  "executionTimeSeconds": 103.8,
+  "executionTime": "00:01:43",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "promptCount": 80,
+  "sentCount": 9,
+  "skippedCount": 0,
+  "stopped": true,
+  "totalPromptWords": 585,
+  "topicsSummary": "Not generated: the run was stopped with Esc.",
+  "topics": [],
+  "items": [
+    {
+      "index": 1,
+      "file": "021-cuisine-comment-reussir-une-pate-a-crepes.prompt.json",
+      "prompt": "Comment réussir une pâte à crêpes sans grumeaux ?",
+      "promptWords": 9,
+      "completionFile": "001-021-cuisine-comment-reussir-une-pate-a-crepes.completion.json"
+    },
+    {
+      "index": 2,
+      "file": "022-cuisine-quelle-est-la-recette-traditionnelle-du.prompt.json",
+      "prompt": "Quelle est la recette traditionnelle du bœuf bourguignon ?",
+      "promptWords": 9,
+      "completionFile": "002-022-cuisine-quelle-est-la-recette-traditionnelle-du.completion.json"
+    },
+    {
+      "index": 3,
+      "file": "023-cuisine-comment-faire-une-mayonnaise-maison-qui.prompt.json",
+      "prompt": "Comment faire une mayonnaise maison qui ne rate pas ?",
+      "promptWords": 10,
+      "completionFile": "003-023-cuisine-comment-faire-une-mayonnaise-maison-qui.completion.json"
+    },
+    {
+      "index": 4,
+      "file": "024-cuisine-combien-de-temps-faut-il-cuire.prompt.json",
+      "prompt": "Combien de temps faut-il cuire un œuf mollet ?",
+      "promptWords": 9,
+      "completionFile": "004-024-cuisine-combien-de-temps-faut-il-cuire.completion.json"
+    },
+    {
+      "index": 5,
+      "file": "025-cuisine-comment-reussir-une-pate-brisee-maison.prompt.json",
+      "prompt": "Comment réussir une pâte brisée maison ?",
+      "promptWords": 7,
+      "completionFile": "005-025-cuisine-comment-reussir-une-pate-brisee-maison.completion.json"
+    },
+    {
+      "index": 6,
+      "file": "026-cuisine-quelle-est-la-difference-entre-la.prompt.json",
+      "prompt": "Quelle est la différence entre la levure chimique et la levure de boulanger ?",
+      "promptWords": 14,
+      "completionFile": "006-026-cuisine-quelle-est-la-difference-entre-la.completion.json"
+    },
+    {
+      "index": 7,
+      "file": "027-cuisine-comment-faire-une-sauce-bechamel.prompt.json",
+      "prompt": "Comment faire une sauce béchamel ?",
+      "promptWords": 6,
+      "completionFile": "007-027-cuisine-comment-faire-une-sauce-bechamel.completion.json"
+    },
+    {
+      "index": 8,
+      "file": "028-cuisine-comment-cuire-du-riz-pour-qu.prompt.json",
+      "prompt": "Comment cuire du riz pour qu'il ne colle pas ?",
+      "promptWords": 10,
+      "completionFile": "008-028-cuisine-comment-cuire-du-riz-pour-qu.completion.json"
+    },
+    {
+      "index": 9,
+      "file": "029-cuisine-quelle-est-la-recette-de-la.prompt.json",
+      "prompt": "Quelle est la recette de la quiche lorraine ?",
+      "promptWords": 9,
+      "completionFile": "009-029-cuisine-quelle-est-la-recette-de-la.completion.json"
+    }
+  ]
+}

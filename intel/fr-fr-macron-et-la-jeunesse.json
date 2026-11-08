@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-macron-et-la-jeunesse",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Macron et la jeunesse",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "jeunesse",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "réseaux sociaux",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les initiatives du président envers les jeunes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "interdiction des réseaux aux mineurs",
+    "service national",
+    "écoles"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel calendrier ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#JEUNESSE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIETE"
+  ],
+  "isDeleted": false
+}

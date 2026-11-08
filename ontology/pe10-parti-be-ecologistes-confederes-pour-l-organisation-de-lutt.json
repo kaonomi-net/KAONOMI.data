@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Ecologistes Confédérés pour l'Organisation de Luttes Originales, parti ou liste de ce pays : Belgique, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-be-ecologistes-confederes-pour-l-organisation-de-lutt",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
+  "entityType": "ORGANISATION",
+  "description": "Ecologistes Confédérés pour l'Organisation de Luttes Originales, parti ou liste de ce pays : Belgique, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les eurodéputés de « Ecologistes Confédérés pour l'Organisation de Luttes Originales » ont été élus en juin 2024.",
+    "« Ecologistes Confédérés pour l'Organisation de Luttes Originales » est représenté dans le Parlement européen.",
+    "Le programme européen de « Ecologistes Confédérés pour l'Organisation de Luttes Originales » a été publié avant le scrutin."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ecologistes%20Conf%C3%A9d%C3%A9r%C3%A9s%20pour%20l%27Organisation%20de%20Luttes%20Originales"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Saskia Bricmont",
+    "Belgique",
+    "Les Verts/Alliance libre européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

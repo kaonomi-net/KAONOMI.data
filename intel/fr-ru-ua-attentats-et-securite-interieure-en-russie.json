@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-attentats-et-securite-interieure-en-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Attentats et sécurité intérieure en Russie",
+  "includedEntities": [
+    {
+      "entityName": "attentat",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "FSB",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les attentats et opérations antiterroristes en Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou",
+    "Caucase du Nord"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "FSB",
+    "État islamique",
+    "sécurité"
+  ],
+  "questions": [
+    "Quel attentat ?",
+    "Qui est soupçonné ?",
+    "Quel bilan ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#TERRORISME",
+    "#SECURITE"
+  ],
+  "events": [
+    "@ATTENTAT"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

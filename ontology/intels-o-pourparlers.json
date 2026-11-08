@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-pourparlers",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "pourparlers",
+  "entityType": "EVENT",
+  "description": "Cité par 3 intels : Pourparlers d'Abou Dhabi ; Délégation russe menée par Medinski ; Rôle des Émirats arabes unis.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les pourparlers russo-ukrainiens prévus à Abou Dhabi et leurs résultats.",
+    "Suivre le rôle de Vladimir Medinski, négociateur en chef de Moscou.",
+    "Suivre le rôle des Émirats dans les pourparlers et les échanges."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "pourparlers",
+  "tags": [
+    "#RUSSIE",
+    "#UKRAINE",
+    "#NEGOCIATIONS",
+    "#KREMLIN",
+    "#EMIRATS",
+    "#MEDIATION"
+  ],
+  "events": [
+    "@POURPARLERS",
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!DESESCALADE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Abou Dhabi",
+    "Émirats arabes unis",
+    "Medinski",
+    "Russie",
+    "États-Unis",
+    "Ukraine",
+    "Istanbul",
+    "Kremlin",
+    "délégation",
+    "médiation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

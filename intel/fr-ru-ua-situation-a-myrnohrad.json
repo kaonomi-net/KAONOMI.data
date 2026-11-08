@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-situation-a-myrnohrad",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Situation à Myrnohrad",
+  "includedEntities": [
+    {
+      "entityName": "Myrnohrad",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "armée russe",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation autour de Myrnohrad.",
+  "isFuzzy": true,
+  "locations": [
+    "Myrnohrad"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pokrovsk",
+    "Donetsk",
+    "combats"
+  ],
+  "questions": [
+    "Quelle ligne tient ?",
+    "Quels mouvements ?",
+    "Quelles évacuations ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#DONBASS",
+    "#FRONT"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

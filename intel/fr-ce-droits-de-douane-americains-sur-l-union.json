@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-droits-de-douane-americains-sur-l-union",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Droits de douane américains sur l'Union",
+  "includedEntities": [
+    {
+      "entityName": "droits de douane",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "États-Unis",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les droits de douane américains et l'accord commercial transatlantique.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Šefčovič",
+    "acier",
+    "automobile"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quel accord ?",
+    "Quelle riposte européenne ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#ETATS-UNIS"
+  ],
+  "events": [
+    "@HAUSSE-TARIFS"
+  ],
+  "signals": [
+    "!TENSION-COMMERCIALE"
+  ],
+  "isDeleted": false
+}

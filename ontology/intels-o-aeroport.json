@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-aeroport",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "aéroport",
+  "entityType": "LOCATION",
+  "description": "Cité par 3 intels : Drones au-dessus des aéroports européens ; Ballons de contrebande depuis la Biélorussie ; Cybersécurité des transports.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Repérer les survols de drones fermant des aéroports en Europe.",
+    "Suivre les ballons venus de Biélorussie qui perturbent l'aéroport de Vilnius.",
+    "Repérer les cyberattaques contre les aéroports, gares et compagnies."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "aéroport",
+  "tags": [
+    "#GUERRE-HYBRIDE",
+    "#EUROPE",
+    "#DRONES",
+    "#LITUANIE",
+    "#BIELORUSSIE",
+    "#CYBERSECURITE"
+  ],
+  "events": [
+    "@FERMETURE-AEROPORT",
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!PERTURBATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Oslo",
+    "Munich",
+    "armée",
+    "drones",
+    "police",
+    "Russie",
+    "Copenhague",
+    "Lituanie",
+    "Vilnius",
+    "frontière"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

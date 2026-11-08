@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-affaire-de-corruption-mindich",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Affaire de corruption Mindich",
+  "includedEntities": [
+    {
+      "entityName": "Mindich",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "corruption",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'enquête de corruption visant l'entourage présidentiel.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "NABU",
+    "Energoatom",
+    "proches du pouvoir"
+  ],
+  "questions": [
+    "Qui est mis en cause ?",
+    "Quelles inculpations ?",
+    "Quelles démissions ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#CORRUPTION",
+    "#POLITIQUE"
+  ],
+  "events": [
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!SCANDALE"
+  ],
+  "isDeleted": false
+}

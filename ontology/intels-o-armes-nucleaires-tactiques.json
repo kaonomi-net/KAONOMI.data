@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-armes-nucleaires-tactiques",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "armes nucléaires tactiques",
+  "entityType": "HARDWARE",
+  "description": "Cité par 1 intel : Biélorussie et présence militaire russe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre le rôle de la Biélorussie aux côtés de la Russie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "armes nucléaires tactiques",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#BIELORUSSIE",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "frontière polonaise",
+    "Minsk",
+    "Loukachenko",
+    "armée russe",
+    "Biélorussie",
+    "Pologne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

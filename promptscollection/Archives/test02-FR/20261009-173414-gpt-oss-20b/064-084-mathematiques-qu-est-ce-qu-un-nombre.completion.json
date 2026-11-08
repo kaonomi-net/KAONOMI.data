@@ -1,0 +1,13 @@
+{
+  "index": 64,
+  "file": "084-mathematiques-qu-est-ce-qu-un-nombre.prompt.json",
+  "prompt": "Qu'est-ce qu'un nombre premier ?",
+  "promptWords": 5,
+  "completion": "Un **nombre premier** est un nombre entier naturel strictement supérieur à\u202F1 qui possède exactement deux diviseurs positifs :\u202F1 et lui‑même.  \n\nEn d’autres termes, un nombre \\(p\\) est premier si et seulement si la seule façon de l’écrire comme produit de deux entiers positifs est  \n\\(p = 1 \\times p\\) (ou \\(p = p \\times 1\\)).  \n\n### Quelques points clés\n\n| Point | Explication |\n|-------|-------------|\n| **\\(1\\) n’est pas premier** | Bien qu’il ait un seul diviseur (il‑même), la définition exige deux diviseurs distincts. |\n| **Le seul nombre premier pair** | C’est \\(2\\). Tout autre nombre pair est divisible par\u202F2, donc composite. |\n| **Exemples de nombres premiers** | 2,\u202F3,\u202F5,\u202F7,\u202F11,\u202F13,\u202F17,\u202F19,\u202F23,\u202F29, … |\n| **Exemples de nombres composés** | 4\u202F=\u202F2×2, 6\u202F=\u202F2×3, 9\u202F=\u202F3×3, 15\u202F=\u202F3×5, etc. |\n| **Infinité** | Euclide a montré qu’il existe une infinité de nombres premiers. |\n| **Théorème fondamental de l’algèbre arithmétique** | Tout entier >\u202F1 peut être écrit de façon unique (à l’ordre des facteurs) comme produit de nombres premiers. |\n\n### Pourquoi c’est important\n\nLes nombres premiers sont les “briques de construction” des entiers. En cryptographie, par exemple, on utilise de très grands nombres premiers pour générer des clés sécurisées (RSA, Diffie‑Hellman, etc.).  \n\n### Vérifier la primalité\n\nPour tester si un nombre \\(n\\) est premier, on peut :\n\n1. **Essayer de diviser** \\(n\\) par tous les entiers \\(d\\) tels que \\(2 \\le d \\le \\sqrt{n}\\).  \n   - Si aucune division n’est exacte, \\(n\\) est premier.  \n2. Utiliser des **algorithmes plus rapides** (test de Miller–Rabin, test de Lucas, etc.) surtout quand \\(n\\) est très grand.\n\n---\n\n**En résumé** :  \nUn nombre premier >\u202F1 a exactement deux diviseurs positifs (1 et lui‑même). C’est une propriété fondamentale qui fait de ces nombres un élément clé de la théorie des nombres et de nombreuses applications pratiques.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T17:47:36.1675882+02:00",
+  "durationSeconds": 7.42,
+  "stats": "gpt-oss:20b · 75 + 755 tokens · 7,4 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-tombe",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le lieu où l'on enterre un mort.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:tombe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tombeau(x)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s[ée]pulture(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:caveau(x)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mausol[ée]e(s)?)(?![\\w-])"
+  ],
+  "symbol": "tombe",
+  "event": null,
+  "title": "Tombe",
+  "tags": [
+    "#MORT",
+    "#DEUIL"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

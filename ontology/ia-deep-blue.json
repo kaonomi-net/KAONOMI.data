@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (les jeux) : Superordinateur d'IBM spécialisé dans les échecs, doté de puces dédiées à l'évaluation des positions, vainqueur de Garry Kasparov en 1997.",
+  "id": "ia-deep-blue",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Deep Blue",
+  "entityType": "HARDWARE",
+  "description": "Superordinateur d'IBM spécialisé dans les échecs, doté de puces dédiées à l'évaluation des positions, vainqueur de Garry Kasparov en 1997.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Deep Blue a marqué l'histoire du matériel consacré aux jeux.",
+    "La fiche technique de Deep Blue détaille ses performances.",
+    "Pour ce projet d'IA, l'équipe a comparé Deep Blue à d'autres solutions matérielles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "IBM Deep Blue"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#JEUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Deep%20Blue"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Victoire de Deep Blue sur Kasparov",
+    "Élagage alpha-bêta"
+  ],
+  "isDeleted": false,
+  "startDate": "1997-01-01T00:00:00",
+  "endDate": null
+}

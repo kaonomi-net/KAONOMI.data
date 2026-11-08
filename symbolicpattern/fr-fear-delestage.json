@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-delestage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les coupures de courant organisées.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]lestage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coupure(s)?\\s+de\\s+courant)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:panne(s)?\\s+g[ée]n[ée]rale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:black-out)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]nurie(s)?\\s+d['’][ée]lectricit[ée])(?![\\w-])"
+  ],
+  "symbol": "délestage",
+  "event": null,
+  "title": "Délestage",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

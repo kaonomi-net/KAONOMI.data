@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-effritement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une dégradation lente.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:effritement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:effrit(er|e|[ée]|[ée]e)|[ée]rosion(s)?\\s+du\\s+pouvoir\\s+d['’]achat)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rogn[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grignot[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "effritement",
+  "event": null,
+  "title": "Effritement",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

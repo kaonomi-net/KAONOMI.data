@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-conseil-de-securite-russe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Conseil de sécurité russe",
+  "includedEntities": [
+    {
+      "entityName": "Conseil de sécurité",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Poutine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "réunion",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les réunions du Conseil de sécurité de la Fédération de Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Choïgou",
+    "défense",
+    "menaces"
+  ],
+  "questions": [
+    "Quel sujet ?",
+    "Quelles décisions ?",
+    "Qui intervient ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#RUSSIE",
+    "#SECURITE"
+  ],
+  "events": [
+    "@REUNION"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-qilin",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "Qilin",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Groupe Qilin.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'activité du groupe Qilin."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Qilin",
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL"
+  ],
+  "events": [
+    "@RANCONGICIEL"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "santé",
+    "double extorsion",
+    "rançongiciel",
+    "affiliés"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

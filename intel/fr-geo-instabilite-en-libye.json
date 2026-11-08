@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-instabilite-en-libye",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Instabilité en Libye",
+  "includedEntities": [
+    {
+      "entityName": "Libye",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Tripoli",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "milices",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la division politique et les affrontements en Libye.",
+  "isFuzzy": true,
+  "locations": [
+    "Tripoli",
+    "Benghazi"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Haftar",
+    "pétrole",
+    "migrants"
+  ],
+  "questions": [
+    "Quels affrontements ?",
+    "Quelle production de pétrole ?",
+    "Quelles élections ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#LIBYE",
+    "#AFRIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!INSTABILITE"
+  ],
+  "isDeleted": false
+}

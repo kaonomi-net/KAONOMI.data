@@ -1,0 +1,13 @@
+{
+  "index": 968,
+  "file": "0968-rust-explique-les-closures-en-rust-avec.prompt.json",
+  "prompt": "Explique les closures en Rust avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "Les closures en Rust sont des fonctions anonymes que vous pouvez stocker dans une variable ou passer comme argument à d'autres fonctions. Elles capturent leur environnement, ce qui signifie qu'elles peuvent accéder aux variables définies dans la portée dans laquelle elles sont créées.\n\nVoici un exemple simple pour illustrer les closures en Rust :\n\n```rust\nfn main() {\n    // Définition d'une variable\n    let nombre = 5;\n\n    // Création d'une closure qui utilise la variable `nombre`\n    let ma_closure = || {\n        println!(\"La valeur de nombre est : {}\", nombre);\n    };\n\n    // Appel de la closure\n    ma_closure();\n}\n```\n\nDans cet exemple :\n1. Nous définissons une variable `nombre` avec la valeur `5`.\n2. Nous créons une closure `ma_closure` qui capture la variable `nombre` et l'affiche.\n3. Nous appelons la closure avec `ma_closure()`.\n\nLes closures en Rust peuvent également prendre des paramètres et retourner des valeurs. Voici un autre exemple plus complet :\n\n```rust\nfn main() {\n    // Création d'une closure qui prend deux paramètres et retourne leur somme\n    let addition = |a: i32, b: i32| -> i32 {\n        a + b\n    };\n\n    // Appel de la closure\n    let resultat = addition(3, 4);\n    println!(\"Le résultat est : {}\", resultat);\n}\n```\n\nDans cet exemple :\n1. Nous créons une closure `addition` qui prend deux paramètres de type `i32` et retourne leur somme.\n2. Nous appelons la closure avec `addition(3, 4)` et stockons le résultat dans la variable `resultat`.\n3. Nous affichons le résultat.\n\nLes closures sont très utiles en Rust pour passer du comportement en tant que données, par exemple pour personnaliser des itérateurs ou des fonctions de traitement.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:56:49.4372478+02:00",
+  "durationSeconds": 8.22,
+  "stats": "mistral-small3.2:latest · 519 + 406 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

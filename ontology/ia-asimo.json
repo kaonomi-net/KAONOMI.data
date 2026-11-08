@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (la robotique) : Robot humanoïde de Honda capable de marcher, courir et monter des escaliers, présenté en 2000.",
+  "id": "ia-asimo",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "ASIMO",
+  "entityType": "HARDWARE",
+  "description": "Robot humanoïde de Honda capable de marcher, courir et monter des escaliers, présenté en 2000.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Pour ce projet d'IA, l'équipe a comparé ASIMO à d'autres solutions matérielles.",
+    "ASIMO a marqué l'histoire du matériel consacré à la robotique.",
+    "La fiche technique de ASIMO détaille ses performances."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Advanced Step in Innovative Mobility"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#ROBOTIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=ASIMO"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Boston Dynamics Spot"
+  ],
+  "isDeleted": false,
+  "startDate": "2000-01-01T00:00:00",
+  "endDate": null
+}

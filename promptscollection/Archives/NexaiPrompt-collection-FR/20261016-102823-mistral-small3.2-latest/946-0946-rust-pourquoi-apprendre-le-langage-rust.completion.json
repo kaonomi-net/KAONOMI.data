@@ -1,0 +1,13 @@
+{
+  "index": 946,
+  "file": "0946-rust-pourquoi-apprendre-le-langage-rust.prompt.json",
+  "prompt": "Pourquoi apprendre le langage Rust ?",
+  "promptWords": 6,
+  "completion": "Apprendre le langage Rust présente plusieurs avantages, notamment dans le domaine du développement logiciel moderne. Voici quelques raisons pour lesquelles Rust est un langage intéressant à maîtriser :\n\n1. **Sécurité de la mémoire** : Rust est conçu pour éviter les erreurs courantes liées à la gestion de la mémoire, comme les fuites de mémoire, les accès mémoire invalides et les conditions de course. Cela rend le code plus sûr et plus fiable.\n\n2. **Performances élevées** : Rust offre des performances comparables à celles des langages compilés comme C et C++, ce qui le rend idéal pour les applications nécessitant une grande efficacité.\n\n3. **Concurrency sans danger** : Rust facilite l'écriture de code concurrent sans les problèmes typiques de concurrence comme les conditions de course, grâce à son système de propriété et de emprunt.\n\n4. **Modernité et expressivité** : Rust combine des fonctionnalités modernes avec une syntaxe expressive, ce qui permet d'écrire du code clair et maintenable.\n\n5. **Communauté et écosystème** : Rust bénéficie d'une communauté active et d'un écosystème riche, avec des bibliothèques et des outils qui facilitent le développement.\n\n6. **Utilisations variées** : Rust est utilisé dans divers domaines, notamment le développement système, les applications web, l'embarqué, et même le développement de blockchain.\n\n7. **Popularité croissante** : Rust est régulièrement classé comme l'un des langages les plus aimés par les développeurs dans des enquêtes comme le Stack Overflow Developer Survey.\n\nEn résumé, apprendre Rust peut être très bénéfique pour les développeurs qui cherchent à écrire du code sûr, performant et moderne.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:52:13.2776158+02:00",
+  "durationSeconds": 7.23,
+  "stats": "mistral-small3.2:latest · 514 + 358 tokens · 7,2 s",
+  "isError": false,
+  "language": "FR"
+}

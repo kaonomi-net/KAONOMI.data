@@ -1,0 +1,13 @@
+{
+  "index": 547,
+  "file": "0547-prolog-comment-ecrire-des-faits-et-des.prompt.json",
+  "prompt": "Comment écrire des faits et des règles en Prolog ?",
+  "promptWords": 10,
+  "completion": "En Prolog, les faits et les règles sont les éléments fondamentaux pour représenter des connaissances. Voici comment les écrire :\n\n### 1. **Faits**\nLes faits sont des assertions simples qui décrivent des vérités dans le domaine. Ils sont écrits sous la forme :\n```prolog\nnom_predicat(argument1, argument2, ...).\n```\nExemples :\n```prolog\nhumain(socrate).\nhumain(platon).\nmortel(X) :- humain(X).\n```\nDans cet exemple, `humain(socrate)` et `humain(platon)` sont des faits qui indiquent que Socrate et Platon sont des humains. La règle `mortel(X) :- humain(X).` est une règle qui déduit que tout humain est mortel.\n\n### 2. **Règles**\nLes règles permettent de déduire de nouvelles informations à partir de faits et d'autres règles. Elles sont écrites sous la forme :\n```prolog\nconclusion :- condition1, condition2, ....\n```\nExemples :\n```prolog\npere(jacques, marie).\nmere(marie, paul).\nparent(X, Y) :- pere(X, Y).\nparent(X, Y) :- mere(X, Y).\n```\nDans cet exemple, `pere(jacques, marie)` et `mere(marie, paul)` sont des faits. Les règles `parent(X, Y) :- pere(X, Y).` et `parent(X, Y) :- mere(X, Y).` définissent que quelqu'un est un parent s'il est soit un père soit une mère.\n\n### 3. **Exemple Complet**\nVoici un exemple complet qui combine faits et règles :\n```prolog\n% Faits\nhumain(socrate).\nhumain(platon).\npere(socrate, plato).\nmere(mere_socrate, socrate).\n\n% Règles\nmortel(X) :- humain(X).\nparent(X, Y) :- pere(X, Y).\nparent(X, Y) :- mere(X, Y).\ngrand_parent(X, Z) :- parent(X, Y), parent(Y, Z).\n```\nDans cet exemple, nous avons des faits sur les humains et les relations de parenté, ainsi que des règles pour déduire qui est mortel, qui est un parent, et qui est un grand-parent.\n\n### 4. **Consultation en Prolog**\nPour consulter ces faits et règles, vous pouvez utiliser un interpréteur Prolog comme SWI-Prolog. Par exemple, pour savoir si Socrate est mortel, vous pouvez écrire :\n```prolog\n?- mortel(socrate).\n```\nL'interpréteur répondra `true` si la règle est satisfaite.\n\nSi vous avez des questions plus spécifiques ou si vous souhaitez des exemples supplémentaires, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:04:46.224812+02:00",
+  "durationSeconds": 11.69,
+  "stats": "mistral-small3.2:latest · 518 + 583 tokens · 11,7 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Appel chrétien-démocrate (CDA), parti politique de ce pays : Pays-Bas.",
+  "id": "eu-parti-cda",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Appel chrétien-démocrate (CDA)",
+  "entityType": "ORGANISATION",
+  "description": "Appel chrétien-démocrate (CDA), parti politique de ce pays : Pays-Bas. Il est affilié à la famille Parti populaire européen (PPE).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Appel chrétien-démocrate (CDA) ».",
+    "Les décisions de « Appel chrétien-démocrate (CDA) » touchent la vie politique nationale.",
+    "Le rapport annuel de « Appel chrétien-démocrate (CDA) » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Appel%20chr%C3%A9tien-d%C3%A9mocrate%20%28CDA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pays-Bas",
+    "Parti populaire européen (PPE)",
+    "Wopke Hoekstra"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

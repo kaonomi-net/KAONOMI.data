@@ -1,0 +1,13 @@
+{
+  "index": 24,
+  "file": "024-politesse-es-tut-mir-leid-ich-habe.prompt.json",
+  "prompt": "Es tut mir leid, ich habe einen Fehler in meiner Frage gemacht.",
+  "promptWords": 12,
+  "completion": "Kein Problem! Was möchtest du gerne wissen oder welche Frage möchtest du korrigieren? Ich helfe dir gerne weiter. \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:07:25.0103336+02:00",
+  "durationSeconds": 0.92,
+  "stats": "mistral-small3.2:latest · 521 + 33 tokens · 0,9 s",
+  "isError": false,
+  "language": "DE"
+}

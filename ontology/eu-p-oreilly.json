@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la vie politique européenne) : Journaliste irlandaise, Médiatrice européenne de 2013 à 2025.",
+  "id": "eu-p-oreilly",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Emily O'Reilly",
+  "entityType": "PERSON",
+  "description": "Journaliste irlandaise, Médiatrice européenne de 2013 à 2025.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-dirigeants",
+  "sentencesExemples": [
+    "Les manuels sur les institutions européennes citent Emily O'Reilly.",
+    "Le portrait de Emily O'Reilly figure dans le dossier consacré à la vie politique européenne.",
+    "La presse européenne a longuement commenté le parcours de Emily O'Reilly."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "O'Reilly"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#VIEPOLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Emily%20O%27Reilly"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité irlandaise",
+    "Journaliste",
+    "Médiateur européen"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

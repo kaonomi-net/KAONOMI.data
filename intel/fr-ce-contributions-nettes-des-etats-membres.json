@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-contributions-nettes-des-etats-membres",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Contributions nettes des États membres",
+  "includedEntities": [
+    {
+      "entityName": "contributeurs nets",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "rabais",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "frugaux",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur les contributions et les rabais des États membres.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pays-Bas",
+    "Allemagne",
+    "Suède"
+  ],
+  "questions": [
+    "Quelle exigence ?",
+    "Quel rabais ?",
+    "Quel compromis ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#BUDGET-UE",
+    "#FRUGAUX"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 126,
+  "file": "0126-microsoft-office-comment-faire-un-graphique-combine-dans.prompt.json",
+  "prompt": "Comment faire un graphique combiné dans Excel ?",
+  "promptWords": 8,
+  "completion": "Pour créer un graphique combiné dans Excel, vous pouvez suivre ces étapes :\n\n1. **Préparer vos données** :\n   - Assurez-vous que vos données sont bien organisées dans une feuille de calcul. Par exemple, vous pourriez avoir des colonnes pour les catégories, les valeurs pour un premier type de graphique (comme une colonne), et les valeurs pour un deuxième type de graphique (comme une ligne).\n\n2. **Insérer un premier graphique** :\n   - Sélectionnez les données que vous souhaitez inclure dans le premier type de graphique.\n   - Allez dans l'onglet **Insertion** et choisissez le type de graphique approprié (par exemple, un graphique en colonnes).\n\n3. **Ajouter un deuxième type de graphique** :\n   - Cliquez sur le graphique que vous venez de créer pour le sélectionner.\n   - Allez dans l'onglet **Création de graphiques** qui apparaît dans le ruban.\n   - Cliquez sur **Modifier le type de graphique**.\n   - Dans la fenêtre qui s'ouvre, sélectionnez les séries de données que vous souhaitez modifier.\n   - Choisissez un nouveau type de graphique pour ces séries (par exemple, un graphique en lignes).\n\n4. **Personnaliser le graphique** :\n   - Vous pouvez ajuster les axes, les titres, les légendes et d'autres éléments pour rendre le graphique plus clair et plus informatif.\n   - Utilisez les outils de mise en forme disponibles dans l'onglet **Création de graphiques** pour personnaliser l'apparence de votre graphique combiné.\n\n5. **Vérifier et ajuster** :\n   - Assurez-vous que les deux types de graphiques sont bien alignés et que les données sont correctement représentées.\n   - Faites des ajustements si nécessaire pour améliorer la lisibilité et la compréhension du graphique.\n\nSi vous avez besoin d'instructions plus détaillées ou d'un exemple spécifique, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:52:07.0855801+02:00",
+  "durationSeconds": 8.83,
+  "stats": "mistral-small3.2:latest · 517 + 436 tokens · 8,8 s",
+  "isError": false,
+  "language": "FR"
+}

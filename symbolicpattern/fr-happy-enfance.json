@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-enfance",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les premières années de la vie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:enfance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:enfantin(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:innocence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[âa]ge\\s+tendre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cour\\s+de\\s+r[ée]cr[ée](ation)?)(?![\\w-])"
+  ],
+  "symbol": "enfance",
+  "event": null,
+  "title": "Enfance",
+  "tags": [
+    "#ENFANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

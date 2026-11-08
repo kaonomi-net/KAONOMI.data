@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (les statistiques européennes) : Production de statistiques harmonisées sur l'économie et la société européennes.",
+  "id": "eu-dom-statistiques",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Statistiques",
+  "entityType": "DOMAIN",
+  "description": "Production de statistiques harmonisées sur l'économie et la société européennes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Statistiques » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Statistiques ».",
+    "Plusieurs commissaires ont été chargés du domaine « Statistiques »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#STATISTIQUESEUROPEENNES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Statistiques"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Eurostat"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

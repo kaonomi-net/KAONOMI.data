@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-hyperinflation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une inflation hors de contrôle.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:hyperinflation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inflation\\s+galopante)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:monnaie\\s+de\\s+singe)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:billet(s)?\\s+sans\\s+valeur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prix\\s+qui\\s+doublent)(?![\\w-])"
+  ],
+  "symbol": "hyperinflation",
+  "event": null,
+  "title": "Hyperinflation",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

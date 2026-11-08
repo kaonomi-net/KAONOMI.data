@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-tarifs",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "tarifs",
+  "entityType": "PRODUCT",
+  "description": "Cité par 3 intels : Accord de libre-échange avec l'Inde ; Dispositif Mon soutien psy ; Profession de psychologue.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre la négociation de l'accord de libre-échange entre l'Union et l'Inde.",
+    "Suivre le dispositif de séances de psychologue remboursées.",
+    "Suivre l'actualité de la profession de psychologue."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "tarifs",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#INDE",
+    "#SANTE-MENTALE",
+    "#REMBOURSEMENT"
+  ],
+  "events": [
+    "@ACCORD"
+  ],
+  "signals": [
+    "!COMMERCE",
+    "!ACCES-AUX-SOINS",
+    "!PROFESSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "psychologues",
+    "France",
+    "Inde",
+    "services",
+    "New Delhi",
+    "libre-échange",
+    "Modi",
+    "Bruxelles",
+    "Assurance maladie",
+    "séances"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

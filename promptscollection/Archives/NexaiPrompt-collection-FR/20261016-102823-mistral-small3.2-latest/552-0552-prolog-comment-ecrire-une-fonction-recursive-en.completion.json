@@ -1,0 +1,13 @@
+{
+  "index": 552,
+  "file": "0552-prolog-comment-ecrire-une-fonction-recursive-en.prompt.json",
+  "prompt": "Comment écrire une fonction récursive en Prolog ?",
+  "promptWords": 8,
+  "completion": "Écrire une fonction récursive en Prolog est assez différent de ce que l'on fait dans d'autres langages de programmation. En Prolog, on définit des prédicats récursifs qui s'appellent eux-mêmes pour résoudre des problèmes. Voici un exemple simple pour illustrer comment écrire une fonction récursive en Prolog.\n\n### Exemple : Calcul de la factorielle\n\nLa factorielle d'un nombre \\( n \\) (noté \\( n! \\)) est le produit de tous les entiers de 1 à \\( n \\). Par exemple, \\( 5! = 5 \\times 4 \\times 3 \\times 2 \\times 1 = 120 \\).\n\nVoici comment on peut définir un prédicat récursif pour calculer la factorielle en Prolog :\n\n```prolog\nfact(0, 1).          % Cas de base : 0! = 1\nfact(N, Result) :-   % Cas récursif : N! = N * (N-1)!\n    N > 0,\n    N1 is N - 1,\n    fact(N1, Result1),\n    Result is N * Result1.\n```\n\n### Explication :\n\n1. **Cas de base** : `fact(0, 1).` définit que la factorielle de 0 est 1. C'est le point d'arrêt de la récursion.\n2. **Cas récursif** : `fact(N, Result) :- N > 0, N1 is N - 1, fact(N1, Result1), Result is N * Result1.` définit que pour un nombre \\( N \\) supérieur à 0, la factorielle est \\( N \\) multiplié par la factorielle de \\( N-1 \\).\n\n### Utilisation :\n\nPour utiliser ce prédicat, vous pouvez faire des requêtes comme :\n\n```prolog\n?- fact(5, Result).\nResult = 120.\n```\n\n### Autres exemples de récursivité en Prolog\n\n#### Somme d'une liste\n\n```prolog\nsum([], 0).          % Cas de base : la somme d'une liste vide est 0\nsum([Head|Tail], Sum) :-  % Cas récursif : la somme est Head + somme de Tail\n    sum(Tail, SumTail),\n    Sum is Head + SumTail.\n```\n\n#### Longueur d'une liste\n\n```prolog\nlength([], 0).          % Cas de base : la longueur d'une liste vide est 0\nlength([_|Tail], Length) :-  % Cas récursif : la longueur est 1 + longueur de Tail\n    length(Tail, LengthTail),\n    Length is 1 + LengthTail.\n```\n\n### Points clés à retenir :\n\n1. **Cas de base** : Toujours définir un cas de base pour arrêter la récursion.\n2. **Cas récursif** : Décomposer le problème en un sous-problème plus petit.\n3. **Unification** : Utiliser l'unification pour manipuler les termes et les listes.\n\nSi vous avez un problème spécifique en tête, n'hésitez pas à le décrire, et je pourrai vous aider à écrire la récursion correspondante en Prolog !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:05:53.6652751+02:00",
+  "durationSeconds": 13.7,
+  "stats": "mistral-small3.2:latest · 517 + 678 tokens · 13,7 s",
+  "isError": false,
+  "language": "FR"
+}

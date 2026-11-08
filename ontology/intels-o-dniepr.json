@@ -1,0 +1,56 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-dniepr",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "Dniepr",
+  "entityType": "LOCATION",
+  "description": "Cité par 2 intels : Secteur de Kamianske et du réservoir de Kakhovka ; Opérations sur les îles du Dniepr.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre la situation le long de l'ancien réservoir de Kakhovka.",
+    "Suivre les opérations sur les îles et la rive gauche du Dniepr."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Dniepr",
+  "tags": [
+    "#UKRAINE",
+    "#FRONT",
+    "#ZAPORIJIA",
+    "#KHERSON"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kakhovka",
+    "armée russe",
+    "Kamianske",
+    "Vassylivka",
+    "barrage détruit",
+    "forces spéciales",
+    "Kherson",
+    "Krynky",
+    "îles du Dniepr",
+    "drones"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

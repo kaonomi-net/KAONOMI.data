@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-niveau-des-eleves",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "niveau des élèves",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Éducation nationale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les réformes et difficultés de l'école."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "niveau des élèves",
+  "tags": [
+    "#FRANCE",
+    "#EDUCATION",
+    "#SOCIAL"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Éducation nationale",
+    "école",
+    "enseignants",
+    "postes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-logiciels-malveillants-pilotes-par-ia",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Logiciels malveillants pilotés par IA",
+  "includedEntities": [
+    {
+      "entityName": "logiciel malveillant",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les logiciels malveillants qui utilisent des modèles d'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "polymorphisme",
+    "API de modèles",
+    "détection"
+  ],
+  "questions": [
+    "Quel logiciel ?",
+    "Quel modèle ?",
+    "Quelle détection ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#MALWARE"
+  ],
+  "events": [
+    "@DECOUVERTE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

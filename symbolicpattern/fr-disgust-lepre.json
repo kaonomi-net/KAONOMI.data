@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-lepre",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une maladie qui ronge la peau.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:l[èe]pre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:l[ée]preu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:galeu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:teigne(s)?)(?![\\w-])"
+  ],
+  "symbol": "lèpre",
+  "event": null,
+  "title": "Lèpre",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

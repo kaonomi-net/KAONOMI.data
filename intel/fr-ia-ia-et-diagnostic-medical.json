@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-ia-et-diagnostic-medical",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "IA et diagnostic médical",
+  "includedEntities": [
+    {
+      "entityName": "diagnostic",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "médecine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage de l'IA pour aider au diagnostic médical.",
+  "isFuzzy": true,
+  "locations": [
+    "hôpitaux"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "radiologie",
+    "HAS",
+    "dispositif médical"
+  ],
+  "questions": [
+    "Quelle fiabilité ?",
+    "Quelle autorisation ?",
+    "Quel rôle pour le médecin ?"
+  ],
+  "tags": [
+    "#IA",
+    "#SANTE",
+    "#DIAGNOSTIC"
+  ],
+  "events": [],
+  "signals": [
+    "!OPPORTUNITE"
+  ],
+  "isDeleted": false
+}

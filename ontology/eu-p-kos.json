@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'élargissement) : Journaliste puis diplomate slovène, ancienne ambassadrice en Allemagne et en Suisse, commissaire à l'Élargissement depuis 2024.",
+  "id": "eu-p-kos",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Marta Kos",
+  "entityType": "PERSON",
+  "description": "Journaliste puis diplomate slovène, ancienne ambassadrice en Allemagne et en Suisse, commissaire à l'Élargissement depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Le portrait de Marta Kos figure dans le dossier consacré à l'élargissement.",
+    "La presse européenne a longuement commenté le parcours de Marta Kos.",
+    "Les manuels sur les institutions européennes citent Marta Kos."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Kos"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Marta%20Kos"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité slovène",
+    "Mouvement Liberté (Gibanje Svoboda)",
+    "Journaliste",
+    "Diplomate",
+    "Commissaire européen",
+    "Élargissement (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Élargissement",
+    "Politique de voisinage",
+    "Direction générale de l'élargissement et du voisinage oriental"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

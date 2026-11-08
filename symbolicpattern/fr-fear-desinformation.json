@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-desinformation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La diffusion volontaire de fausses informations.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]sinformation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fake\\s+news)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fausse(s)?\\s+information(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:infox)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:intox)(?![\\w-])"
+  ],
+  "symbol": "désinformation",
+  "event": null,
+  "title": "Désinformation",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

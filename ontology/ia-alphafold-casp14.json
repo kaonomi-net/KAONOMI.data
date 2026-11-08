@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (la biologie) : AlphaFold 2 de DeepMind atteint une précision proche de l'expérience dans la prédiction de la structure des protéines lors du concours CASP14.",
+  "id": "ia-alphafold-casp14",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "AlphaFold 2 à CASP14",
+  "entityType": "EVENT",
+  "description": "AlphaFold 2 de DeepMind atteint une précision proche de l'expérience dans la prédiction de la structure des protéines lors du concours CASP14.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "« AlphaFold 2 à CASP14 » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « AlphaFold 2 à CASP14 ».",
+    "On date souvent un tournant de la biologie à « AlphaFold 2 à CASP14 »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "AlphaFold à CASP14"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#BIOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=AlphaFold%202%20%C3%A0%20CASP14"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AlphaFold"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-11-30T00:00:00",
+  "endDate": "2020-11-30T00:00:00"
+}

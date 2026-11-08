@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la politique de cohésion) : Fonds structurel destiné à réduire les déséquilibres régionaux.",
+  "id": "eu-prog-feder",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Fonds européen de développement régional",
+  "entityType": "PROGRAMME",
+  "description": "Fonds structurel destiné à réduire les déséquilibres régionaux.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Les bénéficiaires de « Fonds européen de développement régional » sont publiés en ligne.",
+    "L'appel à propositions de « Fonds européen de développement régional » est ouvert.",
+    "La Commission gère « Fonds européen de développement régional » avec les États membres ou ses agences."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "FEDER"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#POLITIQUECOHESION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fonds%20europ%C3%A9en%20de%20d%C3%A9veloppement%20r%C3%A9gional"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de la politique régionale et urbaine",
+    "Cohésion et politique régionale"
+  ],
+  "isDeleted": false,
+  "startDate": "1975-01-01T00:00:00",
+  "endDate": null
+}

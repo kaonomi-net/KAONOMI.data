@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (les réseaux de neurones) : Premier simulateur matériel de réseau de neurones, construit par Marvin Minsky et Dean Edmonds avec des tubes à vide.",
+  "id": "ia-snarc",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "SNARC",
+  "entityType": "HARDWARE",
+  "description": "Premier simulateur matériel de réseau de neurones, construit par Marvin Minsky et Dean Edmonds avec des tubes à vide.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Pour ce projet d'IA, l'équipe a comparé SNARC à d'autres solutions matérielles.",
+    "SNARC a marqué l'histoire du matériel consacré aux réseaux de neurones.",
+    "La fiche technique de SNARC détaille ses performances."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Stochastic Neural Analog Reinforcement Calculator"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#RESEAUXNEURONES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=SNARC"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Marvin Minsky"
+  ],
+  "isDeleted": false,
+  "startDate": "1951-01-01T00:00:00",
+  "endDate": null
+}

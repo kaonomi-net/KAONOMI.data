@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-terrorisme",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'emploi de la terreur à des fins politiques.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:terrorisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:terroriste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:djihadiste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:radicalis([ée]|[ée]e|[ée]s|ation))(?![\\w-])"
+  ],
+  "symbol": "terrorisme",
+  "event": null,
+  "title": "Terrorisme",
+  "tags": [
+    "#VIOLENCE",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

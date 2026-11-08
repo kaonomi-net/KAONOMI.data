@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-deepfake-d-une-personnalite",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Deepfake d'une personnalité",
+  "includedEntities": [
+    {
+      "entityName": "deepfake",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "personnalité",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "vidéo",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Détecter les fausses vidéos ou voix de personnalités.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "élection",
+    "réseaux sociaux",
+    "arnaque"
+  ],
+  "questions": [
+    "Qui est imité ?",
+    "Où circule le contenu ?",
+    "A-t-il été démenti ?"
+  ],
+  "tags": [
+    "#IA",
+    "#DEEPFAKE",
+    "#DESINFORMATION"
+  ],
+  "events": [
+    "@DEEPFAKE-DETECTE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!DESINFORMATION"
+  ],
+  "isDeleted": false
+}

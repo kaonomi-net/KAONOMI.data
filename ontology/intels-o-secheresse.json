@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-secheresse",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "sécheresse",
+  "entityType": "DOMAIN",
+  "description": "Cité par 7 intels : Canal de Panama ; Crise alimentaire mondiale ; Réfugiés climatiques ; Conflits liés à l'eau ; Catastrophes climatiques locales ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le fonctionnement et les enjeux politiques du canal de Panama.",
+    "Surveiller l'insécurité alimentaire liée aux conflits et au climat.",
+    "Suivre les déplacements de population liés au climat."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "sécheresse",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#CLIMAT",
+    "#EAU",
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#MARITIME"
+  ],
+  "events": [
+    "@CATASTROPHE",
+    "@ALERTE-HUMANITAIRE"
+  ],
+  "signals": [
+    "!HUMANITAIRE",
+    "!ALERTE",
+    "!PERTURBATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "inondations",
+    "eau",
+    "incendies",
+    "Panama",
+    "trafic",
+    "canal de Panama",
+    "Chine",
+    "États-Unis",
+    "crise alimentaire",
+    "Moyen-Orient"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

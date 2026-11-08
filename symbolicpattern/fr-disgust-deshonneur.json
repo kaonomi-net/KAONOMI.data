@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-deshonneur",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La perte de l'honneur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]shonneur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]shonor([ée]|[ée]e|ant|ante|er)|opprobre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fl[ée]tri(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:avili(e|s|es|ssant|ssante)?)(?![\\w-])"
+  ],
+  "symbol": "déshonneur",
+  "event": null,
+  "title": "Déshonneur",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

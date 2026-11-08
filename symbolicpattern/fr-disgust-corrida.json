@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-corrida",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La mise à mort d'un taureau en spectacle.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:corrida(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tauromachie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mise\\s+[àa]\\s+mort\\s+du\\s+taureau)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:combat(s)?\\s+de\\s+coqs)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souffrance\\s+animale)(?![\\w-])"
+  ],
+  "symbol": "corrida",
+  "event": null,
+  "title": "Corrida",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

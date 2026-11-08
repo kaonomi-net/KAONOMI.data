@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-position-du-rn-sur-l-europe",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Position du RN sur l'Europe",
+  "includedEntities": [
+    {
+      "entityName": "Rassemblement national",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "souveraineté",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la position du RN sur l'Union européenne et l'euro.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Patriotes pour l'Europe",
+    "euro",
+    "traités"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quelle évolution ?",
+    "Quels alliés européens ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#EUROPE"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

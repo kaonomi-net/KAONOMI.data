@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptographie symétrique) : Cryptographe belge, co-auteur de Rijndael, devenu l'AES, et de Keccak, devenu SHA-3.",
+  "id": "cyber-daemen",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Joan Daemen",
+  "entityType": "PERSON",
+  "description": "Cryptographe belge, co-auteur de Rijndael, devenu l'AES, et de Keccak, devenu SHA-3.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Une biographie de Joan Daemen rappelle son rôle dans la cryptographie symétrique.",
+    "Joan Daemen est l'une des figures marquantes de la cryptographie symétrique.",
+    "Lors de la conférence, l'oratrice a cité Joan Daemen pour illustrer les progrès de la cryptographie symétrique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "J. Daemen"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTOGRAPHIESYMETRIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Joan%20Daemen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AES",
+    "SHA-3"
+  ],
+  "isDeleted": false,
+  "startDate": "1965-01-01T00:00:00",
+  "endDate": null
+}

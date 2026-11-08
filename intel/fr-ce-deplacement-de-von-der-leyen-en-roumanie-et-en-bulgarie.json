@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-deplacement-de-von-der-leyen-en-roumanie-et-en-bulgarie",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Déplacement de von der Leyen en Roumanie et en Bulgarie",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Roumanie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Bulgarie",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre le déplacement de la présidente en Roumanie et en Bulgarie après les attaques de drones en mer Noire.",
+  "isFuzzy": true,
+  "locations": [
+    "Bucarest",
+    "Sofia"
+  ],
+  "times": [
+    "9 novembre 2026"
+  ],
+  "relatedEntities": [
+    "Nicușor Dan",
+    "Rumen Radev",
+    "mer Noire"
+  ],
+  "questions": [
+    "Quelles annonces ?",
+    "Quel soutien face aux drones ?",
+    "Quelle stratégie pour la mer Noire ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#MER-NOIRE"
+  ],
+  "events": [
+    "@DEPLACEMENT"
+  ],
+  "signals": [
+    "!SECURITE"
+  ],
+  "isDeleted": false
+}

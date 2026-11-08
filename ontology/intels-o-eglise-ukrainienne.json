@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-eglise-ukrainienne",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "Église ukrainienne",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Religion et Église orthodoxe russe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre le rôle de l'Église orthodoxe russe dans la guerre."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Église ukrainienne",
+  "tags": [
+    "#RUSSIE",
+    "#RELIGION",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "propagande",
+    "patriarche Kirill",
+    "Église orthodoxe",
+    "Moscou"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

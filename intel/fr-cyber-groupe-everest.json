@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-groupe-everest",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Groupe Everest",
+  "includedEntities": [
+    {
+      "entityName": "Everest",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "rançongiciel",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les victimes revendiquées par le groupe Everest.",
+  "isFuzzy": true,
+  "locations": [
+    "Japon",
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "site de fuite",
+    "industrie",
+    "données"
+  ],
+  "questions": [
+    "Quelle victime ?",
+    "Quel volume ?",
+    "Quel secteur ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL"
+  ],
+  "events": [
+    "@RANCONGICIEL"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

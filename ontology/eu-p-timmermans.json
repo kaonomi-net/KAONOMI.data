@@ -1,0 +1,66 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les relations interinstitutionnelles) : Diplomate et ancien ministre néerlandais des Affaires étrangères (2012-2014), premier vice-président de la Commission Juncker puis vice-président exécutif chargé du Pacte vert jusqu'en 2023.",
+  "id": "eu-p-timmermans",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Frans Timmermans",
+  "entityType": "PERSON",
+  "description": "Diplomate et ancien ministre néerlandais des Affaires étrangères (2012-2014), premier vice-président de la Commission Juncker puis vice-président exécutif chargé du Pacte vert jusqu'en 2023.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Frans Timmermans.",
+    "Les manuels sur les institutions européennes citent Frans Timmermans.",
+    "Le portrait de Frans Timmermans figure dans le dossier consacré aux relations interinstitutionnelles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Timmermans"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#RELATIONSINTERINSTITUTIONNELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Frans%20Timmermans"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité néerlandaise",
+    "Parti travailliste (PvdA)",
+    "Diplomate",
+    "Ministre des Affaires étrangères",
+    "Commissaire européen",
+    "Pacte vert pour l'Europe (Commission von der Leyen I)",
+    "Vice-président exécutif de la Commission",
+    "Commission von der Leyen I",
+    "Pacte vert",
+    "Action pour le climat",
+    "Amélioration de la réglementation, relations interinstitutionnelles, état de droit et Charte des droits fondamentaux (Commission Juncker)",
+    "Premier vice-président de la Commission",
+    "Commission Juncker",
+    "Relations interinstitutionnelles",
+    "État de droit",
+    "Wopke Hoekstra",
+    "Présentation du Pacte vert",
+    "Départ de Frans Timmermans de la Commission"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

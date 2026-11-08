@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-de-missiles-de-croisiere",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes de missiles de croisière",
+  "includedEntities": [
+    {
+      "entityName": "missiles de croisière",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Kh-101",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Kalibr",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les frappes de missiles de croisière russes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "bombardiers stratégiques",
+    "mer Noire",
+    "défense antiaérienne"
+  ],
+  "questions": [
+    "Combien de missiles ?",
+    "Quelle cible ?",
+    "Combien interceptés ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#MISSILES",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

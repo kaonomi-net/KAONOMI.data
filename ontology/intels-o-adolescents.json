@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-adolescents",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "adolescents",
+  "entityType": "PROFESSION",
+  "description": "Cité par 8 intels : IA et santé mentale ; Mineurs et piratage ; Réseaux sociaux et santé mentale des adolescents ; Compagnons IA et adolescents ; Sommeil des adolescents ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Surveiller les effets des compagnons IA sur la santé mentale.",
+    "Suivre les affaires impliquant de jeunes pirates.",
+    "Suivre les études et débats sur les réseaux sociaux et le mal-être des adolescents."
+  ],
+  "angryLevel": null,
+  "sadLevel": 12,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "adolescents",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADOLESCENTS",
+    "#IA",
+    "#SANTE-MENTALE",
+    "#ETHIQUE",
+    "#CYBERSECURITE"
+  ],
+  "events": [
+    "@SIGNALEMENT",
+    "@ARRESTATION",
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!VIGILANCE",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "santé mentale",
+    "sommeil",
+    "psychologues",
+    "dépendance",
+    "chatbot",
+    "IA",
+    "Scattered Spider",
+    "pirates",
+    "Lapsus$",
+    "prévention"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

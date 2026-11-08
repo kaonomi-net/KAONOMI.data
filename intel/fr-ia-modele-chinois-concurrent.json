@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-modele-chinois-concurrent",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Modèle chinois concurrent",
+  "includedEntities": [
+    {
+      "entityName": "DeepSeek",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Qwen",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 40,
+  "instructions": "Repérer les modèles chinois qui rivalisent avec les modèles américains.",
+  "isFuzzy": true,
+  "locations": [
+    "Pékin",
+    "Hangzhou"
+  ],
+  "times": [
+    "jour de publication"
+  ],
+  "relatedEntities": [
+    "Alibaba",
+    "Baidu",
+    "Moonshot"
+  ],
+  "questions": [
+    "Quel coût d'entraînement ?",
+    "Quelles performances ?",
+    "Quelle censure intégrée ?"
+  ],
+  "tags": [
+    "#IA",
+    "#LLM",
+    "#CHINE",
+    "#GEOPOLITIQUE"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!CONCURRENCE"
+  ],
+  "isDeleted": false
+}

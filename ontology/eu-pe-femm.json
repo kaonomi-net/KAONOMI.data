@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'égalité) : Commission des droits des femmes et de l'égalité des genres du Parlement européen, chargée de l'égalité.",
+  "id": "eu-pe-femm",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission des droits des femmes et de l'égalité des genres (FEMM)",
+  "entityType": "ORGANISATION",
+  "description": "Commission des droits des femmes et de l'égalité des genres du Parlement européen, chargée de l'égalité.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Commission des droits des femmes et de l'égalité des genres (FEMM) » préparent les textes relatifs à l'égalité.",
+    "La délégation a rencontré des représentants de « Commission des droits des femmes et de l'égalité des genres (FEMM) ».",
+    "« Commission des droits des femmes et de l'égalité des genres (FEMM) » joue un rôle dans l'égalité."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "FEMM"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#EGALITE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20des%20droits%20des%20femmes%20et%20de%20l%27%C3%A9galit%C3%A9%20des%20genres%20%28FEMM%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Égalité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

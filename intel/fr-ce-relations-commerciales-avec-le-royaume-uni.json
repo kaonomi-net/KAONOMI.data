@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-relations-commerciales-avec-le-royaume-uni",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Relations commerciales avec le Royaume-Uni",
+  "includedEntities": [
+    {
+      "entityName": "Royaume-Uni",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "accord",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la relance des relations entre l'Union et le Royaume-Uni.",
+  "isFuzzy": true,
+  "locations": [
+    "Londres",
+    "Bruxelles"
+  ],
+  "times": [
+    "sommets UE-Royaume-Uni"
+  ],
+  "relatedEntities": [
+    "défense",
+    "pêche",
+    "mobilité des jeunes"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quelles concessions ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ROYAUME-UNI",
+    "#COMMERCE"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

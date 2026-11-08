@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-frontiere",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "frontière",
+  "entityType": "LOCATION",
+  "description": "Cité par 9 intels : Échange de prisonniers ; Pression sur la région de Kharkiv ; Attaques dans la région de Belgorod ; Région de Koursk ; Pologne et frontière orientale ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les échanges de prisonniers de guerre entre la Russie et l'Ukraine.",
+    "Surveiller les opérations russes dans la région de Kharkiv.",
+    "Suivre les frappes et incursions dans la région frontalière de Belgorod."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "frontière",
+  "tags": [
+    "#RUSSIE",
+    "#FRONTIERE",
+    "#UKRAINE",
+    "#GUERRE-HYBRIDE",
+    "#GEOPOLITIQUE",
+    "#PRISONNIERS"
+  ],
+  "events": [
+    "@ECHANGE-PRISONNIERS",
+    "@FRAPPE",
+    "@FERMETURE-AEROPORT"
+  ],
+  "signals": [
+    "!TENSION",
+    "!CONFLIT",
+    "!HUMANITAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Biélorussie",
+    "drones",
+    "migrants",
+    "Lituanie",
+    "Croix-Rouge",
+    "échange de prisonniers",
+    "médiateurs",
+    "Émirats arabes unis",
+    "prisonniers",
+    "corps des soldats"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

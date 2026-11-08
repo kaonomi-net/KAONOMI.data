@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-xi-jinping",
+  "dateCreated": "2026-11-08 17:55:50",
+  "name": "Xi Jinping",
+  "entityType": "PERSON",
+  "description": "Cité par 6 intels : Projet de sommet Trump-Poutine-Xi ; Rôle de la Chine dans la paix ; Relation entre Poutine et Xi Jinping ; Macron et la Chine ; Von der Leyen et Xi Jinping ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Surveiller l'idée d'un sommet entre les dirigeants américain, russe et chinois.",
+    "Suivre les initiatives chinoises sur la guerre en Ukraine.",
+    "Suivre les rencontres et déclarations communes de Poutine et Xi Jinping."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Xi Jinping",
+  "tags": [
+    "#CHINE",
+    "#DIPLOMATIE",
+    "#RUSSIE",
+    "#ETATS-UNIS",
+    "#UKRAINE",
+    "#POUTINE"
+  ],
+  "events": [
+    "@SOMMET",
+    "@RENCONTRE-DIRIGEANTS"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!INFLUENCE",
+    "!ALLIANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pékin",
+    "Chine",
+    "Russie",
+    "commerce",
+    "Poutine",
+    "Bruxelles",
+    "sommet",
+    "Kremlin",
+    "Donald Trump",
+    "Ukraine"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

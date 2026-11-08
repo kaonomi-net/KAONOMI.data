@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-unesco",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "UNESCO",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Éthique de l'IA ; Neurodroits et données cérébrales.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les chartes et débats sur l'IA responsable.",
+    "Suivre la protection des données cérébrales."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "UNESCO",
+  "tags": [
+    "#ETHIQUE",
+    "#IA",
+    "#GOUVERNANCE",
+    "#PSYCHOLOGIE",
+    "#NEUROTECH"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT",
+    "!VIE-PRIVEE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "entreprises",
+    "éthique",
+    "responsable",
+    "comités d'éthique",
+    "IA",
+    "neurodroits",
+    "données cérébrales",
+    "neurotechnologies",
+    "lois"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

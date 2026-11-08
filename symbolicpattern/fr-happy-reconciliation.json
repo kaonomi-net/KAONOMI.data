@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-reconciliation",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de se réconcilier.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]conciliation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]concili(er|[ée]|[ée]e|[ée]s|[ée]es)|faire\\s+la\\s+paix)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pardon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pardonn(er|[ée]|[ée]e))(?![\\w-])"
+  ],
+  "symbol": "réconciliation",
+  "event": null,
+  "title": "Réconciliation",
+  "tags": [
+    "#AMITIE",
+    "#PAIX"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

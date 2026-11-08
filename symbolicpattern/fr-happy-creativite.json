@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-creativite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La capacité à inventer.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cr[ée]ativit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cr[ée]ati(f|fs|ve|ves))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ing[ée]nieu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inventi(f|ve|vit[ée]))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:original(e|es|aux)?)(?![\\w-])"
+  ],
+  "symbol": "créativité",
+  "event": null,
+  "title": "Créativité",
+  "tags": [
+    "#CREATION"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

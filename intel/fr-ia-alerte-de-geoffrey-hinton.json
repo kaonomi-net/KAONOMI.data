@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-alerte-de-geoffrey-hinton",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Alerte de Geoffrey Hinton",
+  "includedEntities": [
+    {
+      "entityName": "Geoffrey Hinton",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "risques",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les avertissements de Geoffrey Hinton sur les risques de l'IA.",
+  "isFuzzy": true,
+  "locations": [
+    "Toronto"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "prix Nobel",
+    "Google",
+    "sécurité"
+  ],
+  "questions": [
+    "Quel risque évoque-t-il ?",
+    "Quelles mesures propose-t-il ?",
+    "Quelles réactions ?"
+  ],
+  "tags": [
+    "#IA",
+    "#PERSONNALITE",
+    "#RISQUE"
+  ],
+  "events": [
+    "@ALERTE-EXPERTS"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 121,
+  "file": "0121-microsoft-office-comment-faire-une-mise-en-forme.prompt.json",
+  "prompt": "Comment faire une mise en forme conditionnelle dans Excel ?",
+  "promptWords": 10,
+  "completion": "Pour créer une mise en forme conditionnelle dans Excel, suivez ces étapes :\n\n1. **Sélectionnez la plage de cellules** que vous souhaitez formater.\n2. **Allez dans l'onglet \"Accueil\"** (Home) dans le ruban.\n3. **Cliquez sur \"Mise en forme conditionnelle\"** (Conditional Formatting) dans le groupe \"Styles\".\n4. **Choisissez \"Règles de mise en forme supérieure/inférieure\"** (Top/Bottom Rules) ou \"Règles des cellules mises en surbrillance\"** (Top/Bottom Rules) selon votre besoin.\n5. **Sélectionnez l'option appropriée** (par exemple, \"Mettre en surbrillance les cellules supérieures à...\" ou \"Mettre en surbrillance les cellules inférieures à...\").\n6. **Entrez la valeur** ou la condition souhaitée.\n7. **Choisissez le format** (couleur de remplissage, police, etc.) et cliquez sur \"OK\".\n\nVous pouvez également créer des règles personnalisées en sélectionnant \"Nouvelle règle\" (New Rule) dans le menu \"Mise en forme conditionnelle\".\n\nSi vous avez besoin d'instructions plus spécifiques ou d'un exemple particulier, n'hésitez pas à me le demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:51:31.1853528+02:00",
+  "durationSeconds": 5.78,
+  "stats": "mistral-small3.2:latest · 518 + 276 tokens · 5,8 s",
+  "isError": false,
+  "language": "FR"
+}

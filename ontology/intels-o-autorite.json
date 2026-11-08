@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-autorite",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "autorité",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Éducation positive en débat.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre le débat sur l'éducation positive."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "autorité",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PARENTALITE",
+    "#DEBAT"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "études",
+    "éducation positive",
+    "violences éducatives",
+    "parentalité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

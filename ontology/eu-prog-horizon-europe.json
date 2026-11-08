@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la recherche) : Programme-cadre de recherche et d'innovation de l'Union, doté d'environ 95 milliards d'euros.",
+  "id": "eu-prog-horizon-europe",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Horizon Europe",
+  "entityType": "PROGRAMME",
+  "description": "Programme-cadre de recherche et d'innovation de l'Union, doté d'environ 95 milliards d'euros.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "L'appel à propositions de « Horizon Europe » est ouvert.",
+    "La Commission gère « Horizon Europe » avec les États membres ou ses agences.",
+    "Les bénéficiaires de « Horizon Europe » sont publiés en ligne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#RECHERCHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Horizon%20Europe"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de la recherche et de l'innovation",
+    "Recherche",
+    "Innovation",
+    "Cadre financier pluriannuel 2021-2027",
+    "Agence exécutive du Conseil européen de la recherche (ERCEA)",
+    "Agence exécutive européenne pour la recherche (REA)"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-01-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (la réponse de l'État) : Les ministres de l'Intérieur et de la Justice présentent leur démission, que le Premier ministre refuse.",
+  "id": "be2016-demission-refusee",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Démissions refusées de Jan Jambon et Koen Geens",
+  "entityType": "EVENT",
+  "description": "Les ministres de l'Intérieur et de la Justice présentent leur démission, que le Premier ministre refuse.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "Les rapports officiels reviennent sur « Démissions refusées de Jan Jambon et Koen Geens ».",
+    "Les enquêteurs et les historiens ont reconstitué le déroulement de « Démissions refusées de Jan Jambon et Koen Geens ».",
+    "« Démissions refusées de Jan Jambon et Koen Geens » figure dans la chronologie des attentats de 2016."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 2,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "démission des ministres"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#REPONSEETAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=D%C3%A9missions%20refus%C3%A9es%20de%20Jan%20Jambon%20et%20Koen%20Geens"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Jan Jambon",
+    "Koen Geens",
+    "Charles Michel"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-03-24T00:00:00",
+  "endDate": "2016-03-24T00:00:00"
+}

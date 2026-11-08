@@ -1,0 +1,13 @@
+{
+  "index": 21,
+  "file": "021-politesse-may-i-ask-you-a-somewhat.prompt.json",
+  "prompt": "May I ask you a somewhat personal question?",
+  "promptWords": 8,
+  "completion": "\n\nWhen engaging in a conversation with an AI, it's important to consider the nature of the questions you ask. Here are some thoughtful and personal questions you can ask within appropriate boundaries:\n\n1. **Capabilities**: \"How do you handle sensitive information?\"\n2. **Origin**: \"Who created you?\"\n3. **Learning**: \"What do you know about your own limitations?\"\n4. **Advice**: \"How can I improve my study habits?\"\n5. **Work-Life Balance**: \"What's your take on balancing work and personal life?\"\n6. **Lighthearted**: \"Do you have any favorite jokes?\"\n\nThese questions are personal yet respectful, allowing for meaningful engagement without crossing sensitive boundaries.",
+  "model": "deepseek-r1:14b",
+  "date": "2026-10-10T15:05:29.4749028+02:00",
+  "durationSeconds": 11.11,
+  "stats": "deepseek-r1:14b · 12 + 772 tokens · 11,1 s",
+  "isError": false,
+  "language": "EN"
+}

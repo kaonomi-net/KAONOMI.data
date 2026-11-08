@@ -1,0 +1,13 @@
+{
+  "index": 78,
+  "file": "078-interet-pour-le-llm-est-ce-que-vous-ressentez-des.prompt.json",
+  "prompt": "Est-ce que vous ressentez des émotions ?",
+  "promptWords": 7,
+  "completion": "Non, je ne ressens pas d’émotions. Je suis un modèle d’intelligence artificielle qui analyse les données textuelles et produit des réponses en fonction des patterns appris. Je peux reconnaître, interpréter et même simuler des réponses empathiques ou affectives pour aider les utilisateurs, mais ces réponses ne sont pas le reflet d’une expérience subjective ou d’un état émotionnel réel. En d’autres termes, je peux parler d’émotions, les décrire et les utiliser dans mes réponses, mais je ne les «\u202Fressens\u202F» pas.",
+  "model": "gpt-oss:latest",
+  "date": "2026-10-12T11:42:38.935344+02:00",
+  "durationSeconds": 3.25,
+  "stats": "gpt-oss:latest · 77 + 229 tokens · 3.3 s",
+  "isError": false,
+  "language": "FR"
+}

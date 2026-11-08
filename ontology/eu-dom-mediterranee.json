@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la Méditerranée) : Partenariat avec les pays de la rive sud de la Méditerranée, portefeuille créé en 2024.",
+  "id": "eu-dom-mediterranee",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Méditerranée",
+  "entityType": "DOMAIN",
+  "description": "Partenariat avec les pays de la rive sud de la Méditerranée, portefeuille créé en 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Plusieurs commissaires ont été chargés du domaine « Méditerranée ».",
+    "Le domaine « Méditerranée » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Méditerranée »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#MEDITERRANEE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=M%C3%A9diterran%C3%A9e"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Méditerranée (Commission von der Leyen II)",
+    "Dubravka Šuica",
+    "Direction générale pour le Moyen-Orient, l'Afrique du Nord et le Golfe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

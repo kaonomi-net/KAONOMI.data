@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-solidarite",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "solidarité",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Cyber Solidarity Act ; Von der Leyen et les attentats ou drames en Europe ; Pacte sur la migration et l'asile.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le bouclier cyber européen et la réserve de cybersécurité.",
+    "Suivre les réactions de la présidente aux drames qui frappent l'Europe.",
+    "Suivre la mise en œuvre du pacte européen sur la migration et l'asile en 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": 33,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "solidarité",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SOLIDARITE",
+    "#CYBERSECURITE",
+    "#COMMISSION-EUROPEENNE",
+    "#MIGRATION",
+    "#ASILE"
+  ],
+  "events": [
+    "@CONDOLEANCES"
+  ],
+  "signals": [
+    "!DEFENSE",
+    "!SAD",
+    "!MIGRATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "États membres",
+    "Cyber Solidarity Act",
+    "Europe",
+    "réserve",
+    "incidents majeurs",
+    "SOC transfrontaliers",
+    "victimes",
+    "Cracovie",
+    "von der Leyen",
+    "drapeaux en berne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

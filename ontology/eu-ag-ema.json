@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la santé publique) : Agence européenne des médicaments (EMA), organe de l'Union créé en 1995 et installé dans cette ville : Amsterdam.",
+  "id": "eu-ag-ema",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence européenne des médicaments (EMA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence européenne des médicaments (EMA), organe de l'Union créé en 1995 et installé dans cette ville : Amsterdam.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "« Agence européenne des médicaments (EMA) » joue un rôle dans la santé publique.",
+    "Les fonctionnaires de « Agence européenne des médicaments (EMA) » préparent les textes relatifs à la santé publique.",
+    "La délégation a rencontré des représentants de « Agence européenne des médicaments (EMA) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EMA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20europ%C3%A9enne%20des%20m%C3%A9dicaments%20%28EMA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Amsterdam",
+    "Direction générale de la santé et de la sécurité alimentaire",
+    "Santé"
+  ],
+  "isDeleted": false,
+  "startDate": "1995-01-01T00:00:00",
+  "endDate": null
+}

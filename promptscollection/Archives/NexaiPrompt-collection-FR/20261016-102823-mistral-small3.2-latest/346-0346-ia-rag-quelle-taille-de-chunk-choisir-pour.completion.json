@@ -1,0 +1,13 @@
+{
+  "index": 346,
+  "file": "0346-ia-rag-quelle-taille-de-chunk-choisir-pour.prompt.json",
+  "prompt": "Quelle taille de chunk choisir pour un RAG ?",
+  "promptWords": 9,
+  "completion": "Le choix de la taille des chunks pour un système de RAG (Retrieval-Augmented Generation) dépend de plusieurs facteurs, notamment le type de contenu, le modèle de langage utilisé et les objectifs de votre application. Voici quelques considérations générales pour vous aider à déterminer la taille de chunk appropriée :\n\n1. **Type de contenu** :\n   - **Texte court** (questions-réponses, phrases) : Des chunks plus petits (50-100 mots) peuvent être appropriés.\n   - **Texte long** (articles, documents) : Des chunks plus grands (200-500 mots) peuvent capturer le contexte nécessaire.\n\n2. **Modèle de langage** :\n   - **Modèles avec une limite de tokens** : Assurez-vous que la taille des chunks ne dépasse pas la limite de tokens du modèle. Par exemple, si votre modèle a une limite de 2048 tokens, vous devrez peut-être diviser le texte en chunks plus petits.\n   - **Modèles avec une grande capacité de contexte** : Vous pouvez utiliser des chunks plus grands.\n\n3. **Objectifs de l'application** :\n   - **Précision** : Des chunks plus petits peuvent améliorer la précision de la récupération, mais peuvent manquer de contexte.\n   - **Contexte** : Des chunks plus grands peuvent fournir plus de contexte, mais peuvent inclure des informations non pertinentes.\n\n4. **Expérimentation** :\n   - Il est souvent utile d'expérimenter avec différentes tailles de chunks pour voir ce qui fonctionne le mieux pour votre cas d'utilisation spécifique.\n\nEn général, une taille de chunk de 100 à 300 mots est un bon point de départ pour de nombreux cas d'utilisation. Vous pouvez ajuster cette taille en fonction des résultats obtenus et des besoins spécifiques de votre application.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:28:06.110447+02:00",
+  "durationSeconds": 7.94,
+  "stats": "mistral-small3.2:latest · 518 + 388 tokens · 7,9 s",
+  "isError": false,
+  "language": "FR"
+}

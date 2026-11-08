@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne des attentats de Bruxelles de 2016 (la cellule terroriste) : Belgo-marocain présenté par l'enquête comme l'un des commanditaires des attentats de Paris et de Bruxelles depuis la Syrie, où il serait mort.",
+  "id": "be2016-oussama-atar",
+  "dateCreated": "2026-10-31 19:28:40",
+  "name": "Oussama Atar",
+  "entityType": "PERSON",
+  "description": "Belgo-marocain présenté par l'enquête comme l'un des commanditaires des attentats de Paris et de Bruxelles depuis la Syrie, où il serait mort. Il a été jugé par défaut à Paris et à Bruxelles.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-personnes",
+  "sentencesExemples": [
+    "Le dossier documentaire consacré aux attentats comporte une fiche sur Oussama Atar.",
+    "Les comptes rendus de l'époque évoquent Oussama Atar à plusieurs reprises.",
+    "Les journalistes ont retracé le rôle de Oussama Atar dans la cellule terroriste."
+  ],
+  "angryLevel": 4,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 1,
+  "disgustLevel": 4,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Abou Ahmad"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#PERSON",
+    "#CELLULETERRORISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Oussama%20Atar"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Cellule terroriste Paris-Bruxelles",
+    "État islamique",
+    "Procès des attentats de Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

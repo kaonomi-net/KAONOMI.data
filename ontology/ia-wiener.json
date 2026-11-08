@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (la cybernétique) : Mathématicien américain, fondateur de la cybernétique (1948), science du contrôle et de la communication chez l'animal et la machine.",
+  "id": "ia-wiener",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Norbert Wiener",
+  "entityType": "PERSON",
+  "description": "Mathématicien américain, fondateur de la cybernétique (1948), science du contrôle et de la communication chez l'animal et la machine.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les articles de Norbert Wiener pour comprendre la cybernétique.",
+    "Sans les idées de Norbert Wiener, l'histoire de la cybernétique aurait été différente.",
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Norbert Wiener."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "N. Wiener"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#CYBERNETIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Norbert%20Wiener"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Warren McCulloch"
+  ],
+  "isDeleted": false,
+  "startDate": "1894-11-26T00:00:00",
+  "endDate": "1964-03-18T00:00:00"
+}

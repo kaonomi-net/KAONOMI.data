@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-union-des-marches-de-capitaux",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Union des marchés de capitaux",
+  "includedEntities": [
+    {
+      "entityName": "marchés de capitaux",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "union",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'intégration des marchés de capitaux européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "supervision",
+    "titrisation",
+    "épargne"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel blocage ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#FINANCE",
+    "#MARCHES"
+  ],
+  "events": [],
+  "signals": [
+    "!FINANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la communication de la Commission) : Dernier discours sur l'état de l'Union de la première Commission von der Leyen.",
+  "id": "eu-ev-soteu-2023",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Discours sur l'état de l'Union 2023",
+  "entityType": "EVENT",
+  "description": "Dernier discours sur l'état de l'Union de la première Commission von der Leyen.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "« Discours sur l'état de l'Union 2023 » est un jalon de l'histoire de de l'Union européenne.",
+    "Les historiens de la construction européenne reviennent sur « Discours sur l'état de l'Union 2023 ».",
+    "La chronologie de la Commission place « Discours sur l'état de l'Union 2023 » à sa date."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#COMMUNICATIONCOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Discours%20sur%20l%27%C3%A9tat%20de%20l%27Union%202023"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Communication et présidence",
+    "Ursula von der Leyen",
+    "Commission von der Leyen I",
+    "Strasbourg"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-09-13T00:00:00",
+  "endDate": null
+}

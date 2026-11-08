@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : France.",
+  "id": "pe10-mep-256874",
+  "dateCreated": "2026-10-31 20:22:42",
+  "name": "Mélanie Disdier",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : France. Groupe politique : Patriotes pour l'Europe (PfE). Parti ou liste national : Rassemblement national.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Le vote de Mélanie Disdier figure dans le relevé des votes par appel nominal.",
+    "Mélanie Disdier participe aux travaux des commissions parlementaires.",
+    "Mélanie Disdier siège au Parlement européen depuis la législature 2024-2029."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Mélanie DISDIER"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256874",
+    "https://fr.wikipedia.org/w/index.php?search=M%C3%A9lanie%20Disdier"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "France",
+    "Parlement européen",
+    "Patriotes pour l'Europe (PfE)",
+    "Rassemblement national"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

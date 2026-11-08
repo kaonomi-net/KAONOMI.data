@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les réformes structurelles) : Direction générale de l'appui aux réformes structurelles (DG REFORM), service de la Commission européenne compétent pour les réformes structurelles, placé sous l'autorité de Valdis Dombrovskis dans la Commission von der Leyen II.",
+  "id": "eu-dg-reform",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de l'appui aux réformes structurelles",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de l'appui aux réformes structurelles (DG REFORM), service de la Commission européenne compétent pour les réformes structurelles, placé sous l'autorité de Valdis Dombrovskis dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Direction générale de l'appui aux réformes structurelles ».",
+    "Les décisions de « Direction générale de l'appui aux réformes structurelles » touchent les réformes structurelles.",
+    "Le rapport annuel de « Direction générale de l'appui aux réformes structurelles » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG REFORM"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#REFORMESSTRUCTURELLES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20l%27appui%20aux%20r%C3%A9formes%20structurelles"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Valdis Dombrovskis",
+    "Réformes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

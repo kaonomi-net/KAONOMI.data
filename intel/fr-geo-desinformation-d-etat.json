@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-desinformation-d-etat",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Désinformation d'État",
+  "includedEntities": [
+    {
+      "entityName": "désinformation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "propagande",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "État",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les campagnes de désinformation menées par des États.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "réseaux sociaux",
+    "Viginum",
+    "faux comptes"
+  ],
+  "questions": [
+    "Quelle campagne ?",
+    "Quel pays ?",
+    "Quelle audience ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#DESINFORMATION",
+    "#INFLUENCE"
+  ],
+  "events": [
+    "@CAMPAGNE-DESINFORMATION"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!DESINFORMATION"
+  ],
+  "isDeleted": false
+}

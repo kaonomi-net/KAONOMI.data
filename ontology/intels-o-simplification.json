@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-simplification",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "simplification",
+  "entityType": "DOMAIN",
+  "description": "Cité par 7 intels : Von der Leyen et le Pacte vert ; Protection des données et RGPD ; Simplification du Pacte vert ; Paquets omnibus de simplification ; Programme de travail 2027 de la Commission ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'évolution de la position de la présidente sur le Pacte vert.",
+    "Suivre l'évolution du RGPD et les sanctions des autorités.",
+    "Suivre les reculs et simplifications du Pacte vert."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "simplification",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SIMPLIFICATION",
+    "#COMMISSION-EUROPEENNE",
+    "#CLIMAT",
+    "#VON-DER-LEYEN",
+    "#RGPD"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT",
+    "!SIMPLIFICATION",
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "omnibus",
+    "Pacte vert",
+    "entreprises",
+    "Parlement",
+    "von der Leyen",
+    "climat",
+    "industrie",
+    "CNIL",
+    "RGPD"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-personnes-agees",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "personnes âgées",
+  "entityType": "PROFESSION",
+  "description": "Cité par 6 intels : IA et solitude ; Épidémie de solitude ; Maltraitance des personnes âgées ; Vieillissement et santé mentale ; Isolement des personnes âgées ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les études sur l'IA comme réponse ou facteur de solitude.",
+    "Suivre la solitude comme enjeu de santé publique.",
+    "Suivre la maltraitance des personnes âgées."
+  ],
+  "angryLevel": null,
+  "sadLevel": 50,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "personnes âgées",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#VIEILLISSEMENT",
+    "#SOLITUDE",
+    "#IA",
+    "#SOCIETE",
+    "#VIOLENCES"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!SAD",
+    "!SOCIETE",
+    "!VIOLENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "isolement",
+    "solitude",
+    "Ehpad",
+    "dépression",
+    "compagnons",
+    "IA",
+    "jeunes",
+    "isolement social",
+    "Fondation de France",
+    "OMS"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

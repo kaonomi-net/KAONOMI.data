@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-phishing",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une arnaque pour voler des identifiants.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:phishing)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hame[çc]onnage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arnaque(s)?\\s+en\\s+ligne)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:faux\\s+courriel(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mail(s)?\\s+frauduleux)(?![\\w-])"
+  ],
+  "symbol": "phishing",
+  "event": null,
+  "title": "Phishing",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptographie théorique) : Informaticien italo-américain du MIT, co-inventeur des preuves à divulgation nulle de connaissance, fondateur d'Algorand.",
+  "id": "cyber-micali",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Silvio Micali",
+  "entityType": "PERSON",
+  "description": "Informaticien italo-américain du MIT, co-inventeur des preuves à divulgation nulle de connaissance, fondateur d'Algorand. Prix Turing 2012.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Sans Silvio Micali, l'histoire de la cryptographie théorique aurait été différente.",
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Silvio Micali.",
+    "Les étudiants lisent les travaux de Silvio Micali pour comprendre la cryptographie théorique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "S. Micali"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTOGRAPHIETHEORIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Silvio%20Micali"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Preuve à divulgation nulle de connaissance"
+  ],
+  "isDeleted": false,
+  "startDate": "1954-10-13T00:00:00",
+  "endDate": null
+}

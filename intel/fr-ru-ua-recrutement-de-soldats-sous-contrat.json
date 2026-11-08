@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-recrutement-de-soldats-sous-contrat",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Recrutement de soldats sous contrat",
+  "includedEntities": [
+    {
+      "entityName": "recrutement",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "contrat",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "prime",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le recrutement de volontaires et les primes d'engagement.",
+  "isFuzzy": true,
+  "locations": [
+    "régions russes"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ministère de la Défense",
+    "primes",
+    "prisonniers"
+  ],
+  "questions": [
+    "Quel montant des primes ?",
+    "Combien de recrues ?",
+    "Quelles régions ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ARMEE",
+    "#RECRUTEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (la gestion des clés) : Coprocesseur cryptographique d'IBM, premier équipement certifié FIPS 140-1 de niveau 4.",
+  "id": "cyber-ibm-4758",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "IBM 4758",
+  "entityType": "HARDWARE",
+  "description": "Coprocesseur cryptographique d'IBM, premier équipement certifié FIPS 140-1 de niveau 4.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "La fiche technique de IBM 4758 détaille ses caractéristiques de sécurité.",
+    "Pour cet audit, l'équipe a comparé IBM 4758 à d'autres solutions matérielles.",
+    "IBM 4758 a marqué l'histoire du matériel consacré à la gestion des clés."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "IBM 4758 PCI Cryptographic Coprocessor"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#GESTIONCLES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=IBM%204758"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Module matériel de sécurité"
+  ],
+  "isDeleted": false,
+  "startDate": "1997-01-01T00:00:00",
+  "endDate": null
+}

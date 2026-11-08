@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-chaine-de-pensee",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "chaîne de pensée",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Modèle de raisonnement.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les modèles qui raisonnent par étapes avant de répondre."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "chaîne de pensée",
+  "tags": [
+    "#IA",
+    "#RAISONNEMENT",
+    "#LLM"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!NOUVEAUTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OpenAI o3",
+    "Claude",
+    "raisonnement",
+    "DeepSeek R1",
+    "modèle"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

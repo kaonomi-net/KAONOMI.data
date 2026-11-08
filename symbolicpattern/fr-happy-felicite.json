@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-felicite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un bonheur parfait.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:f[ée]licit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bonheur\\s+parfait)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nirvana)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:paradis\\s+sur\\s+terre)(?![\\w-])"
+  ],
+  "symbol": "félicité",
+  "event": null,
+  "title": "Félicité",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

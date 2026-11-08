@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-economie-allemande",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Économie allemande",
+  "includedEntities": [
+    {
+      "entityName": "économie allemande",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Allemagne",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "industrie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'économie allemande, premier partenaire de la France et de la Belgique.",
+  "isFuzzy": true,
+  "locations": [
+    "Berlin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Ifo",
+    "industrie",
+    "plan d'investissement"
+  ],
+  "questions": [
+    "Quel chiffre ?",
+    "Quelle reprise ?",
+    "Quel effet sur l'Europe ?"
+  ],
+  "tags": [
+    "#ECONOMIE",
+    "#ALLEMAGNE"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

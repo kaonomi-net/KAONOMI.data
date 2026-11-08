@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-georgie-et-gel-de-l-adhesion",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Géorgie et gel de l'adhésion",
+  "includedEntities": [
+    {
+      "entityName": "Géorgie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "adhésion",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "Rêve géorgien",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le gel du processus d'adhésion de la Géorgie.",
+  "isFuzzy": true,
+  "locations": [
+    "Tbilissi"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "manifestations",
+    "loi sur les agents étrangers",
+    "sanctions"
+  ],
+  "questions": [
+    "Quelle mesure européenne ?",
+    "Quelles sanctions ?",
+    "Quelle évolution politique ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#GEORGIE",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

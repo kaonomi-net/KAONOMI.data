@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-lutte-contre-la-pauvrete",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Lutte contre la pauvreté",
+  "includedEntities": [
+    {
+      "entityName": "pauvreté",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "stratégie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la stratégie européenne contre la pauvreté.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Fonds social européen",
+    "enfants",
+    "sans-abri"
+  ],
+  "questions": [
+    "Quel objectif ?",
+    "Quel financement ?",
+    "Quels résultats ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SOCIAL",
+    "#PAUVRETE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

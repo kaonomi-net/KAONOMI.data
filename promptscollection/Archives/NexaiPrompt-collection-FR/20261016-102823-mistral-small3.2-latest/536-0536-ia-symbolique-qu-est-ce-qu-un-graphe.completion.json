@@ -1,0 +1,13 @@
+{
+  "index": 536,
+  "file": "0536-ia-symbolique-qu-est-ce-qu-un-graphe.prompt.json",
+  "prompt": "Qu'est-ce qu'un graphe de connaissances ?",
+  "promptWords": 6,
+  "completion": "Un graphe de connaissances est une représentation structurée de l'information qui modélise les connaissances sous forme de nœuds et de relations entre ces nœuds. Voici une explication plus détaillée :\n\n### Définition\nUn graphe de connaissances est un type de graphe où :\n- **Les nœuds** (ou sommets) représentent des entités, des concepts ou des objets (par exemple, des personnes, des lieux, des événements, des idées).\n- **Les arêtes** (ou liens) représentent les relations entre ces entités (par exemple, \"est situé dans\", \"a écrit\", \"est ami avec\").\n\n### Exemple\nPrenons un exemple simple pour illustrer :\n- **Nœuds** : \"Paris\", \"France\", \"Tour Eiffel\"\n- **Arêtes** :\n  - \"Paris est situé dans France\"\n  - \"Tour Eiffel est située dans Paris\"\n\n### Utilisations\nLes graphes de connaissances sont utilisés dans divers domaines, notamment :\n1. **Recherche d'information** : Pour améliorer la compréhension des requêtes et fournir des résultats plus pertinents.\n2. **Assistants virtuels** : Pour répondre à des questions complexes en comprenant les relations entre les concepts.\n3. **Recommandation** : Pour suggérer des produits, des films, ou des articles en fonction des préférences et des comportements des utilisateurs.\n4. **Biologie et médecine** : Pour modéliser les interactions entre gènes, protéines, ou maladies.\n5. **Réseaux sociaux** : Pour analyser les relations entre les utilisateurs.\n\n### Avantages\n- **Flexibilité** : Permet de représenter des connaissances complexes et variées.\n- **Clarté** : Facilite la compréhension des relations entre les données.\n- **Extensibilité** : Peut être facilement étendu avec de nouvelles connaissances.\n\n### Outils et Technologies\nPlusieurs technologies et frameworks permettent de créer et de manipuler des graphes de connaissances, comme :\n- **RDF (Resource Description Framework)** et **OWL (Web Ontology Language)** pour le Web sémantique.\n- **Neo4j**, **Apache TinkerPop**, et **Amazon Neptune** pour les bases de données graphes.\n\nEn résumé, un graphe de connaissances est un outil puissant pour organiser, explorer et exploiter des informations de manière structurée et relationnelle.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:03:15.5865113+02:00",
+  "durationSeconds": 10.04,
+  "stats": "mistral-small3.2:latest · 517 + 500 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

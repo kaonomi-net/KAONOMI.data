@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-zero-contention-en-psychiatrie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Zéro contention en psychiatrie",
+  "includedEntities": [
+    {
+      "entityName": "contention",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "isolement",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "psychiatrie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'objectif de zéro recours à la contention en psychiatrie d'ici 2030.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [
+    "2030"
+  ],
+  "relatedEntities": [
+    "Contrôleur général des lieux de privation de liberté",
+    "soignants",
+    "droits des patients"
+  ],
+  "questions": [
+    "Quelle évolution ?",
+    "Quel établissement ?",
+    "Quel rapport ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PSYCHIATRIE",
+    "#DROITS"
+  ],
+  "events": [],
+  "signals": [
+    "!DROITS"
+  ],
+  "isDeleted": false
+}

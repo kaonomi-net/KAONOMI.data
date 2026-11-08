@@ -1,0 +1,13 @@
+{
+  "index": 149,
+  "file": "0149-microsoft-office-comment-utiliser-le-masque-des-diapositives.prompt.json",
+  "prompt": "Comment utiliser le masque des diapositives dans PowerPoint ?",
+  "promptWords": 9,
+  "completion": "Le masque des diapositives dans PowerPoint est un outil très utile pour personnaliser l'apparence de toutes les diapositives d'une présentation. Voici comment l'utiliser :\n\n### Étapes pour utiliser le masque des diapositives :\n\n1. **Ouvrir le masque des diapositives** :\n   - Dans le ruban, cliquez sur l'onglet **Affichage**.\n   - Cliquez sur **Masque des diapositives** dans le groupe **Masques**.\n\n2. **Personnaliser le masque** :\n   - Le masque des diapositives s'ouvre dans une nouvelle fenêtre. Vous pouvez y ajouter des éléments tels que des en-têtes, des pieds de page, des logos ou des zones de texte qui apparaîtront sur toutes les diapositives.\n   - Vous pouvez également modifier la disposition, les couleurs, les polices et les effets.\n\n3. **Appliquer les modifications** :\n   - Une fois vos modifications terminées, fermez la fenêtre du masque des diapositives.\n   - Toutes les diapositives de votre présentation adopteront le nouveau masque.\n\n### Conseils utiles :\n- **Utiliser des placeholders** : Les placeholders (zones réservées) dans le masque vous permettent de définir des zones spécifiques pour le texte, les images, etc.\n- **Consistance** : Le masque des diapositives est idéal pour maintenir une apparence cohérente dans toute votre présentation.\n- **Personnalisation avancée** : Vous pouvez créer plusieurs masques pour différentes sections de votre présentation.\n\nSi vous avez des questions plus spécifiques ou si vous souhaitez des instructions détaillées pour une version particulière de PowerPoint, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:55:54.3804831+02:00",
+  "durationSeconds": 7.86,
+  "stats": "mistral-small3.2:latest · 520 + 367 tokens · 7,9 s",
+  "isError": false,
+  "language": "FR"
+}

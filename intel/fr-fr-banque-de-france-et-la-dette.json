@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-banque-de-france-et-la-dette",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Banque de France et la dette",
+  "includedEntities": [
+    {
+      "entityName": "Banque de France",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "François Villeroy de Galhau",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "dette",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les alertes de la Banque de France sur la dette.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "gouverneur",
+    "croissance",
+    "redressement"
+  ],
+  "questions": [
+    "Quelle alerte ?",
+    "Quelle prévision ?",
+    "Quelle recommandation ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#BANQUE-DE-FRANCE"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

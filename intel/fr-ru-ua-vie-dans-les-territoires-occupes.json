@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-vie-dans-les-territoires-occupes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Vie dans les territoires occupés",
+  "includedEntities": [
+    {
+      "entityName": "territoires occupés",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "habitants",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation des habitants des territoires occupés par la Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Donetsk",
+    "Louhansk",
+    "Zaporijia",
+    "Kherson"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "passeports russes",
+    "écoles",
+    "répression"
+  ],
+  "questions": [
+    "Quelles pressions ?",
+    "Quelles arrestations ?",
+    "Quelles conditions de vie ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#OCCUPATION",
+    "#DROITS-HUMAINS"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

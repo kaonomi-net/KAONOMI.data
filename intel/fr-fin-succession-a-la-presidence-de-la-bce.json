@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-succession-a-la-presidence-de-la-bce",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Succession à la présidence de la BCE",
+  "includedEntities": [
+    {
+      "entityName": "succession",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "BCE",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "président",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la course à la succession de Christine Lagarde.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Francfort"
+  ],
+  "times": [
+    "avant février 2027"
+  ],
+  "relatedEntities": [
+    "Klaas Knot",
+    "Pablo Hernández de Cos",
+    "Isabel Schnabel"
+  ],
+  "questions": [
+    "Quels candidats ?",
+    "Quel soutien franco-allemand ?",
+    "Quelle décision du Conseil européen ?"
+  ],
+  "tags": [
+    "#BCE",
+    "#NOMINATION"
+  ],
+  "events": [
+    "@NOMINATION"
+  ],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "isDeleted": false
+}

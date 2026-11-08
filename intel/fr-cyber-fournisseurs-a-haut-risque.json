@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-fournisseurs-a-haut-risque",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Fournisseurs à haut risque",
+  "includedEntities": [
+    {
+      "entityName": "fournisseurs à haut risque",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Huawei",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'exclusion des fournisseurs à haut risque des réseaux européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "5G",
+    "Chine",
+    "onduleurs solaires"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel pays ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SOUVERAINETE",
+    "#CHINE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

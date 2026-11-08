@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-deputes",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "députés",
+  "entityType": "PROFESSION",
+  "description": "Cité par 4 intels : Députés RN à l'Assemblée ; Violences et menaces contre les élus ; Commission mixte paritaire ; Cumul des mandats.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre l'action du groupe RN à l'Assemblée nationale.",
+    "Suivre les menaces et agressions contre les élus et candidats.",
+    "Suivre les commissions mixtes paritaires sur les grands textes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "députés",
+  "tags": [
+    "#FRANCE",
+    "#PARLEMENT",
+    "#RN",
+    "#SECURITE",
+    "#DEMOCRATIE",
+    "#PROCEDURE"
+  ],
+  "events": [
+    "@AGRESSION"
+  ],
+  "signals": [
+    "!POLITIQUE",
+    "!ALERTE",
+    "!BUDGET"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "budget",
+    "maires",
+    "élus",
+    "Rassemblement national",
+    "propositions de loi",
+    "motions de censure",
+    "Assemblée nationale",
+    "violences",
+    "menaces",
+    "police"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

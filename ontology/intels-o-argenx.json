@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-argenx",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "argenx",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 4 intels : BEL 20 ; BEL 20 au-dessus de 6 000 points ; argenx ; Biotechs belges.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'évolution de l'indice phare de la Bourse de Bruxelles.",
+    "Suivre le BEL 20, passé au-dessus de 6 000 points le 5 novembre 2026 après des records successifs.",
+    "Suivre l'action argenx, poids lourd du BEL 20, et son médicament Vyvgart."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "argenx",
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#BIOTECH",
+    "#RECORD",
+    "#BELGIQUE"
+  ],
+  "events": [
+    "@SEANCE-BOURSE",
+    "@RECORD-BOURSIER",
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!MARCHE",
+    "!RESULTATS",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "BEL 20",
+    "essais cliniques",
+    "Gand",
+    "séance",
+    "UCB",
+    "Euronext Bruxelles",
+    "Syensqo",
+    "6 000 points",
+    "record"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

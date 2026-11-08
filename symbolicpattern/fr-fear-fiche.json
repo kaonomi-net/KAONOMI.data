@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-fiche",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne suivie par les services de sécurité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fich[ée](e|s|es)?\\s+s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fiche\\s+s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fich[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sous\\s+surveillance)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:suivi(e|s|es)?\\s+par\\s+les\\s+services)(?![\\w-])"
+  ],
+  "symbol": "fiché",
+  "event": null,
+  "title": "Fiché",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

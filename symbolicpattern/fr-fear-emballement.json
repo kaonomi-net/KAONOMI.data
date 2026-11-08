@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-emballement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une accélération que plus personne ne maîtrise.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:emballement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:course\\s+[àa]\\s+l['’]ia)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:course\\s+aux\\s+armements\\s+de\\s+l['’]ia)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fuite\\s+en\\s+avant)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:moratoire)(?![\\w-])"
+  ],
+  "symbol": "emballement",
+  "event": null,
+  "title": "Emballement",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

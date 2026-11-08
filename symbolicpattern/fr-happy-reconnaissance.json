@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-reconnaissance",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'être reconnu, la gratitude.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:reconnaissance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:reconnu(e|s|es)?\\s+(pour|[àa]\\s+sa\\s+juste\\s+valeur))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hommage(s)?)(?![\\w-])"
+  ],
+  "symbol": "reconnaissance",
+  "event": null,
+  "title": "Reconnaissance",
+  "tags": [
+    "#GRATITUDE",
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

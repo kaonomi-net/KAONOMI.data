@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'action pour le climat) : Direction générale de l'action pour le climat (DG CLIMA), service de la Commission européenne compétent pour l'action pour le climat, placé sous l'autorité de Wopke Hoekstra dans la Commission von der Leyen II.",
+  "id": "eu-dg-clima",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de l'action pour le climat",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de l'action pour le climat (DG CLIMA), service de la Commission européenne compétent pour l'action pour le climat, placé sous l'autorité de Wopke Hoekstra dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Le rapport annuel de « Direction générale de l'action pour le climat » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Direction générale de l'action pour le climat ».",
+    "Les décisions de « Direction générale de l'action pour le climat » touchent l'action pour le climat."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG CLIMA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#ACTIONPOURCLIMAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20l%27action%20pour%20le%20climat"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Wopke Hoekstra",
+    "Action pour le climat",
+    "Système d'échange de quotas d'émission de l'UE",
+    "Pacte vert pour l'Europe",
+    "Loi européenne sur le climat",
+    "Paquet « Ajustement à l'objectif 55 »",
+    "Fonds pour l'innovation",
+    "Fonds social pour le climat"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

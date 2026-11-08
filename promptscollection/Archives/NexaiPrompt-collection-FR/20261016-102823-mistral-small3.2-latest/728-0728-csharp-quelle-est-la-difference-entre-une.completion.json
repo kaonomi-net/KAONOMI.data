@@ -1,0 +1,13 @@
+{
+  "index": 728,
+  "file": "0728-csharp-quelle-est-la-difference-entre-une.prompt.json",
+  "prompt": "Quelle est la différence entre une classe et une structure en C# ?",
+  "promptWords": 13,
+  "completion": "En C#, les classes et les structures (structs) sont toutes deux utilisées pour définir des types personnalisés, mais elles présentent des différences importantes :\n\n### 1. **Allocation mémoire**\n   - **Classe** : Les instances de classe sont allouées sur le **tas (heap)** et sont référencées via des pointeurs.\n   - **Structure** : Les instances de structure sont allouées sur la **pile (stack)** et sont copiées par valeur.\n\n### 2. **Héritage**\n   - **Classe** : Supporte l'héritage (une classe peut hériter d'une autre classe).\n   - **Structure** : Ne supporte pas l'héritage (sauf l'héritage implicite de `System.ValueType`).\n\n### 3. **Nullabilité**\n   - **Classe** : Peut être `null` (référence nulle).\n   - **Structure** : Ne peut pas être `null` (sauf si elle est un type nullable comme `int?`).\n\n### 4. **Performance**\n   - **Structure** : Généralement plus rapide pour les petites données car allouée sur la pile.\n   - **Classe** : Peut être moins performante pour les petites données en raison de l'allocation sur le tas.\n\n### 5. **Utilisation typique**\n   - **Classe** : Utilisée pour des objets complexes ou des données qui nécessitent une référence.\n   - **Structure** : Utilisée pour des données simples et immuables (comme les types primitifs `int`, `float`, etc.).\n\n### Exemple :\n```csharp\n// Classe\npublic class Person\n{\n    public string Name { get; set; }\n    public int Age { get; set; }\n}\n\n// Structure\npublic struct Point\n{\n    public int X { get; set; }\n    public int Y { get; set; }\n}\n```\n\nEn résumé, choisissez une **classe** pour des objets complexes et une **structure** pour des données simples et légères.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:57:30.6902086+02:00",
+  "durationSeconds": 8.57,
+  "stats": "mistral-small3.2:latest · 522 + 427 tokens · 8,6 s",
+  "isError": false,
+  "language": "FR"
+}

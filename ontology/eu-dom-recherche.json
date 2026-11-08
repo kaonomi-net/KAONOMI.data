@@ -1,0 +1,61 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la recherche) : Espace européen de la recherche et programmes-cadres de recherche.",
+  "id": "eu-dom-recherche",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Recherche",
+  "entityType": "DOMAIN",
+  "description": "Espace européen de la recherche et programmes-cadres de recherche.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Recherche » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Recherche ».",
+    "Plusieurs commissaires ont été chargés du domaine « Recherche »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#RECHERCHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Recherche"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission de l'industrie, de la recherche et de l'énergie (ITRE)",
+    "Conseil Compétitivité (COMPET)",
+    "Innovation, recherche, culture, éducation et jeunesse (Commission von der Leyen I)",
+    "Mariya Gabriel",
+    "Iliana Ivanova",
+    "Startups, recherche et innovation (Commission von der Leyen II)",
+    "Ekaterina Zaharieva",
+    "Recherche, science et innovation (Commission Juncker)",
+    "Carlos Moedas",
+    "Centre commun de recherche",
+    "Direction générale de la recherche et de l'innovation",
+    "Agence exécutive du Conseil européen de la recherche (ERCEA)",
+    "Agence exécutive européenne pour la recherche (REA)",
+    "Entreprise commune européenne pour ITER et le développement de l'énergie de fusion (Fusion for Energy)",
+    "Horizon Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

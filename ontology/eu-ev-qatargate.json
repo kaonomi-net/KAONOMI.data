@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la démocratie européenne) : Enquête judiciaire belge pour corruption visant des membres du Parlement européen.",
+  "id": "eu-ev-qatargate",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Scandale de corruption au Parlement européen (« Qatargate »)",
+  "entityType": "EVENT",
+  "description": "Enquête judiciaire belge pour corruption visant des membres du Parlement européen.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "La chronologie de la Commission place « Scandale de corruption au Parlement européen (« Qatargate ») » à sa date.",
+    "« Scandale de corruption au Parlement européen (« Qatargate ») » est un jalon de l'histoire de de l'Union européenne.",
+    "Les historiens de la construction européenne reviennent sur « Scandale de corruption au Parlement européen (« Qatargate ») »."
+  ],
+  "angryLevel": 3,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 0,
+  "surpriseLevel": 3,
+  "disgustLevel": 4,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#DEMOCRATIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Scandale%20de%20corruption%20au%20Parlement%20europ%C3%A9en%20%28%C2%AB%20Qatargate%20%C2%BB%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Démocratie",
+    "Lutte antifraude",
+    "Roberta Metsola",
+    "Commission von der Leyen I",
+    "Bruxelles",
+    "Parlement européen"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-12-09T00:00:00",
+  "endDate": null
+}

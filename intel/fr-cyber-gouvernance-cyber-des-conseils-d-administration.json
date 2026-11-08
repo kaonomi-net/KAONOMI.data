@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-gouvernance-cyber-des-conseils-d-administration",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Gouvernance cyber des conseils d'administration",
+  "includedEntities": [
+    {
+      "entityName": "conseil d'administration",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cybersécurité",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'implication des dirigeants dans la cybersécurité.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "NIS2",
+    "responsabilité des dirigeants",
+    "formation"
+  ],
+  "questions": [
+    "Quelle obligation ?",
+    "Quelle formation ?",
+    "Quelle sanction ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#GOUVERNANCE",
+    "#NIS2"
+  ],
+  "events": [],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

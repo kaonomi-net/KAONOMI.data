@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Professionnel de l'information.",
+  "id": "eu-met-journaliste",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Journaliste",
+  "entityType": "PROFESSION",
+  "description": "Professionnel de l'information.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "Le métier « Journaliste » apparaît dans les biographies officielles.",
+    "La fonction « Journaliste » relève de la vie publique européenne.",
+    "Le parcours de nombreux commissaires passe par la fonction « Journaliste »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Journaliste"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Mairead McGuinness",
+    "Paolo Gentiloni",
+    "Henna Virkkunen",
+    "Marta Kos",
+    "Hadja Lahbib",
+    "Corina Crețu",
+    "David Sassoli",
+    "Antonio Tajani",
+    "Emily O'Reilly"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

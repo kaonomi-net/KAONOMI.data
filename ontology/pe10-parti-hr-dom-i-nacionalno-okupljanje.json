@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Dom i nacionalno okupljanje, parti ou liste de ce pays : Croatie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-hr-dom-i-nacionalno-okupljanje",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Dom i nacionalno okupljanje",
+  "entityType": "ORGANISATION",
+  "description": "Dom i nacionalno okupljanje, parti ou liste de ce pays : Croatie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les positions de « Dom i nacionalno okupljanje » sont suivies à Bruxelles et à Strasbourg.",
+    "« Dom i nacionalno okupljanje » compte des élus au Parlement européen.",
+    "La presse a commenté le score de « Dom i nacionalno okupljanje » aux élections européennes."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Dom%20i%20nacionalno%20okupljanje"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Stephen Nikola Bartulica",
+    "Croatie",
+    "Conservateurs et réformistes européens (ECR)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

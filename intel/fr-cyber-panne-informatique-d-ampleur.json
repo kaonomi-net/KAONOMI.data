@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-panne-informatique-d-ampleur",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Panne informatique d'ampleur",
+  "includedEntities": [
+    {
+      "entityName": "panne informatique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "mise à jour",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les pannes informatiques mondiales liées à une mise à jour défectueuse.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "CrowdStrike",
+    "Microsoft",
+    "cloud"
+  ],
+  "questions": [
+    "Quelle cause ?",
+    "Combien de systèmes ?",
+    "Quelle reprise ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RESILIENCE"
+  ],
+  "events": [
+    "@PANNE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

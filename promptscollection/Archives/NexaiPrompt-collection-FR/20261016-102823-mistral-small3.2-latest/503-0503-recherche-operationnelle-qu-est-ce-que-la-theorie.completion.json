@@ -1,0 +1,13 @@
+{
+  "index": 503,
+  "file": "0503-recherche-operationnelle-qu-est-ce-que-la-theorie.prompt.json",
+  "prompt": "Qu'est-ce que la théorie des files d'attente ?",
+  "promptWords": 8,
+  "completion": "La théorie des files d'attente est une branche des mathématiques et de l'ingénierie qui étudie les systèmes où des clients (ou des demandes) arrivent, attendent et sont servis par un ou plusieurs serveurs. Elle est largement utilisée pour modéliser et optimiser des systèmes tels que les centres d'appels, les réseaux informatiques, les services de santé, les transports, et bien d'autres.\n\n### Principaux concepts de la théorie des files d'attente :\n\n1. **Arrivées** : Les clients arrivent selon un certain processus, souvent modélisé par un processus de Poisson (arrivées aléatoires et indépendantes).\n2. **File d'attente** : Les clients qui arrivent peuvent attendre dans une file d'attente avant d'être servis.\n3. **Service** : Les clients sont servis par un ou plusieurs serveurs. Le temps de service peut suivre une distribution spécifique, comme une distribution exponentielle.\n4. **Capacité du système** : Le nombre de clients que le système peut accueillir simultanément.\n\n### Modèles de base :\n\n- **M/M/1** : Un serveur, arrivées et services selon un processus de Poisson (M pour Markovien).\n- **M/M/c** : Plusieurs serveurs (c), arrivées et services selon un processus de Poisson.\n- **G/G/1** : Un serveur, arrivées et services selon des distributions générales (G pour Général).\n\n### Mesures de performance :\n\n- **Temps d'attente moyen** : Temps moyen qu'un client passe dans la file d'attente.\n- **Temps de séjour moyen** : Temps moyen qu'un client passe dans le système (attente + service).\n- **Nombre moyen de clients dans la file d'attente** : Nombre moyen de clients en attente de service.\n- **Utilisation du serveur** : Pourcentage de temps pendant lequel le serveur est occupé.\n\n### Applications :\n\n- **Réseaux informatiques** : Gestion du trafic et des files d'attente dans les routeurs.\n- **Services de santé** : Optimisation des temps d'attente dans les hôpitaux.\n- **Centres d'appels** : Gestion des appels entrants et des agents disponibles.\n- **Transports** : Optimisation des files d'attente aux guichets ou aux contrôles de sécurité.\n\nLa théorie des files d'attente permet de comprendre et d'améliorer l'efficacité des systèmes où les ressources sont limitées et où les demandes peuvent varier.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:57:22.4059851+02:00",
+  "durationSeconds": 10.42,
+  "stats": "mistral-small3.2:latest · 519 + 518 tokens · 10,4 s",
+  "isError": false,
+  "language": "FR"
+}

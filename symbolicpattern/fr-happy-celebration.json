@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-celebration",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de célébrer un événement.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:c[ée]l[ée]bration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:c[ée]l[ée]br(er|[ée]|[ée]e|ons|ent)|comm[ée]mor(er|ation)\\s+heureuse)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:c[ée]r[ée]monie(s)?\\s+joyeuse(s)?)(?![\\w-])"
+  ],
+  "symbol": "célébration",
+  "event": null,
+  "title": "Célébration",
+  "tags": [
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

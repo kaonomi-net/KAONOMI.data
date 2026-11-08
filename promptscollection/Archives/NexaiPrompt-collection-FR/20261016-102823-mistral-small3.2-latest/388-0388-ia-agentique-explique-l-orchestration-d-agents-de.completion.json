@@ -1,0 +1,13 @@
+{
+  "index": 388,
+  "file": "0388-ia-agentique-explique-l-orchestration-d-agents-de.prompt.json",
+  "prompt": "Explique l'orchestration d'agents de façon simple.",
+  "promptWords": 6,
+  "completion": "L'orchestration d'agents, c'est un peu comme diriger une équipe de robots ou de programmes intelligents pour qu'ils travaillent ensemble de manière harmonieuse et efficace. Imagine que chaque agent est un membre d'une équipe avec des compétences spécifiques. L'orchestration consiste à coordonner ces agents pour qu'ils accomplissent une tâche complexe en se passant le relais, en partageant des informations et en s'aidant mutuellement.\n\n### Exemple simple :\n- **Agent 1** : Cherche des informations sur le web.\n- **Agent 2** : Analyse ces informations et en extrait les points clés.\n- **Agent 3** : Rédige un rapport basé sur les analyses.\n\nL'orchestrateur (le chef d'orchestre) s'assure que chaque agent fait sa partie au bon moment, sans se marcher sur les pieds, et que le résultat final est cohérent.\n\n### Pourquoi c'est utile ?\n- **Efficacité** : Diviser une tâche en sous-tâches permet de gagner du temps.\n- **Spécialisation** : Chaque agent peut être optimisé pour une tâche précise.\n- **Flexibilité** : On peut ajouter ou modifier des agents sans tout reprendre de zéro.\n\nEn résumé, l'orchestration d'agents, c'est comme un chef d'orchestre qui fait jouer une symphonie avec différents instruments, chacun à son tour, pour créer une belle mélodie. \uD83C\uDFB5",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:36:01.6362548+02:00",
+  "durationSeconds": 6.16,
+  "stats": "mistral-small3.2:latest · 521 + 300 tokens · 6,2 s",
+  "isError": false,
+  "language": "FR"
+}

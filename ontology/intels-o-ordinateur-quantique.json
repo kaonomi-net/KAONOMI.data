@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ordinateur-quantique",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "ordinateur quantique",
+  "entityType": "HARDWARE",
+  "description": "Cité par 1 intel : Ordinateur quantique et cryptographie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre les avancées des ordinateurs quantiques et leur menace pour la cryptographie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "ordinateur quantique",
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#QUANTIQUE"
+  ],
+  "events": [
+    "@ANNONCE"
+  ],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "RSA",
+    "correction d'erreurs",
+    "IBM",
+    "qubits"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

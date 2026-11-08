@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les distinctions) : Le prix Nobel de chimie récompense David Baker pour la conception de protéines, et Demis Hassabis et John Jumper pour AlphaFold.",
+  "id": "ia-nobel-chimie-2024",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Prix Nobel de chimie 2024",
+  "entityType": "EVENT",
+  "description": "Le prix Nobel de chimie récompense David Baker pour la conception de protéines, et Demis Hassabis et John Jumper pour AlphaFold.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "La frise chronologique de la salle de cours place « Prix Nobel de chimie 2024 » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Prix Nobel de chimie 2024 ».",
+    "L'événement « Prix Nobel de chimie 2024 » a marqué durablement l'histoire des distinctions."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 4,
+  "fearLevel": 0,
+  "surpriseLevel": 3,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Nobel 2024 de chimie"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#DISTINCTIONS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Prix%20Nobel%20de%20chimie%202024"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Demis Hassabis"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-10-09T00:00:00",
+  "endDate": "2024-10-09T00:00:00"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 408,
+  "file": "0408-llm-gateway-quelles-solutions-de-llm-gateway-existent.prompt.json",
+  "prompt": "Quelles solutions de LLM Gateway existent (LiteLLM, Kong, Azure API Management) ?",
+  "promptWords": 12,
+  "completion": "Il existe plusieurs solutions de LLM Gateway qui permettent de gérer, router et optimiser les requêtes vers les grands modèles de langage (LLM). Voici quelques-unes des solutions les plus populaires :\n\n1. **LiteLLM** :\n   - LiteLLM est une bibliothèque open-source qui permet de créer un serveur proxy pour les LLM. Elle prend en charge plusieurs fournisseurs de modèles, comme OpenAI, Anthropic, Google, et d'autres.\n   - Elle offre des fonctionnalités comme le routage intelligent des requêtes, la gestion des quotas, et la réduction des coûts en utilisant des modèles moins chers pour certaines requêtes.\n\n2. **Kong** :\n   - Kong est une plateforme de gestion d'API qui peut être utilisée pour créer un LLM Gateway. Elle permet de gérer les requêtes vers différents modèles de langage en utilisant des plugins et des configurations personnalisées.\n   - Kong offre des fonctionnalités avancées comme l'authentification, la limitation de débit, et la surveillance des performances.\n\n3. **Azure API Management (APIM)** :\n   - Azure API Management est un service de gestion d'API proposé par Microsoft Azure. Il peut être utilisé pour créer un LLM Gateway en configurant des politiques de routage et de transformation des requêtes.\n   - Azure APIM offre des fonctionnalités comme la sécurité, la surveillance, et l'analytique des requêtes.\n\n4. **Other Solutions** :\n   - **Apache APISIX** : Une autre solution open-source de gestion d'API qui peut être utilisée pour créer un LLM Gateway.\n   - **Traefik** : Un reverse proxy et load balancer qui peut être configuré pour gérer les requêtes vers les LLM.\n   - **Nginx** : Un serveur web et reverse proxy qui peut être utilisé pour créer un LLM Gateway avec des configurations personnalisées.\n\nCes solutions offrent différentes fonctionnalités et peuvent être choisies en fonction des besoins spécifiques de votre projet. Si vous avez besoin de plus de détails sur une solution particulière, n'hésitez pas à demander.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:39:38.6083096+02:00",
+  "durationSeconds": 8.84,
+  "stats": "mistral-small3.2:latest · 527 + 436 tokens · 8,8 s",
+  "isError": false,
+  "language": "FR"
+}

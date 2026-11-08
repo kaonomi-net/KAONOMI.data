@@ -1,0 +1,13 @@
+{
+  "index": 172,
+  "file": "0172-microsoft-office-how-do-i-use-color-categories.prompt.json",
+  "prompt": "How do I use color categories in Outlook?",
+  "promptWords": 8,
+  "completion": "To use color categories in Outlook, you can follow these steps:\n\n### **For Outlook on Desktop (Windows):**\n1. **Open Outlook** and go to your **Mail** or **Calendar** view.\n2. **Right-click** on an email or calendar event that you want to categorize.\n3. Select **Categorize** from the context menu.\n4. Choose an existing color category or click **All Categories** to manage or create new ones.\n5. If creating a new category, click **Master Category List**, then **New**.\n6. Give the category a name, choose a color, and click **OK**.\n7. Select the category to apply it to the selected item.\n\n### **For Outlook on the Web (Outlook.com or Office 365):**\n1. **Log in** to your Outlook account.\n2. Open an email or calendar event.\n3. Click on the **Categorize** button (usually represented by a color tag icon).\n4. Choose an existing category or click **Manage categories** to create a new one.\n5. If creating a new category, enter a name, pick a color, and save it.\n6. Select the category to apply it.\n\n### **For Outlook on Mobile (Android/iOS):**\n1. Open the **Outlook app** and select an email or event.\n2. Tap the **three-dot menu** (⋯) or **swipe right** on the item.\n3. Select **Categorize** or **Label**.\n4. Choose an existing category or tap **Manage categories** to create a new one.\n5. Assign the category to the item.\n\nWould you like more specific instructions for a particular version of Outlook?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:34:58.4188709+02:00",
+  "durationSeconds": 9.36,
+  "stats": "mistral-small3.2:latest · 516 + 354 tokens · 9,4 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ralliement",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "ralliement",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Retrait de candidature ; Ralliements au RN ; Ralliements à Édouard Philippe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les retraits ou renoncements de candidats.",
+    "Repérer les personnalités qui rejoignent ou soutiennent le RN.",
+    "Repérer les soutiens qui rejoignent Édouard Philippe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "ralliement",
+  "tags": [
+    "#FRANCE",
+    "#CAMPAGNE",
+    "#PRESIDENTIELLE-2027",
+    "#CANDIDATS",
+    "#RN",
+    "#HORIZONS"
+  ],
+  "events": [
+    "@RALLIEMENT",
+    "@RETRAIT"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "élus",
+    "présidentielle",
+    "partis",
+    "candidature",
+    "sondages",
+    "retrait",
+    "Rassemblement national",
+    "anciens ministres",
+    "Reconquête",
+    "Édouard Philippe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

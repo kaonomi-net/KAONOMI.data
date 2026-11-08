@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-avarie",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Gâté, impropre à la consommation.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:avari[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:viande\\s+avari[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tourn[ée](e|s|es)?\\s+(le\\s+lait|la\\s+cr[èe]me))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:aliment(s)?\\s+g[âa]t[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:denr[ée]e(s)?\\s+avari[ée]e(s)?)(?![\\w-])"
+  ],
+  "symbol": "avarié",
+  "event": null,
+  "title": "Avarié",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

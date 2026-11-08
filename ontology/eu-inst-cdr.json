@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique de cohésion) : Organe consultatif représentant les collectivités régionales et locales.",
+  "id": "eu-inst-cdr",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Comité européen des régions",
+  "entityType": "ORGANISATION",
+  "description": "Organe consultatif représentant les collectivités régionales et locales.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-institutions",
+  "sentencesExemples": [
+    "Le rapport annuel de « Comité européen des régions » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Comité européen des régions ».",
+    "Les décisions de « Comité européen des régions » touchent la politique de cohésion."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "CdR"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUECOHESION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Comit%C3%A9%20europ%C3%A9en%20des%20r%C3%A9gions"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Union européenne",
+    "Cohésion et politique régionale"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-art-therapie-et-musique",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Art-thérapie et musique",
+  "includedEntities": [
+    {
+      "entityName": "art-thérapie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "musicothérapie",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'art-thérapie et la musicothérapie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "hôpitaux",
+    "démence",
+    "enfants"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel usage ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#THERAPIES"
+  ],
+  "events": [],
+  "signals": [
+    "!BIEN-ETRE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-censure-d-internet-en-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Censure d'internet en Russie",
+  "includedEntities": [
+    {
+      "entityName": "censure",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "internet",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Roskomnadzor",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les blocages de sites, de messageries et de VPN.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Telegram",
+    "WhatsApp",
+    "VPN"
+  ],
+  "questions": [
+    "Quel service bloqué ?",
+    "Quelle loi ?",
+    "Quels contournements ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#CENSURE",
+    "#INTERNET"
+  ],
+  "events": [
+    "@BLOCAGE"
+  ],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

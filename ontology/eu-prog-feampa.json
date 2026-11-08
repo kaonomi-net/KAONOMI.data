@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la pêche) : Fonds de soutien à la pêche durable et à l'économie bleue.",
+  "id": "eu-prog-feampa",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Fonds européen pour les affaires maritimes, la pêche et l'aquaculture",
+  "entityType": "PROGRAMME",
+  "description": "Fonds de soutien à la pêche durable et à l'économie bleue.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Le projet a reçu un financement de « Fonds européen pour les affaires maritimes, la pêche et l'aquaculture ».",
+    "Le bilan de « Fonds européen pour les affaires maritimes, la pêche et l'aquaculture » a été présenté au Parlement européen.",
+    "« Fonds européen pour les affaires maritimes, la pêche et l'aquaculture » finance des projets dans la pêche."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "FEAMPA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#PECHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fonds%20europ%C3%A9en%20pour%20les%20affaires%20maritimes%2C%20la%20p%C3%AAche%20et%20l%27aquaculture"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale des affaires maritimes et de la pêche",
+    "Pêche",
+    "Océans et affaires maritimes",
+    "Cadre financier pluriannuel 2021-2027"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-01-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

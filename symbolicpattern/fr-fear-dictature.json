@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-dictature",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un régime autoritaire.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:dictature(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dictateur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]gime\\s+autoritaire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:totalitaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tyrannie(s)?)(?![\\w-])"
+  ],
+  "symbol": "dictature",
+  "event": null,
+  "title": "Dictature",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

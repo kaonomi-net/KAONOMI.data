@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-previsions-economiques-pour-2027",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Prévisions économiques pour 2027",
+  "includedEntities": [
+    {
+      "entityName": "prévisions",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "2027",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "croissance",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prévisions économiques pour 2027.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Banque de France",
+    "OCDE",
+    "Commission européenne"
+  ],
+  "questions": [
+    "Quelle croissance prévue ?",
+    "Quelle inflation ?",
+    "Quels risques ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ECONOMIE",
+    "#PROSPECTIVE"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

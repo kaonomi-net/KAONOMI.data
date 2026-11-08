@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Parti travailliste (PvdA), parti politique de ce pays : Pays-Bas.",
+  "id": "eu-parti-pvda",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti travailliste (PvdA)",
+  "entityType": "ORGANISATION",
+  "description": "Parti travailliste (PvdA), parti politique de ce pays : Pays-Bas. Il est affilié à la famille Socialistes et démocrates (S&D).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Parti travailliste (PvdA) ».",
+    "« Parti travailliste (PvdA) » joue un rôle dans la vie politique nationale.",
+    "Les fonctionnaires de « Parti travailliste (PvdA) » préparent les textes relatifs à la vie politique nationale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20travailliste%20%28PvdA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pays-Bas",
+    "Socialistes et démocrates (S&D)",
+    "Frans Timmermans",
+    "Sicco Mansholt"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

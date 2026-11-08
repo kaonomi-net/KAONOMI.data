@@ -1,0 +1,13 @@
+{
+  "index": 86,
+  "file": "086-interet-pour-le-llm-was-ist-ihre-lieblingsjahreszeit.prompt.json",
+  "prompt": "Was ist Ihre Lieblingsjahreszeit?",
+  "promptWords": 4,
+  "completion": "Ich habe keine persönlichen Vorlieben, da ich ein KI-Modell bin. Aber ich kann dir helfen, die Vor- und Nachteile jeder Jahreszeit zu diskutieren! Welche ist deine Lieblingsjahreszeit und warum? \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:10:22.4200511+02:00",
+  "durationSeconds": 1.25,
+  "stats": "mistral-small3.2:latest · 517 + 53 tokens · 1,3 s",
+  "isError": false,
+  "language": "DE"
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-haut-le-cur",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un spasme de dégoût.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:haut(s)?-le-c(œ|oe)ur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]flexe\\s+naus[ée]eux)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:spasme(s)?\\s+de\\s+d[ée]go[ûu]t)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:soul[èe]ve\\s+le\\s+c(œ|oe)ur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:retourne\\s+l['’]estomac)(?![\\w-])"
+  ],
+  "symbol": "haut-le-cœur",
+  "event": null,
+  "title": "Haut-le-cœur",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

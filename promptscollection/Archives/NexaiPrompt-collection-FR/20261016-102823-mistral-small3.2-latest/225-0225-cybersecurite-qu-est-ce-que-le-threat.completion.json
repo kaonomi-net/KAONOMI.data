@@ -1,0 +1,13 @@
+{
+  "index": 225,
+  "file": "0225-cybersecurite-qu-est-ce-que-le-threat.prompt.json",
+  "prompt": "Qu'est-ce que le threat intelligence ?",
+  "promptWords": 6,
+  "completion": "Le **threat intelligence** (ou renseignement sur les menaces en français) désigne le processus de collecte, d'analyse et de diffusion d'informations sur les menaces cybernétiques potentielles ou existantes. L'objectif est d'aider les organisations à mieux comprendre les risques auxquels elles sont confrontées et à prendre des mesures proactives pour se protéger.\n\n### Les principaux aspects du threat intelligence :\n\n1. **Collecte de données** :\n   - Sources ouvertes (OSINT) : forums, blogs, réseaux sociaux.\n   - Sources fermées (FINT) : bases de données privées, partenariats avec d'autres entreprises ou agences gouvernementales.\n   - Données internes : journaux d'événements, rapports d'incidents.\n\n2. **Analyse des menaces** :\n   - Identification des acteurs malveillants (hackers, groupes organisés, États-nations).\n   - Compréhension des tactiques, techniques et procédures (TTPs) utilisées.\n   - Évaluation de la gravité et de la probabilité d'une attaque.\n\n3. **Diffusion des informations** :\n   - Alertes en temps réel ou rapports périodiques.\n   - Partage avec les équipes de sécurité, les décideurs ou d'autres organisations.\n\n4. **Utilisation pour la défense** :\n   - Mise à jour des systèmes de détection et de prévention des intrusions (IDS/IPS).\n   - Adaptation des politiques de sécurité.\n   - Formation des équipes pour reconnaître les nouvelles menaces.\n\n### Types de threat intelligence :\n- **Stratégique** : Vision globale des tendances et des risques pour les décideurs.\n- **Opérationnel** : Informations actionnables pour les équipes techniques (ex : indicateurs de compromission).\n- **Tactique** : Détails sur les attaques en cours ou récentes.\n\nEn résumé, le threat intelligence permet aux organisations de mieux anticiper et répondre aux cybermenaces, en transformant des données brutes en connaissances exploitables.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:07:23.6829469+02:00",
+  "durationSeconds": 8.62,
+  "stats": "mistral-small3.2:latest · 515 + 421 tokens · 8,6 s",
+  "isError": false,
+  "language": "FR"
+}

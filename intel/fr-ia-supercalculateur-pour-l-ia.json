@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-supercalculateur-pour-l-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Supercalculateur pour l'IA",
+  "includedEntities": [
+    {
+      "entityName": "supercalculateur",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les supercalculateurs dédiés à l'IA.",
+  "isFuzzy": true,
+  "locations": [
+    "Saclay",
+    "Jülich"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Jean Zay",
+    "GENCI",
+    "EuroHPC"
+  ],
+  "questions": [
+    "Quelle puissance ?",
+    "Qui y a accès ?",
+    "Quel financement public ?"
+  ],
+  "tags": [
+    "#IA",
+    "#CALCUL",
+    "#INFRASTRUCTURE"
+  ],
+  "events": [
+    "@PROJET-INFRASTRUCTURE"
+  ],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

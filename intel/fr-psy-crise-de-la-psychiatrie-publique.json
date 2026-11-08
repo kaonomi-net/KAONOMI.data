@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-crise-de-la-psychiatrie-publique",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Crise de la psychiatrie publique",
+  "includedEntities": [
+    {
+      "entityName": "psychiatrie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "crise",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "hôpital",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les difficultés de la psychiatrie publique.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "lits fermés",
+    "postes vacants",
+    "urgences"
+  ],
+  "questions": [
+    "Quel service ?",
+    "Quelle fermeture ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PSYCHIATRIE",
+    "#HOPITAL"
+  ],
+  "events": [],
+  "signals": [
+    "!CRISE"
+  ],
+  "isDeleted": false
+}

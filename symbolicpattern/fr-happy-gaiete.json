@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-gaiete",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La bonne humeur, l'entrain.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:gaiet[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gai(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:all[èe]gre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]tillant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:espi[èe]gle(s)?)(?![\\w-])"
+  ],
+  "symbol": "gaieté",
+  "event": null,
+  "title": "Gaieté",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

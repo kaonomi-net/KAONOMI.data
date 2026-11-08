@@ -1,0 +1,13 @@
+{
+  "index": 21,
+  "file": "021-politesse-puis-je-vous-poser-une-question.prompt.json",
+  "prompt": "Puis-je vous poser une question un peu personnelle ?",
+  "promptWords": 9,
+  "completion": "Bien sûr ! Vous pouvez me poser toutes les questions que vous souhaitez, et je ferai de mon mieux pour y répondre. Qu'aimeriez-vous savoir ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:12:46.5978296+02:00",
+  "durationSeconds": 0.92,
+  "stats": "mistral-small3.2:latest · 517 + 35 tokens · 0,9 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (l'espionnage) : Google révèle une campagne d'espionnage visant ses systèmes et ceux de dizaines d'entreprises.",
+  "id": "cyber-aurora",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Opération Aurora",
+  "entityType": "EVENT",
+  "description": "Google révèle une campagne d'espionnage visant ses systèmes et ceux de dizaines d'entreprises.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "« Opération Aurora » est un jalon de l'histoire de la cybersécurité.",
+    "Dans sa conférence, l'historienne est revenue sur « Opération Aurora ».",
+    "On date souvent un tournant de l'espionnage à « Opération Aurora »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Aurora"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#ESPIONNAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Op%C3%A9ration%20Aurora"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Attaque SolarWinds"
+  ],
+  "isDeleted": false,
+  "startDate": "2010-01-12T00:00:00",
+  "endDate": "2010-01-12T00:00:00"
+}

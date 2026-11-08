@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-blessure",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une lésion du corps.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:blessure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bless([ée]|[ée]e|[ée]s|[ée]es|er))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plaie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mutil([ée]|[ée]e|[ée]s|[ée]es|ation))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:traumatisme(s)?)(?![\\w-])"
+  ],
+  "symbol": "blessure",
+  "event": null,
+  "title": "Blessure",
+  "tags": [
+    "#SOUFFRANCE",
+    "#VIOLENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

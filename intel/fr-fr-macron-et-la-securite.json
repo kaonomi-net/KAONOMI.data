@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-macron-et-la-securite",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Macron et la sécurité",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sécurité",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "forces de l'ordre",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prises de position du président sur la sécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "Trappes",
+    "Marseille"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "police",
+    "narcotrafic",
+    "justice"
+  ],
+  "questions": [
+    "Quelle annonce ?",
+    "Quelles mesures ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#SECURITE"
+  ],
+  "events": [],
+  "signals": [
+    "!SECURITE"
+  ],
+  "isDeleted": false
+}

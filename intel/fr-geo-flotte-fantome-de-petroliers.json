@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-flotte-fantome-de-petroliers",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Flotte fantôme de pétroliers",
+  "includedEntities": [
+    {
+      "entityName": "flotte fantôme",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "pétroliers",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les pétroliers qui contournent les sanctions.",
+  "isFuzzy": true,
+  "locations": [
+    "mer Baltique",
+    "golfe de Finlande"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Russie",
+    "sanctions",
+    "assurances"
+  ],
+  "questions": [
+    "Quels navires ?",
+    "Quels incidents ?",
+    "Quelles mesures de contrôle ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#SANCTIONS",
+    "#MARITIME",
+    "#ENERGIE"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!CONTOURNEMENT"
+  ],
+  "isDeleted": false
+}

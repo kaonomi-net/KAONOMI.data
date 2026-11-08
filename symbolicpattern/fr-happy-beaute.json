@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-beaute",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui est beau.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:beaut[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:belle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:joli(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ravissant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "beauté",
+  "event": null,
+  "title": "Beauté",
+  "tags": [
+    "#BEAUTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

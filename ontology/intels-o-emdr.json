@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-emdr",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "EMDR",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Stress post-traumatique ; EMDR.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'actualité du trouble de stress post-traumatique.",
+    "Suivre l'usage et les preuves de l'EMDR."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "EMDR",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TRAUMA",
+    "#THERAPIES"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!THERAPIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "stress post-traumatique",
+    "traumatisme",
+    "victimes",
+    "militaires",
+    "études",
+    "formation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

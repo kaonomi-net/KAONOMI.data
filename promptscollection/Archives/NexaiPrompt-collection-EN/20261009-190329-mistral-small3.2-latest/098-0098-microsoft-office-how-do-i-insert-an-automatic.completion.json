@@ -1,0 +1,13 @@
+{
+  "index": 98,
+  "file": "0098-microsoft-office-how-do-i-insert-an-automatic.prompt.json",
+  "prompt": "How do I insert an automatic table of contents in Word?",
+  "promptWords": 11,
+  "completion": "To insert an automatic table of contents (TOC) in Microsoft Word, follow these steps:\n\n1. **Apply Heading Styles**:\n   - Before creating the TOC, make sure your document has headings styled with Word's built-in heading styles (e.g., Heading 1, Heading 2, etc.). This ensures Word can generate the TOC correctly.\n   - Select the text you want as a heading and apply the appropriate style from the \"Home\" tab.\n\n2. **Insert the Table of Contents**:\n   - Place your cursor where you want the TOC to appear (usually at the beginning of the document).\n   - Go to the \"References\" tab on the Ribbon.\n   - Click on \"Table of Contents\" in the Table of Contents group.\n   - Choose a built-in style (e.g., \"Automatic Table 1\" or \"Automatic Table 2\"), or select \"Custom Table of Contents\" for more options.\n\n3. **Update the Table of Contents**:\n   - If you make changes to your headings later, you can update the TOC by right-clicking it and selecting \"Update Field\" or by selecting the TOC and clicking \"Update Table\" in the \"References\" tab.\n\nThis will create a dynamic TOC that updates automatically when you modify your headings.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:22:19.2043748+02:00",
+  "durationSeconds": 6.85,
+  "stats": "mistral-small3.2:latest · 519 + 269 tokens · 6,9 s",
+  "isError": false,
+  "language": "EN"
+}

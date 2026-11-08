@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-applaudissement",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Des battements de mains d'approbation.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:applaudissement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:applaud(ir|it|issent|i|ie)|ovation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:standing\\s+ovation)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:acclam(er|[ée]|[ée]e|ation|ations))(?![\\w-])"
+  ],
+  "symbol": "applaudissement",
+  "event": null,
+  "title": "Applaudissement",
+  "tags": [
+    "#FETE",
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

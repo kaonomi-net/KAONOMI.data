@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-reglement-sur-les-puces",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Règlement sur les puces",
+  "includedEntities": [
+    {
+      "entityName": "règlement sur les puces",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "semi-conducteurs",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la stratégie européenne sur les semi-conducteurs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "usines",
+    "Intel",
+    "TSMC"
+  ],
+  "questions": [
+    "Quelle usine ?",
+    "Quel financement ?",
+    "Quel retard ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SEMI-CONDUCTEURS",
+    "#INDUSTRIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

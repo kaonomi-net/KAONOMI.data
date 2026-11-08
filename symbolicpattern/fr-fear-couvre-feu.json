@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-couvre-feu",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'interdiction de sortir la nuit.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:couvre-feu(x)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:loi\\s+martiale)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]tat\\s+de\\s+si[èe]ge)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]tat\\s+d['’]urgence)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:interdiction\\s+de\\s+circuler)(?![\\w-])"
+  ],
+  "symbol": "couvre-feu",
+  "event": null,
+  "title": "Couvre-feu",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

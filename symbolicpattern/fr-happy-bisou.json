@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-bisou",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un petit baiser affectueux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bisou(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bise(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:b[ée]cot(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:smack)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gros\\s+bisous)(?![\\w-])"
+  ],
+  "symbol": "bisou",
+  "event": null,
+  "title": "Bisou",
+  "tags": [
+    "#AMOUR",
+    "#FAMILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

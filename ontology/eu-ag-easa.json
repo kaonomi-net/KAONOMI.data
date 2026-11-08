@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les transports) : Agence de l'Union européenne pour la sécurité aérienne (EASA), organe de l'Union créé en 2002 et installé dans cette ville : Cologne.",
+  "id": "eu-ag-easa",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence de l'Union européenne pour la sécurité aérienne (EASA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence de l'Union européenne pour la sécurité aérienne (EASA), organe de l'Union créé en 2002 et installé dans cette ville : Cologne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Le rapport annuel de « Agence de l'Union européenne pour la sécurité aérienne (EASA) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Agence de l'Union européenne pour la sécurité aérienne (EASA) ».",
+    "Les décisions de « Agence de l'Union européenne pour la sécurité aérienne (EASA) » touchent les transports."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EASA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#TRANSPORTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20de%20l%27Union%20europ%C3%A9enne%20pour%20la%20s%C3%A9curit%C3%A9%20a%C3%A9rienne%20%28EASA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Cologne",
+    "Direction générale de la mobilité et des transports",
+    "Transports"
+  ],
+  "isDeleted": false,
+  "startDate": "2002-01-01T00:00:00",
+  "endDate": null
+}

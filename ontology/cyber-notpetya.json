@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (les cyberattaques) : Logiciel destructeur déguisé en rançongiciel, parti d'Ukraine, qui cause des milliards de dollars de dégâts dans le monde.",
+  "id": "cyber-notpetya",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "NotPetya",
+  "entityType": "EVENT",
+  "description": "Logiciel destructeur déguisé en rançongiciel, parti d'Ukraine, qui cause des milliards de dollars de dégâts dans le monde.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "Les journaux de l'époque ont largement commenté l'événement « NotPetya ».",
+    "L'événement « NotPetya » a marqué durablement l'histoire des cyberattaques.",
+    "La frise chronologique de la salle de formation place « NotPetya » en bonne place."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 4,
+  "surpriseLevel": 3,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "ExPetr"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#CYBERATTAQUES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NotPetya"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Mimikatz",
+    "WannaCry",
+    "Attaque contre le réseau électrique ukrainien"
+  ],
+  "isDeleted": false,
+  "startDate": "2017-06-27T00:00:00",
+  "endDate": "2017-06-27T00:00:00"
+}

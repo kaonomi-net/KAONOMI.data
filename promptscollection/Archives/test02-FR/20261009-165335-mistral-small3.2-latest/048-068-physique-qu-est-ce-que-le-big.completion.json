@@ -1,0 +1,13 @@
+{
+  "index": 48,
+  "file": "068-physique-qu-est-ce-que-le-big.prompt.json",
+  "prompt": "Qu'est-ce que le Big Bang ?",
+  "promptWords": 6,
+  "completion": "Le Big Bang est la théorie scientifique qui décrit l'origine et l'évolution de l'Univers. Selon cette théorie, l'Univers aurait commencé il y a environ 13,8 milliards d'années à partir d'un état extrêmement chaud et dense. Voici quelques points clés pour comprendre le Big Bang :\n\n1. **Origine de l'Univers** : Le Big Bang n'est pas une explosion dans l'espace, mais plutôt l'expansion de l'espace lui-même à partir d'un point infiniment petit et dense. Tout le contenu de l'Univers (matière, énergie, espace et temps) était concentré dans cet état initial.\n\n2. **Preuves observationnelles** :\n   - **Rayonnement fossile** : Découvert en 1965, ce rayonnement cosmologique est une lumière très froide (micro-ondes) qui remplit tout l'Univers. Il est considéré comme le \"fossile\" du Big Bang.\n   - **Loi de Hubble** : Les galaxies s'éloignent les unes des autres, ce qui suggère que l'Univers est en expansion.\n   - **Abondance des éléments légers** : Les proportions d'hydrogène, d'hélium et de lithium observées dans l'Univers correspondent aux prédictions du Big Bang.\n\n3. **Évolution de l'Univers** :\n   - **Première seconde** : L'Univers était si chaud et dense que seules des particules élémentaires (quarks, électrons) existaient.\n   - **Formation des atomes** : Environ 380 000 ans après le Big Bang, l'Univers s'est suffisamment refroidi pour que les protons et les électrons forment des atomes neutres, permettant à la lumière de se propager (rayonnement fossile).\n   - **Formation des structures** : Sous l'effet de la gravité, la matière s'est regroupée pour former les premières étoiles et galaxies.\n\n4. **Questions ouvertes** : Le Big Bang ne répond pas à toutes les questions, comme ce qui a déclenché l'expansion initiale ou ce qui se passait avant le Big Bang. Des théories comme l'inflation cosmique ou les modèles multivers tentent d'apporter des réponses.\n\nCette théorie est largement acceptée par la communauté scientifique, mais elle continue d'être affinée grâce aux observations et aux nouvelles découvertes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:01:42.7134963+02:00",
+  "durationSeconds": 10.43,
+  "stats": "mistral-small3.2:latest · 515 + 483 tokens · 10,4 s",
+  "isError": false,
+  "language": "FR"
+}

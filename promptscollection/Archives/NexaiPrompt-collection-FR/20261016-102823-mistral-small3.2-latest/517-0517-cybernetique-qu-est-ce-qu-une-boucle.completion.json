@@ -1,0 +1,13 @@
+{
+  "index": 517,
+  "file": "0517-cybernetique-qu-est-ce-qu-une-boucle.prompt.json",
+  "prompt": "Qu'est-ce qu'une boucle de rétroaction (feedback) ?",
+  "promptWords": 7,
+  "completion": "Une boucle de rétroaction, ou *feedback loop* en anglais, est un processus dans lequel la sortie ou le résultat d'un système est renvoyé comme entrée pour influencer ou ajuster le comportement futur de ce système. Ce concept est largement utilisé dans divers domaines, notamment l'ingénierie, la biologie, l'économie, l'informatique et même les sciences sociales.\n\n### Types de boucles de rétroaction :\n1. **Boucle de rétroaction positive (ou renforcement)** :\n   - Amplifie les changements dans le système.\n   - Exemple : Un haut-parleur près d'un microphone peut créer un sifflement en amplifiant le son de manière incontrôlée.\n\n2. **Boucle de rétroaction négative (ou correction)** :\n   - Stabilise le système en réduisant les écarts par rapport à un point de référence.\n   - Exemple : Le thermostat d'une maison qui allume ou éteint le chauffage pour maintenir une température constante.\n\n### Applications courantes :\n- **Contrôle automatique** : Régulation de la température, de la pression, etc.\n- **Biologie** : Mécanismes de régulation hormonale ou enzymatique.\n- **Économie** : Effets des politiques économiques sur les marchés.\n- **Informatique** : Algorithmes d'apprentissage automatique qui ajustent leurs paramètres en fonction des résultats obtenus.\n\n### Importance :\nLes boucles de rétroaction permettent aux systèmes de s'auto-corriger, de s'adapter et d'optimiser leurs performances. Elles sont essentielles pour la stabilité et l'efficacité des processus dans de nombreux domaines.\n\nSi tu as un contexte spécifique en tête, n'hésite pas à me le préciser pour que je puisse te donner une explication plus ciblée !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:00:11.3744951+02:00",
+  "durationSeconds": 7.8,
+  "stats": "mistral-small3.2:latest · 521 + 384 tokens · 7,8 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Objet des attentats de Bruxelles de 2016 (l'évaluation de la menace) : Échelle de 1 à 4 fixée par l'OCAM ; le niveau 4, le plus élevé, signale une menace sérieuse et imminente.",
+  "id": "be2016-echelle-menace",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Échelle de la menace de l'OCAM",
+  "entityType": "MATERIAL",
+  "description": "Échelle de 1 à 4 fixée par l'OCAM ; le niveau 4, le plus élevé, signale une menace sérieuse et imminente.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-objets",
+  "sentencesExemples": [
+    "Les enquêteurs ont analysé « Échelle de la menace de l'OCAM ».",
+    "Les rapports techniques décrivent « Échelle de la menace de l'OCAM ».",
+    "« Échelle de la menace de l'OCAM » fait partie des éléments retenus par l'enquête sur l'évaluation de la menace."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 2,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 1,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDE9",
+  "synonyms": [
+    "niveaux de la menace"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#MATERIAL",
+    "#EVALUATIONMENACE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89chelle%20de%20la%20menace%20de%20l%27OCAM"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OCAM",
+    "Niveau de menace 4 à Bruxelles en novembre 2015",
+    "Niveau de menace 4 en mars 2016"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

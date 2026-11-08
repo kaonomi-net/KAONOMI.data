@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (l'état de droit) : Règlement (UE) 2020/2092 permettant de suspendre des fonds en cas de violation de l'état de droit menaçant le budget.",
+  "id": "eu-pol-conditionnalite",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Règlement relatif au mécanisme de conditionnalité liée à l'état de droit",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2020/2092 permettant de suspendre des fonds en cas de violation de l'état de droit menaçant le budget.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "La mise en œuvre de « Règlement relatif au mécanisme de conditionnalité liée à l'état de droit » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Règlement relatif au mécanisme de conditionnalité liée à l'état de droit ».",
+    "Les juristes de la Commission ont commenté « Règlement relatif au mécanisme de conditionnalité liée à l'état de droit »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "mécanisme de conditionnalité"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#ETATDROIT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A8glement%20relatif%20au%20m%C3%A9canisme%20de%20conditionnalit%C3%A9%20li%C3%A9e%20%C3%A0%20l%27%C3%A9tat%20de%20droit"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "État de droit",
+    "Budget",
+    "Direction générale du budget",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-12-16T00:00:00",
+  "endDate": null
+}

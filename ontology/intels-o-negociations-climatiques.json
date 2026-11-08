@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-negociations-climatiques",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "négociations climatiques",
+  "entityType": "EVENT",
+  "description": "Cité par 1 intel : COP et diplomatie climatique européenne.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre la position européenne aux conférences climatiques."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "négociations climatiques",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CLIMAT",
+    "#COP"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!CLIMAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "financement climat",
+    "objectifs",
+    "Hoekstra",
+    "COP"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

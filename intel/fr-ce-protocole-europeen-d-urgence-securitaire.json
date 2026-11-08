@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-protocole-europeen-d-urgence-securitaire",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Protocole européen d'urgence sécuritaire",
+  "includedEntities": [
+    {
+      "entityName": "protocole d'urgence",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sécurité",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le protocole européen d'urgence sécuritaire envisagé pour 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "2027"
+  ],
+  "relatedEntities": [
+    "crise",
+    "coordination",
+    "États membres"
+  ],
+  "questions": [
+    "Quel contenu ?",
+    "Quelle activation ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SECURITE",
+    "#PROGRAMME-2027"
+  ],
+  "events": [],
+  "signals": [
+    "!SECURITE"
+  ],
+  "isDeleted": false
+}

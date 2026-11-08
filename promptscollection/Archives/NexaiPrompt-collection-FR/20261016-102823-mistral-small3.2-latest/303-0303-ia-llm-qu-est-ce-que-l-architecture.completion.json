@@ -1,0 +1,13 @@
+{
+  "index": 303,
+  "file": "0303-ia-llm-qu-est-ce-que-l-architecture.prompt.json",
+  "prompt": "Qu'est-ce que l'architecture Transformer ?",
+  "promptWords": 5,
+  "completion": "L'architecture Transformer est un type de modèle de traitement automatique du langage (NLP) introduit dans l'article *\"Attention Is All You Need\"* par Vaswani et al. en 2017. Elle a révolutionné le domaine du traitement du langage naturel et d'autres tâches d'apprentissage automatique grâce à son utilisation efficace de l'attention (*self-attention*).\n\n### Principales caractéristiques de l'architecture Transformer :\n\n1. **Mécanisme d'attention (Self-Attention)** :\n   - Contrairement aux modèles récurrents (RNN) ou aux réseaux neuronaux convolutifs (CNN), les Transformers utilisent un mécanisme d'attention pour capturer les relations entre les mots dans une séquence.\n   - L'attention permet au modèle de peser l'importance de chaque mot par rapport aux autres, ce qui améliore la compréhension du contexte.\n\n2. **Structure sans récurrence** :\n   - Les Transformers traitent les séquences en parallèle, contrairement aux RNN qui traitent les séquences séquentiellement.\n   - Cela permet un traitement plus rapide et efficace, surtout sur des architectures matérielles modernes comme les GPU.\n\n3. **Encoder-Decoder** :\n   - L'architecture originale comprend deux parties principales : un encodeur (encoder) et un décodeur (decoder).\n   - L'encodeur transforme l'entrée en une représentation contextuelle, tandis que le décodeur génère la sortie en utilisant cette représentation.\n\n4. **Positional Encoding** :\n   - Comme les Transformers ne traitent pas les séquences séquentiellement, ils ajoutent des informations de position (*positional encoding*) pour conserver l'ordre des mots.\n\n5. **Multi-Head Attention** :\n   - Plusieurs mécanismes d'attention (*heads*) sont utilisés pour capturer différents types de relations entre les mots.\n\n### Applications :\nLes Transformers sont utilisés dans une variété de tâches, notamment :\n- Traduction automatique\n- Génération de texte\n- Compréhension de texte\n- Classification de texte\n- Modèles de langage (comme BERT, GPT, etc.)\n\n### Avantages :\n- **Efficacité** : Traitement parallèle des séquences.\n- **Performance** : Capacité à capturer des relations à long terme dans les séquences.\n- **Flexibilité** : Adaptable à diverses tâches de NLP.\n\nSi vous souhaitez des détails plus spécifiques ou des exemples d'implémentation, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:21:28.4748984+02:00",
+  "durationSeconds": 10.53,
+  "stats": "mistral-small3.2:latest · 516 + 522 tokens · 10,5 s",
+  "isError": false,
+  "language": "FR"
+}

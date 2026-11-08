@@ -1,0 +1,13 @@
+{
+  "index": 1,
+  "file": "001-politesse-bonjour-comment-allez-vous-aujourd-hui.prompt.json",
+  "prompt": "Bonjour, comment allez-vous aujourd'hui ?",
+  "promptWords": 5,
+  "completion": "Bonjour\u202F! Je vais très bien, merci. Et vous, comment allez‑vous aujourd’hui\u202F?",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:23:20.3578141+02:00",
+  "durationSeconds": 3.02,
+  "stats": "gpt-oss:20b · 75 + 80 tokens · 3,0 s",
+  "isError": false,
+  "language": "FR"
+}

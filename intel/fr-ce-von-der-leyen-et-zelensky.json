@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-von-der-leyen-et-zelensky",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Von der Leyen et Zelensky",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Zelensky",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les rencontres entre la présidente et le président ukrainien.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "aide",
+    "adhésion",
+    "sanctions"
+  ],
+  "questions": [
+    "Quelle rencontre ?",
+    "Quelle annonce ?",
+    "Quel soutien ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#UKRAINE",
+    "#VON-DER-LEYEN"
+  ],
+  "events": [
+    "@RENCONTRE"
+  ],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

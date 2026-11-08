@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-cadavre",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le corps d'une personne morte.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cadavre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]pouille(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:macchab[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:corps\\s+sans\\s+vie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:charogne(s)?)(?![\\w-])"
+  ],
+  "symbol": "cadavre",
+  "event": null,
+  "title": "Cadavre",
+  "tags": [
+    "#MORT"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 181,
+  "file": "0181-microsoft-office-comment-flouter-son-arriere-plan-dans.prompt.json",
+  "prompt": "Comment flouter son arrière-plan dans Teams ?",
+  "promptWords": 7,
+  "completion": "Pour flouter votre arrière-plan dans Microsoft Teams, suivez ces étapes :\n\n1. **Ouvrez Microsoft Teams** et connectez-vous à votre compte.\n2. **Lancez une réunion** ou rejoignez-en une.\n3. **Cliquez sur l'icône \"Plus d'options\"** (trois points) dans la barre d'outils de la réunion.\n4. **Sélectionnez \"Effets de fond\"** dans le menu déroulant.\n5. **Choisissez l'option \"Flou\"** parmi les options disponibles.\n6. **Cliquez sur \"Appliquer\"** pour activer le flou d'arrière-plan.\n\nSi vous ne trouvez pas l'option, assurez-vous d'utiliser la dernière version de Teams, car cette fonctionnalité peut varier selon les mises à jour.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:00:18.0204892+02:00",
+  "durationSeconds": 3.87,
+  "stats": "mistral-small3.2:latest · 517 + 178 tokens · 3,9 s",
+  "isError": false,
+  "language": "FR"
+}

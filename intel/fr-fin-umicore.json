@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-umicore",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Umicore",
+  "includedEntities": [
+    {
+      "entityName": "Umicore",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "batteries",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Umicore et son activité de matériaux pour batteries.",
+  "isFuzzy": false,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Bart Sap",
+    "recyclage",
+    "véhicules électriques"
+  ],
+  "questions": [
+    "Quel résultat ?",
+    "Quelle dépréciation ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#MATERIAUX"
+  ],
+  "events": [],
+  "signals": [
+    "!RESTRUCTURATION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les transports) : Députée européenne, présidente de la commission de l'industrie du Parlement européen, commissaire aux Transports de 2019 à 2024.",
+  "id": "eu-p-valean",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Adina Vălean",
+  "entityType": "PERSON",
+  "description": "Députée européenne, présidente de la commission de l'industrie du Parlement européen, commissaire aux Transports de 2019 à 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Lors du point de presse de midi, une question portait sur Adina Vălean.",
+    "Adina Vălean est une figure de les transports.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Adina Vălean."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Vălean",
+    "Valean"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#TRANSPORTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Adina%20V%C4%83lean"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité roumaine",
+    "Parti national libéral (PNL)",
+    "Député européen",
+    "Commissaire européen",
+    "Transports (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Transports"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

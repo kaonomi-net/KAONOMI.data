@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-plans-sociaux-et-fermetures-d-usines",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Plans sociaux et fermetures d'usines",
+  "includedEntities": [
+    {
+      "entityName": "plan social",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "fermeture d'usine",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les plans sociaux et fermetures de sites.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "industrie",
+    "syndicats",
+    "emplois"
+  ],
+  "questions": [
+    "Quelle entreprise ?",
+    "Combien d'emplois ?",
+    "Quelle réaction de l'État ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#EMPLOI",
+    "#INDUSTRIE"
+  ],
+  "events": [
+    "@PLAN-SOCIAL"
+  ],
+  "signals": [
+    "!RISQUE-SOCIAL"
+  ],
+  "isDeleted": false
+}

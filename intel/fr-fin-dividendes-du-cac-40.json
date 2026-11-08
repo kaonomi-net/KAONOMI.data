@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-dividendes-du-cac-40",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Dividendes du CAC 40",
+  "includedEntities": [
+    {
+      "entityName": "dividendes",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "CAC 40",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les dividendes versés par les entreprises du CAC 40.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "printemps"
+  ],
+  "relatedEntities": [
+    "rendement",
+    "actionnaires",
+    "record"
+  ],
+  "questions": [
+    "Quel montant total ?",
+    "Quel record ?",
+    "Quelle critique ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#DIVIDENDES"
+  ],
+  "events": [],
+  "signals": [
+    "!ACTIONNAIRES"
+  ],
+  "isDeleted": false
+}

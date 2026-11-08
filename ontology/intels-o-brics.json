@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-brics",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "BRICS",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 4 intels : Russie et les BRICS ; Afrique du Sud sur la scène internationale ; Sommet des BRICS ; Dédollarisation.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'usage par la Russie des BRICS pour contourner son isolement.",
+    "Suivre la diplomatie sud-africaine et son rôle dans les BRICS.",
+    "Suivre les décisions des BRICS et leur élargissement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "BRICS",
+  "tags": [
+    "#BRICS",
+    "#GEOPOLITIQUE",
+    "#MULTIPOLARITE",
+    "#RUSSIE",
+    "#AFRIQUE-DU-SUD",
+    "#FINANCE"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!MULTIPOLARITE",
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Inde",
+    "sommet",
+    "Chine",
+    "dédollarisation",
+    "Russie",
+    "Afrique du Sud",
+    "Cour internationale de justice",
+    "Pretoria",
+    "G20",
+    "Johannesburg"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

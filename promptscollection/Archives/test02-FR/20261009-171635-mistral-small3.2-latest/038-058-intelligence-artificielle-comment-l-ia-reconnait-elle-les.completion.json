@@ -1,0 +1,13 @@
+{
+  "index": 38,
+  "file": "058-intelligence-artificielle-comment-l-ia-reconnait-elle-les.prompt.json",
+  "prompt": "Comment l'IA reconnaît-elle les images ?",
+  "promptWords": 6,
+  "completion": "L'IA reconnaît les images grâce à des techniques de vision par ordinateur et d'apprentissage automatique (machine learning), en particulier via des réseaux de neurones convolutifs (CNN). Voici comment cela fonctionne généralement :\n\n1. **Prétraitement de l'image** :\n   - L'image est souvent redimensionnée, normalisée (ajustement des valeurs de pixels) et parfois augmentée (modifications légères pour améliorer la robustesse du modèle).\n\n2. **Extraction des caractéristiques** :\n   - Les CNN utilisent des couches de convolution pour détecter des motifs simples (bords, textures) puis des motifs plus complexes (formes, objets).\n   - Ces couches appliquent des filtres qui permettent de capturer des informations spatiales importantes dans l'image.\n\n3. **Classification** :\n   - Les caractéristiques extraites sont passées à des couches entièrement connectées qui effectuent une classification (par exemple, identifier un chat, une voiture, etc.).\n   - Pour des tâches plus complexes (détection d'objets, segmentation), d'autres architectures comme les R-CNN ou les U-Net peuvent être utilisées.\n\n4. **Apprentissage supervisé** :\n   - Le modèle est entraîné sur un grand ensemble de données étiquetées (images avec leurs annotations correspondantes).\n   - L'algorithme ajuste ses paramètres pour minimiser l'erreur entre ses prédictions et les étiquettes réelles.\n\n5. **Inférence** :\n   - Une fois formé, le modèle peut être utilisé pour prédire la classe ou les caractéristiques d'une nouvelle image non vue auparavant.\n\nDes techniques comme le transfert de learning (réutilisation de modèles pré-entraînés) et l'apprentissage non supervisé (clustering, auto-encodeurs) sont également couramment utilisées pour améliorer l'efficacité et la performance.\n\nSi tu veux des détails sur une méthode spécifique ou un cas d'usage particulier, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:23:34.5541639+02:00",
+  "durationSeconds": 9.16,
+  "stats": "mistral-small3.2:latest · 516 + 408 tokens · 9,2 s",
+  "isError": false,
+  "language": "FR"
+}

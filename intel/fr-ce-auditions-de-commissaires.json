@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-auditions-de-commissaires",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Auditions de commissaires",
+  "includedEntities": [
+    {
+      "entityName": "audition",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "commissaire",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les auditions de commissaires devant les commissions parlementaires.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "eurodéputés",
+    "questions",
+    "contrôle"
+  ],
+  "questions": [
+    "Quel commissaire ?",
+    "Quelles questions difficiles ?",
+    "Quelle évaluation ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#CONTROLE",
+    "#COMMISSAIRES"
+  ],
+  "events": [
+    "@AUDITION"
+  ],
+  "signals": [
+    "!CONTROLE"
+  ],
+  "isDeleted": false
+}

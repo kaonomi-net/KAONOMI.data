@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les modèles de langage) : OpenAI publie l'article présentant GPT-3, modèle de 175 milliards de paramètres capable d'apprendre à partir de quelques exemples.",
+  "id": "ia-sortie-gpt3",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Annonce de GPT-3",
+  "entityType": "EVENT",
+  "description": "OpenAI publie l'article présentant GPT-3, modèle de 175 milliards de paramètres capable d'apprendre à partir de quelques exemples.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "« Annonce de GPT-3 » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « Annonce de GPT-3 ».",
+    "On date souvent un tournant des modèles de langage à « Annonce de GPT-3 »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Language Models are Few-Shot Learners"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#MODELESLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Annonce%20de%20GPT-3"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "GPT-3"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-05-28T00:00:00",
+  "endDate": "2020-05-28T00:00:00"
+}

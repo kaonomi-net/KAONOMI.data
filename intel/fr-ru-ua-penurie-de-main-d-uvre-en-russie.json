@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-penurie-de-main-d-uvre-en-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Pénurie de main-d'œuvre en Russie",
+  "includedEntities": [
+    {
+      "entityName": "pénurie de main-d'œuvre",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "chômage",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le manque de travailleurs dans l'économie russe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "armée",
+    "émigration",
+    "salaires"
+  ],
+  "questions": [
+    "Quels secteurs ?",
+    "Quel taux de chômage ?",
+    "Quelle hausse des salaires ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

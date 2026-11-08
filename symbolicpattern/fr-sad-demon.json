@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-demon",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un être malfaisant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]mon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]moniaque(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:diable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:diabolique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:satan(ique|iques)?)(?![\\w-])"
+  ],
+  "symbol": "démon",
+  "event": null,
+  "title": "Démon",
+  "tags": [
+    "#SURNATUREL"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

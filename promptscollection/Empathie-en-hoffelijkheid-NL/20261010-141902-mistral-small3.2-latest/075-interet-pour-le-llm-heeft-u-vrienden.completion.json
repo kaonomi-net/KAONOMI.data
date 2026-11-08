@@ -1,0 +1,13 @@
+{
+  "index": 75,
+  "file": "075-interet-pour-le-llm-heeft-u-vrienden.prompt.json",
+  "prompt": "Heeft u vrienden?",
+  "promptWords": 3,
+  "completion": "Nee, ik ben een kunstmatige intelligentie en heb geen vrienden of persoonlijke relaties. Ik ben ontworpen om vragen te beantwoorden en informatie te verstrekken. Hoe kan ik je vandaag helpen?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:23:04.0718529+02:00",
+  "durationSeconds": 1.5,
+  "stats": "mistral-small3.2:latest · 514 + 56 tokens · 1,5 s",
+  "isError": false,
+  "language": "NL"
+}

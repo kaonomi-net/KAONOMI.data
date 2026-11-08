@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-enfants-ukrainiens-deportes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Enfants ukrainiens déportés",
+  "includedEntities": [
+    {
+      "entityName": "enfants",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "déportation",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le sort des enfants ukrainiens transférés en Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "territoires occupés",
+    "Russie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Lvova-Belova",
+    "CPI",
+    "familles d'accueil"
+  ],
+  "questions": [
+    "Combien d'enfants ?",
+    "Combien rentrés ?",
+    "Quelles enquêtes ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ENFANTS",
+    "#CRIMES-DE-GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE",
+    "!SAD"
+  ],
+  "isDeleted": false
+}

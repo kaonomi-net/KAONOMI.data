@@ -1,0 +1,13 @@
+{
+  "index": 711,
+  "file": "0711-java-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Java qui illustre l'héritage.",
+  "promptWords": 10,
+  "completion": "Voici un exemple de code en Java qui illustre le concept d'héritage :\n\n```java\n// Classe parente (superclasse)\nclass Animal {\n    private String nom;\n\n    public Animal(String nom) {\n        this.nom = nom;\n    }\n\n    public void manger() {\n        System.out.println(nom + \" mange.\");\n    }\n\n    public void dormir() {\n        System.out.println(nom + \" dort.\");\n    }\n\n    public String getNom() {\n        return nom;\n    }\n}\n\n// Classe enfant (sous-classe) qui hérite de Animal\nclass Chien extends Animal {\n    private String race;\n\n    public Chien(String nom, String race) {\n        super(nom); // Appel du constructeur de la classe parente\n        this.race = race;\n    }\n\n    // Méthode spécifique à la classe Chien\n    public void aboyer() {\n        System.out.println(getNom() + \" aboie. C'est un \" + race + \".\");\n    }\n\n    // Surcharge de la méthode manger de la classe parente\n    @Override\n    public void manger() {\n        System.out.println(getNom() + \" mange des croquettes.\");\n    }\n}\n\npublic class Main {\n    public static void main(String[] args) {\n        // Création d'un objet Chien\n        Chien monChien = new Chien(\"Rex\", \"Berger Allemand\");\n\n        // Appel des méthodes héritées et spécifiques\n        monChien.manger();  // Utilise la méthode surchargée dans Chien\n        monChien.dormir();  // Utilise la méthode héritée de Animal\n        monChien.aboyer();  // Méthode spécifique à Chien\n    }\n}\n```\n\nExplications :\n1. La classe `Animal` est la classe parente avec des attributs et méthodes de base.\n2. La classe `Chien` hérite de `Animal` avec le mot-clé `extends`.\n3. `Chien` peut utiliser toutes les méthodes de `Animal` (comme `manger()` et `dormir()`).\n4. `Chien` peut aussi avoir ses propres méthodes (comme `aboyer()`).\n5. La méthode `manger()` est surchargée dans `Chien` pour fournir une implémentation spécifique.\n6. Dans la classe `Main`, nous créons un objet `Chien` et appelons ses méthodes.\n\nCe code démontre comment l'héritage permet de réutiliser et d'étendre le code existant.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:54:21.7833476+02:00",
+  "durationSeconds": 10.74,
+  "stats": "mistral-small3.2:latest · 523 + 533 tokens · 10,7 s",
+  "isError": false,
+  "language": "FR"
+}

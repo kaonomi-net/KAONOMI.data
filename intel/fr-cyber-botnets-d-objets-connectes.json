@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-botnets-d-objets-connectes",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Botnets d'objets connectés",
+  "includedEntities": [
+    {
+      "entityName": "botnet",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "objets connectés",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les botnets formés d'objets connectés piratés.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "caméras",
+    "routeurs",
+    "Mirai"
+  ],
+  "questions": [
+    "Quel botnet ?",
+    "Combien d'appareils ?",
+    "Quel démantèlement ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#BOTNET",
+    "#IOT"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

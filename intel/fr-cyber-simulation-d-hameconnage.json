@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-simulation-d-hameconnage",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Simulation d'hameçonnage",
+  "includedEntities": [
+    {
+      "entityName": "simulation d'hameçonnage",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sensibilisation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les campagnes de simulation d'hameçonnage en entreprise.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "taux de clic",
+    "formation",
+    "éthique"
+  ],
+  "questions": [
+    "Quel taux de clic ?",
+    "Quelle méthode ?",
+    "Quelle controverse ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#PENTEST",
+    "#SENSIBILISATION"
+  ],
+  "events": [],
+  "signals": [
+    "!FORMATION"
+  ],
+  "isDeleted": false
+}

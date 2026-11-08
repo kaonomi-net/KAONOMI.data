@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-contre-attaque",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "contre-attaque",
+  "entityType": "EVENT",
+  "description": "Cité par 1 intel : Reprise de localités par l'armée ukrainienne.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les localités reprises par les forces ukrainiennes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "contre-attaque",
+  "tags": [
+    "#UKRAINE",
+    "#FRONT",
+    "#CONTRE-OFFENSIVE"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!CONTRE-OFFENSIVE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "libération",
+    "armée ukrainienne",
+    "vidéos géolocalisées",
+    "état-major",
+    "brigades"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

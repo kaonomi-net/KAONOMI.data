@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-chiffrement-de-bout-en-bout",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Chiffrement de bout en bout",
+  "includedEntities": [
+    {
+      "entityName": "chiffrement de bout en bout",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "messagerie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le chiffrement de bout en bout et les pressions pour l'affaiblir.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Signal",
+    "WhatsApp",
+    "portes dérobées"
+  ],
+  "questions": [
+    "Quelle pression ?",
+    "Quelle réponse des messageries ?",
+    "Quelle loi ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#VIE-PRIVEE",
+    "#CHIFFREMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

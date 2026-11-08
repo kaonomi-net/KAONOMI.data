@@ -1,0 +1,13 @@
+{
+  "index": 130,
+  "file": "0130-microsoft-office-comment-creer-une-macro-vba-simple.prompt.json",
+  "prompt": "Comment créer une macro VBA simple dans Excel ?",
+  "promptWords": 9,
+  "completion": "Créer une macro VBA simple dans Excel est un excellent moyen d'automatiser des tâches répétitives. Voici un guide étape par étape pour créer une macro VBA de base :\n\n### Étape 1 : Activer l'onglet Développeur\n1. Ouvrez Excel.\n2. Cliquez sur **Fichier** > **Options**.\n3. Dans la fenêtre **Options Excel**, sélectionnez **Personnaliser le ruban**.\n4. Cochez la case **Développeur** dans la colonne de droite.\n5. Cliquez sur **OK**.\n\n### Étape 2 : Ouvrir l'éditeur VBA\n1. Cliquez sur l'onglet **Développeur** dans le ruban.\n2. Cliquez sur **Visual Basic** (ou appuyez sur `Alt + F11`).\n\n### Étape 3 : Insérer un nouveau module\n1. Dans l'éditeur VBA, cliquez droit sur **VBAProject (VotreNomDeFichier.xlsx)** dans le volet de gauche.\n2. Sélectionnez **Insérer** > **Module**.\n\n### Étape 4 : Écrire le code VBA\n1. Dans la fenêtre du module, copiez et collez le code suivant pour une macro simple qui affiche un message :\n```vba\nSub MaPremiereMacro()\n    MsgBox \"Bonjour ! Cette est ma première macro VBA.\"\nEnd Sub\n```\n\n### Étape 5 : Exécuter la macro\n1. Fermez l'éditeur VBA et retournez dans Excel.\n2. Cliquez sur l'onglet **Développeur**.\n3. Cliquez sur **Macros**.\n4. Sélectionnez **MaPremiereMacro** dans la liste et cliquez sur **Exécuter**.\n\n### Étape 6 : Personnaliser la macro\nVous pouvez modifier le code pour effectuer d'autres actions, par exemple :\n```vba\nSub MacroPersonnalisee()\n    Range(\"A1\").Value = \"Bonjour !\"\n    Range(\"A1\").Font.Bold = True\n    Range(\"A1\").Font.Size = 14\nEnd Sub\n```\n\n### Conseils supplémentaires\n- **Enregistrer votre fichier** : Les macros ne fonctionnent pas dans les fichiers Excel standard (.xlsx). Enregistrez votre fichier en tant que **Classeur Excel habilité pour les macros (.xlsm)**.\n- **Utiliser l'enregistreur de macros** : Pour créer des macros sans écrire de code, utilisez l'enregistreur de macros (onglet **Développeur** > **Enregistrer une macro**).\n\nSi vous avez besoin d'aide pour une tâche spécifique ou pour personnaliser davantage votre macro, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:52:50.9084594+02:00",
+  "durationSeconds": 11.82,
+  "stats": "mistral-small3.2:latest · 516 + 585 tokens · 11,8 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-entrain",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une gaieté pleine d'énergie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:entrain)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:avoir\\s+la\\s+p[êe]che)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:avoir\\s+la\\s+patate)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:en\\s+forme)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plein(e|s|es)?\\s+d['’][ée]nergie)(?![\\w-])"
+  ],
+  "symbol": "entrain",
+  "event": null,
+  "title": "Entrain",
+  "tags": [
+    "#JOIE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (les attentats du 22 mars 2016) : Une bombe explose vers 9 h 11 dans une rame de métro à la station Maelbeek, dans le quartier européen.",
+  "id": "be2016-attentat-maelbeek",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Attentat de la station Maelbeek",
+  "entityType": "EVENT",
+  "description": "Une bombe explose vers 9 h 11 dans une rame de métro à la station Maelbeek, dans le quartier européen. Avec l'aéroport, les attentats font 32 morts et plus de 300 blessés.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "« Attentat de la station Maelbeek » figure dans la chronologie des attentats de 2016.",
+    "Les rapports officiels reviennent sur « Attentat de la station Maelbeek ».",
+    "Les enquêteurs et les historiens ont reconstitué le déroulement de « Attentat de la station Maelbeek »."
+  ],
+  "angryLevel": 5,
+  "sadLevel": 5,
+  "happyLevel": 0,
+  "fearLevel": 5,
+  "surpriseLevel": 5,
+  "disgustLevel": 4,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "attentat du métro"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#ATTENTATS22MARS2016"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Attentat%20de%20la%20station%20Maelbeek"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Khalid El Bakraoui",
+    "Osama Krayem",
+    "Cellule terroriste Paris-Bruxelles",
+    "Revendication par l'État islamique",
+    "Attentat de l'aéroport de Bruxelles-National",
+    "Yvan Mayeur",
+    "Station de métro Maelbeek",
+    "Rassemblements de la place de la Bourse",
+    "Réouverture de la station Maelbeek"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-03-22T00:00:00",
+  "endDate": "2016-03-22T00:00:00"
+}

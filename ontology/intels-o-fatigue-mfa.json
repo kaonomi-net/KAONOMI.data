@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-fatigue-mfa",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "fatigue MFA",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Contournement de l'authentification multifacteur.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les techniques qui contournent l'authentification multifacteur."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "fatigue MFA",
+  "tags": [
+    "#CYBERSECURITE",
+    "#IDENTITES",
+    "#MFA"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "contournement",
+    "authentification multifacteur",
+    "jetons",
+    "adversaire au milieu"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

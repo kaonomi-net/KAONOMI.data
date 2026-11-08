@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (les procès) : Procès tenu devant la cour d'assises spéciale de Paris ; Salah Abdeslam y est condamné à la réclusion criminelle à perpétuité incompressible.",
+  "id": "be2016-proces-v13",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Procès des attentats du 13 novembre 2015",
+  "entityType": "EVENT",
+  "description": "Procès tenu devant la cour d'assises spéciale de Paris ; Salah Abdeslam y est condamné à la réclusion criminelle à perpétuité incompressible.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "Les rapports officiels reviennent sur « Procès des attentats du 13 novembre 2015 ».",
+    "Les enquêteurs et les historiens ont reconstitué le déroulement de « Procès des attentats du 13 novembre 2015 ».",
+    "« Procès des attentats du 13 novembre 2015 » figure dans la chronologie des attentats de 2016."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 3,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "procès V13"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#PROCES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Proc%C3%A8s%20des%20attentats%20du%2013%20novembre%202015"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Cour d'assises spéciale de Paris",
+    "Paris",
+    "Procès des attentats de Bruxelles",
+    "Salah Abdeslam"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-09-08T00:00:00",
+  "endDate": "2022-06-29T00:00:00"
+}

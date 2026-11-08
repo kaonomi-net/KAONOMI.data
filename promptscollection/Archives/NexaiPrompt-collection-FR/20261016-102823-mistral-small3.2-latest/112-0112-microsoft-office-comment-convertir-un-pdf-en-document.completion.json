@@ -1,0 +1,13 @@
+{
+  "index": 112,
+  "file": "0112-microsoft-office-comment-convertir-un-pdf-en-document.prompt.json",
+  "prompt": "Comment convertir un PDF en document modifiable dans Word ?",
+  "promptWords": 10,
+  "completion": "Pour convertir un PDF en un document modifiable dans Word, vous pouvez suivre ces étapes :\n\n1. **Utiliser Microsoft Word (si vous avez une version récente)** :\n   - Ouvrez Microsoft Word.\n   - Allez dans `Fichier` > `Ouvrir`.\n   - Sélectionnez le fichier PDF que vous souhaitez convertir.\n   - Word va ouvrir le PDF et vous proposer de le convertir en document Word. Cliquez sur `OK`.\n\n2. **Utiliser Adobe Acrobat (version Pro)** :\n   - Ouvrez le PDF avec Adobe Acrobat.\n   - Allez dans `Fichier` > `Exporter vers` > `Microsoft Word` > `Word Document`.\n   - Choisissez l'emplacement où enregistrer le fichier et cliquez sur `Exporter`.\n\n3. **Utiliser des outils en ligne** :\n   - Il existe plusieurs sites web qui permettent de convertir des PDF en Word gratuitement. Vous pouvez utiliser des services comme Smallpdf, PDF2DOC, ou ILovePDF.\n   - Téléchargez le PDF sur le site, attendez la conversion, puis téléchargez le fichier Word.\n\n4. **Utiliser des logiciels de bureau** :\n   - Des logiciels comme Nitro PDF ou PDF-XChange Editor offrent des fonctionnalités de conversion vers Word.\n\n**Note** : La qualité de la conversion peut varier en fonction de la complexité du PDF. Les PDF avec des mises en page complexes ou des images peuvent ne pas être parfaitement convertis.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:49:59.2285321+02:00",
+  "durationSeconds": 6.49,
+  "stats": "mistral-small3.2:latest · 518 + 318 tokens · 6,5 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-cac-40",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "CAC 40",
+  "includedEntities": [
+    {
+      "entityName": "CAC 40",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "séance",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution de l'indice phare de la Bourse de Paris.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "chaque séance"
+  ],
+  "relatedEntities": [
+    "Euronext Paris",
+    "valeurs du CAC 40",
+    "volatilité"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quelles valeurs moteurs ?",
+    "Quel facteur explique le mouvement ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40"
+  ],
+  "events": [
+    "@SEANCE-BOURSE"
+  ],
+  "signals": [
+    "!MARCHE"
+  ],
+  "isDeleted": false
+}

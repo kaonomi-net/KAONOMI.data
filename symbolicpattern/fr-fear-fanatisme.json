@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-fanatisme",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un zèle aveugle et violent.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fanatisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fanatique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fanatis([ée]|[ée]e|[ée]s|er)|int[ée]grisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sectarisme(s)?)(?![\\w-])"
+  ],
+  "symbol": "fanatisme",
+  "event": null,
+  "title": "Fanatisme",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 520,
+  "file": "0520-cybernetique-qu-est-ce-que-la-loi.prompt.json",
+  "prompt": "Qu'est-ce que la loi de la variété requise d'Ashby ?",
+  "promptWords": 10,
+  "completion": "La loi de la variété requise d'Ashby, également connue sous le nom de **loi de la variété absorbante** ou **principe de l'adaptation**, est un concept issu de la cybernétique, développé par le scientifique britannique **W. Ross Ashby**. Cette loi est formulée dans son livre *\"An Introduction to Cybernétique\"* (1956).\n\n### En quoi consiste cette loi ?\nLa loi de la variété requise stipule que :\n> **\"Seul un système capable de générer une variété de comportements au moins égale à celle de son environnement peut survivre et fonctionner efficacement dans cet environnement.\"**\n\nEn d'autres termes, pour qu'un système (vivant, mécanique, organisationnel, etc.) puisse s'adapter et maintenir sa stabilité dans un environnement complexe et changeant, il doit posséder une capacité de réponse (variété) au moins égale à la complexité (variété) de cet environnement.\n\n### Explications :\n1. **Variété** : Ce terme désigne le nombre de états possibles ou de réponses qu'un système peut produire.\n2. **Environnement** : Plus l'environnement est imprévisible ou complexe (ex. : un marché économique, un écosystème), plus il nécessite une grande variété de réponses pour y faire face.\n3. **Adaptation** : Un système qui ne peut pas générer suffisamment de réponses (variété insuffisante) risque de devenir instable ou de disparaître.\n\n### Exemple :\n- Un animal dans la nature doit pouvoir réagir à de nombreuses menaces (prédateurs, changements climatiques, etc.). S'il n'a qu'une seule stratégie de survie (variété faible), il sera vulnérable.\n- Une entreprise doit pouvoir s'adapter à des changements économiques, technologiques ou sociaux (variété élevée de l'environnement) en diversifiant ses produits, ses stratégies, etc.\n\n### Applications :\nCette loi est utilisée en :\n- **Biologie** (évolution des espèces),\n- **Gestion** (stratégie d'entreprise),\n- **Ingénierie des systèmes** (conception de systèmes robustes),\n- **Psychologie** (théorie des systèmes humains).\n\nEn résumé, la loi de la variété requise souligne l'importance de la flexibilité et de la capacité d'adaptation pour faire face à la complexité.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:00:34.5960543+02:00",
+  "durationSeconds": 9.88,
+  "stats": "mistral-small3.2:latest · 523 + 489 tokens · 9,9 s",
+  "isError": false,
+  "language": "FR"
+}

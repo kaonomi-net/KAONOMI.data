@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-euronext-bruxelles",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Euronext Bruxelles",
+  "includedEntities": [
+    {
+      "entityName": "Euronext Bruxelles",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Bourse",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la Bourse de Bruxelles et ses introductions en Bourse.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Euronext",
+    "cotations",
+    "liquidité"
+  ],
+  "questions": [
+    "Quelle introduction ?",
+    "Quel retrait de la cote ?",
+    "Quels volumes ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BELGIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!MARCHE"
+  ],
+  "isDeleted": false
+}

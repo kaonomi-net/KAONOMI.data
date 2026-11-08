@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-satellites-starlink-en-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Satellites Starlink en Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "Starlink",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "satellites",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage de Starlink par l'armée ukrainienne et son détournement par la Russie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "SpaceX",
+    "Elon Musk",
+    "communications"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quelle coupure ?",
+    "Quel usage russe ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ESPACE",
+    "#COMMUNICATIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!VULNERABILITE"
+  ],
+  "isDeleted": false
+}

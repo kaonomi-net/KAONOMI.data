@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-infirmiers-en-pratique-avancee-en-psychiatrie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Infirmiers en pratique avancée en psychiatrie",
+  "includedEntities": [
+    {
+      "entityName": "infirmiers en pratique avancée",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "psychiatrie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le développement des infirmiers en pratique avancée en santé mentale.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [
+    "dès 2027"
+  ],
+  "relatedEntities": [
+    "UNIPA",
+    "formation",
+    "déploiement"
+  ],
+  "questions": [
+    "Combien de formés ?",
+    "Quel rôle ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PSYCHIATRIE",
+    "#SOIGNANTS"
+  ],
+  "events": [],
+  "signals": [
+    "!ACCES-AUX-SOINS"
+  ],
+  "isDeleted": false
+}

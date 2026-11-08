@@ -1,0 +1,13 @@
+{
+  "index": 312,
+  "file": "0312-ia-llm-quelle-est-la-difference-entre-zero.prompt.json",
+  "prompt": "Quelle est la différence entre zero-shot, one-shot et few-shot prompting ?",
+  "promptWords": 11,
+  "completion": "Les termes **zero-shot**, **one-shot** et **few-shot** se réfèrent à différentes approches de **prompting** utilisées pour interagir avec des modèles de langage, en particulier les grands modèles de langage (LLM) comme moi. Voici leurs différences :\n\n### 1. **Zero-Shot Prompting**\n- **Définition** : Le modèle reçoit une instruction ou une question sans exemple préalable.\n- **Exemple** :\n  - **Prompt** : *\"Traduis 'Bonjour' en anglais.\"*\n  - **Réponse attendue** : Le modèle génère la traduction sans avoir vu d'exemple similaire.\n- **Avantages** :\n  - Simple et direct.\n  - Ne nécessite pas de préparation d'exemples.\n- **Inconvénients** :\n  - Moins précis pour des tâches complexes ou ambiguës.\n\n### 2. **One-Shot Prompting**\n- **Définition** : Le modèle reçoit un seul exemple d'entrée-sortie avant de traiter la nouvelle requête.\n- **Exemple** :\n  - **Prompt** : *\"Traduis 'Bonjour' en anglais. Exemple : 'Salut' -> 'Hi'. Maintenant, traduis 'Bonjour'.\"*\n  - **Réponse attendue** : Le modèle utilise l'exemple pour générer *\"Hello\"*.\n- **Avantages** :\n  - Améliore la précision en fournissant un contexte.\n  - Utile pour des tâches spécifiques.\n- **Inconvénients** :\n  - Peut être limité si l'exemple n'est pas représentatif.\n\n### 3. **Few-Shot Prompting**\n- **Définition** : Le modèle reçoit plusieurs exemples d'entrée-sortie avant de traiter la nouvelle requête.\n- **Exemple** :\n  - **Prompt** : *\"Traduis ces mots en anglais. Exemples : 'Salut' -> 'Hi', 'Merci' -> 'Thank you', 'Au revoir' -> 'Goodbye'. Maintenant, traduis 'Bonjour'.\"*\n  - **Réponse attendue** : Le modèle utilise les exemples pour générer *\"Hello\"*.\n- **Avantages** :\n  - Augmente la robustesse et la précision.\n  - Permet au modèle de mieux généraliser.\n- **Inconvénients** :\n  - Peut être plus long à préparer.\n  - Risque de surcharge si trop d'exemples sont fournis.\n\n### **Quand utiliser chaque méthode ?**\n- **Zero-Shot** : Pour des tâches simples ou générales.\n- **One-Shot** : Pour des tâches spécifiques avec un exemple clair.\n- **Few-Shot** : Pour des tâches complexes nécessitant plusieurs exemples.\n\nEn résumé, plus vous fournissez d'exemples (de **zero-shot** à **few-shot**), plus le modèle peut adapter sa réponse à des contextes spécifiques.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:22:48.3589291+02:00",
+  "durationSeconds": 12.44,
+  "stats": "mistral-small3.2:latest · 523 + 615 tokens · 12,4 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-rearmement",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "réarmement",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Von der Leyen et la défense européenne ; Clause dérogatoire pour la défense ; Plan ReArm Europe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les initiatives de la présidente en matière de défense.",
+    "Suivre l'usage de la clause permettant d'exclure des dépenses de défense des règles budgétaires.",
+    "Suivre le plan européen de réarmement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "réarmement",
+  "tags": [
+    "#DEFENSE",
+    "#UNION-EUROPEENNE",
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#REGLES-BUDGETAIRES",
+    "#REARMEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "défense",
+    "von der Leyen",
+    "SAFE",
+    "Kubilius",
+    "Readiness 2030",
+    "pacte de stabilité",
+    "clause dérogatoire",
+    "États membres",
+    "800 milliards"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-capital-risque-europeen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Capital-risque européen",
+  "includedEntities": [
+    {
+      "entityName": "capital-risque",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "startups",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les réformes du capital-risque prévues en 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "2027"
+  ],
+  "relatedEntities": [
+    "scale-up",
+    "fonds",
+    "investisseurs"
+  ],
+  "questions": [
+    "Quelle réforme ?",
+    "Quel financement ?",
+    "Quel effet attendu ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#STARTUPS",
+    "#FINANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

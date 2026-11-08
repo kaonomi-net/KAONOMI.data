@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-amazon-et-aws",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Amazon et AWS",
+  "includedEntities": [
+    {
+      "entityName": "Amazon",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "AWS",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [
+    {
+      "entityName": "forêt",
+      "entityWeight": ""
+    }
+  ],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Amazon et son cloud AWS.",
+  "isFuzzy": false,
+  "locations": [
+    "Seattle"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "AWS",
+    "puces Trainium",
+    "commerce"
+  ],
+  "questions": [
+    "Quelle croissance d'AWS ?",
+    "Quelles dépenses ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#IA",
+    "#AMAZON"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-epargne-des-francais",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Épargne des Français",
+  "includedEntities": [
+    {
+      "entityName": "épargne",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "livret A",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "assurance vie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'épargne des ménages et son rôle face à la dette.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "taux du livret A",
+    "emprunt national",
+    "confiance"
+  ],
+  "questions": [
+    "Quel taux d'épargne ?",
+    "Quelle évolution ?",
+    "Quel projet d'emprunt national ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#EPARGNE",
+    "#DETTE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

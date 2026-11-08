@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-delegation-russe-menee-par-medinski",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Délégation russe menée par Medinski",
+  "includedEntities": [
+    {
+      "entityName": "Medinski",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "délégation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de Vladimir Medinski, négociateur en chef de Moscou.",
+  "isFuzzy": true,
+  "locations": [
+    "Abou Dhabi",
+    "Istanbul"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Kremlin",
+    "pourparlers",
+    "Ukraine"
+  ],
+  "questions": [
+    "Quelles positions défend-il ?",
+    "Quel mandat a-t-il ?",
+    "Quelles déclarations ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#NEGOCIATIONS",
+    "#KREMLIN"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

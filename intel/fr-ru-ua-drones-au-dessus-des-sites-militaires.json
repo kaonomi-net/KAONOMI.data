@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-drones-au-dessus-des-sites-militaires",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Drones au-dessus des sites militaires",
+  "includedEntities": [
+    {
+      "entityName": "drones",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "base militaire",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "survol",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les survols de bases et sites sensibles en Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Danemark",
+    "Allemagne",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "renseignement",
+    "sabotage",
+    "enquête"
+  ],
+  "questions": [
+    "Quel site ?",
+    "Quel type de drone ?",
+    "Quelle enquête ?"
+  ],
+  "tags": [
+    "#EUROPE",
+    "#DRONES",
+    "#ESPIONNAGE"
+  ],
+  "events": [
+    "@INCURSION"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

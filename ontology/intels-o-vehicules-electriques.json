@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-vehicules-electriques",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "véhicules électriques",
+  "entityType": "HARDWARE",
+  "description": "Cité par 6 intels : Course au lithium ; Macron et la Chine ; Industrie automobile française ; Lithium et batteries ; Umicore ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre l'accès au lithium nécessaire aux batteries.",
+    "Suivre les relations entre la France et la Chine.",
+    "Suivre la situation de l'industrie automobile."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "véhicules électriques",
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#LITHIUM",
+    "#FRANCE",
+    "#CHINE",
+    "#AUTOMOBILE",
+    "#GEOPOLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEPENDANCE",
+    "!DIPLOMATIE",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chine",
+    "batteries",
+    "lithium",
+    "Pékin",
+    "Umicore",
+    "Bruxelles",
+    "Australie",
+    "Chili",
+    "Bolivie",
+    "Argentine"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

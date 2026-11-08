@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-modele-multimodal",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Modèle multimodal",
+  "includedEntities": [
+    {
+      "entityName": "multimodal",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "image",
+      "entityWeight": "25"
+    },
+    {
+      "entityName": "voix",
+      "entityWeight": "25"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les modèles qui comprennent texte, image, son et vidéo.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "GPT",
+    "Gemini",
+    "Claude"
+  ],
+  "questions": [
+    "Quelles modalités ?",
+    "Quelle latence ?",
+    "Quels usages ?"
+  ],
+  "tags": [
+    "#IA",
+    "#MULTIMODAL",
+    "#LLM"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!NOUVEAUTE"
+  ],
+  "isDeleted": false
+}

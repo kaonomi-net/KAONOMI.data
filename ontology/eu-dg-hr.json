@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la fonction publique européenne) : Direction générale des ressources humaines et de la sécurité (DG HR), service de la Commission européenne compétent pour la fonction publique européenne, l'administration européenne, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "id": "eu-dg-hr",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale des ressources humaines et de la sécurité",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale des ressources humaines et de la sécurité (DG HR), service de la Commission européenne compétent pour la fonction publique européenne, l'administration européenne, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Direction générale des ressources humaines et de la sécurité ».",
+    "Les décisions de « Direction générale des ressources humaines et de la sécurité » touchent la fonction publique européenne.",
+    "Le rapport annuel de « Direction générale des ressources humaines et de la sécurité » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG HR"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#FONCTIONPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20des%20ressources%20humaines%20et%20de%20la%20s%C3%A9curit%C3%A9"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Expert national détaché",
+    "Commission européenne",
+    "Piotr Serafin",
+    "Ressources humaines",
+    "Administration"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

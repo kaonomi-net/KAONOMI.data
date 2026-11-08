@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la fonction publique européenne) : Office de gestion et de liquidation des droits individuels (PMO), service de la Commission européenne compétent pour la fonction publique européenne, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "id": "eu-dg-pmo",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Office de gestion et de liquidation des droits individuels",
+  "entityType": "ORGANISATION",
+  "description": "Office de gestion et de liquidation des droits individuels (PMO), service de la Commission européenne compétent pour la fonction publique européenne, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "« Office de gestion et de liquidation des droits individuels » joue un rôle dans la fonction publique européenne.",
+    "Les fonctionnaires de « Office de gestion et de liquidation des droits individuels » préparent les textes relatifs à la fonction publique européenne.",
+    "La délégation a rencontré des représentants de « Office de gestion et de liquidation des droits individuels »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "PMO"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#FONCTIONPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Office%20de%20gestion%20et%20de%20liquidation%20des%20droits%20individuels"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Piotr Serafin",
+    "Ressources humaines"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

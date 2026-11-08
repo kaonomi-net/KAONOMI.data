@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-otage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne retenue pour faire pression.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:otage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prise(s)?\\s+d['’]otage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:preneur(s)?\\s+d['’]otage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s[ée]questration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:retenu(e|s|es)?\\s+en\\s+otage)(?![\\w-])"
+  ],
+  "symbol": "otage",
+  "event": null,
+  "title": "Otage",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

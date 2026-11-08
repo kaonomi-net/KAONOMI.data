@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-marche-obligataire-japonais",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Marché obligataire japonais",
+  "includedEntities": [
+    {
+      "entityName": "obligations japonaises",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "JGB",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les taux japonais et leur effet sur les marchés mondiaux.",
+  "isFuzzy": true,
+  "locations": [
+    "Tokyo"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Banque du Japon",
+    "yen",
+    "investisseurs japonais"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quel record ?",
+    "Quel effet mondial ?"
+  ],
+  "tags": [
+    "#OBLIGATIONS",
+    "#JAPON"
+  ],
+  "events": [],
+  "signals": [
+    "!TAUX"
+  ],
+  "isDeleted": false
+}

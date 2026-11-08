@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-germination",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le développement d'une graine.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:germination(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:germ(er|e|ent|[ée]|[ée]e)|semis)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:semer)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sem([ée]|[ée]e|[ée]s|[ée]es))(?![\\w-])"
+  ],
+  "symbol": "germination",
+  "event": null,
+  "title": "Germination",
+  "tags": [
+    "#NATURE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 588,
+  "file": "0588-python-explique-les-fonctions-lambda-en-python.prompt.json",
+  "prompt": "Explique les fonctions lambda en Python avec un exemple simple.",
+  "promptWords": 10,
+  "completion": "Les fonctions lambda en Python sont des fonctions anonymes, c'est-à-dire des fonctions sans nom, définies avec le mot-clé `lambda`. Elles sont utilisées pour créer de petites fonctions simples qui peuvent être définies en une seule ligne de code.\n\n### Syntaxe :\n```python\nlambda arguments: expression\n```\n\n### Caractéristiques :\n- Une fonction lambda peut avoir plusieurs arguments, mais une seule expression.\n- L'expression est évaluée et renvoyée lorsque la fonction est appelée.\n\n### Exemple simple :\nSupposons que vous souhaitiez créer une fonction qui prend un nombre en entrée et le multiplie par 2. Vous pouvez utiliser une fonction lambda comme suit :\n\n```python\n# Définition de la fonction lambda\nmultiplier_par_deux = lambda x: x * 2\n\n# Utilisation de la fonction lambda\nresultat = multiplier_par_deux(5)\nprint(resultat)  # Affiche 10\n```\n\n### Explication :\n- `lambda x: x * 2` est une fonction lambda qui prend un argument `x` et renvoie `x * 2`.\n- `multiplier_par_deux` est une variable qui stocke cette fonction lambda.\n- Lorsque vous appelez `multiplier_par_deux(5)`, la fonction lambda est exécutée avec `x = 5`, et le résultat `10` est renvoyé.\n\n### Utilisation courante :\nLes fonctions lambda sont souvent utilisées avec des fonctions comme `map()`, `filter()`, et `sorted()` pour appliquer une opération simple sans avoir à définir une fonction séparée.\n\nPar exemple, avec `map()` :\n```python\nnombres = [1, 2, 3, 4, 5]\ndoubles = list(map(lambda x: x * 2, nombres))\nprint(doubles)  # Affiche [2, 4, 6, 8, 10]\n```\n\nIci, la fonction lambda `lambda x: x * 2` est utilisée pour doubler chaque élément de la liste `nombres`.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:23:15.3380659+02:00",
+  "durationSeconds": 8.53,
+  "stats": "mistral-small3.2:latest · 519 + 432 tokens · 8,5 s",
+  "isError": false,
+  "language": "FR"
+}

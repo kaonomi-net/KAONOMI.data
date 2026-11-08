@@ -1,0 +1,13 @@
+{
+  "index": 479,
+  "file": "0479-machine-learning-explique-le-feature-engineering-de-facon.prompt.json",
+  "prompt": "Explique le feature engineering de façon simple.",
+  "promptWords": 7,
+  "completion": "Le **feature engineering** (ou ingénierie des caractéristiques) est une étape clé dans la préparation des données pour un modèle de machine learning. L'objectif est de transformer les données brutes en **caractéristiques (features)** plus utiles et pertinentes pour améliorer les performances du modèle.\n\n### Explication simple :\nImagine que tu veux prédire le prix d'une maison. Les données brutes pourraient inclure :\n- L'adresse de la maison\n- La description du bien\n- Des photos\n\nMais un algorithme de machine learning a besoin de données numériques et structurées. Le feature engineering consiste à :\n1. **Extraire des informations utiles** :\n   - Remplacer l'adresse par la distance par rapport au centre-ville.\n   - Extraire le nombre de chambres, la superficie, l'année de construction, etc.\n2. **Créer de nouvelles caractéristiques** :\n   - Calculer le prix au m².\n   - Ajouter une variable \"proximité des écoles\".\n3. **Nettoyer et normaliser** :\n   - Supprimer les valeurs aberrantes.\n   - Mettre toutes les données à la même échelle.\n\n### Pourquoi c'est important ?\n- Un bon feature engineering peut **améliorer significativement** la précision du modèle.\n- Il permet de **simplifier** les données pour que l'algorithme les comprenne mieux.\n- C'est souvent **plus efficace** que d'utiliser un modèle plus complexe.\n\nEn résumé, le feature engineering, c'est comme préparer des ingrédients de qualité avant de cuisiner un plat : mieux tu les choisis et les transformes, meilleur sera le résultat final ! \uD83C\uDF73",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:53:00.5778029+02:00",
+  "durationSeconds": 7.18,
+  "stats": "mistral-small3.2:latest · 516 + 351 tokens · 7,2 s",
+  "isError": false,
+  "language": "FR"
+}

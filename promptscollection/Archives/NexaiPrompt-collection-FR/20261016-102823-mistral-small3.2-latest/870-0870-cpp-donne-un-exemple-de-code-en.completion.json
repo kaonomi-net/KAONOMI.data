@@ -1,0 +1,13 @@
+{
+  "index": 870,
+  "file": "0870-cpp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C++ qui illustre les exceptions.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en C++ qui illustre l'utilisation des exceptions pour gérer les erreurs :\n\n```cpp\n#include <iostream>\n#include <stdexcept> // Pour std::runtime_error\n\n// Fonction qui peut lancer une exception\nint division(int a, int b) {\n    if (b == 0) {\n        throw std::runtime_error(\"Division par zéro !\");\n    }\n    return a / b;\n}\n\nint main() {\n    try {\n        int resultat = division(10, 0);\n        std::cout << \"Résultat : \" << resultat << std::endl;\n    }\n    catch (const std::runtime_error& e) {\n        std::cerr << \"Erreur : \" << e.what() << std::endl;\n    }\n    catch (...) {\n        std::cerr << \"Une erreur inconnue s'est produite.\" << std::endl;\n    }\n\n    return 0;\n}\n```\n\nExplications :\n1. La fonction `division` lance une exception de type `std::runtime_error` si on essaie de diviser par zéro.\n2. Dans `main`, on utilise un bloc `try` pour appeler la fonction.\n3. Si une exception est levée, elle est attrapée par le bloc `catch` correspondant.\n4. Le `catch (...)` est un attrape-tout pour les exceptions non spécifiées.\n\nCe code montre le mécanisme de base des exceptions en C++ : essayer une opération potentiellement dangereuse, attraper les exceptions qui pourraient être levées, et gérer les erreurs de manière appropriée.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:33:21.6626913+02:00",
+  "durationSeconds": 6.65,
+  "stats": "mistral-small3.2:latest · 522 + 325 tokens · 6,6 s",
+  "isError": false,
+  "language": "FR"
+}

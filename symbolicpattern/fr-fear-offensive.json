@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-offensive",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une attaque de grande ampleur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:offensive(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:contre-offensive(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:assaut(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perc[ée]e(s)?\\s+ennemie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attaque(s)?\\s+massive(s)?)(?![\\w-])"
+  ],
+  "symbol": "offensive",
+  "event": null,
+  "title": "Offensive",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

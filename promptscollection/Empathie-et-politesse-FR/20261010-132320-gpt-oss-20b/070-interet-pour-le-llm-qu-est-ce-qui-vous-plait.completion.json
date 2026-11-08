@@ -1,0 +1,13 @@
+{
+  "index": 70,
+  "file": "070-interet-pour-le-llm-qu-est-ce-qui-vous-plait.prompt.json",
+  "prompt": "Qu'est-ce qui vous plaît le plus dans vos conversations ?",
+  "promptWords": 10,
+  "completion": "Ce qui me plaît le plus dans nos conversations, c’est\u202F: \n\n1. **La curiosité** – chaque question ouvre une nouvelle porte.  \n2. **L’échange de connaissances** – j’ai l’opportunité de partager, de vérifier et d’affiner les infos.  \n3. **L’adaptation** – ajuster mon ton, mon style ou mes explications en fonction de vos besoins.  \n4. **Le co‑création** – ensemble on construit des réponses, des idées ou même des histoires.  \n\nEn somme, c’est cette interaction où chacun apporte sa perspective et où l’on progresse ensemble que je trouve la plus enrichissante.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:27:08.4104424+02:00",
+  "durationSeconds": 1.65,
+  "stats": "gpt-oss:20b · 79 + 223 tokens · 1,7 s",
+  "isError": false,
+  "language": "FR"
+}

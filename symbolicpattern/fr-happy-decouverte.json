@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-decouverte",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de découvrir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]couverte(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]couvr(ir|e|ent|ait)|d[ée]couvert(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]v[ée]lation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:eur[êe]ka)(?![\\w-])"
+  ],
+  "symbol": "découverte",
+  "event": null,
+  "title": "Découverte",
+  "tags": [
+    "#CREATION",
+    "#APPRENTISSAGE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

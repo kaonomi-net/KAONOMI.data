@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Progressive Party of Working People - Left - New Forces, parti ou liste de ce pays : Chypre, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-cy-progressive-party-of-working-people-left-new-force",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Progressive Party of Working People - Left - New Forces",
+  "entityType": "ORGANISATION",
+  "description": "Progressive Party of Working People - Left - New Forces, parti ou liste de ce pays : Chypre, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "« Progressive Party of Working People - Left - New Forces » est représenté dans le Parlement européen.",
+    "Le programme européen de « Progressive Party of Working People - Left - New Forces » a été publié avant le scrutin.",
+    "Les eurodéputés de « Progressive Party of Working People - Left - New Forces » ont été élus en juin 2024."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Progressive%20Party%20of%20Working%20People%20-%20Left%20-%20New%20Forces"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Giorgos Georgiou",
+    "Chypre",
+    "La Gauche au Parlement européen (GUE/NGL)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

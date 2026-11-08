@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation des attentats de Bruxelles de 2016 (l'évaluation de la menace) : Organe de coordination pour l'analyse de la menace, qui fixe le niveau de la menace terroriste en Belgique, de 1 à 4.",
+  "id": "be2016-ocam",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "OCAM",
+  "entityType": "ORGANISATION",
+  "description": "Organe de coordination pour l'analyse de la menace, qui fixe le niveau de la menace terroriste en Belgique, de 1 à 4.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-organisations",
+  "sentencesExemples": [
+    "Le rôle de « OCAM » a été examiné après les attentats.",
+    "« OCAM » apparaît dans la chronologie de l'évaluation de la menace.",
+    "Les comptes rendus du procès évoquent « OCAM »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "Organe de coordination pour l'analyse de la menace",
+    "OCAD"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#ORGANISATION",
+    "#EVALUATIONMENACE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=OCAM"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Échelle de la menace de l'OCAM",
+    "Niveau de menace 4 à Bruxelles en novembre 2015",
+    "Niveau de menace 4 en mars 2016"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

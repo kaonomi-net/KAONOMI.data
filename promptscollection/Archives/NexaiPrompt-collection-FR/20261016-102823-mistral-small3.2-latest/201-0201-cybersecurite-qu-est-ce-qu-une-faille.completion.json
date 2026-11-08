@@ -1,0 +1,13 @@
+{
+  "index": 201,
+  "file": "0201-cybersecurite-qu-est-ce-qu-une-faille.prompt.json",
+  "prompt": "Qu'est-ce qu'une faille XSS (cross-site scripting) ?",
+  "promptWords": 7,
+  "completion": "Une faille XSS (Cross-Site Scripting) est une vulnérabilité de sécurité web qui permet à un attaquant d'injecter du code malveillant dans une page web consultée par un utilisateur. Ce code est ensuite exécuté dans le navigateur de la victime, ce qui peut entraîner diverses conséquences néfastes.\n\n### Types de XSS :\n1. **XSS stocké (ou persistant)** :\n   - Le code malveillant est stocké sur le serveur (par exemple, dans une base de données) et est servi aux utilisateurs lors de l'affichage de la page.\n   - Exemple : Un attaquant poste un commentaire malveillant sur un forum, et ce commentaire est affiché à tous les visiteurs.\n\n2. **XSS réfléchi (ou non persistant)** :\n   - Le code malveillant est envoyé au serveur via une requête (par exemple, un lien URL) et est immédiatement renvoyé à l'utilisateur sans être stocké.\n   - Exemple : Un lien malveillant est envoyé par email, et lorsque la victime clique dessus, le code est exécuté.\n\n3. **XSS basé sur DOM** :\n   - Le code malveillant est exécuté côté client (dans le DOM du navigateur) sans interaction avec le serveur.\n   - Exemple : Une page web utilise du JavaScript pour modifier le DOM en fonction des entrées de l'utilisateur, et un attaquant exploite cette fonctionnalité pour injecter du code.\n\n### Conséquences possibles :\n- **Vol de données** : Cookies de session, informations personnelles, etc.\n- **Détournement de session** : Prise de contrôle du compte de l'utilisateur.\n- **Redirection vers des sites malveillants** : Phishing, téléchargement de logiciels malveillants.\n- **Dégradation de l'expérience utilisateur** : Affichage de publicités non désirées, modification du contenu de la page.\n\n### Prévention :\n- **Validation et échappement des entrées** : Toujours valider et échapper les données utilisateur avant de les afficher.\n- **Utilisation de Content Security Policy (CSP)** : Restreindre les sources de scripts exécutables.\n- **Utilisation de frameworks sécurisés** : Des frameworks comme React, Angular, ou Vue.js échappent automatiquement les données par défaut.\n- **Mises à jour régulières** : Maintenir les logiciels et bibliothèques à jour pour corriger les vulnérabilités connues.\n\nSi vous avez des questions plus spécifiques ou besoin de détails supplémentaires, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:03:25.4315338+02:00",
+  "durationSeconds": 11.18,
+  "stats": "mistral-small3.2:latest · 522 + 556 tokens · 11,2 s",
+  "isError": false,
+  "language": "FR"
+}

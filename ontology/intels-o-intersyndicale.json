@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-intersyndicale",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "intersyndicale",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Grève interprofessionnelle.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les grèves et journées de mobilisation interprofessionnelles."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "intersyndicale",
+  "tags": [
+    "#FRANCE",
+    "#SOCIAL",
+    "#GREVE"
+  ],
+  "events": [
+    "@GREVE"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "manifestations",
+    "mobilisation",
+    "grève",
+    "CGT",
+    "CFDT"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

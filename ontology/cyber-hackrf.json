@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (la sécurité radio) : Radio logicielle libre de Great Scott Gadgets pour étudier et tester les communications radio.",
+  "id": "cyber-hackrf",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "HackRF One",
+  "entityType": "HARDWARE",
+  "description": "Radio logicielle libre de Great Scott Gadgets pour étudier et tester les communications radio.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "La fiche technique de HackRF One détaille ses caractéristiques de sécurité.",
+    "Pour cet audit, l'équipe a comparé HackRF One à d'autres solutions matérielles.",
+    "HackRF One a marqué l'histoire du matériel consacré à la sécurité radio."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "HackRF"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#SECURITERADIO"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=HackRF%20One"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Flipper Zero"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-01-01T00:00:00",
+  "endDate": null
+}

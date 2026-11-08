@@ -1,0 +1,13 @@
+{
+  "index": 60,
+  "file": "080-physique-comment-fonctionne-un-aimant.prompt.json",
+  "prompt": "Comment fonctionne un aimant ?",
+  "promptWords": 5,
+  "completion": "Un aimant fonctionne grâce à des propriétés magnétiques qui lui permettent d'attirer ou de repousser certains matériaux, principalement ceux contenant du fer, du nickel ou du cobalt. Voici les principes de base qui expliquent son fonctionnement :\n\n### 1. **Champ magnétique**\nUn aimant crée un champ magnétique autour de lui, une région de l'espace où les effets magnétiques sont perceptibles. Ce champ est généré par le mouvement des électrons dans les atomes de l'aimant.\n\n### 2. **Pôles magnétiques**\nUn aimant a deux pôles : un pôle nord (N) et un pôle sud (S). Les pôles opposés s'attirent, tandis que les pôles similaires se repoussent. Cela signifie qu'un pôle nord d'un aimant attirera le pôle sud d'un autre aimant, mais repoussera son pôle nord.\n\n### 3. **Matériaux magnétiques**\nLes aimants attirent les matériaux ferromagnétiques, comme le fer, le nickel et le cobalt, parce que ces matériaux ont des atomes qui peuvent s'aligner avec le champ magnétique de l'aimant, créant ainsi des petits aimants temporaires à leur surface.\n\n### 4. **Types d'aimants**\n- **Aimants permanents** : Fabriqués à partir de matériaux comme le ferrite ou le néodyme, ils conservent leur magnétisme indéfiniment.\n- **Électroaimants** : Utilisent un courant électrique pour créer un champ magnétique. Ils peuvent être activés ou désactivés en contrôlant le courant.\n\n### 5. **Applications**\nLes aimants sont utilisés dans de nombreuses applications, comme les moteurs électriques, les disques durs, les systèmes de fermeture, et même dans les technologies médicales comme l'imagerie par résonance magnétique (IRM).\n\nSi tu as des questions plus spécifiques sur le fonctionnement des aimants, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:27:21.9165172+02:00",
+  "durationSeconds": 9.77,
+  "stats": "mistral-small3.2:latest · 513 + 414 tokens · 9,8 s",
+  "isError": false,
+  "language": "FR"
+}

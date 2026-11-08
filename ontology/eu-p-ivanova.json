@@ -1,0 +1,62 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'innovation) : Économiste, ancienne membre de la Cour des comptes européenne, commissaire à l'Innovation, la recherche, la culture, l'éducation et la jeunesse de 2023 à 2024.",
+  "id": "eu-p-ivanova",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Iliana Ivanova",
+  "entityType": "PERSON",
+  "description": "Économiste, ancienne membre de la Cour des comptes européenne, commissaire à l'Innovation, la recherche, la culture, l'éducation et la jeunesse de 2023 à 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Iliana Ivanova.",
+    "Lors du point de presse de midi, une question portait sur Iliana Ivanova.",
+    "Iliana Ivanova est une figure de l'innovation."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Ivanova"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#INNOVATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Iliana%20Ivanova"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité bulgare",
+    "GERB",
+    "Économiste",
+    "Membre de la Cour des comptes européenne",
+    "Commissaire européen",
+    "Innovation, recherche, culture, éducation et jeunesse (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Innovation",
+    "Recherche",
+    "Culture",
+    "Éducation",
+    "Jeunesse",
+    "Cour des comptes européenne",
+    "Mariya Gabriel"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

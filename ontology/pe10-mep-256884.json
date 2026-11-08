@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Belgique.",
+  "id": "pe10-mep-256884",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Kris van Dijck",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Belgique. Groupe politique : Conservateurs et réformistes européens (ECR). Parti ou liste national : Nieuw-Vlaamse Alliantie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Kris van Dijck participe aux travaux des commissions parlementaires.",
+    "Kris van Dijck siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Kris van Dijck figure dans le relevé des votes par appel nominal."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Kris VAN DIJCK"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256884",
+    "https://fr.wikipedia.org/w/index.php?search=Kris%20van%20Dijck"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Belgique",
+    "Parlement européen",
+    "Conservateurs et réformistes européens (ECR)",
+    "Nieuw-Vlaamse Alliantie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

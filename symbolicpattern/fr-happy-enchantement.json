@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-enchantement",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un ravissement, une magie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:enchantement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:enchanteu(r|rs|resse)|magique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:f[ée]erique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:merveilleu(x|se|ses))(?![\\w-])"
+  ],
+  "symbol": "enchantement",
+  "event": null,
+  "title": "Enchantement",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

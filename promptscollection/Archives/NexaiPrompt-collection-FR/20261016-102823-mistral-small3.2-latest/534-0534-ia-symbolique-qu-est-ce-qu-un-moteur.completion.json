@@ -1,0 +1,13 @@
+{
+  "index": 534,
+  "file": "0534-ia-symbolique-qu-est-ce-qu-un-moteur.prompt.json",
+  "prompt": "Qu'est-ce qu'un moteur d'inférence ?",
+  "promptWords": 5,
+  "completion": "Un moteur d'inférence est un composant logiciel utilisé dans les systèmes experts et les systèmes basés sur des règles pour appliquer des règles logiques à un ensemble de faits connus et déduire de nouvelles conclusions. Il est souvent utilisé dans les systèmes d'intelligence artificielle pour simuler le raisonnement humain.\n\nVoici quelques points clés sur les moteurs d'inférence :\n\n1. **Fonctionnement** : Le moteur d'inférence prend en entrée un ensemble de règles (souvent sous forme de \"si-alors\") et un ensemble de faits initiaux. Il applique ces règles de manière systématique pour déduire de nouvelles informations.\n\n2. **Types de raisonnement** :\n   - **Raisonnement avant (forward chaining)** : Part des faits connus et applique les règles pour générer de nouvelles conclusions.\n   - **Raisonnement arrière (backward chaining)** : Part d'une conclusion souhaitée et travaille à rebours pour déterminer quels faits initiaux sont nécessaires pour atteindre cette conclusion.\n\n3. **Applications** : Les moteurs d'inférence sont utilisés dans divers domaines, tels que les diagnostics médicaux, les systèmes de recommandation, les systèmes de support à la décision, et les systèmes de contrôle industriel.\n\n4. **Exemples de moteurs d'inférence** : CLIPs, Jess, Drools, et Prolog sont des exemples de systèmes qui incluent des moteurs d'inférence.\n\nSi vous avez besoin de plus de détails ou d'exemples spécifiques, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:03:00.6981637+02:00",
+  "durationSeconds": 6.91,
+  "stats": "mistral-small3.2:latest · 517 + 318 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-observateurs",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "observateurs",
+  "entityType": "PROFESSION",
+  "description": "Cité par 2 intels : Cessez-le-feu général ; Contestation des élections législatives russes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Repérer toute annonce de cessez-le-feu sur l'ensemble du front.",
+    "Suivre les analyses contestant la sincérité des législatives de 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "observateurs",
+  "tags": [
+    "#RUSSIE",
+    "#UKRAINE",
+    "#CESSEZ-LE-FEU",
+    "#ELECTIONS",
+    "#DEMOCRATIE"
+  ],
+  "events": [
+    "@CESSEZ-LE-FEU"
+  ],
+  "signals": [
+    "!DESESCALADE",
+    "!VIGILANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ligne de front",
+    "médiateurs",
+    "accord",
+    "ONU",
+    "cessez-le-feu",
+    "participation",
+    "Golos",
+    "Douma",
+    "fraude",
+    "élections"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

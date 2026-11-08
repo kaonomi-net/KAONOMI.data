@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-pauvrete",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "pauvreté",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Pauvreté en France ; Sommet social du socle européen ; Lutte contre la pauvreté.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'évolution de la pauvreté.",
+    "Suivre le sommet social pour les dix ans du socle européen des droits sociaux.",
+    "Suivre la stratégie européenne contre la pauvreté."
+  ],
+  "angryLevel": null,
+  "sadLevel": 33,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "pauvreté",
+  "tags": [
+    "#SOCIAL",
+    "#PAUVRETE",
+    "#UNION-EUROPEENNE",
+    "#FRANCE",
+    "#SOMMET"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!SOCIAL",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Restos du cœur",
+    "associations",
+    "INSEE",
+    "précarité",
+    "socle européen des droits sociaux",
+    "sommet social",
+    "emploi",
+    "syndicats",
+    "stratégie",
+    "sans-abri"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

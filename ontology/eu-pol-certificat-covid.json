@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la santé publique) : Règlement (UE) 2021/953 facilitant la libre circulation pendant la pandémie.",
+  "id": "eu-pol-certificat-covid",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Certificat COVID numérique de l'UE",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2021/953 facilitant la libre circulation pendant la pandémie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "La mise en œuvre de « Certificat COVID numérique de l'UE » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Certificat COVID numérique de l'UE ».",
+    "Les juristes de la Commission ont commenté « Certificat COVID numérique de l'UE »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "pass sanitaire européen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Certificat%20COVID%20num%C3%A9rique%20de%20l%27UE"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Santé",
+    "Numérique",
+    "Direction générale de la justice et des consommateurs",
+    "Commission von der Leyen I",
+    "Pandémie de COVID-19 en Europe"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-06-14T00:00:00",
+  "endDate": null
+}

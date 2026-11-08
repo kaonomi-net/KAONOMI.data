@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-restructuration",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La réorganisation qui supprime des emplois.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:restructuration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:restructur(er|[ée]|[ée]e)|r[ée]duction(s)?\\s+d['’]effectifs)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]graissage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:compression(s)?\\s+de\\s+personnel)(?![\\w-])"
+  ],
+  "symbol": "restructuration",
+  "event": null,
+  "title": "Restructuration",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

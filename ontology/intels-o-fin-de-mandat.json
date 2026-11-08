@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-fin-de-mandat",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "fin de mandat",
+  "entityType": "EVENT",
+  "description": "Cité par 1 intel : Fin du second mandat d'Emmanuel Macron.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les derniers mois du mandat et la question du bilan."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "fin de mandat",
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#BILAN"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "héritage",
+    "successeur",
+    "réformes",
+    "Élysée",
+    "Emmanuel Macron",
+    "bilan"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

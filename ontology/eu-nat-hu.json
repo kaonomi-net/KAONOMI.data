@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Nationalité de l'Union européenne (la citoyenneté européenne) : Nationalité des citoyens de ce pays : Hongrie.",
+  "id": "eu-nat-hu",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "nationalité hongroise",
+  "entityType": "NORP",
+  "description": "Nationalité des citoyens de ce pays : Hongrie. Les ressortissants sont appelés hongrois.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-nationalites",
+  "sentencesExemples": [
+    "La nationalité hongroise est représentée dans les institutions européennes.",
+    "La nationalité hongroise donne la citoyenneté européenne.",
+    "Les statistiques du personnel détaillent la répartition par nationalité, dont la nationalité hongroise."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDEAA",
+  "synonyms": [
+    "hongrois",
+    "hongroise"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#NORP",
+    "#CITOYENNETEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=nationalit%C3%A9%20hongroise"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Hongrie",
+    "Olivér Várhelyi",
+    "Tibor Navracsics"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

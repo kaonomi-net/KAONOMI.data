@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-incapacites-de-travail-pour-raisons-psychiques-en-belgique",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Incapacités de travail pour raisons psychiques en Belgique",
+  "includedEntities": [
+    {
+      "entityName": "incapacité de travail",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "troubles psychiques",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Belgique",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la part des troubles psychiques dans les incapacités de travail de longue durée, 38,3 % fin 2025.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "INAMI",
+    "burn-out",
+    "dépression"
+  ],
+  "questions": [
+    "Quelle part ?",
+    "Quelle évolution ?",
+    "Quels publics ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BELGIQUE",
+    "#TRAVAIL"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

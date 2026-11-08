@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-hopitaux-et-ecoles-touches",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Hôpitaux et écoles touchés",
+  "includedEntities": [
+    {
+      "entityName": "hôpital",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "école",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Repérer les frappes touchant des hôpitaux ou des écoles.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "OMS",
+    "UNICEF",
+    "enfants"
+  ],
+  "questions": [
+    "Quel établissement ?",
+    "Quel bilan ?",
+    "Quelle enquête ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#CIVILS",
+    "#CRIMES-DE-GUERRE"
+  ],
+  "events": [
+    "@FRAPPE-CIVILS"
+  ],
+  "signals": [
+    "!SAD",
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (les modèles génératifs) : Chercheur américain, inventeur des réseaux antagonistes génératifs (GAN, 2014) et co-auteur du manuel « Deep Learning ».",
+  "id": "ia-goodfellow",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Ian Goodfellow",
+  "entityType": "PERSON",
+  "description": "Chercheur américain, inventeur des réseaux antagonistes génératifs (GAN, 2014) et co-auteur du manuel « Deep Learning ».",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Ian Goodfellow.",
+    "Les étudiants lisent les articles de Ian Goodfellow pour comprendre les modèles génératifs.",
+    "Sans les idées de Ian Goodfellow, l'histoire des modèles génératifs aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "I. Goodfellow"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#MODELESGENERATIFS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ian%20Goodfellow"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Réseaux antagonistes génératifs"
+  ],
+  "isDeleted": false,
+  "startDate": "1985-01-01T00:00:00",
+  "endDate": null
+}

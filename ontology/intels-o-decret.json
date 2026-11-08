@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-decret",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "décret",
+  "entityType": "LAW",
+  "description": "Cité par 3 intels : Décrets présidentiels de Poutine ; Décret présidentiel américain sur l'IA ; État d'urgence et libertés.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre les décrets signés par le président russe.",
+    "Suivre la politique américaine en matière d'IA.",
+    "Surveiller tout recours à l'état d'urgence."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "décret",
+  "tags": [
+    "#POUTINE",
+    "#RUSSIE",
+    "#DECRET",
+    "#IA",
+    "#REGULATION",
+    "#ETATS-UNIS"
+  ],
+  "events": [
+    "@DECRET",
+    "@DECISION-POLITIQUE",
+    "@ETAT-URGENCE"
+  ],
+  "signals": [
+    "!GOUVERNANCE",
+    "!GEOPOLITIQUE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nominations",
+    "conscription",
+    "économie",
+    "Poutine",
+    "Moscou",
+    "NIST",
+    "Maison Blanche",
+    "Washington",
+    "président",
+    "Congrès"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

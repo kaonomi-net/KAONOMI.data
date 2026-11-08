@@ -1,0 +1,13 @@
+{
+  "index": 374,
+  "file": "0374-ia-agentique-qu-est-ce-que-le-pattern.prompt.json",
+  "prompt": "Qu'est-ce que le pattern ReAct (raisonnement et action) ?",
+  "promptWords": 9,
+  "completion": "Le pattern ReAct (Reasoning and Acting) est une approche en intelligence artificielle qui combine le raisonnement et l'action pour résoudre des problèmes complexes. Il s'agit d'une méthode où un agent alterne entre des étapes de raisonnement (pour comprendre et planifier) et des étapes d'action (pour interagir avec l'environnement ou effectuer des tâches concrètes).\n\n### Principes clés du pattern ReAct :\n1. **Raisonnement (Reasoning)** :\n   - L'agent analyse la situation, évalue les options possibles et planifie les prochaines étapes.\n   - Cela peut impliquer la résolution de problèmes, la prise de décision ou la génération de stratégies.\n\n2. **Action (Acting)** :\n   - L'agent exécute des actions concrètes basées sur le raisonnement précédent.\n   - Ces actions peuvent modifier l'environnement ou produire des résultats tangibles.\n\n3. **Boucle de rétroaction** :\n   - Après chaque action, l'agent peut observer les résultats et ajuster son raisonnement en conséquence.\n   - Cela permet une adaptation dynamique et une amélioration continue.\n\n### Applications du pattern ReAct :\n- **Agents conversationnels** : Pour répondre à des questions complexes en combinant la recherche d'informations et la génération de réponses.\n- **Robotique** : Pour permettre aux robots de planifier et d'exécuter des tâches dans des environnements dynamiques.\n- **Systèmes de recommandation** : Pour adapter les recommandations en fonction des actions précédentes de l'utilisateur.\n\n### Avantages :\n- **Flexibilité** : Permet de gérer des situations imprévues en ajustant le raisonnement et les actions en temps réel.\n- **Efficacité** : Combine la puissance du raisonnement symbolique avec l'exécution pratique des actions.\n\nLe pattern ReAct est particulièrement utile dans les domaines où les systèmes doivent à la fois comprendre et interagir avec leur environnement de manière autonome et adaptative.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:33:39.2254203+02:00",
+  "durationSeconds": 8.25,
+  "stats": "mistral-small3.2:latest · 523 + 408 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

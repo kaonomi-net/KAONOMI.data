@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (la traque de la cellule) : Lors d'une perquisition franco-belge rue du Dries à Forest, des policiers sont visés par des tirs ; Mohamed Belkaïd est tué et deux suspects s'enfuient.",
+  "id": "be2016-fusillade-forest",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Fusillade de la rue du Dries",
+  "entityType": "EVENT",
+  "description": "Lors d'une perquisition franco-belge rue du Dries à Forest, des policiers sont visés par des tirs ; Mohamed Belkaïd est tué et deux suspects s'enfuient.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "La frise chronologique du dossier place « Fusillade de la rue du Dries » à sa date.",
+    "La presse belge a largement couvert « Fusillade de la rue du Dries ».",
+    "L'événement « Fusillade de la rue du Dries » s'inscrit dans la traque de la cellule."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 4,
+  "surpriseLevel": 4,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "perquisition de Forest"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#TRAQUECELLULE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fusillade%20de%20la%20rue%20du%20Dries"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Sofien Ayari",
+    "Salah Abdeslam",
+    "Mohamed Belkaïd",
+    "Arrestation de Salah Abdeslam",
+    "Fusil d'assaut de la rue du Dries",
+    "Rue du Dries à Forest"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-03-15T00:00:00",
+  "endDate": "2016-03-15T00:00:00"
+}

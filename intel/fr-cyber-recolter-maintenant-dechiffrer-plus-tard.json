@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-recolter-maintenant-dechiffrer-plus-tard",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Récolter maintenant, déchiffrer plus tard",
+  "includedEntities": [
+    {
+      "entityName": "récolter maintenant",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "déchiffrer plus tard",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la menace de collecte de données chiffrées pour un déchiffrement quantique futur.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "espionnage",
+    "données sensibles",
+    "post-quantique"
+  ],
+  "questions": [
+    "Quelles données menacées ?",
+    "Quel horizon ?",
+    "Quelle parade ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#QUANTIQUE",
+    "#MENACE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

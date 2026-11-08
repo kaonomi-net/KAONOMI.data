@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-rancongiciel-et-chaine-logistique",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Rançongiciel et chaîne logistique",
+  "includedEntities": [
+    {
+      "entityName": "rançongiciel",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "logistique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "distribution",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les rançongiciels qui paralysent la logistique et la distribution.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "entrepôts",
+    "magasins",
+    "transport"
+  ],
+  "questions": [
+    "Quelle entreprise ?",
+    "Quel impact sur les rayons ?",
+    "Combien de jours ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#LOGISTIQUE"
+  ],
+  "events": [
+    "@RANCONGICIEL"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

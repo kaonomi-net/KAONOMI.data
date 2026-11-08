@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-dystopie",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un futur où la technique opprime l'humain.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:dystopie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dystopique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:monde\\s+orwellien)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:meilleur\\s+des\\s+mondes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ia\\s+autonome)(?![\\w-])"
+  ],
+  "symbol": "dystopie",
+  "event": null,
+  "title": "Dystopie",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

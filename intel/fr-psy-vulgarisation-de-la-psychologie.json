@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-vulgarisation-de-la-psychologie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Vulgarisation de la psychologie",
+  "includedEntities": [
+    {
+      "entityName": "vulgarisation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "psychologie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "podcast",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la vulgarisation de la psychologie dans les médias et sur les réseaux.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "podcasts",
+    "livres",
+    "YouTube"
+  ],
+  "questions": [
+    "Quel contenu ?",
+    "Quel succès ?",
+    "Quelle dérive ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#MEDIAS"
+  ],
+  "events": [],
+  "signals": [
+    "!VEILLE"
+  ],
+  "isDeleted": false
+}

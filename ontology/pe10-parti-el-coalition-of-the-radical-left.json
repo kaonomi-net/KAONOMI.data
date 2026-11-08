@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Coalition of the Radical Left, parti ou liste de ce pays : Grèce, qui compte 2 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-el-coalition-of-the-radical-left",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Coalition of the Radical Left",
+  "entityType": "ORGANISATION",
+  "description": "Coalition of the Radical Left, parti ou liste de ce pays : Grèce, qui compte 2 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "« Coalition of the Radical Left » est représenté dans le Parlement européen.",
+    "Le programme européen de « Coalition of the Radical Left » a été publié avant le scrutin.",
+    "Les eurodéputés de « Coalition of the Radical Left » ont été élus en juin 2024."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Coalition%20of%20the%20Radical%20Left"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Konstantinos Arvanitis",
+    "Elena Kountoura",
+    "Grèce",
+    "La Gauche au Parlement européen (GUE/NGL)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

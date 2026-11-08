@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (les relations interinstitutionnelles) : Présidence semestrielle du Conseil de l'Union européenne exercée par ce pays : Espagne, du 1er juillet 2023 au 31 décembre 2023.",
+  "id": "eu-pres-es-2023",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Présidence espagnole du Conseil de l'UE (juillet-décembre 2023)",
+  "entityType": "EVENT",
+  "description": "Présidence semestrielle du Conseil de l'Union européenne exercée par ce pays : Espagne, du 1er juillet 2023 au 31 décembre 2023.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-presidences",
+  "sentencesExemples": [
+    "La presse européenne a largement couvert « Présidence espagnole du Conseil de l'UE (juillet-décembre 2023) ».",
+    "« Présidence espagnole du Conseil de l'UE (juillet-décembre 2023) » concerne les relations interinstitutionnelles.",
+    "Les archives audiovisuelles de la Commission conservent des images de « Présidence espagnole du Conseil de l'UE (juillet-décembre 2023) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#RELATIONSINTERINSTITUTIONNELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pr%C3%A9sidence%20espagnole%20du%20Conseil%20de%20l%27UE%20%28juillet-d%C3%A9cembre%202023%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Espagne",
+    "Conseil de l'Union européenne",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-07-01T00:00:00",
+  "endDate": "2023-12-31T00:00:00"
+}

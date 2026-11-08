@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-boussole-pour-la-competitivite",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Boussole pour la compétitivité",
+  "includedEntities": [
+    {
+      "entityName": "boussole pour la compétitivité",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "compétitivité",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la feuille de route européenne pour la compétitivité.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "innovation",
+    "décarbonation",
+    "sécurité"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quel avancement ?",
+    "Quels retards ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMPETITIVITE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

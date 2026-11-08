@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (la régularisation) : Technique de régularisation qui désactive aléatoirement des neurones pendant l'entraînement pour limiter le surapprentissage, proposée par l'équipe de Geoffrey Hinton.",
+  "id": "ia-dropout",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Dropout",
+  "entityType": "ALGORITHM",
+  "description": "Technique de régularisation qui désactive aléatoirement des neurones pendant l'entraînement pour limiter le surapprentissage, proposée par l'équipe de Geoffrey Hinton.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Comprendre Dropout est une étape clé pour maîtriser la régularisation.",
+    "Dans le domaine de la régularisation, Dropout reste une référence.",
+    "Pour ce projet, l'équipe a implémenté Dropout en quelques lignes de Python."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "abandon aléatoire"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#REGULARISATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Dropout"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Geoffrey Hinton"
+  ],
+  "isDeleted": false,
+  "startDate": "2012-01-01T00:00:00",
+  "endDate": null
+}

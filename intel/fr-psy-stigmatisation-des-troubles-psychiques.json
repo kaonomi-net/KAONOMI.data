@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-stigmatisation-des-troubles-psychiques",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Stigmatisation des troubles psychiques",
+  "includedEntities": [
+    {
+      "entityName": "stigmatisation",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "troubles psychiques",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les actions contre la stigmatisation des troubles psychiques.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "médias",
+    "campagnes",
+    "associations"
+  ],
+  "questions": [
+    "Quelle campagne ?",
+    "Quel préjugé ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SANTE-MENTALE",
+    "#STIGMATISATION"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIETE"
+  ],
+  "isDeleted": false
+}

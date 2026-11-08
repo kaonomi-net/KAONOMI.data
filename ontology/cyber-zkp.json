@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (la cryptographie théorique) : Protocole par lequel on prouve connaître une information sans rien en révéler, introduit par Goldwasser, Micali et Rackoff.",
+  "id": "cyber-zkp",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Preuve à divulgation nulle de connaissance",
+  "entityType": "ALGORITHM",
+  "description": "Protocole par lequel on prouve connaître une information sans rien en révéler, introduit par Goldwasser, Micali et Rackoff.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Preuve à divulgation nulle de connaissance est enseigné dans tous les cours consacrés à la cryptographie théorique.",
+    "L'audit vérifie que Preuve à divulgation nulle de connaissance est utilisé correctement.",
+    "La chercheuse a présenté une analyse de Preuve à divulgation nulle de connaissance lors du séminaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "zero-knowledge proof",
+    "ZKP"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CRYPTOGRAPHIETHEORIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Preuve%20%C3%A0%20divulgation%20nulle%20de%20connaissance"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Shafi Goldwasser",
+    "Silvio Micali"
+  ],
+  "isDeleted": false,
+  "startDate": "1985-01-01T00:00:00",
+  "endDate": null
+}

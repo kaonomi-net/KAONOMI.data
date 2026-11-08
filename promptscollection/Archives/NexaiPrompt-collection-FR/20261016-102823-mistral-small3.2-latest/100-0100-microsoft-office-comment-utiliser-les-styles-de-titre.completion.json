@@ -1,0 +1,13 @@
+{
+  "index": 100,
+  "file": "0100-microsoft-office-comment-utiliser-les-styles-de-titre.prompt.json",
+  "prompt": "Comment utiliser les styles de titre dans Word ?",
+  "promptWords": 9,
+  "completion": "Pour utiliser les styles de titre dans Microsoft Word, suivez ces étapes :\n\n1. **Ouvrir Word** : Lancez Microsoft Word et ouvrez le document où vous souhaitez appliquer les styles de titre.\n\n2. **Accéder aux styles** :\n   - Cliquez sur l'onglet **\"Accueil\"** dans le ruban en haut de l'écran.\n   - Dans le groupe **\"Styles\"**, vous verrez une liste de styles prédéfinis, y compris les styles de titre comme **\"Titre 1\"**, **\"Titre 2\"**, etc.\n\n3. **Appliquer un style de titre** :\n   - Sélectionnez le texte que vous souhaitez formater comme un titre.\n   - Cliquez sur le style de titre souhaité dans la liste des styles. Par exemple, cliquez sur **\"Titre 1\"** pour le titre principal, **\"Titre 2\"** pour les sous-titres, etc.\n\n4. **Personnaliser les styles (facultatif)** :\n   - Si vous souhaitez modifier l'apparence d'un style, cliquez sur la flèche en bas à droite du groupe **\"Styles\"**.\n   - Sélectionnez le style que vous voulez modifier, puis cliquez sur **\"Modifier\"**.\n   - Appliquez les changements souhaités (police, taille, couleur, etc.) et cliquez sur **\"OK\"**.\n\n5. **Utiliser la table des matières** :\n   - Les styles de titre sont particulièrement utiles pour créer une table des matières automatique.\n   - Placez votre curseur là où vous voulez insérer la table des matières.\n   - Allez dans l'onglet **\"Références\"**, puis cliquez sur **\"Table des matières\"**.\n   - Choisissez un style de table des matières automatique.\n\nCes étapes devraient vous permettre d'utiliser efficacement les styles de titre dans Word pour organiser et structurer votre document.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:48:30.4105301+02:00",
+  "durationSeconds": 8.11,
+  "stats": "mistral-small3.2:latest · 516 + 401 tokens · 8,1 s",
+  "isError": false,
+  "language": "FR"
+}

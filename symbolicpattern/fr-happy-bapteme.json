@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-bapteme",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La fête qui accueille un enfant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bapt[êe]me(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:baptis(er|[ée]|[ée]e)|parrain(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:marraine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:filleul(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "baptême",
+  "event": null,
+  "title": "Baptême",
+  "tags": [
+    "#NAISSANCE",
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

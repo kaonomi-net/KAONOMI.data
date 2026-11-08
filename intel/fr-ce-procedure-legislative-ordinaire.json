@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-procedure-legislative-ordinaire",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Procédure législative ordinaire",
+  "includedEntities": [
+    {
+      "entityName": "trilogue",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "accord provisoire",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les trilogues entre Commission, Parlement et Conseil.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "présidence du Conseil",
+    "rapporteurs",
+    "compromis"
+  ],
+  "questions": [
+    "Quel texte ?",
+    "Quel accord ?",
+    "Quels points de blocage ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#LEGISLATION",
+    "#TRILOGUE"
+  ],
+  "events": [
+    "@ACCORD"
+  ],
+  "signals": [
+    "!LEGISLATION"
+  ],
+  "isDeleted": false
+}

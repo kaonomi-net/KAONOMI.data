@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-controles",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "contrôles",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Fraude fiscale et sociale ; Règlement DORA ; Simplification de la politique agricole.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les mesures de lutte contre la fraude dans le budget.",
+    "Suivre l'application du règlement européen sur la résilience opérationnelle numérique.",
+    "Suivre les allègements de normes pour les agriculteurs."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "contrôles",
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#FRAUDE",
+    "#FINANCE",
+    "#REGULATION",
+    "#CYBER"
+  ],
+  "events": [],
+  "signals": [
+    "!BUDGET",
+    "!REGULATION",
+    "!SIMPLIFICATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sociale",
+    "projet de loi",
+    "fiscale",
+    "fraude",
+    "rendement",
+    "Europe",
+    "DORA",
+    "prestataires cloud",
+    "résilience",
+    "banques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

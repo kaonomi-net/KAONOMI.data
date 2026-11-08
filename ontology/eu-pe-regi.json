@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique de cohésion) : Commission du développement régional du Parlement européen, chargée de la politique de cohésion.",
+  "id": "eu-pe-regi",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission du développement régional (REGI)",
+  "entityType": "ORGANISATION",
+  "description": "Commission du développement régional du Parlement européen, chargée de la politique de cohésion.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "« Commission du développement régional (REGI) » joue un rôle dans la politique de cohésion.",
+    "Les fonctionnaires de « Commission du développement régional (REGI) » préparent les textes relatifs à la politique de cohésion.",
+    "La délégation a rencontré des représentants de « Commission du développement régional (REGI) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "REGI"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUECOHESION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20du%20d%C3%A9veloppement%20r%C3%A9gional%20%28REGI%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Cohésion et politique régionale"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

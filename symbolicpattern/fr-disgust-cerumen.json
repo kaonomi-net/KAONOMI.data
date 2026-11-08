@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-cerumen",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La cire des oreilles.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:c[ée]rumen)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cire\\s+d['’]oreille)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bouchon(s)?\\s+de\\s+c[ée]rumen)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crotte(s)?\\s+de\\s+nez)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ongles\\s+noirs)(?![\\w-])"
+  ],
+  "symbol": "cérumen",
+  "event": null,
+  "title": "Cérumen",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

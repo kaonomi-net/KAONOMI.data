@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-crise",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une période de grave difficulté.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:crise(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crise(s)?\\s+[ée]conomique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crise(s)?\\s+financi[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crise(s)?\\s+de\\s+la\\s+dette)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crise(s)?\\s+[ée]nerg[ée]tique(s)?)(?![\\w-])"
+  ],
+  "symbol": "crise",
+  "event": null,
+  "title": "Crise",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

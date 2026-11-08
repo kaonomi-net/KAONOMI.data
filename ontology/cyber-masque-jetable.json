@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (la cryptographie classique) : Chiffrement par une clé aléatoire aussi longue que le message et utilisée une seule fois ; Shannon a prouvé qu'il offre une sécurité parfaite.",
+  "id": "cyber-masque-jetable",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Masque jetable",
+  "entityType": "ALGORITHM",
+  "description": "Chiffrement par une clé aléatoire aussi longue que le message et utilisée une seule fois ; Shannon a prouvé qu'il offre une sécurité parfaite.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Masque jetable est enseigné dans tous les cours consacrés à la cryptographie classique.",
+    "L'audit vérifie que Masque jetable est utilisé correctement.",
+    "La chercheuse a présenté une analyse de Masque jetable lors du séminaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "one-time pad",
+    "chiffre de Vernam"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CRYPTOGRAPHIECLASSIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Masque%20jetable"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Publication de « Communication Theory of Secrecy Systems »",
+    "Gilbert Vernam",
+    "Chiffre de Vigenère"
+  ],
+  "isDeleted": false,
+  "startDate": "1917-01-01T00:00:00",
+  "endDate": null
+}

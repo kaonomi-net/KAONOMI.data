@@ -1,0 +1,59 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (l'administration européenne) : Fonctionnement interne de la Commission : bâtiments, informatique, audit et gestion.",
+  "id": "eu-dom-administration",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Administration",
+  "entityType": "DOMAIN",
+  "description": "Fonctionnement interne de la Commission : bâtiments, informatique, audit et gestion.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Les propositions législatives relatives au domaine « Administration » passent par le Parlement et le Conseil.",
+    "La conférence portait sur l'administration européenne.",
+    "Le domaine « Administration » figure dans le programme de travail de la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#ADMINISTRATIONEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Administration"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Budget et administration (Commission von der Leyen I)",
+    "Johannes Hahn",
+    "Budget, lutte antifraude et administration publique (Commission von der Leyen II)",
+    "Piotr Serafin",
+    "Relations interinstitutionnelles et administration (Commission Barroso II)",
+    "Maroš Šefčovič",
+    "Secrétariat général",
+    "Direction générale des ressources humaines et de la sécurité",
+    "Direction générale de l'informatique",
+    "Service d'audit interne",
+    "Office pour les infrastructures et la logistique à Bruxelles",
+    "Office pour les infrastructures et la logistique à Luxembourg",
+    "Traité de fusion"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

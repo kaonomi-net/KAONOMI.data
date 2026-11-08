@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-malsain",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui est mauvais pour le corps ou l'esprit.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:malsain(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:toxique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nocif(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nocive(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]l[ée]t[èe]re(s)?)(?![\\w-])"
+  ],
+  "symbol": "malsain",
+  "event": null,
+  "title": "Malsain",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

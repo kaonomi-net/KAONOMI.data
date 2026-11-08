@@ -1,0 +1,13 @@
+{
+  "index": 79,
+  "file": "099-mathematiques-comment-fonctionne-le-raisonnement-par-recurrence.prompt.json",
+  "prompt": "Comment fonctionne le raisonnement par récurrence ?",
+  "promptWords": 7,
+  "completion": "Le raisonnement par récurrence est une méthode mathématique utilisée pour démontrer qu'une propriété \\( P(n) \\) est vraie pour tous les entiers naturels \\( n \\) à partir d'un certain rang. Il repose sur trois étapes principales :\n\n1. **Initialisation (ou base de récurrence)** :\n   - On vérifie que la propriété \\( P(n) \\) est vraie pour le premier entier considéré, généralement \\( n = 0 \\) ou \\( n = 1 \\). Cela sert de point de départ à la démonstration.\n\n2. **Hérédité (ou induction)** :\n   - On suppose que la propriété \\( P(k) \\) est vraie pour un entier \\( k \\) donné (c'est l'**hypothèse de récurrence**).\n   - On montre ensuite que si \\( P(k) \\) est vraie, alors \\( P(k+1) \\) est également vraie. Cela signifie que la propriété se transmet de \\( k \\) à \\( k+1 \\).\n\n3. **Conclusion** :\n   - Par le principe du raisonnement par récurrence, si l'initialisation et l'hérédité sont vérifiées, alors la propriété \\( P(n) \\) est vraie pour tous les entiers \\( n \\) à partir du rang initial.\n\n### Exemple classique : Somme des premiers entiers naturels\nOn veut montrer que \\( 1 + 2 + \\dots + n = \\frac{n(n+1)}{2} \\) pour tout \\( n \\in \\mathbb{N}^* \\).\n\n1. **Initialisation** :\n   - Pour \\( n = 1 \\), \\( 1 = \\frac{1 \\times 2}{2} = 1 \\). La propriété est vraie.\n\n2. **Hérédité** :\n   - Supposons que la propriété soit vraie pour un entier \\( k \\), c'est-à-dire \\( 1 + 2 + \\dots + k = \\frac{k(k+1)}{2} \\).\n   - Montrons qu'elle est vraie pour \\( k+1 \\) :\n     \\[\n     1 + 2 + \\dots + k + (k+1) = \\frac{k(k+1)}{2} + (k+1) = \\frac{(k+1)(k+2)}{2}.\n     \\]\n   - Ainsi, \\( P(k+1) \\) est vraie.\n\n3. **Conclusion** :\n   - Par récurrence, la propriété est vraie pour tout \\( n \\in \\mathbb{N}^* \\).\n\nLe raisonnement par récurrence est particulièrement utile pour démontrer des propriétés sur les suites, les algorithmes, ou les structures discrètes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:30:20.2567488+02:00",
+  "durationSeconds": 12.27,
+  "stats": "mistral-small3.2:latest · 516 + 556 tokens · 12,3 s",
+  "isError": false,
+  "language": "FR"
+}

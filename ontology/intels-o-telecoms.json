@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-telecoms",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "télécoms",
+  "entityType": "DOMAIN",
+  "description": "Cité par 7 intels : Bouygues ; Proximus ; Cyberattaque contre un opérateur télécom ; Salt Typhoon et l'espionnage des télécoms ; Cybersécurité des télécoms ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'action Bouygues.",
+    "Suivre l'action Proximus et le marché belge des télécoms.",
+    "Repérer les cyberattaques et fuites chez les opérateurs télécoms."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "télécoms",
+  "tags": [
+    "#TELECOMS",
+    "#CYBERSECURITE",
+    "#BOURSE",
+    "#UNION-EUROPEENNE",
+    "#CAC40",
+    "#BELGIQUE"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES",
+    "@ATTRIBUTION",
+    "@DECISION"
+  ],
+  "signals": [
+    "!RESULTATS",
+    "!ALERTE",
+    "!ESPIONNAGE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "opérateurs",
+    "fibre",
+    "Salt Typhoon",
+    "construction",
+    "Paris",
+    "résultats",
+    "Bouygues",
+    "médias",
+    "Proximus"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

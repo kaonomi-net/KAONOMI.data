@@ -1,0 +1,62 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (le budget de l'Union) : Cadre financier pluriannuel, budget annuel et ressources propres de l'Union.",
+  "id": "eu-dom-budget",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Budget",
+  "entityType": "DOMAIN",
+  "description": "Cadre financier pluriannuel, budget annuel et ressources propres de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Budget » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Budget ».",
+    "Plusieurs commissaires ont été chargés du domaine « Budget »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#BUDGETUNION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Budget"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Cour des comptes européenne",
+    "Commission des budgets (BUDG)",
+    "Commission du contrôle budgétaire (CONT)",
+    "Conseil Affaires économiques et financières (ECOFIN)",
+    "Budget et administration (Commission von der Leyen I)",
+    "Johannes Hahn",
+    "Budget, lutte antifraude et administration publique (Commission von der Leyen II)",
+    "Piotr Serafin",
+    "Budget et ressources humaines (Commission Juncker)",
+    "Kristalina Georgieva",
+    "Économie et société numériques, puis budget et ressources humaines (Commission Juncker)",
+    "Günther Oettinger",
+    "Direction générale du budget",
+    "Règlement relatif au mécanisme de conditionnalité liée à l'état de droit",
+    "Cadre financier pluriannuel 2021-2027",
+    "Accord du Conseil européen sur NextGenerationEU"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

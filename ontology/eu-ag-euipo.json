@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (le marché intérieur) : Office de l'Union européenne pour la propriété intellectuelle (EUIPO), organe de l'Union créé en 1994 et installé dans cette ville : Alicante.",
+  "id": "eu-ag-euipo",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Office de l'Union européenne pour la propriété intellectuelle (EUIPO)",
+  "entityType": "ORGANISATION",
+  "description": "Office de l'Union européenne pour la propriété intellectuelle (EUIPO), organe de l'Union créé en 1994 et installé dans cette ville : Alicante.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Office de l'Union européenne pour la propriété intellectuelle (EUIPO) ».",
+    "« Office de l'Union européenne pour la propriété intellectuelle (EUIPO) » joue un rôle dans le marché intérieur.",
+    "Les fonctionnaires de « Office de l'Union européenne pour la propriété intellectuelle (EUIPO) » préparent les textes relatifs au marché intérieur."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EUIPO"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#MARCHEINTERIEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Office%20de%20l%27Union%20europ%C3%A9enne%20pour%20la%20propri%C3%A9t%C3%A9%20intellectuelle%20%28EUIPO%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Alicante",
+    "Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME",
+    "Marché intérieur"
+  ],
+  "isDeleted": false,
+  "startDate": "1994-01-01T00:00:00",
+  "endDate": null
+}

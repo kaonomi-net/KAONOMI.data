@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-drame",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un événement tragique.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:drame(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dramatique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tragique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:funeste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sinistre(s)?)(?![\\w-])"
+  ],
+  "symbol": "drame",
+  "event": null,
+  "title": "Drame",
+  "tags": [
+    "#CATASTROPHE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

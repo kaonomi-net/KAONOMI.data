@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-declaration-d-arthur-mensch",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Déclaration d'Arthur Mensch",
+  "includedEntities": [
+    {
+      "entityName": "Arthur Mensch",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Mistral AI",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prises de parole du dirigeant de Mistral AI.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "souveraineté",
+    "Europe",
+    "open source"
+  ],
+  "questions": [
+    "Quelle annonce ?",
+    "Quelle position sur la régulation ?",
+    "Quels partenariats ?"
+  ],
+  "tags": [
+    "#IA",
+    "#PERSONNALITE",
+    "#MISTRAL"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

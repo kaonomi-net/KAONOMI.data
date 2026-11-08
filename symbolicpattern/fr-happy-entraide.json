@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-entraide",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'aide que l'on se donne.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:entraide(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s['’]entraider)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coup\\s+de\\s+main)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:aid(er|[ée]|[ée]e)\\s+(un|une)\\s+ami(e)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:b[ée]n[ée]volat(s)?)(?![\\w-])"
+  ],
+  "symbol": "entraide",
+  "event": null,
+  "title": "Entraide",
+  "tags": [
+    "#AMITIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

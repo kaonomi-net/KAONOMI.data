@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-psychologie-environnementale",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Psychologie environnementale",
+  "includedEntities": [
+    {
+      "entityName": "psychologie environnementale",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "comportements écologiques",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recherches sur les comportements écologiques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "sobriété",
+    "changement",
+    "normes sociales"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel levier ?",
+    "Quel résultat ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

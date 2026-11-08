@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'agriculture) : Office communautaire des variétés végétales (OCVV), organe de l'Union créé en 1994 et installé dans cette ville : Angers.",
+  "id": "eu-ag-ocvv",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Office communautaire des variétés végétales (OCVV)",
+  "entityType": "ORGANISATION",
+  "description": "Office communautaire des variétés végétales (OCVV), organe de l'Union créé en 1994 et installé dans cette ville : Angers.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Office communautaire des variétés végétales (OCVV) » préparent les textes relatifs à l'agriculture.",
+    "La délégation a rencontré des représentants de « Office communautaire des variétés végétales (OCVV) ».",
+    "« Office communautaire des variétés végétales (OCVV) » joue un rôle dans l'agriculture."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "OCVV"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Office%20communautaire%20des%20vari%C3%A9t%C3%A9s%20v%C3%A9g%C3%A9tales%20%28OCVV%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Angers",
+    "Direction générale de la santé et de la sécurité alimentaire",
+    "Agriculture"
+  ],
+  "isDeleted": false,
+  "startDate": "1994-01-01T00:00:00",
+  "endDate": null
+}

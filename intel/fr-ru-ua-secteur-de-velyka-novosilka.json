@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-secteur-de-velyka-novosilka",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Secteur de Velyka Novosilka",
+  "includedEntities": [
+    {
+      "entityName": "Velyka Novosilka",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "front",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les combats à la jonction entre le Donbass et la région de Zaporijia.",
+  "isFuzzy": true,
+  "locations": [
+    "Velyka Novosilka"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Houliaïpole",
+    "armée russe",
+    "Dnipropetrovsk"
+  ],
+  "questions": [
+    "Quelles avancées ?",
+    "Quel risque d'encerclement ?",
+    "Quel soutien ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#FRONT"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,54 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-immuabilite",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "immuabilité",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Rançongiciel et sauvegardes détruites ; Sauvegardes et plan de reprise.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les attaques qui ciblent d'abord les sauvegardes.",
+    "Suivre les bonnes pratiques de sauvegarde et de reprise après incident."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "immuabilité",
+  "tags": [
+    "#CYBERSECURITE",
+    "#RESILIENCE",
+    "#RANCONGICIEL",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE",
+    "!RESILIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sauvegardes",
+    "sauvegardes hors ligne",
+    "destruction",
+    "reprise",
+    "3-2-1",
+    "tests",
+    "plan de reprise"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

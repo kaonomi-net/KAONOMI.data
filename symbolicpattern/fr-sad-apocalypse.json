@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-apocalypse",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La fin du monde.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:apocalypse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:apocalyptique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fin\\s+du\\s+monde)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:armageddon)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chaos)(?![\\w-])"
+  ],
+  "symbol": "apocalypse",
+  "event": null,
+  "title": "Apocalypse",
+  "tags": [
+    "#CATASTROPHE",
+    "#SURNATUREL"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

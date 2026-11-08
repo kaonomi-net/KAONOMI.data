@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-priorites",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "priorités",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Thèmes prioritaires des électeurs ; Discours sur l'état de l'Union ; Présidence du Conseil de l'Union.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les sujets qui comptent le plus pour les électeurs.",
+    "Suivre le discours annuel sur l'état de l'Union devant le Parlement.",
+    "Suivre les priorités et résultats de la présidence tournante du Conseil."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "priorités",
+  "tags": [
+    "#FRANCE",
+    "#OPINION",
+    "#CAMPAGNE",
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#PARLEMENT-EUROPEEN"
+  ],
+  "events": [
+    "@DISCOURS"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!STRATEGIE",
+    "!GOUVERNANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sécurité",
+    "électeurs",
+    "immigration",
+    "pouvoir d'achat",
+    "Ursula von der Leyen",
+    "Parlement européen",
+    "annonces",
+    "État de l'Union",
+    "Strasbourg",
+    "Danemark"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

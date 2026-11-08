@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-courage",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La force face aux difficultés.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:courage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:courageu(x|se|ses|sement))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:brave(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bravoure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vaillant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "courage",
+  "event": null,
+  "title": "Courage",
+  "tags": [
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

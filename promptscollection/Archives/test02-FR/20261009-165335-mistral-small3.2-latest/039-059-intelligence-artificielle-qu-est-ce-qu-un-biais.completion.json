@@ -1,0 +1,13 @@
+{
+  "index": 39,
+  "file": "059-intelligence-artificielle-qu-est-ce-qu-un-biais.prompt.json",
+  "prompt": "Qu'est-ce qu'un biais algorithmique ?",
+  "promptWords": 5,
+  "completion": "Un biais algorithmique, également appelé biais des algorithmes, désigne une distorsion ou une partialité dans les résultats produits par un algorithme, un système informatique ou une intelligence artificielle. Ces biais peuvent entraîner des décisions injustes, discriminatoires ou inexactes, souvent en raison de données d'entraînement biaisées, de choix de conception ou de l'absence de diversité dans les équipes de développement.\n\n### Causes courantes des biais algorithmiques :\n1. **Données biaisées** : Si les données utilisées pour entraîner un algorithme contiennent des préjugés (par exemple, des données historiques discriminatoires), l'algorithme reproduira ces biais.\n2. **Choix de caractéristiques** : Les variables sélectionnées pour l'entraînement peuvent favoriser certains groupes au détriment d'autres.\n3. **Manque de diversité dans les équipes** : Des équipes homogènes peuvent ne pas anticiper les impacts de leurs algorithmes sur des groupes sous-représentés.\n4. **Proxys discriminatoires** : L'utilisation de variables indirectement liées à des caractéristiques protégées (comme l'origine ethnique ou le genre) peut introduire des biais.\n\n### Exemples de biais algorithmiques :\n- **Reconnaissance faciale** : Certains systèmes ont des taux d'erreur plus élevés pour les personnes à peau foncée ou les femmes.\n- **Emploi** : Des algorithmes de recrutement peuvent favoriser des candidats masculins en se basant sur des données historiques.\n- **Prêts bancaires** : Des modèles peuvent discriminer des emprunteurs issus de minorités en raison de données historiques biaisées.\n\n### Conséquences :\nLes biais algorithmiques peuvent avoir des impacts significatifs sur des domaines comme la justice, la santé, l'éducation et l'emploi, en perpétuant ou en amplifiant les inégalités sociales.\n\n### Solutions possibles :\n- **Audits algorithmiques** : Évaluer régulièrement les algorithmes pour détecter et corriger les biais.\n- **Diversification des données** : Utiliser des ensembles de données représentatifs et équilibrés.\n- **Transparence** : Rendre les processus décisionnels des algorithmes plus compréhensibles.\n- **Régulation** : Mettre en place des cadres légaux pour encadrer l'utilisation des algorithmes.\n\nSi vous souhaitez des informations plus spécifiques ou des exemples récents, n'hésitez pas à me le demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:00:17.9018253+02:00",
+  "durationSeconds": 10.62,
+  "stats": "mistral-small3.2:latest · 516 + 503 tokens · 10,6 s",
+  "isError": false,
+  "language": "FR"
+}

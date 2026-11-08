@@ -1,0 +1,13 @@
+{
+  "index": 516,
+  "file": "0516-cybernetique-qu-est-ce-que-la-cybernetique.prompt.json",
+  "prompt": "Qu'est-ce que la cybernétique selon Norbert Wiener ?",
+  "promptWords": 8,
+  "completion": "La cybernétique, selon Norbert Wiener, est une discipline scientifique qui étudie les systèmes de contrôle et de communication dans les organismes vivants, les machines et les organisations. Wiener, souvent considéré comme le père de la cybernétique, a introduit ce concept dans son livre *Cybernétique et société* (1948) et *La Cybernétique* (1948).\n\nPour Wiener, la cybernétique est l'étude des processus de régulation et de rétroaction (feedback) qui permettent à un système de maintenir son équilibre ou d'atteindre un objectif. Elle s'intéresse aux mécanismes qui permettent à un système de s'auto-corriger et de s'adapter à son environnement.\n\nLes principales idées de la cybernétique de Wiener incluent :\n\n1. **Rétroaction (Feedback)** : Un système cybernétique utilise des informations sur ses propres actions pour ajuster son comportement. Par exemple, un thermostat utilise la température ambiante pour réguler le chauffage.\n\n2. **Systèmes ouverts et fermés** : Wiener distingue les systèmes ouverts (qui échangent de l'information et de l'énergie avec leur environnement) des systèmes fermés (qui fonctionnent de manière autonome).\n\n3. **Analogies entre vivants et machines** : Wiener souligne les similitudes entre les processus biologiques et les mécanismes artificiels, suggérant que les principes de contrôle et de communication sont universels.\n\n4. **Éthique et responsabilité** : Wiener aborde également les implications éthiques de la cybernétique, notamment les dangers potentiels des systèmes automatisés et la nécessité de réguler leur utilisation.\n\nLa cybernétique a influencé de nombreux domaines, notamment l'informatique, l'intelligence artificielle, la biologie, l'économie et la gestion. Wiener a posé les bases d'une approche interdisciplinaire qui continue d'inspirer les recherches contemporaines sur les systèmes complexes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:00:03.2016962+02:00",
+  "durationSeconds": 8.16,
+  "stats": "mistral-small3.2:latest · 519 + 399 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

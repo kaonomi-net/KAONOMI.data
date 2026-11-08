@@ -1,0 +1,13 @@
+{
+  "index": 599,
+  "file": "0599-python-explique-pandas-en-python-avec-un.prompt.json",
+  "prompt": "Explique pandas en Python avec un exemple simple.",
+  "promptWords": 8,
+  "completion": "Pandas est une bibliothèque Python très populaire pour la manipulation et l'analyse de données. Elle fournit des structures de données flexibles et puissantes, notamment **DataFrame** et **Series**, qui sont similaires aux tableaux ou aux feuilles de calcul.\n\n### Exemple simple avec Pandas\n\nVoici un exemple simple pour illustrer l'utilisation de Pandas :\n\n1. **Installation** (si ce n'est pas déjà fait) :\n   ```bash\n   pip install pandas\n   ```\n\n2. **Création d'un DataFrame** :\n   ```python\n   import pandas as pd\n\n   # Création d'un dictionnaire\n   data = {\n       'Nom': ['Alice', 'Bob', 'Charlie'],\n       'Âge': [25, 30, 35],\n       'Ville': ['Paris', 'Lyon', 'Marseille']\n   }\n\n   # Conversion du dictionnaire en DataFrame\n   df = pd.DataFrame(data)\n\n   # Affichage du DataFrame\n   print(df)\n   ```\n\n   **Sortie** :\n   ```\n      Nom  Âge      Ville\n   0  Alice   25      Paris\n   1   Bob   30       Lyon\n   2 Charlie   35  Marseille\n   ```\n\n3. **Accès aux données** :\n   ```python\n   # Accéder à une colonne\n   print(df['Nom'])\n\n   # Accéder à une ligne\n   print(df.iloc[1])  # Affiche la deuxième ligne (Bob)\n   ```\n\n4. **Ajout d'une colonne** :\n   ```python\n   # Ajout d'une nouvelle colonne\n   df['Pays'] = ['France', 'France', 'France']\n   print(df)\n   ```\n\n   **Sortie** :\n   ```\n      Nom  Âge      Ville    Pays\n   0  Alice   25      Paris  France\n   1   Bob   30       Lyon  France\n   2 Charlie   35  Marseille  France\n   ```\n\n5. **Filtrage des données** :\n   ```python\n   # Filtrer les personnes de plus de 30 ans\n   df_filtre = df[df['Âge'] > 30]\n   print(df_filtre)\n   ```\n\n   **Sortie** :\n   ```\n      Nom  Âge      Ville    Pays\n   2 Charlie   35  Marseille  France\n   ```\n\n### Pourquoi utiliser Pandas ?\n- **Manipulation facile** : Permet de filtrer, trier, et transformer des données de manière intuitive.\n- **Analyse rapide** : Fournit des fonctions pour calculer des statistiques descriptives.\n- **Intégration avec d'autres bibliothèques** : Compatible avec Matplotlib, NumPy, Scikit-learn, etc.\n\nPandas est particulièrement utile pour le nettoyage et l'exploration de données avant une analyse plus approfondie.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:25:15.8632881+02:00",
+  "durationSeconds": 12.11,
+  "stats": "mistral-small3.2:latest · 517 + 618 tokens · 12,1 s",
+  "isError": false,
+  "language": "FR"
+}

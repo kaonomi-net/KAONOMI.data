@@ -1,0 +1,59 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la santé publique) : Psychologue clinicienne et parlementaire chypriote engagée contre le cancer du sein, commissaire à la Santé et à la Sécurité alimentaire de 2019 à 2024, pendant la pandémie de COVID-19.",
+  "id": "eu-p-kyriakides",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Stella Kyriakides",
+  "entityType": "PERSON",
+  "description": "Psychologue clinicienne et parlementaire chypriote engagée contre le cancer du sein, commissaire à la Santé et à la Sécurité alimentaire de 2019 à 2024, pendant la pandémie de COVID-19.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Stella Kyriakides.",
+    "Lors du point de presse de midi, une question portait sur Stella Kyriakides.",
+    "Stella Kyriakides est une figure de la santé publique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Kyriakides"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Stella%20Kyriakides"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité chypriote",
+    "Rassemblement démocrate (DISY)",
+    "Psychologue",
+    "Député national",
+    "Commissaire européen",
+    "Santé et sécurité alimentaire (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Santé",
+    "Sécurité alimentaire",
+    "Pandémie de COVID-19 en Europe",
+    "Journées européennes de vaccination"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

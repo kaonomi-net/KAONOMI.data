@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-succession",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "succession",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Succession à la présidence de la BCE ; Bernard Arnault ; Changement de dirigeant.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la course à la succession de Christine Lagarde.",
+    "Suivre les décisions et déclarations de Bernard Arnault.",
+    "Repérer les changements de dirigeants des sociétés cotées."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "succession",
+  "tags": [
+    "#BOURSE",
+    "#DIRIGEANTS",
+    "#BCE",
+    "#NOMINATION",
+    "#LUXE"
+  ],
+  "events": [
+    "@NOMINATION",
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!TRANSITION",
+    "!GOUVERNANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Isabel Schnabel",
+    "Pablo Hernández de Cos",
+    "Francfort",
+    "BCE",
+    "Klaas Knot",
+    "Bruxelles",
+    "président",
+    "Paris",
+    "LVMH",
+    "Bernard Arnault"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

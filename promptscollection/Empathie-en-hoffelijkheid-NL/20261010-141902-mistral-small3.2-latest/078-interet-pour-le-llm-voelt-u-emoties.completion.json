@@ -1,0 +1,13 @@
+{
+  "index": 78,
+  "file": "078-interet-pour-le-llm-voelt-u-emoties.prompt.json",
+  "prompt": "Voelt u emoties?",
+  "promptWords": 3,
+  "completion": "Nee, ik heb geen emoties. Ik ben een kunstmatige intelligentie en mijn doel is om je zo goed mogelijk te helpen met informatie en antwoorden. Hoe kan ik je vandaag helpen?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:23:07.849812+02:00",
+  "durationSeconds": 1.37,
+  "stats": "mistral-small3.2:latest · 513 + 50 tokens · 1,4 s",
+  "isError": false,
+  "language": "NL"
+}

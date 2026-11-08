@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la sécurité des systèmes) : Professeur américain à Purdue, auteur de l'analyse de référence du ver Morris (1988) et fondateur du centre CERIAS.",
+  "id": "cyber-spafford",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Eugene Spafford",
+  "entityType": "PERSON",
+  "description": "Professeur américain à Purdue, auteur de l'analyse de référence du ver Morris (1988) et fondateur du centre CERIAS.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Eugene Spafford.",
+    "Les étudiants lisent les travaux de Eugene Spafford pour comprendre la sécurité des systèmes.",
+    "Sans Eugene Spafford, l'histoire de la sécurité des systèmes aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Spaf"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#SECURITESYSTEMES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Eugene%20Spafford"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ver Morris"
+  ],
+  "isDeleted": false,
+  "startDate": "1956-01-01T00:00:00",
+  "endDate": null
+}

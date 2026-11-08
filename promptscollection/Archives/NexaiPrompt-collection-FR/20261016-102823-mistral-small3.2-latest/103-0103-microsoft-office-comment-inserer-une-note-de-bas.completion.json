@@ -1,0 +1,13 @@
+{
+  "index": 103,
+  "file": "0103-microsoft-office-comment-inserer-une-note-de-bas.prompt.json",
+  "prompt": "Comment insérer une note de bas de page dans Word ?",
+  "promptWords": 11,
+  "completion": "Pour insérer une note de bas de page dans Microsoft Word, suivez ces étapes :\n\n1. **Placez le curseur** à l'endroit où vous souhaitez insérer la note de bas de page.\n2. **Allez dans l'onglet** \"Références\" (ou \"Insertion\" selon la version de Word).\n3. **Cliquez sur** \"Insérer une note de bas de page\" (ou \"Note de bas de page\" selon la version).\n4. **Une note de bas de page** apparaîtra en bas de la page, et vous pourrez y saisir votre texte.\n5. **Fermez la note** en appuyant sur `Échap` ou en cliquant ailleurs dans le document.\n\nSi vous avez besoin d'aide supplémentaire ou si vous utilisez une version spécifique de Word, n'hésitez pas à me le préciser !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:48:57.7947266+02:00",
+  "durationSeconds": 4,
+  "stats": "mistral-small3.2:latest · 519 + 186 tokens · 4,0 s",
+  "isError": false,
+  "language": "FR"
+}

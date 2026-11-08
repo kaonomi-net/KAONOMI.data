@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-sanctions-americaines-contre-la-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Sanctions américaines contre la Russie",
+  "includedEntities": [
+    {
+      "entityName": "sanctions américaines",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les sanctions des États-Unis contre l'économie russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Trésor américain",
+    "Rosneft",
+    "Loukoïl"
+  ],
+  "questions": [
+    "Quelles entreprises visées ?",
+    "Quelles sanctions secondaires ?",
+    "Quel impact ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#SANCTIONS",
+    "#ETATS-UNIS"
+  ],
+  "events": [
+    "@SANCTION"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE"
+  ],
+  "isDeleted": false
+}

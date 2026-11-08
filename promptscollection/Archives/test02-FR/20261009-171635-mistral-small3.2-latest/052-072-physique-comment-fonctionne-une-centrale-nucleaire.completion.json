@@ -1,0 +1,13 @@
+{
+  "index": 52,
+  "file": "072-physique-comment-fonctionne-une-centrale-nucleaire.prompt.json",
+  "prompt": "Comment fonctionne une centrale nucléaire ?",
+  "promptWords": 6,
+  "completion": "Une centrale nucléaire fonctionne en utilisant la fission nucléaire pour produire de l'énergie électrique. Voici les étapes principales de son fonctionnement :\n\n1. **Réacteur nucléaire** :\n   - Le cœur du réacteur contient des combustibles nucléaires, généralement de l'uranium enrichi.\n   - La fission nucléaire se produit lorsque des neutrons frappent les noyaux d'uranium, les divisant en noyaux plus petits et libérant une grande quantité d'énergie sous forme de chaleur et de neutrons supplémentaires, ce qui entraîne une réaction en chaîne contrôlée.\n\n2. **Production de chaleur** :\n   - La chaleur générée par la fission chauffe un fluide de refroidissement, souvent de l'eau, qui circule dans le circuit primaire du réacteur.\n   - Ce fluide chaud transfère la chaleur à un échangeur de chaleur.\n\n3. **Production de vapeur** :\n   - Dans l'échangeur de chaleur, la chaleur est transférée à un second circuit d'eau (circuit secondaire), qui se transforme en vapeur sous haute pression.\n\n4. **Turbine et générateur** :\n   - La vapeur sous haute pression est dirigée vers une turbine, faisant tourner ses aubes.\n   - La turbine est couplée à un générateur électrique, qui produit de l'électricité lorsque la turbine tourne.\n\n5. **Condensation de la vapeur** :\n   - Après avoir traversé la turbine, la vapeur est condensée en eau dans un condenseur en utilisant de l'eau de refroidissement externe (souvent prélevée dans une rivière, un lac ou la mer).\n   - L'eau condensée est ensuite renvoyée au circuit secondaire pour être à nouveau transformée en vapeur.\n\n6. **Refroidissement final** :\n   - L'eau de refroidissement utilisée dans le condenseur est rejetée dans l'environnement après avoir été refroidie, ou elle peut être recyclée dans certains systèmes.\n\n7. **Gestion des déchets** :\n   - Les déchets radioactifs produits par la fission sont stockés dans des installations spécialisées pour éviter toute contamination.\n\nLes centrales nucléaires sont conçues pour être sûres, avec des systèmes de contrôle et de sécurité multiples pour prévenir les accidents et gérer les situations d'urgence. Elles produisent une énergie électrique stable et à faible émission de CO2, mais soulèvent des préoccupations en matière de gestion des déchets radioactifs et de sécurité.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:26:06.4428196+02:00",
+  "durationSeconds": 10.87,
+  "stats": "mistral-small3.2:latest · 513 + 492 tokens · 10,9 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-haut-conseil-des-finances-publiques",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Haut Conseil des finances publiques",
+  "includedEntities": [
+    {
+      "entityName": "Haut Conseil des finances publiques",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "avis",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les avis du Haut Conseil des finances publiques sur le budget.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Cour des comptes",
+    "prévisions",
+    "croissance"
+  ],
+  "questions": [
+    "Quel avis ?",
+    "Les prévisions sont-elles réalistes ?",
+    "Quels risques ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#CONTROLE"
+  ],
+  "events": [
+    "@AVIS"
+  ],
+  "signals": [
+    "!VERIFICATION"
+  ],
+  "isDeleted": false
+}

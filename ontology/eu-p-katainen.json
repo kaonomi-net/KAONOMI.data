@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique économique) : Ancien Premier ministre de Finlande, vice-président chargé de l'Emploi, de la Croissance, de l'Investissement et de la Compétitivité de 2014 à 2019.",
+  "id": "eu-p-katainen",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Jyrki Katainen",
+  "entityType": "PERSON",
+  "description": "Ancien Premier ministre de Finlande, vice-président chargé de l'Emploi, de la Croissance, de l'Investissement et de la Compétitivité de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Jyrki Katainen.",
+    "Les manuels sur les institutions européennes citent Jyrki Katainen.",
+    "Le portrait de Jyrki Katainen figure dans le dossier consacré à la politique économique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Katainen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Jyrki%20Katainen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité finlandaise",
+    "Parti de la coalition nationale (Kokoomus)",
+    "Chef de gouvernement",
+    "Ministre des Finances",
+    "Commissaire européen",
+    "Emploi, croissance, investissement et compétitivité (Commission Juncker)",
+    "Vice-président de la Commission",
+    "Commission Juncker",
+    "Économie",
+    "Emploi et droits sociaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

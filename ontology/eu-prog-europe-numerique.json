@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la transformation numérique) : Financement du calcul haute performance, de l'IA, de la cybersécurité et des compétences numériques.",
+  "id": "eu-prog-europe-numerique",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Programme pour une Europe numérique",
+  "entityType": "PROGRAMME",
+  "description": "Financement du calcul haute performance, de l'IA, de la cybersécurité et des compétences numériques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Le projet a reçu un financement de « Programme pour une Europe numérique ».",
+    "Le bilan de « Programme pour une Europe numérique » a été présenté au Parlement européen.",
+    "« Programme pour une Europe numérique » finance des projets dans la transformation numérique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "Digital Europe"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#TRANSFORMATIONNUMERIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Programme%20pour%20une%20Europe%20num%C3%A9rique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale des réseaux de communication, du contenu et des technologies",
+    "Numérique",
+    "Intelligence artificielle",
+    "Cybersécurité",
+    "Cadre financier pluriannuel 2021-2027",
+    "Agence exécutive européenne pour la santé et le numérique (HaDEA)"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-01-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

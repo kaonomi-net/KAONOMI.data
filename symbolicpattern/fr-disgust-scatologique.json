@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-scatologique",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui parle des excréments.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:scatologique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:scato)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:humour\\s+pipi-caca)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:blague(s)?\\s+scatologique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:scatologie(s)?)(?![\\w-])"
+  ],
+  "symbol": "scatologique",
+  "event": null,
+  "title": "Scatologique",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

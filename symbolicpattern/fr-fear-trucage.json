@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-trucage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une image ou une voix falsifiée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:trucage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:truquage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:truqu[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:falsifi([ée]|[ée]e|[ée]s|cation)|montage(s)?\\s+trompeur(s)?)(?![\\w-])"
+  ],
+  "symbol": "trucage",
+  "event": null,
+  "title": "Trucage",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

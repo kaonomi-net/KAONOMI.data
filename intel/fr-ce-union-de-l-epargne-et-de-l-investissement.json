@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-union-de-l-epargne-et-de-l-investissement",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Union de l'épargne et de l'investissement",
+  "includedEntities": [
+    {
+      "entityName": "union de l'épargne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "investissement",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "épargne",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet de mobiliser l'épargne européenne pour l'investissement.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "marchés de capitaux",
+    "comptes d'épargne",
+    "Draghi"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quelle polémique ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#FINANCE",
+    "#EPARGNE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

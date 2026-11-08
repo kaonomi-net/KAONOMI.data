@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-extradition-de-pirates",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Extradition de pirates",
+  "includedEntities": [
+    {
+      "entityName": "extradition",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "pirate",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les extraditions de pirates informatiques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "États-Unis",
+    "Europe",
+    "Russie"
+  ],
+  "questions": [
+    "Qui est extradé ?",
+    "Vers quel pays ?",
+    "Pour quelles accusations ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#JUSTICE",
+    "#INTERNATIONAL"
+  ],
+  "events": [
+    "@EXTRADITION"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

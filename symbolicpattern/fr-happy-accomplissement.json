@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-accomplissement",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'accomplir pleinement.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:accomplissement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:accompl(ir|i|ie|is|ies)|r[ée]alisation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:concr[ée]tis(er|[ée]|[ée]e|ation))(?![\\w-])"
+  ],
+  "symbol": "accomplissement",
+  "event": null,
+  "title": "Accomplissement",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

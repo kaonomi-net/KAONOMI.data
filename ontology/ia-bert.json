@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les modèles de langage) : Modèle de langage bidirectionnel de Google fondé sur l'encodeur du Transformeur, entraîné par masquage de mots.",
+  "id": "ia-bert",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "BERT",
+  "entityType": "SOFTWARE",
+  "description": "Modèle de langage bidirectionnel de Google fondé sur l'encodeur du Transformeur, entraîné par masquage de mots.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "Le développeur a utilisé BERT pour son projet.",
+    "Les historiens de l'informatique considèrent BERT comme une étape des modèles de langage.",
+    "Le chercheur cite BERT dans son article sur les modèles de langage."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Bidirectional Encoder Representations from Transformers"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#MODELESLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=BERT"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Transformeur",
+    "Word2vec",
+    "Hugging Face Transformers"
+  ],
+  "isDeleted": false,
+  "startDate": "2018-01-01T00:00:00",
+  "endDate": null
+}

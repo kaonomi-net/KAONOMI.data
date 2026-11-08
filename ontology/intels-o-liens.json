@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-liens",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "liens",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Hameçonnage ; Grands-parents et transmission.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les campagnes d'hameçonnage.",
+    "Suivre le rôle psychologique des grands-parents."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "liens",
+  "tags": [
+    "#CYBERSECURITE",
+    "#HAMECONNAGE",
+    "#PSYCHOLOGIE",
+    "#FAMILLE"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!SCIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "hameçonnage",
+    "usurpation",
+    "faux courriels",
+    "phishing",
+    "famille",
+    "transmission",
+    "grands-parents",
+    "garde"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

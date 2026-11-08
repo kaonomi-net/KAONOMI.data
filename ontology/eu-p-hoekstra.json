@@ -1,0 +1,63 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'action pour le climat) : Ancien consultant, ministre néerlandais des Finances puis des Affaires étrangères, commissaire à l'Action pour le climat depuis 2023.",
+  "id": "eu-p-hoekstra",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Wopke Hoekstra",
+  "entityType": "PERSON",
+  "description": "Ancien consultant, ministre néerlandais des Finances puis des Affaires étrangères, commissaire à l'Action pour le climat depuis 2023.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Wopke Hoekstra est une figure de l'action pour le climat.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Wopke Hoekstra.",
+    "Lors du point de presse de midi, une question portait sur Wopke Hoekstra."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Hoekstra"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#ACTIONPOURCLIMAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Wopke%20Hoekstra"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité néerlandaise",
+    "Appel chrétien-démocrate (CDA)",
+    "Consultant",
+    "Ministre des Finances",
+    "Ministre des Affaires étrangères",
+    "Commissaire européen",
+    "Action pour le climat (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Action pour le climat",
+    "Climat, neutralité carbone et croissance propre (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Fiscalité et union douanière",
+    "Frans Timmermans",
+    "Direction générale de l'action pour le climat",
+    "Direction générale de la fiscalité et de l'union douanière"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

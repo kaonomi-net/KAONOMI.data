@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (la réponse aux incidents) : Création à Carnegie Mellon, à la demande de la DARPA, du premier centre de réponse aux incidents informatiques.",
+  "id": "cyber-cert-cc",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Création du CERT/CC",
+  "entityType": "EVENT",
+  "description": "Création à Carnegie Mellon, à la demande de la DARPA, du premier centre de réponse aux incidents informatiques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "Les journaux de l'époque ont largement commenté l'événement « Création du CERT/CC ».",
+    "L'événement « Création du CERT/CC » a marqué durablement l'histoire de la réponse aux incidents.",
+    "La frise chronologique de la salle de formation place « Création du CERT/CC » en bonne place."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "CERT Coordination Center"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#REPONSEAUXINCIDENTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Cr%C3%A9ation%20du%20CERT/CC"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ver Morris"
+  ],
+  "isDeleted": false,
+  "startDate": "1988-11-01T00:00:00",
+  "endDate": "1988-11-01T00:00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-victime",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La personne qui subit un mal.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:victime(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:martyr(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sinistr[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rescap[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:survivant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "victime",
+  "event": null,
+  "title": "Victime",
+  "tags": [
+    "#VIOLENCE",
+    "#CRIME"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

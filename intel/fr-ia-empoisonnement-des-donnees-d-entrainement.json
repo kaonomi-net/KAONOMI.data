@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-empoisonnement-des-donnees-d-entrainement",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Empoisonnement des données d'entraînement",
+  "includedEntities": [
+    {
+      "entityName": "empoisonnement",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "données d'entraînement",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les attaques qui corrompent les données d'entraînement.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "dataset",
+    "open source",
+    "sécurité"
+  ],
+  "questions": [
+    "Quelles données sont corrompues ?",
+    "Quel modèle est touché ?",
+    "Comment le détecter ?"
+  ],
+  "tags": [
+    "#IA",
+    "#CYBERSECURITE",
+    "#DONNEES"
+  ],
+  "events": [
+    "@INCIDENT-SECURITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

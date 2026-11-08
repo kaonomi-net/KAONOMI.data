@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-bielorussie-et-presence-militaire-russe",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Biélorussie et présence militaire russe",
+  "includedEntities": [
+    {
+      "entityName": "Biélorussie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "armée russe",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "Minsk",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de la Biélorussie aux côtés de la Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Minsk",
+    "frontière polonaise"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Loukachenko",
+    "armes nucléaires tactiques",
+    "Pologne"
+  ],
+  "questions": [
+    "Quels déploiements ?",
+    "Quelles manœuvres ?",
+    "Quelle réaction de l'OTAN ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#BIELORUSSIE",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

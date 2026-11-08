@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-patrick-pouyanne",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "Patrick Pouyanné",
+  "entityType": "PERSON",
+  "description": "Cité par 1 intel : TotalEnergies.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre l'action TotalEnergies, au plus haut après un bénéfice ajusté de 9,1 milliards de dollars au troisième trimestre 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Patrick Pouyanné",
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#ENERGIE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Brent",
+    "TotalEnergies",
+    "pétrole",
+    "rachats d'actions"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

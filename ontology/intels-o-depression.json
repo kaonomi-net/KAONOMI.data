@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-depression",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "dépression",
+  "entityType": "DOMAIN",
+  "description": "Cité par 11 intels : Incapacités de travail pour raisons psychiques en Belgique ; Enquête de santé de Sciensano ; Dépression ; Baromètre de Santé publique France ; Covid long et santé mentale ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la part des troubles psychiques dans les incapacités de travail de longue durée, 38,3 % fin 2025.",
+    "Suivre les enquêtes de Sciensano sur la santé mentale de la population belge.",
+    "Suivre l'actualité de la dépression."
+  ],
+  "angryLevel": null,
+  "sadLevel": 18,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "dépression",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BELGIQUE",
+    "#ENQUETE",
+    "#SPORT",
+    "#SANTE-MENTALE",
+    "#VIEILLISSEMENT"
+  ],
+  "events": [
+    "@RAPPORT",
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!SANTE-MENTALE",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "santé mentale",
+    "anxiété",
+    "isolement",
+    "personnes âgées",
+    "troubles psychiques",
+    "Belgique",
+    "INAMI",
+    "incapacité de travail",
+    "burn-out",
+    "bien-être"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

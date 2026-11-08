@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (la recherche de chemin) : Algorithme de recherche du plus court chemin guidé par une heuristique admissible, publié par Hart, Nilsson et Raphael pour le robot Shakey.",
+  "id": "ia-a-etoile",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Algorithme A*",
+  "entityType": "ALGORITHM",
+  "description": "Algorithme de recherche du plus court chemin guidé par une heuristique admissible, publié par Hart, Nilsson et Raphael pour le robot Shakey.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "La chercheuse a présenté une variante de Algorithme A* lors du séminaire.",
+    "Algorithme A* est enseigné dans tous les cours consacrés à la recherche de chemin.",
+    "Le notebook compare Algorithme A* aux autres méthodes de la recherche de chemin."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "A étoile",
+    "A star"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#RECHERCHECHEMIN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Algorithme%20A%2A"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Robot Shakey"
+  ],
+  "isDeleted": false,
+  "startDate": "1968-01-01T00:00:00",
+  "endDate": null
+}

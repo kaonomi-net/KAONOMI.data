@@ -1,0 +1,13 @@
+{
+  "index": 499,
+  "file": "0499-recherche-operationnelle-qu-est-ce-que-la-programmation.prompt.json",
+  "prompt": "Qu'est-ce que la programmation linéaire en nombres entiers ?",
+  "promptWords": 9,
+  "completion": "La programmation linéaire en nombres entiers (PLNE), ou *integer linear programming* (ILP) en anglais, est une méthode d'optimisation mathématique qui consiste à maximiser ou minimiser une fonction objectif linéaire, sous des contraintes linéaires, tout en imposant que les variables de décision soient entières.\n\n### Caractéristiques principales :\n1. **Variables entières** : Contrairement à la programmation linéaire classique où les variables peuvent être réelles, en PLNE, les variables doivent prendre des valeurs entières (par exemple, 0, 1, 2, ...).\n2. **Fonction objectif linéaire** : La fonction à optimiser est une combinaison linéaire des variables.\n3. **Contraintes linéaires** : Les contraintes sont des inégalités ou égalités linéaires.\n\n### Applications courantes :\n- **Planification des ressources** : Allocation optimale de ressources limitées.\n- **Problèmes de transport et logistique** : Optimisation des itinéraires ou des coûts de transport.\n- **Gestion de projet** : Planification des tâches avec des contraintes de temps et de budget.\n- **Problèmes de sac à dos** : Sélection d'objets avec des contraintes de poids et de valeur.\n\n### Exemple simple :\nSupposons que vous voulez maximiser le profit en produisant deux produits A et B, avec des contraintes sur les ressources (main-d'œuvre, matières premières). Les quantités produites doivent être entières (on ne peut pas produire une fraction de produit).\n\n- **Fonction objectif** : Maximiser \\( 3x_A + 5x_B \\) (profit par unité).\n- **Contraintes** :\n  - \\( 2x_A + 4x_B \\leq 20 \\) (contrainte de main-d'œuvre).\n  - \\( x_A, x_B \\geq 0 \\) et entiers.\n\n### Complexité :\nLa PLNE est un problème NP-difficile, ce qui signifie que les algorithmes exacts peuvent devenir très coûteux en temps de calcul pour des instances de grande taille. Des méthodes comme la *branch-and-bound* ou la *programmation dynamique* sont souvent utilisées pour résoudre ces problèmes.\n\nSi vous avez besoin d'un exemple plus détaillé ou d'une application spécifique, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:56:41.1863349+02:00",
+  "durationSeconds": 10.02,
+  "stats": "mistral-small3.2:latest · 521 + 495 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

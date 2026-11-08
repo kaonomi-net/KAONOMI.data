@@ -1,0 +1,13 @@
+{
+  "index": 589,
+  "file": "0589-python-explique-les-modules-et-les-paquets.prompt.json",
+  "prompt": "Explique les modules et les paquets en Python avec un exemple simple.",
+  "promptWords": 12,
+  "completion": "En Python, les **modules** et les **paquets** sont des concepts fondamentaux pour organiser et réutiliser le code. Voici une explication simple avec un exemple :\n\n### 1. **Module**\nUn module est un fichier Python (`.py`) qui contient des fonctions, des classes ou des variables que vous pouvez importer et réutiliser dans d'autres programmes.\n\n**Exemple de module (`maisons.py`)** :\n```python\n# Fonction pour calculer la surface d'une maison\ndef surface(longueur, largeur):\n    return longueur * largeur\n\n# Fonction pour calculer le périmètre d'une maison\ndef perimetre(longueur, largeur):\n    return 2 * (longueur + largeur)\n```\n\n### 2. **Paquet (Package)**\nUn paquet est un dossier contenant plusieurs modules. Il doit contenir un fichier spécial appelé `__init__.py` (qui peut être vide) pour indiquer à Python que le dossier est un paquet.\n\n**Exemple de paquet (`maisons`)** :\n```\nmaisons/\n    __init__.py\n    maisons.py\n```\n\n### 3. **Utilisation du module et du paquet**\nPour utiliser le module `maisons.py` dans un autre script, vous pouvez l'importer comme ceci :\n\n```python\n# Importer le module\nimport maisons\n\n# Utiliser les fonctions du module\nlongueur = 10\nlargeur = 5\nprint(\"Surface:\", maisons.surface(longueur, largeur))  # Affiche 50\nprint(\"Périmètre:\", maisons.perimetre(longueur, largeur))  # Affiche 30\n```\n\nSi vous utilisez le paquet, vous pouvez importer le module de la même manière :\n\n```python\n# Importer le module depuis le paquet\nfrom maisons import maisons\n\n# Utiliser les fonctions du module\nprint(\"Surface:\", maisons.surface(longueur, largeur))  # Affiche 50\nprint(\"Périmètre:\", maisons.perimetre(longueur, largeur))  # Affiche 30\n```\n\n### Résumé\n- **Module** : Fichier `.py` contenant du code réutilisable.\n- **Paquet** : Dossier contenant plusieurs modules et un fichier `__init__.py`.\n\nCela permet d'organiser votre code de manière modulaire et réutilisable.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:23:23.8776116+02:00",
+  "durationSeconds": 9.63,
+  "stats": "mistral-small3.2:latest · 522 + 488 tokens · 9,6 s",
+  "isError": false,
+  "language": "FR"
+}

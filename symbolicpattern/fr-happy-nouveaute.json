@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-nouveaute",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui est nouveau.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:nouveaut[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nouveau\\s+d[ée]part)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tout\\s+neuf)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:toute\\s+neuve)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:premi[èe]re\\s+fois)(?![\\w-])"
+  ],
+  "symbol": "nouveauté",
+  "event": null,
+  "title": "Nouveauté",
+  "tags": [
+    "#CREATION",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

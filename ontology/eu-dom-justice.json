@@ -1,0 +1,63 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la justice) : Coopération judiciaire, droits fondamentaux et droit civil et pénal de l'Union.",
+  "id": "eu-dom-justice",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Justice",
+  "entityType": "DOMAIN",
+  "description": "Coopération judiciaire, droits fondamentaux et droit civil et pénal de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "La conférence portait sur la justice.",
+    "Le domaine « Justice » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Justice » passent par le Parlement et le Conseil."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Justice"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Cour de justice de l'Union européenne",
+    "Parquet européen",
+    "Commission des affaires juridiques (JURI)",
+    "Commission des libertés civiles, de la justice et des affaires intérieures (LIBE)",
+    "Conseil Justice et affaires intérieures (JHA)",
+    "Justice (Commission von der Leyen I)",
+    "Didier Reynders",
+    "Démocratie, justice, état de droit et protection des consommateurs (Commission von der Leyen II)",
+    "Michael McGrath",
+    "Justice, consommateurs et égalité des genres (Commission Juncker)",
+    "Věra Jourová",
+    "Service juridique",
+    "Direction générale de la justice et des consommateurs",
+    "Agence de l'Union européenne pour la coopération judiciaire en matière pénale (Eurojust)",
+    "Agence des droits fondamentaux de l'Union européenne (FRA)",
+    "Charte des droits fondamentaux de l'Union européenne",
+    "Directive sur le devoir de vigilance des entreprises en matière de durabilité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

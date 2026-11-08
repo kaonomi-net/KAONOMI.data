@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-polarisation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La division de la société par les algorithmes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:polarisation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bulle(s)?\\s+de\\s+filtre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chambre(s)?\\s+d['’][ée]cho)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:algorithme(s)?\\s+de\\s+recommandation)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:soci[ée]t[ée]\\s+fractur[ée]e)(?![\\w-])"
+  ],
+  "symbol": "polarisation",
+  "event": null,
+  "title": "Polarisation",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-trahir",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Manquer à la confiance.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:trah(ir|i|ie|is|ies|it|issent|issait)|poignard(er|[ée]|[ée]e)\\s+dans\\s+le\\s+dos|vendre\\s+(ses|son)\\s+ami(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:retourner\\s+sa\\s+veste)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:double\\s+jeu)(?![\\w-])"
+  ],
+  "symbol": "trahir",
+  "event": null,
+  "title": "Trahir",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

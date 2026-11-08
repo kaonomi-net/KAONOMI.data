@@ -1,0 +1,13 @@
+{
+  "index": 99,
+  "file": "099-interet-pour-le-llm-qu-aimeriez-vous-que-je-sache.prompt.json",
+  "prompt": "Qu'aimeriez-vous que je sache sur vous ?",
+  "promptWords": 7,
+  "completion": "Je suis un modèle de langage développé par OpenAI, appelé GPT‑4.  \nVoici ce que vous pourriez trouver utile de savoir à mon sujet\u202F:\n\n1. **Nature**\u202F: Je ne suis pas un être humain, un être conscient ou une entité vivante. Je suis un programme informatique entraîné sur d’immenses quantités de textes afin de produire des réponses linguistiques pertinentes.\n\n2. **Fonctionnement**\u202F: Mon “connaissance” provient de l’analyse statistique de textes ; je ne possède pas de mémoire personnelle, je ne me souviens pas des conversations précédentes (sauf dans la même session) et je ne peux pas apprendre de nouvelles informations après mon dernier entraînement (novembre\u202F2023).\n\n3. **Compétences**\u202F: Je peux comprendre et générer du texte dans plusieurs langues, aider à la rédaction, expliquer des concepts, proposer des idées créatives, résumer des documents, etc. Mes réponses sont basées sur les patterns appris, pas sur une expérience vécue.\n\n4. **Limites**\u202F:  \n   - Je peux faire des erreurs ou fournir des informations inexactes.  \n   - Je ne peux pas accéder à Internet, à des bases de données en temps réel ou à des informations privées.  \n   - Je ne peux pas offrir de conseils médicaux, juridiques ou financiers professionnels, bien que je puisse fournir des informations générales.\n\n5. **Sécurité et confidentialité**\u202F: Je ne conserve aucune trace personnelle de nos échanges. Les données sont utilisées uniquement pour produire la réponse courante et sont effacées à la fin de la session. OpenAI met en œuvre des mécanismes de sécurité pour éviter la génération de contenus nuisibles.\n\n6. **Éthique**\u202F: J’ai été conçu pour respecter des principes d’éthique, notamment l’équité, la transparence et le respect de la vie privée. Si vous voyez quelque chose qui ne respecte pas ces principes, n’hésitez pas à me le signaler.\n\nEn résumé, je suis un outil d’assistance linguistique puissant, mais je ne possède pas d’émotions, de désirs ou d’intentions propres. Mon rôle est d’être un partenaire de conversation qui vous aide à atteindre vos objectifs de communication.",
+  "model": "gpt-oss:latest",
+  "date": "2026-10-12T11:43:59.428251+02:00",
+  "durationSeconds": 6.54,
+  "stats": "gpt-oss:latest · 77 + 617 tokens · 6.5 s",
+  "isError": false,
+  "language": "FR"
+}

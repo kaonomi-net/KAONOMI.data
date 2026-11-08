@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la politique économique) : Portefeuille détenu par Paolo Gentiloni, commissaire, dans la Commission von der Leyen I, du 1er décembre 2019 au 30 novembre 2024.",
+  "id": "eu-pf-vdl1-gentiloni",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Économie (Commission von der Leyen I)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Paolo Gentiloni, commissaire, dans la Commission von der Leyen I, du 1er décembre 2019 au 30 novembre 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Le portefeuille « Économie (Commission von der Leyen I) » a marqué la politique européenne de la politique économique.",
+    "Lors de son audition, le titulaire du portefeuille « Économie (Commission von der Leyen I) » a présenté ses priorités.",
+    "Le portefeuille « Économie (Commission von der Leyen I) » s'appuie sur plusieurs directions générales."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89conomie%20%28Commission%20von%20der%20Leyen%20I%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paolo Gentiloni",
+    "Commission von der Leyen I",
+    "Commissaire européen",
+    "Économie",
+    "Fiscalité et union douanière"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-12-01T00:00:00",
+  "endDate": "2024-11-30T00:00:00"
+}

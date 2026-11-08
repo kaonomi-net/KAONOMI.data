@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-mercenaire",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un soldat payé par une puissance étrangère.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:mercenaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:milice(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:milicien(ne|s|nes)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:paramilitaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:seigneur(s)?\\s+de\\s+guerre)(?![\\w-])"
+  ],
+  "symbol": "mercenaire",
+  "event": null,
+  "title": "Mercenaire",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

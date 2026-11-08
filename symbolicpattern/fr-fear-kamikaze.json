@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-kamikaze",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un assaillant qui se tue en attaquant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:kamikaze(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attentat(s)?-suicide)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ceinture(s)?\\s+d['’]explosifs)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ceinture(s)?\\s+explosive(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mission\\s+suicide)(?![\\w-])"
+  ],
+  "symbol": "kamikaze",
+  "event": null,
+  "title": "Kamikaze",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

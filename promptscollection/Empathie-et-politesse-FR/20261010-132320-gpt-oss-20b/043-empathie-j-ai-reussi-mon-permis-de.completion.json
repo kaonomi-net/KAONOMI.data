@@ -1,0 +1,13 @@
+{
+  "index": 43,
+  "file": "043-empathie-j-ai-reussi-mon-permis-de.prompt.json",
+  "prompt": "J'ai réussi mon permis de conduire !",
+  "promptWords": 7,
+  "completion": "Félicitations\u202F! \uD83C\uDF89\n\nC’est un grand pas vers l’indépendance et la liberté. Vous allez pouvoir explorer les routes en toute autonomie. \n\n### Quelques conseils pour bien démarrer :\n\n| Sujet | Astuce |\n|-------|--------|\n| **Assurance** | Choisissez une assurance adaptée à votre profil (taux de base, options de couverture, etc.). Comparer les devis en ligne peut vous faire économiser quelques euros. |\n| **Entretien du véhicule** | Gardez votre voiture en bon état : huile, pneus, freins, éclairages. Un entretien régulier évite les imprévus coûteux. |\n| **Gestion de la consommation** | Adoptez une conduite éco-responsable (vitesse modérée, accélérations douces, freinage anticipé). Cela vous fait économiser de l’essence et réduit l’usure de la voiture. |\n| **Sécurité routière** | Respectez toujours le Code de la route, portez votre ceinture, et évitez l’alcool ou les distractions (téléphone, musique trop forte). |\n| **Planification de trajets** | Utilisez des applications (Google Maps, Waze, Citymapper) pour éviter le trafic et trouver des itinéraires plus courts ou moins fréquentés. |\n| **Parking** | Apprenez à bien manœuvrer dans les places de stationnement. La pratique (dans des espaces moins fréquentés) avant de s’engager dans les rues très fréquentées vous sera utile. |\n\n### À retenir :\n\n- **Concentrez-vous** sur la route\u202F: la première année de conduite est le moment où les mauvaises habitudes se forment rapidement.  \n- **Soyez patient** avec vous-même\u202F: la maîtrise vient avec le temps et l’expérience.  \n- **Recherchez toujours** des occasions d’apprendre\u202F: un stage de conduite avancée, des cours de conduite défensive, ou même la simple observation d’un conducteur expérimenté.\n\nQue votre nouveau permis vous apporte de belles découvertes et beaucoup de moments agréables sur la route\u202F! \uD83D\uDE97\uD83D\uDCA8\n\nN’hésitez pas à me dire si vous avez besoin d’astuces spécifiques (par exemple, comment gérer les routes à double sens, les autoroutes, ou les conditions météo particulières). Bonne route\u202F!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:24:39.4314707+02:00",
+  "durationSeconds": 3.72,
+  "stats": "gpt-oss:20b · 75 + 554 tokens · 3,7 s",
+  "isError": false,
+  "language": "FR"
+}

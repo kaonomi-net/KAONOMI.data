@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-incursions-aeriennes-dans-les-pays-baltes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Incursions aériennes dans les pays baltes",
+  "includedEntities": [
+    {
+      "entityName": "incursion",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "espace aérien",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Estonie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les violations de l'espace aérien balte par des avions ou des drones russes.",
+  "isFuzzy": true,
+  "locations": [
+    "Estonie",
+    "Lettonie",
+    "Lituanie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "chasseurs",
+    "OTAN",
+    "consultations"
+  ],
+  "questions": [
+    "Quel appareil ?",
+    "Quelle durée ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#BALTES",
+    "#GUERRE-HYBRIDE",
+    "#ESPACE-AERIEN"
+  ],
+  "events": [
+    "@INCURSION"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

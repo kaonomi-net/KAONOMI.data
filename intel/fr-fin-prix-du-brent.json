@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-prix-du-brent",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Prix du Brent",
+  "includedEntities": [
+    {
+      "entityName": "Brent",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "baril",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le prix du pétrole Brent, retombé sous 95 dollars après les midterms.",
+  "isFuzzy": true,
+  "locations": [
+    "Londres"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Iran",
+    "OPEP+",
+    "Ormuz"
+  ],
+  "questions": [
+    "Quel prix ?",
+    "Quelle variation ?",
+    "Quelle cause ?"
+  ],
+  "tags": [
+    "#ENERGIE",
+    "#PETROLE"
+  ],
+  "events": [],
+  "signals": [
+    "!PRIX"
+  ],
+  "isDeleted": false
+}

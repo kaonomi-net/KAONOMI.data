@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-syndicats",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "syndicats",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 13 intels : Licenciements liés à l'IA ; Position de la gauche sur les retraites ; Assurance chômage et budget ; Fonction publique et budget ; Plans sociaux et fermetures d'usines ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les suppressions d'emplois attribuées à l'IA.",
+    "Suivre les propositions de la gauche sur la réforme des retraites.",
+    "Suivre les réformes de l'assurance chômage pour faire des économies."
+  ],
+  "angryLevel": null,
+  "sadLevel": 8,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "syndicats",
+  "tags": [
+    "#FRANCE",
+    "#PSYCHOLOGIE",
+    "#EMPLOI",
+    "#SOCIAL",
+    "#RETRAITES",
+    "#BUDGET"
+  ],
+  "events": [
+    "@SUPPRESSION-EMPLOIS",
+    "@PLAN-SOCIAL",
+    "@SOMMET"
+  ],
+  "signals": [
+    "!SOCIAL",
+    "!RISQUE-SOCIAL",
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "Belgique",
+    "retraites",
+    "entreprises",
+    "ressources humaines",
+    "licenciements",
+    "automatisation",
+    "IA",
+    "abrogation",
+    "financement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

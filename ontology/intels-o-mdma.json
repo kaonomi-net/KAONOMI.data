@@ -1,0 +1,47 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-mdma",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "MDMA",
+  "entityType": "MATERIAL",
+  "description": "Cité par 1 intel : Psychédéliques en thérapie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre les essais cliniques de psychédéliques en psychiatrie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "MDMA",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#THERAPIES",
+    "#PSYCHEDELIQUES"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "psilocybine",
+    "psychédéliques",
+    "autorisations"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

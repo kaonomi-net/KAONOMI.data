@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-sourire",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'expression du visage qui montre le plaisir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sourire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sour(it|ient|iait|iant|iante|ions)|souriant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ravi(e|s|es)?\\s+(de|d['’]))(?![\\w-])"
+  ],
+  "symbol": "sourire",
+  "event": null,
+  "title": "Sourire",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

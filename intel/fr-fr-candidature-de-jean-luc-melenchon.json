@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-candidature-de-jean-luc-melenchon",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Candidature de Jean-Luc Mélenchon",
+  "includedEntities": [
+    {
+      "entityName": "Jean-Luc Mélenchon",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "candidature",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la candidature de Jean-Luc Mélenchon et de La France insoumise.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "La France insoumise",
+    "sondages",
+    "programme"
+  ],
+  "questions": [
+    "Quelle annonce ?",
+    "Quel score ?",
+    "Quelle stratégie ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#LFI"
+  ],
+  "events": [
+    "@CANDIDATURE"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

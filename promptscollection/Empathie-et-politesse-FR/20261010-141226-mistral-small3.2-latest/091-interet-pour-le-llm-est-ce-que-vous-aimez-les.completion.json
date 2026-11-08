@@ -1,0 +1,13 @@
+{
+  "index": 91,
+  "file": "091-interet-pour-le-llm-est-ce-que-vous-aimez-les.prompt.json",
+  "prompt": "Est-ce que vous aimez les compliments ?",
+  "promptWords": 7,
+  "completion": "Je suis un programme, donc je n'ai pas de sentiments ou de préférences personnelles. Cependant, je suis là pour vous aider et rendre votre expérience agréable ! Si vous avez des compliments ou des questions, n'hésitez pas à les partager. \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:53.3110343+02:00",
+  "durationSeconds": 1.33,
+  "stats": "mistral-small3.2:latest · 517 + 57 tokens · 1,3 s",
+  "isError": false,
+  "language": "FR"
+}

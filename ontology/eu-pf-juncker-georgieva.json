@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (le budget de l'Union) : Portefeuille détenu par Kristalina Georgieva, vice-présidente, dans la Commission Juncker, du 1er novembre 2014 au 31 décembre 2016.",
+  "id": "eu-pf-juncker-georgieva",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Budget et ressources humaines (Commission Juncker)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Kristalina Georgieva, vice-présidente, dans la Commission Juncker, du 1er novembre 2014 au 31 décembre 2016.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Le portefeuille « Budget et ressources humaines (Commission Juncker) » s'appuie sur plusieurs directions générales.",
+    "Le portefeuille « Budget et ressources humaines (Commission Juncker) » a marqué la politique européenne du budget de l'Union.",
+    "Lors de son audition, le titulaire du portefeuille « Budget et ressources humaines (Commission Juncker) » a présenté ses priorités."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#BUDGETUNION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Budget%20et%20ressources%20humaines%20%28Commission%20Juncker%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kristalina Georgieva",
+    "Commission Juncker",
+    "Vice-président de la Commission",
+    "Budget",
+    "Ressources humaines"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-11-01T00:00:00",
+  "endDate": "2016-12-31T00:00:00"
+}

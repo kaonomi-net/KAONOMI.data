@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-libertes-a-hong-kong",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Libertés à Hong Kong",
+  "includedEntities": [
+    {
+      "entityName": "Hong Kong",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sécurité nationale",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation des libertés publiques à Hong Kong.",
+  "isFuzzy": true,
+  "locations": [
+    "Hong Kong"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pékin",
+    "opposants",
+    "presse"
+  ],
+  "questions": [
+    "Quels procès ?",
+    "Quelles arrestations ?",
+    "Quelle réaction internationale ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#HONG-KONG",
+    "#LIBERTES"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

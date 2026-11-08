@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-egalite-et-droits-des-femmes",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Égalité et droits des femmes",
+  "includedEntities": [
+    {
+      "entityName": "égalité",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "femmes",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "violences",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les politiques européennes d'égalité entre les femmes et les hommes.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "directive violences",
+    "transparence salariale",
+    "quotas"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quelle transposition ?",
+    "Quel recul ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#EGALITE",
+    "#SOCIAL"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

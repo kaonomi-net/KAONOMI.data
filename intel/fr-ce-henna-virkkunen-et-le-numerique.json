@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-henna-virkkunen-et-le-numerique",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Henna Virkkunen et le numérique",
+  "includedEntities": [
+    {
+      "entityName": "Henna Virkkunen",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "numérique",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action de la vice-présidente chargée de la souveraineté technologique.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "DSA",
+    "IA",
+    "puces"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quelle enquête ?",
+    "Quelle initiative ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#NUMERIQUE",
+    "#VIRKKUNEN"
+  ],
+  "events": [],
+  "signals": [
+    "!NUMERIQUE"
+  ],
+  "isDeleted": false
+}

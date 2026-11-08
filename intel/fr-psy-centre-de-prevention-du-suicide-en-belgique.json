@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-centre-de-prevention-du-suicide-en-belgique",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Centre de prévention du suicide en Belgique",
+  "includedEntities": [
+    {
+      "entityName": "Centre de prévention du suicide",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "0800 32 123",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action du Centre de prévention du suicide en Belgique francophone.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Wallonie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ligne d'écoute",
+    "formation",
+    "postvention"
+  ],
+  "questions": [
+    "Quelle campagne ?",
+    "Combien d'appels ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BELGIQUE",
+    "#PREVENTION-SUICIDE"
+  ],
+  "events": [],
+  "signals": [
+    "!PREVENTION"
+  ],
+  "isDeleted": false
+}

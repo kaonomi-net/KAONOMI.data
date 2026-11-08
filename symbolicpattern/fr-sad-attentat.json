@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-attentat",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une attaque criminelle contre des personnes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:attentat(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attentat-suicide)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:kamikaze(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:voiture(s)?\\s+pi[ée]g[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prise(s)?\\s+d['’]otages?)(?![\\w-])"
+  ],
+  "symbol": "attentat",
+  "event": null,
+  "title": "Attentat",
+  "tags": [
+    "#VIOLENCE",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

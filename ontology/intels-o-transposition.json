@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-transposition",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "transposition",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Retards de transposition et infractions.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les procédures d'infraction contre les États membres."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "transposition",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#INFRACTIONS",
+    "#DROIT"
+  ],
+  "events": [
+    "@PROCEDURE-INFRACTION"
+  ],
+  "signals": [
+    "!CONFORMITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "directives",
+    "Cour de justice",
+    "mises en demeure",
+    "infraction",
+    "Bruxelles",
+    "directive"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

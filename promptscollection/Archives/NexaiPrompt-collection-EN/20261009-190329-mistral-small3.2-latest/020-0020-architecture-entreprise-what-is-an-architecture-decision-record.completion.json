@@ -1,0 +1,13 @@
+{
+  "index": 20,
+  "file": "0020-architecture-entreprise-what-is-an-architecture-decision-record.prompt.json",
+  "prompt": "What is an Architecture Decision Record (ADR)?",
+  "promptWords": 7,
+  "completion": "An Architecture Decision Record (ADR) is a document that captures an important architectural decision made along with its context and consequences. It serves as a historical record of decisions, helping teams understand why certain choices were made, what alternatives were considered, and what the expected outcomes were.\n\n### Key Components of an ADR:\n1. **Title**: A brief, descriptive title of the decision.\n2. **Context**: The background and circumstances that led to the decision.\n3. **Decision**: The choice that was made.\n4. **Status**: The current state of the decision (e.g., proposed, accepted, rejected, deprecated).\n5. **Consequences**: The expected outcomes, trade-offs, and impacts of the decision.\n\n### Purpose of ADRs:\n- **Documentation**: Provides a clear record of architectural decisions for future reference.\n- **Communication**: Helps team members understand the rationale behind decisions.\n- **Knowledge Sharing**: Useful for onboarding new team members or for teams working across different projects.\n- **Decision Making**: Encourages thoughtful consideration of alternatives and their implications.\n\nADRs are often maintained in a version-controlled repository, such as Git, to ensure they are easily accessible and can be updated as needed. They are a common practice in software architecture and are used to improve transparency and consistency in decision-making processes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:07:20.2197952+02:00",
+  "durationSeconds": 6.69,
+  "stats": "mistral-small3.2:latest · 517 + 270 tokens · 6,7 s",
+  "isError": false,
+  "language": "EN"
+}

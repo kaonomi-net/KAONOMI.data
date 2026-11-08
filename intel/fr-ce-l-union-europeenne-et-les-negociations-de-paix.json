@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-l-union-europeenne-et-les-negociations-de-paix",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "L'Union européenne et les négociations de paix",
+  "includedEntities": [
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "négociations de paix",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la place de l'Union dans les négociations entre la Russie et l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Abou Dhabi",
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "États-Unis",
+    "Kallas",
+    "sanctions"
+  ],
+  "questions": [
+    "L'Union est-elle à la table ?",
+    "Quelle position ?",
+    "Quelles conditions ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#UKRAINE",
+    "#NEGOCIATIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

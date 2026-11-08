@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Parti de la coalition nationale (Kokoomus), parti politique de ce pays : Finlande.",
+  "id": "eu-parti-kokoomus",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti de la coalition nationale (Kokoomus)",
+  "entityType": "ORGANISATION",
+  "description": "Parti de la coalition nationale (Kokoomus), parti politique de ce pays : Finlande. Il est affilié à la famille Parti populaire européen (PPE).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Parti de la coalition nationale (Kokoomus) » préparent les textes relatifs à la vie politique nationale.",
+    "La délégation a rencontré des représentants de « Parti de la coalition nationale (Kokoomus) ».",
+    "« Parti de la coalition nationale (Kokoomus) » joue un rôle dans la vie politique nationale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20de%20la%20coalition%20nationale%20%28Kokoomus%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Finlande",
+    "Parti populaire européen (PPE)",
+    "Henna Virkkunen",
+    "Jyrki Katainen"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

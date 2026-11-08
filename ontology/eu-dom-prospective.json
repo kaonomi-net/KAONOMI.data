@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la prospective stratégique) : Anticipation des tendances de long terme pour éclairer les politiques de l'Union.",
+  "id": "eu-dom-prospective",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Prospective stratégique",
+  "entityType": "DOMAIN",
+  "description": "Anticipation des tendances de long terme pour éclairer les politiques de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "La conférence portait sur la prospective stratégique.",
+    "Le domaine « Prospective stratégique » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Prospective stratégique » passent par le Parlement et le Conseil."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#PROSPECTIVESTRATEGIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Prospective%20strat%C3%A9gique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Relations interinstitutionnelles et prospective, puis Pacte vert (Commission von der Leyen I)",
+    "Maroš Šefčovič"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

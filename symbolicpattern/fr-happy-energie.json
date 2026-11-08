@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-energie",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La force qui permet d'agir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]nergie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]nergique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tonus)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dynamique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:revigor[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "énergie",
+  "event": null,
+  "title": "Énergie",
+  "tags": [
+    "#SANTE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

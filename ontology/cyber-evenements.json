@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Classe de l'ontologie : Cybersécurité › Événements.",
+  "id": "cyber-evenements",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Événements",
+  "entityType": "EVENT",
+  "description": "Les publications fondatrices, les vers, les failles, les cyberattaques, les fuites et les lois qui ont marqué la cybersécurité.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-racine",
+  "sentencesExemples": [
+    "La branche « Événements » de l'ontologie regroupe les entrées de ce thème.",
+    "Pour explorer « Événements », ouvrez la branche dans la fenêtre de l'ontologie.",
+    "Chaque entrée de « Événements » est reliée à d'autres par des relations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": true,
+  "symbol": "\uD83D\uDCC2",
+  "synonyms": [
+    "incidents",
+    "jalons de la cybersécurité"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ONTOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

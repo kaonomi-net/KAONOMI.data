@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-confrontation-entre-israel-et-l-iran",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Confrontation entre Israël et l'Iran",
+  "includedEntities": [
+    {
+      "entityName": "Israël",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Iran",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "frappes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Surveiller les échanges militaires directs entre Israël et l'Iran.",
+  "isFuzzy": true,
+  "locations": [
+    "Téhéran",
+    "Israël"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Gardiens de la révolution",
+    "missiles",
+    "États-Unis"
+  ],
+  "questions": [
+    "Quelles cibles ?",
+    "Quelle riposte ?",
+    "Quel risque d'embrasement régional ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#IRAN",
+    "#ISRAEL",
+    "#MOYEN-ORIENT"
+  ],
+  "events": [
+    "@FRAPPES"
+  ],
+  "signals": [
+    "!ESCALADE",
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

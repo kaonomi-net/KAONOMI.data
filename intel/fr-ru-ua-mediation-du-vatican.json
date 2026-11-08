@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-mediation-du-vatican",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Médiation du Vatican",
+  "includedEntities": [
+    {
+      "entityName": "Vatican",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "pape",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "médiation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les initiatives du Saint-Siège, notamment pour les enfants et les prisonniers.",
+  "isFuzzy": true,
+  "locations": [
+    "Rome"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "enfants ukrainiens",
+    "prisonniers",
+    "humanitaire"
+  ],
+  "questions": [
+    "Quelle initiative ?",
+    "Quel résultat concret ?",
+    "Quelle réaction des parties ?"
+  ],
+  "tags": [
+    "#VATICAN",
+    "#UKRAINE",
+    "#HUMANITAIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

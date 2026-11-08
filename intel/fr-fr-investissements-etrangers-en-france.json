@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-investissements-etrangers-en-france",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Investissements étrangers en France",
+  "includedEntities": [
+    {
+      "entityName": "investissements étrangers",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "attractivité",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Choose France",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'attractivité de la France pour les investisseurs.",
+  "isFuzzy": true,
+  "locations": [
+    "Versailles"
+  ],
+  "times": [
+    "sommet Choose France"
+  ],
+  "relatedEntities": [
+    "usines",
+    "emplois",
+    "instabilité politique"
+  ],
+  "questions": [
+    "Quels investissements ?",
+    "Combien d'emplois ?",
+    "Quel effet de l'instabilité ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ECONOMIE",
+    "#ATTRACTIVITE"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

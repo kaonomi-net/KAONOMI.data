@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-soldats-nord-coreens-en-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Soldats nord-coréens en Russie",
+  "includedEntities": [
+    {
+      "entityName": "soldats nord-coréens",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Corée du Nord",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la présence et le rôle des soldats nord-coréens aux côtés de la Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Koursk",
+    "Russie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Kim Jong-un",
+    "traité",
+    "ouvriers"
+  ],
+  "questions": [
+    "Combien de soldats ?",
+    "Quel rôle ?",
+    "Quelles pertes ?"
+  ],
+  "tags": [
+    "#COREE-DU-NORD",
+    "#RUSSIE",
+    "#ARMEE"
+  ],
+  "events": [],
+  "signals": [
+    "!ESCALADE"
+  ],
+  "isDeleted": false
+}

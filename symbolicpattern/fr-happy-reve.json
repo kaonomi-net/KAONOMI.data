@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-reve",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un désir, une aspiration.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[êe]ve(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[êe]v(er|e|ons|ent|[ée]|ait|eur|euse)|songe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:aspiration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[êe]ve\\s+devenu\\s+r[ée]alit[ée])(?![\\w-])"
+  ],
+  "symbol": "rêve",
+  "event": null,
+  "title": "Rêve",
+  "tags": [
+    "#ESPOIR",
+    "#CREATION"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

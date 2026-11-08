@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-cyberterrorisme",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le terrorisme par attaques informatiques.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cyberterrorisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cyberterroriste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attaque(s)?\\s+contre\\s+les\\s+infrastructures)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sabotage\\s+informatique)(?![\\w-])"
+  ],
+  "symbol": "cyberterrorisme",
+  "event": null,
+  "title": "Cyberterrorisme",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

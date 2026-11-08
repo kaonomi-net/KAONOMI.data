@@ -1,0 +1,13 @@
+{
+  "index": 230,
+  "file": "0230-cybersecurite-explique-le-modele-zero-trust-de.prompt.json",
+  "prompt": "Explique le modèle Zero Trust de façon simple.",
+  "promptWords": 8,
+  "completion": "Le modèle Zero Trust (ou \"Confiance Zéro\") est une approche de sécurité informatique qui repose sur un principe simple : **ne faire confiance à personne et à rien, par défaut**.\n\nVoici une explication simplifiée :\n\n1. **Pas de confiance automatique** :\n   - Contrairement aux anciens modèles où les utilisateurs ou systèmes à l'intérieur d'un réseau étaient considérés comme \"fiables\", Zero Trust considère que toute connexion, même interne, peut être une menace.\n   - Chaque demande d'accès est vérifiée et authentifiée avant d'être autorisée.\n\n2. **Vérification continue** :\n   - Même après une première authentification, le système continue de surveiller et de vérifier en permanence l'identité et les actions de l'utilisateur ou de l'appareil.\n   - Par exemple, si un employé se connecte depuis un nouvel appareil ou une localisation inhabituelle, des vérifications supplémentaires seront demandées.\n\n3. **Accès minimal (principe du moindre privilège)** :\n   - Un utilisateur ou un système n'a accès qu'aux ressources strictement nécessaires pour accomplir sa tâche.\n   - Cela limite les dégâts en cas de compromission.\n\n4. **Sécurité basée sur le contexte** :\n   - La décision d'accorder ou non l'accès dépend de plusieurs facteurs : identité, localisation, appareil utilisé, heure de la demande, etc.\n\n5. **Micro-segmentation** :\n   - Le réseau est divisé en petites zones isolées (segments) pour limiter la propagation d'une éventuelle attaque.\n\n### Exemple concret :\nImaginez une entreprise où chaque employé doit scanner son badge à chaque porte, même à l'intérieur du bâtiment, et où chaque accès à un fichier nécessite une nouvelle autorisation. C'est l'idée de Zero Trust : **tout le monde doit prouver sa légitimité en permanence**.\n\nCe modèle est particulièrement adapté aux environnements modernes où les employés travaillent à distance, utilisent des appareils personnels (BYOD) ou accèdent à des applications cloud.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:07:56.819344+02:00",
+  "durationSeconds": 8.28,
+  "stats": "mistral-small3.2:latest · 517 + 410 tokens · 8,3 s",
+  "isError": false,
+  "language": "FR"
+}

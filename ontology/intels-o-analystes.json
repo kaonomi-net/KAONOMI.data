@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-analystes",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "analystes",
+  "entityType": "PROFESSION",
+  "description": "Cité par 4 intels : Avertissement sur résultats ; UCB ; IA dans les centres de sécurité ; Centre opérationnel de sécurité.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Repérer les entreprises qui abaissent leurs prévisions.",
+    "Suivre l'action UCB, portée par Bimzelx et des objectifs 2026 relevés.",
+    "Suivre l'usage de l'IA par les équipes de défense."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "analystes",
+  "tags": [
+    "#BOURSE",
+    "#CYBERSECURITE",
+    "#SOC",
+    "#RESULTATS",
+    "#BEL20",
+    "#PHARMA"
+  ],
+  "events": [
+    "@AVERTISSEMENT",
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!DEFENSE",
+    "!ALERTE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "automatisation",
+    "SOC",
+    "objectifs annuels",
+    "avertissement",
+    "prévisions",
+    "chute du titre",
+    "abaisse",
+    "Jean-Christophe Tellier",
+    "UCB",
+    "Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

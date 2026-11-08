@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (la mémoire des attentats) : Des milliers de personnes se rassemblent place de la Bourse et couvrent le sol de messages à la craie, de fleurs et de bougies.",
+  "id": "be2016-hommage-bourse",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Rassemblements de la place de la Bourse",
+  "entityType": "EVENT",
+  "description": "Des milliers de personnes se rassemblent place de la Bourse et couvrent le sol de messages à la craie, de fleurs et de bougies.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "La presse belge a largement couvert « Rassemblements de la place de la Bourse ».",
+    "L'événement « Rassemblements de la place de la Bourse » s'inscrit dans la mémoire des attentats.",
+    "La frise chronologique du dossier place « Rassemblements de la place de la Bourse » à sa date."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 4,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "hommage spontané"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#MEMOIREATTENTATS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Rassemblements%20de%20la%20place%20de%20la%20Bourse"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Attentat de la station Maelbeek",
+    "Place de la Bourse"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-03-22T00:00:00",
+  "endDate": null
+}

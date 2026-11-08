@@ -1,0 +1,13 @@
+{
+  "index": 38,
+  "file": "058-intelligence-artificielle-comment-l-ia-reconnait-elle-les.prompt.json",
+  "prompt": "Comment l'IA reconnaît-elle les images ?",
+  "promptWords": 6,
+  "completion": "L'IA reconnaît les images grâce à des techniques de vision par ordinateur (computer vision) et d'apprentissage automatique (machine learning), principalement à travers des réseaux de neurones convolutifs (CNN, Convolutional Neural Networks). Voici comment cela fonctionne généralement :\n\n1. **Prétraitement de l'image** :\n   - L'image est souvent redimensionnée, normalisée (ajustement des valeurs de pixels) et parfois augmentée (modifications pour améliorer la robustesse du modèle).\n\n2. **Extraction des caractéristiques** :\n   - Les CNN utilisent des couches de convolution pour détecter des motifs simples (bords, textures) puis des motifs plus complexes (formes, objets).\n   - Chaque couche de convolution applique des filtres qui permettent de capturer des caractéristiques spécifiques de l'image.\n\n3. **Classification ou détection** :\n   - Les caractéristiques extraites sont passées à des couches entièrement connectées (fully connected layers) qui effectuent la classification (par exemple, identifier un chat dans l'image).\n   - Pour la détection d'objets, des techniques comme les R-CNN (Regions with Convolutional Neural Networks) ou les YOLO (You Only Look Once) sont utilisées pour localiser et classer les objets dans l'image.\n\n4. **Apprentissage supervisé** :\n   - Les modèles sont entraînés sur de grandes bases de données d'images étiquetées (par exemple, ImageNet, COCO).\n   - L'algorithme ajuste ses paramètres pour minimiser l'erreur entre ses prédictions et les étiquettes réelles.\n\n5. **Inférence** :\n   - Une fois entraîné, le modèle peut être utilisé pour prédire la classe ou les objets présents dans de nouvelles images non vues auparavant.\n\nLes modèles modernes comme ResNet, EfficientNet, ou les transformers pour la vision (ViT, Vision Transformers) améliorent constamment la précision et l'efficacité de la reconnaissance d'images.\n\nSi vous souhaitez des détails sur un aspect spécifique de la reconnaissance d'images par l'IA, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:00:08.2221821+02:00",
+  "durationSeconds": 9.66,
+  "stats": "mistral-small3.2:latest · 516 + 446 tokens · 9,7 s",
+  "isError": false,
+  "language": "FR"
+}

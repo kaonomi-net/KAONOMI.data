@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-detruire",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Mettre en ruine, faire disparaître.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]trui(re|t|s|sent|sait)|d[ée]truit(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:destruction(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]mol(ir|i|ie|ition))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:saccag(er|[ée]|[ée]e|e))(?![\\w-])"
+  ],
+  "symbol": "détruire",
+  "event": null,
+  "title": "Détruire",
+  "tags": [
+    "#VIOLENCE",
+    "#CATASTROPHE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

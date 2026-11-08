@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-indonesie",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "Indonésie",
+  "entityType": "COUNTRY",
+  "description": "Cité par 2 intels : Ventes d'armes françaises ; Accord avec l'Indonésie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre les contrats d'armement français à l'export.",
+    "Suivre l'accord de partenariat économique avec l'Indonésie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Indonésie",
+  "tags": [
+    "#FRANCE",
+    "#DEFENSE",
+    "#EXPORT",
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#INDONESIE"
+  ],
+  "events": [
+    "@CONTRAT-ARMEMENT"
+  ],
+  "signals": [
+    "!COMMERCE-ARMES",
+    "!COMMERCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Inde",
+    "contrat",
+    "ventes d'armes",
+    "Dassault",
+    "Rafale",
+    "huile de palme",
+    "déforestation",
+    "accord",
+    "Jakarta",
+    "nickel"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

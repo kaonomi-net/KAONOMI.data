@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-trouble-bipolaire",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Trouble bipolaire",
+  "includedEntities": [
+    {
+      "entityName": "trouble bipolaire",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "bipolarité",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'actualité du trouble bipolaire.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "lithium",
+    "diagnostic",
+    "recherche"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel traitement ?",
+    "Quel retard de diagnostic ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BIPOLARITE"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 7,
+  "file": "027-cuisine-comment-faire-une-sauce-bechamel.prompt.json",
+  "prompt": "Comment faire une sauce béchamel ?",
+  "promptWords": 6,
+  "completion": "La sauce béchamel est une sauce de base de la cuisine française, simple à réaliser. Voici la recette traditionnelle :\n\n### Ingrédients :\n- 50 g de beurre\n- 50 g de farine\n- 500 ml de lait entier\n- Sel, poivre, noix de muscade (facultatif)\n\n### Étapes de préparation :\n1. **Faire fondre le beurre** dans une casserole à feu moyen.\n2. **Ajouter la farine** et mélanger rapidement avec une spatule ou un fouet pour obtenir un mélange homogène (ce qu'on appelle un \"roux blanc\"). Laisser cuire 1 à 2 minutes pour éliminer le goût de farine crue.\n3. **Verser le lait progressivement** tout en fouettant pour éviter les grumeaux. Continuer à fouetter jusqu'à ce que la sauce épaississe.\n4. **Assaisonner** avec du sel, du poivre et éventuellement une pincée de noix de muscade.\n5. **Laisser mijoter** à feu doux pendant 2 à 3 minutes en continuant de remuer pour obtenir une texture lisse et onctueuse.\n\n### Conseils :\n- Pour une sauce plus légère, vous pouvez utiliser du lait demi-écrémé.\n- Si la sauce est trop épaisse, ajoutez un peu de lait pour la diluer.\n- La sauce béchamel peut être utilisée dans de nombreuses recettes comme les gratins, les croque-monsieur ou les lasagnes.\n\nBon appétit ! \uD83C\uDF74",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:54:52.5748218+02:00",
+  "durationSeconds": 7.59,
+  "stats": "mistral-small3.2:latest · 515 + 338 tokens · 7,6 s",
+  "isError": false,
+  "language": "FR"
+}

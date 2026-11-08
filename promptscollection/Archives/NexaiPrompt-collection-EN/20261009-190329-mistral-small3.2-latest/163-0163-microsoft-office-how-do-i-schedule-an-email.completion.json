@@ -1,0 +1,13 @@
+{
+  "index": 163,
+  "file": "0163-microsoft-office-how-do-i-schedule-an-email.prompt.json",
+  "prompt": "How do I schedule an email in Outlook?",
+  "promptWords": 8,
+  "completion": "To schedule an email in Outlook, follow these steps:\n\n### **Outlook on the Web (Outlook.com or Office 365 Online):**\n1. **Compose a new email** by clicking on the **\"New Message\"** button.\n2. **Write your email** as usual (add recipients, subject, and body).\n3. **Click on the small downward arrow (↓) next to the \"Send\" button**.\n4. **Select \"Send later\"** from the dropdown menu.\n5. **Choose a date and time** for when you want the email to be sent.\n6. **Click \"Send\"** to schedule the email.\n\n### **Outlook Desktop App (Windows or Mac):**\n1. **Open Outlook** and click on **\"New Email\"**.\n2. **Write your email** (recipients, subject, and body).\n3. **Click on the small dropdown arrow (↓) next to the \"Send\" button**.\n4. **Select \"Send later\"** (or \"Delay Delivery\" in some versions).\n5. **Choose a date and time** in the pop-up window.\n6. **Click \"Send\"** to schedule the email.\n\n### **Outlook Mobile App (Android/iOS):**\n1. **Open the Outlook app** and tap the **\"+\" (Compose)** button.\n2. **Write your email** (recipients, subject, and body).\n3. **Tap the three-dot menu (⋮) or \"Schedule\"** (depending on the version).\n4. **Select \"Send later\"** and choose a date and time.\n5. **Tap \"Done\"** or \"Schedule\" to confirm.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:33:22.1594016+02:00",
+  "durationSeconds": 9.2,
+  "stats": "mistral-small3.2:latest · 516 + 345 tokens · 9,2 s",
+  "isError": false,
+  "language": "EN"
+}

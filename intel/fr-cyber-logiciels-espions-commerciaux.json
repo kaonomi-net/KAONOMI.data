@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-logiciels-espions-commerciaux",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Logiciels espions commerciaux",
+  "includedEntities": [
+    {
+      "entityName": "logiciel espion",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Pegasus",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage des logiciels espions commerciaux.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "NSO",
+    "Paragon",
+    "journalistes"
+  ],
+  "questions": [
+    "Quelle victime ?",
+    "Quel éditeur ?",
+    "Quelle enquête ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SPYWARE",
+    "#VIE-PRIVEE"
+  ],
+  "events": [
+    "@REVELATION"
+  ],
+  "signals": [
+    "!SURVEILLANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 999,
+  "file": "0999-rust-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Rust qui illustre les génériques.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en Rust qui illustre l'utilisation des génériques. Cet exemple montre une fonction générique qui calcule la somme de deux nombres, ainsi qu'une structure générique qui peut contenir une valeur de n'importe quel type.\n\n```rust\n// Fonction générique pour additionner deux nombres\nfn somme<T: std::ops::Add<Output = T>>(a: T, b: T) -> T {\n    a + b\n}\n\n// Structure générique pour stocker une valeur de n'importe quel type\nstruct Boite<T> {\n    contenu: T,\n}\n\nimpl<T> Boite<T> {\n    // Méthode générique pour créer une nouvelle Boite\n    fn nouvelle(contenu: T) -> Self {\n        Boite { contenu }\n    }\n\n    // Méthode générique pour afficher le contenu de la Boite\n    fn afficher(&self) {\n        println!(\"La Boite contient: {:?}\", self.contenu);\n    }\n}\n\nfn main() {\n    // Utilisation de la fonction générique somme\n    let somme_entiers = somme(5, 10);\n    println!(\"La somme des entiers est: {}\", somme_entiers);\n\n    let somme_flottants = somme(3.5, 2.7);\n    println!(\"La somme des flottants est: {}\", somme_flottants);\n\n    // Utilisation de la structure générique Boite\n    let boite_entier = Boite::nouvelle(42);\n    boite_entier.afficher();\n\n    let boite_texte = Boite::nouvelle(\"Bonjour, Rust!\");\n    boite_texte.afficher();\n}\n```\n\n### Explications :\n1. **Fonction générique `somme`** :\n   - La fonction `somme` est définie avec un type générique `T`.\n   - Le trait `std::ops::Add` est utilisé pour s'assurer que le type `T` supporte l'opération d'addition.\n   - La fonction peut ainsi être utilisée avec différents types numériques (entiers, flottants, etc.).\n\n2. **Structure générique `Boite`** :\n   - La structure `Boite` contient un champ `contenu` de type générique `T`.\n   - La méthode `nouvelle` permet de créer une nouvelle instance de `Boite` avec un contenu de n'importe quel type.\n   - La méthode `afficher` affiche le contenu de la `Boite`.\n\n3. **Utilisation dans `main`** :\n   - La fonction `somme` est appelée avec des entiers et des flottants.\n   - La structure `Boite` est utilisée pour stocker et afficher un entier et une chaîne de caractères.\n\nCet exemple montre comment les génériques en Rust permettent d'écrire du code flexible et réutilisable pour différents types.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T14:05:01.233451+02:00",
+  "durationSeconds": 12.08,
+  "stats": "mistral-small3.2:latest · 522 + 605 tokens · 12,1 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les jeux) : L'ordinateur Deep Blue d'IBM bat le champion du monde d'échecs Garry Kasparov en match de six parties à New York.",
+  "id": "ia-deep-blue-kasparov",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Victoire de Deep Blue sur Kasparov",
+  "entityType": "EVENT",
+  "description": "L'ordinateur Deep Blue d'IBM bat le champion du monde d'échecs Garry Kasparov en match de six parties à New York.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "On date souvent un tournant des jeux à « Victoire de Deep Blue sur Kasparov ».",
+    "« Victoire de Deep Blue sur Kasparov » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « Victoire de Deep Blue sur Kasparov »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 1,
+  "happyLevel": 2,
+  "fearLevel": 1,
+  "surpriseLevel": 4,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Deep Blue contre Kasparov"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#JEUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Victoire%20de%20Deep%20Blue%20sur%20Kasparov"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Deep Blue",
+    "Libratus bat des professionnels de poker"
+  ],
+  "isDeleted": false,
+  "startDate": "1997-05-11T00:00:00",
+  "endDate": "1997-05-11T00:00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Autriche.",
+  "id": "pe10-mep-38511",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Georg Mayer",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Autriche. Groupe politique : Patriotes pour l'Europe (PfE). Parti ou liste national : Freiheitliche Partei Österreichs.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Georg Mayer participe aux travaux des commissions parlementaires.",
+    "Georg Mayer siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Georg Mayer figure dans le relevé des votes par appel nominal."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Georg MAYER"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/38511",
+    "https://fr.wikipedia.org/w/index.php?search=Georg%20Mayer"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Autriche",
+    "Parlement européen",
+    "Patriotes pour l'Europe (PfE)",
+    "Freiheitliche Partei Österreichs"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

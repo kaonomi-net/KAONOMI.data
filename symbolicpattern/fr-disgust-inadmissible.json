@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-inadmissible",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qu'on ne peut accepter.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:inadmissible(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inacceptable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:intol[ée]rable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:impardonnable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ind[ée]fendable(s)?)(?![\\w-])"
+  ],
+  "symbol": "inadmissible",
+  "event": null,
+  "title": "Inadmissible",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

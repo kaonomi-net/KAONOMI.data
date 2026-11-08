@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-revenus-petroliers-et-gaziers-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Revenus pétroliers et gaziers russes",
+  "includedEntities": [
+    {
+      "entityName": "revenus pétroliers",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "gaz",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recettes tirées des hydrocarbures.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "publication mensuelle"
+  ],
+  "relatedEntities": [
+    "prix de l'Oural",
+    "exportations",
+    "sanctions"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quelle évolution ?",
+    "Quel prix du baril ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#ENERGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

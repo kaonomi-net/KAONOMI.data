@@ -1,0 +1,13 @@
+{
+  "index": 825,
+  "file": "0825-cpp-explique-la-stl-en-c-avec.prompt.json",
+  "prompt": "Explique la STL en C++ avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "La STL (Standard Template Library) en C++ est une bibliothèque standard qui fournit un ensemble de classes et de fonctions génériques pour manipuler des structures de données et des algorithmes de manière efficace et flexible. Elle est basée sur les concepts de programmation générique, ce qui permet de réutiliser du code pour différents types de données.\n\n### Principaux composants de la STL :\n1. **Conteneurs** : Structures de données comme `vector`, `list`, `map`, `set`, etc.\n2. **Algorithmes** : Fonctions pour manipuler les conteneurs, comme `sort`, `find`, `copy`, etc.\n3. **Iterateurs** : Objets qui permettent de parcourir les éléments des conteneurs.\n\n### Exemple simple avec un `vector` et un algorithme :\n\n```cpp\n#include <iostream>\n#include <vector>      // Pour utiliser vector\n#include <algorithm>   // Pour utiliser sort\n\nint main() {\n    // Création d'un vecteur d'entiers\n    std::vector<int> nombres = {5, 2, 8, 1, 9};\n\n    // Affichage des éléments du vecteur\n    std::cout << \"Vecteur initial : \";\n    for (int nombre : nombres) {\n        std::cout << nombre << \" \";\n    }\n    std::cout << std::endl;\n\n    // Utilisation de l'algorithme sort pour trier le vecteur\n    std::sort(nombres.begin(), nombres.end());\n\n    // Affichage des éléments triés\n    std::cout << \"Vecteur trié : \";\n    for (int nombre : nombres) {\n        std::cout << nombre << \" \";\n    }\n    std::cout << std::endl;\n\n    return 0;\n}\n```\n\n### Explication de l'exemple :\n1. **Conteneur `vector`** : Nous créons un vecteur d'entiers avec quelques valeurs.\n2. **Algorithme `sort`** : Nous utilisons l'algorithme `sort` pour trier les éléments du vecteur.\n3. **Boucle `for`** : Nous parcourons le vecteur pour afficher ses éléments avant et après le tri.\n\n### Résultat attendu :\n```\nVecteur initial : 5 2 8 1 9\nVecteur trié : 1 2 5 8 9\n```\n\nLa STL est très puissante et permet de manipuler des données de manière efficace et concise. Elle est largement utilisée dans la programmation C++ pour sa flexibilité et sa réutilisabilité.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:21:25.6166764+02:00",
+  "durationSeconds": 10.62,
+  "stats": "mistral-small3.2:latest · 519 + 539 tokens · 10,6 s",
+  "isError": false,
+  "language": "FR"
+}

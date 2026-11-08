@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-rouble",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Rouble",
+  "includedEntities": [
+    {
+      "entityName": "rouble",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "taux de change",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution du rouble face au dollar et au yuan.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Banque de Russie",
+    "yuan",
+    "exportateurs"
+  ],
+  "questions": [
+    "Quel cours ?",
+    "Quelle cause ?",
+    "Quel impact sur le budget ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#MONNAIE"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

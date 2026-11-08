@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-souillon",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne malpropre.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:souillon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:salit\\s+tout)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mange\\s+comme\\s+un\\s+porc)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vit\\s+dans\\s+une\\s+porcherie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mal\\s+tenu(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "souillon",
+  "event": null,
+  "title": "Souillon",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

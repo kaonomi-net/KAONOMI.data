@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-uranium-et-nucleaire",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Uranium et nucléaire",
+  "includedEntities": [
+    {
+      "entityName": "uranium",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "nucléaire",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le marché de l'uranium porté par le nucléaire et les centres de données.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Orano",
+    "petits réacteurs",
+    "IA"
+  ],
+  "questions": [
+    "Quel prix ?",
+    "Quelle demande ?",
+    "Quel contrat ?"
+  ],
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#URANIUM"
+  ],
+  "events": [],
+  "signals": [
+    "!PRIX"
+  ],
+  "isDeleted": false
+}

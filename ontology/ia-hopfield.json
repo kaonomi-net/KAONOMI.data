@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (la physique des réseaux de neurones) : Physicien américain, auteur du réseau de Hopfield (1982), mémoire associative.",
+  "id": "ia-hopfield",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "John Hopfield",
+  "entityType": "PERSON",
+  "description": "Physicien américain, auteur du réseau de Hopfield (1982), mémoire associative. Prix Nobel de physique 2024 avec Geoffrey Hinton.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Une biographie de John Hopfield rappelle son rôle dans la physique des réseaux de neurones.",
+    "John Hopfield est l'une des figures marquantes de la physique des réseaux de neurones.",
+    "Lors de la conférence, l'oratrice a cité John Hopfield pour illustrer les progrès de la physique des réseaux de neurones."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "John J. Hopfield"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#PHYSIQUERESEAUXNEURONES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=John%20Hopfield"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Réseau de Hopfield",
+    "Prix Nobel de physique 2024"
+  ],
+  "isDeleted": false,
+  "startDate": "1933-07-15T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la transformation numérique) : Règlement (UE) 2022/2065 encadrant les plateformes en ligne et les contenus illicites.",
+  "id": "eu-pol-dsa",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Règlement sur les services numériques",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2022/2065 encadrant les plateformes en ligne et les contenus illicites.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Le Journal officiel de l'Union a publié « Règlement sur les services numériques ».",
+    "Les juristes de la Commission ont commenté « Règlement sur les services numériques ».",
+    "La mise en œuvre de « Règlement sur les services numériques » est suivie par la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "DSA",
+    "Digital Services Act"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#TRANSFORMATIONNUMERIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A8glement%20sur%20les%20services%20num%C3%A9riques"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Numérique",
+    "Direction générale des réseaux de communication, du contenu et des technologies",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-10-19T00:00:00",
+  "endDate": null
+}

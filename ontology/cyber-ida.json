@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (la rétro-ingénierie) : Désassembleur interactif de référence, édité aujourd'hui par Hex-Rays.",
+  "id": "cyber-ida",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "IDA Pro",
+  "entityType": "SOFTWARE",
+  "description": "Désassembleur interactif de référence, édité aujourd'hui par Hex-Rays.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé IDA Pro avec d'autres outils de la rétro-ingénierie.",
+    "IDA Pro figure parmi les logiciels marquants de la rétro-ingénierie.",
+    "En atelier, les élèves ont découvert IDA Pro et son fonctionnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Interactive Disassembler"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#RETROINGENIERIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=IDA%20Pro"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ghidra"
+  ],
+  "isDeleted": false,
+  "startDate": "1991-01-01T00:00:00",
+  "endDate": null
+}

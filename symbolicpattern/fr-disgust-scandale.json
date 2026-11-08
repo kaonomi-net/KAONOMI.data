@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-scandale",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un fait qui choque la conscience.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:scandale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:scandaleu(x|se|ses|sement))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:scandalis([ée]|[ée]e|[ée]s|er)|honte\\s+nationale)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:affaire(s)?\\s+sordide(s)?)(?![\\w-])"
+  ],
+  "symbol": "scandale",
+  "event": null,
+  "title": "Scandale",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-recours-electoraux-apres-les-municipales",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Recours électoraux après les municipales",
+  "includedEntities": [
+    {
+      "entityName": "recours",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "municipales",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "tribunal administratif",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recours contre les résultats des municipales.",
+  "isFuzzy": true,
+  "locations": [
+    "Lyon"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "tribunaux administratifs",
+    "Conseil d'État",
+    "annulation"
+  ],
+  "questions": [
+    "Quel recours ?",
+    "Quelle décision ?",
+    "Une élection est-elle annulée ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MUNICIPALES",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

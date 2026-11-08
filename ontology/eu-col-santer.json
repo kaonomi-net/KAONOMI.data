@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la Commission européenne) : Commission Santer, collège des commissaires présidé par Jacques Santer, en fonction du 23 janvier 1995 au 15 mars 1999.",
+  "id": "eu-col-santer",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission Santer",
+  "entityType": "ORGANISATION",
+  "description": "Commission Santer, collège des commissaires présidé par Jacques Santer, en fonction du 23 janvier 1995 au 15 mars 1999.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-colleges",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Commission Santer » préparent les textes relatifs à la Commission européenne.",
+    "La délégation a rencontré des représentants de « Commission Santer ».",
+    "« Commission Santer » joue un rôle dans la Commission européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20Santer"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Jacques Santer",
+    "Commission européenne",
+    "Commission Delors",
+    "Commission Marín (intérim)",
+    "Présidence de la Commission (Commission Santer)",
+    "Euro et union économique et monétaire",
+    "Démission de la Commission Santer"
+  ],
+  "isDeleted": false,
+  "startDate": "1995-01-23T00:00:00",
+  "endDate": "1999-03-15T00:00:00"
+}

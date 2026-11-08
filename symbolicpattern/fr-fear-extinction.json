@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-extinction",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La disparition de l'humanité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:extinction(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:extinction\\s+de\\s+l['’]humanit[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:risque\\s+existentiel)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:menace\\s+existentielle)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fin\\s+de\\s+l['’]humanit[ée])(?![\\w-])"
+  ],
+  "symbol": "extinction",
+  "event": null,
+  "title": "Extinction",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

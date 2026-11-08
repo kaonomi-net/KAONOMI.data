@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-rapport-draghi-et-sa-mise-en-uvre",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Rapport Draghi et sa mise en œuvre",
+  "includedEntities": [
+    {
+      "entityName": "rapport Draghi",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "compétitivité",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la mise en œuvre des recommandations du rapport Draghi.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Mario Draghi",
+    "investissement",
+    "innovation"
+  ],
+  "questions": [
+    "Quel taux de mise en œuvre ?",
+    "Quelles mesures ?",
+    "Quelles critiques de Draghi ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMPETITIVITE",
+    "#DRAGHI"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

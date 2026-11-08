@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-droits-de-douane-sur-le-cognac",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Droits de douane sur le cognac",
+  "includedEntities": [
+    {
+      "entityName": "cognac",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "droits de douane",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les droits de douane sur le cognac et les spiritueux.",
+  "isFuzzy": true,
+  "locations": [
+    "Chine",
+    "États-Unis"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pernod Ricard",
+    "Rémy Cointreau",
+    "LVMH"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quel accord ?",
+    "Quel effet sur les ventes ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#SPIRITUEUX",
+    "#COMMERCE"
+  ],
+  "events": [
+    "@HAUSSE-TARIFS"
+  ],
+  "signals": [
+    "!TENSION-COMMERCIALE"
+  ],
+  "isDeleted": false
+}

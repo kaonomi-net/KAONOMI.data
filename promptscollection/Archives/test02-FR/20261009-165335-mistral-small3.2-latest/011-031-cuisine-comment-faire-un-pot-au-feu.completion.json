@@ -1,0 +1,13 @@
+{
+  "index": 11,
+  "file": "031-cuisine-comment-faire-un-pot-au-feu.prompt.json",
+  "prompt": "Comment faire un pot-au-feu ?",
+  "promptWords": 5,
+  "completion": "Le pot-au-feu est un classique de la cuisine française, réconfortant et savoureux. Voici une recette traditionnelle pour le préparer :\n\n### Ingrédients (pour 6 personnes) :\n- 1,5 kg de viande à pot-au-feu (gîte, joue, paleron, ou un mélange)\n- 4 carottes\n- 3 navets\n- 2 poireaux\n- 2 oignons\n- 2 branches de céleri\n- 1 bouquet garni (thym, laurier, persil)\n- 10 grains de poivre\n- 2 clous de girofle\n- Sel\n- Eau\n\n### Préparation :\n\n1. **Préparer la viande** :\n   - Rincez la viande sous l'eau froide et essuyez-la avec du papier absorbant.\n   - Coupez-la en gros morceaux.\n\n2. **Préparer les légumes** :\n   - Épluchez et lavez les carottes, navets, poireaux, oignons et céleri.\n   - Coupez les carottes, navets et poireaux en gros tronçons.\n   - Coupez les oignons en deux et piquez-les avec les clous de girofle.\n   - Gardez quelques branches de céleri et de poireaux pour la décoration.\n\n3. **Cuisson** :\n   - Dans une grande cocotte ou une marmite, placez la viande et couvrez d'eau froide.\n   - Portez à ébullition, écumez la surface pour enlever les impuretés.\n   - Ajoutez les légumes, le bouquet garni, les grains de poivre et les oignons piqués.\n   - Salez modérément (la viande va rendre du sel).\n   - Couvrez et laissez mijoter à feu doux pendant 3 à 4 heures (la viande doit être tendre et se détacher facilement).\n\n4. **Service** :\n   - Retirez la viande et les légumes avec une écumoire et disposez-les dans un plat.\n   - Filtrez le bouillon à travers une passoire fine pour enlever les petits débris.\n   - Servez le pot-au-feu avec des tranches de pain grillé et de la moutarde à l'ancienne.\n\n### Astuces :\n- Vous pouvez ajouter des pommes de terre coupées en deux pendant la dernière heure de cuisson.\n- Le bouillon peut être utilisé pour une soupe ou une sauce.\n\nBon appétit !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:55:26.9024532+02:00",
+  "durationSeconds": 11.32,
+  "stats": "mistral-small3.2:latest · 515 + 537 tokens · 11,3 s",
+  "isError": false,
+  "language": "FR"
+}

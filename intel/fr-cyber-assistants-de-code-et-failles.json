@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-assistants-de-code-et-failles",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Assistants de code et failles",
+  "includedEntities": [
+    {
+      "entityName": "assistants de code",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "failles",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "code généré",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les failles introduites par le code généré par IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "dépendances inventées",
+    "secrets",
+    "revue"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quelle faille ?",
+    "Quelle parade ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#APPSEC"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

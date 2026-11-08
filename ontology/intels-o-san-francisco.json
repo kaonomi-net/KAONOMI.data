@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-san-francisco",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "San Francisco",
+  "entityType": "CITY",
+  "description": "Cité par 10 intels : Lancement d'un nouveau modèle d'OpenAI ; Sortie d'un modèle Claude d'Anthropic ; Levée de fonds d'une startup d'IA ; Valorisation record d'OpenAI ; Partenariat Microsoft et OpenAI ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les annonces de nouveaux modèles GPT et leurs capacités annoncées.",
+    "Repérer les nouvelles versions de Claude et les changements de politique d'usage.",
+    "Suivre les levées de fonds des startups d'intelligence artificielle."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "San Francisco",
+  "tags": [
+    "#IA",
+    "#OPENAI",
+    "#LLM",
+    "#ANTHROPIC",
+    "#FINANCEMENT",
+    "#PERSONNALITE"
+  ],
+  "events": [
+    "@LEVEE-DE-FONDS",
+    "@LANCEMENT-MODELE",
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!STRATEGIE",
+    "!NOUVEAUTE",
+    "!INVESTISSEMENT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OpenAI",
+    "Microsoft",
+    "Sam Altman",
+    "Anthropic",
+    "ChatGPT",
+    "Amazon",
+    "Claude",
+    "Dario Amodei",
+    "Google",
+    "valorisation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

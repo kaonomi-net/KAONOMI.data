@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (les services financiers) : Règlement (UE) 2022/2554.",
+  "id": "eu-pol-dora",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Règlement sur la résilience opérationnelle numérique du secteur financier",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2022/2554.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "« Règlement sur la résilience opérationnelle numérique du secteur financier » relève de les services financiers.",
+    "« Règlement sur la résilience opérationnelle numérique du secteur financier » a fait l'objet de longues négociations.",
+    "Les entreprises doivent tenir compte de « Règlement sur la résilience opérationnelle numérique du secteur financier »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "DORA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#SERVICESFINANCIERS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A8glement%20sur%20la%20r%C3%A9silience%20op%C3%A9rationnelle%20num%C3%A9rique%20du%20secteur%20financier"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Services financiers",
+    "Cybersécurité",
+    "Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-12-14T00:00:00",
+  "endDate": null
+}

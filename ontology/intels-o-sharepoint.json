@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sharepoint",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "SharePoint",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 1 intel : Microsoft SharePoint.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre les vulnérabilités de SharePoint, dont la zero-day exploitée de juillet 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "SharePoint",
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#MICROSOFT"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "exécution de code",
+    "vulnérabilité",
+    "correctifs",
+    "serveurs sur site"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

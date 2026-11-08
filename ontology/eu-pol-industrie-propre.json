@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la politique industrielle) : Plan pour la décarbonation et la compétitivité de l'industrie.",
+  "id": "eu-pol-industrie-propre",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Pacte pour une industrie propre",
+  "entityType": "LAW",
+  "description": "Plan pour la décarbonation et la compétitivité de l'industrie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Pacte pour une industrie propre ».",
+    "La mise en œuvre de « Pacte pour une industrie propre » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Pacte pour une industrie propre »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "Clean Industrial Deal"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#POLITIQUEINDUSTRIELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pacte%20pour%20une%20industrie%20propre"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Industrie",
+    "Action pour le climat",
+    "Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME",
+    "Commission von der Leyen II"
+  ],
+  "isDeleted": false,
+  "startDate": "2025-02-26T00:00:00",
+  "endDate": null
+}

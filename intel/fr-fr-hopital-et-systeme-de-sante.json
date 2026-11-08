@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-hopital-et-systeme-de-sante",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Hôpital et système de santé",
+  "includedEntities": [
+    {
+      "entityName": "hôpital",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "santé",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "urgences",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation des hôpitaux et des urgences.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "hiver"
+  ],
+  "relatedEntities": [
+    "soignants",
+    "déserts médicaux",
+    "budget"
+  ],
+  "questions": [
+    "Quelles fermetures ?",
+    "Quel manque de soignants ?",
+    "Quelles mesures ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SANTE",
+    "#SOCIAL"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-defaillance",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'incapacité d'une entreprise à faire face.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]faillance(s)?\\s+d['’]entreprise(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]faillance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]faut\\s+souverain)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:faillite(s)?\\s+en\\s+cascade)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:effet\\s+domino)(?![\\w-])"
+  ],
+  "symbol": "défaillance",
+  "event": null,
+  "title": "Défaillance",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

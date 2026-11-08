@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-de-drones-sur-les-raffineries-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes de drones sur les raffineries russes",
+  "includedEntities": [
+    {
+      "entityName": "raffinerie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "drones",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques de drones ukrainiens contre les raffineries russes.",
+  "isFuzzy": true,
+  "locations": [
+    "Krasnodar",
+    "Samara",
+    "Volgograd"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "carburant",
+    "exportations",
+    "prix"
+  ],
+  "questions": [
+    "Quelle raffinerie ?",
+    "Quels dégâts ?",
+    "Quel impact sur la production ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ENERGIE",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE-ENERGIE"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

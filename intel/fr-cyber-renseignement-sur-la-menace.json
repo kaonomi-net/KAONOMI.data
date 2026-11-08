@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-renseignement-sur-la-menace",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Renseignement sur la menace",
+  "includedEntities": [
+    {
+      "entityName": "renseignement sur la menace",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "threat intelligence",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les publications de renseignement sur la menace.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "indicateurs",
+    "rapports",
+    "groupes"
+  ],
+  "questions": [
+    "Quel rapport ?",
+    "Quel groupe ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#THREAT-INTELLIGENCE"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!VEILLE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-mort-de-soldats-russes-dans-les-regions",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Mort de soldats russes dans les régions",
+  "includedEntities": [
+    {
+      "entityName": "morts",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "soldats russes",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Mediazona",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décomptes de soldats russes tués établis par les médias indépendants.",
+  "isFuzzy": true,
+  "locations": [
+    "régions russes"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "BBC russe",
+    "Mediazona",
+    "avis de décès"
+  ],
+  "questions": [
+    "Quel nouveau décompte ?",
+    "Quelles régions les plus touchées ?",
+    "Quel profil ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#PERTES",
+    "#SOCIETE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "isDeleted": false
+}

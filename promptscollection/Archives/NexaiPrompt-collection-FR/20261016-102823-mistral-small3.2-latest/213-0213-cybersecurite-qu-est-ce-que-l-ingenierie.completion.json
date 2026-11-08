@@ -1,0 +1,13 @@
+{
+  "index": 213,
+  "file": "0213-cybersecurite-qu-est-ce-que-l-ingenierie.prompt.json",
+  "prompt": "Qu'est-ce que l'ingénierie sociale ?",
+  "promptWords": 5,
+  "completion": "L'ingénierie sociale, également connue sous le nom de *social engineering* en anglais, est une technique utilisée pour manipuler psychologiquement des individus afin de les amener à divulguer des informations confidentielles ou à accomplir des actions qui compromettent la sécurité d'un système, d'une organisation ou d'une personne.\n\nContrairement aux attaques techniques qui exploitent des vulnérabilités logicielles ou matérielles, l'ingénierie sociale repose sur la tromperie et la manipulation des comportements humains. Les attaquants exploitent souvent la confiance, la peur, l'urgence ou l'ignorance de leurs victimes pour atteindre leurs objectifs.\n\n### Exemples courants d'ingénierie sociale :\n1. **Hameçonnage (Phishing)** : Envoi de faux e-mails ou messages imitant une source légitime pour inciter la victime à révéler des informations sensibles (mots de passe, numéros de carte de crédit, etc.).\n2. **Usurpation d'identité (Pretexting)** : Création d'un scénario crédible pour obtenir des informations (par exemple, se faire passer pour un employé d'une entreprise ou un représentant d'un service technique).\n3. **Attaques par ingénierie sociale physique** : Accès non autorisé à un bâtiment en se faisant passer pour un livreur, un technicien, etc.\n4. **Baiting (Appâtage)** : Offrir un appât (comme une clé USB infectée) pour inciter la victime à l'utiliser, permettant ainsi l'installation de logiciels malveillants.\n\n### Comment se protéger ?\n- **Sensibilisation** : Former les employés et les utilisateurs aux techniques d'ingénierie sociale.\n- **Vérification** : Ne pas répondre immédiatement aux demandes d'informations sensibles, surtout si elles proviennent de sources inconnues.\n- **Politiques de sécurité** : Mettre en place des protocoles stricts pour la gestion des informations sensibles.\n- **Outils technologiques** : Utiliser des logiciels de détection des menaces et des filtres anti-spam.\n\nL'ingénierie sociale est une menace majeure pour la cybersécurité car elle cible le facteur humain, souvent considéré comme le maillon faible d'un système de sécurité.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:05:27.419843+02:00",
+  "durationSeconds": 9.75,
+  "stats": "mistral-small3.2:latest · 518 + 475 tokens · 9,7 s",
+  "isError": false,
+  "language": "FR"
+}

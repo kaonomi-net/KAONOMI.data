@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-publication-d-un-modele-llama-de-meta",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Publication d'un modèle Llama de Meta",
+  "includedEntities": [
+    {
+      "entityName": "Llama",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Meta",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les versions de Llama et les conditions de leur licence.",
+  "isFuzzy": false,
+  "locations": [
+    "Menlo Park"
+  ],
+  "times": [
+    "jour de publication"
+  ],
+  "relatedEntities": [
+    "Mark Zuckerberg",
+    "Yann LeCun",
+    "Hugging Face"
+  ],
+  "questions": [
+    "Les poids sont-ils ouverts ?",
+    "Quelles restrictions d'usage ?",
+    "Quelle taille ?"
+  ],
+  "tags": [
+    "#IA",
+    "#LLM",
+    "#META",
+    "#OPEN-SOURCE"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!NOUVEAUTE"
+  ],
+  "isDeleted": false
+}

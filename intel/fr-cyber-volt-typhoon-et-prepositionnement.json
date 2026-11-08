@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-volt-typhoon-et-prepositionnement",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Volt Typhoon et prépositionnement",
+  "includedEntities": [
+    {
+      "entityName": "Volt Typhoon",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "infrastructures",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le prépositionnement chinois dans les infrastructures critiques.",
+  "isFuzzy": true,
+  "locations": [
+    "États-Unis",
+    "Pacifique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "eau",
+    "énergie",
+    "Taïwan"
+  ],
+  "questions": [
+    "Quelle infrastructure ?",
+    "Quelle découverte ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CHINE",
+    "#INFRASTRUCTURES"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

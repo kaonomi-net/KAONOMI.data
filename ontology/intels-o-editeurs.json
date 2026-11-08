@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-editeurs",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "éditeurs",
+  "entityType": "PROFESSION",
+  "description": "Cité par 8 intels : Droit d'auteur et entraînement des modèles ; Livres et confidences de candidats ; Déchiffreur gratuit ; Divulgation responsable ; Détection et réponse EDR ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Surveiller les litiges sur l'usage d'œuvres protégées pour entraîner les IA.",
+    "Repérer les livres publiés par les candidats ou sur eux.",
+    "Repérer la publication d'outils de déchiffrement gratuits pour les victimes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "éditeurs",
+  "tags": [
+    "#IA",
+    "#CYBERSECURITE",
+    "#PSYCHOLOGIE",
+    "#DEFENSE",
+    "#DROIT-AUTEUR",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@PROCES",
+    "@OUTIL-PUBLIE"
+  ],
+  "signals": [
+    "!DEFENSE",
+    "!RISQUE",
+    "!RISQUE-JURIDIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "procès",
+    "artistes",
+    "droit d'auteur",
+    "New York Times",
+    "entraînement",
+    "promotion",
+    "livre",
+    "candidat",
+    "révélations",
+    "déchiffreur"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

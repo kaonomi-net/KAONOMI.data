@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-rancongiciel",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un logiciel qui bloque les données contre rançon.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ran[çc]ongiciel(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ransomware(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:donn[ée]es\\s+chiffr[ée]es)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:demande\\s+de\\s+ran[çc]on)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:logiciel(s)?\\s+malveillant(s)?)(?![\\w-])"
+  ],
+  "symbol": "rançongiciel",
+  "event": null,
+  "title": "Rançongiciel",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

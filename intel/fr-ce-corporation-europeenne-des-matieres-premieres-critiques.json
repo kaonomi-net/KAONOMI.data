@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-corporation-europeenne-des-matieres-premieres-critiques",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Corporation européenne des matières premières critiques",
+  "includedEntities": [
+    {
+      "entityName": "matières premières critiques",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "corporation européenne",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la création d'une entité européenne pour les matières premières critiques.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "2027"
+  ],
+  "relatedEntities": [
+    "stocks",
+    "achats communs",
+    "Chine"
+  ],
+  "questions": [
+    "Quel statut ?",
+    "Quel budget ?",
+    "Quels achats ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MATIERES-PREMIERES",
+    "#PROGRAMME-2027"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

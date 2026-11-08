@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-valorisation-d-openai-et-d-anthropic",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Valorisation d'OpenAI et d'Anthropic",
+  "includedEntities": [
+    {
+      "entityName": "OpenAI",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Anthropic",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "valorisation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les levées de fonds et projets d'introduction en Bourse des laboratoires d'IA.",
+  "isFuzzy": true,
+  "locations": [
+    "San Francisco"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Microsoft",
+    "Amazon",
+    "Google"
+  ],
+  "questions": [
+    "Quelle valorisation ?",
+    "Quelle introduction en Bourse ?",
+    "Quel effet sur le marché ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#IA",
+    "#VALORISATION"
+  ],
+  "events": [
+    "@LEVEE-DE-FONDS"
+  ],
+  "signals": [
+    "!VALORISATION"
+  ],
+  "isDeleted": false
+}

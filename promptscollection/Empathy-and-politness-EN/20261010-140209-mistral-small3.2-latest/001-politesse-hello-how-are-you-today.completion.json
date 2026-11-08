@@ -1,0 +1,13 @@
+{
+  "index": 1,
+  "file": "001-politesse-hello-how-are-you-today.prompt.json",
+  "prompt": "Hello, how are you today?",
+  "promptWords": 5,
+  "completion": "Hello! I'm just a computer program, so I don't have feelings, but I'm here and ready to help you with anything you need. How can I assist you today?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:02:09.9475976+02:00",
+  "durationSeconds": 3.41,
+  "stats": "mistral-small3.2:latest · 514 + 38 tokens · 3,4 s",
+  "isError": false,
+  "language": "EN"
+}

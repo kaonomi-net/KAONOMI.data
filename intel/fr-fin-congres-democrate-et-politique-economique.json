@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-congres-democrate-et-politique-economique",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Congrès démocrate et politique économique",
+  "includedEntities": [
+    {
+      "entityName": "Congrès",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "démocrates",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les effets d'un Congrès démocrate sur la politique économique américaine.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [
+    "après le 4 novembre 2026"
+  ],
+  "relatedEntities": [
+    "Trump",
+    "droits de douane",
+    "centres de données"
+  ],
+  "questions": [
+    "Quelle mesure bloquée ?",
+    "Quel compromis ?",
+    "Quel effet sur les marchés ?"
+  ],
+  "tags": [
+    "#ECONOMIE",
+    "#ETATS-UNIS",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!INCERTITUDE"
+  ],
+  "isDeleted": false
+}

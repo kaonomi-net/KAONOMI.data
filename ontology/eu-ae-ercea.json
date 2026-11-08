@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la recherche) : Agence exécutive du Conseil européen de la recherche, agence exécutive installée à Bruxelles qui gère des programmes pour la Commission.",
+  "id": "eu-ae-ercea",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence exécutive du Conseil européen de la recherche (ERCEA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence exécutive du Conseil européen de la recherche, agence exécutive installée à Bruxelles qui gère des programmes pour la Commission.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences-executives",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Agence exécutive du Conseil européen de la recherche (ERCEA) ».",
+    "Les décisions de « Agence exécutive du Conseil européen de la recherche (ERCEA) » touchent la recherche.",
+    "Le rapport annuel de « Agence exécutive du Conseil européen de la recherche (ERCEA) » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ERCEA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#RECHERCHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20ex%C3%A9cutive%20du%20Conseil%20europ%C3%A9en%20de%20la%20recherche%20%28ERCEA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de la recherche et de l'innovation",
+    "Bruxelles",
+    "Recherche",
+    "Horizon Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-avions-russes-pres-de-l-espace-aerien-de-l-otan",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Avions russes près de l'espace aérien de l'OTAN",
+  "includedEntities": [
+    {
+      "entityName": "avions russes",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "interception",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "OTAN",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les interceptions d'avions militaires russes par l'OTAN.",
+  "isFuzzy": true,
+  "locations": [
+    "mer Baltique",
+    "mer Noire",
+    "mer du Nord"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "chasseurs",
+    "police du ciel",
+    "transpondeurs"
+  ],
+  "questions": [
+    "Combien d'interceptions ?",
+    "Quels appareils ?",
+    "Quelle violation ?"
+  ],
+  "tags": [
+    "#OTAN",
+    "#RUSSIE",
+    "#ESPACE-AERIEN"
+  ],
+  "events": [
+    "@INTERCEPTION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 15,
+  "file": "035-cuisine-quelle-est-la-recette-de-la.prompt.json",
+  "prompt": "Quelle est la recette de la blanquette de veau ?",
+  "promptWords": 10,
+  "completion": "La blanquette de veau est un classique de la cuisine française. Voici une recette traditionnelle :\n\n### Ingrédients (pour 4 personnes) :\n- 800 g d'épaule ou de collier de veau\n- 2 oignons\n- 2 carottes\n- 2 branches de céleri\n- 1 bouquet garni (thym, laurier, persil)\n- 20 g de beurre\n- 2 cuillères à soupe de farine\n- 25 cl de vin blanc sec\n- 50 cl de bouillon de volaille\n- 20 cl de crème fraîche\n- 1 citron (zeste)\n- Sel et poivre\n- 200 g de petits pois (frais ou surgelés)\n- 200 g de champignons de Paris émincés\n\n### Préparation :\n\n1. **Préparation de la viande** :\n   - Coupez la viande en gros cubes.\n   - Dans une cocotte, faites fondre le beurre et faites dorer les morceaux de veau à feu moyen. Retirez-les et réservez.\n\n2. **Préparation des légumes** :\n   - Dans la même cocotte, faites revenir les oignons émincés, les carottes et le céleri coupés en rondelles.\n   - Ajoutez la farine et mélangez bien pour former un roux.\n\n3. **Cuisson** :\n   - Remettez la viande dans la cocotte et ajoutez le vin blanc. Laissez réduire à feu doux.\n   - Ajoutez le bouillon de volaille, le bouquet garni, le zeste de citron, salez et poivrez.\n   - Couvrez et laissez mijoter à feu doux pendant environ 1h30 (jusqu'à ce que la viande soit tendre).\n\n4. **Préparation des accompagnements** :\n   - Pendant ce temps, faites revenir les champignons à la poêle avec un peu de beurre.\n   - Faites cuire les petits pois à part (à l'eau ou à la vapeur).\n\n5. **Finalisation** :\n   - Retirez le bouquet garni.\n   - Ajoutez la crème fraîche et mélangez bien.\n   - Goûtez et rectifiez l'assaisonnement si nécessaire.\n\n6. **Service** :\n   - Servez la blanquette de veau bien chaude, accompagnée des champignons et des petits pois.\n\nBon appétit !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T18:18:02.8300451+02:00",
+  "durationSeconds": 11.79,
+  "stats": "mistral-small3.2:latest · 521 + 539 tokens · 11,8 s",
+  "isError": false,
+  "language": "FR"
+}

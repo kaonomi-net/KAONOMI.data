@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Dreptate și Frăție, parti ou liste de ce pays : Roumanie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-ro-dreptate-si-fratie",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Dreptate și Frăție",
+  "entityType": "ORGANISATION",
+  "description": "Dreptate și Frăție, parti ou liste de ce pays : Roumanie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "« Dreptate și Frăție » compte des élus au Parlement européen.",
+    "La presse a commenté le score de « Dreptate și Frăție » aux élections européennes.",
+    "Les positions de « Dreptate și Frăție » sont suivies à Bruxelles et à Strasbourg."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Dreptate%20%C8%99i%20Fr%C4%83%C8%9Bie"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Luis-Vicențiu Lazarus",
+    "Roumanie",
+    "Non-inscrits"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

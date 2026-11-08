@@ -1,0 +1,13 @@
+{
+  "index": 172,
+  "file": "0172-microsoft-office-comment-utiliser-les-categories-de-couleur.prompt.json",
+  "prompt": "Comment utiliser les catégories de couleur dans Outlook ?",
+  "promptWords": 9,
+  "completion": "Les catégories de couleur dans Outlook sont un excellent moyen d'organiser et de prioriser vos emails, tâches et rendez-vous. Voici comment les utiliser :\n\n### **1. Créer des catégories de couleur**\n1. **Ouvrez Outlook** et allez dans l'onglet **\"Accueil\"**.\n2. Cliquez sur **\"Catégorie\"** dans le groupe **\"Tags\"**.\n3. Sélectionnez **\"Toutes les catégories\"** (ou **\"Gestion des catégories\"** selon la version).\n4. Dans la fenêtre qui s'ouvre, cliquez sur **\"Nouveau\"**.\n5. Donnez un nom à votre catégorie (ex: \"Urgent\", \"Travail\", \"Perso\").\n6. Choisissez une couleur dans la liste déroulante.\n7. Cliquez sur **\"OK\"** pour enregistrer.\n\n### **2. Appliquer une catégorie à un email, une tâche ou un rendez-vous**\n1. **Pour un email** :\n   - Sélectionnez l'email dans votre boîte de réception.\n   - Allez dans l'onglet **\"Accueil\"**, puis cliquez sur **\"Catégorie\"**.\n   - Choisissez la catégorie souhaitée.\n\n2. **Pour une tâche ou un rendez-vous** :\n   - Ouvrez la tâche ou le rendez-vous.\n   - Dans l'onglet **\"Accueil\"**, cliquez sur **\"Catégorie\"**.\n   - Sélectionnez la catégorie appropriée.\n\n### **3. Afficher les emails par catégorie**\n1. Allez dans votre boîte de réception.\n2. Dans le volet de navigation (à gauche), développez **\"Catégories\"**.\n3. Cliquez sur la catégorie que vous souhaitez afficher.\n\n### **4. Modifier ou supprimer une catégorie**\n1. Allez dans **\"Accueil\"** > **\"Catégorie\"** > **\"Toutes les catégories\"**.\n2. Sélectionnez la catégorie à modifier ou supprimer.\n3. Cliquez sur **\"Modifier\"** ou **\"Supprimer\"**.\n\n### **5. Utiliser les catégories avec des règles automatiques**\nVous pouvez également configurer des règles pour appliquer automatiquement des catégories à certains emails :\n1. Allez dans **\"Fichier\"** > **\"Règles et alertes\"**.\n2. Cliquez sur **\"Nouvelle règle\"**.\n3. Choisissez **\"Appliquer une catégorie de couleur\"** comme action.\n4. Définissez les conditions et cliquez sur **\"OK\"**.\n\nCes fonctionnalités vous aideront à mieux organiser votre boîte de réception et à gérer votre temps plus efficacement. \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:59:06.6589179+02:00",
+  "durationSeconds": 10.94,
+  "stats": "mistral-small3.2:latest · 516 + 544 tokens · 10,9 s",
+  "isError": false,
+  "language": "FR"
+}

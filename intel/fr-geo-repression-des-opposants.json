@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-repression-des-opposants",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Répression des opposants",
+  "includedEntities": [
+    {
+      "entityName": "opposants",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "arrestations",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "répression",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les arrestations et poursuites d'opposants politiques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ONG",
+    "droits de l'homme",
+    "justice"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Qui est arrêté ?",
+    "Quelle réaction internationale ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#DROITS-HUMAINS",
+    "#LIBERTES"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

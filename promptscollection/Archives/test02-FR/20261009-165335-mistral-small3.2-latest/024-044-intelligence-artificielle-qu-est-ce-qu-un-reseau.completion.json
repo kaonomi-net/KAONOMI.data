@@ -1,0 +1,13 @@
+{
+  "index": 24,
+  "file": "044-intelligence-artificielle-qu-est-ce-qu-un-reseau.prompt.json",
+  "prompt": "Qu'est-ce qu'un réseau de neurones ?",
+  "promptWords": 6,
+  "completion": "Un réseau de neurones est un modèle informatique inspiré du fonctionnement du cerveau humain. Il est constitué de couches de neurones artificiels, qui sont des unités de calcul simples, organisées en couches. Chaque neurone reçoit des entrées, les traite avec des poids et des biais, puis produit une sortie qui est transmise aux neurones de la couche suivante.\n\nLes réseaux de neurones sont utilisés dans le cadre de l'apprentissage automatique (machine learning) et de l'intelligence artificielle (IA) pour résoudre des problèmes complexes tels que la reconnaissance d'images, la traduction automatique, la prédiction de séries temporelles, et bien plus encore.\n\nIl existe plusieurs types de réseaux de neurones, notamment :\n\n1. **Les réseaux de neurones feedforward (ou perceptrons multicouches)** : Les données traversent le réseau dans une seule direction, de l'entrée à la sortie.\n2. **Les réseaux de neurones récurrents (RNN)** : Utilisés pour traiter des séquences de données, comme le texte ou les séries temporelles.\n3. **Les réseaux de neurones convolutifs (CNN)** : Spécialisés dans le traitement des images et des vidéos.\n4. **Les réseaux de neurones à long terme (LSTM)** : Une variante des RNN conçue pour mieux gérer les dépendances à long terme dans les séquences.\n\nLes réseaux de neurones apprennent à partir de données en ajustant les poids et les biais des neurones pour minimiser une fonction de coût, généralement à l'aide d'algorithmes d'optimisation comme la descente de gradient stochastique.\n\nSi vous avez des questions plus spécifiques sur les réseaux de neurones, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:57:54.3414359+02:00",
+  "durationSeconds": 7.86,
+  "stats": "mistral-small3.2:latest · 517 + 358 tokens · 7,9 s",
+  "isError": false,
+  "language": "FR"
+}

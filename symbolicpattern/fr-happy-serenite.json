@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-serenite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un calme intérieur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:s[ée]r[ée]nit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:serein(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:apais[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:qui[ée]tude(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:zen)(?![\\w-])"
+  ],
+  "symbol": "sérénité",
+  "event": null,
+  "title": "Sérénité",
+  "tags": [
+    "#BIENETRE",
+    "#PAIX"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

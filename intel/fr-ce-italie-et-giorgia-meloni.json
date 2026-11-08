@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-italie-et-giorgia-meloni",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Italie et Giorgia Meloni",
+  "includedEntities": [
+    {
+      "entityName": "Italie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Giorgia Meloni",
+      "entityWeight": "60"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les relations entre le gouvernement italien et la Commission.",
+  "isFuzzy": true,
+  "locations": [
+    "Rome"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "migrations",
+    "budget",
+    "PPE"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quel désaccord ?",
+    "Quelle alliance ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ITALIE",
+    "#MELONI"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

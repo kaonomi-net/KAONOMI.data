@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-jeunesse",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le temps de la vie où l'on est jeune.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:jeunesse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:juv[ée]nile(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fra[îi]cheur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:printemps\\s+de\\s+la\\s+vie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:jeune(s)?\\s+et\\s+plein(e|s|es)?\\s+d['’][ée]nergie)(?![\\w-])"
+  ],
+  "symbol": "jeunesse",
+  "event": null,
+  "title": "Jeunesse",
+  "tags": [
+    "#VIE",
+    "#ENFANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

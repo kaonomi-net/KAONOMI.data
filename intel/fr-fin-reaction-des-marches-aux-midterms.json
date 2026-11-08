@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-reaction-des-marches-aux-midterms",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Réaction des marchés aux midterms",
+  "includedEntities": [
+    {
+      "entityName": "midterms",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "marchés",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "démocrates",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la réaction des marchés à la victoire démocrate aux élections de mi-mandat du 4 novembre 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "New York",
+    "Paris"
+  ],
+  "times": [
+    "4 novembre 2026"
+  ],
+  "relatedEntities": [
+    "Congrès",
+    "Trump",
+    "taux"
+  ],
+  "questions": [
+    "Quel mouvement ?",
+    "Quels secteurs gagnants ?",
+    "Quels secteurs perdants ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#ETATS-UNIS",
+    "#ELECTIONS"
+  ],
+  "events": [
+    "@ELECTION"
+  ],
+  "signals": [
+    "!MARCHE"
+  ],
+  "isDeleted": false
+}

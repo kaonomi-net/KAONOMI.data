@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-taxe-sur-les-transactions-financieres",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Taxe sur les transactions financières",
+  "includedEntities": [
+    {
+      "entityName": "taxe sur les transactions financières",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "taxe",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les taxes sur les transactions boursières.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "taxe boursière",
+    "rendement",
+    "budget"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quelle hausse ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#FISCALITE"
+  ],
+  "events": [],
+  "signals": [
+    "!FISCALITE"
+  ],
+  "isDeleted": false
+}

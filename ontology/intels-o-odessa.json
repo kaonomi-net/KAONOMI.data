@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-odessa",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "Odessa",
+  "entityType": "CITY",
+  "description": "Cité par 5 intels : Coupures d'électricité en Ukraine ; Frappes sur Odessa et les ports ; Corridor céréalier de la mer Noire ; Navires marchands visés en mer Noire ; Sécurité en mer Noire.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les coupures de courant programmées et d'urgence.",
+    "Surveiller les frappes sur Odessa et les infrastructures portuaires.",
+    "Suivre le fonctionnement du corridor maritime ukrainien."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Odessa",
+  "tags": [
+    "#UKRAINE",
+    "#MARITIME",
+    "#MER-NOIRE",
+    "#ENERGIE",
+    "#CIVILS",
+    "#ODESSA"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME",
+    "@COUPURE",
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!TENSION-ENERGETIQUE",
+    "!SECURITE-ALIMENTAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "mer Noire",
+    "navires",
+    "port",
+    "céréales",
+    "Bosphore",
+    "Kyiv",
+    "horaires de coupure",
+    "délestage",
+    "Ukrenergo",
+    "coupures"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-crise-alimentaire-mondiale",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Crise alimentaire mondiale",
+  "includedEntities": [
+    {
+      "entityName": "crise alimentaire",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "famine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "prix",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller l'insécurité alimentaire liée aux conflits et au climat.",
+  "isFuzzy": true,
+  "locations": [
+    "Afrique",
+    "Moyen-Orient"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Programme alimentaire mondial",
+    "sécheresse",
+    "céréales"
+  ],
+  "questions": [
+    "Quels pays touchés ?",
+    "Combien de personnes ?",
+    "Quelle aide ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ALIMENTATION",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@ALERTE-HUMANITAIRE"
+  ],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

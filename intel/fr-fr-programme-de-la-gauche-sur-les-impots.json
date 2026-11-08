@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-programme-de-la-gauche-sur-les-impots",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Programme de la gauche sur les impôts",
+  "includedEntities": [
+    {
+      "entityName": "gauche",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "impôts",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "taxe Zucman",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les propositions fiscales de la gauche.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ultrariches",
+    "patrimoine",
+    "ISF"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel rendement attendu ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#GAUCHE",
+    "#FISCALITE"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

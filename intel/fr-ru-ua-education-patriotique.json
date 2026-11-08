@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-education-patriotique",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Éducation patriotique",
+  "includedEntities": [
+    {
+      "entityName": "éducation patriotique",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "écoles",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "jeunesse",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la militarisation de l'éducation en Russie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "rentrée scolaire"
+  ],
+  "relatedEntities": [
+    "Iounarmia",
+    "manuels",
+    "vétérans"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quels contenus ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#EDUCATION",
+    "#PROPAGANDE"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 87,
+  "file": "087-interet-pour-le-llm-est-ce-que-vous-aimez-la.prompt.json",
+  "prompt": "Est-ce que vous aimez la musique ?",
+  "promptWords": 7,
+  "completion": "Je n'ai pas de préférences personnelles, mais je peux vous aider à trouver des informations sur la musique, des recommandations, ou même discuter des artistes et des genres que vous aimez. Vous avez un style de musique préféré ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:46.7867786+02:00",
+  "durationSeconds": 1.19,
+  "stats": "mistral-small3.2:latest · 516 + 49 tokens · 1,2 s",
+  "isError": false,
+  "language": "FR"
+}

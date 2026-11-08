@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (la cryptographie à clé publique) : La rubrique de Martin Gardner dans Scientific American fait connaître RSA et lance un défi de déchiffrement.",
+  "id": "cyber-rsa-publication",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Publication de RSA",
+  "entityType": "EVENT",
+  "description": "La rubrique de Martin Gardner dans Scientific American fait connaître RSA et lance un défi de déchiffrement.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "L'événement « Publication de RSA » a marqué durablement l'histoire de la cryptographie à clé publique.",
+    "La frise chronologique de la salle de formation place « Publication de RSA » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Publication de RSA »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "défi RSA de 1977"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#CRYPTOGRAPHIEACLEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Publication%20de%20RSA"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "RSA"
+  ],
+  "isDeleted": false,
+  "startDate": "1977-08-01T00:00:00",
+  "endDate": "1977-08-01T00:00:00"
+}

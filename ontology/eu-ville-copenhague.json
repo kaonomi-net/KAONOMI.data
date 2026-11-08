@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ville de l'Union européenne (la géographie européenne) : Copenhague, capitale de ce pays : Danemark.",
+  "id": "eu-ville-copenhague",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "Copenhague",
+  "entityType": "CITY",
+  "description": "Copenhague, capitale de ce pays : Danemark.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-villes",
+  "sentencesExemples": [
+    "Copenhague apparaît sur la carte des implantations de l'Union.",
+    "La délégation s'est rendue à Copenhague.",
+    "La réunion s'est tenue à Copenhague."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFD9",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#CITY",
+    "#GEOGRAPHIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Copenhague"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Danemark",
+    "Agence européenne pour l'environnement (AEE)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

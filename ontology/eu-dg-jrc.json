@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la recherche) : Centre commun de recherche (JRC), service de la Commission européenne compétent pour la recherche, placé sous l'autorité de Ekaterina Zaharieva dans la Commission von der Leyen II.",
+  "id": "eu-dg-jrc",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Centre commun de recherche",
+  "entityType": "ORGANISATION",
+  "description": "Centre commun de recherche (JRC), service de la Commission européenne compétent pour la recherche, placé sous l'autorité de Ekaterina Zaharieva dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Les décisions de « Centre commun de recherche » touchent la recherche.",
+    "Le rapport annuel de « Centre commun de recherche » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Centre commun de recherche »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "JRC"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#RECHERCHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Centre%20commun%20de%20recherche"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chercheur",
+    "Commission européenne",
+    "Ekaterina Zaharieva",
+    "Recherche",
+    "Ispra",
+    "Geel",
+    "Karlsruhe",
+    "Petten",
+    "Séville"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

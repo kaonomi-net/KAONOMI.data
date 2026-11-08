@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-marche-unique-et-barrieres-internes",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Marché unique et barrières internes",
+  "includedEntities": [
+    {
+      "entityName": "marché unique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "barrières",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les efforts pour supprimer les barrières du marché unique.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "services",
+    "États membres",
+    "stratégie"
+  ],
+  "questions": [
+    "Quelle barrière ?",
+    "Quelle mesure ?",
+    "Quel blocage national ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MARCHE-UNIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!COMPETITIVITE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 34,
+  "file": "0034-architecture-entreprise-explain-business-capability-mapping-in-simple.prompt.json",
+  "prompt": "Explain business capability mapping in simple terms.",
+  "promptWords": 7,
+  "completion": "Business capability mapping is like creating a detailed map of all the things a business can do to achieve its goals. Think of it like a blueprint that shows all the different skills, processes, and resources a company has, and how they work together.\n\nHere’s a simple breakdown:\n\n1. **What is a Business Capability?**\n   - A business capability is a specific ability or skill that a company has. For example, \"customer service,\" \"product development,\" or \"financial management\" are all capabilities.\n\n2. **Why Map Capabilities?**\n   - It helps a company understand what it’s good at and where it might need improvement.\n   - It makes it easier to plan for the future, like adding new services or improving existing ones.\n   - It helps different teams work better together by showing how their skills connect.\n\n3. **How Does It Work?**\n   - You list all the capabilities the business has (like a menu of what it can do).\n   - You organize them in a way that shows how they support the company’s goals.\n   - You might also note which teams or departments are responsible for each capability.\n\n4. **Example:**\n   - If a company sells software, its capabilities might include:\n     - Developing software\n     - Marketing the product\n     - Handling customer support\n     - Managing finances\n\nBy mapping these out, the company can see where it excels and where it might need to invest more resources.\n\nIn short, business capability mapping is a way to organize and understand all the things a business can do to succeed.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:10:03.5058882+02:00",
+  "durationSeconds": 7.49,
+  "stats": "mistral-small3.2:latest · 516 + 319 tokens · 7,5 s",
+  "isError": false,
+  "language": "EN"
+}

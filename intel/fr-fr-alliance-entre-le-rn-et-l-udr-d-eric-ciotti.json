@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-alliance-entre-le-rn-et-l-udr-d-eric-ciotti",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Alliance entre le RN et l'UDR d'Éric Ciotti",
+  "includedEntities": [
+    {
+      "entityName": "Éric Ciotti",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "UDR",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "alliance",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'alliance entre le RN et le parti d'Éric Ciotti.",
+  "isFuzzy": true,
+  "locations": [
+    "Nice"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Rassemblement national",
+    "Les Républicains",
+    "municipales"
+  ],
+  "questions": [
+    "Quels accords ?",
+    "Quels candidats communs ?",
+    "Quelles tensions ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#DROITE"
+  ],
+  "events": [],
+  "signals": [
+    "!ALLIANCE"
+  ],
+  "isDeleted": false
+}

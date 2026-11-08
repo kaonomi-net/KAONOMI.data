@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-ministre-de-l-interieur",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Ministre de l'Intérieur",
+  "includedEntities": [
+    {
+      "entityName": "ministre de l'Intérieur",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Beauvau",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions et déclarations du ministre de l'Intérieur.",
+  "isFuzzy": true,
+  "locations": [
+    "Beauvau"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "police",
+    "immigration",
+    "sécurité"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quelle mesure ?",
+    "Quelle polémique ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SECURITE",
+    "#GOUVERNEMENT"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!SECURITE"
+  ],
+  "isDeleted": false
+}

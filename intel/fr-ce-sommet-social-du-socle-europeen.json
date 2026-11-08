@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-sommet-social-du-socle-europeen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Sommet social du socle européen",
+  "includedEntities": [
+    {
+      "entityName": "sommet social",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "socle européen des droits sociaux",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le sommet social pour les dix ans du socle européen des droits sociaux.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "2027"
+  ],
+  "relatedEntities": [
+    "syndicats",
+    "emploi",
+    "pauvreté"
+  ],
+  "questions": [
+    "Quels engagements ?",
+    "Quels objectifs ?",
+    "Quelle participation ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SOCIAL",
+    "#SOMMET"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

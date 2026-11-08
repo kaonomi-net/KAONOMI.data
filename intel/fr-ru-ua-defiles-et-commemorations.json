@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-defiles-et-commemorations",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Défilés et commémorations",
+  "includedEntities": [
+    {
+      "entityName": "défilé",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "9 mai",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "place Rouge",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les commémorations militaires et leur message politique.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou",
+    "place Rouge"
+  ],
+  "times": [
+    "9 mai"
+  ],
+  "relatedEntities": [
+    "Poutine",
+    "invités étrangers",
+    "armée"
+  ],
+  "questions": [
+    "Quels invités ?",
+    "Quel message ?",
+    "Quelles mesures de sécurité ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#RUSSIE",
+    "#COMMEMORATION"
+  ],
+  "events": [
+    "@COMMEMORATION"
+  ],
+  "signals": [
+    "!SYMBOLE"
+  ],
+  "isDeleted": false
+}

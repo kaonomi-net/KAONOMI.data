@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-mongolie",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "Mongolie",
+  "entityType": "COUNTRY",
+  "description": "Cité par 2 intels : Mandat d'arrêt de la CPI contre Poutine ; Gazoduc Force de Sibérie 2.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre les conséquences du mandat d'arrêt de la CPI contre Vladimir Poutine.",
+    "Suivre le projet de gazoduc vers la Chine."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Mongolie",
+  "tags": [
+    "#POUTINE",
+    "#CPI",
+    "#JUSTICE-INTERNATIONALE",
+    "#RUSSIE",
+    "#CHINE",
+    "#ENERGIE"
+  ],
+  "events": [
+    "@DEPLACEMENT"
+  ],
+  "signals": [
+    "!JUSTICE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "États membres",
+    "déportation d'enfants",
+    "Cour pénale internationale",
+    "La Haye",
+    "mandat d'arrêt",
+    "Poutine",
+    "prix",
+    "CNPC",
+    "Gazprom",
+    "gazoduc"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

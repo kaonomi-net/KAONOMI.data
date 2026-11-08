@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-publication-majeure-en-apprentissage-profond",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Publication majeure en apprentissage profond",
+  "includedEntities": [
+    {
+      "entityName": "apprentissage profond",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "publication",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "article",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Repérer les articles de recherche marquants en deep learning.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "conférence NeurIPS",
+    "conférence ICML"
+  ],
+  "relatedEntities": [
+    "arXiv",
+    "NeurIPS",
+    "ICML"
+  ],
+  "questions": [
+    "Quelle contribution ?",
+    "Quelle équipe ?",
+    "Le code est-il publié ?"
+  ],
+  "tags": [
+    "#IA",
+    "#RECHERCHE",
+    "#DEEP-LEARNING"
+  ],
+  "events": [
+    "@PUBLICATION"
+  ],
+  "signals": [
+    "!RECHERCHE"
+  ],
+  "isDeleted": false
+}

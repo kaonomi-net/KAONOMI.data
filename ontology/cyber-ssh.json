@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (l'administration sécurisée) : Protocole et logiciel de connexion à distance chiffrée créé par Tatu Ylönen pour remplacer telnet et rlogin.",
+  "id": "cyber-ssh",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "SSH",
+  "entityType": "SOFTWARE",
+  "description": "Protocole et logiciel de connexion à distance chiffrée créé par Tatu Ylönen pour remplacer telnet et rlogin.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé SSH avec d'autres outils de l'administration sécurisée.",
+    "SSH figure parmi les logiciels marquants de l'administration sécurisée.",
+    "En atelier, les élèves ont découvert SSH et son fonctionnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Secure Shell"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#ADMINISTRATIONSECURISEE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=SSH"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OpenSSH",
+    "Échange de clés Diffie-Hellman"
+  ],
+  "isDeleted": false,
+  "startDate": "1995-01-01T00:00:00",
+  "endDate": null
+}

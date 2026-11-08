@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-controle-des-investissements-etrangers-dans-l-union",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Contrôle des investissements étrangers dans l'Union",
+  "includedEntities": [
+    {
+      "entityName": "filtrage",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "investissements étrangers",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le renforcement du filtrage des investissements étrangers.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Chine",
+    "technologies critiques",
+    "États membres"
+  ],
+  "questions": [
+    "Quelle règle ?",
+    "Quel investissement bloqué ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#INVESTISSEMENTS",
+    "#SECURITE-ECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!PROTECTION"
+  ],
+  "isDeleted": false
+}

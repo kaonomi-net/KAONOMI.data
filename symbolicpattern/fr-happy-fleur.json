@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-fleur",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'organe coloré des plantes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fleur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fleuri(r|e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bouquet(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rose(s)?\\s+rouge(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]tale(s)?)(?![\\w-])"
+  ],
+  "symbol": "fleur",
+  "event": null,
+  "title": "Fleur",
+  "tags": [
+    "#NATURE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

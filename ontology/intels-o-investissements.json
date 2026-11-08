@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-investissements",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "investissements",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : Découplage entre la Chine et les États-Unis ; Sommet sur l'intelligence artificielle à Paris ; Global Gateway ; Union européenne et Afrique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la séparation progressive des économies chinoise et américaine.",
+    "Suivre le rôle de la France dans la gouvernance de l'IA.",
+    "Suivre la stratégie européenne d'investissements dans les pays partenaires."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "investissements",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#GEOPOLITIQUE",
+    "#COMMERCE",
+    "#CHINE",
+    "#ETATS-UNIS",
+    "#FRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE",
+    "!FRAGMENTATION",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Afrique",
+    "découplage",
+    "chaînes d'approvisionnement",
+    "semi-conducteurs",
+    "Chine",
+    "États-Unis",
+    "sommet",
+    "Paris",
+    "Europe",
+    "intelligence artificielle"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-servile",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui rampe devant les puissants.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:servile(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:servilit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:obs[ée]quieu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:courbette(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rampant(e|s|es)?\\s+devant)(?![\\w-])"
+  ],
+  "symbol": "servile",
+  "event": null,
+  "title": "Servile",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

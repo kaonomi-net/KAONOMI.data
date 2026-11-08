@@ -1,0 +1,13 @@
+{
+  "index": 93,
+  "file": "0093-microsoft-office-how-do-i-use-copilot-in.prompt.json",
+  "prompt": "How do I use Copilot in Word to draft a document?",
+  "promptWords": 11,
+  "completion": "To use Copilot in Microsoft Word to draft a document, follow these steps:\n\n1. **Open Microsoft Word**: Make sure you have the latest version of Microsoft Word installed, as Copilot is available in the latest versions.\n\n2. **Sign in to Microsoft 365**: Ensure you are signed in with your Microsoft 365 account. Copilot requires an active internet connection and a Microsoft 365 subscription.\n\n3. **Access Copilot**:\n   - Click on the \"Home\" tab in the ribbon.\n   - Look for the \"Copilot\" button in the top right corner of the Word window. It might also be available in the \"Design\" or \"Review\" tabs, depending on the version.\n\n4. **Start a New Document**:\n   - Click on \"File\" > \"New\" to start a new document.\n   - Alternatively, you can open an existing document that you want to edit or draft from scratch.\n\n5. **Use Copilot to Draft**:\n   - Click on the \"Copilot\" button.\n   - A sidebar or a prompt will appear where you can type your request or question. For example, you can say, \"Draft a business proposal for a new project.\"\n   - Copilot will generate a draft based on your prompt. You can then review, edit, and refine the content as needed.\n\n6. **Refine and Edit**:\n   - Use Copilot's suggestions to improve your document. You can ask it to rephrase sentences, add sections, or provide additional information.\n   - Make manual edits to ensure the document meets your specific requirements.\n\n7. **Save and Share**:\n   - Once you are satisfied with the document, save it by clicking on \"File\" > \"Save\" or \"Save As.\"\n   - You can also share the document directly from Word by clicking on \"Share\" in the top right corner.\n\nIf you encounter any issues or need more specific guidance, feel free to ask!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:21:21.2193282+02:00",
+  "durationSeconds": 9.38,
+  "stats": "mistral-small3.2:latest · 520 + 402 tokens · 9,4 s",
+  "isError": false,
+  "language": "EN"
+}

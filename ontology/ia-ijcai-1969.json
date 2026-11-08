@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (la communauté scientifique) : Première International Joint Conference on Artificial Intelligence, tenue à Washington, qui a structuré la communauté internationale de l'IA.",
+  "id": "ia-ijcai-1969",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Première conférence IJCAI",
+  "entityType": "EVENT",
+  "description": "Première International Joint Conference on Artificial Intelligence, tenue à Washington, qui a structuré la communauté internationale de l'IA.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "« Première conférence IJCAI » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « Première conférence IJCAI ».",
+    "On date souvent un tournant de la communauté scientifique à « Première conférence IJCAI »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "IJCAI-69"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#COMMUNAUTESCIENTIFIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Premi%C3%A8re%20conf%C3%A9rence%20IJCAI"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conférence de Dartmouth",
+    "Fondation de l'AAAI"
+  ],
+  "isDeleted": false,
+  "startDate": "1969-05-07T00:00:00",
+  "endDate": "1969-05-09T00:00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-optimisme",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La tendance à voir le bon côté.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:optimisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:optimiste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:positi(f|fs|ve|ves|vit[ée]))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:voir\\s+le\\s+verre\\s+[àa]\\s+moiti[ée]\\s+plein)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bon\\s+c[ôo]t[ée]\\s+des\\s+choses)(?![\\w-])"
+  ],
+  "symbol": "optimisme",
+  "event": null,
+  "title": "Optimisme",
+  "tags": [
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

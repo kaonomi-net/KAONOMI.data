@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation des attentats de Bruxelles de 2016 (la traque de la cellule) : Unité d'intervention de la police nationale française, qui a mené l'assaut de Saint-Denis le 18 novembre 2015.",
+  "id": "be2016-raid",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "RAID",
+  "entityType": "ORGANISATION",
+  "description": "Unité d'intervention de la police nationale française, qui a mené l'assaut de Saint-Denis le 18 novembre 2015.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-organisations",
+  "sentencesExemples": [
+    "Le rôle de « RAID » a été examiné après les attentats.",
+    "« RAID » apparaît dans la chronologie de la traque de la cellule.",
+    "Les comptes rendus du procès évoquent « RAID »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "Recherche, assistance, intervention, dissuasion"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#ORGANISATION",
+    "#TRAQUECELLULE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=RAID"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Assaut de Saint-Denis"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

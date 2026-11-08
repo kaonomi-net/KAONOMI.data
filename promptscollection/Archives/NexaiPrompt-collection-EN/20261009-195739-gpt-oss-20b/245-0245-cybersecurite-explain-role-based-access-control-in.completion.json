@@ -1,0 +1,13 @@
+{
+  "index": 245,
+  "file": "0245-cybersecurite-explain-role-based-access-control-in.prompt.json",
+  "prompt": "Explain role-based access control in simple terms.",
+  "promptWords": 7,
+  "completion": "### What is Role‑Based Access Control (RBAC)?\n\nThink of a workplace where people have different job titles: manager, accountant, intern, and visitor.  \nEach job title comes with a set of duties and a set of tools they’re allowed to use.\n\nRBAC works the same way for computer systems:\n\n| **Role** | **Who gets it?** | **What can they do?** |\n|----------|------------------|-----------------------|\n| Admin | System administrators | Add or remove users, change passwords, update software |\n| Editor | Content writers | Create, edit, and publish documents |\n| Viewer | Customers | Read documents but not change them |\n| Guest | Anyone visiting the site | View public pages only |\n\n**Key ideas**\n\n1. **Roles = Job Titles** – A role bundles together a set of permissions.  \n2. **Users = Employees** – A user is assigned one or more roles.  \n3. **Permissions = What you’re allowed to do** – These are the actual actions (read, write, delete, etc.).  \n4. **Policy = Who can do what** – The system checks a user’s roles to decide if an action is allowed.\n\n**Why it’s useful**\n\n- **Simplicity** – Instead of giving each user a long list of permissions, you just assign a role.\n- **Consistency** – Everyone in the same role gets the same access, reducing mistakes.\n- **Security** – If a user’s role changes, all their permissions automatically update.\n- **Scalability** – Adding a new employee is just a matter of assigning a role, not configuring permissions one by one.\n\n**A quick example**\n\n- Alice is a “Content Editor.”  \n  *She can create and edit articles but cannot delete them.*  \n- Bob is a “Content Reviewer.”  \n  *He can approve articles but cannot edit them.*  \n- Carol is an “Admin.”  \n  *She can do everything: edit, review, delete, and also manage user accounts.*\n\nSo, RBAC is just a smart way to organize who can do what in a system by grouping permissions into roles and assigning those roles to people.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T20:55:31.9465836+02:00",
+  "durationSeconds": 5.4,
+  "stats": "gpt-oss:20b · 76 + 573 tokens · 5,4 s",
+  "isError": false,
+  "language": "EN"
+}

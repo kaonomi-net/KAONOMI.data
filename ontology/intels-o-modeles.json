@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-modeles",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "modèles",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Contournement des garde-fous de l'IA ; Psychologie et intelligence artificielle en recherche.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les techniques de contournement des protections des modèles d'IA.",
+    "Suivre l'usage de l'IA dans la recherche en psychologie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "modèles",
+  "tags": [
+    "#IA",
+    "#CYBERSECURITE",
+    "#SECURITE-IA",
+    "#PSYCHOLOGIE",
+    "#RECHERCHE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "garde-fous",
+    "jailbreak",
+    "refus",
+    "chercheurs",
+    "recherche",
+    "participants simulés",
+    "psychologie",
+    "analyses",
+    "IA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

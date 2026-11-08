@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-echec",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de ne pas réussir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]chec(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]chou(er|[ée]|[ée]e|e|ent|ait))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fiasco(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:revers)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]b[âa]cle(s)?)(?![\\w-])"
+  ],
+  "symbol": "échec",
+  "event": null,
+  "title": "Échec",
+  "tags": [
+    "#ECHEC"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

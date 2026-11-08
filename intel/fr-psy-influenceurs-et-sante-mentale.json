@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-influenceurs-et-sante-mentale",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Influenceurs et santé mentale",
+  "includedEntities": [
+    {
+      "entityName": "influenceurs",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les contenus sur la santé mentale diffusés par les influenceurs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "TikTok",
+    "autodiagnostic",
+    "désinformation"
+  ],
+  "questions": [
+    "Quel contenu ?",
+    "Quel effet ?",
+    "Quelle étude ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#RESEAUX-SOCIAUX",
+    "#DESINFORMATION"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

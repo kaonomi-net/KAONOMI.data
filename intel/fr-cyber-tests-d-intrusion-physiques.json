@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-tests-d-intrusion-physiques",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Tests d'intrusion physiques",
+  "includedEntities": [
+    {
+      "entityName": "intrusion physique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "badge",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les tests d'intrusion physiques autorisés.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "contrôle d'accès",
+    "ingénierie sociale",
+    "arrestations"
+  ],
+  "questions": [
+    "Quel test ?",
+    "Quel incident ?",
+    "Quelle leçon ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#PENTEST",
+    "#SECURITE-PHYSIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

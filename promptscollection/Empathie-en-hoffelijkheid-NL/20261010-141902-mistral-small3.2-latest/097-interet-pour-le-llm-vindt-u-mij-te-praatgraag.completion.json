@@ -1,0 +1,13 @@
+{
+  "index": 97,
+  "file": "097-interet-pour-le-llm-vindt-u-mij-te-praatgraag.prompt.json",
+  "prompt": "Vindt u mij te praatgraag?",
+  "promptWords": 5,
+  "completion": "Nee, ik vind je niet te praatgraag! Ik ben hier om je te helpen en te antwoorden op al je vragen, dus je kunt altijd met me praten. Hoe kan ik je vandaag helpen? \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:23:46.2772395+02:00",
+  "durationSeconds": 1.54,
+  "stats": "mistral-small3.2:latest · 517 + 57 tokens · 1,5 s",
+  "isError": false,
+  "language": "NL"
+}

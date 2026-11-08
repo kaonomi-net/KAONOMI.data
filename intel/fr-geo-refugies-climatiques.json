@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-refugies-climatiques",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Réfugiés climatiques",
+  "includedEntities": [
+    {
+      "entityName": "réfugiés climatiques",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "déplacés",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les déplacements de population liés au climat.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "sécheresse",
+    "montée des eaux",
+    "inondations"
+  ],
+  "questions": [
+    "Combien de déplacés ?",
+    "Quelle région ?",
+    "Quel statut juridique ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#CLIMAT",
+    "#MIGRATIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

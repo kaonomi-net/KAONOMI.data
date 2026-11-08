@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-malbouffe",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La mauvaise alimentation.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:malbouffe)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:junk\\s+food)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nourriture\\s+industrielle)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plat(s)?\\s+ultra-transform[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bouffe\\s+d[ée]gueulasse)(?![\\w-])"
+  ],
+  "symbol": "malbouffe",
+  "event": null,
+  "title": "Malbouffe",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

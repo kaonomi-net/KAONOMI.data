@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-douteux",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "D'une fraîcheur incertaine.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:douteu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pas\\s+frais)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pas\\s+fra[îi]che)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:suspect(e|s|es)?\\s+(au\\s+go[ûu]t|[àa]\\s+l['’]odeur))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:louche(s)?)(?![\\w-])"
+  ],
+  "symbol": "douteux",
+  "event": null,
+  "title": "Douteux",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

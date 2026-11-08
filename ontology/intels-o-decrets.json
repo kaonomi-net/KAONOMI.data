@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-decrets",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "décrets",
+  "entityType": "LAW",
+  "description": "Cité par 2 intels : Saisies d'actifs étrangers en Russie ; Conseil des ministres.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre les saisies d'entreprises étrangères par l'État russe.",
+    "Suivre les décisions du Conseil des ministres."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "décrets",
+  "tags": [
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#NATIONALISATION",
+    "#FRANCE",
+    "#GOUVERNEMENT",
+    "#MACRON"
+  ],
+  "events": [
+    "@CONSEIL-DES-MINISTRES"
+  ],
+  "signals": [
+    "!RISQUE-JURIDIQUE",
+    "!GOUVERNANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalisation",
+    "tribunaux",
+    "actifs étrangers",
+    "gestion temporaire",
+    "saisie",
+    "projets de loi",
+    "Conseil des ministres",
+    "nominations",
+    "Élysée"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-moral-des-menages",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Moral des ménages",
+  "includedEntities": [
+    {
+      "entityName": "moral des ménages",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "confiance",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la confiance des ménages.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "publication mensuelle"
+  ],
+  "relatedEntities": [
+    "INSEE",
+    "épargne",
+    "consommation"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quelle évolution ?",
+    "Quelles craintes ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ECONOMIE",
+    "#MENAGES"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

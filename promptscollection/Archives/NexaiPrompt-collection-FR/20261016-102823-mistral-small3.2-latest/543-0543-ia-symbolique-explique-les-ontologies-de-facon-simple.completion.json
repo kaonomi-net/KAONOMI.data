@@ -1,0 +1,13 @@
+{
+  "index": 543,
+  "file": "0543-ia-symbolique-explique-les-ontologies-de-facon-simple.prompt.json",
+  "prompt": "Explique les ontologies de façon simple.",
+  "promptWords": 6,
+  "completion": "Les ontologies sont un peu comme des \"cartes du monde\" pour les ordinateurs. Elles aident à organiser et à comprendre les informations de manière structurée, en définissant clairement les concepts, leurs relations et leurs propriétés.\n\n### Explication simple :\nImagine que tu veux expliquer à un ordinateur ce qu'est une \"voiture\". Une ontologie pourrait définir :\n- **Concepts** : Voiture, Roue, Moteur, Conducteur.\n- **Relations** : Une voiture **a** 4 roues. Un moteur **fait partie de** une voiture. Un conducteur **conduit** une voiture.\n- **Propriétés** : Une voiture a une couleur, un modèle, une vitesse maximale.\n\n### À quoi ça sert ?\n- **Clarté** : Éviter les ambiguïtés (ex. : \"banane\" peut être un fruit ou une courbe).\n- **Partage** : Permettre à différents systèmes de comprendre les mêmes données.\n- **Raisonnement** : Aider les machines à tirer des conclusions (ex. : si une voiture a 4 roues et qu'une roue est crevée, alors elle ne roule pas bien).\n\n### Exemple concret :\nSi tu crées une ontologie pour une bibliothèque, tu pourrais définir :\n- **Livre** → **a pour auteur** → **Auteur** → **a pour nationalité** → **Pays**.\n\nCela permet à un logiciel de savoir qu'un livre écrit par un auteur français vient de France.\n\nEn résumé, les ontologies sont des \"dictionnaires intelligents\" qui aident les machines à comprendre et manipuler les informations de manière cohérente.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:04:19.2900976+02:00",
+  "durationSeconds": 7.06,
+  "stats": "mistral-small3.2:latest · 516 + 348 tokens · 7,1 s",
+  "isError": false,
+  "language": "FR"
+}

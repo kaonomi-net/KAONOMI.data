@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-fuites",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "fuites",
+  "entityType": "DOMAIN",
+  "description": "Cité par 8 intels : Handala ; Ingérence numérique dans les élections ; Anonymous ; Sanctions de la CNIL ; Sécurité des API ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le groupe pro-iranien Handala et ses revendications.",
+    "Suivre les cyberattaques et manipulations visant les élections.",
+    "Suivre les opérations revendiquées par Anonymous."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "fuites",
+  "tags": [
+    "#CYBERSECURITE",
+    "#HACKTIVISME",
+    "#FUITE-DE-DONNEES",
+    "#IRAN",
+    "#ELECTIONS",
+    "#INGERENCE"
+  ],
+  "events": [
+    "@REVENDICATION",
+    "@SANCTION",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!MENACE",
+    "!INGERENCE",
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Europe",
+    "CNIL",
+    "Israël",
+    "Iran",
+    "Handala",
+    "défacements",
+    "ingérence",
+    "bots",
+    "Viginum",
+    "désinformation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

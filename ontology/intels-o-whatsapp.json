@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-whatsapp",
+  "dateCreated": "2026-11-08 17:55:50",
+  "name": "WhatsApp",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 4 intels : Censure d'internet en Russie ; Messagerie d'État Max ; Chiffrement de bout en bout ; Prise de contrôle de comptes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre les blocages de sites, de messageries et de VPN.",
+    "Suivre l'imposition de la messagerie nationale russe.",
+    "Suivre le chiffrement de bout en bout et les pressions pour l'affaiblir."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "WhatsApp",
+  "tags": [
+    "#RUSSIE",
+    "#INTERNET",
+    "#CENSURE",
+    "#SURVEILLANCE",
+    "#CRYPTOGRAPHIE",
+    "#VIE-PRIVEE"
+  ],
+  "events": [
+    "@BLOCAGE"
+  ],
+  "signals": [
+    "!VIGILANCE",
+    "!DEBAT",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Telegram",
+    "messagerie",
+    "VPN",
+    "censure",
+    "Roskomnadzor",
+    "internet",
+    "surveillance",
+    "VK",
+    "Max",
+    "chiffrement de bout en bout"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

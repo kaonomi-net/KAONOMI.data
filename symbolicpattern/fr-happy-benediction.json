@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-benediction",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une grâce, un bienfait.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:b[ée]n[ée]diction(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:b[ée]ni(e|s|es|r)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bienfait(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:don\\s+du\\s+ciel)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cadeau\\s+du\\s+ciel)(?![\\w-])"
+  ],
+  "symbol": "bénédiction",
+  "event": null,
+  "title": "Bénédiction",
+  "tags": [
+    "#GRATITUDE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

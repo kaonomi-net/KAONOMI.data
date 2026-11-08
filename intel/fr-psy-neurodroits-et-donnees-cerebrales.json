@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-neurodroits-et-donnees-cerebrales",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Neurodroits et données cérébrales",
+  "includedEntities": [
+    {
+      "entityName": "neurodroits",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "données cérébrales",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la protection des données cérébrales.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "neurotechnologies",
+    "UNESCO",
+    "lois"
+  ],
+  "questions": [
+    "Quelle loi ?",
+    "Quel risque ?",
+    "Quel débat ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#NEUROTECH",
+    "#ETHIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!VIE-PRIVEE"
+  ],
+  "isDeleted": false
+}

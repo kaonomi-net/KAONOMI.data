@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-tranchee",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un fossé où se protègent les soldats.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:tranch[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guerre\\s+de\\s+position)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:no\\s+man['’]s\\s+land)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:barbel[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:casemate(s)?)(?![\\w-])"
+  ],
+  "symbol": "tranchée",
+  "event": null,
+  "title": "Tranchée",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

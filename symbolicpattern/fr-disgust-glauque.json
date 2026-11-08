@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-glauque",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Lugubre et malsain.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:glauque(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sordide(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sinistre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lugubre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:morbide(s)?)(?![\\w-])"
+  ],
+  "symbol": "glauque",
+  "event": null,
+  "title": "Glauque",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

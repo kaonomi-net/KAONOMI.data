@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-passation-de-pouvoir-a-l-elysee",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Passation de pouvoir à l'Élysée",
+  "includedEntities": [
+    {
+      "entityName": "passation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "investiture",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Élysée",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la passation de pouvoir entre Emmanuel Macron et son successeur.",
+  "isFuzzy": true,
+  "locations": [
+    "Élysée"
+  ],
+  "times": [
+    "mai 2027"
+  ],
+  "relatedEntities": [
+    "nouveau président",
+    "Premier ministre",
+    "gouvernement"
+  ],
+  "questions": [
+    "Quand a lieu la passation ?",
+    "Quel Premier ministre ?",
+    "Quelles premières décisions ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#TRANSITION"
+  ],
+  "events": [
+    "@PASSATION"
+  ],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "isDeleted": false
+}

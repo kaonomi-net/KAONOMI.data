@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-chance",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un sort favorable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:chance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chanceu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:veinard(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bonne\\s+[ée]toile)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coup\\s+de\\s+bol)(?![\\w-])"
+  ],
+  "symbol": "chance",
+  "event": null,
+  "title": "Chance",
+  "tags": [
+    "#JOIE",
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

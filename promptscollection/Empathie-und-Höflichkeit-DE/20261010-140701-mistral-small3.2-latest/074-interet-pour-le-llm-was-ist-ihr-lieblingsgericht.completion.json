@@ -1,0 +1,13 @@
+{
+  "index": 74,
+  "file": "074-interet-pour-le-llm-was-ist-ihr-lieblingsgericht.prompt.json",
+  "prompt": "Was ist Ihr Lieblingsgericht?",
+  "promptWords": 4,
+  "completion": "Ich habe keine persönlichen Vorlieben oder einen Magen, also kein Lieblingsgericht! \uD83D\uDE0A Aber ich kann dir gerne Rezepte oder Restaurantempfehlungen geben, wenn du möchtest. Was hättest du denn gerne?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:10:00.332143+02:00",
+  "durationSeconds": 1.3,
+  "stats": "mistral-small3.2:latest · 515 + 53 tokens · 1,3 s",
+  "isError": false,
+  "language": "DE"
+}

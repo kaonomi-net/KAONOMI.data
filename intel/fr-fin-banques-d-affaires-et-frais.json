@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-banques-d-affaires-et-frais",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Banques d'affaires et frais",
+  "includedEntities": [
+    {
+      "entityName": "banques d'affaires",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "commissions",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'activité des banques d'affaires.",
+  "isFuzzy": true,
+  "locations": [
+    "New York",
+    "Londres",
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "fusions",
+    "introductions",
+    "trading"
+  ],
+  "questions": [
+    "Quelles commissions ?",
+    "Quelle activité ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#BANQUES-AFFAIRES"
+  ],
+  "events": [],
+  "signals": [
+    "!TENDANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-longevite",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une longue vie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:long[ée]vit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:centenaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:longue\\s+vie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bel\\s+[âa]ge)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vieillir\\s+en\\s+beaut[ée])(?![\\w-])"
+  ],
+  "symbol": "longévité",
+  "event": null,
+  "title": "Longévité",
+  "tags": [
+    "#SANTE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

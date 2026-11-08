@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-torture",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les souffrances infligées à dessein.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:torture(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tortionnaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s[ée]vices)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:barbarie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:supplice(s)?\\s+inflig[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "torture",
+  "event": null,
+  "title": "Torture",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

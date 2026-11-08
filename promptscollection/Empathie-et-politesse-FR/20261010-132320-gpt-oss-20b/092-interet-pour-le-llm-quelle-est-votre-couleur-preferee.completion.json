@@ -1,0 +1,13 @@
+{
+  "index": 92,
+  "file": "092-interet-pour-le-llm-quelle-est-votre-couleur-preferee.prompt.json",
+  "prompt": "Quelle est votre couleur préférée ?",
+  "promptWords": 6,
+  "completion": "Je n’ai pas de goûts personnels, donc je n’ai pas de couleur «\u202Fpréférée\u202F»\u202F!  \nMais je peux vous dire que beaucoup de gens aiment le bleu (il évoque souvent la sérénité, la confiance et l’ouverture), le vert (qui rappelle la nature et la croissance) ou le rouge (qui transmet l’énergie et la passion).  \nSi vous me demandiez de choisir un ton qui me semble «\u202Fsympathique\u202F» à partir de ces associations, le bleu clair serait une option sûre\u202F: il est généralement bien perçu comme apaisant et accessible.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:27:55.714027+02:00",
+  "durationSeconds": 2.12,
+  "stats": "gpt-oss:20b · 74 + 298 tokens · 2,1 s",
+  "isError": false,
+  "language": "FR"
+}

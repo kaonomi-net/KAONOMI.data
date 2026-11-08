@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-sante-mentale-et-anciens-combattants-ukrainiens",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Santé mentale et anciens combattants ukrainiens",
+  "includedEntities": [
+    {
+      "entityName": "anciens combattants",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "réadaptation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la prise en charge des vétérans et blessés de guerre.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "traumatismes",
+    "prothèses",
+    "réinsertion"
+  ],
+  "questions": [
+    "Quels besoins ?",
+    "Quels programmes ?",
+    "Quelles difficultés ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#VETERANS",
+    "#SANTE-MENTALE"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ligne-sourovikine",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "ligne Sourovikine",
+  "entityType": "LOCATION",
+  "description": "Cité par 1 intel : Fortifications russes dans le Sud.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les lignes défensives russes dans le Sud."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "ligne Sourovikine",
+  "tags": [
+    "#RUSSIE",
+    "#ZAPORIJIA",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!OBSTACLE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Zaporijia",
+    "Kherson",
+    "tranchées",
+    "fortifications",
+    "mines",
+    "champs de mines",
+    "dents de dragon"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

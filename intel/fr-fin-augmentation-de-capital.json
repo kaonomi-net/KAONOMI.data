@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-augmentation-de-capital",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Augmentation de capital",
+  "includedEntities": [
+    {
+      "entityName": "augmentation de capital",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "actionnaires",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les augmentations de capital des sociétés cotées.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "dilution",
+    "prix",
+    "souscription"
+  ],
+  "questions": [
+    "Quelle entreprise ?",
+    "Quel montant ?",
+    "Quelle décote ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#OPERATION"
+  ],
+  "events": [
+    "@AUGMENTATION-CAPITAL"
+  ],
+  "signals": [
+    "!OPERATION"
+  ],
+  "isDeleted": false
+}

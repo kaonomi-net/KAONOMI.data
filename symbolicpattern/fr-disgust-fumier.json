@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-fumier",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les excréments d'animaux mêlés de paille.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fumier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:purin(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lisier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bouse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crottin(s)?)(?![\\w-])"
+  ],
+  "symbol": "fumier",
+  "event": null,
+  "title": "Fumier",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

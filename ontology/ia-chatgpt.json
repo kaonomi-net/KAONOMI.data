@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les agents conversationnels) : Agent conversationnel d'OpenAI fondé sur ses modèles GPT et affiné par RLHF.",
+  "id": "ia-chatgpt",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "ChatGPT",
+  "entityType": "SOFTWARE",
+  "description": "Agent conversationnel d'OpenAI fondé sur ses modèles GPT et affiné par RLHF.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "ChatGPT figure parmi les logiciels marquants des agents conversationnels.",
+    "En atelier, les élèves ont découvert ChatGPT et ses possibilités.",
+    "L'équipe a comparé ChatGPT avec d'autres outils des agents conversationnels."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Chat GPT"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#AGENTSCONVERSATIONNELS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=ChatGPT"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Apprentissage par renforcement à partir de rétroaction humaine",
+    "GPT-3",
+    "Lancement de ChatGPT",
+    "LangChain",
+    "Sam Altman",
+    "Adoption de l'AI Act européen",
+    "Publication de DeepSeek-R1"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-01-01T00:00:00",
+  "endDate": null
+}

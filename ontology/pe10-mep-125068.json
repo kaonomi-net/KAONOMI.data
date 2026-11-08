@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Grèce.",
+  "id": "pe10-mep-125068",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Emmanouil Kefalogiannis",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Grèce. Groupe politique : Parti populaire européen (PPE). Parti ou liste national : Nea Demokratia.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Le vote de Emmanouil Kefalogiannis figure dans le relevé des votes par appel nominal.",
+    "Emmanouil Kefalogiannis participe aux travaux des commissions parlementaires.",
+    "Emmanouil Kefalogiannis siège au Parlement européen depuis la législature 2024-2029."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Emmanouil KEFALOGIANNIS"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/125068",
+    "https://fr.wikipedia.org/w/index.php?search=Emmanouil%20Kefalogiannis"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Grèce",
+    "Parlement européen",
+    "Parti populaire européen (PPE)",
+    "Nouvelle Démocratie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

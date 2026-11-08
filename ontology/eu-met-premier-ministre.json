@@ -1,0 +1,63 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Premier ministre ou président du Conseil d'un État.",
+  "id": "eu-met-premier-ministre",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Chef de gouvernement",
+  "entityType": "PROFESSION",
+  "description": "Premier ministre ou président du Conseil d'un État.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "La fiche « Chef de gouvernement » décrit le rôle et les responsabilités associés.",
+    "Les candidats aux concours européens découvrent le métier « Chef de gouvernement ».",
+    "Chef de gouvernement : plusieurs personnalités de l'ontologie ont exercé cette fonction."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Chef%20de%20gouvernement"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Valdis Dombrovskis",
+    "Paolo Gentiloni",
+    "Kaja Kallas",
+    "Andrius Kubilius",
+    "Jean-Claude Juncker",
+    "Andrus Ansip",
+    "Jyrki Katainen",
+    "José Manuel Barroso",
+    "Romano Prodi",
+    "Jacques Santer",
+    "Gaston Thorn",
+    "Charles Michel",
+    "António Costa",
+    "Donald Tusk",
+    "Herman Van Rompuy",
+    "Mario Draghi",
+    "Enrico Letta"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

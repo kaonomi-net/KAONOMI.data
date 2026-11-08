@@ -1,0 +1,13 @@
+{
+  "index": 131,
+  "file": "0131-microsoft-office-comment-calculer-un-ecart-entre-deux.prompt.json",
+  "prompt": "Comment calculer un écart entre deux dates dans Excel ?",
+  "promptWords": 10,
+  "completion": "Pour calculer un écart entre deux dates dans Excel, vous pouvez suivre ces étapes simples :\n\n1. **Entrez vos dates** :\n   - Placez la première date dans une cellule (par exemple, A1).\n   - Placez la deuxième date dans une autre cellule (par exemple, B1).\n\n2. **Calculez la différence** :\n   - Dans une cellule vide (par exemple, C1), entrez la formule suivante :\n     ```\n     =B1-A1\n     ```\n   - Cette formule soustraira la date de la cellule A1 de la date de la cellule B1, donnant ainsi le nombre de jours entre les deux dates.\n\n3. **Formatez le résultat** (optionnel) :\n   - Si vous souhaitez afficher le résultat sous une forme spécifique (par exemple, en années, mois, jours), vous pouvez formater la cellule C1 en choisissant un format de date approprié via le menu \"Format de cellule\" (clic droit sur la cellule > \"Format de cellule\" > \"Nombre\" > \"Date\").\n\n### Exemple :\n- **A1** : 01/01/2023\n- **B1** : 01/01/2024\n- **C1** : `=B1-A1` (résultat : 365 jours)\n\nSi vous avez besoin de calculer la différence en mois ou en années, vous pouvez utiliser des formules plus complexes, mais la méthode ci-dessus est la plus simple et la plus courante pour obtenir la différence en jours.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:53:02.745156+02:00",
+  "durationSeconds": 6.78,
+  "stats": "mistral-small3.2:latest · 518 + 330 tokens · 6,8 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-sante-et-hopitaux-en-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Santé et hôpitaux en Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "hôpitaux",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "santé",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'état du système de santé ukrainien en guerre.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "OMS",
+    "médicaments",
+    "blessés"
+  ],
+  "questions": [
+    "Quelles attaques ?",
+    "Quels manques ?",
+    "Quelle aide ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#SANTE",
+    "#HUMANITAIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-conseil-de-l-europe",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "Conseil de l'Europe",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Tribunal spécial pour le crime d'agression ; Tribunal spécial pour l'agression contre l'Ukraine ; Commission des réclamations pour l'Ukraine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre la création du tribunal spécial pour juger l'agression contre l'Ukraine.",
+    "Suivre la création du tribunal spécial avec le Conseil de l'Europe.",
+    "Suivre le mécanisme d'indemnisation des dommages de guerre en Ukraine."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Conseil de l'Europe",
+  "tags": [
+    "#UKRAINE",
+    "#JUSTICE-INTERNATIONALE",
+    "#UNION-EUROPEENNE",
+    "#RUSSIE",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "La Haye",
+    "dirigeants russes",
+    "tribunal spécial",
+    "Strasbourg",
+    "justice",
+    "crime d'agression",
+    "financement",
+    "agression",
+    "victimes",
+    "avoirs russes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

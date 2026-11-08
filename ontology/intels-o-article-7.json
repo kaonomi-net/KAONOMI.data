@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-article-7",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "article 7",
+  "entityType": "LAW",
+  "description": "Cité par 3 intels : État de droit dans l'Union européenne ; Hongrie et État de droit ; Article 7 du traité.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre les procédures européennes sur le respect de l'État de droit.",
+    "Suivre les procédures européennes contre la Hongrie pour atteintes à l'État de droit.",
+    "Suivre les procédures de l'article 7 contre les États membres."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "article 7",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ETAT-DE-DROIT",
+    "#GEOPOLITIQUE",
+    "#DEMOCRATIE",
+    "#HONGRIE",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!PRESSION",
+    "!GOUVERNANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Hongrie",
+    "État de droit",
+    "Bruxelles",
+    "justice",
+    "Commission européenne",
+    "fonds",
+    "Union européenne",
+    "Budapest",
+    "Viktor Orbán",
+    "fonds gelés"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

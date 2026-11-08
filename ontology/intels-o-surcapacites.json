@@ -1,0 +1,56 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-surcapacites",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "surcapacités",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Mesures de sauvegarde sur l'acier ; Plan pour l'acier et les métaux.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la protection européenne du marché de l'acier.",
+    "Suivre le plan d'action européen pour l'acier et les métaux."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "surcapacités",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ACIER",
+    "#COMMERCE",
+    "#INDUSTRIE"
+  ],
+  "events": [],
+  "signals": [
+    "!PROTECTION",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "acier",
+    "Bruxelles",
+    "sauvegarde",
+    "quotas",
+    "industrie",
+    "métaux",
+    "emplois",
+    "plan",
+    "énergie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

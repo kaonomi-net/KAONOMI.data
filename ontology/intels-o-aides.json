@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-aides",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "aides",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Déplacés internes ukrainiens ; Cybersécurité des PME.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la situation des personnes déplacées à l'intérieur de l'Ukraine.",
+    "Suivre la situation des PME face aux cyberattaques."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "aides",
+  "tags": [
+    "#UKRAINE",
+    "#DEPLACES",
+    "#HUMANITAIRE",
+    "#CYBERSECURITE",
+    "#PME"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "déplacés",
+    "Ukraine",
+    "ONU",
+    "logement",
+    "Belgique",
+    "cybersécurité",
+    "diagnostics",
+    "PME",
+    "France",
+    "Cybermalveillance.gouv.fr"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

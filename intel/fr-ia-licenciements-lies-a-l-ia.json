@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-licenciements-lies-a-l-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Licenciements liés à l'IA",
+  "includedEntities": [
+    {
+      "entityName": "licenciements",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "automatisation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les suppressions d'emplois attribuées à l'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "entreprises",
+    "syndicats",
+    "ressources humaines"
+  ],
+  "questions": [
+    "Combien de postes ?",
+    "Quels métiers touchés ?",
+    "Quelles reconversions ?"
+  ],
+  "tags": [
+    "#IA",
+    "#EMPLOI",
+    "#AUTOMATISATION"
+  ],
+  "events": [
+    "@SUPPRESSION-EMPLOIS"
+  ],
+  "signals": [
+    "!RISQUE-SOCIAL"
+  ],
+  "isDeleted": false
+}

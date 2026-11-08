@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Pays de l'Union européenne (la politique européenne) : Estonie, État membre de l'Union européenne depuis 2004, capitale Tallinn.",
+  "id": "eu-pays-ee",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Estonie",
+  "entityType": "COUNTRY",
+  "description": "Estonie, État membre de l'Union européenne depuis 2004, capitale Tallinn.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-etats-membres",
+  "sentencesExemples": [
+    "Le gouvernement de Estonie a désigné un commissaire européen.",
+    "Les citoyens de Estonie élisent leurs députés européens.",
+    "Le représentant permanent de Estonie siège au Coreper à Bruxelles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF0D",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#COUNTRY",
+    "#POLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Estonie"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité estonienne",
+    "Tallinn",
+    "Union européenne",
+    "estonien",
+    "Parti du centre d'Estonie",
+    "Parti de la réforme d'Estonie",
+    "Élargissement de 2004"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-01-01T00:00:00",
+  "endDate": null
+}

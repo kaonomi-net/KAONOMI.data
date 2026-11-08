@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-credit-agricole",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Crédit Agricole",
+  "includedEntities": [
+    {
+      "entityName": "Crédit Agricole",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "banque",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Crédit Agricole.",
+  "isFuzzy": false,
+  "locations": [
+    "Montrouge"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Banco BPM",
+    "résultats",
+    "assurance"
+  ],
+  "questions": [
+    "Quel bénéfice ?",
+    "Quelle acquisition ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#BANQUES"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

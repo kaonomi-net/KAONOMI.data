@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-supervision-bancaire-europeenne",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Supervision bancaire européenne",
+  "includedEntities": [
+    {
+      "entityName": "supervision bancaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "MSU",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la supervision des banques de la zone euro par la BCE.",
+  "isFuzzy": true,
+  "locations": [
+    "Francfort"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "exigences de capital",
+    "stress tests",
+    "banques"
+  ],
+  "questions": [
+    "Quelle exigence ?",
+    "Quelle banque ?",
+    "Quel résultat ?"
+  ],
+  "tags": [
+    "#BCE",
+    "#BANQUES",
+    "#SUPERVISION"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

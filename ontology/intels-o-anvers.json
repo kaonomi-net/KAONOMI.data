@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-anvers",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Anvers",
+  "entityType": "CITY",
+  "description": "Cité par 8 intels : Ackermans & van Haaren ; Cofinimmo et Aedifica ; Azelis ; Chimie européenne en crise ; Port d'Anvers-Bruges ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre la holding Ackermans & van Haaren.",
+    "Suivre les foncières belges de santé et leur rapprochement.",
+    "Suivre l'action Azelis."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Anvers",
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#BELGIQUE",
+    "#CHIMIE",
+    "#HOLDINGS",
+    "#IMMOBILIER"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!RESULTATS",
+    "!ALERTE",
+    "!OPERATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "chimie",
+    "Rotterdam",
+    "cocaïne",
+    "holding",
+    "Ackermans",
+    "DEME",
+    "Delen",
+    "banque",
+    "taux",
+    "fusion"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-aide-medicale-d-etat",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Aide médicale d'État",
+  "includedEntities": [
+    {
+      "entityName": "aide médicale d'État",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "AME",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur l'aide médicale d'État.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "budget",
+    "sans-papiers",
+    "médecins"
+  ],
+  "questions": [
+    "Une réforme est-elle votée ?",
+    "Quel coût ?",
+    "Quelles positions ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#IMMIGRATION",
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

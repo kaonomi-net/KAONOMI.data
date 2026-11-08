@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-banque-de-france",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Banque de France",
+  "includedEntities": [
+    {
+      "entityName": "Banque de France",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "gouverneur",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les analyses de la Banque de France sur l'économie et la dette.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "François Villeroy de Galhau",
+    "croissance",
+    "dette"
+  ],
+  "questions": [
+    "Quelle prévision ?",
+    "Quelle alerte ?",
+    "Quel message ?"
+  ],
+  "tags": [
+    "#BANQUES-CENTRALES",
+    "#FRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

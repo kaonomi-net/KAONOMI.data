@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-microsoft-sharepoint",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Microsoft SharePoint",
+  "includedEntities": [
+    {
+      "entityName": "SharePoint",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "vulnérabilité",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les vulnérabilités de SharePoint, dont la zero-day exploitée de juillet 2026.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "serveurs sur site",
+    "exécution de code",
+    "correctifs"
+  ],
+  "questions": [
+    "Quelle faille ?",
+    "Combien de serveurs touchés ?",
+    "Quel correctif ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#MICROSOFT"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

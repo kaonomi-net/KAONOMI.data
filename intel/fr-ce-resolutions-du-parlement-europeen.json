@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-resolutions-du-parlement-europeen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Résolutions du Parlement européen",
+  "includedEntities": [
+    {
+      "entityName": "résolution",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Parlement européen",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les résolutions adoptées en session plénière.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [
+    "sessions plénières"
+  ],
+  "relatedEntities": [
+    "droits humains",
+    "politique étrangère",
+    "votes"
+  ],
+  "questions": [
+    "Quelle résolution ?",
+    "Quel vote ?",
+    "Quelle portée ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#RESOLUTION"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

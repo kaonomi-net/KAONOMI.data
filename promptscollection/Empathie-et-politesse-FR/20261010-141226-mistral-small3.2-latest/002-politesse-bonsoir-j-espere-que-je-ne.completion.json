@@ -1,0 +1,13 @@
+{
+  "index": 2,
+  "file": "002-politesse-bonsoir-j-espere-que-je-ne.prompt.json",
+  "prompt": "Bonsoir ! J'espère que je ne vous dérange pas ?",
+  "promptWords": 10,
+  "completion": "Bonsoir ! Pas du tout, je suis là pour vous aider. Comment puis-je vous assister ce soir ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:12:29.8601304+02:00",
+  "durationSeconds": 0.75,
+  "stats": "mistral-small3.2:latest · 522 + 24 tokens · 0,7 s",
+  "isError": false,
+  "language": "FR"
+}

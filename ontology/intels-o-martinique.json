@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-martinique",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "Martinique",
+  "entityType": "LOCATION",
+  "description": "Cité par 2 intels : Macron et l'outre-mer ; Martinique et vie chère.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les crises et annonces concernant les territoires d'outre-mer.",
+    "Suivre la contestation contre la vie chère aux Antilles."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Martinique",
+  "tags": [
+    "#FRANCE",
+    "#OUTRE-MER",
+    "#POUVOIR-ACHAT"
+  ],
+  "events": [
+    "@MOBILISATION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "vie chère",
+    "Guadeloupe",
+    "reconstruction",
+    "outre-mer",
+    "sécurité",
+    "Mayotte",
+    "Emmanuel Macron",
+    "prix",
+    "mobilisation",
+    "accord"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-protection-temporaire-des-refugies-ukrainiens",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Protection temporaire des réfugiés ukrainiens",
+  "includedEntities": [
+    {
+      "entityName": "protection temporaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "réfugiés ukrainiens",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la prolongation de la protection temporaire des Ukrainiens.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "mars 2027"
+  ],
+  "relatedEntities": [
+    "États membres",
+    "retours",
+    "intégration"
+  ],
+  "questions": [
+    "Est-elle prolongée ?",
+    "Jusqu'à quand ?",
+    "Quel plan de sortie ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#UKRAINE",
+    "#REFUGIES"
+  ],
+  "events": [
+    "@DECISION-UE"
+  ],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

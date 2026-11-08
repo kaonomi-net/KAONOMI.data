@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-outils-offensifs-detournes",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Outils offensifs détournés",
+  "includedEntities": [
+    {
+      "entityName": "Cobalt Strike",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "outils offensifs",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le détournement d'outils de test d'intrusion par des criminels.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Sliver",
+    "Brute Ratel",
+    "démantèlement"
+  ],
+  "questions": [
+    "Quel outil ?",
+    "Quel groupe ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#PENTEST",
+    "#CYBERCRIMINALITE"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

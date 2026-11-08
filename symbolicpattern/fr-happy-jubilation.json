@@ -1,0 +1,24 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-jubilation",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une joie débordante.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:jubilation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:jubil(er|e|ent|ait|ant|ante)|exult(er|e|ent)|sauter\\s+de\\s+joie)(?![\\w-])"
+  ],
+  "symbol": "jubilation",
+  "event": null,
+  "title": "Jubilation",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

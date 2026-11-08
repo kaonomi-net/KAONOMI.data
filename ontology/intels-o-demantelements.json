@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-demantelements",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "démantèlements",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Gendarmerie et cybercriminalité.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'action de la gendarmerie contre la cybercriminalité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "démantèlements",
+  "tags": [
+    "#CYBERSECURITE",
+    "#FRANCE",
+    "#POLICE"
+  ],
+  "events": [
+    "@DEMANTELEMENT"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "enquêtes",
+    "gendarmerie",
+    "ComCyberMI",
+    "cybercriminalité",
+    "France",
+    "C3N"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

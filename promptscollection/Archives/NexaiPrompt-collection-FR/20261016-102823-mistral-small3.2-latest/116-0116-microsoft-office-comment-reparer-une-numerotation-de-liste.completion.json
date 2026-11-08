@@ -1,0 +1,13 @@
+{
+  "index": 116,
+  "file": "0116-microsoft-office-comment-reparer-une-numerotation-de-liste.prompt.json",
+  "prompt": "Comment réparer une numérotation de liste qui ne se suit pas dans Word ?",
+  "promptWords": 14,
+  "completion": "Pour réparer une numérotation de liste qui ne se suit pas dans Word, voici les étapes à suivre :\n\n1. **Sélectionnez la liste** : Cliquez et faites glisser pour sélectionner tout le texte de la liste.\n\n2. **Accédez aux options de numérotation** :\n   - Allez dans l'onglet **Accueil** (Home) dans le ruban.\n   - Cliquez sur le bouton **Numérotation** (Numbering) dans le groupe **Paragraphe** (Paragraph).\n\n3. **Réinitialisez la numérotation** :\n   - Si la numérotation ne se suit pas, cliquez à nouveau sur le bouton **Numérotation** pour ouvrir le menu déroulant.\n   - Sélectionnez **Définir la numérotation** (Set Numbering) ou **Numérotation personnalisée** (Custom Numbering) selon votre version de Word.\n\n4. **Vérifiez les paramètres de numérotation** :\n   - Dans la fenêtre qui s'ouvre, assurez-vous que l'option **Recommencer la numérotation** (Restart numbering) n'est pas cochée si vous souhaitez une numérotation continue.\n   - Vous pouvez également choisir de **Lier le niveau** (Link level) si vous utilisez des sous-listes.\n\n5. **Appliquez les modifications** : Cliquez sur **OK** pour appliquer les changements.\n\n6. **Vérifiez le résultat** : Assurez-vous que la numérotation est maintenant correcte et se suit logiquement.\n\nSi le problème persiste, il peut être utile de supprimer complètement la numérotation et de la réappliquer :\n- Sélectionnez la liste.\n- Appuyez sur **Ctrl + Maj + N** pour supprimer la numérotation.\n- Réappliquez la numérotation en utilisant le bouton **Numérotation** dans l'onglet **Accueil**.\n\nSi vous avez besoin d'une aide plus spécifique, n'hésitez pas à me donner plus de détails sur votre problème.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:50:29.288062+02:00",
+  "durationSeconds": 8.99,
+  "stats": "mistral-small3.2:latest · 524 + 446 tokens · 9,0 s",
+  "isError": false,
+  "language": "FR"
+}

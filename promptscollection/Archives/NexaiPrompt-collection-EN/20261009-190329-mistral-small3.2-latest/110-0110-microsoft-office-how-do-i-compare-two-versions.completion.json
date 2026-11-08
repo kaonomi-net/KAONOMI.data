@@ -1,0 +1,13 @@
+{
+  "index": 110,
+  "file": "0110-microsoft-office-how-do-i-compare-two-versions.prompt.json",
+  "prompt": "How do I compare two versions of a document in Word?",
+  "promptWords": 11,
+  "completion": "To compare two versions of a document in Microsoft Word, you can use the built-in \"Compare\" feature. Here’s how to do it:\n\n### Steps to Compare Two Documents in Word:\n1. **Open the Original Document**:\n   - Open the document that you want to use as the original (the older version).\n\n2. **Go to the Review Tab**:\n   - Click on the **Review** tab in the Ribbon at the top of the screen.\n\n3. **Click on Compare**:\n   - In the **Compare** group, click on **Compare**.\n\n4. **Select the Documents to Compare**:\n   - In the **Compare Documents** dialog box, you will see two options:\n     - **Original document**: This should already be the document you have open.\n     - **Revised document**: Click the **Browse** button to locate and select the second document (the newer version) you want to compare.\n\n5. **Choose Comparison Settings**:\n   - You can adjust the settings to specify what you want to compare (e.g., text, tables, headings, etc.).\n   - You can also choose whether to show changes in a new document or in the revised document.\n\n6. **Start the Comparison**:\n   - Click **OK** to begin the comparison.\n\n7. **Review the Changes**:\n   - Word will open a new document showing the differences between the two documents.\n   - Changes will be highlighted with revision marks (similar to track changes), making it easy to see what has been added, deleted, or modified.\n\n### Additional Tips:\n- **Track Changes**: If you want to keep track of changes as you edit, you can use the **Track Changes** feature (also found in the Review tab).\n- **Combine Documents**: If you have multiple reviewers making changes, you can use the **Combine** feature (also in the Review tab) to merge changes from different versions.\n\nWould you like more detailed instructions on any specific part of this process?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:23:51.9872119+02:00",
+  "durationSeconds": 9.34,
+  "stats": "mistral-small3.2:latest · 519 + 402 tokens · 9,3 s",
+  "isError": false,
+  "language": "EN"
+}

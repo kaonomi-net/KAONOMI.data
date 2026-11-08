@@ -1,0 +1,13 @@
+{
+  "index": 515,
+  "file": "0515-recherche-operationnelle-quels-sont-les-avantages-et-les.prompt.json",
+  "prompt": "Quels sont les avantages et les limites de la programmation linéaire ?",
+  "promptWords": 12,
+  "completion": "La programmation linéaire est une méthode mathématique utilisée pour optimiser une fonction objectif linéaire, sous des contraintes linéaires. Voici ses avantages et ses limites :\n\n### Avantages de la programmation linéaire :\n1. **Simplicité et clarté** : Les modèles de programmation linéaire sont relativement simples à formuler et à comprendre.\n2. **Efficacité algorithmique** : Des algorithmes efficaces comme le **simplexe** ou les méthodes d'**intérieur** permettent de résoudre des problèmes de grande taille rapidement.\n3. **Applications variées** : Utilisée dans de nombreux domaines comme la gestion de la production, la logistique, la finance, et l'optimisation des ressources.\n4. **Solutions optimales garanties** : Si une solution existe, les algorithmes de programmation linéaire trouvent une solution optimale (globale).\n5. **Interprétation géométrique** : Les solutions peuvent être visualisées dans un espace géométrique, ce qui aide à la compréhension.\n\n### Limites de la programmation linéaire :\n1. **Linearité des contraintes et de la fonction objectif** : La programmation linéaire ne peut pas modéliser des problèmes où les contraintes ou la fonction objectif sont non linéaires.\n2. **Problèmes d'optimalité locale** : Contrairement à la programmation non linéaire, la programmation linéaire ne souffre pas de problèmes d'optimalité locale, mais elle ne peut pas les résoudre non plus.\n3. **Variables discrètes non gérées** : Les problèmes où certaines variables doivent être entières (problèmes d'optimisation combinatoire) nécessitent des extensions comme la **programmation linéaire en nombres entiers (PLNE)**.\n4. **Sensibilité aux données** : Les solutions peuvent être très sensibles aux variations des coefficients de la fonction objectif ou des contraintes.\n5. **Problèmes de grande dimension** : Bien que des algorithmes efficaces existent, les problèmes de très grande taille peuvent poser des défis computationnels.\n\nEn résumé, la programmation linéaire est un outil puissant pour les problèmes linéaires, mais elle a des limites lorsqu'il s'agit de modéliser des situations plus complexes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:59:53.7745519+02:00",
+  "durationSeconds": 9.41,
+  "stats": "mistral-small3.2:latest · 523 + 464 tokens · 9,4 s",
+  "isError": false,
+  "language": "FR"
+}

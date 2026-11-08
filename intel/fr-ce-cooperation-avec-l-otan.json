@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-cooperation-avec-l-otan",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Coopération avec l'OTAN",
+  "includedEntities": [
+    {
+      "entityName": "OTAN",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "coopération",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la coopération entre l'Union européenne et l'OTAN.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Mark Rutte",
+    "capacités",
+    "financements"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quels doublons ?",
+    "Quelle coordination ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#OTAN",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!ALLIANCE"
+  ],
+  "isDeleted": false
+}

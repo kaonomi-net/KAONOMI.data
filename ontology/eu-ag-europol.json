@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les affaires intérieures) : Agence de l'Union européenne pour la coopération des services répressifs (Europol), organe de l'Union créé en 1998 et installé dans cette ville : La Haye.",
+  "id": "eu-ag-europol",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence de l'Union européenne pour la coopération des services répressifs (Europol)",
+  "entityType": "ORGANISATION",
+  "description": "Agence de l'Union européenne pour la coopération des services répressifs (Europol), organe de l'Union créé en 1998 et installé dans cette ville : La Haye.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "« Agence de l'Union européenne pour la coopération des services répressifs (Europol) » joue un rôle dans les affaires intérieures.",
+    "Les fonctionnaires de « Agence de l'Union européenne pour la coopération des services répressifs (Europol) » préparent les textes relatifs aux affaires intérieures.",
+    "La délégation a rencontré des représentants de « Agence de l'Union européenne pour la coopération des services répressifs (Europol) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "Europol"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#AFFAIRESINTERIEURES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20de%20l%27Union%20europ%C3%A9enne%20pour%20la%20coop%C3%A9ration%20des%20services%20r%C3%A9pressifs%20%28Europol%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "La Haye",
+    "Direction générale de la migration et des affaires intérieures",
+    "Affaires intérieures et sécurité"
+  ],
+  "isDeleted": false,
+  "startDate": "1998-01-01T00:00:00",
+  "endDate": null
+}

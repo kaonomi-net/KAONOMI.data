@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (le stockage des mots de passe) : Fonction de hachage de mots de passe lente et salée, fondée sur Blowfish, conçue pour OpenBSD.",
+  "id": "cyber-bcrypt",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "bcrypt",
+  "entityType": "ALGORITHM",
+  "description": "Fonction de hachage de mots de passe lente et salée, fondée sur Blowfish, conçue pour OpenBSD.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "La chercheuse a présenté une analyse de bcrypt lors du séminaire.",
+    "bcrypt est enseigné dans tous les cours consacrés au stockage des mots de passe.",
+    "L'audit vérifie que bcrypt est utilisé correctement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "bcrypt"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#STOCKAGEMOTSPASSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=bcrypt"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Blowfish",
+    "Argon2"
+  ],
+  "isDeleted": false,
+  "startDate": "1999-01-01T00:00:00",
+  "endDate": null
+}

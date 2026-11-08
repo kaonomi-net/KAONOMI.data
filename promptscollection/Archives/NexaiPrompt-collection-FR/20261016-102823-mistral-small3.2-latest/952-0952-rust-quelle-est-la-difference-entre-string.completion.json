@@ -1,0 +1,13 @@
+{
+  "index": 952,
+  "file": "0952-rust-quelle-est-la-difference-entre-string.prompt.json",
+  "prompt": "Quelle est la différence entre String et &str en Rust ?",
+  "promptWords": 11,
+  "completion": "En Rust, `String` et `&str` sont deux types de données utilisés pour manipuler des chaînes de caractères, mais ils ont des caractéristiques et des utilisations différentes :\n\n### `String`\n- **Type** : `String` est un type de données **alloué sur le tas** (heap-allocated).\n- **Mutabilité** : `String` est **modifiable** (mutable) par défaut.\n- **Propriété** : `String` possède ses données (ownership).\n- **Utilisation** : Utilisé lorsque vous avez besoin d'une chaîne de caractères modifiable et que vous voulez gérer la mémoire explicitement.\n- **Exemple** :\n  ```rust\n  let mut s = String::from(\"hello\");\n  s.push_str(\", world!\"); // Modification possible\n  println!(\"{}\", s); // Affiche \"hello, world!\"\n  ```\n\n### `&str` (String Slice)\n- **Type** : `&str` est un **slice de chaîne** (string slice), une référence à une séquence de caractères UTF-8.\n- **Mutabilité** : `&str` est **immuable** (immutable) par défaut.\n- **Propriété** : `&str` est une référence (borrow) et ne possède pas ses données.\n- **Utilisation** : Utilisé pour emprunter une partie d'une chaîne existante, souvent pour des opérations de lecture ou de passage de paramètres.\n- **Exemple** :\n  ```rust\n  let s = \"hello, world!\";\n  let slice = &s[0..5]; // Emprunte une partie de la chaîne\n  println!(\"{}\", slice); // Affiche \"hello\"\n  ```\n\n### Comparaison clé\n| Caractéristique       | `String`                          | `&str`                            |\n|-----------------------|-----------------------------------|-----------------------------------|\n| **Allocation**        | Sur le tas (heap)                 | Sur la pile (stack) ou littéral   |\n| **Mutabilité**        | Modifiable                        | Immuable                          |\n| **Propriété**         | Possède ses données               | Référence (emprunt)               |\n| **Utilisation**       | Pour des chaînes modifiables      | Pour des lectures ou emprunts     |\n\n### Quand utiliser lequel ?\n- Utilisez `String` lorsque vous avez besoin de créer, modifier ou posséder une chaîne.\n- Utilisez `&str` lorsque vous travaillez avec des littéraux de chaîne ou lorsque vous voulez emprunter une partie d'une chaîne existante.\n\nSi vous avez besoin de plus de détails ou d'exemples supplémentaires, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:53:26.8719607+02:00",
+  "durationSeconds": 11.53,
+  "stats": "mistral-small3.2:latest · 520 + 561 tokens · 11,5 s",
+  "isError": false,
+  "language": "FR"
+}

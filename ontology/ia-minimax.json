@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (les jeux) : Algorithme de décision pour les jeux à deux joueurs à somme nulle, qui minimise la perte maximale possible ; fondé sur le théorème du minimax de von Neumann.",
+  "id": "ia-minimax",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Algorithme minimax",
+  "entityType": "ALGORITHM",
+  "description": "Algorithme de décision pour les jeux à deux joueurs à somme nulle, qui minimise la perte maximale possible ; fondé sur le théorème du minimax de von Neumann.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Dans le domaine des jeux, Algorithme minimax reste une référence.",
+    "Pour ce projet, l'équipe a implémenté Algorithme minimax en quelques lignes de Python.",
+    "Comprendre Algorithme minimax est une étape clé pour maîtriser les jeux."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "minmax"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#JEUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Algorithme%20minimax"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Arthur Samuel",
+    "Élagage alpha-bêta"
+  ],
+  "isDeleted": false,
+  "startDate": "1928-01-01T00:00:00",
+  "endDate": null
+}

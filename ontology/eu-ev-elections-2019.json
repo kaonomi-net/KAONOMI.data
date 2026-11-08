@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la démocratie européenne) : Élection des députés européens dans les vingt-huit États membres, avec une participation en hausse.",
+  "id": "eu-ev-elections-2019",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Élections européennes de 2019",
+  "entityType": "EVENT",
+  "description": "Élection des députés européens dans les vingt-huit États membres, avec une participation en hausse.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "La presse européenne a largement couvert « Élections européennes de 2019 ».",
+    "« Élections européennes de 2019 » concerne la démocratie européenne.",
+    "Les archives audiovisuelles de la Commission conservent des images de « Élections européennes de 2019 »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#DEMOCRATIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89lections%20europ%C3%A9ennes%20de%202019"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Démocratie",
+    "Commission Juncker",
+    "Parlement européen",
+    "Élection d'Ursula von der Leyen par le Parlement européen"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-05-23T00:00:00",
+  "endDate": "2019-05-26T00:00:00"
+}

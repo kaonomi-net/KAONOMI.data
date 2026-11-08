@@ -1,0 +1,13 @@
+{
+  "index": 542,
+  "file": "0542-ia-symbolique-explique-les-systemes-experts-de-facon.prompt.json",
+  "prompt": "Explique les systèmes experts de façon simple.",
+  "promptWords": 7,
+  "completion": "Les systèmes experts sont des programmes informatiques conçus pour imiter le raisonnement et les décisions d'un expert humain dans un domaine spécifique. Voici une explication simple :\n\n1. **Base de connaissances** : C'est comme un livre de règles ou de faits que le système utilise. Par exemple, un système expert médical pourrait contenir des informations sur les symptômes et les maladies.\n\n2. **Moteur d'inférence** : C'est le \"cerveau\" du système. Il utilise la base de connaissances pour tirer des conclusions ou prendre des décisions. Par exemple, il pourrait associer des symptômes à une maladie probable.\n\n3. **Interface utilisateur** : C'est la façon dont tu interagis avec le système. Cela peut être un clavier, une interface graphique, etc.\n\n### Exemple simple :\nImagine un système expert pour diagnostiquer les problèmes de voiture. Tu lui dis : \"Ma voiture fait un bruit bizarre\". Il te pose des questions comme : \"Est-ce que le bruit vient du moteur ?\" ou \"Quand le bruit apparaît-il ?\". En fonction de tes réponses, il utilise sa base de connaissances pour te suggérer une solution, comme \"Votre courroie de distribution est peut-être usée\".\n\n### Avantages :\n- **Disponibilité** : Un système expert peut être consulté à tout moment.\n- **Consistance** : Il prend toujours les mêmes décisions pour les mêmes informations.\n- **Partage de connaissances** : Il peut centraliser le savoir d'un expert.\n\n### Limites :\n- **Spécialisation** : Un système expert est généralement limité à un domaine précis.\n- **Manque de créativité** : Il ne peut pas penser en dehors des règles qu'on lui a données.\n\nEn résumé, un système expert est comme un assistant virtuel qui utilise des règles et des faits pour résoudre des problèmes dans un domaine spécifique.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:04:11.3580917+02:00",
+  "durationSeconds": 7.92,
+  "stats": "mistral-small3.2:latest · 516 + 388 tokens · 7,9 s",
+  "isError": false,
+  "language": "FR"
+}

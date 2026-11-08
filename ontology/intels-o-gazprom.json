@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-gazprom",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "Gazprom",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 5 intels : Gazprom et la crise du gaz ; Gazoduc Force de Sibérie 2 ; Transit du gaz par l'Ukraine ; Gazoduc TurkStream ; Approvisionnement en gaz russe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les difficultés de Gazprom après la perte du marché européen.",
+    "Suivre le projet de gazoduc vers la Chine.",
+    "Suivre la fin du transit de gaz russe par l'Ukraine et ses conséquences."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Gazprom",
+  "tags": [
+    "#ENERGIE",
+    "#RUSSIE",
+    "#GAZ",
+    "#GAZPROM",
+    "#CHINE",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@RUPTURE-APPROVISIONNEMENT"
+  ],
+  "signals": [
+    "!TENSION-ENERGETIQUE",
+    "!RISQUE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "gazoduc",
+    "Turquie",
+    "Chine",
+    "TurkStream",
+    "Hongrie",
+    "Power of Siberia",
+    "pertes",
+    "prix",
+    "CNPC",
+    "Mongolie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-guerre",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un conflit armé entre États ou groupes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:guerre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guerre(s)?\\s+mondiale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:troisi[èe]me\\s+guerre\\s+mondiale)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]tat\\s+de\\s+guerre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]claration\\s+de\\s+guerre)(?![\\w-])"
+  ],
+  "symbol": "guerre",
+  "event": null,
+  "title": "Guerre",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

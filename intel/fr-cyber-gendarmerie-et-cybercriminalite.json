@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-gendarmerie-et-cybercriminalite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Gendarmerie et cybercriminalité",
+  "includedEntities": [
+    {
+      "entityName": "ComCyberMI",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "gendarmerie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cybercriminalité",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action de la gendarmerie contre la cybercriminalité.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "C3N",
+    "enquêtes",
+    "démantèlements"
+  ],
+  "questions": [
+    "Quelle opération ?",
+    "Quel réseau ?",
+    "Quelles arrestations ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FRANCE",
+    "#POLICE"
+  ],
+  "events": [
+    "@DEMANTELEMENT"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

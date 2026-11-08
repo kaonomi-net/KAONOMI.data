@@ -1,0 +1,61 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la politique commerciale) : Compétence exclusive de l'Union : accords commerciaux, défense commerciale et relations avec l'OMC.",
+  "id": "eu-dom-commerce",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Commerce",
+  "entityType": "DOMAIN",
+  "description": "Compétence exclusive de l'Union : accords commerciaux, défense commerciale et relations avec l'OMC.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Les propositions législatives relatives au domaine « Commerce » passent par le Parlement et le Conseil.",
+    "La conférence portait sur la politique commerciale.",
+    "Le domaine « Commerce » figure dans le programme de travail de la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#POLITIQUECOMMERCIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commerce"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission du commerce international (INTA)",
+    "Conseil des affaires étrangères (FAC)",
+    "Une économie au service des personnes et commerce (Commission von der Leyen I)",
+    "Valdis Dombrovskis",
+    "Commerce (Commission von der Leyen I)",
+    "Phil Hogan",
+    "Commerce et sécurité économique ; relations interinstitutionnelles et transparence (Commission von der Leyen II)",
+    "Maroš Šefčovič",
+    "Commerce (Commission Juncker)",
+    "Cecilia Malmström",
+    "Direction générale du commerce et de la sécurité économique",
+    "Accord de commerce et de coopération entre l'UE et le Royaume-Uni",
+    "Démission de Phil Hogan",
+    "Conclusion des négociations UE-Mercosur",
+    "Accord commercial UE–États-Unis de Turnberry"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

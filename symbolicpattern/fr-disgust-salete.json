@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-salete",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui rend sale.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:salet[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:malpropret[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:manque\\s+d['’]hygi[èe]ne)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:n[ée]glig[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]go[ûu]tant\\s+de\\s+salet[ée])(?![\\w-])"
+  ],
+  "symbol": "saleté",
+  "event": null,
+  "title": "Saleté",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

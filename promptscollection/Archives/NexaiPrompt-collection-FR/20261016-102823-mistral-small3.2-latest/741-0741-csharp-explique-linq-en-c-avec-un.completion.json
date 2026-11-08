@@ -1,0 +1,13 @@
+{
+  "index": 741,
+  "file": "0741-csharp-explique-linq-en-c-avec-un.prompt.json",
+  "prompt": "Explique LINQ en C# avec un exemple simple.",
+  "promptWords": 8,
+  "completion": "LINQ (Language Integrated Query) est une fonctionnalité de C# qui permet d'interroger des collections de données de manière déclarative, similaire à la façon dont on interroge une base de données SQL. LINQ peut être utilisé pour interroger des tableaux, des listes, des dictionnaires, et d'autres types de collections.\n\nVoici un exemple simple de LINQ en C# :\n\n```csharp\nusing System;\nusing System.Linq;\nusing System.Collections.Generic;\n\nclass Program\n{\n    static void Main()\n    {\n        // Création d'une liste de nombres\n        List<int> nombres = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };\n\n        // Utilisation de LINQ pour filtrer les nombres pairs\n        var nombresPairs = from nombre in nombres\n                           where nombre % 2 == 0\n                           select nombre;\n\n        // Affichage des résultats\n        Console.WriteLine(\"Nombres pairs :\");\n        foreach (var nombre in nombresPairs)\n        {\n            Console.WriteLine(nombre);\n        }\n    }\n}\n```\n\nDans cet exemple, nous avons une liste de nombres entiers. Nous utilisons LINQ pour filtrer les nombres pairs en utilisant une syntaxe similaire à SQL. Le résultat est une nouvelle collection contenant uniquement les nombres pairs.\n\nLINQ peut également être utilisé pour effectuer des opérations plus complexes, telles que le tri, la projection, le regroupement, et bien plus encore. Il est très puissant et peut grandement simplifier le code lorsque vous travaillez avec des collections de données.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:00:54.7880771+02:00",
+  "durationSeconds": 6.92,
+  "stats": "mistral-small3.2:latest · 519 + 339 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

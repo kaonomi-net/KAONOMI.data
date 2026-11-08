@@ -1,0 +1,13 @@
+{
+  "index": 203,
+  "file": "0203-cybersecurite-qu-est-ce-qu-un-siem.prompt.json",
+  "prompt": "Qu'est-ce qu'un SIEM et à quoi sert-il ?",
+  "promptWords": 8,
+  "completion": "Un **SIEM** (Security Information and Event Management) est un système de gestion des informations et des événements de sécurité. Il combine deux fonctionnalités principales :\n\n1. **SIM (Security Information Management)** : Collecte, analyse et stocke les données de sécurité (logs) provenant de diverses sources.\n2. **SEM (Security Event Management)** : Surveille en temps réel les événements de sécurité et déclenche des alertes en cas de détection d'anomalies ou d'attaques.\n\n### À quoi sert un SIEM ?\nUn SIEM sert principalement à :\n- **Centraliser les logs** : Agrège les données de sécurité provenant de différents appareils, applications et systèmes.\n- **Détecter les menaces** : Utilise des règles et des algorithmes pour identifier des comportements suspects ou des attaques.\n- **Corréler les événements** : Met en relation des événements apparemment non liés pour détecter des attaques complexes.\n- **Réagir rapidement** : Fournit des alertes en temps réel pour permettre une réponse rapide aux incidents de sécurité.\n- **Conformité** : Aide à respecter les réglementations en matière de sécurité (RGPD, ISO 27001, etc.) en fournissant des rapports et des preuves d'audit.\n\nEn résumé, un SIEM est un outil essentiel pour la **cybersécurité**, permettant aux organisations de mieux surveiller, analyser et répondre aux menaces potentielles.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:03:45.8378505+02:00",
+  "durationSeconds": 6.11,
+  "stats": "mistral-small3.2:latest · 520 + 300 tokens · 6,1 s",
+  "isError": false,
+  "language": "FR"
+}

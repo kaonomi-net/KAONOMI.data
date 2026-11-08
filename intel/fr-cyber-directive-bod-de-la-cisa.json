@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-directive-bod-de-la-cisa",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Directive BOD de la CISA",
+  "includedEntities": [
+    {
+      "entityName": "BOD",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "CISA",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les directives de la CISA aux agences fédérales américaines.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "BOD 26-04",
+    "KEV",
+    "échéances"
+  ],
+  "questions": [
+    "Quelle directive ?",
+    "Quelle obligation ?",
+    "Quelle échéance ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ETATS-UNIS",
+    "#CISA"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

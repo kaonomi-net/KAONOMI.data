@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la vie politique européenne) : Avocat, ancien Premier ministre belge, président du Conseil européen de 2019 à 2024, protagoniste du « Sofagate » d'Ankara.",
+  "id": "eu-p-michel",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Charles Michel",
+  "entityType": "PERSON",
+  "description": "Avocat, ancien Premier ministre belge, président du Conseil européen de 2019 à 2024, protagoniste du « Sofagate » d'Ankara.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-dirigeants",
+  "sentencesExemples": [
+    "Lors du point de presse de midi, une question portait sur Charles Michel.",
+    "Charles Michel est une figure de la vie politique européenne.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Charles Michel."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Michel"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#VIEPOLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Charles%20Michel"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité belge",
+    "Mouvement réformateur (MR)",
+    "Avocat",
+    "Chef de gouvernement",
+    "Président du Conseil européen",
+    "Conseil européen",
+    "António Costa",
+    "Retrait du Royaume-Uni de l'Union européenne",
+    "Accord du Conseil européen sur NextGenerationEU",
+    "Sofagate",
+    "Invasion de l'Ukraine par la Russie",
+    "Décision d'ouvrir les négociations d'adhésion avec l'Ukraine et la Moldavie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

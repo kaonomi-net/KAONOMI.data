@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-verts-au-parlement-europeen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Verts au Parlement européen",
+  "includedEntities": [
+    {
+      "entityName": "Verts",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Parlement européen",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la position des Verts face aux reculs du Pacte vert.",
+  "isFuzzy": false,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "climat",
+    "omnibus",
+    "votes"
+  ],
+  "questions": [
+    "Quel vote ?",
+    "Quelle critique ?",
+    "Quelle alliance ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#VERTS"
+  ],
+  "events": [],
+  "signals": [
+    "!OPPOSITION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-talents-et-migration-legale",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Talents et migration légale",
+  "includedEntities": [
+    {
+      "entityName": "migration légale",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "talents",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les initiatives pour attirer les travailleurs qualifiés.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "réserve de talents",
+    "pénuries",
+    "reconnaissance des diplômes"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quels secteurs ?",
+    "Quelle adoption ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MIGRATION",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

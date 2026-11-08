@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-russie-et-les-brics",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Russie et les BRICS",
+  "includedEntities": [
+    {
+      "entityName": "Russie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "BRICS",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sommet",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage par la Russie des BRICS pour contourner son isolement.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "sommets"
+  ],
+  "relatedEntities": [
+    "Chine",
+    "Inde",
+    "dédollarisation"
+  ],
+  "questions": [
+    "Quelle initiative ?",
+    "Quel soutien des membres ?",
+    "Quel système de paiement ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#BRICS",
+    "#MULTIPOLARITE"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!MULTIPOLARITE"
+  ],
+  "isDeleted": false
+}

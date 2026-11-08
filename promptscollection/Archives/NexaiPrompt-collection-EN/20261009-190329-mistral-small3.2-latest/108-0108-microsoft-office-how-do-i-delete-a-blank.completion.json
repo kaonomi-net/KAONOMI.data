@@ -1,0 +1,13 @@
+{
+  "index": 108,
+  "file": "0108-microsoft-office-how-do-i-delete-a-blank.prompt.json",
+  "prompt": "How do I delete a blank page that won't go away in Word?",
+  "promptWords": 13,
+  "completion": "To delete a blank page in Microsoft Word that won't go away, you can try the following steps:\n\n1. **Check for Manual Page Breaks**:\n   - Go to the **Home** tab.\n   - Click the **Show/Hide** button (¶) to display non-printing characters.\n   - Look for manual page breaks (indicated by a dotted line with \"Page Break\" written on it) and delete them.\n\n2. **Check for Paragraph Marks**:\n   - Sometimes, extra paragraph marks can cause blank pages.\n   - Delete any extra paragraph marks (¶) at the end of the document.\n\n3. **Check for Section Breaks**:\n   - Go to the **Layout** or **Design** tab.\n   - Click on **Breaks** and then **Section Breaks**.\n   - Look for section breaks that might be causing the blank page and delete them if unnecessary.\n\n4. **Adjust Margins and Paragraph Settings**:\n   - Go to the **Layout** tab.\n   - Click on **Margins** and choose **Narrow** to see if the blank page disappears.\n   - Check the paragraph settings (right-click on the paragraph and select **Paragraph**) and ensure there are no extra spaces or line spacing causing the issue.\n\n5. **Delete Hidden Characters**:\n   - Sometimes, hidden characters like tabs or spaces can cause blank pages.\n   - Use the **Find** feature (Ctrl + F) to search for these characters and delete them.\n\n6. **Use the Navigation Pane**:\n   - Go to the **View** tab.\n   - Click on **Navigation Pane** in the **Show** group.\n   - Use the navigation pane to locate and delete the blank page.\n\nIf the blank page persists, it might be due to complex formatting or embedded objects. In such cases, you may need to copy the content to a new document and reformatting it.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:23:36.2542211+02:00",
+  "durationSeconds": 9.12,
+  "stats": "mistral-small3.2:latest · 522 + 390 tokens · 9,1 s",
+  "isError": false,
+  "language": "EN"
+}

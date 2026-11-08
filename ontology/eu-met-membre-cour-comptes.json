@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Contrôle la légalité et la bonne gestion des finances de l'Union.",
+  "id": "eu-met-membre-cour-comptes",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Membre de la Cour des comptes européenne",
+  "entityType": "PROFESSION",
+  "description": "Contrôle la légalité et la bonne gestion des finances de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "Le parcours de nombreux commissaires passe par la fonction « Membre de la Cour des comptes européenne ».",
+    "Le métier « Membre de la Cour des comptes européenne » apparaît dans les biographies officielles.",
+    "La fonction « Membre de la Cour des comptes européenne » relève de la vie publique européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Membre%20de%20la%20Cour%20des%20comptes%20europ%C3%A9enne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Cour des comptes européenne",
+    "Janusz Wojciechowski",
+    "Iliana Ivanova"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

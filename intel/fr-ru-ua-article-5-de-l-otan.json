@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-article-5-de-l-otan",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Article 5 de l'OTAN",
+  "includedEntities": [
+    {
+      "entityName": "article 5",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "OTAN",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller toute invocation de l'article 5 ou de l'article 4 de l'OTAN.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "alliés",
+    "agression",
+    "consultations"
+  ],
+  "questions": [
+    "Quel article est invoqué ?",
+    "Par quel pays ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#OTAN",
+    "#SECURITE",
+    "#ALLIANCE"
+  ],
+  "events": [
+    "@CONSULTATION-OTAN"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

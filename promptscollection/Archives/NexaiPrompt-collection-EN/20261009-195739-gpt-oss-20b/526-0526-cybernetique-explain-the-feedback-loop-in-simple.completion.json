@@ -1,0 +1,13 @@
+{
+  "index": 526,
+  "file": "0526-cybernetique-explain-the-feedback-loop-in-simple.prompt.json",
+  "prompt": "Explain the feedback loop in simple terms.",
+  "promptWords": 7,
+  "completion": "### What is a “feedback loop” in plain language?\n\nThink of it as a **self‑checking cycle** that helps a system stay on track or change in a controlled way.\n\n1. **The system does something** – e.g., a thermostat sets a room to 70\u202F°F.\n2. **The system measures the result** – a sensor checks the actual temperature.\n3. **The system compares the measurement to what it wanted** – is it 70\u202F°F or 68\u202F°F?\n4. **The system adjusts itself** – if it’s too cold, the heater turns on; if it’s too hot, it turns off.\n5. **The process repeats** – the new state is measured again, and adjustments keep coming.\n\nThat repeating chain—do → measure → adjust—makes a **feedback loop**.\n\n---\n\n#### Types of feedback\n\n| Type | What it does | Everyday example |\n|------|--------------|------------------|\n| **Negative feedback** | Dampens or corrects changes, keeping things stable. | Thermostat keeps room temperature around 70\u202F°F. Body keeps its core temperature near 37\u202F°C. |\n| **Positive feedback** | Amplifies changes, pushing the system further away from its starting point. | A microphone in a closed‑room loop can create a “siren” effect. In biology, a single hormone release can trigger more hormone release (e.g., the body’s oxytocin surge during childbirth). |\n\n---\n\n#### Why it matters\n\n- **Stability**: Negative feedback makes systems reliable (e.g., the brain’s blood‑pressure control).\n- **Growth or runaway change**: Positive feedback can be useful for quick responses (e.g., a crowd rallying to a cheer) but can also lead to problems (e.g., a feedback loop in a noisy radio causing distortion).\n\n---\n\n#### Quick analogy\n\nPicture a conversation:\n\n- **You say** something (the system action).  \n- **The listener replies** (measurement of the result).  \n- **You adjust** your words to match the listener’s reaction (feedback).  \n\nYou keep doing this until the conversation flows smoothly—just like a feedback loop keeps a system running the way it should.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T22:10:05.043865+02:00",
+  "durationSeconds": 5.97,
+  "stats": "gpt-oss:20b · 75 + 638 tokens · 6,0 s",
+  "isError": false,
+  "language": "EN"
+}

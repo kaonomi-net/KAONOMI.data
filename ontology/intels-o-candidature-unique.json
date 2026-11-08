@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-candidature-unique",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "candidature unique",
+  "entityType": "EVENT",
+  "description": "Cité par 1 intel : Candidature unique du bloc central.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les efforts pour un candidat unique du centre et de la majorité sortante."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "candidature unique",
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#CENTRE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Attal",
+    "bloc central",
+    "Bayrou",
+    "Philippe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

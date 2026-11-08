@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-braconnage",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La chasse illégale.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:braconnage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:braconnier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:massacre\\s+d['’]animaux)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chasse\\s+au\\s+troph[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ivoire\\s+ill[ée]gal)(?![\\w-])"
+  ],
+  "symbol": "braconnage",
+  "event": null,
+  "title": "Braconnage",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

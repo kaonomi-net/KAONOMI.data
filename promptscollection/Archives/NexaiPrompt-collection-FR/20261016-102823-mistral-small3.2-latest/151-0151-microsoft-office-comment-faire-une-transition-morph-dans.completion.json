@@ -1,0 +1,13 @@
+{
+  "index": 151,
+  "file": "0151-microsoft-office-comment-faire-une-transition-morph-dans.prompt.json",
+  "prompt": "Comment faire une transition morph dans PowerPoint ?",
+  "promptWords": 8,
+  "completion": "Pour créer une transition morph dans PowerPoint, suivez ces étapes :\n\n1. **Ouvrez votre présentation PowerPoint** et allez à la diapositive où vous souhaitez ajouter la transition.\n2. **Sélectionnez la diapositive** en cliquant dessus dans le volet de gauche.\n3. **Accédez à l'onglet \"Transitions\"** dans le ruban en haut de l'écran.\n4. **Choisissez la transition \"Morph\"** dans la galerie des transitions.\n5. **Personnalisez la transition** :\n   - Cliquez sur **\"Effets de transition\"** pour ajuster la durée et le déclenchement.\n   - Si vous souhaitez animer des objets spécifiques, assurez-vous qu'ils sont dupliqués sur la diapositive suivante avec des modifications (par exemple, déplacement, redimensionnement, changement de couleur).\n6. **Passez en mode Présentation** pour voir le résultat.\n\nLa transition Morph fonctionne en animant les différences entre les objets de deux diapositives consécutives. Assurez-vous que les objets que vous souhaitez animer sont présents sur les deux diapositives pour un effet optimal.\n\nSi vous avez besoin d'aide supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:56:11.4921511+02:00",
+  "durationSeconds": 5.7,
+  "stats": "mistral-small3.2:latest · 516 + 269 tokens · 5,7 s",
+  "isError": false,
+  "language": "FR"
+}

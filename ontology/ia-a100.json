@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul accéléré) : GPU de l'architecture Ampere, référence de l'entraînement des grands modèles au début des années 2020.",
+  "id": "ia-a100",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "NVIDIA A100",
+  "entityType": "HARDWARE",
+  "description": "GPU de l'architecture Ampere, référence de l'entraînement des grands modèles au début des années 2020.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Lors du salon, le stand présentait NVIDIA A100 en démonstration.",
+    "Le laboratoire utilise NVIDIA A100 pour ses travaux dans le domaine du calcul accéléré.",
+    "Le technicien a installé NVIDIA A100 dans la salle des machines."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "A100"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULACCELERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NVIDIA%20A100"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NVIDIA Tesla V100",
+    "NVIDIA H100",
+    "Intel Gaudi 2",
+    "Cerebras WSE"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-01-01T00:00:00",
+  "endDate": null
+}

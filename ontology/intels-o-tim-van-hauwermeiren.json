@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-tim-van-hauwermeiren",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "Tim Van Hauwermeiren",
+  "entityType": "PERSON",
+  "description": "Cité par 1 intel : argenx.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre l'action argenx, poids lourd du BEL 20, et son médicament Vyvgart."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Tim Van Hauwermeiren",
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#BIOTECH"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Vyvgart",
+    "essais cliniques",
+    "argenx",
+    "Amsterdam",
+    "Gand"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

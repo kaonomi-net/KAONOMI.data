@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-seance-du-vendredi-et-bilan-hebdomadaire",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Séance du vendredi et bilan hebdomadaire",
+  "includedEntities": [
+    {
+      "entityName": "bilan hebdomadaire",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "semaine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Bourse",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le bilan de la semaine boursière.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Bruxelles"
+  ],
+  "times": [
+    "chaque vendredi"
+  ],
+  "relatedEntities": [
+    "CAC 40",
+    "BEL 20",
+    "Wall Street"
+  ],
+  "questions": [
+    "Quel bilan ?",
+    "Quels faits marquants ?",
+    "Quel agenda à venir ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BILAN"
+  ],
+  "events": [],
+  "signals": [
+    "!MARCHE"
+  ],
+  "isDeleted": false
+}

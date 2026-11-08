@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (l'apprentissage automatique) : Bibliothèque Python d'apprentissage automatique née à l'Inria, référence pour la classification, la régression et le partitionnement.",
+  "id": "ia-scikit-learn",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "scikit-learn",
+  "entityType": "SOFTWARE",
+  "description": "Bibliothèque Python d'apprentissage automatique née à l'Inria, référence pour la classification, la régression et le partitionnement.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "Le développeur a utilisé scikit-learn pour son projet.",
+    "Les historiens de l'informatique considèrent scikit-learn comme une étape de l'apprentissage automatique.",
+    "Le chercheur cite scikit-learn dans son article sur l'apprentissage automatique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "sklearn"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#APPRENTISSAGEAUTOMATIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=scikit-learn"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Forêts aléatoires",
+    "Machines à vecteurs de support",
+    "K-moyennes",
+    "K plus proches voisins",
+    "Classifieur bayésien naïf"
+  ],
+  "isDeleted": false,
+  "startDate": "2007-01-01T00:00:00",
+  "endDate": null
+}

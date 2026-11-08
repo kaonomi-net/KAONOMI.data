@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-operation-de-demantelement-d-europol",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Opération de démantèlement d'Europol",
+  "includedEntities": [
+    {
+      "entityName": "Europol",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "démantèlement",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les opérations internationales contre la cybercriminalité.",
+  "isFuzzy": true,
+  "locations": [
+    "La Haye"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Eurojust",
+    "FBI",
+    "polices nationales"
+  ],
+  "questions": [
+    "Quelle opération ?",
+    "Quels serveurs saisis ?",
+    "Quelles arrestations ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CYBERCRIMINALITE",
+    "#EUROPOL"
+  ],
+  "events": [
+    "@DEMANTELEMENT"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

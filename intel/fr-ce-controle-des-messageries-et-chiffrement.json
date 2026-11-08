@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-controle-des-messageries-et-chiffrement",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Contrôle des messageries et chiffrement",
+  "includedEntities": [
+    {
+      "entityName": "chiffrement",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "contrôle des conversations",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet de règlement contre les abus sexuels en ligne et le débat sur le chiffrement.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "messageries",
+    "vie privée",
+    "États membres"
+  ],
+  "questions": [
+    "Quelle version ?",
+    "Quels pays s'y opposent ?",
+    "Quelle position du Parlement ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#NUMERIQUE",
+    "#VIE-PRIVEE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

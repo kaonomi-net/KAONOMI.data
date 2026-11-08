@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-impunite",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de ne pas être puni.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:impunit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:impuni(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s['’]en\\s+tirer\\s+sans\\s+rien)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:au-dessus\\s+des\\s+lois)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:justice\\s+[àa]\\s+deux\\s+vitesses)(?![\\w-])"
+  ],
+  "symbol": "impunité",
+  "event": null,
+  "title": "Impunité",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

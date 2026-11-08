@@ -1,0 +1,13 @@
+{
+  "index": 133,
+  "file": "0133-microsoft-office-comment-corriger-l-erreur-n-a.prompt.json",
+  "prompt": "Comment corriger l'erreur #N/A dans Excel ?",
+  "promptWords": 7,
+  "completion": "L'erreur #N/A dans Excel signifie \"Non disponible\" (Not Available en anglais). Elle apparaît généralement lorsque vous utilisez des fonctions comme RECHERCHEV, RECHERCHEH, EQUIV ou RECHERCHEX et que la valeur recherchée n'est pas trouvée dans la plage de données spécifiée.\n\nVoici quelques méthodes pour corriger cette erreur :\n\n1. **Vérifier la valeur recherchée** : Assurez-vous que la valeur que vous recherchez existe bien dans la plage de données. Vérifiez les fautes de frappe, les espaces supplémentaires ou les différences de format (par exemple, texte vs nombre).\n\n2. **Vérifier la plage de données** : Assurez-vous que la plage de données que vous avez spécifiée dans la fonction est correcte. Par exemple, si vous utilisez RECHERCHEV, vérifiez que la colonne de recherche contient bien la valeur que vous cherchez.\n\n3. **Utiliser la fonction ESTNA** : Vous pouvez utiliser la fonction ESTNA pour vérifier si une cellule contient une erreur #N/A. Par exemple, `=SI(ESTNA(A1), \"Valeur non trouvée\", A1)` affichera \"Valeur non trouvée\" si A1 contient une erreur #N/A.\n\n4. **Utiliser la fonction SIERREUR** : Vous pouvez utiliser la fonction SIERREUR pour gérer l'erreur #N/A. Par exemple, `=SIERREUR(RECHERCHEV(A1, B1:D10, 2, FAUX), \"Valeur non trouvée\")` affichera \"Valeur non trouvée\" si RECHERCHEV retourne une erreur.\n\n5. **Vérifier les références** : Assurez-vous que les références de cellules dans votre formule sont correctes et qu'elles ne contiennent pas d'espaces ou de caractères spéciaux inattendus.\n\nSi vous avez besoin d'une aide plus spécifique, n'hésitez pas à fournir plus de détails sur votre formule ou votre feuille de calcul.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:53:21.4891922+02:00",
+  "durationSeconds": 8.92,
+  "stats": "mistral-small3.2:latest · 519 + 439 tokens · 8,9 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-d-ieteren",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "D'Ieteren",
+  "includedEntities": [
+    {
+      "entityName": "D'Ieteren",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Belron",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action D'Ieteren et sa filiale Belron.",
+  "isFuzzy": false,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Belron",
+    "distribution automobile",
+    "dette"
+  ],
+  "questions": [
+    "Quel résultat ?",
+    "Quelle valorisation de Belron ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#HOLDINGS"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

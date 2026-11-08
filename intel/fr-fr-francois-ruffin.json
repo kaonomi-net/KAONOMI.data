@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-francois-ruffin",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "François Ruffin",
+  "includedEntities": [
+    {
+      "entityName": "François Ruffin",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "candidature",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les ambitions présidentielles de François Ruffin.",
+  "isFuzzy": true,
+  "locations": [
+    "Somme"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Debout !",
+    "gauche",
+    "primaire"
+  ],
+  "questions": [
+    "Est-il candidat ?",
+    "Quels soutiens ?",
+    "Quelle stratégie ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#GAUCHE"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

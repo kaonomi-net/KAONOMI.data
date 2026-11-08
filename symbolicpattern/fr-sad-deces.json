@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-deces",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le décès, la disparition d'une personne.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]c[èe]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:disparition(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perte(s)?\\s+(d['’]un|d['’]une)\\s+proche(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mortalit[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "décès",
+  "event": null,
+  "title": "Décès",
+  "tags": [
+    "#MORT",
+    "#DEUIL"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

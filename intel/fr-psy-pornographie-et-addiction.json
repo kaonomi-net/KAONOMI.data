@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-pornographie-et-addiction",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Pornographie et addiction",
+  "includedEntities": [
+    {
+      "entityName": "pornographie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "addiction",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études sur l'usage compulsif de la pornographie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "jeunes",
+    "vérification de l'âge",
+    "effets"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel effet ?",
+    "Quelle régulation ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADDICTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

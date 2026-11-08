@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-discours-d-emmanuel-macron",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Discours d'Emmanuel Macron",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "discours",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "allocution",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les discours et allocutions du président.",
+  "isFuzzy": true,
+  "locations": [
+    "Élysée"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "télévision",
+    "annonces",
+    "Nation"
+  ],
+  "questions": [
+    "Quelles annonces ?",
+    "Quel ton ?",
+    "Quelle réception ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#COMMUNICATION"
+  ],
+  "events": [
+    "@DISCOURS"
+  ],
+  "signals": [
+    "!COMMUNICATION"
+  ],
+  "isDeleted": false
+}

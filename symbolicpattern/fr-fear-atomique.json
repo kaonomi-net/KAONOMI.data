@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-atomique",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'arme qui libère l'énergie de l'atome.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:atomique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bombe(s)?\\s+atomique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bombe(s)?\\s+h)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:champignon\\s+atomique)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:retomb[ée]es\\s+radioactives)(?![\\w-])"
+  ],
+  "symbol": "atomique",
+  "event": null,
+  "title": "Atomique",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

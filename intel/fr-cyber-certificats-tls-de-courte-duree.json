@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-certificats-tls-de-courte-duree",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Certificats TLS de courte durée",
+  "includedEntities": [
+    {
+      "entityName": "certificats",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "durée de validité",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la réduction de la durée de validité des certificats TLS à 47 jours.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "2026 à 2029"
+  ],
+  "relatedEntities": [
+    "CA/Browser Forum",
+    "automatisation",
+    "ACME"
+  ],
+  "questions": [
+    "Quelle échéance ?",
+    "Quel effet ?",
+    "Quelle automatisation ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#CERTIFICATS",
+    "#PKI"
+  ],
+  "events": [
+    "@ECHEANCE-REGLEMENTAIRE"
+  ],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "isDeleted": false
+}

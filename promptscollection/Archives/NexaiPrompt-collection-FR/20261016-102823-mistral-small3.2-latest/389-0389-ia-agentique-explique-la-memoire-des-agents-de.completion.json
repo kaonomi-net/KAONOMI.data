@@ -1,0 +1,13 @@
+{
+  "index": 389,
+  "file": "0389-ia-agentique-explique-la-memoire-des-agents-de.prompt.json",
+  "prompt": "Explique la mémoire des agents de façon simple.",
+  "promptWords": 8,
+  "completion": "La mémoire des agents, dans le contexte de l'intelligence artificielle, peut être expliquée simplement comme suit :\n\n1. **Mémoire à court terme** : C'est comme la mémoire de travail d'un humain. Elle permet à l'agent de se souvenir des informations récentes et de les utiliser pour répondre à des questions ou accomplir des tâches immédiates. Par exemple, si tu me poses une question et que je dois me souvenir de la réponse précédente pour répondre correctement, j'utilise ma mémoire à court terme.\n\n2. **Mémoire à long terme** : C'est comme la mémoire permanente d'un humain. Elle stocke des connaissances générales et des informations apprises au fil du temps. Par exemple, je peux me souvenir de faits historiques ou de concepts scientifiques grâce à ma mémoire à long terme.\n\n3. **Mémoire contextuelle** : Elle permet à l'agent de se souvenir du contexte de la conversation. Par exemple, si tu me parles d'un sujet et que tu changes de sujet puis reviens au premier, je peux me souvenir du contexte précédent pour répondre de manière cohérente.\n\nEn résumé, la mémoire des agents leur permet de fonctionner de manière plus efficace et de fournir des réponses plus pertinentes en se basant sur les informations qu'ils ont stockées et en les utilisant de manière appropriée.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:36:07.8094981+02:00",
+  "durationSeconds": 5.83,
+  "stats": "mistral-small3.2:latest · 517 + 282 tokens · 5,8 s",
+  "isError": false,
+  "language": "FR"
+}

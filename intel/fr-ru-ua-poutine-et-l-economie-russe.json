@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-poutine-et-l-economie-russe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Poutine et l'économie russe",
+  "includedEntities": [
+    {
+      "entityName": "Poutine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "économie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "inflation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les déclarations du président sur l'économie et l'inflation.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [
+    "forum économique de Saint-Pétersbourg"
+  ],
+  "relatedEntities": [
+    "banque centrale",
+    "budget",
+    "croissance"
+  ],
+  "questions": [
+    "Quel constat ?",
+    "Quelles mesures ?",
+    "Quel ton sur la banque centrale ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#ECONOMIE-RUSSE"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

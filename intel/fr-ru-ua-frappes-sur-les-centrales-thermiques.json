@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-sur-les-centrales-thermiques",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes sur les centrales thermiques",
+  "includedEntities": [
+    {
+      "entityName": "centrale thermique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "frappe",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les destructions de centrales thermiques et hydroélectriques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "DTEK",
+    "Centrenergo",
+    "barrages"
+  ],
+  "questions": [
+    "Quelle centrale ?",
+    "Quels dégâts ?",
+    "Quel délai de réparation ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ENERGIE",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE-ENERGIE"
+  ],
+  "signals": [
+    "!TENSION-ENERGETIQUE"
+  ],
+  "isDeleted": false
+}

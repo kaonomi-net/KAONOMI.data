@@ -1,0 +1,13 @@
+{
+  "index": 706,
+  "file": "0706-java-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Java qui illustre les streams.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en Java qui illustre l'utilisation des streams pour manipuler une collection d'objets :\n\n```java\nimport java.util.Arrays;\nimport java.util.List;\nimport java.util.stream.Collectors;\n\npublic class StreamExample {\n    public static void main(String[] args) {\n        // Création d'une liste d'entiers\n        List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);\n\n        // Utilisation d'un stream pour filtrer les nombres pairs et les doubler\n        List<Integer> evenNumbersDoubled = numbers.stream()\n                .filter(n -> n % 2 == 0)  // Filtre les nombres pairs\n                .map(n -> n * 2)          // Double chaque nombre pair\n                .collect(Collectors.toList());  // Collecte les résultats dans une liste\n\n        // Affichage du résultat\n        System.out.println(\"Nombres pairs doublés : \" + evenNumbersDoubled);\n\n        // Utilisation d'un stream pour calculer la somme des nombres impairs\n        int sumOfOddNumbers = numbers.stream()\n                .filter(n -> n % 2 != 0)  // Filtre les nombres impairs\n                .mapToInt(Integer::intValue)  // Convertit en IntStream\n                .sum();  // Calcule la somme\n\n        // Affichage du résultat\n        System.out.println(\"Somme des nombres impairs : \" + sumOfOddNumbers);\n    }\n}\n```\n\n### Explications :\n1. **Création d'une liste** : On crée une liste d'entiers de 1 à 10.\n2. **Filtrer et mapper** :\n   - `filter(n -> n % 2 == 0)` : Filtre les nombres pairs.\n   - `map(n -> n * 2)` : Double chaque nombre pair.\n   - `collect(Collectors.toList())` : Collecte les résultats dans une nouvelle liste.\n3. **Calcul de la somme** :\n   - `filter(n -> n % 2 != 0)` : Filtre les nombres impairs.\n   - `mapToInt(Integer::intValue)` : Convertit le stream en `IntStream` pour utiliser `sum()`.\n   - `sum()` : Calcule la somme des nombres impairs.\n\nCe code montre comment les streams permettent de manipuler des collections de manière déclarative et concise.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:53:31.004965+02:00",
+  "durationSeconds": 10.46,
+  "stats": "mistral-small3.2:latest · 521 + 521 tokens · 10,5 s",
+  "isError": false,
+  "language": "FR"
+}

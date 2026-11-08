@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-jardin",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un terrain cultivé de fleurs et légumes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:jardin(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:jardin(er|age|ier|i[èe]re)|potager(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:parterre(s)?\\s+de\\s+fleurs)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:serre(s)?)(?![\\w-])"
+  ],
+  "symbol": "jardin",
+  "event": null,
+  "title": "Jardin",
+  "tags": [
+    "#NATURE",
+    "#BIENETRE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (le retour à la normale) : L'aéroport de Bruxelles-National rouvre partiellement aux passagers, avec des contrôles renforcés.",
+  "id": "be2016-reouverture-aeroport",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Réouverture partielle de l'aéroport",
+  "entityType": "EVENT",
+  "description": "L'aéroport de Bruxelles-National rouvre partiellement aux passagers, avec des contrôles renforcés.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "Les enquêteurs et les historiens ont reconstitué le déroulement de « Réouverture partielle de l'aéroport ».",
+    "« Réouverture partielle de l'aéroport » figure dans la chronologie des attentats de 2016.",
+    "Les rapports officiels reviennent sur « Réouverture partielle de l'aéroport »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 2,
+  "happyLevel": 2,
+  "fearLevel": 1,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "réouverture de Zaventem"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#RETOURANORMALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A9ouverture%20partielle%20de%20l%27a%C3%A9roport"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Attentat de l'aéroport de Bruxelles-National"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-04-03T00:00:00",
+  "endDate": "2016-04-03T00:00:00"
+}

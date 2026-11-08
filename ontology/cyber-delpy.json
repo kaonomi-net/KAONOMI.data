@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la sécurité de Windows) : Chercheur français, auteur de Mimikatz (2011), outil qui extrait les identifiants de la mémoire de Windows.",
+  "id": "cyber-delpy",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Benjamin Delpy",
+  "entityType": "PERSON",
+  "description": "Chercheur français, auteur de Mimikatz (2011), outil qui extrait les identifiants de la mémoire de Windows.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Benjamin Delpy est l'une des figures marquantes de la sécurité de Windows.",
+    "Lors de la conférence, l'oratrice a cité Benjamin Delpy pour illustrer les progrès de la sécurité de Windows.",
+    "Une biographie de Benjamin Delpy rappelle son rôle dans la sécurité de Windows."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "gentilkiwi"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#SECURITEWINDOWS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Benjamin%20Delpy"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Mimikatz"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

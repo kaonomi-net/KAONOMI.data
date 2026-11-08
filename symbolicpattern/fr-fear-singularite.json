@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-singularite",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le moment où l'IA dépasserait l'humain.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:singularit[ée](s)?\\s+technologique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:singularit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]passer\\s+l['’]humain)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]pass[ée](e|s|es)?\\s+par\\s+l['’]ia)(?![\\w-])"
+  ],
+  "symbol": "singularité",
+  "event": null,
+  "title": "Singularité",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

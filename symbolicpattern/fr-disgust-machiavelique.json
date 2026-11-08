@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-machiavelique",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "D'une ruse perfide.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:machiav[ée]lique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:manipulat(eur|rice|eurs|rices))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:intrigant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:comploteu(r|rs|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:calculateu(r|rs|se|ses))(?![\\w-])"
+  ],
+  "symbol": "machiavélique",
+  "event": null,
+  "title": "Machiavélique",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

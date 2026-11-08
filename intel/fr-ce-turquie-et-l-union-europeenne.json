@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-turquie-et-l-union-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Turquie et l'Union européenne",
+  "includedEntities": [
+    {
+      "entityName": "Turquie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les relations entre la Turquie et l'Union européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Ankara"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Erdogan",
+    "union douanière",
+    "défense"
+  ],
+  "questions": [
+    "Quelle relance ?",
+    "Quel accord ?",
+    "Quelle tension ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#TURQUIE",
+    "#DIPLOMATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

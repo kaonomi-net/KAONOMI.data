@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (l'environnement) : Stratégie visant à protéger 30 % des terres et des mers de l'Union.",
+  "id": "eu-pol-biodiversite-2030",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Stratégie en faveur de la biodiversité à l'horizon 2030",
+  "entityType": "LAW",
+  "description": "Stratégie visant à protéger 30 % des terres et des mers de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les entreprises doivent tenir compte de « Stratégie en faveur de la biodiversité à l'horizon 2030 ».",
+    "« Stratégie en faveur de la biodiversité à l'horizon 2030 » relève de l'environnement.",
+    "« Stratégie en faveur de la biodiversité à l'horizon 2030 » a fait l'objet de longues négociations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Strat%C3%A9gie%20en%20faveur%20de%20la%20biodiversit%C3%A9%20%C3%A0%20l%27horizon%202030"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Environnement",
+    "Direction générale de l'environnement",
+    "Commission von der Leyen I",
+    "Pacte vert pour l'Europe",
+    "Règlement sur la restauration de la nature"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-05-20T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 8,
+  "file": "028-cuisine-comment-cuire-du-riz-pour-qu.prompt.json",
+  "prompt": "Comment cuire du riz pour qu'il ne colle pas ?",
+  "promptWords": 10,
+  "completion": "Pour cuire du riz sans qu'il ne colle, voici quelques conseils et une méthode simple à suivre :\n\n### **Méthode de base pour du riz non collant**\n1. **Rincer le riz** :\n   - Passez le riz sous l'eau froide pour enlever l'excès d'amidon. Cela empêche les grains de coller entre eux.\n   - Utilisez un bol ou une passoire fine pour bien rincer.\n\n2. **Respecter le ratio eau/riz** :\n   - Pour du riz blanc classique, comptez **1 volume de riz pour 2 volumes d'eau**.\n   - Pour du riz basmati ou jasmin, vous pouvez réduire légèrement l'eau (1 volume de riz pour 1,5 volume d'eau).\n\n3. **Cuisson à feu doux** :\n   - Portez l'eau à ébullition, puis ajoutez le riz.\n   - Laissez bouillir 2-3 minutes, puis baissez le feu et couvrez avec un couvercle.\n   - Laissez cuire à feu doux pendant **12-15 minutes** (selon le type de riz).\n\n4. **Laisser reposer** :\n   - Éteignez le feu et laissez reposer le riz **5-10 minutes** à couvert avant de l'ouvrir. Cela permet à la vapeur de bien se répartir et évite que les grains ne deviennent pâteux.\n\n### **Astuces supplémentaires**\n- **Ajoutez un peu de beurre ou d'huile** dans l'eau de cuisson pour limiter l'adhérence.\n- **Utilisez une casserole à fond épais** pour une cuisson homogène.\n- **Ne remuez pas le riz pendant la cuisson**, cela le rendrait pâteux.\n\nSi vous avez un type de riz particulier (riz complet, riz thaï, etc.), les proportions peuvent varier légèrement. N'hésitez pas à préciser si vous souhaitez des conseils pour un type spécifique !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:45:59.9405615+02:00",
+  "durationSeconds": 9.45,
+  "stats": "mistral-small3.2:latest · 519 + 425 tokens · 9,5 s",
+  "isError": false,
+  "language": "FR"
+}

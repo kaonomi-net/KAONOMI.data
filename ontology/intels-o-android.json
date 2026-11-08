@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-android",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "Android",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 3 intels : Nouveau modèle Gemini de Google ; Vulnérabilités Android ; Chevaux de Troie bancaires.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre l'évolution de la famille Gemini et son intégration aux produits Google.",
+    "Suivre les bulletins de sécurité Android.",
+    "Suivre les logiciels malveillants bancaires sur mobile."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Android",
+  "tags": [
+    "#CYBERSECURITE",
+    "#MOBILE",
+    "#IA",
+    "#LLM",
+    "#GOOGLE",
+    "#VULNERABILITE"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE",
+    "@CORRECTIFS"
+  ],
+  "signals": [
+    "!NOUVEAUTE",
+    "!CORRECTIFS",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Google",
+    "Mountain View",
+    "Demis Hassabis",
+    "Gemini",
+    "Londres",
+    "Sundar Pichai",
+    "DeepMind",
+    "exploitation",
+    "Qualcomm",
+    "vulnérabilité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

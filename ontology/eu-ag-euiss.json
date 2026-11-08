@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique étrangère) : Institut d'études de sécurité de l'Union européenne (IESUE), organe de l'Union créé en 2002 et installé dans cette ville : Paris.",
+  "id": "eu-ag-euiss",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Institut d'études de sécurité de l'Union européenne (IESUE)",
+  "entityType": "ORGANISATION",
+  "description": "Institut d'études de sécurité de l'Union européenne (IESUE), organe de l'Union créé en 2002 et installé dans cette ville : Paris.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Institut d'études de sécurité de l'Union européenne (IESUE) ».",
+    "Les décisions de « Institut d'études de sécurité de l'Union européenne (IESUE) » touchent la politique étrangère.",
+    "Le rapport annuel de « Institut d'études de sécurité de l'Union européenne (IESUE) » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "IESUE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Institut%20d%27%C3%A9tudes%20de%20s%C3%A9curit%C3%A9%20de%20l%27Union%20europ%C3%A9enne%20%28IESUE%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Affaires étrangères",
+    "Service européen pour l'action extérieure"
+  ],
+  "isDeleted": false,
+  "startDate": "2002-01-01T00:00:00",
+  "endDate": null
+}

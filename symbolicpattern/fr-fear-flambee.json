@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-flambee",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une hausse brutale.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:flamb[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:envol[ée]e\\s+des\\s+prix)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prix\\s+qui\\s+explosent)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prix\\s+de\\s+l['’][ée]nergie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:facture(s)?\\s+qui\\s+explose(nt)?)(?![\\w-])"
+  ],
+  "symbol": "flambée",
+  "event": null,
+  "title": "Flambée",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

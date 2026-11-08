@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-teresa-ribera-et-la-concurrence",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Teresa Ribera et la concurrence",
+  "includedEntities": [
+    {
+      "entityName": "Teresa Ribera",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "concurrence",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions de la vice-présidente chargée de la transition et de la concurrence.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "fusions",
+    "aides d'État",
+    "Big Tech"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quelle amende ?",
+    "Quelle fusion bloquée ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#CONCURRENCE",
+    "#RIBERA"
+  ],
+  "events": [
+    "@DECISION"
+  ],
+  "signals": [
+    "!CONCURRENCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-extremisme",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les idées poussées à l'extrême et à la violence.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:extr[ée]misme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:extr[ée]miste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ultra-violent(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:groupuscule(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ultradroite)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ultragauche)(?![\\w-])"
+  ],
+  "symbol": "extrémisme",
+  "event": null,
+  "title": "Extrémisme",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

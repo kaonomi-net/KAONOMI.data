@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-panorama-de-la-cybermenace",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Panorama de la cybermenace",
+  "includedEntities": [
+    {
+      "entityName": "panorama",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cybermenace",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les bilans annuels de la menace publiés par l'ANSSI et ses homologues.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Europe"
+  ],
+  "times": [
+    "annuel"
+  ],
+  "relatedEntities": [
+    "ANSSI",
+    "ENISA",
+    "tendances"
+  ],
+  "questions": [
+    "Quelles tendances ?",
+    "Quels secteurs ?",
+    "Quels acteurs ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#MENACE",
+    "#RAPPORT"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

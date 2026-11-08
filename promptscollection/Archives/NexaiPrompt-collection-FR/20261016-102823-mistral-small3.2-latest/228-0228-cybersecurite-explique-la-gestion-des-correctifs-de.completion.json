@@ -1,0 +1,13 @@
+{
+  "index": 228,
+  "file": "0228-cybersecurite-explique-la-gestion-des-correctifs-de.prompt.json",
+  "prompt": "Explique la gestion des correctifs de sécurité de façon simple.",
+  "promptWords": 10,
+  "completion": "La gestion des correctifs de sécurité est un processus essentiel pour protéger les systèmes informatiques contre les vulnérabilités. Voici une explication simple :\n\n1. **Détection des vulnérabilités** : Des experts identifient des failles dans un logiciel qui pourraient être exploitées par des cyberattaques.\n\n2. **Création du correctif** : Les développeurs créent un correctif (ou \"patch\") pour réparer la faille.\n\n3. **Test du correctif** : Le correctif est testé pour s'assurer qu'il fonctionne correctement et ne cause pas d'autres problèmes.\n\n4. **Déploiement** : Le correctif est installé sur tous les systèmes concernés pour les protéger.\n\n5. **Surveillance** : Après l'installation, on vérifie que le correctif a bien résolu le problème et qu'aucun nouveau problème n'est apparu.\n\nEn résumé, c'est comme réparer une porte cassée pour empêcher les intrus d'entrer. Plus les correctifs sont appliqués rapidement, mieux les systèmes sont protégés.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:07:45.9633246+02:00",
+  "durationSeconds": 4.7,
+  "stats": "mistral-small3.2:latest · 520 + 227 tokens · 4,7 s",
+  "isError": false,
+  "language": "FR"
+}

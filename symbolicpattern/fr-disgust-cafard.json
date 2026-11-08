@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-cafard",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un insecte qui vit dans la saleté.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cafard(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:blatte(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cancrelat(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cafards\\s+dans\\s+la\\s+cuisine)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]sinsectisation(s)?)(?![\\w-])"
+  ],
+  "symbol": "cafard",
+  "event": null,
+  "title": "Cafard",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

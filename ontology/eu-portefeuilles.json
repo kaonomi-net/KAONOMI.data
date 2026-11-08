@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Classe de l'ontologie : Union européenne et Commission européenne › Portefeuilles.",
+  "id": "eu-portefeuilles",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Portefeuilles",
+  "entityType": "PORTFOLIO",
+  "description": "Les portefeuilles détenus par les membres des collèges, un par mandat.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-racine",
+  "sentencesExemples": [
+    "La branche « Portefeuilles » de l'ontologie regroupe les entrées de ce thème.",
+    "Pour explorer « Portefeuilles », ouvrez la branche dans la fenêtre de l'ontologie.",
+    "Chaque entrée de « Portefeuilles » est reliée à d'autres par des relations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": true,
+  "symbol": "\uD83D\uDCC2",
+  "synonyms": [
+    "attributions des commissaires"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ONTOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

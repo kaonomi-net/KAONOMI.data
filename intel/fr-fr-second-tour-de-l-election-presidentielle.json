@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-second-tour-de-l-election-presidentielle",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Second tour de l'élection présidentielle",
+  "includedEntities": [
+    {
+      "entityName": "second tour",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "présidentielle",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre le second tour du 2 mai 2027 et le résultat final.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [
+    "2 mai 2027"
+  ],
+  "relatedEntities": [
+    "finalistes",
+    "reports de voix",
+    "débat d'entre-deux-tours"
+  ],
+  "questions": [
+    "Qui l'emporte ?",
+    "Quel écart ?",
+    "Quels reports de voix ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#ELECTIONS"
+  ],
+  "events": [
+    "@SECOND-TOUR"
+  ],
+  "signals": [
+    "!ECHEANCE"
+  ],
+  "isDeleted": false
+}

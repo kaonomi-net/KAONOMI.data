@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la santé publique) : Autorité de préparation et de réaction en cas d'urgence sanitaire (HERA), service de la Commission européenne compétent pour la santé publique, la gestion des crises, placé sous l'autorité de Hadja Lahbib dans la Commission von der Leyen II.",
+  "id": "eu-dg-hera",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Autorité de préparation et de réaction en cas d'urgence sanitaire",
+  "entityType": "ORGANISATION",
+  "description": "Autorité de préparation et de réaction en cas d'urgence sanitaire (HERA), service de la Commission européenne compétent pour la santé publique, la gestion des crises, placé sous l'autorité de Hadja Lahbib dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Les décisions de « Autorité de préparation et de réaction en cas d'urgence sanitaire » touchent la santé publique.",
+    "Le rapport annuel de « Autorité de préparation et de réaction en cas d'urgence sanitaire » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Autorité de préparation et de réaction en cas d'urgence sanitaire »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "HERA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Autorit%C3%A9%20de%20pr%C3%A9paration%20et%20de%20r%C3%A9action%20en%20cas%20d%27urgence%20sanitaire"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Hadja Lahbib",
+    "Santé",
+    "Gestion des crises"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-observatoire-des-cyberattaques-en-france",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Observatoire des cyberattaques en France",
+  "includedEntities": [
+    {
+      "entityName": "observatoire",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cyberattaques",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "recensement",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recensements publics des cyberattaques visant la France.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Cyberattaque.org",
+    "ZATAZ",
+    "CERT-FR"
+  ],
+  "questions": [
+    "Combien d'incidents ?",
+    "Quels secteurs ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#VEILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

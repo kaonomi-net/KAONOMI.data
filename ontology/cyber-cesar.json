@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (la cryptographie classique) : Chiffrement par décalage de l'alphabet attribué à Jules César, exemple le plus simple de substitution mono-alphabétique.",
+  "id": "cyber-cesar",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Chiffre de César",
+  "entityType": "ALGORITHM",
+  "description": "Chiffrement par décalage de l'alphabet attribué à Jules César, exemple le plus simple de substitution mono-alphabétique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Dans le domaine de la cryptographie classique, Chiffre de César reste une référence.",
+    "Pour ce projet, l'équipe a implémenté Chiffre de César à l'aide d'une bibliothèque éprouvée.",
+    "Comprendre Chiffre de César est une étape clé pour maîtriser la cryptographie classique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "code de César",
+    "chiffrement par décalage"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CRYPTOGRAPHIECLASSIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Chiffre%20de%20C%C3%A9sar"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chiffre de Vigenère"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

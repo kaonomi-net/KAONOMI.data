@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-armement",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "armement",
+  "entityType": "DOMAIN",
+  "description": "Cité par 6 intels : Poutine et l'Inde ; Russie en Afrique et au Moyen-Orient ; Rapprochement entre la Chine et la Russie ; Valeurs de la défense ; Achats conjoints d'armement ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les relations entre la Russie et l'Inde.",
+    "Suivre la projection d'influence russe hors d'Europe.",
+    "Suivre le partenariat stratégique entre la Chine et la Russie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "armement",
+  "tags": [
+    "#DEFENSE",
+    "#RUSSIE",
+    "#UNION-EUROPEENNE",
+    "#POUTINE",
+    "#INDE",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@VISITE-OFFICIELLE"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!INFLUENCE",
+    "!ALLIANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Moscou",
+    "Russie",
+    "préférence européenne",
+    "Bruxelles",
+    "Inde",
+    "New Delhi",
+    "pétrole",
+    "Modi",
+    "sanctions",
+    "Poutine"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

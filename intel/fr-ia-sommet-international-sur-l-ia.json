@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-sommet-international-sur-l-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Sommet international sur l'IA",
+  "includedEntities": [
+    {
+      "entityName": "sommet",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "chefs d'État",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les sommets internationaux consacrés à l'IA.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Londres",
+    "Séoul"
+  ],
+  "times": [
+    "dates du sommet"
+  ],
+  "relatedEntities": [
+    "Nations unies",
+    "G7",
+    "OCDE"
+  ],
+  "questions": [
+    "Quels engagements ?",
+    "Quels pays signent ?",
+    "Quelles absences notables ?"
+  ],
+  "tags": [
+    "#IA",
+    "#DIPLOMATIE",
+    "#GOUVERNANCE"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la politique de voisinage) : Soutien de 50 milliards d'euros à la reconstruction et à la modernisation de l'Ukraine.",
+  "id": "eu-prog-facilite-ukraine",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Facilité pour l'Ukraine",
+  "entityType": "PROGRAMME",
+  "description": "Soutien de 50 milliards d'euros à la reconstruction et à la modernisation de l'Ukraine.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Le projet a reçu un financement de « Facilité pour l'Ukraine ».",
+    "Le bilan de « Facilité pour l'Ukraine » a été présenté au Parlement européen.",
+    "« Facilité pour l'Ukraine » finance des projets dans la politique de voisinage."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#POLITIQUEVOISINAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Facilit%C3%A9%20pour%20l%27Ukraine"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de l'élargissement et du voisinage oriental",
+    "Politique de voisinage",
+    "Élargissement",
+    "Ukraine"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-03-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

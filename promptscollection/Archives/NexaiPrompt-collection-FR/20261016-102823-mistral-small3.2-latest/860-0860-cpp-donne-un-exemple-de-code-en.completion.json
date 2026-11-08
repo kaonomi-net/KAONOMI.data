@@ -1,0 +1,13 @@
+{
+  "index": 860,
+  "file": "0860-cpp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C++ qui illustre les templates.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en C++ qui illustre l'utilisation des templates. Les templates permettent de créer des fonctions ou des classes génériques qui peuvent fonctionner avec différents types de données sans avoir à réécrire le code pour chaque type.\n\n```cpp\n#include <iostream>\n#include <string>\n\n// Exemple de fonction template\ntemplate <typename T>\nT max(T a, T b) {\n    return (a > b) ? a : b;\n}\n\n// Exemple de classe template\ntemplate <typename T>\nclass Boite {\nprivate:\n    T contenu;\npublic:\n    Boite(T contenu) : contenu(contenu) {}\n\n    void afficherContenu() {\n        std::cout << \"Contenu de la boîte : \" << contenu << std::endl;\n    }\n};\n\nint main() {\n    // Utilisation de la fonction template\n    std::cout << \"Le maximum entre 3 et 5 est : \" << max(3, 5) << std::endl;\n    std::cout << \"Le maximum entre 3.14 et 1.59 est : \" << max(3.14, 1.59) << std::endl;\n    std::cout << \"Le maximum entre \\\"apple\\\" et \\\"banana\\\" est : \" << max(std::string(\"apple\"), std::string(\"banana\")) << std::endl;\n\n    // Utilisation de la classe template\n    Boite<int> boiteEntier(42);\n    boiteEntier.afficherContenu();\n\n    Boite<std::string> boiteChaine(\"Hello, World!\");\n    boiteChaine.afficherContenu();\n\n    return 0;\n}\n```\n\n### Explications :\n1. **Fonction template `max`** :\n   - La fonction `max` est définie avec un type générique `T`.\n   - Elle peut comparer et retourner le maximum de deux valeurs de n'importe quel type pour lequel l'opérateur `>` est défini (entiers, flottants, chaînes de caractères, etc.).\n\n2. **Classe template `Boite`** :\n   - La classe `Boite` est définie avec un type générique `T`.\n   - Elle peut stocker et afficher des objets de n'importe quel type.\n\n3. **Utilisation dans `main`** :\n   - La fonction `max` est utilisée avec des entiers, des flottants et des chaînes de caractères.\n   - La classe `Boite` est instanciée avec un entier et une chaîne de caractères.\n\nCe code montre comment les templates permettent d'écrire du code générique et réutilisable en C++.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:31:29.9415378+02:00",
+  "durationSeconds": 11.1,
+  "stats": "mistral-small3.2:latest · 522 + 550 tokens · 11,1 s",
+  "isError": false,
+  "language": "FR"
+}

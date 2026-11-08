@@ -1,0 +1,13 @@
+{
+  "index": 86,
+  "file": "086-interet-pour-le-llm-wat-is-uw-favoriete-seizoen.prompt.json",
+  "prompt": "Wat is uw favoriete seizoen?",
+  "promptWords": 5,
+  "completion": "Mijn favoriete seizoen is de lente. \n\nIk vind het heerlijk om de eerste frisse geur van bloeiende bloemen in de lucht te ruiken, terwijl de dagen langzaam langer worden. Het is een periode van hernieuwde energie en groei, zowel in de natuur als in mijzelf. De zachte zon op een lichte bries en het kleurenpalet van pastelkleurige bloeiende planten creëren een bijna magische sfeer. Daarnaast vind ik het leuk om buiten te wandelen of te picknicken, terwijl de natuur zich opnieuw tot leven brengt na de winter. Kortom, de lente geeft me een gevoel van hoop, vernieuwing en levendigheid.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:18:30.6156814+02:00",
+  "durationSeconds": 1.4,
+  "stats": "gpt-oss:20b · 73 + 184 tokens · 1,4 s",
+  "isError": false,
+  "language": "NL"
+}

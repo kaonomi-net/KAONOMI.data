@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-fusions-et-champions-europeens",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Fusions et champions européens",
+  "includedEntities": [
+    {
+      "entityName": "fusion",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "champions européens",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur les règles de concurrence et les champions européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "lignes directrices",
+    "télécoms",
+    "défense"
+  ],
+  "questions": [
+    "Quelle fusion ?",
+    "Quelle décision ?",
+    "Quelle révision des règles ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CONCURRENCE",
+    "#FUSIONS"
+  ],
+  "events": [
+    "@DECISION"
+  ],
+  "signals": [
+    "!CONCURRENCE"
+  ],
+  "isDeleted": false
+}

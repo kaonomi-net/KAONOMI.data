@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-dependance-aux-compagnons-ia",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Dépendance aux compagnons IA",
+  "includedEntities": [
+    {
+      "entityName": "dépendance",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "compagnon IA",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les phénomènes de dépendance affective aux compagnons d'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Replika",
+    "Character.AI",
+    "solitude"
+  ],
+  "questions": [
+    "Quel cas ?",
+    "Quelle étude ?",
+    "Quelle régulation ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#IA",
+    "#DEPENDANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

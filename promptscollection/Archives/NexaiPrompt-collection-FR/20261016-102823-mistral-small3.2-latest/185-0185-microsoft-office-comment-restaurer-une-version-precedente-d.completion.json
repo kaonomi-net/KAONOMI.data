@@ -1,0 +1,13 @@
+{
+  "index": 185,
+  "file": "0185-microsoft-office-comment-restaurer-une-version-precedente-d.prompt.json",
+  "prompt": "Comment restaurer une version précédente d'un fichier dans OneDrive ?",
+  "promptWords": 10,
+  "completion": "Pour restaurer une version précédente d'un fichier dans OneDrive, vous pouvez suivre ces étapes :\n\n1. **Accédez à OneDrive** : Connectez-vous à votre compte OneDrive via un navigateur web.\n2. **Trouvez le fichier** : Naviguez jusqu'au fichier pour lequel vous souhaitez restaurer une version précédente.\n3. **Ouvrez le menu du fichier** : Cliquez sur les trois points (⋯) à côté du nom du fichier et sélectionnez **\"Version\"** dans le menu déroulant.\n4. **Sélectionnez une version** : Vous verrez une liste des versions précédentes du fichier. Cliquez sur la version que vous souhaitez restaurer.\n5. **Restaurez la version** : Cliquez sur le bouton **\"Restaurer\"** en haut de la page.\n\nSi vous avez besoin d'instructions plus détaillées ou si vous utilisez une version spécifique de OneDrive, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:00:44.1896503+02:00",
+  "durationSeconds": 4.43,
+  "stats": "mistral-small3.2:latest · 520 + 212 tokens · 4,4 s",
+  "isError": false,
+  "language": "FR"
+}

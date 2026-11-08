@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul neuromorphique) : Puce neuromorphique de recherche d'Intel à réseaux de neurones impulsionnels, capable d'apprentissage sur la puce.",
+  "id": "ia-loihi",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Intel Loihi",
+  "entityType": "HARDWARE",
+  "description": "Puce neuromorphique de recherche d'Intel à réseaux de neurones impulsionnels, capable d'apprentissage sur la puce.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Intel Loihi a marqué l'histoire du matériel consacré au calcul neuromorphique.",
+    "La fiche technique de Intel Loihi détaille ses performances.",
+    "Pour ce projet d'IA, l'équipe a comparé Intel Loihi à d'autres solutions matérielles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Loihi"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULNEUROMORPHIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Intel%20Loihi"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "IBM TrueNorth"
+  ],
+  "isDeleted": false,
+  "startDate": "2017-01-01T00:00:00",
+  "endDate": null
+}

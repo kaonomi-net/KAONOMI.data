@@ -1,0 +1,13 @@
+{
+  "index": 397,
+  "file": "0397-ia-agentique-quelles-sont-les-bonnes-pratiques-concernant.prompt.json",
+  "prompt": "Quelles sont les bonnes pratiques concernant le Model Context Protocol ?",
+  "promptWords": 11,
+  "completion": "Le Model Context Protocol (MCP) est un protocole utilisé pour gérer le contexte des modèles de langage comme moi. Voici quelques bonnes pratiques concernant le MCP :\n\n1. **Clarté et concision** : Assurez-vous que les instructions sont claires et concises. Évitez les ambiguïtés et les informations superflues qui pourraient nuire à la compréhension du modèle.\n\n2. **Contexte approprié** : Fournissez suffisamment de contexte pour que le modèle puisse comprendre la tâche à accomplir. Cela peut inclure des informations sur l'environnement, les objectifs, les contraintes, etc.\n\n3. **Mises à jour régulières** : Le contexte peut changer au fil du temps. Assurez-vous de mettre à jour le contexte régulièrement pour refléter les changements et les nouvelles informations.\n\n4. **Sécurité et confidentialité** : Assurez-vous que le contexte ne contient pas d'informations sensibles ou confidentielles qui pourraient être compromises.\n\n5. **Personnalisation** : Adaptez le contexte aux besoins spécifiques de l'utilisateur. Cela peut inclure des préférences, des habitudes, des contraintes, etc.\n\n6. **Feedback** : Fournissez des feedbacks réguliers pour aider le modèle à s'améliorer et à mieux comprendre les attentes de l'utilisateur.\n\n7. **Limites du modèle** : Soyez conscient des limites du modèle et assurez-vous que le contexte ne dépasse pas ces limites. Par exemple, le modèle ne peut pas accéder à Internet ou effectuer des actions physiques.\n\n8. **Langage naturel** : Utilisez un langage naturel et conversationnel pour faciliter la compréhension et l'interaction avec le modèle.\n\nEn suivant ces bonnes pratiques, vous pouvez aider à garantir que le modèle fonctionne de manière efficace et sécurisée.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:37:25.3607135+02:00",
+  "durationSeconds": 7.76,
+  "stats": "mistral-small3.2:latest · 519 + 376 tokens · 7,8 s",
+  "isError": false,
+  "language": "FR"
+}

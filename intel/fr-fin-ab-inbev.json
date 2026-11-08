@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-ab-inbev",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "AB InBev",
+  "includedEntities": [
+    {
+      "entityName": "AB InBev",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "bière",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action AB InBev, en recul après ses résultats du troisième trimestre 2026.",
+  "isFuzzy": false,
+  "locations": [
+    "Louvain"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Michel Doukeris",
+    "volumes",
+    "Amérique latine"
+  ],
+  "questions": [
+    "Quels volumes ?",
+    "Quelle marge ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#CONSOMMATION"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

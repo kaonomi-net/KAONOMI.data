@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (les sciences cognitives) : Chercheur américain, cofondateur du laboratoire d'IA du MIT et co-organisateur de Dartmouth.",
+  "id": "ia-minsky",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Marvin Minsky",
+  "entityType": "PERSON",
+  "description": "Chercheur américain, cofondateur du laboratoire d'IA du MIT et co-organisateur de Dartmouth. Auteur avec Seymour Papert de « Perceptrons » (1969) et de « La Société de l'esprit ».",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Lors de la conférence, l'oratrice a cité Marvin Minsky pour illustrer les progrès des sciences cognitives.",
+    "Une biographie de Marvin Minsky rappelle son rôle dans les sciences cognitives.",
+    "Marvin Minsky est l'une des figures marquantes des sciences cognitives."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Marvin Lee Minsky"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#SCIENCESCOGNITIVES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Marvin%20Minsky"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conférence de Dartmouth",
+    "Publication de « Perceptrons »",
+    "SNARC",
+    "Ray Kurzweil"
+  ],
+  "isDeleted": false,
+  "startDate": "1927-08-09T00:00:00",
+  "endDate": "2016-01-24T00:00:00"
+}

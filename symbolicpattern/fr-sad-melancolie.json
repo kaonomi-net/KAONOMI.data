@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-melancolie",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une tristesse vague et durable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:m[ée]lancolie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[ée]lancolique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:spleen(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:morosit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:morose(s)?)(?![\\w-])"
+  ],
+  "symbol": "mélancolie",
+  "event": null,
+  "title": "Mélancolie",
+  "tags": [
+    "#TRISTESSE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

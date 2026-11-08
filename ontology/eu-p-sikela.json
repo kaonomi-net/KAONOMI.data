@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les partenariats internationaux) : Banquier, ancien ministre tchèque de l'Industrie et du Commerce, commissaire aux Partenariats internationaux depuis 2024.",
+  "id": "eu-p-sikela",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Jozef Síkela",
+  "entityType": "PERSON",
+  "description": "Banquier, ancien ministre tchèque de l'Industrie et du Commerce, commissaire aux Partenariats internationaux depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les manuels sur les institutions européennes citent Jozef Síkela.",
+    "Le portrait de Jozef Síkela figure dans le dossier consacré aux partenariats internationaux.",
+    "La presse européenne a longuement commenté le parcours de Jozef Síkela."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Síkela",
+    "Sikela"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PARTENARIATSINTERNATIONAUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Jozef%20S%C3%ADkela"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité tchèque",
+    "Banquier",
+    "Ministre de l'Industrie",
+    "Commissaire européen",
+    "Partenariats internationaux (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Partenariats internationaux",
+    "Direction générale des partenariats internationaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

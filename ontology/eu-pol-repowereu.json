@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la politique énergétique) : Plan visant à mettre fin à la dépendance de l'Union aux combustibles fossiles russes.",
+  "id": "eu-pol-repowereu",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Plan REPowerEU",
+  "entityType": "LAW",
+  "description": "Plan visant à mettre fin à la dépendance de l'Union aux combustibles fossiles russes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "La mise en œuvre de « Plan REPowerEU » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Plan REPowerEU ».",
+    "Les juristes de la Commission ont commenté « Plan REPowerEU »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "REPowerEU"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#POLITIQUEENERGETIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Plan%20REPowerEU"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Énergie",
+    "Direction générale de l'énergie",
+    "Commission von der Leyen I",
+    "Invasion de l'Ukraine par la Russie"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-05-18T00:00:00",
+  "endDate": null
+}

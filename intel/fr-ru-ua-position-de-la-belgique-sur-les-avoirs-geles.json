@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-position-de-la-belgique-sur-les-avoirs-geles",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Position de la Belgique sur les avoirs gelés",
+  "includedEntities": [
+    {
+      "entityName": "Belgique",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Euroclear",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "avoirs gelés",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre la position belge, principal obstacle au prêt de réparation.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Bart De Wever",
+    "garanties",
+    "risques"
+  ],
+  "questions": [
+    "Quelles garanties demande-t-elle ?",
+    "Change-t-elle de position ?",
+    "Quel compromis ?"
+  ],
+  "tags": [
+    "#BELGIQUE",
+    "#AVOIRS-GELES",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [],
+  "signals": [
+    "!BLOCAGE"
+  ],
+  "isDeleted": false
+}

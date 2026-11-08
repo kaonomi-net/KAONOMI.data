@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sans-papiers",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "sans-papiers",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Aide médicale d'État.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre le débat sur l'aide médicale d'État."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "sans-papiers",
+  "tags": [
+    "#FRANCE",
+    "#IMMIGRATION",
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "aide médicale d'État",
+    "AME",
+    "médecins",
+    "budget"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

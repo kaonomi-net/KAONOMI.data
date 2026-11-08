@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-depenses-de-sante",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Dépenses de santé",
+  "includedEntities": [
+    {
+      "entityName": "dépenses de santé",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "assurance maladie",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les économies sur l'assurance maladie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "franchises médicales",
+    "médicaments",
+    "hôpitaux"
+  ],
+  "questions": [
+    "Quelles économies ?",
+    "Quels patients touchés ?",
+    "Quel déficit ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

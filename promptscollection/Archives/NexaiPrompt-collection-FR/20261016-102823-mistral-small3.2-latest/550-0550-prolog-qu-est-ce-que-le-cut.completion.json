@@ -1,0 +1,13 @@
+{
+  "index": 550,
+  "file": "0550-prolog-qu-est-ce-que-le-cut.prompt.json",
+  "prompt": "Qu'est-ce que le cut (!) en Prolog ?",
+  "promptWords": 8,
+  "completion": "En Prolog, le **cut** (noté `!`) est un opérateur qui permet de contrôler le backtracking, c'est-à-dire le mécanisme par lequel Prolog explore différentes solutions possibles pour une requête.\n\n### Fonctionnement du cut :\n1. **Élimination des choix alternatifs** :\n   - Lorsque Prolog rencontre un `!`, il \"coupe\" les autres possibilités de backtracking à partir de ce point. Cela signifie qu'il ne reviendra pas en arrière pour explorer d'autres solutions après ce point.\n\n2. **Optimisation de l'exécution** :\n   - Le cut permet d'éviter des calculs inutiles en éliminant des branches de recherche qui ne mèneront pas à des solutions valides.\n\n### Exemple d'utilisation :\nConsidérons une base de faits et de règles simple :\n\n```prolog\nparent(john, mary).\nparent(mary, bob).\nparent(john, bob).\n\nancetre(X, Y) :-\n    parent(X, Y).\nancetre(X, Y) :-\n    parent(X, Z),\n    ancetre(Z, Y),\n    !.  % Cut pour éviter des solutions redondantes\n```\n\nDans cet exemple, le cut dans la deuxième règle `ancetre/2` empêche Prolog de continuer à chercher d'autres solutions une fois qu'une relation d'ancêtre a été trouvée via un chemin intermédiaire.\n\n### Cas d'utilisation typiques :\n- **Éviter des solutions redondantes** : Comme dans l'exemple ci-dessus, où le cut empêche de trouver plusieurs fois la même relation d'ancêtre.\n- **Optimisation de performances** : Pour éviter des calculs coûteux inutiles.\n- **Contrôle de la logique** : Pour imposer un ordre de préférence entre plusieurs règles.\n\n### Précautions :\n- **Utilisation judicieuse** : Un cut mal placé peut rendre le programme incorrect en éliminant des solutions valides.\n- **Documentation** : Il est important de commenter l'utilisation du cut pour expliquer pourquoi il est nécessaire.\n\nEn résumé, le cut est un outil puissant pour optimiser et contrôler le backtracking en Prolog, mais il doit être utilisé avec prudence.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:05:24.3764498+02:00",
+  "durationSeconds": 9.52,
+  "stats": "mistral-small3.2:latest · 519 + 467 tokens · 9,5 s",
+  "isError": false,
+  "language": "FR"
+}

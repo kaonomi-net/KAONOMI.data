@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-delit-d-initie",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Délit d'initié",
+  "includedEntities": [
+    {
+      "entityName": "délit d'initié",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "enquête",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les affaires de délit d'initié.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "AMF",
+    "FSMA",
+    "justice"
+  ],
+  "questions": [
+    "Quelle affaire ?",
+    "Quelle sanction ?",
+    "Quel dirigeant ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!SCANDALE"
+  ],
+  "isDeleted": false
+}

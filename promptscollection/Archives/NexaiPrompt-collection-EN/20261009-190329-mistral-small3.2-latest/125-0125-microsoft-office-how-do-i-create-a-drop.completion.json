@@ -1,0 +1,13 @@
+{
+  "index": 125,
+  "file": "0125-microsoft-office-how-do-i-create-a-drop.prompt.json",
+  "prompt": "How do I create a drop-down list in Excel?",
+  "promptWords": 9,
+  "completion": "Creating a drop-down list in Excel is a straightforward process. Here’s a step-by-step guide:\n\n### Method 1: Using Data Validation\n\n1. **Select the Cell(s):**\n   - Click on the cell where you want the drop-down list to appear. To create the list in multiple cells, select all of them.\n\n2. **Open Data Validation:**\n   - Go to the **Data** tab on the Ribbon.\n   - Click on **Data Validation** in the **Data Tools** group.\n\n3. **Set Up the Validation Criteria:**\n   - In the **Data Validation** dialog box, go to the **Settings** tab.\n   - In the **Allow** dropdown, select **List**.\n   - In the **Source** field, enter the items for your drop-down list, separated by commas. For example: `Yes, No, Maybe`.\n   - Alternatively, you can reference a range of cells that contains the list items (e.g., `A1:A3`).\n\n4. **Customize Error Alert (Optional):**\n   - Go to the **Error Alert** tab if you want to show an error message when a user enters invalid data.\n\n5. **Click OK:**\n   - Click **OK** to apply the drop-down list to the selected cell(s).\n\n### Method 2: Using a Named Range\n\n1. **Create a List of Items:**\n   - Enter your list items in a column or row (e.g., `A1:A5`).\n\n2. **Name the Range:**\n   - Select the cells with the list items.\n   - Go to the **Formulas** tab on the Ribbon.\n   - Click on **Define Name** in the **Defined Names** group.\n   - Enter a name for the range (e.g., `MyList`) and click **OK**.\n\n3. **Apply Data Validation:**\n   - Select the cell(s) where you want the drop-down list.\n   - Go to the **Data** tab and click **Data Validation**.\n   - In the **Source** field, enter `=MyList` (or the name you chose).\n   - Click **OK**.\n\n### Tips:\n- You can edit the list items later by changing the source range or the entries in the **Source** field.\n- To create dependent drop-down lists (where the second list changes based on the first), you’ll need to use a more advanced setup with formulas.\n\nWould you like help with a specific part of this process?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:26:27.5153185+02:00",
+  "durationSeconds": 12.49,
+  "stats": "mistral-small3.2:latest · 518 + 507 tokens · 12,5 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 413,
+  "file": "0413-llm-gateway-explique-la-mise-en-cache-semantique.prompt.json",
+  "prompt": "Explique la mise en cache sémantique de façon simple.",
+  "promptWords": 9,
+  "completion": "La mise en cache sémantique est une technique utilisée pour améliorer la performance et l'efficacité des systèmes de traitement de l'information, notamment dans les moteurs de recherche et les assistants intelligents. Voici une explication simple :\n\n1. **Qu'est-ce que la mise en cache ?**\n   La mise en cache consiste à stocker des données fréquemment utilisées pour éviter de les recalculer ou de les récupérer à chaque fois. Par exemple, quand tu visites un site web, ton navigateur stocke certaines images ou pages pour les charger plus vite la prochaine fois.\n\n2. **Et la sémantique ?**\n   La sémantique, c'est le sens des mots et des phrases. Par exemple, \"chat\" peut désigner un animal ou un logiciel de discussion, selon le contexte.\n\n3. **Mise en cache sémantique :**\n   - **Objectif** : Stocker non seulement des données brutes (comme du texte), mais aussi leur signification (sémantique) pour répondre plus rapidement et précisément aux questions futures.\n   - **Exemple** : Si tu poses une question comme \"Quelle est la capitale de la France ?\", un système avec mise en cache sémantique pourrait stocker non seulement la réponse (\"Paris\"), mais aussi le fait que \"Paris\" est la capitale de la France. Ainsi, si quelqu'un pose une question similaire plus tard, le système peut utiliser cette information stockée pour répondre plus vite, sans avoir à tout recalculer.\n\n4. **Avantages :**\n   - **Rapidité** : Réponses plus rapides car le système n'a pas besoin de tout analyser à chaque fois.\n   - **Précision** : Meilleure compréhension du contexte et des nuances grâce à la sémantique.\n\nEn résumé, la mise en cache sémantique permet de stocker le sens des informations pour répondre plus intelligemment et efficacement aux questions.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:40:49.6890342+02:00",
+  "durationSeconds": 7.89,
+  "stats": "mistral-small3.2:latest · 520 + 392 tokens · 7,9 s",
+  "isError": false,
+  "language": "FR"
+}

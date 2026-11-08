@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-municipales",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "municipales",
+  "entityType": "EVENT",
+  "description": "Cité par 6 intels : Alliance entre le RN et l'UDR d'Éric Ciotti ; Implantation locale du RN après les municipales ; Percée de LFI aux municipales ; Les Républicains après les municipales ; Bilan des municipales de 2026 ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre l'alliance entre le RN et le parti d'Éric Ciotti.",
+    "Suivre la gestion des villes conquises par le RN en 2026.",
+    "Suivre les villes gagnées ou influencées par LFI en 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "municipales",
+  "tags": [
+    "#FRANCE",
+    "#MUNICIPALES",
+    "#RN",
+    "#DROITE",
+    "#LFI",
+    "#LR"
+  ],
+  "events": [
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!POLITIQUE",
+    "!ALLIANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Rassemblement national",
+    "Les Républicains",
+    "villes moyennes",
+    "Nice",
+    "Éric Ciotti",
+    "alliance",
+    "UDR",
+    "mairies",
+    "conseils municipaux",
+    "maires RN"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

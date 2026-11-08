@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-vigueur",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La force physique, la robustesse.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vigueur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vigoureu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:costaud(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fringant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:en\\s+forme\\s+olympique)(?![\\w-])"
+  ],
+  "symbol": "vigueur",
+  "event": null,
+  "title": "Vigueur",
+  "tags": [
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

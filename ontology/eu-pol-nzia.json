@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la politique industrielle) : Règlement (UE) 2024/1735 sur les technologies propres.",
+  "id": "eu-pol-nzia",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Règlement pour une industrie « zéro net »",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2024/1735 sur les technologies propres.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Règlement pour une industrie « zéro net » ».",
+    "La mise en œuvre de « Règlement pour une industrie « zéro net » » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Règlement pour une industrie « zéro net » »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "NZIA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#POLITIQUEINDUSTRIELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A8glement%20pour%20une%20industrie%20%C2%AB%20z%C3%A9ro%20net%20%C2%BB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Industrie",
+    "Action pour le climat",
+    "Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-06-13T00:00:00",
+  "endDate": null
+}

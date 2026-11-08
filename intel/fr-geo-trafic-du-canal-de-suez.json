@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-trafic-du-canal-de-suez",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Trafic du canal de Suez",
+  "includedEntities": [
+    {
+      "entityName": "canal de Suez",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "trafic",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller le trafic et les perturbations du canal de Suez.",
+  "isFuzzy": true,
+  "locations": [
+    "Égypte",
+    "Suez"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "mer Rouge",
+    "porte-conteneurs",
+    "assurances"
+  ],
+  "questions": [
+    "Quel trafic ?",
+    "Quelles perturbations ?",
+    "Quel détour par le cap de Bonne-Espérance ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#COMMERCE",
+    "#MARITIME"
+  ],
+  "events": [],
+  "signals": [
+    "!PERTURBATION"
+  ],
+  "isDeleted": false
+}

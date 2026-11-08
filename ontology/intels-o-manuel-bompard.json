@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-manuel-bompard",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "Manuel Bompard",
+  "entityType": "PERSON",
+  "description": "Cité par 1 intel : La France insoumise.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre l'activité et les positions de La France insoumise."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Manuel Bompard",
+  "tags": [
+    "#FRANCE",
+    "#LFI",
+    "#GAUCHE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "LFI",
+    "Jean-Luc Mélenchon",
+    "Mathilde Panot",
+    "Assemblée nationale",
+    "La France insoumise"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

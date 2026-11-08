@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-nouvelle-caledonie-et-accord-de-bougival",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Nouvelle-Calédonie et accord de Bougival",
+  "includedEntities": [
+    {
+      "entityName": "Nouvelle-Calédonie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Bougival",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la mise en œuvre de l'accord de Bougival.",
+  "isFuzzy": true,
+  "locations": [
+    "Nouméa"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "FLNKS",
+    "loyalistes",
+    "provinciales"
+  ],
+  "questions": [
+    "Quelle étape ?",
+    "Quelles oppositions ?",
+    "Quel calendrier électoral ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#NOUVELLE-CALEDONIE",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

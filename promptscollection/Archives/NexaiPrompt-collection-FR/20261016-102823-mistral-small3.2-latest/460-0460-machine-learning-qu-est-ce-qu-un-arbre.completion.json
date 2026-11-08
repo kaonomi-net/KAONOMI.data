@@ -1,0 +1,13 @@
+{
+  "index": 460,
+  "file": "0460-machine-learning-qu-est-ce-qu-un-arbre.prompt.json",
+  "prompt": "Qu'est-ce qu'un arbre de décision ?",
+  "promptWords": 6,
+  "completion": "Un arbre de décision est un outil visuel utilisé en analyse de données et en intelligence artificielle pour représenter un processus de prise de décision. Il fonctionne comme un organigramme, où chaque nœud interne représente une décision basée sur une caractéristique (ou attribut) de l'ensemble de données, chaque branche représente le résultat de cette décision, et chaque feuille (nœud terminal) représente une conclusion ou une prédiction.\n\n### Comment ça marche ?\n1. **Nœuds de décision** : Chaque nœud pose une question sur une caractéristique des données (par exemple, \"L'âge est-il supérieur à 30 ?\").\n2. **Branches** : Les réponses possibles à la question (oui ou non) forment des branches.\n3. **Feuilles** : Les nœuds terminaux (feuilles) fournissent le résultat final, comme une classe ou une valeur prédite.\n\n### Utilisations courantes :\n- **Classification** : Par exemple, prédire si un client achètera un produit (oui/non).\n- **Régression** : Prédire une valeur continue, comme le prix d'une maison.\n- **Explicabilité** : Les arbres de décision sont faciles à interpréter, ce qui les rend utiles pour expliquer des décisions complexes.\n\n### Avantages :\n- Simple à comprendre et à interpréter.\n- Peut gérer à la fois des données numériques et catégorielles.\n- Nécessite peu de préparation des données.\n\n### Inconvénients :\n- Peut surajuster les données (overfitting) si l'arbre est trop profond.\n- Moins précis que d'autres modèles pour des problèmes complexes.\n\nSi tu veux un exemple concret ou des détails supplémentaires, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:49:38.0705789+02:00",
+  "durationSeconds": 7.24,
+  "stats": "mistral-small3.2:latest · 516 + 359 tokens · 7,2 s",
+  "isError": false,
+  "language": "FR"
+}

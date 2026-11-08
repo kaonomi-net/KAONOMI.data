@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-have-i-been-pwned",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Have I Been Pwned",
+  "includedEntities": [
+    {
+      "entityName": "Have I Been Pwned",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "fuite",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les ajouts au service Have I Been Pwned.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Troy Hunt",
+    "comptes",
+    "fuites"
+  ],
+  "questions": [
+    "Quelle fuite ajoutée ?",
+    "Combien de comptes ?",
+    "Quelle origine ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [],
+  "signals": [
+    "!VEILLE"
+  ],
+  "isDeleted": false
+}

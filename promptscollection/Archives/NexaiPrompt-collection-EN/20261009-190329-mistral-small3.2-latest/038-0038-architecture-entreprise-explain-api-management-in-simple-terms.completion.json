@@ -1,0 +1,13 @@
+{
+  "index": 38,
+  "file": "0038-architecture-entreprise-explain-api-management-in-simple-terms.prompt.json",
+  "prompt": "Explain API management in simple terms.",
+  "promptWords": 6,
+  "completion": "API management is like being a traffic cop for software applications. Imagine you have a big city (your business), and different parts of the city need to communicate with each other—like the hospital needing to talk to the police station, or the school needing to talk to the city hall. In this city, roads (APIs) connect these places, allowing them to share information and work together.\n\nNow, API management is like having a team of traffic cops who make sure this communication happens smoothly. Here’s what they do:\n\n1. **Control Access**: They check who is allowed to use which roads (APIs). Not everyone should be able to access everything—just like you wouldn’t want random people driving into a hospital’s restricted areas.\n\n2. **Monitor Traffic**: They keep an eye on how much traffic is using the roads. If too many cars (requests) are trying to use a road at once, they might slow some down or redirect them to avoid jams (overloading the system).\n\n3. **Keep Roads in Good Shape**: They make sure the roads are well-maintained and up-to-date. If a road needs repairs or a new exit, they handle that so traffic keeps flowing smoothly.\n\n4. **Provide Directions**: They give clear signs (documentation) so drivers (developers) know how to use the roads correctly. This helps everyone get to their destinations without getting lost.\n\n5. **Collect Tolls or Track Usage**: Sometimes, they charge a small fee (or track usage) for using certain roads. This helps the city (business) understand how much the roads are being used and maybe even make money from it.\n\nIn short, API management helps businesses control, monitor, and improve how different software systems talk to each other, making everything more efficient and secure.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:10:38.5816638+02:00",
+  "durationSeconds": 8.35,
+  "stats": "mistral-small3.2:latest · 515 + 365 tokens · 8,3 s",
+  "isError": false,
+  "language": "EN"
+}

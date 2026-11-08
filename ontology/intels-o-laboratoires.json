@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-laboratoires",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "laboratoires",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Eurofins Scientific ; Capacités cyber des modèles d'IA ; Fuite de données de santé.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'action Eurofins.",
+    "Suivre l'évaluation des capacités offensives des modèles d'IA.",
+    "Repérer les fuites de données de santé."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "laboratoires",
+  "tags": [
+    "#SANTE",
+    "#CYBERSECURITE",
+    "#BOURSE",
+    "#CAC40",
+    "#IA",
+    "#SECURITE-IA"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!RESULTATS",
+    "!RISQUE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Luxembourg",
+    "vendeurs à découvert",
+    "Eurofins",
+    "tests",
+    "acquisitions",
+    "restrictions de diffusion",
+    "évaluations",
+    "capacités cyber",
+    "modèles d'IA",
+    "fuite"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

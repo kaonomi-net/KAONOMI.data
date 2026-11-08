@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-securite-d-active-directory",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Sécurité d'Active Directory",
+  "includedEntities": [
+    {
+      "entityName": "Active Directory",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "sécurité",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la sécurisation des annuaires Active Directory.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ANSSI",
+    "comptes à privilèges",
+    "rançongiciels"
+  ],
+  "questions": [
+    "Quelle faille ?",
+    "Quelle recommandation ?",
+    "Quel outil ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DEFENSE",
+    "#IDENTITES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

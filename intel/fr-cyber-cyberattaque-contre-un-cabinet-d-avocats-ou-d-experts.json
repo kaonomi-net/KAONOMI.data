@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-un-cabinet-d-avocats-ou-d-experts",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre un cabinet d'avocats ou d'experts",
+  "includedEntities": [
+    {
+      "entityName": "cabinet",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "avocats",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "piratage",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les piratages de cabinets d'avocats, d'experts-comptables ou de notaires.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "secret professionnel",
+    "données clients",
+    "rançon"
+  ],
+  "questions": [
+    "Quel cabinet ?",
+    "Quelles données ?",
+    "Quel risque pour les clients ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#PROFESSIONS-LIBERALES"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

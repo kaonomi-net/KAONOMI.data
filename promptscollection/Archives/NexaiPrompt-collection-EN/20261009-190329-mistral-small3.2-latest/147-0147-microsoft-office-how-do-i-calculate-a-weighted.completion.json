@@ -1,0 +1,13 @@
+{
+  "index": 147,
+  "file": "0147-microsoft-office-how-do-i-calculate-a-weighted.prompt.json",
+  "prompt": "How do I calculate a weighted average in Excel?",
+  "promptWords": 9,
+  "completion": "Calculating a weighted average in Excel involves multiplying each value by its corresponding weight, summing these products, and then dividing by the sum of the weights. Here’s a step-by-step guide:\n\n### Steps to Calculate a Weighted Average in Excel:\n\n1. **Organize Your Data**:\n   - List your values in one column.\n   - List the corresponding weights in an adjacent column.\n\n   For example:\n   ```\n   A        B\n   1 Values  2 Weights\n   2 10      3 0.2\n   3 20      4 0.3\n   4 30      5 0.5\n   ```\n\n2. **Multiply Each Value by Its Weight**:\n   - In a new column (e.g., column C), multiply each value by its corresponding weight.\n   - For example, in cell C2, enter `=A2*B2` and drag the formula down to multiply all values by their weights.\n\n3. **Sum the Products**:\n   - In a new cell (e.g., D2), sum the products from column C.\n   - For example, `=SUM(C2:C4)`.\n\n4. **Sum the Weights**:\n   - In another new cell (e.g., D3), sum the weights from column B.\n   - For example, `=SUM(B2:B4)`.\n\n5. **Calculate the Weighted Average**:\n   - In a new cell (e.g., D4), divide the sum of the products by the sum of the weights.\n   - For example, `=D2/D3`.\n\n### Example Formula:\nIf your values are in `A2:A4` and weights are in `B2:B4`, the weighted average formula would be:\n```\n=SUMPRODUCT(A2:A4, B2:B4) / SUM(B2:B4)\n```\n\n### Using SUMPRODUCT:\nExcel’s `SUMPRODUCT` function can simplify the calculation:\n```\n=SUMPRODUCT(A2:A4, B2:B4) / SUM(B2:B4)\n```\nThis formula multiplies each value by its weight, sums the products, and then divides by the sum of the weights.\n\n### Final Result:\nThe result will be the weighted average of your data.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:30:42.2357734+02:00",
+  "durationSeconds": 12.25,
+  "stats": "mistral-small3.2:latest · 517 + 484 tokens · 12,2 s",
+  "isError": false,
+  "language": "EN"
+}

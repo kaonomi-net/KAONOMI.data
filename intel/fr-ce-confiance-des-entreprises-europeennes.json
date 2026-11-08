@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-confiance-des-entreprises-europeennes",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Confiance des entreprises européennes",
+  "includedEntities": [
+    {
+      "entityName": "entreprises",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "confiance",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "sondage",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le moral des entreprises européennes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "BusinessEurope",
+    "PME",
+    "investissement"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quelles inquiétudes ?",
+    "Quelles demandes ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENTREPRISES",
+    "#INDICATEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

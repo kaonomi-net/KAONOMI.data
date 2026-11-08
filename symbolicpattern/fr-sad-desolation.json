@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-desolation",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une peine extrême ; un lieu ravagé et vide.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]solation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]sol([ée]|[ée]e|[ée]s|[ée]es|ant|ante))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:navrant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lugubre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:affligeant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "désolation",
+  "event": null,
+  "title": "Désolation",
+  "tags": [
+    "#TRISTESSE",
+    "#CATASTROPHE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

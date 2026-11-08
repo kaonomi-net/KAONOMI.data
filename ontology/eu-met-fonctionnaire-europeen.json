@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Agent permanent d'une institution de l'Union, recruté par concours.",
+  "id": "eu-met-fonctionnaire-europeen",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Fonctionnaire européen",
+  "entityType": "PROFESSION",
+  "description": "Agent permanent d'une institution de l'Union, recruté par concours.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "Le métier « Fonctionnaire européen » apparaît dans les biographies officielles.",
+    "La fonction « Fonctionnaire européen » relève de la vie publique européenne.",
+    "Le parcours de nombreux commissaires passe par la fonction « Fonctionnaire européen »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fonctionnaire%20europ%C3%A9en"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Office européen de sélection du personnel",
+    "Margaritis Schinas",
+    "Piotr Serafin",
+    "Nadia Calviño"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

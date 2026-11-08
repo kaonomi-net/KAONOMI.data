@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-vote-des-francais-de-l-etranger",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Vote des Français de l'étranger",
+  "includedEntities": [
+    {
+      "entityName": "Français de l'étranger",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "vote",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le vote des Français établis hors de France.",
+  "isFuzzy": true,
+  "locations": [
+    "consulats"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "vote par procuration",
+    "circonscriptions",
+    "participation"
+  ],
+  "questions": [
+    "Quelle participation ?",
+    "Quels résultats ?",
+    "Quelles difficultés ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#ELECTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

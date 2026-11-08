@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-le-reseau-electrique-polonais",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre le réseau électrique polonais",
+  "includedEntities": [
+    {
+      "entityName": "Pologne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "réseau électrique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques contre les infrastructures énergétiques polonaises.",
+  "isFuzzy": true,
+  "locations": [
+    "Pologne"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Sandworm",
+    "énergies renouvelables",
+    "sabotage"
+  ],
+  "questions": [
+    "Quel impact ?",
+    "Quelle attribution ?",
+    "Quelle leçon ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RUSSIE",
+    "#ENERGIE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-endoctrinement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'imposer une doctrine par la manipulation.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:endoctrinement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:endoctrin(er|[ée]|[ée]e|[ée]s)|embrigadement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:embrigad(er|[ée]|[ée]e)|lavage\\s+de\\s+cerveau)(?![\\w-])"
+  ],
+  "symbol": "endoctrinement",
+  "event": null,
+  "title": "Endoctrinement",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

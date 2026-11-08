@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-forums-de-fuites",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Forums de fuites",
+  "includedEntities": [
+    {
+      "entityName": "forum",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "BreachForums",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "données volées",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les forums où se vendent les données volées.",
+  "isFuzzy": true,
+  "locations": [
+    "dark web"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "administrateurs",
+    "saisies",
+    "réouvertures"
+  ],
+  "questions": [
+    "Quel forum ?",
+    "Quelle base vendue ?",
+    "Quel démantèlement ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DARK-WEB",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [],
+  "signals": [
+    "!VEILLE"
+  ],
+  "isDeleted": false
+}

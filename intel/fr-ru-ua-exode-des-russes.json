@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-exode-des-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Exode des Russes",
+  "includedEntities": [
+    {
+      "entityName": "exode",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "émigration",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Russes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les départs de Russes à l'étranger.",
+  "isFuzzy": true,
+  "locations": [
+    "Géorgie",
+    "Kazakhstan",
+    "Serbie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "mobilisation",
+    "informaticiens",
+    "diaspora"
+  ],
+  "questions": [
+    "Combien de départs ?",
+    "Quelles destinations ?",
+    "Quel profil ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#EMIGRATION",
+    "#SOCIETE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

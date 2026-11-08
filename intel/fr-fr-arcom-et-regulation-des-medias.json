@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-arcom-et-regulation-des-medias",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Arcom et régulation des médias",
+  "includedEntities": [
+    {
+      "entityName": "Arcom",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "régulation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions de l'Arcom sur les médias et le pluralisme.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "CNews",
+    "fréquences",
+    "pluralisme"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quelle sanction ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MEDIAS",
+    "#REGULATION"
+  ],
+  "events": [
+    "@DECISION"
+  ],
+  "signals": [
+    "!EQUITE"
+  ],
+  "isDeleted": false
+}

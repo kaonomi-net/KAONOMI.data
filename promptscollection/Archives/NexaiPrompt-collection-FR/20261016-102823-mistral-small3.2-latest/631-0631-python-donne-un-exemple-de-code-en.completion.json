@@ -1,0 +1,13 @@
+{
+  "index": 631,
+  "file": "0631-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre les générateurs.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en Python qui illustre l'utilisation des générateurs. Les générateurs permettent de créer des itérables, comme les listes, mais de manière plus mémoire-efficace, car ils génèrent les valeurs à la volée plutôt que de les stocker en mémoire.\n\n```python\n# Exemple de générateur simple\ndef compteur(n):\n    \"\"\"Générateur qui compte de 1 à n\"\"\"\n    i = 1\n    while i <= n:\n        yield i  # 'yield' rend la fonction un générateur\n        i += 1\n\n# Utilisation du générateur\nfor nombre in compteur(5):\n    print(nombre)\n\n# Autre exemple avec une compréhension de générateur\ncarres = (x*x for x in range(10))  # Parenthèses pour un générateur, crochets pour une liste\nfor carre in carres:\n    print(carre)\n```\n\nExplications :\n1. La fonction `compteur` est un générateur car elle utilise `yield`. Elle génère les nombres un par un au lieu de les stocker tous en mémoire.\n2. La compréhension de générateur `(x*x for x in range(10))` crée un générateur qui calcule les carrés des nombres de 0 à 9.\n\nLes générateurs sont particulièrement utiles pour traiter de grandes quantités de données ou des flux de données infinis.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:35:04.8409222+02:00",
+  "durationSeconds": 6.14,
+  "stats": "mistral-small3.2:latest · 522 + 298 tokens · 6,1 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-applications-de-sante-mentale",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Applications de santé mentale",
+  "includedEntities": [
+    {
+      "entityName": "applications",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "bien-être",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les applications de santé mentale et leur efficacité.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "méditation",
+    "suivi de l'humeur",
+    "données"
+  ],
+  "questions": [
+    "Quelle application ?",
+    "Quelle preuve d'efficacité ?",
+    "Quelle donnée collectée ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#NUMERIQUE",
+    "#SANTE-MENTALE"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

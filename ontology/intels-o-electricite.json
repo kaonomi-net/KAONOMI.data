@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-electricite",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "électricité",
+  "entityType": "MATERIAL",
+  "description": "Cité par 10 intels : Coupures d'électricité en Ukraine ; Situation humanitaire dans les zones de front ; Coût de l'entraînement des modèles ; Construction d'un data center géant ; Consommation énergétique de l'IA ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre les coupures de courant programmées et d'urgence.",
+    "Suivre les conditions de vie des civils près du front.",
+    "Suivre le coût d'entraînement des grands modèles."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "électricité",
+  "tags": [
+    "#ENERGIE",
+    "#IA",
+    "#UKRAINE",
+    "#CIVILS",
+    "#INFRASTRUCTURE",
+    "#CENTRES-DE-DONNEES"
+  ],
+  "events": [
+    "@COUPURE",
+    "@PROJET-INFRASTRUCTURE",
+    "@INVESTISSEMENT"
+  ],
+  "signals": [
+    "!INVESTISSEMENT",
+    "!TENSION-ENERGETIQUE",
+    "!HUMANITAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "centres de données",
+    "Kharkiv",
+    "eau",
+    "France",
+    "IA",
+    "EDF",
+    "prix de l'énergie",
+    "Europe",
+    "Kyiv",
+    "horaires de coupure"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

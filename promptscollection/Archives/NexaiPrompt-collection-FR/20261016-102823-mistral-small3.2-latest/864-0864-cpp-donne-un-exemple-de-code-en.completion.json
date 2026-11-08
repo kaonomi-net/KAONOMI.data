@@ -1,0 +1,13 @@
+{
+  "index": 864,
+  "file": "0864-cpp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C++ qui illustre le polymorphisme et les fonctions virtuelles.",
+  "promptWords": 15,
+  "completion": "Voici un exemple de code en C++ qui illustre le polymorphisme et les fonctions virtuelles :\n\n```cpp\n#include <iostream>\n#include <vector>\n\n// Classe de base\nclass Animal {\npublic:\n    // Fonction virtuelle\n    virtual void faireDuBruit() const {\n        std::cout << \"L'animal fait un bruit.\" << std::endl;\n    }\n\n    virtual ~Animal() {} // Destructeur virtuel\n};\n\n// Classe dérivée 1\nclass Chien : public Animal {\npublic:\n    void faireDuBruit() const override {\n        std::cout << \"Le chien aboie: Woof!\" << std::endl;\n    }\n};\n\n// Classe dérivée 2\nclass Chat : public Animal {\npublic:\n    void faireDuBruit() const override {\n        std::cout << \"Le chat miaule: Meow!\" << std::endl;\n    }\n};\n\nint main() {\n    // Création d'un vecteur d'animaux\n    std::vector<Animal*> animaux;\n\n    // Ajout de différents types d'animaux au vecteur\n    animaux.push_back(new Chien());\n    animaux.push_back(new Chat());\n    animaux.push_back(new Animal()); // Animal de base\n\n    // Appel de la fonction faireDuBruit pour chaque animal\n    for (const Animal* animal : animaux) {\n        animal->faireDuBruit();\n    }\n\n    // Nettoyage de la mémoire\n    for (Animal* animal : animaux) {\n        delete animal;\n    }\n\n    return 0;\n}\n```\n\nExplications :\n1. La classe `Animal` contient une fonction virtuelle `faireDuBruit()`.\n2. Les classes dérivées `Chien` et `Chat` redéfinissent cette fonction avec le mot-clé `override`.\n3. Dans la fonction `main()`, nous créons un vecteur de pointeurs vers des objets de type `Animal`.\n4. Grâce au polymorphisme, nous pouvons appeler `faireDuBruit()` sur chaque élément du vecteur, et la version appropriée de la fonction sera appelée en fonction du type réel de l'objet.\n5. Le destructeur virtuel est important pour assurer une destruction correcte des objets dérivés.\n\nCe code démontre comment le polymorphisme permet d'appeler des méthodes spécifiques à travers une interface commune.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:32:14.699361+02:00",
+  "durationSeconds": 9.78,
+  "stats": "mistral-small3.2:latest · 528 + 482 tokens · 9,8 s",
+  "isError": false,
+  "language": "FR"
+}

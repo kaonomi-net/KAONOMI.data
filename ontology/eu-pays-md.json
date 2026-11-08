@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Pays de l'Union européenne (l'élargissement) : Moldavie, pays officiellement candidat à l'adhésion à l'Union européenne.",
+  "id": "eu-pays-md",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Moldavie",
+  "entityType": "COUNTRY",
+  "description": "Moldavie, pays officiellement candidat à l'adhésion à l'Union européenne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-candidats",
+  "sentencesExemples": [
+    "Le gouvernement de Moldavie a désigné un commissaire européen.",
+    "Les citoyens de Moldavie élisent leurs députés européens.",
+    "Le représentant permanent de Moldavie siège au Coreper à Bruxelles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF0D",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#COUNTRY",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Moldavie"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Union européenne",
+    "Élargissement",
+    "Statut de pays candidat accordé à l'Ukraine et à la Moldavie",
+    "Décision d'ouvrir les négociations d'adhésion avec l'Ukraine et la Moldavie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

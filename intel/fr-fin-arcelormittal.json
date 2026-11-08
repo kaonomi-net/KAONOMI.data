@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-arcelormittal",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "ArcelorMittal",
+  "includedEntities": [
+    {
+      "entityName": "ArcelorMittal",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "acier",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action ArcelorMittal et la crise de l'acier européen.",
+  "isFuzzy": false,
+  "locations": [
+    "Luxembourg",
+    "Dunkerque"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "protection européenne",
+    "usines",
+    "emplois"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quel effet des mesures européennes ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#ACIER"
+  ],
+  "events": [],
+  "signals": [
+    "!RESTRUCTURATION"
+  ],
+  "isDeleted": false
+}

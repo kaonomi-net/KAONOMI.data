@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-sagesse",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La connaissance et la mesure.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sagesse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:clairvoyance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:discernement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lucidit[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "sagesse",
+  "event": null,
+  "title": "Sagesse",
+  "tags": [
+    "#ESPOIR",
+    "#PAIX"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

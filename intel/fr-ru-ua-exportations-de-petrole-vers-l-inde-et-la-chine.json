@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-exportations-de-petrole-vers-l-inde-et-la-chine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Exportations de pétrole vers l'Inde et la Chine",
+  "includedEntities": [
+    {
+      "entityName": "pétrole russe",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Inde",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les achats de pétrole russe par l'Inde et la Chine.",
+  "isFuzzy": true,
+  "locations": [
+    "Inde",
+    "Chine"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "raffineries",
+    "rabais",
+    "sanctions"
+  ],
+  "questions": [
+    "Quels volumes ?",
+    "Quel rabais ?",
+    "Quelles pressions américaines ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#PETROLE",
+    "#COMMERCE"
+  ],
+  "events": [],
+  "signals": [
+    "!CONTOURNEMENT"
+  ],
+  "isDeleted": false
+}

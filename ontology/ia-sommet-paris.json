@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (la gouvernance de l'IA) : Sommet international organisé à Paris au Grand Palais, consacré à l'action, à l'innovation et à la gouvernance de l'IA.",
+  "id": "ia-sommet-paris",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Sommet pour l'action sur l'IA",
+  "entityType": "EVENT",
+  "description": "Sommet international organisé à Paris au Grand Palais, consacré à l'action, à l'innovation et à la gouvernance de l'IA.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "L'événement « Sommet pour l'action sur l'IA » a marqué durablement l'histoire de la gouvernance de l'IA.",
+    "La frise chronologique de la salle de cours place « Sommet pour l'action sur l'IA » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Sommet pour l'action sur l'IA »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "AI Action Summit"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#GOUVERNANCEIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Sommet%20pour%20l%27action%20sur%20l%27IA"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Sommet de Bletchley Park sur la sûreté de l'IA"
+  ],
+  "isDeleted": false,
+  "startDate": "2025-02-10T00:00:00",
+  "endDate": "2025-02-11T00:00:00"
+}

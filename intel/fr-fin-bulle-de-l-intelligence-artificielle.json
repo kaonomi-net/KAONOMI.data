@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-bulle-de-l-intelligence-artificielle",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Bulle de l'intelligence artificielle",
+  "includedEntities": [
+    {
+      "entityName": "bulle",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur une bulle boursière de l'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "valorisations",
+    "dot-com",
+    "dépenses d'investissement"
+  ],
+  "questions": [
+    "Quel argument ?",
+    "Quel indicateur ?",
+    "Quelle comparaison historique ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#IA",
+    "#BULLE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

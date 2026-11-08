@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-demission-d-un-ministre",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Démission d'un ministre",
+  "includedEntities": [
+    {
+      "entityName": "démission",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "ministre",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les démissions de ministres et leurs raisons.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "affaire",
+    "désaccord",
+    "candidature"
+  ],
+  "questions": [
+    "Qui démissionne ?",
+    "Pourquoi ?",
+    "Qui le remplace ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#GOUVERNEMENT",
+    "#DEMISSION"
+  ],
+  "events": [
+    "@DEMISSION"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

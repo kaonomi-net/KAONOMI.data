@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-decarbonation",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "décarbonation",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Pacte pour une industrie propre ; Boussole pour la compétitivité.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le pacte européen pour une industrie propre.",
+    "Suivre la feuille de route européenne pour la compétitivité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "décarbonation",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#INDUSTRIE",
+    "#CLIMAT",
+    "#COMPETITIVITE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "acier vert",
+    "hydrogène",
+    "industrie propre",
+    "aides d'État",
+    "sécurité",
+    "innovation",
+    "boussole pour la compétitivité",
+    "compétitivité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

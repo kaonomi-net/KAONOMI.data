@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-evacuations-dans-les-regions-frontalieres-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Évacuations dans les régions frontalières russes",
+  "includedEntities": [
+    {
+      "entityName": "évacuation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "régions frontalières",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les évacuations de civils côté russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgorod",
+    "Koursk",
+    "Briansk"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "habitants",
+    "frappes",
+    "autorités régionales"
+  ],
+  "questions": [
+    "Combien de personnes ?",
+    "Quelles localités ?",
+    "Quelle prise en charge ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#FRONTIERE",
+    "#EVACUATION"
+  ],
+  "events": [
+    "@EVACUATION"
+  ],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

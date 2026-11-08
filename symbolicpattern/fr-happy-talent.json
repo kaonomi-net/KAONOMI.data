@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-talent",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une aptitude remarquable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:talent(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:talentueu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dou[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:virtuose(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prodige(s)?)(?![\\w-])"
+  ],
+  "symbol": "talent",
+  "event": null,
+  "title": "Talent",
+  "tags": [
+    "#REUSSITE",
+    "#CREATION"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

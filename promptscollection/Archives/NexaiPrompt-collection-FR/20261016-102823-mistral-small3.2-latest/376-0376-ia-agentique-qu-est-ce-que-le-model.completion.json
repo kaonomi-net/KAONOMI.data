@@ -1,0 +1,13 @@
+{
+  "index": 376,
+  "file": "0376-ia-agentique-qu-est-ce-que-le-model.prompt.json",
+  "prompt": "Qu'est-ce que le Model Context Protocol (MCP) ?",
+  "promptWords": 8,
+  "completion": "Le Model Context Protocol (MCP) est un protocole de communication utilisé principalement dans les systèmes de contrôle industriel et les automatismes. Il permet la communication entre différents appareils et systèmes en définissant un cadre standardisé pour l'échange de données et de commandes.\n\nLe MCP est souvent utilisé dans les environnements où plusieurs dispositifs doivent fonctionner de manière coordonnée, comme dans les usines automatisées, les systèmes de gestion de bâtiments, ou les réseaux de capteurs. Il facilite l'intégration de différents équipements en fournissant un langage commun pour l'échange d'informations.\n\nSi vous avez besoin de détails plus spécifiques ou d'informations à jour sur le MCP, je peux essayer de trouver des ressources pertinentes. Souhaitez-vous que je fasse des recherches à ce sujet ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:33:58.8483467+02:00",
+  "durationSeconds": 3.5,
+  "stats": "mistral-small3.2:latest · 520 + 162 tokens · 3,5 s",
+  "isError": false,
+  "language": "FR"
+}

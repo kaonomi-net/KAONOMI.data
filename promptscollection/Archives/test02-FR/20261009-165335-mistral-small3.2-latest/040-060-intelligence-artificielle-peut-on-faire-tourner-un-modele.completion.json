@@ -1,0 +1,13 @@
+{
+  "index": 40,
+  "file": "060-intelligence-artificielle-peut-on-faire-tourner-un-modele.prompt.json",
+  "prompt": "Peut-on faire tourner un modèle d'IA en local sur son ordinateur ?",
+  "promptWords": 12,
+  "completion": "Oui, il est tout à fait possible de faire tourner un modèle d'IA en local sur son ordinateur. Voici quelques points à considérer :\n\n1. **Capacités matérielles** : Les modèles d'IA, surtout les plus récents et les plus performants, peuvent nécessiter des ressources importantes en termes de mémoire vive (RAM), de puissance de calcul (CPU/GPU) et de stockage. Assurez-vous que votre ordinateur dispose des spécifications nécessaires pour exécuter le modèle que vous souhaitez utiliser.\n\n2. **Frameworks et bibliothèques** : Utilisez des frameworks comme TensorFlow, PyTorch, ou ONNX Runtime qui permettent de charger et d'exécuter des modèles d'IA localement. Ces frameworks offrent des outils pour faciliter le déploiement de modèles sur des machines locales.\n\n3. **Modèles légers** : Si votre ordinateur a des ressources limitées, vous pouvez opter pour des modèles plus légers ou des versions optimisées pour l'exécution locale, comme les modèles quantifiés ou les modèles spécifiques à des tâches particulières.\n\n4. **Installation et configuration** : Vous devrez installer les dépendances nécessaires et configurer votre environnement pour exécuter le modèle. Cela peut inclure l'installation de bibliothèques spécifiques, de pilotes GPU (si vous utilisez un GPU), et d'autres outils.\n\n5. **Exemples de modèles** : De nombreux modèles populaires, comme BERT, ResNet, ou des modèles de vision par ordinateur, peuvent être exécutés localement une fois téléchargés et configurés correctement.\n\nSi vous avez un modèle spécifique en tête ou si vous avez besoin d'aide pour configurer l'exécution locale, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:00:28.5465817+02:00",
+  "durationSeconds": 8.22,
+  "stats": "mistral-small3.2:latest · 524 + 372 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

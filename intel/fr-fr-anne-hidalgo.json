@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-anne-hidalgo",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Anne Hidalgo",
+  "includedEntities": [
+    {
+      "entityName": "Anne Hidalgo",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Paris",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle d'Anne Hidalgo après son départ de la mairie de Paris.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "PS",
+    "Emmanuel Grégoire",
+    "bilan"
+  ],
+  "questions": [
+    "Quel nouveau rôle ?",
+    "Quelles déclarations ?",
+    "Quel soutien ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PS",
+    "#PARIS"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-lazarus",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Lazarus",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Lazarus et la Corée du Nord.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les vols de cryptomonnaies et l'espionnage nord-coréens."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Lazarus",
+  "tags": [
+    "#CYBERSECURITE",
+    "#COREE-DU-NORD",
+    "#CRYPTO"
+  ],
+  "events": [
+    "@VOL-CRYPTO"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "cryptomonnaies",
+    "plateformes",
+    "faux informaticiens",
+    "Corée du Nord"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

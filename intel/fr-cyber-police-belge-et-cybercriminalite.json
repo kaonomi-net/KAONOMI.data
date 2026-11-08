@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-police-belge-et-cybercriminalite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Police belge et cybercriminalité",
+  "includedEntities": [
+    {
+      "entityName": "police fédérale",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Belgique",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cybercriminalité",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les enquêtes belges contre la cybercriminalité.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "FCCU",
+    "parquet",
+    "arnaques"
+  ],
+  "questions": [
+    "Quelle enquête ?",
+    "Quelles arrestations ?",
+    "Quelle victime ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#BELGIQUE",
+    "#POLICE"
+  ],
+  "events": [
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

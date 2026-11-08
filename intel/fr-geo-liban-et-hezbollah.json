@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-liban-et-hezbollah",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Liban et Hezbollah",
+  "includedEntities": [
+    {
+      "entityName": "Liban",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Hezbollah",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "frontière",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller la situation au Liban et le long de la frontière avec Israël.",
+  "isFuzzy": true,
+  "locations": [
+    "Beyrouth",
+    "Sud-Liban"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Israël",
+    "FINUL",
+    "armée libanaise"
+  ],
+  "questions": [
+    "Quels affrontements ?",
+    "Le cessez-le-feu tient-il ?",
+    "Quelle situation politique ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#LIBAN",
+    "#MOYEN-ORIENT"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-immigration-et-loi",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Immigration et loi",
+  "includedEntities": [
+    {
+      "entityName": "immigration",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "projet de loi",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "régularisation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les textes et débats sur l'immigration.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "OQTF",
+    "régularisations",
+    "Conseil constitutionnel"
+  ],
+  "questions": [
+    "Quel texte ?",
+    "Quelles mesures ?",
+    "Quelle censure ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#IMMIGRATION",
+    "#LOI"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

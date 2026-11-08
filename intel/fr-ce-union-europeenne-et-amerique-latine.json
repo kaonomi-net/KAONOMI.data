@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-union-europeenne-et-amerique-latine",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Union européenne et Amérique latine",
+  "includedEntities": [
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Amérique latine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "CELAC",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les relations entre l'Union et l'Amérique latine.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Brasilia"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Mercosur",
+    "Mexique",
+    "Chili"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quel sommet ?",
+    "Quelle coopération ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AMERIQUE-LATINE",
+    "#DIPLOMATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

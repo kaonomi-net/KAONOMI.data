@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-medicaments-amaigrissants-et-pharma",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Médicaments amaigrissants et pharma",
+  "includedEntities": [
+    {
+      "entityName": "médicaments amaigrissants",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "GLP-1",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le marché des traitements contre l'obésité et ses effets sur la pharma.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Novo Nordisk",
+    "Eli Lilly",
+    "Sanofi"
+  ],
+  "questions": [
+    "Quel lancement ?",
+    "Quel prix ?",
+    "Quel effet sur les concurrents ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#PHARMA",
+    "#OBESITE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENDANCE"
+  ],
+  "isDeleted": false
+}

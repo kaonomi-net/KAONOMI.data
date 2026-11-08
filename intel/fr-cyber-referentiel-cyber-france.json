@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-referentiel-cyber-france",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Référentiel Cyber France",
+  "includedEntities": [
+    {
+      "entityName": "Référentiel Cyber France",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "ReCyF",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le référentiel de l'ANSSI pour les entités soumises à NIS2.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ANSSI",
+    "mesures",
+    "conformité"
+  ],
+  "questions": [
+    "Quelle version ?",
+    "Quelles mesures ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#REGULATION",
+    "#ANSSI"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

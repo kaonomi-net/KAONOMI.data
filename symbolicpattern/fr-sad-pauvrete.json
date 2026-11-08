@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-pauvrete",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le manque d'argent, de ressources.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pauvret[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pauvre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]muni(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sans-abri)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sdf)(?![\\w-])"
+  ],
+  "symbol": "pauvreté",
+  "event": null,
+  "title": "Pauvreté",
+  "tags": [
+    "#MISERE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

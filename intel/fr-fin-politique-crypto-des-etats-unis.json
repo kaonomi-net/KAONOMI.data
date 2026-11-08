@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-politique-crypto-des-etats-unis",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Politique crypto des États-Unis",
+  "includedEntities": [
+    {
+      "entityName": "cryptoactifs",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "États-Unis",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "loi",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les lois et décisions américaines sur les cryptoactifs.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "SEC",
+    "stablecoins",
+    "réserve stratégique"
+  ],
+  "questions": [
+    "Quelle loi ?",
+    "Quel effet du Congrès démocrate ?",
+    "Quelle réaction du marché ?"
+  ],
+  "tags": [
+    "#CRYPTO",
+    "#ETATS-UNIS",
+    "#REGULATION"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

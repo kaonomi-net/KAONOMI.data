@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-ingerence-etrangere-au-parlement-europeen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Ingérence étrangère au Parlement européen",
+  "includedEntities": [
+    {
+      "entityName": "ingérence",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Parlement européen",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les ingérences étrangères visant les institutions européennes.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Voice of Europe",
+    "Russie",
+    "Chine"
+  ],
+  "questions": [
+    "Quelle affaire ?",
+    "Quels eurodéputés ?",
+    "Quelle enquête ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#INGERENCE"
+  ],
+  "events": [
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-nature-human-behaviour",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "Nature Human Behaviour",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Revues et publications en psychologie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les études marquantes publiées en psychologie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Nature Human Behaviour",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#RECHERCHE"
+  ],
+  "events": [
+    "@PUBLICATION"
+  ],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "revue",
+    "étude publiée",
+    "méta-analyses",
+    "Psychological Science",
+    "psychologie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

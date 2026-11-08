@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-marioupol-occupee",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Marioupol occupée",
+  "includedEntities": [
+    {
+      "entityName": "Marioupol",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "occupation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation à Marioupol sous occupation russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Marioupol"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "reconstruction",
+    "habitants",
+    "propagande"
+  ],
+  "questions": [
+    "Quelle reconstruction ?",
+    "Quels départs ou arrivées d'habitants ?",
+    "Quelles résistances ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#MARIOUPOL",
+    "#OCCUPATION"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

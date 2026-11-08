@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-securite-des-agents-d-ia",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Sécurité des agents d'IA",
+  "includedEntities": [
+    {
+      "entityName": "agents d'IA",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "sécurité",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les risques de sécurité des agents d'IA autonomes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "MCP",
+    "permissions",
+    "outils"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quelle faille ?",
+    "Quelle recommandation ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#AGENTS"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-esperance",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La confiance en l'avenir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:esp[ée]rance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:esp[ée]r(er|ons|ez|ait)|j['’]esp[èe]re)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souhait(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souhait(er|e|[ée]|ons))(?![\\w-])"
+  ],
+  "symbol": "espérance",
+  "event": null,
+  "title": "Espérance",
+  "tags": [
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

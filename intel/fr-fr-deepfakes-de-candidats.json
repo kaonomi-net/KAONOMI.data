@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-deepfakes-de-candidats",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Deepfakes de candidats",
+  "includedEntities": [
+    {
+      "entityName": "deepfake",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "candidat",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les fausses vidéos ou voix de candidats.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "IA",
+    "réseaux sociaux",
+    "démenti"
+  ],
+  "questions": [
+    "Qui est visé ?",
+    "Quelle diffusion ?",
+    "Quel démenti ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DEEPFAKE",
+    "#PRESIDENTIELLE-2027"
+  ],
+  "events": [
+    "@DEEPFAKE-DETECTE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

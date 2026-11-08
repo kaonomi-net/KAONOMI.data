@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (les séquences) : Réseau qui réinjecte son état interne d'un pas de temps au suivant pour traiter des séquences ; le réseau d'Elman (1990) en est un modèle classique.",
+  "id": "ia-rnn",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Réseau de neurones récurrent",
+  "entityType": "ALGORITHM",
+  "description": "Réseau qui réinjecte son état interne d'un pas de temps au suivant pour traiter des séquences ; le réseau d'Elman (1990) en est un modèle classique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "La chercheuse a présenté une variante de Réseau de neurones récurrent lors du séminaire.",
+    "Réseau de neurones récurrent est enseigné dans tous les cours consacrés aux séquences.",
+    "Le notebook compare Réseau de neurones récurrent aux autres méthodes des séquences."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "RNN",
+    "réseau récurrent"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#SEQUENCES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A9seau%20de%20neurones%20r%C3%A9current"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "LSTM"
+  ],
+  "isDeleted": false,
+  "startDate": "1990-01-01T00:00:00",
+  "endDate": null
+}

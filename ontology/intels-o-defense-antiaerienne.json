@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-defense-antiaerienne",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "défense antiaérienne",
+  "entityType": "DOMAIN",
+  "description": "Cité par 14 intels : Bombes planantes russes ; Frappes sur la Crimée ; Attaques sur Kyiv ; Vagues de drones Shahed ; Frappes de missiles de croisière ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Surveiller l'usage massif des bombes planantes guidées.",
+    "Suivre les frappes ukrainiennes sur les installations militaires en Crimée.",
+    "Surveiller les attaques de missiles et de drones contre la capitale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "défense antiaérienne",
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#DRONES",
+    "#DEFENSE-ANTIAERIENNE",
+    "#FRAPPES",
+    "#ARMEMENT"
+  ],
+  "events": [
+    "@FRAPPE",
+    "@FERMETURE-AEROPORT",
+    "@INCURSION"
+  ],
+  "signals": [
+    "!MENACE",
+    "!ALERTE",
+    "!VULNERABILITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "drones",
+    "aéroports",
+    "Su-34",
+    "aviation russe",
+    "bombes planantes",
+    "missiles",
+    "Patriot",
+    "Moscou",
+    "radars",
+    "Pologne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

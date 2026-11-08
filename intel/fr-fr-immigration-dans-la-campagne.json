@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-immigration-dans-la-campagne",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Immigration dans la campagne",
+  "includedEntities": [
+    {
+      "entityName": "immigration",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "campagne",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "référendum",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la place de l'immigration dans la campagne présidentielle.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "RN",
+    "LR",
+    "référendum"
+  ],
+  "questions": [
+    "Quelles propositions ?",
+    "Quel candidat ?",
+    "Quelle faisabilité ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#IMMIGRATION",
+    "#PRESIDENTIELLE-2027"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

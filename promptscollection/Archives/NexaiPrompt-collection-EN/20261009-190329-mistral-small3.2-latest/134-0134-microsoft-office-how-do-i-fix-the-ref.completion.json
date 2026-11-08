@@ -1,0 +1,13 @@
+{
+  "index": 134,
+  "file": "0134-microsoft-office-how-do-i-fix-the-ref.prompt.json",
+  "prompt": "How do I fix the #REF! error in Excel?",
+  "promptWords": 9,
+  "completion": "The #REF! error in Excel typically occurs when a formula refers to a cell that is not valid. This can happen for several reasons. Here are some common causes and solutions:\n\n### Common Causes and Solutions:\n\n1. **Deleted or Moved Cells**:\n   - **Cause**: The formula refers to a cell that has been deleted or moved.\n   - **Solution**: Update the formula to refer to the correct cell or range.\n\n2. **Incorrect Range Reference**:\n   - **Cause**: The formula might be referencing a range that doesn't exist.\n   - **Solution**: Check the range references in your formula and correct them.\n\n3. **Named Range Issues**:\n   - **Cause**: The formula uses a named range that has been deleted or changed.\n   - **Solution**: Verify the named range exists and is correctly defined.\n\n4. **Structured References in Tables**:\n   - **Cause**: The formula uses a structured reference in a table, but the table or column has been deleted or renamed.\n   - **Solution**: Ensure the table and column names are correct.\n\n5. **External References**:\n   - **Cause**: The formula refers to a cell in another workbook that is not open or has been moved.\n   - **Solution**: Open the referenced workbook or update the reference to point to the correct location.\n\n### Steps to Fix the #REF! Error:\n\n1. **Identify the Problematic Formula**:\n   - Click on the cell with the #REF! error to see the formula.\n\n2. **Check for Deleted or Moved Cells**:\n   - Ensure that the cells referenced in the formula still exist.\n\n3. **Verify Range References**:\n   - Make sure all range references are correct and valid.\n\n4. **Update Named Ranges**:\n   - If the formula uses named ranges, ensure they are correctly defined.\n\n5. **Check External References**:\n   - If the formula refers to another workbook, ensure that workbook is open and the reference is correct.\n\n6. **Use the Trace Precedents Tool**:\n   - Go to the `Formulas` tab, click `Trace Precedents` to see which cells the formula depends on.\n\nBy following these steps, you should be able to identify and fix the #REF! error in your Excel worksheet. If you need more specific help, please provide the formula causing the error.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:28:12.5072115+02:00",
+  "durationSeconds": 11.76,
+  "stats": "mistral-small3.2:latest · 519 + 473 tokens · 11,8 s",
+  "isError": false,
+  "language": "EN"
+}

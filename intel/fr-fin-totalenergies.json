@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-totalenergies",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "TotalEnergies",
+  "includedEntities": [
+    {
+      "entityName": "TotalEnergies",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "pétrole",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action TotalEnergies, au plus haut après un bénéfice ajusté de 9,1 milliards de dollars au troisième trimestre 2026.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Patrick Pouyanné",
+    "Brent",
+    "rachats d'actions"
+  ],
+  "questions": [
+    "Quel bénéfice ?",
+    "Quel effet du recul du pétrole ?",
+    "Quels rachats ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#ENERGIE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

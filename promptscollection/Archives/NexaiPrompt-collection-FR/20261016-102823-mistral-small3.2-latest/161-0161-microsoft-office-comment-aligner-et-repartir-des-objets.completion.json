@@ -1,0 +1,13 @@
+{
+  "index": 161,
+  "file": "0161-microsoft-office-comment-aligner-et-repartir-des-objets.prompt.json",
+  "prompt": "Comment aligner et répartir des objets dans PowerPoint ?",
+  "promptWords": 9,
+  "completion": "Pour aligner et répartir des objets dans PowerPoint, vous pouvez suivre ces étapes :\n\n### Aligner des objets\n1. **Sélectionnez les objets** que vous souhaitez aligner. Vous pouvez en sélectionner plusieurs en maintenant la touche `Ctrl` (ou `Cmd` sur Mac) tout en cliquant sur chaque objet.\n2. **Accédez à l'onglet \"Accueil\"** ou \"Format\" (selon la version de PowerPoint).\n3. **Cliquez sur \"Aligner\"** dans le groupe \"Organiser\".\n4. **Choisissez l'option d'alignement** souhaitée :\n   - Aligner à gauche\n   - Centrer\n   - Aligner à droite\n   - Aligner en haut\n   - Centrer verticalement\n   - Aligner en bas\n\n### Répartir des objets\n1. **Sélectionnez les objets** que vous souhaitez répartir.\n2. **Accédez à l'onglet \"Accueil\"** ou \"Format\".\n3. **Cliquez sur \"Répartir horizontalement\"** ou \"Répartir verticalement\" dans le groupe \"Organiser\".\n\n### Astuces supplémentaires\n- **Utilisez la grille et les repères** pour un alignement plus précis. Vous pouvez activer la grille en allant dans \"Affichage\" > \"Grille\".\n- **Groupez les objets** si vous souhaitez les déplacer ensemble après les avoir alignés. Sélectionnez-les, puis cliquez sur \"Grouper\" dans l'onglet \"Format\".\n\nSi vous avez besoin d'instructions plus détaillées ou d'une version spécifique de PowerPoint, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:57:34.2028284+02:00",
+  "durationSeconds": 7.48,
+  "stats": "mistral-small3.2:latest · 519 + 360 tokens · 7,5 s",
+  "isError": false,
+  "language": "FR"
+}

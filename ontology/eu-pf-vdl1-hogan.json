@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la politique commerciale) : Portefeuille détenu par Phil Hogan, commissaire, dans la Commission von der Leyen I, du 1er décembre 2019 au 26 août 2020.",
+  "id": "eu-pf-vdl1-hogan",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Commerce (Commission von der Leyen I)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Phil Hogan, commissaire, dans la Commission von der Leyen I, du 1er décembre 2019 au 26 août 2020.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "La lettre de mission du portefeuille « Commerce (Commission von der Leyen I) » fixe les objectifs en matière de la politique commerciale.",
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Commerce (Commission von der Leyen I) ».",
+    "Le portefeuille « Commerce (Commission von der Leyen I) » couvre la politique commerciale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#POLITIQUECOMMERCIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commerce%20%28Commission%20von%20der%20Leyen%20I%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Phil Hogan",
+    "Commission von der Leyen I",
+    "Commissaire européen",
+    "Commerce"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-12-01T00:00:00",
+  "endDate": "2020-08-26T00:00:00"
+}

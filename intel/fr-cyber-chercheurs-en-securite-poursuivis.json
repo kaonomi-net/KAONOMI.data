@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-chercheurs-en-securite-poursuivis",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Chercheurs en sécurité poursuivis",
+  "includedEntities": [
+    {
+      "entityName": "chercheur en sécurité",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "poursuites",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les poursuites contre des chercheurs en sécurité.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "divulgation",
+    "loi",
+    "éthique"
+  ],
+  "questions": [
+    "Quel chercheur ?",
+    "Quelle poursuite ?",
+    "Quelle réaction de la communauté ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DIVULGATION",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

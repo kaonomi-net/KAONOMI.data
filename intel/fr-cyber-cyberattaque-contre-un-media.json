@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-un-media",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre un média",
+  "includedEntities": [
+    {
+      "entityName": "média",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "journal",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les cyberattaques contre les médias.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "site indisponible",
+    "diffusion",
+    "rançongiciel"
+  ],
+  "questions": [
+    "Quel média ?",
+    "Quel impact ?",
+    "Quel attaquant ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#MEDIAS"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-controle-coercitif",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Contrôle coercitif",
+  "includedEntities": [
+    {
+      "entityName": "contrôle coercitif",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "loi",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'introduction du contrôle coercitif dans le droit.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "violences conjugales",
+    "Parlement",
+    "jurisprudence"
+  ],
+  "questions": [
+    "Quelle loi ?",
+    "Quelle définition ?",
+    "Quelle condamnation ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#VIOLENCES-CONJUGALES",
+    "#DROIT"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!VIOLENCE"
+  ],
+  "isDeleted": false
+}

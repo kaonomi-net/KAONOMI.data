@@ -1,0 +1,13 @@
+{
+  "index": 1,
+  "file": "001-philosophie-qu-est-ce-que-la-philosophie.prompt.json",
+  "prompt": "Qu'est-ce que la philosophie et à quoi sert-elle ?",
+  "promptWords": 9,
+  "completion": "La philosophie est une discipline intellectuelle qui cherche à comprendre et à interroger les grandes questions fondamentales de l'existence, de la connaissance, de la morale, de la société et de l'univers. Le terme \"philosophie\" vient du grec ancien \"philosophia\", qui signifie \"amour de la sagesse\".\n\n### À quoi sert la philosophie ?\nLa philosophie sert à plusieurs niveaux :\n\n1. **Compréhension du monde** : Elle aide à analyser et à comprendre les concepts complexes, les valeurs et les principes qui sous-tendent notre réalité.\n\n2. **Développement critique** : Elle encourage le questionnement, la réflexion critique et la pensée logique, permettant de remettre en cause les idées reçues et de développer un esprit autonome.\n\n3. **Clarté conceptuelle** : Elle permet de définir et de clarifier les termes et les idées, ce qui est essentiel dans de nombreux domaines, comme la science, le droit ou la politique.\n\n4. **Éthique et morale** : Elle explore les questions de bien et de mal, de justice et d'injustice, aidant les individus et les sociétés à réfléchir sur leurs valeurs et leurs actions.\n\n5. **Sagesse pratique** : Elle offre des outils pour vivre une vie plus réfléchie et épanouie, en abordant des questions comme le bonheur, le sens de la vie ou la mort.\n\n6. **Fondation des sciences** : De nombreuses disciplines scientifiques, comme la physique, la biologie ou la psychologie, ont des racines dans la philosophie.\n\n7. **Dialogue et débat** : Elle favorise le dialogue entre les individus et les cultures, en offrant un cadre pour discuter des différences et des similitudes.\n\nEn somme, la philosophie est un outil puissant pour comprendre le monde, se comprendre soi-même et vivre de manière plus consciente et réfléchie.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T15:50:18.003298+02:00",
+  "durationSeconds": 14.62,
+  "stats": "mistral-small3.2:latest · 519 + 381 tokens · 14,6 s",
+  "isError": false,
+  "language": "FR"
+}

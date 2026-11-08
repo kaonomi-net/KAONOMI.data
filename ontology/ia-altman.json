@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (l'entrepreneuriat) : Entrepreneur américain, ancien président de Y Combinator et directeur général d'OpenAI, éditeur de ChatGPT.",
+  "id": "ia-altman",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Sam Altman",
+  "entityType": "PERSON",
+  "description": "Entrepreneur américain, ancien président de Y Combinator et directeur général d'OpenAI, éditeur de ChatGPT.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Une biographie de Sam Altman rappelle son rôle dans l'entrepreneuriat.",
+    "Sam Altman est l'une des figures marquantes de l'entrepreneuriat.",
+    "Lors de la conférence, l'oratrice a cité Sam Altman pour illustrer les progrès de l'entrepreneuriat."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Samuel Altman"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#ENTREPRENEURIAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Sam%20Altman"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Fondation d'OpenAI",
+    "ChatGPT",
+    "Éviction et retour de Sam Altman"
+  ],
+  "isDeleted": false,
+  "startDate": "1985-04-22T00:00:00",
+  "endDate": null
+}

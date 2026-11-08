@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-relation-entre-macron-et-lecornu",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Relation entre Macron et Lecornu",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Sébastien Lecornu",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Matignon",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les relations entre le président et son Premier ministre.",
+  "isFuzzy": true,
+  "locations": [
+    "Élysée",
+    "Matignon"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "gouvernement",
+    "budget",
+    "cohabitation"
+  ],
+  "questions": [
+    "Quel désaccord ?",
+    "Quelle répartition des rôles ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#GOUVERNEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

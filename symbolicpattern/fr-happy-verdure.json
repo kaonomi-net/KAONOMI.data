@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-verdure",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'ensemble des plantes vertes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:verdure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:verdoyant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prairie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[âa]turage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:herbe(s)?\\s+fra[îi]che(s)?)(?![\\w-])"
+  ],
+  "symbol": "verdure",
+  "event": null,
+  "title": "Verdure",
+  "tags": [
+    "#NATURE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

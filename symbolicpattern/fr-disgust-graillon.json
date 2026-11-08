@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-graillon",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'odeur de graisse brûlée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:graillon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:odeur(s)?\\s+de\\s+friture)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:huile\\s+rance)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:huile\\s+de\\s+friture\\s+usag[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:friture\\s+graisseuse)(?![\\w-])"
+  ],
+  "symbol": "graillon",
+  "event": null,
+  "title": "Graillon",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

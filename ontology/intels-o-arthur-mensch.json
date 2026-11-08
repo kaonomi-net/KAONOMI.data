@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-arthur-mensch",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Arthur Mensch",
+  "entityType": "PERSON",
+  "description": "Cité par 4 intels : Modèle ouvert de Mistral AI ; Champion français de l'IA ; Déclaration d'Arthur Mensch ; Mistral AI.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Surveiller les modèles publiés par Mistral AI et leur licence.",
+    "Suivre les acteurs français de l'IA et la souveraineté numérique.",
+    "Suivre les prises de parole du dirigeant de Mistral AI."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Arthur Mensch",
+  "tags": [
+    "#IA",
+    "#MISTRAL",
+    "#SOUVERAINETE",
+    "#FRANCE",
+    "#LLM",
+    "#PERSONNALITE"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE",
+    "@ACTEUR-NATIONAL",
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!SOUVERAINETE",
+    "!NOUVEAUTE",
+    "!VALORISATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Mistral AI",
+    "open source",
+    "souveraineté",
+    "Le Chat",
+    "modèle",
+    "Hugging Face",
+    "France",
+    "H Company",
+    "Bpifrance"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

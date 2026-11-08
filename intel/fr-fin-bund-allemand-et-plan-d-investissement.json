@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-bund-allemand-et-plan-d-investissement",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Bund allemand et plan d'investissement",
+  "includedEntities": [
+    {
+      "entityName": "Bund",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Allemagne",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "émissions",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les taux allemands et la hausse des émissions liée au plan d'investissement.",
+  "isFuzzy": true,
+  "locations": [
+    "Berlin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "défense",
+    "infrastructures",
+    "frein à l'endettement"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quel volume d'émissions ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#DETTE",
+    "#ALLEMAGNE",
+    "#OBLIGATIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!TAUX"
+  ],
+  "isDeleted": false
+}

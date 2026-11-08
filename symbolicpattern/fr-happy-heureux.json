@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-heureux",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui ressent du bonheur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:heureu(x|se|ses|sement))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:happy)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]panoui(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:radieu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rayonnant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "heureux",
+  "event": null,
+  "title": "Heureux",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

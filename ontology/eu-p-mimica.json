@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la protection des consommateurs) : Diplomate croate, commissaire à la Protection des consommateurs (2013-2014) puis à la Coopération internationale et au Développement (2014-2019).",
+  "id": "eu-p-mimica",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Neven Mimica",
+  "entityType": "PERSON",
+  "description": "Diplomate croate, commissaire à la Protection des consommateurs (2013-2014) puis à la Coopération internationale et au Développement (2014-2019).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Neven Mimica est une figure de la protection des consommateurs.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Neven Mimica.",
+    "Lors du point de presse de midi, une question portait sur Neven Mimica."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Mimica"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PROTECTIONCONSOMMATEURS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Neven%20Mimica"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité croate",
+    "Parti social-démocrate de Croatie (SDP)",
+    "Diplomate",
+    "Commissaire européen",
+    "Coopération internationale et développement (Commission Juncker)",
+    "Commission Juncker",
+    "Partenariats internationaux",
+    "Protection des consommateurs (Commission Barroso II)",
+    "Commission Barroso II",
+    "Protection des consommateurs"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

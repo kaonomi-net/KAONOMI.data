@@ -1,0 +1,13 @@
+{
+  "index": 639,
+  "file": "0639-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre les expressions régulières.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en Python qui illustre l'utilisation des expressions régulières avec le module `re` :\n\n```python\nimport re\n\n# Exemple 1 : Vérification d'un format d'email\ndef verifier_email(email):\n    pattern = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$'\n    if re.match(pattern, email):\n        return \"Email valide\"\n    else:\n        return \"Email invalide\"\n\n# Exemple 2 : Extraction de tous les mots commençant par une majuscule\ndef extraire_noms_propres(texte):\n    pattern = r'\\b[A-Z][a-zA-Z]*\\b'\n    noms_propres = re.findall(pattern, texte)\n    return noms_propres\n\n# Exemple 3 : Remplacement de tous les chiffres par le caractère '#'\ndef masquer_chiffres(texte):\n    pattern = r'\\d'\n    texte_modifie = re.sub(pattern, '#', texte)\n    return texte_modifie\n\n# Exemple 4 : Division d'une chaîne en utilisant un séparateur complexe\ndef diviser_texte(texte):\n    pattern = r'[,\\s]+'\n    parties = re.split(pattern, texte)\n    return parties\n\n# Tests\nemail_test = \"contact@example.com\"\nprint(verifier_email(email_test))  # Output: Email valide\n\ntexte_test = \"Bonjour, je m'appelle Jean et j'habite à Paris.\"\nprint(extraire_noms_propres(texte_test))  # Output: ['Bonjour', 'Jean', 'Paris']\n\ntexte_a_masquer = \"Mon numéro de téléphone est 0123456789.\"\nprint(masquer_chiffres(texte_a_masquer))  # Output: Mon numéro de téléphone est ##########.\n\ntexte_a_diviser = \"Pomme, Orange Banane\"\nprint(diviser_texte(texte_a_diviser))  # Output: ['Pomme', 'Orange', 'Banane']\n```\n\nCe code montre plusieurs utilisations courantes des expressions régulières :\n1. Vérification du format d'un email\n2. Extraction de mots commençant par une majuscule\n3. Remplacement de caractères spécifiques\n4. Division d'une chaîne avec un séparateur complexe\n\nLes expressions régulières sont très puissantes pour manipuler et analyser des chaînes de caractères de manière flexible.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:36:23.1868816+02:00",
+  "durationSeconds": 10.48,
+  "stats": "mistral-small3.2:latest · 523 + 525 tokens · 10,5 s",
+  "isError": false,
+  "language": "FR"
+}

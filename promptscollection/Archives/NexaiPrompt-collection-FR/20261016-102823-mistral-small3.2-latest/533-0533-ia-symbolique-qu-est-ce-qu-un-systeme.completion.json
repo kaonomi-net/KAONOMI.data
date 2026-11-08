@@ -1,0 +1,13 @@
+{
+  "index": 533,
+  "file": "0533-ia-symbolique-qu-est-ce-qu-un-systeme.prompt.json",
+  "prompt": "Qu'est-ce qu'un système expert ?",
+  "promptWords": 5,
+  "completion": "Un système expert est un type de logiciel conçu pour imiter le raisonnement et la prise de décision d'un expert humain dans un domaine spécifique. Il utilise une base de connaissances et des règles logiques pour résoudre des problèmes complexes, souvent dans des domaines où l'expertise humaine est cruciale, comme la médecine, l'ingénierie, ou la finance.\n\n### Caractéristiques principales d'un système expert :\n1. **Base de connaissances** : Contient des faits et des règles spécifiques au domaine d'application.\n2. **Moteur d'inférence** : Utilise des algorithmes pour appliquer les règles de la base de connaissances aux faits connus et déduire de nouvelles informations.\n3. **Interface utilisateur** : Permet aux utilisateurs d'interagir avec le système, poser des questions et obtenir des réponses ou des recommandations.\n\n### Exemples d'applications :\n- **Diagnostic médical** : Aider les médecins à identifier des maladies en analysant les symptômes.\n- **Support technique** : Résoudre des problèmes techniques en posant des questions à l'utilisateur.\n- **Gestion de la qualité** : Contrôler des processus industriels pour détecter des anomalies.\n\nLes systèmes experts sont particulièrement utiles dans des contextes où l'expertise humaine est rare ou coûteuse, ou pour automatiser des tâches répétitives nécessitant une analyse approfondie.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:02:54.5683538+02:00",
+  "durationSeconds": 6.11,
+  "stats": "mistral-small3.2:latest · 515 + 290 tokens · 6,1 s",
+  "isError": false,
+  "language": "FR"
+}

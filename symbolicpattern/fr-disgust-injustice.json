@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-injustice",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le manque de justice.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:injustice(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:injuste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:iniquit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:deux\\s+poids\\s+deux\\s+mesures)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:passe-droit(s)?)(?![\\w-])"
+  ],
+  "symbol": "injustice",
+  "event": null,
+  "title": "Injustice",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

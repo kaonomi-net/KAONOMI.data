@@ -1,0 +1,13 @@
+{
+  "index": 113,
+  "file": "0113-microsoft-office-how-do-i-add-captions-under.prompt.json",
+  "prompt": "How do I add captions under images in Word?",
+  "promptWords": 9,
+  "completion": "To add captions under images in Microsoft Word, follow these steps:\n\n1. **Insert the Image**: First, insert the image into your document if you haven't already. You can do this by going to the **Insert** tab and clicking on **Pictures**.\n\n2. **Select the Image**: Click on the image to select it.\n\n3. **Insert Caption**:\n   - Go to the **References** tab in the ribbon.\n   - Click on **Insert Caption** in the Captions group.\n   - A dialog box will appear where you can enter the caption text.\n   - You can also choose a label (like \"Figure\") from the drop-down menu if you want to use a specific format.\n   - Click **OK** to insert the caption.\n\n4. **Position the Caption**: By default, the caption will appear below the image. You can adjust its position by clicking and dragging it or by using the formatting options in the **References** tab.\n\n5. **Format the Caption**: You can change the font, size, and other formatting options for the caption by selecting it and using the **Home** tab or the mini toolbar that appears when you right-click on the caption.\n\nIf you need more detailed instructions or if the steps above don't match your version of Word, please let me know which version of Microsoft Word you are using, and I can provide more specific guidance.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:24:15.5739465+02:00",
+  "durationSeconds": 7.07,
+  "stats": "mistral-small3.2:latest · 518 + 283 tokens · 7,1 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-matieres-premieres",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "matières premières",
+  "entityType": "MATERIAL",
+  "description": "Cité par 3 intels : Paquet diversification des chaînes d'approvisionnement ; Union européenne et Asie centrale ; Union européenne et Arctique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre le paquet de diversification prévu par le programme de travail 2027.",
+    "Suivre les partenariats européens en Asie centrale.",
+    "Suivre la politique européenne dans l'Arctique et autour du Groenland."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "matières premières",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#PROGRAMME-2027",
+    "#ASIE-CENTRALE",
+    "#PARTENARIAT",
+    "#ARCTIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE",
+    "!INFLUENCE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "chaînes d'approvisionnement",
+    "diversification",
+    "partenaires",
+    "dépendances",
+    "Bruxelles",
+    "Astana",
+    "Samarcande",
+    "Asie centrale",
+    "corridors",
+    "Russie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

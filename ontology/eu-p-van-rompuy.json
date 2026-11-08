@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la vie politique européenne) : Économiste, ancien Premier ministre belge, premier président permanent du Conseil européen (2009-2014).",
+  "id": "eu-p-van-rompuy",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Herman Van Rompuy",
+  "entityType": "PERSON",
+  "description": "Économiste, ancien Premier ministre belge, premier président permanent du Conseil européen (2009-2014).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-dirigeants",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Herman Van Rompuy.",
+    "Les manuels sur les institutions européennes citent Herman Van Rompuy.",
+    "Le portrait de Herman Van Rompuy figure dans le dossier consacré à la vie politique européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Van Rompuy"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#VIEPOLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Herman%20Van%20Rompuy"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité belge",
+    "Chrétiens-démocrates et flamands (CD&V)",
+    "Économiste",
+    "Chef de gouvernement",
+    "Président du Conseil européen",
+    "Conseil européen",
+    "Prix Nobel de la paix décerné à l'Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

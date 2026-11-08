@@ -1,0 +1,13 @@
+{
+  "index": 538,
+  "file": "0538-ia-symbolique-qu-est-ce-que-l-ia.prompt.json",
+  "prompt": "Qu'est-ce que l'IA neuro-symbolique ?",
+  "promptWords": 5,
+  "completion": "L'IA neuro-symbolique est une approche hybride en intelligence artificielle qui combine les forces des systèmes neuronaux (comme les réseaux de neurones) et des systèmes symboliques (comme la logique formelle et les règles basées sur des connaissances).\n\n### Voici les principales caractéristiques de l'IA neuro-symbolique :\n\n1. **Combinaison de deux paradigmes** :\n   - **Neuro** : Utilise des réseaux de neurones pour apprendre des données brutes et extraire des caractéristiques.\n   - **Symbolique** : Utilise des symboles, des règles et des structures logiques pour raisonner et prendre des décisions.\n\n2. **Avantages** :\n   - **Apprentissage automatique** : Les réseaux de neurones permettent d'apprendre à partir de grandes quantités de données.\n   - **Raisonnement logique** : Les systèmes symboliques permettent de manipuler des connaissances explicites et de raisonner de manière transparente.\n\n3. **Applications** :\n   - **Diagnostic médical** : Combinaison de l'apprentissage automatique pour analyser des images médicales et de la logique pour interpréter les résultats.\n   - **Robotique** : Utilisation de réseaux de neurones pour la perception et de règles symboliques pour le contrôle et la planification.\n   - **Systèmes de recommandation** : Apprentissage des préférences des utilisateurs et raisonnement logique pour faire des suggestions pertinentes.\n\n4. **Défis** :\n   - **Intégration** : Combiner efficacement les deux approches peut être complexe.\n   - **Interprétabilité** : Bien que les systèmes symboliques soient interprétables, les réseaux de neurones sont souvent des \"boîtes noires\".\n\nL'IA neuro-symbolique est particulièrement utile dans les domaines où l'apprentissage automatique seul ne suffit pas, et où le raisonnement logique est nécessaire pour des décisions complexes et explicables.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:03:34.1386322+02:00",
+  "durationSeconds": 8.17,
+  "stats": "mistral-small3.2:latest · 519 + 403 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

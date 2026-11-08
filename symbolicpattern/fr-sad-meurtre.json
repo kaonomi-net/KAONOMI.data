@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-meurtre",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de tuer volontairement quelqu'un.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:meurtre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:meurtri(er|[èe]re|ers|[èe]res))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:homicide(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crime(s)?\\s+de\\s+sang)(?![\\w-])"
+  ],
+  "symbol": "meurtre",
+  "event": null,
+  "title": "Meurtre",
+  "tags": [
+    "#MORT",
+    "#VIOLENCE",
+    "#CRIME"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

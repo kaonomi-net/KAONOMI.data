@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-psychologues-de-l-education-nationale",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "psychologues de l'Éducation nationale",
+  "entityType": "PROFESSION",
+  "description": "Cité par 2 intels : Élèves en souffrance psychique ; Psychologues de l'Éducation nationale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre le dispositif d'orientation prioritaire des élèves en souffrance psychique.",
+    "Suivre le manque de psychologues dans l'Éducation nationale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "psychologues de l'Éducation nationale",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ECOLE",
+    "#ENFANCE",
+    "#PROFESSION"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!PROFESSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "élèves",
+    "infirmières scolaires",
+    "repérage",
+    "école",
+    "souffrance psychique",
+    "orientation",
+    "recrutements"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-biais-et-discrimination-algorithmique",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Biais et discrimination algorithmique",
+  "includedEntities": [
+    {
+      "entityName": "biais",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "discrimination",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "algorithme",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Repérer les décisions algorithmiques discriminatoires.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Défenseur des droits",
+    "recrutement",
+    "crédit"
+  ],
+  "questions": [
+    "Quel groupe est désavantagé ?",
+    "Quel système ?",
+    "Quelle correction ?"
+  ],
+  "tags": [
+    "#IA",
+    "#BIAIS",
+    "#ETHIQUE"
+  ],
+  "events": [
+    "@SIGNALEMENT"
+  ],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

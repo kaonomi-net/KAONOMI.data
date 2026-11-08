@@ -1,0 +1,13 @@
+{
+  "index": 50,
+  "file": "0050-architecture-entreprise-explain-reference-architectures-in-simple-terms.prompt.json",
+  "prompt": "Explain reference architectures in simple terms.",
+  "promptWords": 6,
+  "completion": "Reference architectures are like blueprints or templates that provide a standardized way to design and build complex systems, especially in technology and software development. Here's a simple breakdown:\n\n1. **What They Are**:\n   - They are pre-defined frameworks or guidelines that outline the best practices, components, and structures needed to build a system.\n   - Think of them as a \"recipe\" for building something, ensuring that all the necessary ingredients (components) are included and assembled in the right way.\n\n2. **Why They Are Useful**:\n   - **Consistency**: They help ensure that different teams or projects follow the same standards, making it easier to understand and maintain the system.\n   - **Efficiency**: They save time and effort by providing a proven structure, so you don't have to start from scratch.\n   - **Reliability**: They incorporate best practices, reducing the risk of errors or inefficiencies in the design.\n\n3. **Examples**:\n   - In cloud computing, a reference architecture might outline how to set up a secure, scalable web application using specific services from a cloud provider.\n   - In software development, it might describe the layers of an application (like user interface, business logic, and data storage) and how they interact.\n\n4. **Flexibility**:\n   - While they provide a standard structure, they can often be customized to fit specific needs or constraints of a project.\n\nIn short, reference architectures are like roadmaps that guide you through the process of building a system, ensuring that you have a reliable and efficient design.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:12:04.908353+02:00",
+  "durationSeconds": 7.31,
+  "stats": "mistral-small3.2:latest · 515 + 314 tokens · 7,3 s",
+  "isError": false,
+  "language": "EN"
+}

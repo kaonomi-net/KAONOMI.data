@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne des attentats de Bruxelles de 2016 (la cellule terroriste) : Ressortissant tunisien présent lors de la fusillade de la rue du Dries à Forest ; il s'est enfui avec Salah Abdeslam et a été arrêté avec lui le 18 mars 2016.",
+  "id": "be2016-sofien-ayari",
+  "dateCreated": "2026-10-31 19:28:40",
+  "name": "Sofien Ayari",
+  "entityType": "PERSON",
+  "description": "Ressortissant tunisien présent lors de la fusillade de la rue du Dries à Forest ; il s'est enfui avec Salah Abdeslam et a été arrêté avec lui le 18 mars 2016. Il a été jugé aux procès de Paris et de Bruxelles.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-personnes",
+  "sentencesExemples": [
+    "Les archives de presse de 2016 citent Sofien Ayari.",
+    "Le nom de Sofien Ayari apparaît dans de nombreux articles consacrés aux attentats de 2016.",
+    "La chronologie des faits mentionne Sofien Ayari."
+  ],
+  "angryLevel": 4,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 1,
+  "disgustLevel": 4,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "S. Ayari"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#PERSON",
+    "#CELLULETERRORISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Sofien%20Ayari"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Arrestation de Salah Abdeslam",
+    "Fusillade de la rue du Dries",
+    "Procès des attentats de Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

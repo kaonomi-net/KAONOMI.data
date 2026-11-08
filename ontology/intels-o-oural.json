@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-oural",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "Oural",
+  "entityType": "LOCATION",
+  "description": "Cité par 3 intels : Régions russes touchées par les drones ; Prix plafond du pétrole russe ; Prix plafond du pétrole russe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre l'extension géographique des frappes de drones en Russie.",
+    "Suivre le plafonnement du prix du pétrole russe par le G7 et l'Union européenne.",
+    "Suivre l'abaissement du plafond de prix du pétrole russe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Oural",
+  "tags": [
+    "#RUSSIE",
+    "#SANCTIONS",
+    "#PETROLE",
+    "#DRONES",
+    "#FRAPPES",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [
+    "@SANCTION",
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE",
+    "!CONFLIT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "pétrole russe",
+    "prix plafond",
+    "G7",
+    "Tatarstan",
+    "régions",
+    "drones",
+    "Bachkirie",
+    "portée des drones",
+    "industrie",
+    "Russie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

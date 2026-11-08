@@ -1,0 +1,13 @@
+{
+  "index": 647,
+  "file": "0647-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre pandas.",
+  "promptWords": 10,
+  "completion": "Voici un exemple de code en Python qui illustre l'utilisation de la bibliothèque pandas pour manipuler des données dans un DataFrame :\n\n```python\nimport pandas as pd\n\n# Création d'un DataFrame à partir d'un dictionnaire\ndata = {\n    'Nom': ['Alice', 'Bob', 'Charlie', 'David'],\n    'Âge': [25, 30, 35, 40],\n    'Ville': ['Paris', 'Lyon', 'Marseille', 'Toulouse']\n}\n\ndf = pd.DataFrame(data)\n\n# Affichage du DataFrame\nprint(\"DataFrame initial :\")\nprint(df)\n\n# Ajout d'une nouvelle colonne\ndf['Salaire'] = [50000, 60000, 70000, 80000]\n\n# Affichage du DataFrame mis à jour\nprint(\"\\nDataFrame avec nouvelle colonne :\")\nprint(df)\n\n# Filtrer les lignes où l'âge est supérieur à 30\ndf_filtre = df[df['Âge'] > 30]\nprint(\"\\nDataFrame filtré (âge > 30) :\")\nprint(df_filtre)\n\n# Calcul de la moyenne d'âge\nmoyenne_age = df['Âge'].mean()\nprint(f\"\\nMoyenne d'âge : {moyenne_age:.2f}\")\n\n# Sauvegarde du DataFrame dans un fichier CSV\ndf.to_csv('data.csv', index=False)\nprint(\"\\nDataFrame sauvegardé dans 'data.csv'\")\n```\n\nCe code montre comment :\n1. Créer un DataFrame à partir d'un dictionnaire\n2. Ajouter une nouvelle colonne\n3. Filtrer les données\n4. Calculer des statistiques\n5. Sauvegarder les données dans un fichier CSV\n\nVous pouvez exécuter ce code dans un environnement Python avec pandas installé (via `pip install pandas`).",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:37:45.9218606+02:00",
+  "durationSeconds": 8.27,
+  "stats": "mistral-small3.2:latest · 520 + 409 tokens · 8,3 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-declaration",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "déclaration",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Déclarations de Dmitri Medvedev ; Déclarations de Volodymyr Zelensky ; Déclarations d'Ursula von der Leyen.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les déclarations souvent radicales de Dmitri Medvedev.",
+    "Suivre les déclarations du président ukrainien.",
+    "Suivre les déclarations de la présidente de la Commission européenne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "déclaration",
+  "tags": [
+    "#RUSSIE",
+    "#RHETORIQUE",
+    "#MEDVEDEV",
+    "#UKRAINE",
+    "#ZELENSKY",
+    "#COMMISSION-EUROPEENNE"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!TENSION",
+    "!STRATEGIE",
+    "!COMMUNICATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nucléaire",
+    "Moscou",
+    "Occident",
+    "Conseil de sécurité",
+    "Medvedev",
+    "négociations",
+    "Kyiv",
+    "alliés",
+    "Zelensky",
+    "discours du soir"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

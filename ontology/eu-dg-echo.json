@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'aide humanitaire) : Direction générale de la protection civile et des opérations d'aide humanitaire européennes (DG ECHO), service de la Commission européenne compétent pour l'aide humanitaire, la gestion des crises, placé sous l'autorité de Hadja Lahbib dans la Commission von der Leyen II.",
+  "id": "eu-dg-echo",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de la protection civile et des opérations d'aide humanitaire européennes",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de la protection civile et des opérations d'aide humanitaire européennes (DG ECHO), service de la Commission européenne compétent pour l'aide humanitaire, la gestion des crises, placé sous l'autorité de Hadja Lahbib dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Direction générale de la protection civile et des opérations d'aide humanitaire européennes » préparent les textes relatifs à l'aide humanitaire.",
+    "La délégation a rencontré des représentants de « Direction générale de la protection civile et des opérations d'aide humanitaire européennes ».",
+    "« Direction générale de la protection civile et des opérations d'aide humanitaire européennes » joue un rôle dans l'aide humanitaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG ECHO"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#AIDEHUMANITAIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20la%20protection%20civile%20et%20des%20op%C3%A9rations%20d%27aide%20humanitaire%20europ%C3%A9ennes"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Hadja Lahbib",
+    "Aide humanitaire",
+    "Gestion des crises",
+    "rescEU"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

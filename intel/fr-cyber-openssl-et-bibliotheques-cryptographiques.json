@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-openssl-et-bibliotheques-cryptographiques",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "OpenSSL et bibliothèques cryptographiques",
+  "includedEntities": [
+    {
+      "entityName": "OpenSSL",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "bibliothèque",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les versions et failles des bibliothèques cryptographiques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "BoringSSL",
+    "post-quantique",
+    "correctifs"
+  ],
+  "questions": [
+    "Quelle version ?",
+    "Quelle faille ?",
+    "Quel support post-quantique ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#OPEN-SOURCE"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!CORRECTIFS"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 335,
+  "file": "0335-ia-llm-explique-les-modeles-multimodaux-de-facon.prompt.json",
+  "prompt": "Explique les modèles multimodaux de façon simple.",
+  "promptWords": 7,
+  "completion": "Les modèles multimodaux sont des systèmes d'intelligence artificielle capables de comprendre et de traiter plusieurs types de données en même temps, comme du texte, des images, des vidéos ou des sons. Imagine un assistant qui peut à la fois lire une image, comprendre ce qu'on lui dit et répondre par écrit ou oralement.\n\nPar exemple, un modèle multimodal pourrait :\n- Analyser une photo et décrire ce qu'il voit (comme un commentateur visuel).\n- Comprendre une question écrite et une image pour y répondre.\n- Associer un son à une image pour identifier ce qui se passe.\n\nC'est un peu comme avoir plusieurs sens (vue, ouïe, parole) dans une seule machine, ce qui permet de résoudre des problèmes plus complexes que les modèles qui ne traitent qu'un seul type de données.\n\nTu veux un exemple concret ou des détails sur un cas d'usage en particulier ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:25:54.722532+02:00",
+  "durationSeconds": 3.95,
+  "stats": "mistral-small3.2:latest · 518 + 187 tokens · 3,9 s",
+  "isError": false,
+  "language": "FR"
+}

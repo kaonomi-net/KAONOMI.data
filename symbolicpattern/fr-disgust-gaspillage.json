@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-gaspillage",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La dépense inutile, le gâchis.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:gaspillage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:g[âa]chis)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gaspill(er|[ée]|[ée]e)|gabegie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dilapid(er|[ée]|[ée]e|ation))(?![\\w-])"
+  ],
+  "symbol": "gaspillage",
+  "event": null,
+  "title": "Gaspillage",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

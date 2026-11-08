@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-visas-et-suspension-de-l-exemption",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Visas et suspension de l'exemption",
+  "includedEntities": [
+    {
+      "entityName": "visas",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "exemption",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "suspension",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions sur les exemptions de visas.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "pays tiers",
+    "réciprocité",
+    "migrations"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Quelle suspension ?",
+    "Quel motif ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#VISAS",
+    "#MIGRATION"
+  ],
+  "events": [],
+  "signals": [
+    "!MIGRATION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique économique) : Journaliste, ancien ministre italien des Affaires étrangères puis président du Conseil (2016-2018), commissaire à l'Économie de 2019 à 2024.",
+  "id": "eu-p-gentiloni",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Paolo Gentiloni",
+  "entityType": "PERSON",
+  "description": "Journaliste, ancien ministre italien des Affaires étrangères puis président du Conseil (2016-2018), commissaire à l'Économie de 2019 à 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Le portrait de Paolo Gentiloni figure dans le dossier consacré à la politique économique.",
+    "La presse européenne a longuement commenté le parcours de Paolo Gentiloni.",
+    "Les manuels sur les institutions européennes citent Paolo Gentiloni."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Gentiloni"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Paolo%20Gentiloni"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité italienne",
+    "Parti démocrate (PD)",
+    "Journaliste",
+    "Ministre des Affaires étrangères",
+    "Chef de gouvernement",
+    "Commissaire européen",
+    "Économie (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Économie",
+    "Fiscalité et union douanière"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

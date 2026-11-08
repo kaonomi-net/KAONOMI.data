@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-simplification-de-la-politique-agricole",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Simplification de la politique agricole",
+  "includedEntities": [
+    {
+      "entityName": "simplification",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "agriculteurs",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "normes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les allègements de normes pour les agriculteurs.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "conditionnalité",
+    "contrôles",
+    "environnement"
+  ],
+  "questions": [
+    "Quelle norme allégée ?",
+    "Quel effet ?",
+    "Quelle critique environnementale ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AGRICULTURE",
+    "#SIMPLIFICATION"
+  ],
+  "events": [],
+  "signals": [
+    "!SIMPLIFICATION"
+  ],
+  "isDeleted": false
+}

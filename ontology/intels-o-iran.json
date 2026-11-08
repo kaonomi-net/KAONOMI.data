@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-iran",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Iran",
+  "entityType": "COUNTRY",
+  "description": "Cité par 15 intels : Vagues de drones Shahed ; Drones iraniens et production russe ; Confrontation entre Israël et l'Iran ; Programme nucléaire iranien ; Détroit d'Ormuz ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre les attaques massives de drones de type Shahed.",
+    "Suivre la coopération irano-russe sur les drones.",
+    "Surveiller les échanges militaires directs entre Israël et l'Iran."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 7,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Iran",
+  "tags": [
+    "#IRAN",
+    "#GEOPOLITIQUE",
+    "#ENERGIE",
+    "#CYBERSECURITE",
+    "#RUSSIE",
+    "#DRONES"
+  ],
+  "events": [
+    "@RAPPORT-AIEA",
+    "@CYBERATTAQUE",
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!RISQUE",
+    "!ESCALADE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sanctions",
+    "Ormuz",
+    "Téhéran",
+    "pétrole",
+    "Shahed",
+    "Geran",
+    "Israël",
+    "nucléaire",
+    "Vienne",
+    "AIEA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

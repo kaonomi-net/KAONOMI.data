@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-allaitement",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de nourrir un bébé au sein.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:allaitement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:allait(er|e|[ée]|[ée]e)|biberon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:t[ée]t[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:donner\\s+le\\s+sein)(?![\\w-])"
+  ],
+  "symbol": "allaitement",
+  "event": null,
+  "title": "Allaitement",
+  "tags": [
+    "#NAISSANCE",
+    "#ENFANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-regions-et-budget",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Régions et budget",
+  "includedEntities": [
+    {
+      "entityName": "régions",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "transports",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'effort budgétaire demandé aux régions.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Régions de France",
+    "transports",
+    "lycées"
+  ],
+  "questions": [
+    "Quel effort ?",
+    "Quelles réductions ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#COLLECTIVITES",
+    "#REGIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

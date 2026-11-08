@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-espoir",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'attendre un bien avec confiance.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:espoir(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plein(e|s|es)?\\s+d['’]espoir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lueur(s)?\\s+d['’]espoir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:encourag(eant|eante|ement|[ée]|[ée]e)|perspective(s)?\\s+heureuse(s)?)(?![\\w-])"
+  ],
+  "symbol": "espoir",
+  "event": null,
+  "title": "Espoir",
+  "tags": [
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

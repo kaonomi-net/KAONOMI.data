@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-enfant",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un être humain dans ses premières années.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:enfant(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gamin(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:marmot(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:petit(e|s|es)?\\s+(gar[çc]on|fille)(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bout(s)?\\s+de\\s+chou)(?![\\w-])"
+  ],
+  "symbol": "enfant",
+  "event": null,
+  "title": "Enfant",
+  "tags": [
+    "#ENFANCE",
+    "#FAMILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cac-40",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "CAC 40",
+  "entityType": "PRODUCT",
+  "description": "Cité par 9 intels : Bourse de Paris et instabilité politique ; CAC 40 ; Record historique d'un indice boursier ; Performance annuelle des indices ; Séance du vendredi et bilan hebdomadaire ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre les réactions de la Bourse de Paris aux crises politiques.",
+    "Suivre l'évolution de l'indice phare de la Bourse de Paris.",
+    "Repérer les records historiques des indices boursiers."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "CAC 40",
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#FRANCE",
+    "#MARCHES",
+    "#POLITIQUE",
+    "#RECORD"
+  ],
+  "events": [
+    "@SEANCE-BOURSE",
+    "@RECORD-BOURSIER",
+    "@REVISION-INDICE"
+  ],
+  "signals": [
+    "!MARCHE",
+    "!INDICATEUR",
+    "!ACTIONNAIRES"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "indice",
+    "BEL 20",
+    "capitalisation",
+    "Bourse",
+    "Bruxelles",
+    "instabilité",
+    "censure",
+    "investisseurs",
+    "banques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

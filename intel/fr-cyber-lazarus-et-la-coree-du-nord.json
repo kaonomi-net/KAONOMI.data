@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-lazarus-et-la-coree-du-nord",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Lazarus et la Corée du Nord",
+  "includedEntities": [
+    {
+      "entityName": "Lazarus",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Corée du Nord",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les vols de cryptomonnaies et l'espionnage nord-coréens.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "cryptomonnaies",
+    "faux informaticiens",
+    "plateformes"
+  ],
+  "questions": [
+    "Quel vol ?",
+    "Quel montant ?",
+    "Quelle plateforme ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#COREE-DU-NORD",
+    "#CRYPTO"
+  ],
+  "events": [
+    "@VOL-CRYPTO"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

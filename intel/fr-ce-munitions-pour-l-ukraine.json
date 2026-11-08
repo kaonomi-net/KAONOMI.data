@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-munitions-pour-l-ukraine",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Munitions pour l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "munitions",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "production",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la production et la livraison de munitions européennes à l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ASAP",
+    "obus",
+    "industrie"
+  ],
+  "questions": [
+    "Quelle capacité ?",
+    "Quelles livraisons ?",
+    "Quel objectif ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#UKRAINE",
+    "#MUNITIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

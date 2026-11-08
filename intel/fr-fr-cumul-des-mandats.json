@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-cumul-des-mandats",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Cumul des mandats",
+  "includedEntities": [
+    {
+      "entityName": "cumul des mandats",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "élus",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur le retour du cumul des mandats.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "maires",
+    "députés",
+    "réforme"
+  ],
+  "questions": [
+    "Qui le propose ?",
+    "Quelle position des partis ?",
+    "Quel vote ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#INSTITUTIONS",
+    "#ELUS"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

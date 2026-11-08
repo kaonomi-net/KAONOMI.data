@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-bel-20",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "BEL 20",
+  "includedEntities": [
+    {
+      "entityName": "BEL 20",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "séance",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution de l'indice phare de la Bourse de Bruxelles.",
+  "isFuzzy": false,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "chaque séance"
+  ],
+  "relatedEntities": [
+    "Euronext Bruxelles",
+    "argenx",
+    "UCB"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quelles valeurs moteurs ?",
+    "Quel facteur explique le mouvement ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BEL20"
+  ],
+  "events": [
+    "@SEANCE-BOURSE"
+  ],
+  "signals": [
+    "!MARCHE"
+  ],
+  "isDeleted": false
+}

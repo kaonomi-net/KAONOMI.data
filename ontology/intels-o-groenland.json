@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-groenland",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "Groenland",
+  "entityType": "LOCATION",
+  "description": "Cité par 4 intels : Terres rares et métaux critiques ; Arctique et nouvelles routes ; Groenland et les États-Unis ; Union européenne et Arctique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre la concurrence pour les terres rares et métaux stratégiques.",
+    "Suivre la compétition stratégique dans l'Arctique.",
+    "Suivre les ambitions américaines sur le Groenland et la réponse danoise."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Groenland",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ARCTIQUE",
+    "#MATIERES-PREMIERES",
+    "#TERRES-RARES",
+    "#RESSOURCES",
+    "#ETATS-UNIS"
+  ],
+  "events": [],
+  "signals": [
+    "!DEPENDANCE",
+    "!COMPETITION",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Danemark",
+    "Arctique",
+    "terres rares",
+    "Chine",
+    "Nuuk",
+    "États-Unis",
+    "aimants",
+    "Afrique",
+    "métaux critiques",
+    "exportations"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

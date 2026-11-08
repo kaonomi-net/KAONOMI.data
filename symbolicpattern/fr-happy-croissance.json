@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-croissance",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de grandir, de se développer.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:croissance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]veloppement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:essor(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]panoui(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "croissance",
+  "event": null,
+  "title": "Croissance",
+  "tags": [
+    "#VIE",
+    "#NATURE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

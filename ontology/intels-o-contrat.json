@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-contrat",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "contrat",
+  "entityType": "LAW",
+  "description": "Cité par 4 intels : Recrutement de soldats sous contrat ; Ventes d'armes ; Ventes d'armes françaises ; Compromission d'un sous-traitant.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre le recrutement de volontaires et les primes d'engagement.",
+    "Suivre les grands contrats d'armement.",
+    "Suivre les contrats d'armement français à l'export."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "contrat",
+  "tags": [
+    "#DEFENSE",
+    "#RUSSIE",
+    "#ARMEE",
+    "#RECRUTEMENT",
+    "#GEOPOLITIQUE",
+    "#ARMEMENT"
+  ],
+  "events": [
+    "@CONTRAT-ARMEMENT",
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!COMMERCE-ARMES",
+    "!INDICATEUR",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ventes d'armes",
+    "Rafale",
+    "prime",
+    "recrutement",
+    "ministère de la Défense",
+    "régions russes",
+    "prisonniers",
+    "primes",
+    "exportations",
+    "industrie de défense"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

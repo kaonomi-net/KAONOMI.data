@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la lutte antifraude) : Démission collective du collège après un rapport d'experts sur la fraude, la mauvaise gestion et le népotisme.",
+  "id": "eu-ev-demission-santer",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Démission de la Commission Santer",
+  "entityType": "EVENT",
+  "description": "Démission collective du collège après un rapport d'experts sur la fraude, la mauvaise gestion et le népotisme.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les historiens de la construction européenne reviennent sur « Démission de la Commission Santer ».",
+    "La chronologie de la Commission place « Démission de la Commission Santer » à sa date.",
+    "« Démission de la Commission Santer » est un jalon de l'histoire de de l'Union européenne."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 2,
+  "happyLevel": 0,
+  "fearLevel": 0,
+  "surpriseLevel": 3,
+  "disgustLevel": 3,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#LUTTEANTIFRAUDE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=D%C3%A9mission%20de%20la%20Commission%20Santer"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Lutte antifraude",
+    "Jacques Santer",
+    "Commission Santer",
+    "Bruxelles",
+    "Office européen de lutte antifraude"
+  ],
+  "isDeleted": false,
+  "startDate": "1999-03-15T00:00:00",
+  "endDate": null
+}

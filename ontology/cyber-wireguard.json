@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (les réseaux privés virtuels) : Protocole et logiciel de VPN moderne et minimaliste de Jason Donenfeld, intégré au noyau Linux en 2020.",
+  "id": "cyber-wireguard",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "WireGuard",
+  "entityType": "SOFTWARE",
+  "description": "Protocole et logiciel de VPN moderne et minimaliste de Jason Donenfeld, intégré au noyau Linux en 2020.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "En atelier, les élèves ont découvert WireGuard et son fonctionnement.",
+    "L'équipe a comparé WireGuard avec d'autres outils des réseaux privés virtuels.",
+    "WireGuard figure parmi les logiciels marquants des réseaux privés virtuels."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "WireGuard"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#RESEAUXPRIVESVIRTUELS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=WireGuard"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ChaCha20",
+    "Curve25519"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

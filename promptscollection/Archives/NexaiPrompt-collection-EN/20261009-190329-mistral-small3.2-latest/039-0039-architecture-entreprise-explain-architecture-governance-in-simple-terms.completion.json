@@ -1,0 +1,13 @@
+{
+  "index": 39,
+  "file": "0039-architecture-entreprise-explain-architecture-governance-in-simple-terms.prompt.json",
+  "prompt": "Explain architecture governance in simple terms.",
+  "promptWords": 6,
+  "completion": "Architecture governance is like the rulebook and management system for how an organization designs, builds, and maintains its technology systems and structures. Think of it as the \"rules of the game\" that ensure everyone plays by the same standards to achieve the best results. Here’s a simple breakdown:\n\n1. **Setting the Rules (Policies & Standards):**\n   - It defines what technologies, methods, and practices should be used. For example, it might say, \"All new software must be cloud-based\" or \"Data must be encrypted for security.\"\n\n2. **Making Decisions (Decision-Making Framework):**\n   - It helps the organization decide which projects to prioritize, which technologies to adopt, and how to handle conflicts between different teams.\n\n3. **Monitoring & Compliance (Oversight):**\n   - It ensures that everyone follows the rules by regularly checking if systems are being built correctly and fixing issues when they arise.\n\n4. **Improving Over Time (Continuous Improvement):**\n   - It reviews how well the rules are working and updates them as needed to keep up with new technologies or business needs.\n\n### Why It Matters:\n- **Consistency:** Ensures all systems work well together.\n- **Efficiency:** Avoids wasted time and money on mismatched technologies.\n- **Risk Management:** Reduces security and performance risks.\n- **Alignment with Goals:** Makes sure technology supports the organization’s bigger objectives.\n\nIn short, architecture governance is like a traffic system for technology—keeping everything moving smoothly, safely, and in the right direction!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:10:46.9601571+02:00",
+  "durationSeconds": 7.55,
+  "stats": "mistral-small3.2:latest · 515 + 320 tokens · 7,5 s",
+  "isError": false,
+  "language": "EN"
+}

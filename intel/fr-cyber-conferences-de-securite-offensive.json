@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-conferences-de-securite-offensive",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Conférences de sécurité offensive",
+  "includedEntities": [
+    {
+      "entityName": "conférence",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "DEF CON",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Black Hat",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les découvertes présentées aux grandes conférences de sécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "Las Vegas",
+    "Rennes",
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Black Hat",
+    "DEF CON",
+    "SSTIC"
+  ],
+  "questions": [
+    "Quelle présentation ?",
+    "Quelle faille ?",
+    "Quel écho ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CONFERENCES"
+  ],
+  "events": [
+    "@CONFERENCE"
+  ],
+  "signals": [
+    "!VEILLE"
+  ],
+  "isDeleted": false
+}

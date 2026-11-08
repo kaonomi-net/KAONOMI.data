@@ -1,0 +1,65 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la justice) : Ancienne ministre tchèque du Développement régional, commissaire à la Justice (2014-2019) puis vice-présidente chargée des valeurs et de la transparence (2019-2024).",
+  "id": "eu-p-jourova",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Věra Jourová",
+  "entityType": "PERSON",
+  "description": "Ancienne ministre tchèque du Développement régional, commissaire à la Justice (2014-2019) puis vice-présidente chargée des valeurs et de la transparence (2019-2024).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Věra Jourová est une figure de la justice.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Věra Jourová.",
+    "Lors du point de presse de midi, une question portait sur Věra Jourová."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Jourová",
+    "Jourova"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=V%C4%9Bra%20Jourov%C3%A1"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité tchèque",
+    "ANO 2011",
+    "Juriste",
+    "Ministre du Développement régional",
+    "Commissaire européen",
+    "Valeurs et transparence (Commission von der Leyen I)",
+    "Vice-président de la Commission",
+    "Commission von der Leyen I",
+    "Valeurs et transparence",
+    "État de droit",
+    "Démocratie",
+    "Justice, consommateurs et égalité des genres (Commission Juncker)",
+    "Commission Juncker",
+    "Justice",
+    "Protection des consommateurs",
+    "Égalité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 391,
+  "file": "0391-ia-agentique-explique-les-systemes-multi-agents-de.prompt.json",
+  "prompt": "Explique les systèmes multi-agents de façon simple.",
+  "promptWords": 7,
+  "completion": "Les systèmes multi-agents (SMA) sont des systèmes informatiques composés de plusieurs agents autonomes qui interagissent entre eux pour atteindre des objectifs communs ou individuels. Voici une explication simple :\n\n1. **Agents autonomes** : Chaque agent dans un SMA est un programme informatique capable de prendre des décisions et d'agir de manière autonome. Il peut percevoir son environnement, traiter des informations et agir en conséquence.\n\n2. **Interaction** : Les agents communiquent et collaborent entre eux pour résoudre des problèmes complexes. Ils peuvent échanger des informations, négocier ou coordonner leurs actions.\n\n3. **Objectifs** : Les agents peuvent avoir des objectifs individuels ou collectifs. Par exemple, dans un système de gestion de trafic, chaque agent pourrait contrôler un feu de signalisation pour optimiser le flux de véhicules.\n\n4. **Avantages** : Les SMA sont utiles pour modéliser des situations complexes où plusieurs entités interagissent, comme les marchés financiers, les réseaux sociaux, ou les systèmes de logistique.\n\nEn résumé, un système multi-agents est comme une équipe de robots ou de programmes qui travaillent ensemble, chacun avec ses propres capacités, pour accomplir des tâches que aucun ne pourrait faire seul.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:36:16.757753+02:00",
+  "durationSeconds": 5.27,
+  "stats": "mistral-small3.2:latest · 518 + 257 tokens · 5,3 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-cotillon",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les petits objets de fête.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cotillon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:confetti(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:serpentin(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ballon(s)?\\s+de\\s+f[êe]te)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:feu(x)?\\s+d['’]artifice)(?![\\w-])"
+  ],
+  "symbol": "cotillon",
+  "event": null,
+  "title": "Cotillon",
+  "tags": [
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

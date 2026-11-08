@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (le calcul quantique) : Algorithme quantique de Peter Shor qui factorise les entiers en temps polynomial et menace RSA et les courbes elliptiques.",
+  "id": "cyber-shor",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Algorithme de Shor",
+  "entityType": "ALGORITHM",
+  "description": "Algorithme quantique de Peter Shor qui factorise les entiers en temps polynomial et menace RSA et les courbes elliptiques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Pour ce projet, l'équipe a implémenté Algorithme de Shor à l'aide d'une bibliothèque éprouvée.",
+    "Comprendre Algorithme de Shor est une étape clé pour maîtriser le calcul quantique.",
+    "Dans le domaine du calcul quantique, Algorithme de Shor reste une référence."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "factorisation quantique"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CALCULQUANTIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Algorithme%20de%20Shor"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "RSA",
+    "Cryptographie sur courbes elliptiques",
+    "Échange de clés Diffie-Hellman",
+    "Distribution quantique de clés d'ID Quantique"
+  ],
+  "isDeleted": false,
+  "startDate": "1994-01-01T00:00:00",
+  "endDate": null
+}

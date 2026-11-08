@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-ivrogne",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne souvent ivre.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ivrogne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ivrognerie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:so[ûu]lard(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:poivrot(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ivre\\s+mort(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "ivrogne",
+  "event": null,
+  "title": "Ivrogne",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

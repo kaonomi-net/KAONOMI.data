@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-coreweave-et-neo-clouds",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "CoreWeave et néo-clouds",
+  "includedEntities": [
+    {
+      "entityName": "CoreWeave",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "néo-cloud",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre CoreWeave et les fournisseurs de calcul pour l'IA.",
+  "isFuzzy": false,
+  "locations": [
+    "New York"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "dette",
+    "Nvidia",
+    "contrats"
+  ],
+  "questions": [
+    "Quelle dette ?",
+    "Quel contrat ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#IA",
+    "#CLOUD"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

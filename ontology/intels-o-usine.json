@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-usine",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "usine",
+  "entityType": "LOCATION",
+  "description": "Cité par 3 intels : Frappes sur l'industrie de défense russe ; IA dans l'industrie ; Cyberattaque contre une entreprise industrielle.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les frappes contre les usines d'armement en Russie.",
+    "Suivre l'usage de l'IA dans la production industrielle.",
+    "Repérer les cyberattaques qui arrêtent la production d'entreprises industrielles."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "usine",
+  "tags": [
+    "#INDUSTRIE",
+    "#RUSSIE",
+    "#INDUSTRIE-DEFENSE",
+    "#FRAPPES",
+    "#IA",
+    "#AUTOMATISATION"
+  ],
+  "events": [
+    "@FRAPPE",
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!PRODUCTIVITE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Briansk",
+    "Ijevsk",
+    "missiles",
+    "Tatarstan",
+    "frappe",
+    "industrie de défense",
+    "drones",
+    "Shahed",
+    "jumeau numérique",
+    "usines"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

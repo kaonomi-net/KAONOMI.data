@@ -1,0 +1,13 @@
+{
+  "index": 88,
+  "file": "088-interet-pour-le-llm-leert-u-van-onze-gesprekken.prompt.json",
+  "prompt": "Leert u van onze gesprekken?",
+  "promptWords": 5,
+  "completion": "Nee, ik leer niet *live* van onze gesprekken.  \n\n* **Op korte termijn**: Binnen één chat‑sessie kan ik context onthouden—ik kan dus eerder genoemde dingen herhalen, voortbouwen op je vragen of een lopend verhaal volgen.  \n* **Op lange termijn**: Zodra de sessie eindigt, “vergeten” ik die specifieke interactie. Ik word niet opnieuw getraind of aangepast op basis van één gebruiker of één gesprek.  \n* **Voor algemene verbetering**: In een zeer beperkte en geanonimiseerde vorm kan OpenAI data van interacties analyseren om de modellen in de toekomst te verbeteren, maar dit gebeurt niet in real‑time en is niet gekoppeld aan individuele gebruikers.\n\nDus tijdens ons gesprek kan ik wel context gebruiken, maar na het einde van die sessie leer ik niets nieuws over je of over ons specifieke gesprek.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:18:33.668742+02:00",
+  "durationSeconds": 2.12,
+  "stats": "gpt-oss:20b · 74 + 287 tokens · 2,1 s",
+  "isError": false,
+  "language": "NL"
+}

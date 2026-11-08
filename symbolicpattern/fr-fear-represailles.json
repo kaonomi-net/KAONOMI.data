@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-represailles",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une riposte violente.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:repr[ée]sailles)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:riposte(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]torsion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vengeance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:contre-attaque(s)?)(?![\\w-])"
+  ],
+  "symbol": "représailles",
+  "event": null,
+  "title": "Représailles",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

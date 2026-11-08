@@ -1,0 +1,13 @@
+{
+  "index": 199,
+  "file": "0199-cybersecurite-qu-est-ce-que-l-owasp.prompt.json",
+  "prompt": "Qu'est-ce que l'OWASP Top 10 ?",
+  "promptWords": 6,
+  "completion": "L'OWASP Top 10 est une liste des dix principales vulnérabilités de sécurité web identifiées par l'**Open Web Application Security Project (OWASP)**. Cette liste est régulièrement mise à jour pour refléter les menaces les plus courantes et les plus critiques auxquelles sont confrontées les applications web.\n\n### Objectifs de l'OWASP Top 10 :\n1. **Sensibilisation** : Informer les développeurs, les testeurs de sécurité et les responsables de la sécurité sur les risques les plus fréquents.\n2. **Prévention** : Fournir des recommandations pour éviter ou atténuer ces vulnérabilités.\n3. **Standardisation** : Offrir une référence commune pour évaluer et améliorer la sécurité des applications web.\n\n### Exemples de vulnérabilités courantes (selon les versions précédentes) :\n- **Injection** (SQL, NoSQL, OS, etc.)\n- **Authentification et contrôle d'accès défaillants**\n- **Exposition de données sensibles**\n- **Vulnérabilités liées aux composants externes**\n- **Configuration de sécurité incorrecte**\n- **Cross-Site Scripting (XSS)**\n- **Cross-Site Request Forgery (CSRF)**\n- **Utilisation de composants avec vulnérabilités connues**\n\n### Utilité :\nLes entreprises et les développeurs utilisent l'OWASP Top 10 comme guide pour :\n- Auditer leurs applications.\n- Prioriser les correctifs de sécurité.\n- Former leurs équipes aux bonnes pratiques de développement sécurisé.\n\nLa liste est mise à jour environ tous les 3 à 4 ans. La dernière version en date (à ma connaissance) est l'**OWASP Top 10 2021**. Si vous souhaitez des détails sur la version la plus récente ou des exemples spécifiques, je peux vous aider à les trouver.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:03:06.3962196+02:00",
+  "durationSeconds": 7.94,
+  "stats": "mistral-small3.2:latest · 520 + 393 tokens · 7,9 s",
+  "isError": false,
+  "language": "FR"
+}

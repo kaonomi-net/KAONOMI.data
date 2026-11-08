@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-logistique-et-routes-d-approvisionnement",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Logistique et routes d'approvisionnement",
+  "includedEntities": [
+    {
+      "entityName": "logistique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "routes",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "approvisionnement",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les menaces sur les routes d'approvisionnement du front.",
+  "isFuzzy": true,
+  "locations": [
+    "Donbass"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "drones",
+    "ponts",
+    "chemins de fer"
+  ],
+  "questions": [
+    "Quelle route est coupée ?",
+    "Quel impact sur le front ?",
+    "Quelle alternative ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#FRONT",
+    "#LOGISTIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!VULNERABILITE"
+  ],
+  "isDeleted": false
+}

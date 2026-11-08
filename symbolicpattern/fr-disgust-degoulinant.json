@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-degoulinant",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui coule de façon répugnante.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]goulinant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]goulin(er|e|ent|ait)|suintant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:suint(er|e|ent)|ruisselant(e|s|es)?\\s+de\\s+crasse)(?![\\w-])"
+  ],
+  "symbol": "dégoulinant",
+  "event": null,
+  "title": "Dégoulinant",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

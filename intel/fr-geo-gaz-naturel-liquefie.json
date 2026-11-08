@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-gaz-naturel-liquefie",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Gaz naturel liquéfié",
+  "includedEntities": [
+    {
+      "entityName": "GNL",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "méthanier",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "gaz",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le commerce mondial du gaz naturel liquéfié.",
+  "isFuzzy": true,
+  "locations": [
+    "Qatar",
+    "États-Unis",
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "terminaux",
+    "contrats",
+    "Asie"
+  ],
+  "questions": [
+    "Quels nouveaux contrats ?",
+    "Quels prix ?",
+    "Quelle dépendance ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ENERGIE",
+    "#GAZ"
+  ],
+  "events": [],
+  "signals": [
+    "!DEPENDANCE"
+  ],
+  "isDeleted": false
+}

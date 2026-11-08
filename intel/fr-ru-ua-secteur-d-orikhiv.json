@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-secteur-d-orikhiv",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Secteur d'Orikhiv",
+  "includedEntities": [
+    {
+      "entityName": "Orikhiv",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "front",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les combats dans le secteur d'Orikhiv.",
+  "isFuzzy": true,
+  "locations": [
+    "Orikhiv",
+    "Robotyne"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "contre-offensive",
+    "mines",
+    "fortifications"
+  ],
+  "questions": [
+    "Quelles avancées ?",
+    "Quelle intensité ?",
+    "Quels obstacles ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ZAPORIJIA",
+    "#FRONT"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

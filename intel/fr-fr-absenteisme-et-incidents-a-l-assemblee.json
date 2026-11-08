@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-absenteisme-et-incidents-a-l-assemblee",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Absentéisme et incidents à l'Assemblée",
+  "includedEntities": [
+    {
+      "entityName": "Assemblée nationale",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "incident",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sanction",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les incidents de séance et sanctions de députés.",
+  "isFuzzy": true,
+  "locations": [
+    "Assemblée nationale"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "rappel au règlement",
+    "exclusion",
+    "tensions"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quelle sanction ?",
+    "Quel groupe ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PARLEMENT",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

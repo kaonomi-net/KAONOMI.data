@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Nova Slovenija – Krščanski demokrati, parti ou liste de ce pays : Slovénie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-si-nova-slovenija-krscanski-demokrati",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Nova Slovenija – Krščanski demokrati",
+  "entityType": "ORGANISATION",
+  "description": "Nova Slovenija – Krščanski demokrati, parti ou liste de ce pays : Slovénie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Le programme européen de « Nova Slovenija – Krščanski demokrati » a été publié avant le scrutin.",
+    "Les eurodéputés de « Nova Slovenija – Krščanski demokrati » ont été élus en juin 2024.",
+    "« Nova Slovenija – Krščanski demokrati » est représenté dans le Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Nova%20Slovenija%20%E2%80%93%20Kr%C5%A1%C4%8Danski%20demokrati"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Matej Tonin",
+    "Slovénie",
+    "Parti populaire européen (PPE)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-adhesion-du-montenegro",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Adhésion du Monténégro",
+  "includedEntities": [
+    {
+      "entityName": "Monténégro",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "adhésion",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les négociations du Monténégro, qui a fermé 21 chapitres.",
+  "isFuzzy": true,
+  "locations": [
+    "Podgorica"
+  ],
+  "times": [
+    "conclusion visée fin 2026"
+  ],
+  "relatedEntities": [
+    "chapitres",
+    "traité d'adhésion",
+    "ratification"
+  ],
+  "questions": [
+    "Combien de chapitres fermés ?",
+    "Quand le traité ?",
+    "Quels obstacles ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#MONTENEGRO"
+  ],
+  "events": [
+    "@CONFERENCE-ADHESION"
+  ],
+  "signals": [
+    "!ELARGISSEMENT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-explosion",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une déflagration violente.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:explosion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:explos(er|[ée]|[ée]e)|d[ée]flagration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souffle\\s+de\\s+l['’]explosion)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]tonation(s)?)(?![\\w-])"
+  ],
+  "symbol": "explosion",
+  "event": null,
+  "title": "Explosion",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

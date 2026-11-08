@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-fine-tuning",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "fine-tuning",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Fine-tuning d'un modèle.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'adaptation de modèles à des usages spécifiques."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "fine-tuning",
+  "tags": [
+    "#IA",
+    "#FINE-TUNING",
+    "#TECHNIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!OPPORTUNITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "LoRA",
+    "entreprise",
+    "modèle",
+    "données métier",
+    "données"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne des attentats de Bruxelles de 2016 (l'enquête) : Procureur fédéral de Belgique, à la tête du parquet fédéral chargé de l'enquête sur les attentats.",
+  "id": "be2016-frederic-van-leeuw",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Frédéric Van Leeuw",
+  "entityType": "PERSON",
+  "description": "Procureur fédéral de Belgique, à la tête du parquet fédéral chargé de l'enquête sur les attentats.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-personnes",
+  "sentencesExemples": [
+    "Les archives de presse de 2016 citent Frédéric Van Leeuw.",
+    "Le nom de Frédéric Van Leeuw apparaît dans de nombreux articles consacrés aux attentats de 2016.",
+    "La chronologie des faits mentionne Frédéric Van Leeuw."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "F. Van Leeuw"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#PERSON",
+    "#ENQUETE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fr%C3%A9d%C3%A9ric%20Van%20Leeuw"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parquet fédéral"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

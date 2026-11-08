@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sante-mentale",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "santé mentale",
+  "entityType": "DOMAIN",
+  "description": "Cité par 43 intels : Santé mentale et anciens combattants ukrainiens ; IA et santé mentale ; Santé mentale grande cause ; Santé mentale et réseaux sociaux ; Santé mentale grande cause nationale 2026 ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la prise en charge des vétérans et blessés de guerre.",
+    "Surveiller les effets des compagnons IA sur la santé mentale.",
+    "Suivre les politiques de santé mentale."
+  ],
+  "angryLevel": null,
+  "sadLevel": 7,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "santé mentale",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SANTE-MENTALE",
+    "#BELGIQUE",
+    "#IA",
+    "#NUMERIQUE",
+    "#TRAVAIL"
+  ],
+  "events": [
+    "@RAPPORT",
+    "@CAMPAGNE",
+    "@SIGNALEMENT"
+  ],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!DEBAT",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "Belgique",
+    "jeunes",
+    "isolement",
+    "dépression",
+    "adolescents",
+    "écrans",
+    "réseaux sociaux",
+    "suicide",
+    "précarité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

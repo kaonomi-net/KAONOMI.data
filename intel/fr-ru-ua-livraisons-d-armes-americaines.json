@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-livraisons-d-armes-americaines",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Livraisons d'armes américaines",
+  "includedEntities": [
+    {
+      "entityName": "armes américaines",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "livraison",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les livraisons d'armes américaines, souvent payées par les Européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Patriot",
+    "PURL",
+    "OTAN"
+  ],
+  "questions": [
+    "Quels équipements ?",
+    "Qui paie ?",
+    "Quelles suspensions ?"
+  ],
+  "tags": [
+    "#ETATS-UNIS",
+    "#UKRAINE",
+    "#ARMEMENT"
+  ],
+  "events": [
+    "@ANNONCE-AIDE"
+  ],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

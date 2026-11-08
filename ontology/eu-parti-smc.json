@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Parti du centre moderne (SMC), parti politique de ce pays : Slovénie.",
+  "id": "eu-parti-smc",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti du centre moderne (SMC)",
+  "entityType": "ORGANISATION",
+  "description": "Parti du centre moderne (SMC), parti politique de ce pays : Slovénie. Il est affilié à la famille Renew Europe.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Les décisions de « Parti du centre moderne (SMC) » touchent la vie politique nationale.",
+    "Le rapport annuel de « Parti du centre moderne (SMC) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Parti du centre moderne (SMC) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20du%20centre%20moderne%20%28SMC%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Slovénie",
+    "Renew Europe",
+    "Violeta Bulc"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

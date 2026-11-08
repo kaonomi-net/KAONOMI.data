@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-munitions-nord-coreennes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Munitions nord-coréennes",
+  "includedEntities": [
+    {
+      "entityName": "obus",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Corée du Nord",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "munitions",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les livraisons d'obus et d'armes nord-coréens à la Russie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "artillerie",
+    "missiles",
+    "trains"
+  ],
+  "questions": [
+    "Quel volume ?",
+    "Quelle qualité ?",
+    "Quelle contrepartie ?"
+  ],
+  "tags": [
+    "#COREE-DU-NORD",
+    "#RUSSIE",
+    "#MUNITIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!ESCALADE"
+  ],
+  "isDeleted": false
+}

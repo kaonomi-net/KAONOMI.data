@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-cagoule",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un visage masqué qui inquiète.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cagoule(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cagoul[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:homme(s)?\\s+masqu[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:individu(s)?\\s+masqu[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:visage\\s+dissimul[ée])(?![\\w-])"
+  ],
+  "symbol": "cagoule",
+  "event": null,
+  "title": "Cagoule",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

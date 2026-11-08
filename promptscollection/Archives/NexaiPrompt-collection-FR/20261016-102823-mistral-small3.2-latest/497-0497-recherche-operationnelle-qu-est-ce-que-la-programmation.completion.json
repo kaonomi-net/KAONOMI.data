@@ -1,0 +1,13 @@
+{
+  "index": 497,
+  "file": "0497-recherche-operationnelle-qu-est-ce-que-la-programmation.prompt.json",
+  "prompt": "Qu'est-ce que la programmation linéaire ?",
+  "promptWords": 6,
+  "completion": "La programmation linéaire est une méthode mathématique utilisée pour optimiser (maximiser ou minimiser) une fonction objectif linéaire, sous des contraintes linéaires. Elle est largement utilisée en recherche opérationnelle, en économie, en ingénierie et dans d'autres domaines pour résoudre des problèmes d'allocation de ressources, de planification, de logistique, etc.\n\n### Principaux éléments de la programmation linéaire :\n1. **Fonction objectif** : Une expression linéaire que l'on cherche à maximiser ou minimiser (par exemple, maximiser les profits ou minimiser les coûts).\n2. **Contraintes** : Un ensemble d'équations ou d'inégalités linéaires qui définissent les limites du problème.\n3. **Variables de décision** : Les variables que l'on peut ajuster pour optimiser la fonction objectif.\n\n### Exemple simple :\nSupposons qu'une entreprise produise deux produits, A et B. La fonction objectif pourrait être de maximiser le profit total, tandis que les contraintes pourraient inclure la disponibilité des ressources (main-d'œuvre, matières premières, etc.) et les limites de capacité de production.\n\n### Méthodes de résolution :\n- **Méthode du simplexe** : Une approche algorithmique classique pour résoudre les problèmes de programmation linéaire.\n- **Méthodes graphiques** : Utilisées pour des problèmes à deux variables, où la solution optimale peut être visualisée graphiquement.\n- **Logiciels spécialisés** : Comme CPLEX, Gurobi, ou des solveurs intégrés dans des logiciels comme Excel (Solver).\n\nLa programmation linéaire est un outil puissant pour prendre des décisions éclairées dans des environnements complexes et contraints.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:56:14.2542296+02:00",
+  "durationSeconds": 7.24,
+  "stats": "mistral-small3.2:latest · 517 + 356 tokens · 7,2 s",
+  "isError": false,
+  "language": "FR"
+}

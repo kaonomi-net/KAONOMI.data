@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-francois-jackow",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "François Jackow",
+  "entityType": "PERSON",
+  "description": "Cité par 1 intel : Air Liquide.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre l'action Air Liquide."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "François Jackow",
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#INDUSTRIE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "marges",
+    "hydrogène",
+    "Air Liquide",
+    "gaz industriels"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

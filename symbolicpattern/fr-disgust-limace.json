@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-limace",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un mollusque gluant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:limace(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bave\\s+de\\s+limace)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:escargot(s)?\\s+[ée]cras[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gast[ée]ropode(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:trace(s)?\\s+gluante(s)?)(?![\\w-])"
+  ],
+  "symbol": "limace",
+  "event": null,
+  "title": "Limace",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-rancongiciel-et-sauvegardes-detruites",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Rançongiciel et sauvegardes détruites",
+  "includedEntities": [
+    {
+      "entityName": "sauvegardes",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "destruction",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques qui ciblent d'abord les sauvegardes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "sauvegardes hors ligne",
+    "immuabilité",
+    "reprise"
+  ],
+  "questions": [
+    "Quelles sauvegardes touchées ?",
+    "Quelle reprise ?",
+    "Quelle leçon ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#RESILIENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

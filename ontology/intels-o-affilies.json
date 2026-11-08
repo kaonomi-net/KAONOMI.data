@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-affilies",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "affiliés",
+  "entityType": "PROFESSION",
+  "description": "Cité par 4 intels : Groupe The Gentlemen ; Groupe Qilin ; LockBit ; Rançongiciel en tant que service.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre l'activité du groupe The Gentlemen, l'un des plus actifs fin 2026.",
+    "Suivre l'activité du groupe Qilin.",
+    "Suivre les résurgences de LockBit après son démantèlement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "affiliés",
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#LOCKBIT",
+    "#RAAS"
+  ],
+  "events": [
+    "@RANCONGICIEL"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "rançongiciel",
+    "victimes",
+    "The Gentlemen",
+    "pays",
+    "santé",
+    "Qilin",
+    "double extorsion",
+    "nouvelle version",
+    "Opération Cronos",
+    "LockBit"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

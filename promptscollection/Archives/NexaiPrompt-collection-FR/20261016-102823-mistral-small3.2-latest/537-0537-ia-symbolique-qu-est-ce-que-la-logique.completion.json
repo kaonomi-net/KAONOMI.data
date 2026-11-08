@@ -1,0 +1,13 @@
+{
+  "index": 537,
+  "file": "0537-ia-symbolique-qu-est-ce-que-la-logique.prompt.json",
+  "prompt": "Qu'est-ce que la logique du premier ordre ?",
+  "promptWords": 8,
+  "completion": "La logique du premier ordre (ou calcul des prédicats du premier ordre) est une extension de la logique propositionnelle qui permet de raisonner sur des objets, leurs propriétés et les relations entre eux. Elle est fondamentale en mathématiques, en informatique et en philosophie des sciences.\n\n### Principales caractéristiques :\n1. **Variables et quantificateurs** :\n   - Utilise des variables (par exemple, \\( x, y \\)) pour représenter des objets.\n   - Introduit des quantificateurs :\n     - **∀ (pour tout)** : \"Pour tout \\( x \\), \\( P(x) \\) est vrai.\"\n     - **∃ (il existe)** : \"Il existe un \\( x \\) tel que \\( P(x) \\) est vrai.\"\n\n2. **Prédicats** :\n   - Des symboles comme \\( P(x) \\) représentent des propriétés ou relations. Par exemple, \\( P(x) \\) peut signifier \"\\( x \\) est un humain\".\n\n3. **Formules bien formées** :\n   - Combinaison de prédicats, variables, quantificateurs et connecteurs logiques (∧, ∨, ¬, →, ↔).\n\n### Exemple :\nLa phrase \"Tout humain est mortel\" peut s'écrire en logique du premier ordre :\n\\[ \\forall x (H(x) \\rightarrow M(x)) \\]\noù \\( H(x) \\) signifie \"\\( x \\) est un humain\" et \\( M(x) \\) signifie \"\\( x \\) est mortel\".\n\n### Applications :\n- **Mathématiques** : Formalisation de théories (arithmétique, géométrie).\n- **Informatique** : Vérification de programmes, bases de données, intelligence artificielle.\n- **Philosophie** : Analyse de la signification et de la vérité des énoncés.\n\nLa logique du premier ordre est plus expressive que la logique propositionnelle, mais moins que la logique du second ordre (qui permet de quantifier sur des prédicats).",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:03:25.6449548+02:00",
+  "durationSeconds": 8.48,
+  "stats": "mistral-small3.2:latest · 517 + 419 tokens · 8,5 s",
+  "isError": false,
+  "language": "FR"
+}

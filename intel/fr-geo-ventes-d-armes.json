@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-ventes-d-armes",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Ventes d'armes",
+  "includedEntities": [
+    {
+      "entityName": "ventes d'armes",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "contrat",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les grands contrats d'armement.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Rafale",
+    "industrie de défense",
+    "exportations"
+  ],
+  "questions": [
+    "Quel contrat ?",
+    "Quel montant ?",
+    "Quelles controverses ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#DEFENSE",
+    "#ARMEMENT"
+  ],
+  "events": [
+    "@CONTRAT-ARMEMENT"
+  ],
+  "signals": [
+    "!COMMERCE-ARMES"
+  ],
+  "isDeleted": false
+}

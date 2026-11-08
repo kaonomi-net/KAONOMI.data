@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-poutine-et-l-inde",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Poutine et l'Inde",
+  "includedEntities": [
+    {
+      "entityName": "Poutine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Modi",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Inde",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les relations entre la Russie et l'Inde.",
+  "isFuzzy": true,
+  "locations": [
+    "New Delhi",
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "pétrole",
+    "armement",
+    "sanctions"
+  ],
+  "questions": [
+    "Quels accords ?",
+    "Quels achats de pétrole ?",
+    "Quelle position sur la guerre ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#INDE",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@VISITE-OFFICIELLE"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

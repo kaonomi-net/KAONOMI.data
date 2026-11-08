@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-hypertrucages-et-fraude",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Hypertrucages et fraude",
+  "includedEntities": [
+    {
+      "entityName": "hypertrucage",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "deepfake",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les fraudes par hypertrucage vocal ou vidéo.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "fraude au président",
+    "visioconférence",
+    "voix clonée"
+  ],
+  "questions": [
+    "Quelle fraude ?",
+    "Quel montant ?",
+    "Quelle parade ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#DEEPFAKE"
+  ],
+  "events": [
+    "@FRAUDE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

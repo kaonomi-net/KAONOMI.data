@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les questions-réponses) : Système de questions-réponses d'IBM vainqueur de Jeopardy! en 2011, devenu une gamme de services d'IA.",
+  "id": "ia-watson",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "IBM Watson",
+  "entityType": "SOFTWARE",
+  "description": "Système de questions-réponses d'IBM vainqueur de Jeopardy! en 2011, devenu une gamme de services d'IA.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "Le développeur a utilisé IBM Watson pour son projet.",
+    "Les historiens de l'informatique considèrent IBM Watson comme une étape des questions-réponses.",
+    "Le chercheur cite IBM Watson dans son article sur les questions-réponses."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Watson"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#QUESTIONSREPONSES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=IBM%20Watson"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Watson remporte Jeopardy!"
+  ],
+  "isDeleted": false,
+  "startDate": "2011-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 12,
+  "file": "0012-architecture-entreprise-qu-est-ce-qu-une-architecture.prompt.json",
+  "prompt": "Qu'est-ce qu'une architecture orientée services (SOA) ?",
+  "promptWords": 7,
+  "completion": "Une architecture orientée services (SOA, pour *Service-Oriented Architecture*) est un modèle de conception logicielle qui organise et fournit des services logiciels indépendants, réutilisables et interopérables. Ces services sont conçus pour être accessibles via un réseau, généralement via des protocoles standardisés comme HTTP, SOAP ou REST.\n\n### Caractéristiques principales d'une SOA :\n1. **Services indépendants** : Chaque service est une unité autonome qui peut être développée, déployée et maintenue séparément.\n2. **Interopérabilité** : Les services peuvent communiquer entre eux et avec d'autres systèmes, même s'ils sont développés avec des technologies différentes.\n3. **Réutilisabilité** : Les services sont conçus pour être réutilisés dans différents contextes et applications.\n4. **Standardisation** : Les services utilisent des standards ouverts pour la communication et l'intégration.\n5. **Orchestration** : Les services peuvent être combinés pour former des processus métier complexes.\n\n### Avantages d'une SOA :\n- **Flexibilité** : Permet d'ajouter, modifier ou supprimer des services sans affecter l'ensemble du système.\n- **Évolutivité** : Facilite l'ajout de nouveaux services pour répondre à des besoins croissants.\n- **Intégration** : Simplifie l'intégration de systèmes hétérogènes.\n- **Maintenance** : Réduit les coûts de maintenance grâce à la modularité.\n\n### Exemples d'utilisation :\n- **Systèmes d'entreprise** : Intégration de différentes applications métier (ERP, CRM, etc.).\n- **Applications web** : Services exposés pour des fonctionnalités spécifiques (authentification, paiement, etc.).\n- **Cloud computing** : Services cloud accessibles via des API.\n\nLa SOA est souvent comparée à l'architecture orientée microservices, qui est une évolution plus récente et plus granulaire de ce concept.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T00:35:46.0985849+02:00",
+  "durationSeconds": 8.23,
+  "stats": "mistral-small3.2:latest · 521 + 405 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

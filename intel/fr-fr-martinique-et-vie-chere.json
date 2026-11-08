@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-martinique-et-vie-chere",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Martinique et vie chère",
+  "includedEntities": [
+    {
+      "entityName": "Martinique",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "vie chère",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la contestation contre la vie chère aux Antilles.",
+  "isFuzzy": true,
+  "locations": [
+    "Martinique",
+    "Guadeloupe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "prix",
+    "mobilisation",
+    "accord"
+  ],
+  "questions": [
+    "Quelle mobilisation ?",
+    "Quel accord ?",
+    "Quelle baisse des prix ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#OUTRE-MER",
+    "#POUVOIR-ACHAT"
+  ],
+  "events": [
+    "@MOBILISATION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

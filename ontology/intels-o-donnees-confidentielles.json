@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-donnees-confidentielles",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "données confidentielles",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Fuite de données via les chatbots.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les fuites de données confidentielles via les outils d'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "données confidentielles",
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "fuite",
+    "salariés",
+    "IA fantôme",
+    "politiques d'usage",
+    "chatbot"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

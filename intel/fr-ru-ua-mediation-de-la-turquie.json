@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-mediation-de-la-turquie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Médiation de la Turquie",
+  "includedEntities": [
+    {
+      "entityName": "Turquie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "médiation",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Istanbul",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de médiateur de la Turquie entre Moscou et Kyiv.",
+  "isFuzzy": true,
+  "locations": [
+    "Istanbul",
+    "Ankara"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Erdogan",
+    "mer Noire",
+    "échanges de prisonniers"
+  ],
+  "questions": [
+    "Quelle initiative ?",
+    "Quel résultat ?",
+    "Quel rôle sur la mer Noire ?"
+  ],
+  "tags": [
+    "#TURQUIE",
+    "#RUSSIE",
+    "#UKRAINE",
+    "#MEDIATION"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

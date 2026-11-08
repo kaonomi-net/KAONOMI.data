@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-position-du-centre-sur-la-dette",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Position du centre sur la dette",
+  "includedEntities": [
+    {
+      "entityName": "centre",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "dette",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "réformes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les propositions du centre pour réduire la dette.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Philippe",
+    "Bayrou",
+    "économies"
+  ],
+  "questions": [
+    "Quelles économies ?",
+    "Quel calendrier ?",
+    "Quelles réformes ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#CENTRE",
+    "#DETTE"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

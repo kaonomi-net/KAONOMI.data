@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-pus",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le liquide d'une plaie infectée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pus)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:purulent(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:suppur(er|ant|ante|ation)|abc[èe]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plaie(s)?\\s+infect[ée]e(s)?)(?![\\w-])"
+  ],
+  "symbol": "pus",
+  "event": null,
+  "title": "Pus",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

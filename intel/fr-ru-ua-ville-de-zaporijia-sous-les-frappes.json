@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-ville-de-zaporijia-sous-les-frappes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Ville de Zaporijia sous les frappes",
+  "includedEntities": [
+    {
+      "entityName": "Zaporijia",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "frappes",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "ville",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les frappes sur la ville de Zaporijia.",
+  "isFuzzy": true,
+  "locations": [
+    "Zaporijia"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "drones",
+    "missiles",
+    "bombes planantes"
+  ],
+  "questions": [
+    "Quelles cibles ?",
+    "Quel bilan ?",
+    "Quelles infrastructures touchées ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ZAPORIJIA",
+    "#CIVILS"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 72,
+  "file": "092-mathematiques-comment-calculer-une-probabilite-simple.prompt.json",
+  "prompt": "Comment calculer une probabilité simple ?",
+  "promptWords": 6,
+  "completion": "Calculer une probabilité simple consiste à déterminer la chance qu'un événement particulier se produise. Voici les étapes de base pour calculer une probabilité simple :\n\n1. **Définir l'événement** : Identifiez clairement l'événement dont vous voulez calculer la probabilité. Par exemple, \"obtenir un 6 en lançant un dé à six faces\".\n\n2. **Déterminer le nombre de résultats favorables** : Comptez combien de résultats correspondent à l'événement. Par exemple, pour obtenir un 6, il n'y a qu'un seul résultat favorable.\n\n3. **Déterminer le nombre de résultats possibles** : Comptez tous les résultats possibles. Par exemple, un dé à six faces a six résultats possibles (1, 2, 3, 4, 5, 6).\n\n4. **Calculer la probabilité** : Utilisez la formule de la probabilité simple :\n   \\[\n   \\text{Probabilité} = \\frac{\\text{Nombre de résultats favorables}}{\\text{Nombre de résultats possibles}}\n   \\]\n   Pour l'exemple du dé, la probabilité d'obtenir un 6 est :\n   \\[\n   \\frac{1}{6}\n   \\]\n\n5. **Exprimer la probabilité** : La probabilité peut être exprimée sous forme de fraction, de décimal ou de pourcentage. Par exemple, \\(\\frac{1}{6}\\) est environ 0,1667 ou 16,67%.\n\n**Exemple supplémentaire** :\n- **Événement** : Tirer une carte rouge d'un jeu de 52 cartes.\n- **Résultats favorables** : Il y a 26 cartes rouges (cœur et carreau).\n- **Résultats possibles** : 52 cartes au total.\n- **Probabilité** : \\(\\frac{26}{52} = \\frac{1}{2}\\) ou 0,5 ou 50%.\n\nSi vous avez un cas spécifique en tête, n'hésitez pas à le partager pour que je puisse vous aider à calculer la probabilité correspondante !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:29:12.818582+02:00",
+  "durationSeconds": 10.18,
+  "stats": "mistral-small3.2:latest · 515 + 443 tokens · 10,2 s",
+  "isError": false,
+  "language": "FR"
+}

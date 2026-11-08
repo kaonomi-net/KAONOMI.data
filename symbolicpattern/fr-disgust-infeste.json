@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-infeste",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Envahi par des bêtes nuisibles.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:infest[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:infestation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grouillant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grouill(er|e|ent|ait)|envahi(e|s|es)?\\s+de\\s+(rats|cafards|vermine))(?![\\w-])"
+  ],
+  "symbol": "infesté",
+  "event": null,
+  "title": "Infesté",
+  "tags": [
+    "#DISGUST",
+    "#INSALUBRITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

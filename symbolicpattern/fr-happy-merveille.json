@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-merveille",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une chose admirable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:merveille(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:splendide(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:magnifique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sublime(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:formidable(s)?)(?![\\w-])"
+  ],
+  "symbol": "merveille",
+  "event": null,
+  "title": "Merveille",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

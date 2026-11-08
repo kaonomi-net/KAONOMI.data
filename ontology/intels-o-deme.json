@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-deme",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "DEME",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Ackermans & van Haaren ; DEME et éolien en mer.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre la holding Ackermans & van Haaren.",
+    "Suivre l'action DEME et les chantiers d'éolien en mer."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "DEME",
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#HOLDINGS",
+    "#BELGIQUE",
+    "#ENERGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS",
+    "!COMMANDE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ackermans",
+    "Anvers",
+    "holding",
+    "Delen",
+    "banque",
+    "Zwijndrecht",
+    "éolien en mer",
+    "commandes",
+    "navires"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

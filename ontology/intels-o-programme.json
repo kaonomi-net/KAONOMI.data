@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-programme",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "programme",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 6 intels : Programmes des candidats ; Chiffrage des programmes ; Programme économique du RN ; Relations du RN avec les patrons ; Candidature de Jean-Luc Mélenchon ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre la présentation des programmes présidentiels.",
+    "Suivre les évaluations du coût des programmes.",
+    "Suivre les propositions économiques du RN et leur financement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "programme",
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#PROGRAMMES",
+    "#RN",
+    "#DETTE",
+    "#ECONOMIE"
+  ],
+  "events": [
+    "@PROGRAMME",
+    "@CANDIDATURE"
+  ],
+  "signals": [
+    "!CAMPAGNE",
+    "!VERIFICATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "chiffrage",
+    "dette",
+    "retraites",
+    "Rassemblement national",
+    "candidat",
+    "Institut Montaigne",
+    "OFCE",
+    "économistes",
+    "TVA",
+    "entreprises"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

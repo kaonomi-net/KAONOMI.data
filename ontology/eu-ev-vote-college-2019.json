@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (les relations interinstitutionnelles) : Le Parlement européen approuve le collège des commissaires, qui entre en fonction le 1er décembre 2019.",
+  "id": "eu-ev-vote-college-2019",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Approbation du collège von der Leyen I",
+  "entityType": "EVENT",
+  "description": "Le Parlement européen approuve le collège des commissaires, qui entre en fonction le 1er décembre 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les historiens de la construction européenne reviennent sur « Approbation du collège von der Leyen I ».",
+    "La chronologie de la Commission place « Approbation du collège von der Leyen I » à sa date.",
+    "« Approbation du collège von der Leyen I » est un jalon de l'histoire de de l'Union européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#RELATIONSINTERINSTITUTIONNELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Approbation%20du%20coll%C3%A8ge%20von%20der%20Leyen%20I"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Relations interinstitutionnelles",
+    "Ursula von der Leyen",
+    "Commission Juncker",
+    "Strasbourg",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-11-27T00:00:00",
+  "endDate": null
+}

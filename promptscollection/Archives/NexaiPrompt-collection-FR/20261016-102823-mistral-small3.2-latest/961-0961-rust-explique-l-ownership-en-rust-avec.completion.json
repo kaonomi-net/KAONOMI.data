@@ -1,0 +1,13 @@
+{
+  "index": 961,
+  "file": "0961-rust-explique-l-ownership-en-rust-avec.prompt.json",
+  "prompt": "Explique l'ownership en Rust avec un exemple simple.",
+  "promptWords": 8,
+  "completion": "En Rust, l'**ownership** est un concept fondamental qui gère la mémoire de manière sûre et efficace. Voici une explication simple avec un exemple :\n\n### Concepts clés de l'ownership :\n1. **Chaque valeur en Rust a un propriétaire** (une variable).\n2. **Il n'y a qu'un seul propriétaire à la fois** pour une valeur.\n3. **Quand le propriétaire sort de son scope**, la valeur est automatiquement nettoyée (dépilée).\n\n### Exemple simple :\n```rust\nfn main() {\n    // Création d'une chaîne de caractères (String) avec un propriétaire\n    let s = String::from(\"Bonjour\"); // s est le propriétaire de \"Bonjour\"\n\n    // On passe la propriété de s à s2\n    let s2 = s; // s n'est plus valide ici (mouvement de propriété)\n\n    // println!(\"{}\", s); // Erreur : s a été déplacé, on ne peut plus l'utiliser\n\n    println!(\"{}\", s2); // OK : s2 est maintenant le propriétaire\n}\n```\n\n### Explication :\n- `let s = String::from(\"Bonjour\")` : `s` est le propriétaire de la chaîne `\"Bonjour\"`.\n- `let s2 = s` : La propriété de la chaîne est **déplacée** vers `s2`. `s` n'est plus valide.\n- Rust garantit qu'il n'y a pas de double libération de mémoire (pas de *use-after-free*).\n\n### Cas avec des fonctions :\n```rust\nfn prend_propriete(texte: String) {\n    println!(\"{}\", texte);\n}\n\nfn main() {\n    let s = String::from(\"Bonjour\");\n\n    prend_propriete(s); // s est déplacé dans la fonction\n\n    // println!(\"{}\", s); // Erreur : s a été déplacé\n}\n```\n\n### Remarque :\n- Pour partager une valeur sans déplacer la propriété, utilisez `&` (référence) :\n  ```rust\n  let s = String::from(\"Bonjour\");\n  let s2 = &s; // s2 est une référence à s\n  println!(\"{} {}\", s, s2); // OK : s est toujours valide\n  ```\n\nL'ownership permet à Rust de gérer la mémoire sans garbage collector tout en évitant les fuites et les accès invalides.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:55:29.5165327+02:00",
+  "durationSeconds": 10.13,
+  "stats": "mistral-small3.2:latest · 520 + 503 tokens · 10,1 s",
+  "isError": false,
+  "language": "FR"
+}

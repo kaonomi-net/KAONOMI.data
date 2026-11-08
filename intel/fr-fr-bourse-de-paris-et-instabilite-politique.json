@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-bourse-de-paris-et-instabilite-politique",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Bourse de Paris et instabilité politique",
+  "includedEntities": [
+    {
+      "entityName": "CAC 40",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Bourse",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "instabilité",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les réactions de la Bourse de Paris aux crises politiques.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "banques",
+    "investisseurs",
+    "censure"
+  ],
+  "questions": [
+    "Quelle baisse ?",
+    "Quels secteurs ?",
+    "Quelle cause ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MARCHES",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

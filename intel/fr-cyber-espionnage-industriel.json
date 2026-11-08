@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-espionnage-industriel",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Espionnage industriel",
+  "includedEntities": [
+    {
+      "entityName": "espionnage industriel",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "secrets",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les affaires d'espionnage industriel par des moyens informatiques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "recherche",
+    "défense",
+    "propriété intellectuelle"
+  ],
+  "questions": [
+    "Quelle entreprise ?",
+    "Quel État ?",
+    "Quelles données ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ESPIONNAGE",
+    "#INDUSTRIE"
+  ],
+  "events": [
+    "@REVELATION"
+  ],
+  "signals": [
+    "!ESPIONNAGE"
+  ],
+  "isDeleted": false
+}

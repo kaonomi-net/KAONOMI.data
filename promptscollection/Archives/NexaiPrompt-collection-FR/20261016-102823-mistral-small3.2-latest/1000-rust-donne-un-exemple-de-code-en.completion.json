@@ -1,0 +1,13 @@
+{
+  "index": 1000,
+  "file": "1000-rust-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Rust qui illustre les smart pointers (Box, Rc, Arc).",
+  "promptWords": 15,
+  "completion": "Voici un exemple de code en Rust qui illustre l'utilisation des smart pointers `Box`, `Rc` et `Arc` :\n\n```rust\nuse std::rc::Rc;\nuse std::sync::Arc;\nuse std::thread;\n\n// Exemple avec Box\nfn exemple_box() {\n    // Box est utilisé pour allouer de la mémoire sur le tas\n    let b = Box::new(5);\n    println!(\"La valeur dans Box est : {}\", b);\n}\n\n// Exemple avec Rc (Reference Counting)\nfn exemple_rc() {\n    // Rc permet de partager la propriété d'une valeur entre plusieurs références\n    let rc1 = Rc::new(10);\n    let rc2 = Rc::clone(&rc1);\n    println!(\"La valeur dans Rc est : {}\", *rc1);\n    println!(\"Le compte de références est : {}\", Rc::strong_count(&rc1));\n}\n\n// Exemple avec Arc (Atomic Reference Counting)\nfn exemple_arc() {\n    // Arc est comme Rc mais thread-safe\n    let arc = Arc::new(15);\n    let arc_clone = Arc::clone(&arc);\n\n    // Utilisation dans un thread\n    let handle = thread::spawn(move || {\n        println!(\"La valeur dans Arc est : {}\", *arc_clone);\n    });\n\n    handle.join().unwrap();\n}\n\nfn main() {\n    println!(\"--- Exemple avec Box ---\");\n    exemple_box();\n\n    println!(\"\\n--- Exemple avec Rc ---\");\n    exemple_rc();\n\n    println!(\"\\n--- Exemple avec Arc ---\");\n    exemple_arc();\n}\n```\n\n### Explications :\n\n1. **Box** :\n   - `Box` est utilisé pour allouer de la mémoire sur le tas. Il est simple et ne permet pas de partager la propriété de la valeur.\n\n2. **Rc (Reference Counting)** :\n   - `Rc` permet de partager la propriété d'une valeur entre plusieurs références. Il utilise un comptage de références pour gérer la durée de vie de la valeur.\n   - `Rc::clone` crée une nouvelle référence sans copier la valeur sous-jacente.\n\n3. **Arc (Atomic Reference Counting)** :\n   - `Arc` est similaire à `Rc` mais est thread-safe. Il peut être utilisé dans des contextes multi-threads.\n   - `Arc::clone` crée une nouvelle référence thread-safe.\n\nCe code montre comment utiliser ces smart pointers pour gérer la mémoire et partager des données de manière sûre en Rust.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T14:05:13.3288789+02:00",
+  "durationSeconds": 10.73,
+  "stats": "mistral-small3.2:latest · 529 + 533 tokens · 10,7 s",
+  "isError": false,
+  "language": "FR"
+}

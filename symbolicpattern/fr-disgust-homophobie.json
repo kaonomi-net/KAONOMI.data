@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-homophobie",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'hostilité envers les personnes homosexuelles.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:homophobie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:homophobe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:transphobie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:transphobe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lgbtphobie(s)?)(?![\\w-])"
+  ],
+  "symbol": "homophobie",
+  "event": null,
+  "title": "Homophobie",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

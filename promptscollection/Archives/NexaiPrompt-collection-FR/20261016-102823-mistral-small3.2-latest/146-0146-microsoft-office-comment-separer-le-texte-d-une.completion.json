@@ -1,0 +1,13 @@
+{
+  "index": 146,
+  "file": "0146-microsoft-office-comment-separer-le-texte-d-une.prompt.json",
+  "prompt": "Comment séparer le texte d'une cellule en plusieurs colonnes dans Excel ?",
+  "promptWords": 12,
+  "completion": "Pour séparer le texte d'une cellule en plusieurs colonnes dans Excel, vous pouvez utiliser la fonction **Texte en colonnes**. Voici les étapes à suivre :\n\n1. **Sélectionnez la ou les cellules** contenant le texte que vous souhaitez séparer.\n2. Allez dans l'onglet **Données** dans le ruban.\n3. Cliquez sur **Texte en colonnes** dans le groupe **Outils de données**.\n4. Dans l'assistant **Texte en colonnes**, choisissez le type de données :\n   - **Délimité** : si le texte est séparé par des caractères spécifiques (comme des virgules, des points-virgules, des espaces, etc.).\n   - **Largeur fixe** : si le texte doit être séparé à des positions spécifiques dans la cellule.\n5. Cliquez sur **Suivant**.\n6. Si vous avez choisi **Délimité**, sélectionnez le ou les délimiteurs appropriés (par exemple, une virgule ou un espace).\n7. Cliquez sur **Suivant**.\n8. Choisissez le format de données pour chaque colonne (par exemple, **Texte**, **Date**, **Décimal**, etc.).\n9. Cliquez sur **Terminer**.\n\nExcel séparera alors le texte de la cellule en plusieurs colonnes selon les options que vous avez choisies.\n\nSi vous avez besoin d'aide supplémentaire ou si vous souhaitez des instructions plus détaillées pour un cas spécifique, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:55:25.2010795+02:00",
+  "durationSeconds": 6.88,
+  "stats": "mistral-small3.2:latest · 521 + 321 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

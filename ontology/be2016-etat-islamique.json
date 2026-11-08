@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation des attentats de Bruxelles de 2016 (le terrorisme djihadiste) : Organisation djihadiste qui a revendiqué les attentats de Paris du 13 novembre 2015 et de Bruxelles du 22 mars 2016.",
+  "id": "be2016-etat-islamique",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "État islamique",
+  "entityType": "ORGANISATION",
+  "description": "Organisation djihadiste qui a revendiqué les attentats de Paris du 13 novembre 2015 et de Bruxelles du 22 mars 2016.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-organisations",
+  "sentencesExemples": [
+    "L'organisation « État islamique » est citée dans les rapports consacrés aux attentats de 2016.",
+    "Les médias ont rapporté les communications de « État islamique ».",
+    "Les documents publics décrivent la place de « État islamique » dans le terrorisme djihadiste."
+  ],
+  "angryLevel": 5,
+  "sadLevel": 2,
+  "happyLevel": 0,
+  "fearLevel": 5,
+  "surpriseLevel": 0,
+  "disgustLevel": 5,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "Daech",
+    "EI",
+    "ISIS"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#ORGANISATION",
+    "#TERRORISMEDJIHADISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89tat%20islamique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Oussama Atar",
+    "Cellule terroriste Paris-Bruxelles",
+    "Revendication par l'État islamique"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

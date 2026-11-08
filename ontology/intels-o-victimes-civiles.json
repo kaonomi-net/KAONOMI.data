@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-victimes-civiles",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "victimes civiles",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Bilan des victimes civiles de l'ONU.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les bilans des victimes civiles publiés par l'ONU."
+  ],
+  "angryLevel": null,
+  "sadLevel": 100,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "victimes civiles",
+  "tags": [
+    "#UKRAINE",
+    "#CIVILS",
+    "#ONU"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "mission de surveillance",
+    "ONU",
+    "enfants",
+    "HCDH",
+    "Genève"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

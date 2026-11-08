@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-magouille",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une manœuvre malhonnête.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:magouille(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:magouill(er|eur|eurs|euse)|combine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tripatouillage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:manigance(s)?)(?![\\w-])"
+  ],
+  "symbol": "magouille",
+  "event": null,
+  "title": "Magouille",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 636,
+  "file": "0636-python-give-a-code-example-in-python.prompt.json",
+  "prompt": "Give a code example in Python that illustrates lambda functions.",
+  "promptWords": 10,
+  "completion": "Here’s a compact Python snippet that shows a few common ways to use **lambda** functions:\n\n```python\n# 1. A simple lambda expression (anonymous function)\nsquare = lambda x: x * x\nprint(\"square(5) =\", square(5))          # → 25\n\n# 2. Lambda used as a key function in sorted()\npoints = [(1, 2), (3, 1), (5, 0), (0, 4)]\n# sort by the y‑coordinate (index 1)\nsorted_by_y = sorted(points, key=lambda p: p[1])\nprint(\"Points sorted by y‑coordinate:\", sorted_by_y)\n# → [(5, 0), (3, 1), (1, 2), (0, 4)]\n\n# 3. Lambda inside map() – transform each element\nnums = [1, 2, 3, 4]\nsquared = list(map(lambda n: n * n, nums))\nprint(\"Squares of\", nums, \"→\", squared)\n# → [1, 4, 9, 16]\n\n# 4. Lambda inside filter() – keep only even numbers\nevens = list(filter(lambda n: n % 2 == 0, nums))\nprint(\"Even numbers in\", nums, \"→\", evens)\n# → [2, 4]\n\n# 5. Lambda inside reduce() – accumulate product of all numbers\nfrom functools import reduce\nproduct = reduce(lambda a, b: a * b, nums)\nprint(\"Product of\", nums, \"→\", product)\n# → 24\n```\n\nThese examples cover:\n\n- Direct assignment of a lambda to a variable (`square`).\n- Using lambda as a one‑off function (e.g., the `key` argument to `sorted`).\n- Combining lambda with higher‑order functions (`map`, `filter`, `reduce`).\n\nFeel free to experiment by swapping out the lambda bodies or the data structures!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T22:42:45.9447296+02:00",
+  "durationSeconds": 6.89,
+  "stats": "gpt-oss:20b · 78 + 754 tokens · 6,9 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-sofina",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Sofina",
+  "includedEntities": [
+    {
+      "entityName": "Sofina",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "holding",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la holding Sofina et ses participations dans la tech.",
+  "isFuzzy": false,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "capital-risque",
+    "décote",
+    "valorisation"
+  ],
+  "questions": [
+    "Quelle valeur ?",
+    "Quelle décote ?",
+    "Quelle participation ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#HOLDINGS"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

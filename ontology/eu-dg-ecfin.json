@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique économique) : Direction générale des affaires économiques et financières (DG ECFIN), service de la Commission européenne compétent pour la politique économique, placé sous l'autorité de Valdis Dombrovskis dans la Commission von der Leyen II.",
+  "id": "eu-dg-ecfin",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale des affaires économiques et financières",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale des affaires économiques et financières (DG ECFIN), service de la Commission européenne compétent pour la politique économique, placé sous l'autorité de Valdis Dombrovskis dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Direction générale des affaires économiques et financières » préparent les textes relatifs à la politique économique.",
+    "La délégation a rencontré des représentants de « Direction générale des affaires économiques et financières ».",
+    "« Direction générale des affaires économiques et financières » joue un rôle dans la politique économique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG ECFIN"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20des%20affaires%20%C3%A9conomiques%20et%20financi%C3%A8res"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Valdis Dombrovskis",
+    "Économie",
+    "Euro et union économique et monétaire",
+    "Règlement établissant la facilité pour la reprise et la résilience",
+    "NextGenerationEU",
+    "Facilité pour la reprise et la résilience",
+    "SURE",
+    "InvestEU"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (le contexte de la menace terroriste) : Fusillade au Musée juif de Belgique à Bruxelles, qui fait quatre morts ; elle ouvre la vague d'attaques djihadistes qui touche la Belgique.",
+  "id": "be2016-musee-juif",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Attaque du Musée juif de Belgique",
+  "entityType": "EVENT",
+  "description": "Fusillade au Musée juif de Belgique à Bruxelles, qui fait quatre morts ; elle ouvre la vague d'attaques djihadistes qui touche la Belgique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "La frise chronologique du dossier place « Attaque du Musée juif de Belgique » à sa date.",
+    "La presse belge a largement couvert « Attaque du Musée juif de Belgique ».",
+    "L'événement « Attaque du Musée juif de Belgique » s'inscrit dans le contexte de la menace terroriste."
+  ],
+  "angryLevel": 5,
+  "sadLevel": 5,
+  "happyLevel": 0,
+  "fearLevel": 5,
+  "surpriseLevel": 5,
+  "disgustLevel": 4,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "attentat du Musée juif"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#CONTEXTEMENACETERRORISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Attaque%20du%20Mus%C3%A9e%20juif%20de%20Belgique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Opération antiterroriste de Verviers"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-05-24T00:00:00",
+  "endDate": "2014-05-24T00:00:00"
+}

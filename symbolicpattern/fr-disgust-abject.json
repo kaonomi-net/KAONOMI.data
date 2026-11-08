@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-abject",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "D'une bassesse révoltante.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:abject(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:abjection(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]voltant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inqualifiable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:honteu(x|se|ses))(?![\\w-])"
+  ],
+  "symbol": "abject",
+  "event": null,
+  "title": "Abject",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

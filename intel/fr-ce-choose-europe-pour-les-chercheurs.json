@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-choose-europe-pour-les-chercheurs",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Choose Europe pour les chercheurs",
+  "includedEntities": [
+    {
+      "entityName": "Choose Europe",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "chercheurs",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'initiative pour attirer les chercheurs en Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "États-Unis",
+    "universités",
+    "financement"
+  ],
+  "questions": [
+    "Combien de chercheurs ?",
+    "Quel financement ?",
+    "Quels pays ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#RECHERCHE",
+    "#TALENTS"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

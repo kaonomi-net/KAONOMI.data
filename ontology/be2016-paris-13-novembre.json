@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (le contexte de la menace terroriste) : Attentats de Paris et Saint-Denis revendiqués par l'État islamique, qui font 130 morts ; ils ont été préparés en grande partie depuis la Belgique par la même cellule que les attentats de Bruxelles.",
+  "id": "be2016-paris-13-novembre",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Attentats du 13 novembre 2015",
+  "entityType": "EVENT",
+  "description": "Attentats de Paris et Saint-Denis revendiqués par l'État islamique, qui font 130 morts ; ils ont été préparés en grande partie depuis la Belgique par la même cellule que les attentats de Bruxelles.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "« Attentats du 13 novembre 2015 » figure dans la chronologie des attentats de 2016.",
+    "Les rapports officiels reviennent sur « Attentats du 13 novembre 2015 ».",
+    "Les enquêteurs et les historiens ont reconstitué le déroulement de « Attentats du 13 novembre 2015 »."
+  ],
+  "angryLevel": 5,
+  "sadLevel": 5,
+  "happyLevel": 0,
+  "fearLevel": 5,
+  "surpriseLevel": 5,
+  "disgustLevel": 4,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "attentats de Paris",
+    "13-Novembre"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#CONTEXTEMENACETERRORISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Attentats%20du%2013%20novembre%202015"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Najim Laachraoui",
+    "Salah Abdeslam",
+    "Abdelhamid Abaaoud",
+    "Cellule terroriste Paris-Bruxelles",
+    "Retour de Salah Abdeslam à Bruxelles",
+    "Niveau de menace 4 à Bruxelles en novembre 2015",
+    "Assaut de Saint-Denis",
+    "Paris",
+    "Saint-Denis"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-11-13T00:00:00",
+  "endDate": "2015-11-13T00:00:00"
+}

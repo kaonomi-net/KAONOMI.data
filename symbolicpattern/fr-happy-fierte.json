@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-fierte",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La satisfaction d'avoir bien fait.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fiert[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fi(er|[èe]re|ers|[èe]res)\\s+de)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:honneur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:digne(s)?\\s+d['’][ée]loges)(?![\\w-])"
+  ],
+  "symbol": "fierté",
+  "event": null,
+  "title": "Fierté",
+  "tags": [
+    "#REUSSITE",
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (le marché intérieur) : Traité instituant la Communauté économique européenne et sa Commission, entré en vigueur le 1er janvier 1958.",
+  "id": "eu-pol-traite-rome",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Traité de Rome",
+  "entityType": "LAW",
+  "description": "Traité instituant la Communauté économique européenne et sa Commission, entré en vigueur le 1er janvier 1958.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-traites",
+  "sentencesExemples": [
+    "La mise en œuvre de « Traité de Rome » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Traité de Rome ».",
+    "Les juristes de la Commission ont commenté « Traité de Rome »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "traité CEE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#MARCHEINTERIEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Trait%C3%A9%20de%20Rome"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Marché intérieur",
+    "Rome",
+    "Commission européenne"
+  ],
+  "isDeleted": false,
+  "startDate": "1957-03-25T00:00:00",
+  "endDate": null
+}

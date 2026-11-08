@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-nucleaire-dans-la-politique-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Nucléaire dans la politique européenne",
+  "includedEntities": [
+    {
+      "entityName": "nucléaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "énergie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la place du nucléaire dans les politiques et financements européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "France",
+    "Allemagne",
+    "petits réacteurs"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quel financement ?",
+    "Quelle alliance ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENERGIE",
+    "#NUCLEAIRE"
+  ],
+  "events": [],
+  "signals": [
+    "!ENERGIE"
+  ],
+  "isDeleted": false
+}

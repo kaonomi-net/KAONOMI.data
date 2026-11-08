@@ -1,0 +1,13 @@
+{
+  "index": 178,
+  "file": "0178-microsoft-office-how-do-i-use-breakout-rooms.prompt.json",
+  "prompt": "How do I use breakout rooms in Teams?",
+  "promptWords": 8,
+  "completion": "To use breakout rooms in Microsoft Teams, follow these steps:\n\n### **For Meeting Organizers:**\n1. **Schedule a Meeting:**\n   - Go to **Calendar** in Teams and click **New meeting**.\n   - Fill in the meeting details and invite participants.\n\n2. **Start the Meeting:**\n   - Join the meeting as the organizer.\n\n3. **Create Breakout Rooms:**\n   - Once in the meeting, click the **More actions (⋯)** button in the meeting toolbar.\n   - Select **Breakout rooms**.\n   - Click **Create rooms**.\n   - Choose the number of rooms and how to assign participants (automatically or manually).\n   - Click **Create**.\n\n4. **Manage Breakout Rooms:**\n   - You can **start rooms**, **end rooms**, or **close all rooms** from the Breakout rooms panel.\n   - You can also **move participants** between rooms manually if needed.\n\n5. **End Breakout Rooms:**\n   - Once discussions are over, click **Close all rooms** to bring everyone back to the main meeting.\n\n### **For Participants:**\n1. **Join the Meeting:**\n   - Accept the meeting invitation and join when it starts.\n\n2. **Enter a Breakout Room:**\n   - The organizer will assign you to a room or allow you to choose one.\n   - Click **Join room** when prompted.\n\n3. **Leave or Switch Rooms:**\n   - If allowed by the organizer, you may be able to request to switch rooms.\n\n4. **Return to the Main Meeting:**\n   - The organizer will close all rooms, and you’ll be automatically returned to the main meeting.\n\nWould you like more detailed instructions on any specific part of the process?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:35:49.7594904+02:00",
+  "durationSeconds": 9.24,
+  "stats": "mistral-small3.2:latest · 517 + 352 tokens · 9,2 s",
+  "isError": false,
+  "language": "EN"
+}

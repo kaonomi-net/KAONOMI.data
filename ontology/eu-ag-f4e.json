@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique énergétique) : Entreprise commune européenne pour ITER et le développement de l'énergie de fusion (Fusion for Energy), organe de l'Union créé en 2007 et installé dans cette ville : Barcelone.",
+  "id": "eu-ag-f4e",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Entreprise commune européenne pour ITER et le développement de l'énergie de fusion (Fusion for Energy)",
+  "entityType": "ORGANISATION",
+  "description": "Entreprise commune européenne pour ITER et le développement de l'énergie de fusion (Fusion for Energy), organe de l'Union créé en 2007 et installé dans cette ville : Barcelone.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Entreprise commune européenne pour ITER et le développement de l'énergie de fusion (Fusion for Energy) ».",
+    "Les décisions de « Entreprise commune européenne pour ITER et le développement de l'énergie de fusion (Fusion for Energy) » touchent la politique énergétique.",
+    "Le rapport annuel de « Entreprise commune européenne pour ITER et le développement de l'énergie de fusion (Fusion for Energy) » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "Fusion for Energy"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEENERGETIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Entreprise%20commune%20europ%C3%A9enne%20pour%20ITER%20et%20le%20d%C3%A9veloppement%20de%20l%27%C3%A9nergie%20de%20fusion%20%28Fusion%20for%20Energy%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Barcelone",
+    "Direction générale de l'énergie",
+    "Énergie",
+    "Recherche"
+  ],
+  "isDeleted": false,
+  "startDate": "2007-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-budget-francais-et-marches",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Budget français et marchés",
+  "includedEntities": [
+    {
+      "entityName": "budget",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "France",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "marchés",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'effet de la discussion budgétaire française sur les marchés.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "automne 2026"
+  ],
+  "relatedEntities": [
+    "Assemblée nationale",
+    "49.3",
+    "déficit"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quelle réaction des taux ?",
+    "Quel risque de censure ?"
+  ],
+  "tags": [
+    "#ECONOMIE",
+    "#FRANCE",
+    "#BUDGET"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

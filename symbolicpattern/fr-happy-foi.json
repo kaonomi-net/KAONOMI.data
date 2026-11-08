@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-foi",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une confiance profonde.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:foi)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:croire\\s+en\\s+(soi|toi|moi|nous|l['’]avenir))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:conviction(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ferveur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fervent(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "foi",
+  "event": null,
+  "title": "Foi",
+  "tags": [
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

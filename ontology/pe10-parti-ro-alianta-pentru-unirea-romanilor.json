@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Alianța pentru Unirea Românilor, parti ou liste de ce pays : Roumanie, qui compte 3 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-ro-alianta-pentru-unirea-romanilor",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Alianța pentru Unirea Românilor",
+  "entityType": "ORGANISATION",
+  "description": "Alianța pentru Unirea Românilor, parti ou liste de ce pays : Roumanie, qui compte 3 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les eurodéputés de « Alianța pentru Unirea Românilor » ont été élus en juin 2024.",
+    "« Alianța pentru Unirea Românilor » est représenté dans le Parlement européen.",
+    "Le programme européen de « Alianța pentru Unirea Românilor » a été publié avant le scrutin."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Alian%C8%9Ba%20pentru%20Unirea%20Rom%C3%A2nilor"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Adrian-George Axinia",
+    "Gheorghe Piperea",
+    "Georgiana Teodorescu",
+    "Roumanie",
+    "Conservateurs et réformistes européens (ECR)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

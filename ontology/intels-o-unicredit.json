@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-unicredit",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "UniCredit",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Consolidation bancaire européenne.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les rapprochements entre banques européennes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "UniCredit",
+  "tags": [
+    "#FINANCE",
+    "#BANQUES",
+    "#FUSIONS"
+  ],
+  "events": [
+    "@FUSION"
+  ],
+  "signals": [
+    "!CONSOLIDATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "BPM",
+    "Europe",
+    "consolidation bancaire",
+    "rachat",
+    "Commerzbank",
+    "banques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

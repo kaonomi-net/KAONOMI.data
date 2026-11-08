@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-smartbox",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "Smartbox",
+  "entityType": "PRODUCT",
+  "description": "Cité par 1 intel : Fuite de données chez Smartbox.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre l'accès non autorisé détecté le 3 novembre 2026 sur une plateforme de Smartbox."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Smartbox",
+  "tags": [
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "fuite de données",
+    "CNIL",
+    "adresses e-mail",
+    "France",
+    "clients"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

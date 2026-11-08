@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (les fuites de données) : L'agence de crédit Equifax annonce le vol des données personnelles d'environ 147 millions de personnes.",
+  "id": "cyber-equifax",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Fuite de données d'Equifax",
+  "entityType": "EVENT",
+  "description": "L'agence de crédit Equifax annonce le vol des données personnelles d'environ 147 millions de personnes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "Les journaux de l'époque ont largement commenté l'événement « Fuite de données d'Equifax ».",
+    "L'événement « Fuite de données d'Equifax » a marqué durablement l'histoire des fuites de données.",
+    "La frise chronologique de la salle de formation place « Fuite de données d'Equifax » en bonne place."
+  ],
+  "angryLevel": 3,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 2,
+  "surpriseLevel": 2,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "piratage d'Equifax"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#FUITESDONNEES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fuite%20de%20donn%C3%A9es%20d%27Equifax"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Entrée en application du RGPD"
+  ],
+  "isDeleted": false,
+  "startDate": "2017-09-07T00:00:00",
+  "endDate": "2017-09-07T00:00:00"
+}

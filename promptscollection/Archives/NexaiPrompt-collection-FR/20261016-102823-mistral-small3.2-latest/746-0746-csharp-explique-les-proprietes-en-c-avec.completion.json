@@ -1,0 +1,13 @@
+{
+  "index": 746,
+  "file": "0746-csharp-explique-les-proprietes-en-c-avec.prompt.json",
+  "prompt": "Explique les propriétés en C# avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "En C#, les propriétés sont des membres de classe qui fournissent un mécanisme de contrôle d'accès à des champs privés. Elles permettent de lire, écrire ou calculer la valeur d'un champ tout en encapsulant la logique d'accès.\n\nVoici un exemple simple pour illustrer les propriétés en C# :\n\n```csharp\nusing System;\n\npublic class Personne\n{\n    // Champ privé\n    private string _nom;\n\n    // Propriété publique pour accéder au champ _nom\n    public string Nom\n    {\n        get { return _nom; }  // Accesseur en lecture\n        set { _nom = value; } // Accesseur en écriture\n    }\n\n    // Propriété en lecture seule (pas d'accesseur set)\n    public string Description\n    {\n        get { return \"Personne nommée \" + _nom; }\n    }\n}\n\nclass Program\n{\n    static void Main()\n    {\n        Personne personne = new Personne();\n\n        // Utilisation de la propriété Nom pour définir et obtenir la valeur\n        personne.Nom = \"Jean\";\n        Console.WriteLine(\"Nom: \" + personne.Nom);\n\n        // Utilisation de la propriété Description (lecture seule)\n        Console.WriteLine(personne.Description);\n    }\n}\n```\n\n### Explications :\n1. **Champ privé `_nom`** : C'est le champ réel qui stocke la valeur.\n2. **Propriété `Nom`** :\n   - L'accesseur `get` permet de lire la valeur du champ `_nom`.\n   - L'accesseur `set` permet de définir la valeur du champ `_nom`. Le mot-clé `value` représente la valeur passée à la propriété.\n3. **Propriété `Description`** :\n   - C'est une propriété en lecture seule (pas d'accesseur `set`), elle calcule et retourne une chaîne de caractères basée sur le champ `_nom`.\n\n### Avantages des propriétés :\n- **Encapsulation** : Le champ privé est protégé et accessible uniquement via la propriété.\n- **Validation** : Vous pouvez ajouter de la logique dans les accesseurs pour valider les valeurs.\n- **Flexibilité** : Vous pouvez changer la manière dont la valeur est stockée ou calculée sans affecter le code qui utilise la propriété.\n\nSi vous avez besoin d'un exemple plus avancé ou avec des fonctionnalités supplémentaires (comme des propriétés auto-implementées ou des propriétés avec validation), n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:01:54.0093152+02:00",
+  "durationSeconds": 10.18,
+  "stats": "mistral-small3.2:latest · 519 + 508 tokens · 10,2 s",
+  "isError": false,
+  "language": "FR"
+}

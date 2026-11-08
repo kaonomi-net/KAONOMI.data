@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-retailleau",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "Retailleau",
+  "entityType": "PERSON",
+  "description": "Cité par 3 intels : Laurent Wauquiez ; Programme de la droite sur la sécurité ; Accords entre le gouvernement et LR.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre le rôle de Laurent Wauquiez à droite.",
+    "Suivre les propositions de la droite sur la sécurité et l'immigration.",
+    "Suivre le soutien ou l'opposition de LR au gouvernement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Retailleau",
+  "tags": [
+    "#FRANCE",
+    "#LR",
+    "#DROITE",
+    "#SECURITE",
+    "#GOUVERNEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Assemblée nationale",
+    "Les Républicains",
+    "candidature",
+    "groupe LR",
+    "Auvergne-Rhône-Alpes",
+    "Laurent Wauquiez",
+    "droite",
+    "sécurité",
+    "Lisnard",
+    "immigration"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

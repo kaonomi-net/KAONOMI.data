@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-moldavie-et-pressions-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Moldavie et pressions russes",
+  "includedEntities": [
+    {
+      "entityName": "Moldavie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les pressions russes sur la Moldavie.",
+  "isFuzzy": true,
+  "locations": [
+    "Chișinău",
+    "Transnistrie",
+    "Gagaouzie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Maia Sandu",
+    "ingérence",
+    "énergie"
+  ],
+  "questions": [
+    "Quelle ingérence ?",
+    "Quelle situation énergétique ?",
+    "Quel rapprochement européen ?"
+  ],
+  "tags": [
+    "#MOLDAVIE",
+    "#RUSSIE",
+    "#INGERENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!INGERENCE"
+  ],
+  "isDeleted": false
+}

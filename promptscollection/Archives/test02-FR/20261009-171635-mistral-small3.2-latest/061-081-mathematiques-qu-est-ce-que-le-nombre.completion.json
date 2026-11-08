@@ -1,0 +1,13 @@
+{
+  "index": 61,
+  "file": "081-mathematiques-qu-est-ce-que-le-nombre.prompt.json",
+  "prompt": "Qu'est-ce que le nombre pi et pourquoi est-il infini ?",
+  "promptWords": 10,
+  "completion": "Le nombre π (pi) est une constante mathématique qui représente le rapport entre la circonférence d'un cercle et son diamètre. En d'autres termes, pour tout cercle, la circonférence (C) est égale à π fois le diamètre (d) :\n\n\\[ C = \\pi \\times d \\]\n\nou encore :\n\n\\[ C = 2 \\pi r \\]\n\noù \\( r \\) est le rayon du cercle.\n\n### Pourquoi π est-il infini ?\nπ est un nombre **irrationnel**, ce qui signifie qu'il ne peut pas s'exprimer comme une fraction de deux entiers et que son développement décimal est **infini et non périodique**. Voici pourquoi :\n\n1. **Définition géométrique** : π est défini comme le rapport entre la circonférence et le diamètre d'un cercle. Cette définition est indépendante de la taille du cercle, ce qui implique que π est une constante universelle.\n\n2. **Développement décimal infini** : Les premières décimales de π sont 3,1415926535..., mais elles continuent indéfiniment sans se répéter. Aucun motif périodique n'a été observé dans son développement décimal.\n\n3. **Preuve de l'irrationalité** : En 1761, le mathématicien suisse Johann Heinrich Lambert a démontré que π est irrationnel. Cette preuve repose sur des propriétés des fractions continues et des séries infinies. L'irrationalité de π implique que son développement décimal ne peut pas être fini ou périodique.\n\n### Importance de π\nπ est fondamental en mathématiques et en physique, notamment dans les calculs impliquant des cercles, des ondes, des probabilités et bien d'autres domaines. Son infinitude et son irrationalité en font un nombre fascinant et essentiel dans de nombreuses théories scientifiques.\n\nSi tu veux en savoir plus sur les décimales de π ou ses applications, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:27:31.7197227+02:00",
+  "durationSeconds": 9.8,
+  "stats": "mistral-small3.2:latest · 521 + 414 tokens · 9,8 s",
+  "isError": false,
+  "language": "FR"
+}

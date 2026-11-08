@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-assassinat",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Meurtre prémédité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:assassinat(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:assassin(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:assassin(er|[ée]|[ée]e|[ée]s|[ée]es|ait))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tueur(s)?\\s+[àa]\\s+gages)(?![\\w-])"
+  ],
+  "symbol": "assassinat",
+  "event": null,
+  "title": "Assassinat",
+  "tags": [
+    "#MORT",
+    "#VIOLENCE",
+    "#CRIME"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

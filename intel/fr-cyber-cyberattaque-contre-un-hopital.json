@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-un-hopital",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre un hôpital",
+  "includedEntities": [
+    {
+      "entityName": "hôpital",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les cyberattaques contre les hôpitaux et les établissements de santé.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "déprogrammations",
+    "mode dégradé",
+    "données de santé"
+  ],
+  "questions": [
+    "Quel hôpital ?",
+    "Quel impact sur les patients ?",
+    "Quel groupe ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SANTE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-departements-en-difficulte-financiere",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Départements en difficulté financière",
+  "includedEntities": [
+    {
+      "entityName": "départements",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "finances",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "RSA",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les départements au bord de la faillite.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "RSA",
+    "dépenses sociales",
+    "dotations"
+  ],
+  "questions": [
+    "Quel département ?",
+    "Quel déficit ?",
+    "Quelle aide de l'État ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#COLLECTIVITES",
+    "#FINANCES"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

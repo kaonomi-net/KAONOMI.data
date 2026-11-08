@@ -1,0 +1,13 @@
+{
+  "index": 103,
+  "file": "0103-microsoft-office-how-do-i-insert-a-footnote.prompt.json",
+  "prompt": "How do I insert a footnote in Word?",
+  "promptWords": 8,
+  "completion": "To insert a footnote in Microsoft Word, follow these steps:\n\n1. **Place the Cursor**: Position your cursor where you want the footnote reference to appear in the text.\n2. **Insert Footnote**:\n   - Go to the **References** tab in the Ribbon.\n   - Click on **Insert Footnote** in the Footnotes group.\n   - Alternatively, you can use the shortcut **Alt + Ctrl + F** (Windows) or **Option + Command + F** (Mac).\n3. **Add Footnote Text**: A footnote marker (a small number) will appear at the cursor location, and the cursor will move to the bottom of the page where you can type the footnote text.\n4. **Return to Document**: After typing the footnote, press **Enter** and then click **Close** or simply move the cursor back to the main document to return.\n\nWord will automatically number the footnotes sequentially. If you need to edit or delete a footnote later, you can do so by clicking on the footnote number in the text or at the bottom of the page.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:22:59.0251107+02:00",
+  "durationSeconds": 6.06,
+  "stats": "mistral-small3.2:latest · 517 + 226 tokens · 6,1 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-quishing-par-qr-code",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Quishing par QR code",
+  "includedEntities": [
+    {
+      "entityName": "QR code",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "quishing",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les arnaques par QR codes piégés.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "parcmètres",
+    "courriels",
+    "bornes"
+  ],
+  "questions": [
+    "Quelle arnaque ?",
+    "Quel lieu ?",
+    "Quelle alerte ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#HAMECONNAGE"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

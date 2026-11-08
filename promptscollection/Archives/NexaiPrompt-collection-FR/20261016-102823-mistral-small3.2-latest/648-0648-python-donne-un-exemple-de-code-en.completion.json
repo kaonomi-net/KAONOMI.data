@@ -1,0 +1,13 @@
+{
+  "index": 648,
+  "file": "0648-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre NumPy.",
+  "promptWords": 10,
+  "completion": "Voici un exemple de code en Python qui illustre l'utilisation de la bibliothèque NumPy pour effectuer des opérations sur des tableaux numériques :\n\n```python\nimport numpy as np\n\n# Création d'un tableau NumPy\narray = np.array([1, 2, 3, 4, 5])\nprint(\"Tableau initial :\", array)\n\n# Accès aux éléments\nprint(\"Premier élément :\", array[0])\nprint(\"Dernier élément :\", array[-1])\n\n# Opérations sur le tableau\narray_multiplied = array * 2\nprint(\"Tableau multiplié par 2 :\", array_multiplied)\n\n# Fonctions mathématiques\nprint(\"Somme des éléments :\", np.sum(array))\nprint(\"Moyenne des éléments :\", np.mean(array))\n\n# Création d'un tableau 2D\nmatrix = np.array([[1, 2, 3], [4, 5, 6]])\nprint(\"Matrice 2D :\\n\", matrix)\n\n# Opérations sur la matrice\nprint(\"Transposée de la matrice :\\n\", matrix.T)\nprint(\"Produit matriciel avec lui-même :\\n\", np.dot(matrix, matrix))\n```\n\nCe code montre comment créer des tableaux et des matrices avec NumPy, accéder à leurs éléments, effectuer des opérations mathématiques, et utiliser des fonctions intégrées pour des calculs statistiques.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:37:54.2113596+02:00",
+  "durationSeconds": 5.86,
+  "stats": "mistral-small3.2:latest · 521 + 286 tokens · 5,9 s",
+  "isError": false,
+  "language": "FR"
+}

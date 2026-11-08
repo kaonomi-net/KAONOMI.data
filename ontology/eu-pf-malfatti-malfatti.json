@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la communication de la Commission) : Portefeuille détenu par Franco Maria Malfatti, président de la Commission, dans la Commission Malfatti, du 1er juillet 1970 au 21 mars 1972.",
+  "id": "eu-pf-malfatti-malfatti",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Présidence de la Commission (Commission Malfatti)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Franco Maria Malfatti, président de la Commission, dans la Commission Malfatti, du 1er juillet 1970 au 21 mars 1972.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Le portefeuille « Présidence de la Commission (Commission Malfatti) » couvre la communication de la Commission.",
+    "La lettre de mission du portefeuille « Présidence de la Commission (Commission Malfatti) » fixe les objectifs en matière de la communication de la Commission.",
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Présidence de la Commission (Commission Malfatti) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#COMMUNICATIONCOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pr%C3%A9sidence%20de%20la%20Commission%20%28Commission%20Malfatti%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Franco Maria Malfatti",
+    "Commission Malfatti",
+    "Président de la Commission européenne",
+    "Communication et présidence"
+  ],
+  "isDeleted": false,
+  "startDate": "1970-07-01T00:00:00",
+  "endDate": "1972-03-21T00:00:00"
+}

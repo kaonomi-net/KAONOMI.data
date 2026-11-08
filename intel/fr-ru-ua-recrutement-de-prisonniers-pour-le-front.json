@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-recrutement-de-prisonniers-pour-le-front",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Recrutement de prisonniers pour le front",
+  "includedEntities": [
+    {
+      "entityName": "prisonniers",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "recrutement",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "front",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'envoi de détenus au front.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "colonies pénitentiaires",
+    "Wagner",
+    "Storm-Z"
+  ],
+  "questions": [
+    "Combien de détenus ?",
+    "Quelles conditions ?",
+    "Quelles grâces ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ARMEE",
+    "#PRISONS"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

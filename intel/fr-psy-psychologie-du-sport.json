@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-psychologie-du-sport",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Psychologie du sport",
+  "includedEntities": [
+    {
+      "entityName": "psychologie du sport",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "préparation mentale",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la préparation mentale des sportifs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "athlètes",
+    "pression",
+    "santé mentale des sportifs"
+  ],
+  "questions": [
+    "Quel athlète ?",
+    "Quelle méthode ?",
+    "Quel témoignage ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SPORT"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

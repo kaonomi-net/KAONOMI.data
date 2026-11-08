@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-sante-mentale-dans-les-prisons",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Santé mentale dans les prisons",
+  "includedEntities": [
+    {
+      "entityName": "prison",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "troubles psychiques",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les troubles psychiques en détention.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "surpopulation",
+    "soins",
+    "internement"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel manque de soins ?",
+    "Quel rapport ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PRISON",
+    "#PSYCHIATRIE"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!DROITS"
+  ],
+  "isDeleted": false
+}

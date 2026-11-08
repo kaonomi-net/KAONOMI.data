@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-cyberharcelement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le harcèlement en ligne.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cyberharc[èe]lement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:harc[èe]lement\\s+en\\s+ligne)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:raid\\s+num[ée]rique)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:doxxing)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:menace(s)?\\s+en\\s+ligne)(?![\\w-])"
+  ],
+  "symbol": "cyberharcèlement",
+  "event": null,
+  "title": "Cyberharcèlement",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-demission",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "démission",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : Démission d'Emmanuel Macron ; Chute du gouvernement ; Démission d'un ministre ; Remaniement du collège des commissaires.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les appels à la démission du président et ses réponses.",
+    "Repérer la chute ou la démission du gouvernement.",
+    "Repérer les démissions de ministres et leurs raisons."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "démission",
+  "tags": [
+    "#FRANCE",
+    "#GOUVERNEMENT",
+    "#MACRON",
+    "#CRISE-POLITIQUE",
+    "#CRISE",
+    "#DEMISSION"
+  ],
+  "events": [
+    "@CHUTE-GOUVERNEMENT",
+    "@DEMISSION",
+    "@NOMINATION"
+  ],
+  "signals": [
+    "!CRISE-POLITIQUE",
+    "!GOUVERNANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "opposition",
+    "institutions",
+    "crise",
+    "Emmanuel Macron",
+    "nouveau Premier ministre",
+    "chute du gouvernement",
+    "censure",
+    "président",
+    "Matignon",
+    "désaccord"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-salles-de-consommation-a-moindre-risque",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Salles de consommation à moindre risque",
+  "includedEntities": [
+    {
+      "entityName": "salle de consommation",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "réduction des risques",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les haltes soins addictions et salles de consommation.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Strasbourg",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "réduction des risques",
+    "riverains",
+    "évaluation"
+  ],
+  "questions": [
+    "Quelle ouverture ?",
+    "Quel bilan ?",
+    "Quel débat ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADDICTIONS",
+    "#REDUCTION-DES-RISQUES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

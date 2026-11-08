@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-vice",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un penchant pour le mal.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vice(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:immoralit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:immoral(e|es|aux)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:amoral(e|es|aux)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:corrompu(e|s|es)?\\s+jusqu['’][àa]\\s+l['’]os)(?![\\w-])"
+  ],
+  "symbol": "vice",
+  "event": null,
+  "title": "Vice",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

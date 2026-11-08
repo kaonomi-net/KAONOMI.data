@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-faillite-d-une-plateforme-crypto",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Faillite d'une plateforme crypto",
+  "includedEntities": [
+    {
+      "entityName": "plateforme",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cryptoactifs",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "faillite",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les faillites ou piratages de plateformes de cryptoactifs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "piratage",
+    "retraits bloqués",
+    "enquête"
+  ],
+  "questions": [
+    "Quelle plateforme ?",
+    "Quel montant ?",
+    "Quelles victimes ?"
+  ],
+  "tags": [
+    "#CRYPTO",
+    "#RISQUE"
+  ],
+  "events": [
+    "@FAILLITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

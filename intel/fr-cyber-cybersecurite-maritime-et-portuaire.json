@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cybersecurite-maritime-et-portuaire",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cybersécurité maritime et portuaire",
+  "includedEntities": [
+    {
+      "entityName": "port",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "maritime",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les cyberattaques contre les ports et navires.",
+  "isFuzzy": true,
+  "locations": [
+    "Anvers",
+    "Marseille",
+    "Rotterdam"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "GPS",
+    "terminaux",
+    "armateurs"
+  ],
+  "questions": [
+    "Quel port ?",
+    "Quel impact ?",
+    "Quel attaquant ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#MARITIME"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

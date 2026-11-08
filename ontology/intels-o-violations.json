@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-violations",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "violations",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Trêve de Pâques et trêves temporaires.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les trêves temporaires et leur respect par les deux parties."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "violations",
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#TREVE"
+  ],
+  "events": [
+    "@TREVE"
+  ],
+  "signals": [
+    "!DESESCALADE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "temporaire",
+    "trêve",
+    "Kremlin",
+    "Zelensky",
+    "Pâques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

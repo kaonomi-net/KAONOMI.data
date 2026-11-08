@@ -1,0 +1,13 @@
+{
+  "index": 46,
+  "file": "0046-architecture-entreprise-explain-architecture-decision-records-in-simple.prompt.json",
+  "prompt": "Explain Architecture Decision Records in simple terms.",
+  "promptWords": 7,
+  "completion": "Architecture Decision Records (ADRs) are like a logbook or a set of notes that document important decisions made about the design and structure of a software system. Think of them as a way to keep track of why certain choices were made, what alternatives were considered, and what the outcomes were.\n\nHere’s a simple breakdown:\n\n1. **What’s the Problem?** – ADRs start by describing a specific issue or challenge that needs to be addressed in the software.\n2. **What Are the Options?** – They list the different solutions or approaches that could be taken to solve the problem.\n3. **Why Was This Decision Made?** – They explain why one option was chosen over the others, including the pros and cons of each.\n4. **What’s the Outcome?** – They might also note the results of the decision, like how it affected the system or the team.\n\nADRs help teams remember why things were done a certain way, especially when new members join or when the system needs to be updated later. They’re a way to keep knowledge organized and accessible.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:11:35.657038+02:00",
+  "durationSeconds": 5.53,
+  "stats": "mistral-small3.2:latest · 516 + 217 tokens · 5,5 s",
+  "isError": false,
+  "language": "EN"
+}

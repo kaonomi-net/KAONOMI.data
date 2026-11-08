@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-charogne",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un cadavre d'animal en décomposition.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:charogne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cadavre(s)?\\s+d['’]animal)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:b[êe]te(s)?\\s+crev[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crev[ée](e|s|es)?\\s+au\\s+bord\\s+de\\s+la\\s+route)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:charognard(s)?)(?![\\w-])"
+  ],
+  "symbol": "charogne",
+  "event": null,
+  "title": "Charogne",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

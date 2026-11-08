@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-macron-et-la-guerre-en-ukraine",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Macron et la guerre en Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "soutien",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les initiatives françaises sur l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Kyiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "coalition des volontaires",
+    "Zelensky",
+    "garanties de sécurité"
+  ],
+  "questions": [
+    "Quelle initiative ?",
+    "Quel soutien ?",
+    "Quel rôle dans les négociations ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#UKRAINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

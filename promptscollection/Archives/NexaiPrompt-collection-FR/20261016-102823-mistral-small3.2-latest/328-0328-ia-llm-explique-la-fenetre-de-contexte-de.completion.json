@@ -1,0 +1,13 @@
+{
+  "index": 328,
+  "file": "0328-ia-llm-explique-la-fenetre-de-contexte-de.prompt.json",
+  "prompt": "Explique la fenêtre de contexte de façon simple.",
+  "promptWords": 8,
+  "completion": "La fenêtre de contexte, c'est un peu comme une \"mémoire à court terme\" pour une conversation. Imagine que tu parles à un ami : si tu changes de sujet brusquement, ton ami pourrait être perdu parce qu'il ne comprend pas le lien entre les deux sujets.\n\nPour un assistant comme moi, la fenêtre de contexte permet de garder en tête les informations importantes des échanges précédents pour mieux comprendre et répondre à tes questions. Par exemple, si tu me demandes d'abord \"Quelle est la capitale de la France ?\" et ensuite \"Quel est son monument le plus célèbre ?\", je sais que \"son\" fait référence à Paris grâce au contexte précédent.\n\nEn résumé, c'est ce qui permet de maintenir une conversation cohérente et naturelle, même quand les sujets évoluent.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:25:19.7156507+02:00",
+  "durationSeconds": 3.41,
+  "stats": "mistral-small3.2:latest · 517 + 161 tokens · 3,4 s",
+  "isError": false,
+  "language": "FR"
+}

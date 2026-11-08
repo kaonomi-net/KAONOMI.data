@@ -1,0 +1,13 @@
+{
+  "index": 61,
+  "file": "061-empathie-meine-katze-ist-krank-und-ich.prompt.json",
+  "prompt": "Meine Katze ist krank und ich mache mir Sorgen.",
+  "promptWords": 9,
+  "completion": "Es tut mir leid zu hören, dass es deiner Katze nicht gut geht. Hier sind einige Schritte, die du unternehmen kannst:\n\n1. **Beobachte die Symptome**: Notiere dir genau, welche Symptome deine Katze zeigt (z. B. Erbrechen, Durchfall, Appetitlosigkeit, Lethargie, Atemprobleme etc.). Das hilft dem Tierarzt bei der Diagnose.\n\n2. **Kontaktiere einen Tierarzt**: Wenn die Symptome schwerwiegend oder anhaltend sind, solltest du so schnell wie möglich einen Tierarzt aufsuchen. Bei akuten Problemen wie starken Schmerzen, Atemnot oder Bewusstlosigkeit ist ein Notfallbesuch notwendig.\n\n3. **Erste Hilfe**: Falls deine Katze zum Beispiel Erbrechen hat, gib ihr keine Nahrung oder Wasser, bis der Tierarzt sie untersucht hat. Bei Durchfall kannst du versuchen, ihr etwas Kochsalzlösung zu geben, aber auch hier ist tierärztlicher Rat wichtig.\n\n4. **Stress reduzieren**: Versuche, deine Katze ruhig zu halten und Stress zu vermeiden, da Stress die Symptome verschlimmern kann.\n\nFalls du spezifische Symptome beschreiben möchtest, kann ich dir vielleicht weitere Ratschläge geben. Aber bitte beachte, dass ich keine medizinische Diagnose stellen kann und ein Tierarztbesuch immer die beste Option ist.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:09:19.5843302+02:00",
+  "durationSeconds": 6.06,
+  "stats": "mistral-small3.2:latest · 521 + 301 tokens · 6,1 s",
+  "isError": false,
+  "language": "DE"
+}

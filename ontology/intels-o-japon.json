@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-japon",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Japon",
+  "entityType": "COUNTRY",
+  "description": "Cité par 7 intels : Tensions autour de Taïwan ; Tirs de missiles nord-coréens ; Réarmement du Japon ; Sommet du G7 ; Macron et le Japon ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Surveiller les tensions militaires et diplomatiques autour de Taïwan.",
+    "Surveiller les essais et tirs de missiles de la Corée du Nord.",
+    "Suivre l'évolution de la politique de défense japonaise."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Japon",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#JAPON",
+    "#DIPLOMATIE",
+    "#TAIWAN",
+    "#CHINE",
+    "#COREE-DU-NORD"
+  ],
+  "events": [
+    "@MANOEUVRES-MILITAIRES",
+    "@TIR-MISSILE",
+    "@SOMMET"
+  ],
+  "signals": [
+    "!MENACE",
+    "!DIPLOMATIE",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Tokyo",
+    "Chine",
+    "États-Unis",
+    "défense",
+    "Union européenne",
+    "commerce",
+    "Indo-Pacifique",
+    "Taïwan",
+    "détroit",
+    "Taipei"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

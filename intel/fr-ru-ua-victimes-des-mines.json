@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-victimes-des-mines",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Victimes des mines",
+  "includedEntities": [
+    {
+      "entityName": "mines",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "victimes",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "explosion",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les civils tués ou blessés par des mines.",
+  "isFuzzy": true,
+  "locations": [
+    "Kharkiv",
+    "Kherson",
+    "Mykolaïv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "déminage",
+    "agriculteurs",
+    "enfants"
+  ],
+  "questions": [
+    "Combien de victimes ?",
+    "Quelle région ?",
+    "Quelle prévention ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#MINES",
+    "#CIVILS"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "isDeleted": false
+}

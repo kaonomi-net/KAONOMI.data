@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-canal-de-panama",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Canal de Panama",
+  "includedEntities": [
+    {
+      "entityName": "canal de Panama",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "trafic",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "sécheresse",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le fonctionnement et les enjeux politiques du canal de Panama.",
+  "isFuzzy": true,
+  "locations": [
+    "Panama"
+  ],
+  "times": [
+    "saison sèche"
+  ],
+  "relatedEntities": [
+    "États-Unis",
+    "Chine",
+    "sécheresse"
+  ],
+  "questions": [
+    "Quel trafic ?",
+    "Quelles restrictions ?",
+    "Quelles pressions politiques ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#COMMERCE",
+    "#MARITIME"
+  ],
+  "events": [],
+  "signals": [
+    "!PERTURBATION"
+  ],
+  "isDeleted": false
+}

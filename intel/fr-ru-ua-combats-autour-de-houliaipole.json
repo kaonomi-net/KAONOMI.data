@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-combats-autour-de-houliaipole",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Combats autour de Houliaïpole",
+  "includedEntities": [
+    {
+      "entityName": "Houliaïpole",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "assauts",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les assauts autour de Houliaïpole, prise par la Russie en janvier 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "Houliaïpole"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "armée russe",
+    "Zaporijia",
+    "Velyka Novosilka"
+  ],
+  "questions": [
+    "Quelles positions ?",
+    "Quels assauts ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ZAPORIJIA",
+    "#FRONT"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

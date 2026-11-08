@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-budget-et-election-presidentielle",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Budget et élection présidentielle",
+  "includedEntities": [
+    {
+      "entityName": "budget",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "présidentielle",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "promesses",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le lien entre l'état des finances et les promesses de campagne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "candidats",
+    "dette",
+    "chiffrage"
+  ],
+  "questions": [
+    "Quelles promesses ?",
+    "Sont-elles financées ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#PRESIDENTIELLE-2027"
+  ],
+  "events": [],
+  "signals": [
+    "!VERIFICATION"
+  ],
+  "isDeleted": false
+}

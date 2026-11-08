@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-belligerant",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une partie engagée dans une guerre.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bellig[ée]rant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:escalade\\s+militaire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:escalade\\s+du\\s+conflit)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mont[ée]e\\s+des\\s+tensions)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:engrenage)(?![\\w-])"
+  ],
+  "symbol": "belligérant",
+  "event": null,
+  "title": "Belligérant",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

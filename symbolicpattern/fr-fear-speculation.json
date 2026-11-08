@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-speculation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les opérations risquées sur les marchés.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sp[ée]culation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sp[ée]culati(f|fs|ve|ves))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sp[ée]cul(er|ateur|ateurs)|fonds\\s+vautour(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:casino\\s+financier)(?![\\w-])"
+  ],
+  "symbol": "spéculation",
+  "event": null,
+  "title": "Spéculation",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

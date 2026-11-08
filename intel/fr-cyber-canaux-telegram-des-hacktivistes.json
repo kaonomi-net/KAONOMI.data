@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-canaux-telegram-des-hacktivistes",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Canaux Telegram des hacktivistes",
+  "includedEntities": [
+    {
+      "entityName": "Telegram",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "hacktivistes",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les canaux Telegram utilisés par les hacktivistes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "revendications",
+    "recrutement",
+    "cibles"
+  ],
+  "questions": [
+    "Quel canal ?",
+    "Quelle cible annoncée ?",
+    "Quelle fermeture ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#HACKTIVISME",
+    "#TELEGRAM"
+  ],
+  "events": [],
+  "signals": [
+    "!VEILLE"
+  ],
+  "isDeleted": false
+}

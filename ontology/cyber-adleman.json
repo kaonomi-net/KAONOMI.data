@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptographie) : Informaticien américain, co-inventeur de RSA (1977).",
+  "id": "cyber-adleman",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Leonard Adleman",
+  "entityType": "PERSON",
+  "description": "Informaticien américain, co-inventeur de RSA (1977). Il a suggéré à son étudiant Fred Cohen le terme de « virus informatique ». Prix Turing 2002.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Lors de la conférence, l'oratrice a cité Leonard Adleman pour illustrer les progrès de la cryptographie.",
+    "Une biographie de Leonard Adleman rappelle son rôle dans la cryptographie.",
+    "Leonard Adleman est l'une des figures marquantes de la cryptographie."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Len Adleman"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTOGRAPHIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Leonard%20Adleman"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "RSA",
+    "Fred Cohen"
+  ],
+  "isDeleted": false,
+  "startDate": "1945-12-31T00:00:00",
+  "endDate": null
+}

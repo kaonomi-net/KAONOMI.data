@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-cendre",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui reste de ce qui a brûlé, des morts incinérés.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cendre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]duit(e|s|es)?\\s+en\\s+cendres)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:incin[ée]r([ée]|[ée]e|ation|er))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:poussi[èe]re(s)?)(?![\\w-])"
+  ],
+  "symbol": "cendre",
+  "event": null,
+  "title": "Cendre",
+  "tags": [
+    "#MORT",
+    "#CATASTROPHE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

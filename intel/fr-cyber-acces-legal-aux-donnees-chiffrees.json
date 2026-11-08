@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-acces-legal-aux-donnees-chiffrees",
+  "date": "2026-11-08T16:59:54.867552+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Accès légal aux données chiffrées",
+  "includedEntities": [
+    {
+      "entityName": "accès légal",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "portes dérobées",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les débats sur l'accès des autorités aux contenus chiffrés.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe",
+    "Royaume-Uni"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Chat Control",
+    "Apple",
+    "police"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quelle opposition ?",
+    "Quel compromis ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#VIE-PRIVEE",
+    "#REGULATION"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

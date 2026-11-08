@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-conflit-a-gaza",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Conflit à Gaza",
+  "includedEntities": [
+    {
+      "entityName": "Gaza",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Israël",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Hamas",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution du conflit à Gaza et la situation humanitaire.",
+  "isFuzzy": true,
+  "locations": [
+    "Gaza",
+    "Rafah"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "otages",
+    "aide humanitaire",
+    "Égypte"
+  ],
+  "questions": [
+    "Un cessez-le-feu est-il en vigueur ?",
+    "Quelle aide humanitaire entre ?",
+    "Quelles négociations sur les otages ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#MOYEN-ORIENT",
+    "#GAZA",
+    "#CONFLIT"
+  ],
+  "events": [
+    "@EVOLUTION-CONFLIT"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

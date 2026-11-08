@@ -1,0 +1,13 @@
+{
+  "index": 37,
+  "file": "0037-architecture-entreprise-explique-l-architecture-event-driven-de.prompt.json",
+  "prompt": "Explique l'architecture event-driven de façon simple.",
+  "promptWords": 6,
+  "completion": "L'architecture **event-driven** (ou architecture pilotée par les événements) est un modèle de conception logicielle où le flux du programme est déterminé par des **événements** plutôt que par une séquence linéaire d'instructions.\n\n### Explication simple :\n\n1. **Événements** :\n   - Un événement est une action ou un changement qui se produit dans le système (ex : un clic de souris, une entrée utilisateur, une mise à jour de données).\n   - Exemple : Quand tu cliques sur un bouton, cela déclenche un événement \"clic\".\n\n2. **Émetteurs et Récepteurs** :\n   - Un **émetteur** génère un événement (ex : un bouton qui est cliqué).\n   - Un **récepteur** (ou *listener*) réagit à cet événement (ex : une fonction qui affiche un message quand le bouton est cliqué).\n\n3. **Découplage** :\n   - Les composants du système ne sont pas directement liés entre eux. Ils communiquent via des événements.\n   - Exemple : Un module de gestion des utilisateurs peut émettre un événement \"utilisateur connecté\", et un autre module peut réagir en mettant à jour le tableau de bord.\n\n4. **Avantages** :\n   - **Flexibilité** : Facile d'ajouter ou modifier des fonctionnalités sans tout réécrire.\n   - **Réactivité** : Le système réagit rapidement aux changements.\n   - **Scalabilité** : Idéal pour les applications complexes avec beaucoup d'interactions.\n\n### Exemple concret :\nImagine une application de chat :\n- Quand tu envoies un message, un événement \"message envoyé\" est déclenché.\n- Le système réagit en affichant le message à l'écran et en l'envoyant au destinataire.\n\nEn résumé, l'architecture event-driven permet de créer des systèmes dynamiques et modulaires où les actions sont déclenchées par des événements plutôt que par un flux de contrôle rigide.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:36:13.9544746+02:00",
+  "durationSeconds": 8.65,
+  "stats": "mistral-small3.2:latest · 517 + 422 tokens · 8,6 s",
+  "isError": false,
+  "language": "FR"
+}

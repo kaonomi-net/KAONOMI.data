@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (les services financiers) : Portefeuille détenu par Mairead McGuinness, commissaire, dans la Commission von der Leyen I, du 12 octobre 2020 au 30 novembre 2024.",
+  "id": "eu-pf-vdl1-mcguinness",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Services financiers, stabilité financière et union des marchés des capitaux (Commission von der Leyen I)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Mairead McGuinness, commissaire, dans la Commission von der Leyen I, du 12 octobre 2020 au 30 novembre 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Le portefeuille « Services financiers, stabilité financière et union des marchés des capitaux (Commission von der Leyen I) » couvre les services financiers.",
+    "La lettre de mission du portefeuille « Services financiers, stabilité financière et union des marchés des capitaux (Commission von der Leyen I) » fixe les objectifs en matière des services financiers.",
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Services financiers, stabilité financière et union des marchés des capitaux (Commission von der Leyen I) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#SERVICESFINANCIERS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Services%20financiers%2C%20stabilit%C3%A9%20financi%C3%A8re%20et%20union%20des%20march%C3%A9s%20des%20capitaux%20%28Commission%20von%20der%20Leyen%20I%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Mairead McGuinness",
+    "Commission von der Leyen I",
+    "Commissaire européen",
+    "Services financiers",
+    "Union de l'épargne et des investissements",
+    "Démission de Phil Hogan"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-10-12T00:00:00",
+  "endDate": "2024-11-30T00:00:00"
+}

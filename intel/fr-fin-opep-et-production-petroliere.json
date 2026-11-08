@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-opep-et-production-petroliere",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "OPEP+ et production pétrolière",
+  "includedEntities": [
+    {
+      "entityName": "OPEP",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "production",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions de production de l'OPEP+.",
+  "isFuzzy": true,
+  "locations": [
+    "Vienne"
+  ],
+  "times": [
+    "réunions"
+  ],
+  "relatedEntities": [
+    "Arabie saoudite",
+    "Russie",
+    "quotas"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quel effet sur les prix ?",
+    "Quelles tensions ?"
+  ],
+  "tags": [
+    "#ENERGIE",
+    "#PETROLE",
+    "#OPEP"
+  ],
+  "events": [
+    "@DECISION"
+  ],
+  "signals": [
+    "!PRIX"
+  ],
+  "isDeleted": false
+}

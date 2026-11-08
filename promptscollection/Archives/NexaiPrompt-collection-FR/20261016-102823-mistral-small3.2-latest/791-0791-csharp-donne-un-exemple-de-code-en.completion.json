@@ -1,0 +1,13 @@
+{
+  "index": 791,
+  "file": "0791-csharp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C# qui illustre les délégués et les événements.",
+  "promptWords": 14,
+  "completion": "Voici un exemple de code en C# qui illustre l'utilisation des délégués et des événements. Cet exemple montre comment créer un événement personnalisé et comment s'abonner à cet événement :\n\n```csharp\nusing System;\n\n// Déclaration du délégué pour l'événement\npublic delegate void MonEvenementHandler(object sender, EventArgs e);\n\n// Classe qui déclenche l'événement\npublic class Emetteur\n{\n    // Déclaration de l'événement\n    public event MonEvenementHandler MonEvenement;\n\n    // Méthode pour déclencher l'événement\n    public void DeclencherEvenement()\n    {\n        Console.WriteLine(\"Événement déclenché !\");\n\n        // Vérifie si l'événement a des abonnés avant de le déclencher\n        MonEvenement?.Invoke(this, EventArgs.Empty);\n    }\n}\n\n// Classe qui s'abonne à l'événement\npublic class Abonne\n{\n    public Abonne(Emetteur emetteur)\n    {\n        // S'abonner à l'événement\n        emetteur.MonEvenement += GestionnaireEvenement;\n    }\n\n    // Méthode gestionnaire de l'événement\n    private void GestionnaireEvenement(object sender, EventArgs e)\n    {\n        Console.WriteLine(\"Événement reçu par l'abonné !\");\n    }\n}\n\nclass Programme\n{\n    static void Main()\n    {\n        Emetteur emetteur = new Emetteur();\n        Abonne abonne = new Abonne(emetteur);\n\n        // Déclenchement de l'événement\n        emetteur.DeclencherEvenement();\n    }\n}\n```\n\n### Explication :\n1. **Délégué** : `MonEvenementHandler` est un délégué qui définit la signature de la méthode qui gérera l'événement.\n2. **Événement** : `MonEvenement` est déclaré dans la classe `Emetteur` en utilisant le délégué.\n3. **Abonnement** : La classe `Abonne` s'abonne à l'événement `MonEvenement` en utilisant l'opérateur `+=`.\n4. **Déclenchement** : La méthode `DeclencherEvenement` dans la classe `Emetteur` déclenche l'événement en appelant le délégué.\n\nLorsque vous exécutez ce code, vous verrez les messages suivants dans la console :\n```\nÉvénement déclenché !\nÉvénement reçu par l'abonné !\n```",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:14:25.006419+02:00",
+  "durationSeconds": 10.65,
+  "stats": "mistral-small3.2:latest · 526 + 521 tokens · 10,6 s",
+  "isError": false,
+  "language": "FR"
+}

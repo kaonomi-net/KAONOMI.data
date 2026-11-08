@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-inventaire-cryptographique",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Inventaire cryptographique",
+  "includedEntities": [
+    {
+      "entityName": "inventaire cryptographique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "agilité cryptographique",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les démarches d'inventaire et d'agilité cryptographique des organisations.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "CBOM",
+    "certificats",
+    "bibliothèques"
+  ],
+  "questions": [
+    "Quelle méthode ?",
+    "Quel outil ?",
+    "Quel avancement ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#GOUVERNANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "isDeleted": false
+}

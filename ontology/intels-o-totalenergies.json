@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-totalenergies",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "TotalEnergies",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 4 intels : Prix des carburants ; TotalEnergies ; Rachats d'actions des grands groupes ; Capitalisation boursière du CAC 40.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les prix à la pompe.",
+    "Suivre l'action TotalEnergies, au plus haut après un bénéfice ajusté de 9,1 milliards de dollars au troisième trimestre 2026.",
+    "Suivre les programmes de rachat d'actions."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "TotalEnergies",
+  "tags": [
+    "#BOURSE",
+    "#ENERGIE",
+    "#CAC40",
+    "#CARBURANTS",
+    "#ACTIONNAIRES",
+    "#CAPITALISATION"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS",
+    "@ANNONCE"
+  ],
+  "signals": [
+    "!PRIX",
+    "!RESULTATS",
+    "!ACTIONNAIRES"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Brent",
+    "Paris",
+    "rachats d'actions",
+    "Belgique",
+    "essence",
+    "taxes",
+    "diesel",
+    "France",
+    "carburants",
+    "pétrole"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

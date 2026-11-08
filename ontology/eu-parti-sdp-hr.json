@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Parti social-démocrate de Croatie (SDP), parti politique de ce pays : Croatie.",
+  "id": "eu-parti-sdp-hr",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti social-démocrate de Croatie (SDP)",
+  "entityType": "ORGANISATION",
+  "description": "Parti social-démocrate de Croatie (SDP), parti politique de ce pays : Croatie. Il est affilié à la famille Socialistes et démocrates (S&D).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "« Parti social-démocrate de Croatie (SDP) » joue un rôle dans la vie politique nationale.",
+    "Les fonctionnaires de « Parti social-démocrate de Croatie (SDP) » préparent les textes relatifs à la vie politique nationale.",
+    "La délégation a rencontré des représentants de « Parti social-démocrate de Croatie (SDP) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20social-d%C3%A9mocrate%20de%20Croatie%20%28SDP%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Croatie",
+    "Socialistes et démocrates (S&D)",
+    "Neven Mimica"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

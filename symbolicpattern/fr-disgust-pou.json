@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-pou",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un parasite des cheveux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:poux)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pou)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lente(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pouilleu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:shampoing\\s+anti-poux)(?![\\w-])"
+  ],
+  "symbol": "pou",
+  "event": null,
+  "title": "Pou",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

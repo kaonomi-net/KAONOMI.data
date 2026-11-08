@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-guerre-hybride-en-europe",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Guerre hybride en Europe",
+  "includedEntities": [
+    {
+      "entityName": "guerre hybride",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sabotage",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les actions hybrides mêlant cyber, sabotage et désinformation.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Russie",
+    "câbles",
+    "drones"
+  ],
+  "questions": [
+    "Quelle action ?",
+    "Quelle attribution ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#GUERRE-HYBRIDE"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

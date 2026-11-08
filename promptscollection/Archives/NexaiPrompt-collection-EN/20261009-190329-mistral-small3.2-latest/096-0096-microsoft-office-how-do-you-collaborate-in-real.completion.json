@@ -1,0 +1,13 @@
+{
+  "index": 96,
+  "file": "0096-microsoft-office-how-do-you-collaborate-in-real.prompt.json",
+  "prompt": "How do you collaborate in real time on an Office document?",
+  "promptWords": 11,
+  "completion": "To collaborate in real time on an Office document, you can use the following methods depending on the specific Office application you're using:\n\n### **Microsoft Word, Excel, or PowerPoint (Online or Desktop)**\n1. **Save the document to OneDrive or SharePoint**:\n   - Open the document in the desktop app or go to [Office.com](https://www.office.com) and open it in the browser.\n   - Click **File > Save As** and choose **OneDrive** or **SharePoint** as the location.\n\n2. **Share the document for real-time collaboration**:\n   - Click **Share** (top-right corner).\n   - Enter the email addresses of people you want to collaborate with.\n   - Set permissions (e.g., **Edit** or **View**).\n   - Click **Send** or **Apply**.\n\n3. **Start co-authoring**:\n   - Once shared, collaborators can open the document in their browsers or desktop apps.\n   - Changes appear in real time, and you can see who is editing.\n\n### **Microsoft Outlook (for sharing documents via email)**\n- Attach the document to an email and enable **Editing** permissions.\n- Recipients can open, edit, and save changes back to OneDrive/SharePoint.\n\n### **Microsoft Teams (for team collaboration)**\n- Upload the document to a **Teams channel** or **SharePoint**.\n- Click the **three dots (⋯)** next to the file and select **Open in Word/Excel/PowerPoint**.\n- Invite team members to edit in real time.\n\nWould you like help with a specific Office application or scenario?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:21:59.1277877+02:00",
+  "durationSeconds": 8.1,
+  "stats": "mistral-small3.2:latest · 519 + 331 tokens · 8,1 s",
+  "isError": false,
+  "language": "EN"
+}

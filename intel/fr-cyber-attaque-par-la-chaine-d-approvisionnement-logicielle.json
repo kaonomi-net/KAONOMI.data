@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-attaque-par-la-chaine-d-approvisionnement-logicielle",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Attaque par la chaîne d'approvisionnement logicielle",
+  "includedEntities": [
+    {
+      "entityName": "chaîne d'approvisionnement",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "paquets",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "npm",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques via des paquets ou dépendances piégés.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "npm",
+    "PyPI",
+    "GitHub"
+  ],
+  "questions": [
+    "Quel paquet ?",
+    "Combien de téléchargements ?",
+    "Quelle détection ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SUPPLY-CHAIN",
+    "#OPEN-SOURCE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-greve",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'arrêt collectif du travail.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:gr[èe]ve(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gr[ée]viste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gr[èe]ve\\s+g[ée]n[ée]rale)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:paralysie\\s+du\\s+pays)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pays\\s+bloqu[ée])(?![\\w-])"
+  ],
+  "symbol": "grève",
+  "event": null,
+  "title": "Grève",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

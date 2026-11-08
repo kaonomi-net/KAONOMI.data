@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-rationnement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La limitation de ce que chacun peut acheter.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:rationnement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rationn(er|[ée]|[ée]e)|ticket(s)?\\s+de\\s+rationnement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:quota(s)?\\s+par\\s+personne)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tickets\\s+de\\s+restriction)(?![\\w-])"
+  ],
+  "symbol": "rationnement",
+  "event": null,
+  "title": "Rationnement",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

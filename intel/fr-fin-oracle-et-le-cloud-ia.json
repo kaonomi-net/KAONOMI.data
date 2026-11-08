@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-oracle-et-le-cloud-ia",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Oracle et le cloud IA",
+  "includedEntities": [
+    {
+      "entityName": "Oracle",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "cloud",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Oracle et ses contrats de cloud pour l'IA.",
+  "isFuzzy": false,
+  "locations": [
+    "Austin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "OpenAI",
+    "Stargate",
+    "dette"
+  ],
+  "questions": [
+    "Quel carnet de commandes ?",
+    "Quelle dette ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#IA",
+    "#CLOUD"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

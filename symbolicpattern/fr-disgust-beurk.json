@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-beurk",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'interjection du dégoût.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:beurk)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:berk)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pouah)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:yuck)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:b[êe][êe]h)(?![\\w-])"
+  ],
+  "symbol": "beurk",
+  "event": null,
+  "title": "Beurk",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

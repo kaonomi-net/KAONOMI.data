@@ -1,0 +1,63 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la présidence de la Commission) : Ancien Premier ministre du Portugal (2002-2004), président de la Commission européenne de 2004 à 2014.",
+  "id": "eu-p-barroso",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "José Manuel Barroso",
+  "entityType": "PERSON",
+  "description": "Ancien Premier ministre du Portugal (2002-2004), président de la Commission européenne de 2004 à 2014.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-presidents-commission",
+  "sentencesExemples": [
+    "José Manuel Barroso est une figure de la présidence de la Commission.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de José Manuel Barroso.",
+    "Lors du point de presse de midi, une question portait sur José Manuel Barroso."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Barroso",
+    "José Manuel Durão Barroso"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PRESIDENCECOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Jos%C3%A9%20Manuel%20Barroso"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission Barroso I",
+    "Commission Barroso II",
+    "nationalité portugaise",
+    "Parti social-démocrate (PSD)",
+    "Professeur d'université",
+    "Chef de gouvernement",
+    "Ministre des Affaires étrangères",
+    "Président de la Commission européenne",
+    "Présidence de la Commission (Commission Barroso II)",
+    "Communication et présidence",
+    "Présidence de la Commission (Commission Barroso I)",
+    "Élargissement de 2007",
+    "Adhésion de la Croatie",
+    "Prix Nobel de la paix décerné à l'Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-attaque",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "attaque",
+  "entityType": "EVENT",
+  "description": "Cité par 4 intels : Attaques sur Kyiv ; Attaques dans la région de Belgorod ; Navires marchands visés en mer Noire ; Injection de prompt.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Surveiller les attaques de missiles et de drones contre la capitale.",
+    "Suivre les frappes et incursions dans la région frontalière de Belgorod.",
+    "Repérer les attaques contre des navires civils en mer Noire."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "attaque",
+  "tags": [
+    "#UKRAINE",
+    "#KYIV",
+    "#FRAPPES",
+    "#RUSSIE",
+    "#BELGOROD",
+    "#FRONTIERE"
+  ],
+  "events": [
+    "@FRAPPE",
+    "@INCIDENT-MARITIME",
+    "@INCIDENT-SECURITE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!CONFLIT",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kyiv",
+    "victimes",
+    "frappe",
+    "défense antiaérienne",
+    "bâtiments",
+    "Chebekino",
+    "Belgorod",
+    "frontière",
+    "Chouvaïev",
+    "évacuations"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

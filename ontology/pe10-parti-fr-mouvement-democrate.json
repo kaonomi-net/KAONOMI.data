@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Mouvement Démocrate, parti ou liste de ce pays : France, qui compte 3 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-fr-mouvement-democrate",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Mouvement Démocrate",
+  "entityType": "ORGANISATION",
+  "description": "Mouvement Démocrate, parti ou liste de ce pays : France, qui compte 3 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "La presse a commenté le score de « Mouvement Démocrate » aux élections européennes.",
+    "Les positions de « Mouvement Démocrate » sont suivies à Bruxelles et à Strasbourg.",
+    "« Mouvement Démocrate » compte des élus au Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Mouvement%20D%C3%A9mocrate"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Laurence Farreng",
+    "Sandro Gozi",
+    "Christophe Grudler",
+    "France",
+    "Renew Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

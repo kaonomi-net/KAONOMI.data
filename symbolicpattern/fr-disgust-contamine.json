@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-contamine",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Souillé par un agent nocif.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:contamin[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:contamination(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:infect[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souill[ée](e|s|es)?\\s+par)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:impropre(s)?\\s+[àa]\\s+la\\s+consommation)(?![\\w-])"
+  ],
+  "symbol": "contaminé",
+  "event": null,
+  "title": "Contaminé",
+  "tags": [
+    "#DISGUST",
+    "#INSALUBRITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

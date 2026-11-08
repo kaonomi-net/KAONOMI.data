@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-obsede",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une personne aux pensées sexuelles envahissantes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:obs[ée]d[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:obs[ée]d[ée](e|s|es)?\\s+sexuel(le|s|les)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lubrique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:libidineu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vieux\\s+cochon(s)?)(?![\\w-])"
+  ],
+  "symbol": "obsédé",
+  "event": null,
+  "title": "Obsédé",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

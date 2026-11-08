@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-enfants-ukrainiens",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "enfants ukrainiens",
+  "entityType": "PROFESSION",
+  "description": "Cité par 2 intels : Médiation du Vatican ; Retour des enfants ukrainiens.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les initiatives du Saint-Siège, notamment pour les enfants et les prisonniers.",
+    "Suivre les négociations sur le retour des enfants transférés en Russie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "enfants ukrainiens",
+  "tags": [
+    "#UKRAINE",
+    "#HUMANITAIRE",
+    "#VATICAN",
+    "#RUSSIE",
+    "#ENFANTS"
+  ],
+  "events": [
+    "@RETOUR-ENFANTS"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!HUMANITAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Vatican",
+    "pape",
+    "médiation",
+    "humanitaire",
+    "Rome",
+    "prisonniers",
+    "CPI",
+    "Qatar",
+    "retour"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

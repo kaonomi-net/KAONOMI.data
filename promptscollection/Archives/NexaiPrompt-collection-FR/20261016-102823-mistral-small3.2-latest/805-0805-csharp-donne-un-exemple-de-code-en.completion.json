@@ -1,0 +1,13 @@
+{
+  "index": 805,
+  "file": "0805-csharp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C# qui illustre les expressions lambda.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en C# qui illustre l'utilisation des expressions lambda :\n\n```csharp\nusing System;\nusing System.Collections.Generic;\n\nclass Program\n{\n    static void Main()\n    {\n        // Exemple 1 : Expression lambda simple\n        Func<int, int> carre = x => x * x;\n        Console.WriteLine(\"Le carré de 5 est : \" + carre(5));\n\n        // Exemple 2 : Expression lambda avec plusieurs instructions\n        Action<string> afficherMessage = message =>\n        {\n            Console.WriteLine(\"Message : \" + message);\n            Console.WriteLine(\"Longueur du message : \" + message.Length);\n        };\n        afficherMessage(\"Bonjour le monde !\");\n\n        // Exemple 3 : Utilisation avec LINQ\n        List<int> nombres = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };\n\n        // Filtrer les nombres pairs\n        var nombresPairs = nombres.Where(n => n % 2 == 0);\n        Console.WriteLine(\"\\nNombres pairs :\");\n        foreach (var nombre in nombresPairs)\n        {\n            Console.WriteLine(nombre);\n        }\n\n        // Trier les nombres par ordre décroissant\n        var nombresTries = nombres.OrderByDescending(n => n);\n        Console.WriteLine(\"\\nNombres triés par ordre décroissant :\");\n        foreach (var nombre in nombresTries)\n        {\n            Console.WriteLine(nombre);\n        }\n    }\n}\n```\n\nCe code montre plusieurs aspects des expressions lambda en C# :\n\n1. Une expression lambda simple qui calcule le carré d'un nombre\n2. Une expression lambda avec plusieurs instructions qui affiche un message et sa longueur\n3. L'utilisation des expressions lambda avec LINQ pour filtrer et trier une liste de nombres\n\nLes expressions lambda sont particulièrement utiles pour écrire du code plus concis et lisible, surtout lorsqu'elles sont utilisées avec des méthodes comme Where, Select, OrderBy, etc. dans LINQ.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:17:02.1176609+02:00",
+  "durationSeconds": 8.82,
+  "stats": "mistral-small3.2:latest · 523 + 432 tokens · 8,8 s",
+  "isError": false,
+  "language": "FR"
+}

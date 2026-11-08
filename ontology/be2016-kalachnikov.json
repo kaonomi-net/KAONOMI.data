@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Objet des attentats de Bruxelles de 2016 (la traque de la cellule) : Arme de type kalachnikov utilisée lors de la fusillade de Forest et retrouvée près du corps de Mohamed Belkaïd.",
+  "id": "be2016-kalachnikov",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Fusil d'assaut de la rue du Dries",
+  "entityType": "MATERIAL",
+  "description": "Arme de type kalachnikov utilisée lors de la fusillade de Forest et retrouvée près du corps de Mohamed Belkaïd.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-objets",
+  "sentencesExemples": [
+    "Les enquêteurs ont analysé « Fusil d'assaut de la rue du Dries ».",
+    "Les rapports techniques décrivent « Fusil d'assaut de la rue du Dries ».",
+    "« Fusil d'assaut de la rue du Dries » fait partie des éléments retenus par l'enquête sur la traque de la cellule."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 2,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 1,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDE9",
+  "synonyms": [
+    "kalachnikov de Forest"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#MATERIAL",
+    "#TRAQUECELLULE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fusil%20d%27assaut%20de%20la%20rue%20du%20Dries"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Fusillade de la rue du Dries"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-interdiction-du-paiement-des-rancons",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Interdiction du paiement des rançons",
+  "includedEntities": [
+    {
+      "entityName": "interdiction",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "rançons",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les projets d'interdiction du paiement des rançons par les organismes publics.",
+  "isFuzzy": true,
+  "locations": [
+    "Royaume-Uni",
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "secteur public",
+    "déclaration obligatoire",
+    "sanctions"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Quel périmètre ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#REGULATION"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

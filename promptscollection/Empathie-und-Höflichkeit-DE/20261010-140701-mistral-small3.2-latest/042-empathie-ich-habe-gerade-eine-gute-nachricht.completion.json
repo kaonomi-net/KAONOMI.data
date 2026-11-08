@@ -1,0 +1,13 @@
+{
+  "index": 42,
+  "file": "042-empathie-ich-habe-gerade-eine-gute-nachricht.prompt.json",
+  "prompt": "Ich habe gerade eine gute Nachricht bekommen: Ich werde Vater!",
+  "promptWords": 10,
+  "completion": "Herzlichen Glückwunsch zur freudigen Nachricht! Das ist wirklich etwas Besonderes. \uD83C\uDF89\n\nWie fühlst du dich bei dem Gedanken, bald Vater zu werden? Gibt es schon konkrete Pläne oder Fragen, die du hast? Ich bin gespannt, wie deine Reise in die Elternschaft weitergeht! \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:08:05.2658796+02:00",
+  "durationSeconds": 1.65,
+  "stats": "mistral-small3.2:latest · 519 + 72 tokens · 1,6 s",
+  "isError": false,
+  "language": "DE"
+}

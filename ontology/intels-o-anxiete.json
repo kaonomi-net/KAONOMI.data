@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-anxiete",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "anxiété",
+  "entityType": "DOMAIN",
+  "description": "Cité par 8 intels : Enquête de santé de Sciensano ; Phobie scolaire ; Anxiété face à l'intelligence artificielle ; Troubles anxieux ; Baromètre de Santé publique France ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les enquêtes de Sciensano sur la santé mentale de la population belge.",
+    "Suivre la phobie scolaire et le refus scolaire anxieux.",
+    "Suivre l'inquiétude suscitée par l'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 38,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "anxiété",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ANXIETE",
+    "#ENQUETE",
+    "#BELGIQUE",
+    "#ENFANCE",
+    "#IA"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!FEAR",
+    "!INDICATEUR",
+    "!SANTE-MENTALE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "dépression",
+    "France",
+    "sondages",
+    "bien-être",
+    "enquête",
+    "Sciensano",
+    "Bruxelles",
+    "Belgique",
+    "phobie scolaire",
+    "refus scolaire anxieux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

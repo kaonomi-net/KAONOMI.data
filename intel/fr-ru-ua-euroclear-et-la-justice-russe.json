@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-euroclear-et-la-justice-russe",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Euroclear et la justice russe",
+  "includedEntities": [
+    {
+      "entityName": "Euroclear",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "tribunal",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les procédures russes contre Euroclear, dépositaire des avoirs gelés.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Banque de Russie",
+    "avoirs gelés",
+    "compensation"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quel montant ?",
+    "Quelle exécution possible ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#EUROCLEAR",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!RISQUE-JURIDIQUE"
+  ],
+  "isDeleted": false
+}

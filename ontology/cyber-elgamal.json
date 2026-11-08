@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (la cryptographie à clé publique) : Chiffrement et signature à clé publique de Taher Elgamal, dérivés de l'échange Diffie-Hellman.",
+  "id": "cyber-elgamal",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Chiffrement ElGamal",
+  "entityType": "ALGORITHM",
+  "description": "Chiffrement et signature à clé publique de Taher Elgamal, dérivés de l'échange Diffie-Hellman.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Comprendre Chiffrement ElGamal est une étape clé pour maîtriser la cryptographie à clé publique.",
+    "Dans le domaine de la cryptographie à clé publique, Chiffrement ElGamal reste une référence.",
+    "Pour ce projet, l'équipe a implémenté Chiffrement ElGamal à l'aide d'une bibliothèque éprouvée."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "ElGamal"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CRYPTOGRAPHIEACLEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Chiffrement%20ElGamal"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Échange de clés Diffie-Hellman",
+    "DSA",
+    "GnuPG"
+  ],
+  "isDeleted": false,
+  "startDate": "1985-01-01T00:00:00",
+  "endDate": null
+}

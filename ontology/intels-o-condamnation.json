@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-condamnation",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "condamnation",
+  "entityType": "LAW",
+  "description": "Cité par 3 intels : Affaires judiciaires de candidats ; Affaires de corruption politique ; Procès de cybercriminels.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre les procédures judiciaires visant des candidats.",
+    "Repérer les affaires de corruption touchant des responsables publics.",
+    "Suivre les procès de cybercriminels."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "condamnation",
+  "tags": [
+    "#JUSTICE",
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#CORRUPTION",
+    "#CYBERSECURITE"
+  ],
+  "events": [
+    "@DECISION-JUSTICE",
+    "@ENQUETE",
+    "@CONDAMNATION"
+  ],
+  "signals": [
+    "!RISQUE-JURIDIQUE",
+    "!SCANDALE",
+    "!JUSTICE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "procès",
+    "enquête",
+    "candidat",
+    "justice",
+    "parquet",
+    "parquet national financier",
+    "corruption",
+    "élu",
+    "victimes",
+    "pirates"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

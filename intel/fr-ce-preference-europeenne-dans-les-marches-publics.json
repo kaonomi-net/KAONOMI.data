@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-preference-europeenne-dans-les-marches-publics",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Préférence européenne dans les marchés publics",
+  "includedEntities": [
+    {
+      "entityName": "préférence européenne",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "marchés publics",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la révision des règles de marchés publics et la préférence européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Séjourné",
+    "achat européen",
+    "réciprocité"
+  ],
+  "questions": [
+    "Quelle règle ?",
+    "Quels secteurs ?",
+    "Quelle réaction des partenaires ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MARCHES-PUBLICS",
+    "#SOUVERAINETE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

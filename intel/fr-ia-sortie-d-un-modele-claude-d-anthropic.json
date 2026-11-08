@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-sortie-d-un-modele-claude-d-anthropic",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Sortie d'un modèle Claude d'Anthropic",
+  "includedEntities": [
+    {
+      "entityName": "Anthropic",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Claude",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "modèle",
+      "entityWeight": "10"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les nouvelles versions de Claude et les changements de politique d'usage.",
+  "isFuzzy": false,
+  "locations": [
+    "San Francisco"
+  ],
+  "times": [
+    "jour de l'annonce"
+  ],
+  "relatedEntities": [
+    "Dario Amodei",
+    "Amazon",
+    "Google"
+  ],
+  "questions": [
+    "Quelle fenêtre de contexte ?",
+    "Quelles nouveautés en sécurité ?",
+    "Quel accès pour l'Europe ?"
+  ],
+  "tags": [
+    "#IA",
+    "#LLM",
+    "#ANTHROPIC"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!NOUVEAUTE"
+  ],
+  "isDeleted": false
+}

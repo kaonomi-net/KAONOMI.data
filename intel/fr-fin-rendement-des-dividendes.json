@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-rendement-des-dividendes",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Rendement des dividendes",
+  "includedEntities": [
+    {
+      "entityName": "rendement",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "dividendes",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les rendements des dividendes en Bourse.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "banques",
+    "énergie",
+    "assurance"
+  ],
+  "questions": [
+    "Quel rendement ?",
+    "Quelle valeur ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#DIVIDENDES"
+  ],
+  "events": [],
+  "signals": [
+    "!ACTIONNAIRES"
+  ],
+  "isDeleted": false
+}

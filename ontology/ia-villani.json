@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (les politiques publiques) : Mathématicien français, médaille Fields 2010, auteur en 2018 du rapport « Donner un sens à l'intelligence artificielle » pour le gouvernement.",
+  "id": "ia-villani",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Cédric Villani",
+  "entityType": "PERSON",
+  "description": "Mathématicien français, médaille Fields 2010, auteur en 2018 du rapport « Donner un sens à l'intelligence artificielle » pour le gouvernement.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Une biographie de Cédric Villani rappelle son rôle dans les politiques publiques.",
+    "Cédric Villani est l'une des figures marquantes des politiques publiques.",
+    "Lors de la conférence, l'oratrice a cité Cédric Villani pour illustrer les progrès des politiques publiques."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "C. Villani"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#POLITIQUESPUBLIQUES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=C%C3%A9dric%20Villani"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Publication du rapport Villani"
+  ],
+  "isDeleted": false,
+  "startDate": "1973-10-05T00:00:00",
+  "endDate": null
+}

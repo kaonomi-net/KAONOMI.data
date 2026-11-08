@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (les logiciels malveillants) : Virus de l'Apple II écrit par un lycéen, l'un des premiers virus à se répandre hors d'un laboratoire.",
+  "id": "cyber-elk-cloner",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Elk Cloner",
+  "entityType": "SOFTWARE",
+  "description": "Virus de l'Apple II écrit par un lycéen, l'un des premiers virus à se répandre hors d'un laboratoire.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "En atelier, les élèves ont découvert Elk Cloner et son fonctionnement.",
+    "L'équipe a comparé Elk Cloner avec d'autres outils des logiciels malveillants.",
+    "Elk Cloner figure parmi les logiciels marquants des logiciels malveillants."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Elk Cloner"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#LOGICIELSMALVEILLANTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Elk%20Cloner"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Brain"
+  ],
+  "isDeleted": false,
+  "startDate": "1982-01-01T00:00:00",
+  "endDate": null
+}

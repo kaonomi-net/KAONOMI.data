@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (l'apprentissage par renforcement) : Chercheur américain de l'université du Massachusetts, co-auteur avec Richard Sutton de « Reinforcement Learning: An Introduction ».",
+  "id": "ia-barto",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Andrew Barto",
+  "entityType": "PERSON",
+  "description": "Chercheur américain de l'université du Massachusetts, co-auteur avec Richard Sutton de « Reinforcement Learning: An Introduction ». Prix Turing 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Andrew Barto est l'une des figures marquantes de l'apprentissage par renforcement.",
+    "Lors de la conférence, l'oratrice a cité Andrew Barto pour illustrer les progrès de l'apprentissage par renforcement.",
+    "Une biographie de Andrew Barto rappelle son rôle dans l'apprentissage par renforcement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Andrew G. Barto"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#APPRENTISSAGEPARRENFORCEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Andrew%20Barto"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Richard Sutton"
+  ],
+  "isDeleted": false,
+  "startDate": "1948-01-01T00:00:00",
+  "endDate": null
+}

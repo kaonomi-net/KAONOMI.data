@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-ia-embarquee-sur-smartphone",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "IA embarquée sur smartphone",
+  "includedEntities": [
+    {
+      "entityName": "smartphone",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "IA embarquée",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "puce",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre l'IA qui fonctionne directement sur les téléphones.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "lancement des nouveaux téléphones"
+  ],
+  "relatedEntities": [
+    "Apple Intelligence",
+    "Galaxy AI",
+    "NPU"
+  ],
+  "questions": [
+    "Quelles fonctions ?",
+    "Fonctionne-t-elle hors ligne ?",
+    "Quelles données partent dans le cloud ?"
+  ],
+  "tags": [
+    "#IA",
+    "#SMARTPHONE",
+    "#EDGE"
+  ],
+  "events": [
+    "@LANCEMENT-MATERIEL"
+  ],
+  "signals": [
+    "!NOUVEAUTE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-barbarie",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une cruauté extrême.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:barbarie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:barbare(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:atrocit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inhumain(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sauvagerie(s)?)(?![\\w-])"
+  ],
+  "symbol": "barbarie",
+  "event": null,
+  "title": "Barbarie",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

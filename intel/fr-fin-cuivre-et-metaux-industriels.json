@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-cuivre-et-metaux-industriels",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Cuivre et métaux industriels",
+  "includedEntities": [
+    {
+      "entityName": "cuivre",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "métaux",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prix du cuivre et des métaux industriels.",
+  "isFuzzy": true,
+  "locations": [
+    "Londres"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Chine",
+    "électrification",
+    "centres de données"
+  ],
+  "questions": [
+    "Quel prix ?",
+    "Quelle demande ?",
+    "Quelle pénurie ?"
+  ],
+  "tags": [
+    "#MATIERES-PREMIERES",
+    "#METAUX"
+  ],
+  "events": [],
+  "signals": [
+    "!PRIX"
+  ],
+  "isDeleted": false
+}

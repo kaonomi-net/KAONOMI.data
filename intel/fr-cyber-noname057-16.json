@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-noname057-16",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "NoName057(16)",
+  "includedEntities": [
+    {
+      "entityName": "NoName057",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "DDoS",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les campagnes DDoS du groupe prorusse NoName057(16).",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "sites publics",
+    "Telegram",
+    "Europol"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quel pays ?",
+    "Quelle arrestation ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DDOS",
+    "#RUSSIE"
+  ],
+  "events": [
+    "@DDOS"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

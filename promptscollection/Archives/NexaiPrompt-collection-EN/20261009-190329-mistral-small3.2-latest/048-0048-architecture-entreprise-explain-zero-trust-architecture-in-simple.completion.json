@@ -1,0 +1,13 @@
+{
+  "index": 48,
+  "file": "0048-architecture-entreprise-explain-zero-trust-architecture-in-simple.prompt.json",
+  "prompt": "Explain zero trust architecture in simple terms.",
+  "promptWords": 7,
+  "completion": "Zero Trust Architecture is a security approach that operates on the principle of \"never trust, always verify.\" Here's a simple breakdown:\n\n1. **No Automatic Trust**: Unlike traditional security models that trust users and devices inside a network, Zero Trust assumes that no one—inside or outside the network—should be trusted by default.\n\n2. **Continuous Verification**: Every access request is verified before granting permission. This means checking who the user is, what device they're using, and what they're trying to access.\n\n3. **Least Privilege Access**: Users and devices are only given the minimum level of access necessary to complete their tasks. This limits the potential damage if a breach occurs.\n\n4. **Micro-Segmentation**: The network is divided into smaller segments, so even if one part is compromised, the rest remain secure.\n\n5. **Multi-Factor Authentication (MFA)**: Often used to add an extra layer of security, requiring more than just a password to verify identity.\n\n6. **Continuous Monitoring**: The system constantly monitors for suspicious activity and can respond to threats in real-time.\n\nIn essence, Zero Trust is like a bouncer at an exclusive club who checks every guest's ID and purpose for entry, no matter how familiar they seem. This approach helps protect against both external and internal threats.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:11:48.776244+02:00",
+  "durationSeconds": 6.52,
+  "stats": "mistral-small3.2:latest · 516 + 269 tokens · 6,5 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Classe de l'ontologie : Cybersécurité › Algorithmes et protocoles.",
+  "id": "cyber-algorithmes",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Algorithmes et protocoles",
+  "entityType": "ALGORITHM",
+  "description": "Les chiffrements, fonctions de hachage, signatures, échanges de clés, protocoles et modèles de sécurité.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-racine",
+  "sentencesExemples": [
+    "La branche « Algorithmes et protocoles » de l'ontologie regroupe les entrées de ce thème.",
+    "Pour explorer « Algorithmes et protocoles », ouvrez la branche dans la fenêtre de l'ontologie.",
+    "Chaque entrée de « Algorithmes et protocoles » est reliée à d'autres par des relations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": true,
+  "symbol": "\uD83D\uDCC2",
+  "synonyms": [
+    "cryptographie",
+    "primitives cryptographiques"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ONTOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

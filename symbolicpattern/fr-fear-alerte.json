@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-alerte",
+  "date": "2026-11-08T13:23:24.901841+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'avertissement d'un danger imminent.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:alerte(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:alerte\\s+enl[èe]vement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:alerte\\s+maximale)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:danger\\s+imminent)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:menace\\s+imminente)(?![\\w-])"
+  ],
+  "symbol": "alerte",
+  "event": null,
+  "title": "Alerte",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

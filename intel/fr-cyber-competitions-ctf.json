@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-competitions-ctf",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Compétitions CTF",
+  "includedEntities": [
+    {
+      "entityName": "CTF",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "capture du drapeau",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les compétitions de type capture du drapeau.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "DEF CON",
+    "FCSC",
+    "équipes"
+  ],
+  "questions": [
+    "Quelle compétition ?",
+    "Quelle équipe gagnante ?",
+    "Quels défis ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CTF",
+    "#FORMATION"
+  ],
+  "events": [
+    "@COMPETITION"
+  ],
+  "signals": [
+    "!FORMATION"
+  ],
+  "isDeleted": false
+}

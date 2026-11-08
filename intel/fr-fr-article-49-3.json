@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-article-49-3",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Article 49.3",
+  "includedEntities": [
+    {
+      "entityName": "49.3",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "article 49.3",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Surveiller le recours à l'article 49.3 pour faire adopter un texte.",
+  "isFuzzy": true,
+  "locations": [
+    "Assemblée nationale"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "budget",
+    "censure",
+    "Lecornu"
+  ],
+  "questions": [
+    "Sur quel texte ?",
+    "Quelle réaction ?",
+    "Une censure suit-elle ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PARLEMENT",
+    "#INSTITUTIONS"
+  ],
+  "events": [
+    "@RECOURS-49-3"
+  ],
+  "signals": [
+    "!CRISE-POLITIQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-banqueroute",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La faillite.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:banqueroute(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:faillite(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cessation\\s+de\\s+paiement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]p[ôo]t\\s+de\\s+bilan)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mise\\s+en\\s+faillite)(?![\\w-])"
+  ],
+  "symbol": "banqueroute",
+  "event": null,
+  "title": "Banqueroute",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

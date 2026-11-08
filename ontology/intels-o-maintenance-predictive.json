@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-maintenance-predictive",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "maintenance prédictive",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : IA dans l'industrie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'usage de l'IA dans la production industrielle."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "maintenance prédictive",
+  "tags": [
+    "#IA",
+    "#INDUSTRIE",
+    "#AUTOMATISATION"
+  ],
+  "events": [],
+  "signals": [
+    "!PRODUCTIVITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "jumeau numérique",
+    "usine",
+    "usines",
+    "industrie",
+    "IA",
+    "robots"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

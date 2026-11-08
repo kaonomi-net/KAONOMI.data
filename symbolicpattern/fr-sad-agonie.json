@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-agonie",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les derniers moments avant la mort.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:agonie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:agonis(er|ant|ante|ants|ait|e))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[âa]le(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dernier(s)?\\s+souffle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fin\\s+de\\s+vie)(?![\\w-])"
+  ],
+  "symbol": "agonie",
+  "event": null,
+  "title": "Agonie",
+  "tags": [
+    "#MORT",
+    "#SOUFFRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

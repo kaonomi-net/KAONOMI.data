@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la transformation numérique) : Office de l'Organe des régulateurs européens des communications électroniques (Office de l'ORECE), organe de l'Union créé en 2010 et installé dans cette ville : Riga.",
+  "id": "eu-ag-berec",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Office de l'Organe des régulateurs européens des communications électroniques (Office de l'ORECE)",
+  "entityType": "ORGANISATION",
+  "description": "Office de l'Organe des régulateurs européens des communications électroniques (Office de l'ORECE), organe de l'Union créé en 2010 et installé dans cette ville : Riga.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Le rapport annuel de « Office de l'Organe des régulateurs européens des communications électroniques (Office de l'ORECE) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Office de l'Organe des régulateurs européens des communications électroniques (Office de l'ORECE) ».",
+    "Les décisions de « Office de l'Organe des régulateurs européens des communications électroniques (Office de l'ORECE) » touchent la transformation numérique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "Office de l'ORECE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#TRANSFORMATIONNUMERIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Office%20de%20l%27Organe%20des%20r%C3%A9gulateurs%20europ%C3%A9ens%20des%20communications%20%C3%A9lectroniques%20%28Office%20de%20l%27ORECE%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Riga",
+    "Direction générale des réseaux de communication, du contenu et des technologies",
+    "Numérique"
+  ],
+  "isDeleted": false,
+  "startDate": "2010-01-01T00:00:00",
+  "endDate": null
+}

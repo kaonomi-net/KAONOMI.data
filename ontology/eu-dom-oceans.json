@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (les océans) : Gouvernance des océans, économie bleue et protection des milieux marins.",
+  "id": "eu-dom-oceans",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Océans et affaires maritimes",
+  "entityType": "DOMAIN",
+  "description": "Gouvernance des océans, économie bleue et protection des milieux marins.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Océans et affaires maritimes » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Océans et affaires maritimes ».",
+    "Plusieurs commissaires ont été chargés du domaine « Océans et affaires maritimes »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#OCEANS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Oc%C3%A9ans%20et%20affaires%20maritimes"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Environnement, océans et pêche (Commission von der Leyen I)",
+    "Virginijus Sinkevičius",
+    "Pêche et océans (Commission von der Leyen II)",
+    "Costas Kadis",
+    "Environnement, affaires maritimes et pêche (Commission Juncker)",
+    "Karmenu Vella",
+    "Direction générale des affaires maritimes et de la pêche",
+    "Agence européenne pour la sécurité maritime (EMSA)",
+    "Fonds européen pour les affaires maritimes, la pêche et l'aquaculture"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

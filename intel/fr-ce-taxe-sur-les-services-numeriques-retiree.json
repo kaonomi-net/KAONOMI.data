@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-taxe-sur-les-services-numeriques-retiree",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Taxe sur les services numériques retirée",
+  "includedEntities": [
+    {
+      "entityName": "taxe numérique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "retrait",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le retrait de la proposition de taxe sur les services numériques de 2018.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "États-Unis",
+    "OCDE",
+    "ressources propres"
+  ],
+  "questions": [
+    "Pourquoi le retrait ?",
+    "Quelle alternative ?",
+    "Quelle réaction des États ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#FISCALITE",
+    "#NUMERIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

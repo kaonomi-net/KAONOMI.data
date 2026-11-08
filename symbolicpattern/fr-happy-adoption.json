@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-adoption",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'accueillir un enfant comme le sien.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:adoption(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:adopt(er|[ée]|[ée]e|[ée]s|[ée]es|if|ive)|famille(s)?\\s+d['’]accueil)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:accueillir\\s+un\\s+enfant)(?![\\w-])"
+  ],
+  "symbol": "adoption",
+  "event": null,
+  "title": "Adoption",
+  "tags": [
+    "#FAMILLE",
+    "#NAISSANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

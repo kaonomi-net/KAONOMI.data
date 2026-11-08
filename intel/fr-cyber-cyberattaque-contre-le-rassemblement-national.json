@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-le-rassemblement-national",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre le Rassemblement national",
+  "includedEntities": [
+    {
+      "entityName": "Rassemblement national",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "adhérents",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la cyberattaque visant les données d'adhérents du Rassemblement national confirmée le 4 novembre 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [
+    "4 novembre 2026"
+  ],
+  "relatedEntities": [
+    "adhérents",
+    "fichiers",
+    "plainte"
+  ],
+  "questions": [
+    "Quelles données ?",
+    "Quel attaquant ?",
+    "Quelle plainte ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#POLITIQUE",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

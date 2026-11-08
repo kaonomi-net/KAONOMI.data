@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-autorite-des-marches-financiers",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Autorité des marchés financiers",
+  "includedEntities": [
+    {
+      "entityName": "AMF",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "régulateur",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions de l'Autorité des marchés financiers.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "sanctions",
+    "mises en garde",
+    "enquêtes"
+  ],
+  "questions": [
+    "Quelle sanction ?",
+    "Quelle mise en garde ?",
+    "Quelle règle ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#REGULATION",
+    "#MARCHES"
+  ],
+  "events": [
+    "@MISE-EN-GARDE"
+  ],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

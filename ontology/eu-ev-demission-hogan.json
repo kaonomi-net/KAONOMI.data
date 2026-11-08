@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la politique commerciale) : Le commissaire au Commerce démissionne après sa participation à un dîner contrevenant aux règles sanitaires en Irlande.",
+  "id": "eu-ev-demission-hogan",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Démission de Phil Hogan",
+  "entityType": "EVENT",
+  "description": "Le commissaire au Commerce démissionne après sa participation à un dîner contrevenant aux règles sanitaires en Irlande.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les historiens de la construction européenne reviennent sur « Démission de Phil Hogan ».",
+    "La chronologie de la Commission place « Démission de Phil Hogan » à sa date.",
+    "« Démission de Phil Hogan » est un jalon de l'histoire de de l'Union européenne."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#POLITIQUECOMMERCIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=D%C3%A9mission%20de%20Phil%20Hogan"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commerce",
+    "Phil Hogan",
+    "Ursula von der Leyen",
+    "Commission von der Leyen I",
+    "Services financiers, stabilité financière et union des marchés des capitaux (Commission von der Leyen I)"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-08-26T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (l'apprentissage par renforcement) : Famille de méthodes qui mettent à jour une estimation à partir d'une autre estimation plus récente, formalisée par Richard Sutton.",
+  "id": "ia-td-learning",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Apprentissage par différence temporelle",
+  "entityType": "ALGORITHM",
+  "description": "Famille de méthodes qui mettent à jour une estimation à partir d'une autre estimation plus récente, formalisée par Richard Sutton.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Apprentissage par différence temporelle est enseigné dans tous les cours consacrés à l'apprentissage par renforcement.",
+    "Le notebook compare Apprentissage par différence temporelle aux autres méthodes de l'apprentissage par renforcement.",
+    "La chercheuse a présenté une variante de Apprentissage par différence temporelle lors du séminaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "TD learning",
+    "TD(λ)"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#APPRENTISSAGEPARRENFORCEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Apprentissage%20par%20diff%C3%A9rence%20temporelle"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Richard Sutton",
+    "Q-learning",
+    "TD-Gammon"
+  ],
+  "isDeleted": false,
+  "startDate": "1988-01-01T00:00:00",
+  "endDate": null
+}

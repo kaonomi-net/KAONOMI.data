@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-egorgement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de trancher la gorge.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]gorgement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]gorg(er|[ée]|[ée]e|[ée]s)|d[ée]capitation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]capit(er|[ée]|[ée]e)|poignard(er|[ée]|[ée]e))(?![\\w-])"
+  ],
+  "symbol": "égorgement",
+  "event": null,
+  "title": "Égorgement",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

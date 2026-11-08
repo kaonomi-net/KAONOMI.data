@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Demokratų sąjunga „Vardan Lietuvos“, parti ou liste de ce pays : Lituanie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-lt-demokratu-sajunga-vardan-lietuvos",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Demokratų sąjunga „Vardan Lietuvos“",
+  "entityType": "ORGANISATION",
+  "description": "Demokratų sąjunga „Vardan Lietuvos“, parti ou liste de ce pays : Lituanie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "La presse a commenté le score de « Demokratų sąjunga „Vardan Lietuvos“ » aux élections européennes.",
+    "Les positions de « Demokratų sąjunga „Vardan Lietuvos“ » sont suivies à Bruxelles et à Strasbourg.",
+    "« Demokratų sąjunga „Vardan Lietuvos“ » compte des élus au Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Demokrat%C5%B3%20s%C4%85junga%20%E2%80%9EVardan%20Lietuvos%E2%80%9C"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Virginijus Sinkevičius",
+    "Lituanie",
+    "Les Verts/Alliance libre européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

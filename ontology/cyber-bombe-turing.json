@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (la cryptanalyse) : Machine électromécanique conçue par Alan Turing et Gordon Welchman à Bletchley Park pour casser Enigma.",
+  "id": "cyber-bombe-turing",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Bombe de Turing",
+  "entityType": "HARDWARE",
+  "description": "Machine électromécanique conçue par Alan Turing et Gordon Welchman à Bletchley Park pour casser Enigma.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Bombe de Turing a marqué l'histoire du matériel consacré à la cryptanalyse.",
+    "La fiche technique de Bombe de Turing détaille ses caractéristiques de sécurité.",
+    "Pour cet audit, l'équipe a comparé Bombe de Turing à d'autres solutions matérielles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Bombe",
+    "Turing-Welchman Bombe"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#CRYPTANALYSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Bombe%20de%20Turing"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bomba cryptologique",
+    "Alan Turing",
+    "Décryptage à Bletchley Park"
+  ],
+  "isDeleted": false,
+  "startDate": "1940-01-01T00:00:00",
+  "endDate": null
+}

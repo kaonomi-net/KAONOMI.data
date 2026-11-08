@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-explosion",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une déflagration violente.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:explosion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:explos(er|[ée]|[ée]e|if|ifs|ive|ives))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]flagration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]tonation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bombe(s)?)(?![\\w-])"
+  ],
+  "symbol": "explosion",
+  "event": null,
+  "title": "Explosion",
+  "tags": [
+    "#CATASTROPHE",
+    "#VIOLENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

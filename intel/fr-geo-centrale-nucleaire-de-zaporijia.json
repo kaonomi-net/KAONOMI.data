@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-centrale-nucleaire-de-zaporijia",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Centrale nucléaire de Zaporijia",
+  "includedEntities": [
+    {
+      "entityName": "Zaporijia",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "centrale nucléaire",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller la sûreté de la centrale nucléaire de Zaporijia.",
+  "isFuzzy": true,
+  "locations": [
+    "Zaporijia",
+    "Enerhodar"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "AIEA",
+    "Rosatom",
+    "bombardements"
+  ],
+  "questions": [
+    "Quel état de la centrale ?",
+    "Quels rapports de l'AIEA ?",
+    "Quel risque radiologique ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#NUCLEAIRE",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@ALERTE-NUCLEAIRE"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!FEAR"
+  ],
+  "isDeleted": false
+}

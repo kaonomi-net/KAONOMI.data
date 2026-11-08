@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-oiseau",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un animal à plumes qui chante.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:oiseau(x)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chant\\s+des\\s+oiseaux)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gazouill(is|er|ement)|hirondelle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rossignol(s)?)(?![\\w-])"
+  ],
+  "symbol": "oiseau",
+  "event": null,
+  "title": "Oiseau",
+  "tags": [
+    "#NATURE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

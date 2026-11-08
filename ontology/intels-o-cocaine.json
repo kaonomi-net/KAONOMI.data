@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cocaine",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "cocaïne",
+  "entityType": "MATERIAL",
+  "description": "Cité par 3 intels : Cartels et narcotrafic ; Lutte contre le narcotrafic européen ; Cocaïne et crack.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre le pouvoir des cartels et le trafic de drogue.",
+    "Suivre la lutte européenne contre le trafic de drogue dans les ports.",
+    "Suivre la hausse de la consommation de cocaïne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "cocaïne",
+  "tags": [
+    "#NARCOTRAFIC",
+    "#GEOPOLITIQUE",
+    "#CRIMINALITE",
+    "#UNION-EUROPEENNE",
+    "#SECURITE",
+    "#PSYCHOLOGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "narcotrafic",
+    "Anvers",
+    "fentanyl",
+    "Équateur",
+    "Mexique",
+    "ports européens",
+    "cartels",
+    "violence",
+    "corruption",
+    "Le Havre"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

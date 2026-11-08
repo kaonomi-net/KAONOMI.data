@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-desinformation-pendant-la-campagne",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Désinformation pendant la campagne",
+  "includedEntities": [
+    {
+      "entityName": "désinformation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "campagne",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "présidentielle",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Détecter les fausses informations visant les candidats.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Viginum",
+    "deepfakes",
+    "bots"
+  ],
+  "questions": [
+    "Quelle fausse information ?",
+    "Qui est visé ?",
+    "Qui la diffuse ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DESINFORMATION",
+    "#PRESIDENTIELLE-2027"
+  ],
+  "events": [
+    "@CAMPAGNE-DESINFORMATION"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!DESINFORMATION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-divulgation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La divulgation de données privées.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:divulgation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fuite(s)?\\s+de\\s+donn[ée]es)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vol(s)?\\s+de\\s+donn[ée]es)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:donn[ée]es\\s+(vol[ée]es|pirat[ée]es|divulgu[ée]es))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:br[èe]che(s)?\\s+de\\s+s[ée]curit[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fichier(s)?\\s+vol[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "divulgation",
+  "event": null,
+  "title": "Divulgation",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

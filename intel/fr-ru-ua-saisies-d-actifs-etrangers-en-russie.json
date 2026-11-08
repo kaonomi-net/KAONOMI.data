@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-saisies-d-actifs-etrangers-en-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Saisies d'actifs étrangers en Russie",
+  "includedEntities": [
+    {
+      "entityName": "saisie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "actifs étrangers",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "nationalisation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les saisies d'entreprises étrangères par l'État russe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "décrets",
+    "gestion temporaire",
+    "tribunaux"
+  ],
+  "questions": [
+    "Quelle entreprise ?",
+    "Quel motif ?",
+    "Quelle compensation ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#NATIONALISATION"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE-JURIDIQUE"
+  ],
+  "isDeleted": false
+}

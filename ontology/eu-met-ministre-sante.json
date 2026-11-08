@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Membre d'un gouvernement chargé de la santé.",
+  "id": "eu-met-ministre-sante",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Ministre de la Santé",
+  "entityType": "PROFESSION",
+  "description": "Membre d'un gouvernement chargé de la santé.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "Ministre de la Santé : plusieurs personnalités de l'ontologie ont exercé cette fonction.",
+    "La fiche « Ministre de la Santé » décrit le rôle et les responsabilités associés.",
+    "Les candidats aux concours européens découvrent le métier « Ministre de la Santé »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ministre%20de%20la%20Sant%C3%A9"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Vytenis Andriukaitis"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

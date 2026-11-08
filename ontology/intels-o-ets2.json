@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ets2",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "ETS2",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 2 intels : Marché carbone pour les bâtiments et le transport ; Fonds social pour le climat.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre le report et la mise en œuvre du second marché carbone.",
+    "Suivre le fonds destiné à compenser le coût de la transition pour les ménages."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "ETS2",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CLIMAT",
+    "#ETS2",
+    "#SOCIAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT",
+    "!CLIMAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "fonds social pour le climat",
+    "marché carbone",
+    "chauffage",
+    "carburants",
+    "précarité énergétique",
+    "ménages",
+    "plans nationaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

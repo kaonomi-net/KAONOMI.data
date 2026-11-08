@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-sur-odessa-et-les-ports",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes sur Odessa et les ports",
+  "includedEntities": [
+    {
+      "entityName": "Odessa",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "port",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "frappe",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les frappes sur Odessa et les infrastructures portuaires.",
+  "isFuzzy": true,
+  "locations": [
+    "Odessa",
+    "Ismaïl",
+    "Tchornomorsk"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "céréales",
+    "navires",
+    "mer Noire"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quels navires touchés ?",
+    "Quel impact sur les exportations ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ODESSA",
+    "#MARITIME"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

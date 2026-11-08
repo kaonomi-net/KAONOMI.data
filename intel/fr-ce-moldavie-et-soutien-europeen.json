@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-moldavie-et-soutien-europeen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Moldavie et soutien européen",
+  "includedEntities": [
+    {
+      "entityName": "Moldavie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "soutien",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le soutien européen à la Moldavie face aux pressions russes.",
+  "isFuzzy": true,
+  "locations": [
+    "Chișinău"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Maia Sandu",
+    "énergie",
+    "adhésion"
+  ],
+  "questions": [
+    "Quel soutien ?",
+    "Quel financement ?",
+    "Quelle ingérence russe ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MOLDAVIE",
+    "#SOUTIEN"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-therapeutique",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "thérapeutique",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Hypnose thérapeutique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'usage de l'hypnose en médecine et en psychologie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "thérapeutique",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#THERAPIES",
+    "#HYPNOSE"
+  ],
+  "events": [],
+  "signals": [
+    "!THERAPIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "études",
+    "anxiété",
+    "douleur",
+    "hypnose"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

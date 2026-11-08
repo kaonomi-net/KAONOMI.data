@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-huissier",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'officier qui recouvre les dettes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:huissier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:commissaire(s)?\\s+de\\s+justice)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:recouvrement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:commandement\\s+de\\s+payer)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mise\\s+en\\s+demeure)(?![\\w-])"
+  ],
+  "symbol": "huissier",
+  "event": null,
+  "title": "Huissier",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

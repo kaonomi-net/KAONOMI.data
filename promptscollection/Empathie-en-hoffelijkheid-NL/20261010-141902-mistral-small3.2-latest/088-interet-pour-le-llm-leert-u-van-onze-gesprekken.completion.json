@@ -1,0 +1,13 @@
+{
+  "index": 88,
+  "file": "088-interet-pour-le-llm-leert-u-van-onze-gesprekken.prompt.json",
+  "prompt": "Leert u van onze gesprekken?",
+  "promptWords": 5,
+  "completion": "Nee, ik leer niet van onze gesprekken. Elk gesprek is onafhankelijk, en ik heb geen geheugen van eerdere interacties. Ik baseer mijn antwoorden uitsluitend op de informatie die je in dit gesprek deelt en mijn geprogrammeerde kennis tot oktober 2023.\n\nHoe kan ik je vandaag helpen?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:23:28.6525644+02:00",
+  "durationSeconds": 2.11,
+  "stats": "mistral-small3.2:latest · 516 + 86 tokens · 2,1 s",
+  "isError": false,
+  "language": "NL"
+}

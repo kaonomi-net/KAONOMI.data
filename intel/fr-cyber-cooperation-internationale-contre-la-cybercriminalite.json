@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cooperation-internationale-contre-la-cybercriminalite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Coopération internationale contre la cybercriminalité",
+  "includedEntities": [
+    {
+      "entityName": "convention",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cybercriminalité",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "ONU",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la convention des Nations unies contre la cybercriminalité et la convention de Budapest.",
+  "isFuzzy": true,
+  "locations": [
+    "New York",
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ratifications",
+    "droits humains",
+    "Russie"
+  ],
+  "questions": [
+    "Quels pays ratifient ?",
+    "Quelle critique ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#INTERNATIONAL",
+    "#DROIT"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

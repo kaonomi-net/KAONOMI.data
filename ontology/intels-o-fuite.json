@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-fuite",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "fuite",
+  "entityType": "DOMAIN",
+  "description": "Cité par 16 intels : Cyberattaque contre un club sportif ou une fédération ; Cyberattaque contre un ministère ; Cyberattaque contre une banque ; Hacktivistes et fuites de données ; Fuite de données via les chatbots ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les fuites de données des fédérations et clubs sportifs.",
+    "Repérer les cyberattaques contre les administrations centrales.",
+    "Repérer les cyberattaques visant les banques et leurs clients."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "fuite",
+  "tags": [
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES",
+    "#ETAT",
+    "#SPORT",
+    "#FINANCE",
+    "#HACKTIVISME"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES",
+    "@CYBERATTAQUE",
+    "@REVELATION"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!RISQUE",
+    "!VEILLE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "hameçonnage",
+    "France",
+    "clients",
+    "données personnelles",
+    "cyberattaque",
+    "espionnage",
+    "faux conseillers",
+    "Belgique",
+    "licenciés",
+    "fédération"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

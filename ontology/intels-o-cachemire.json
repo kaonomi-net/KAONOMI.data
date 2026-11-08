@@ -1,0 +1,53 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cachemire",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "Cachemire",
+  "entityType": "LOCATION",
+  "description": "Cité par 1 intel : Conflit entre l'Inde et le Pakistan.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les tensions entre deux puissances nucléaires autour du Cachemire."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Cachemire",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#INDE",
+    "#PAKISTAN",
+    "#NUCLEAIRE"
+  ],
+  "events": [
+    "@INCIDENT-FRONTALIER"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Inde",
+    "ligne de contrôle",
+    "frappes",
+    "attentat",
+    "armes nucléaires",
+    "Pakistan"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

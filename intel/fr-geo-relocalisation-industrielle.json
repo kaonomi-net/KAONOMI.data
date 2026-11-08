@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-relocalisation-industrielle",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Relocalisation industrielle",
+  "includedEntities": [
+    {
+      "entityName": "relocalisation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "industrie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "souveraineté",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le retour des productions stratégiques.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe",
+    "États-Unis"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "semi-conducteurs",
+    "médicaments",
+    "subventions"
+  ],
+  "questions": [
+    "Quelle usine ?",
+    "Quelle subvention ?",
+    "Quel coût ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#INDUSTRIE",
+    "#SOUVERAINETE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

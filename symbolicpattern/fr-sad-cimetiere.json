@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-cimetiere",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le lieu où l'on enterre les morts.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cimeti[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:n[ée]cropole(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ossuaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:catacombe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:columbarium(s)?)(?![\\w-])"
+  ],
+  "symbol": "cimetière",
+  "event": null,
+  "title": "Cimetière",
+  "tags": [
+    "#MORT",
+    "#DEUIL"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

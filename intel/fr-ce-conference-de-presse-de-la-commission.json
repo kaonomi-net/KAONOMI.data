@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-conference-de-presse-de-la-commission",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Conférence de presse de la Commission",
+  "includedEntities": [
+    {
+      "entityName": "conférence de presse",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "porte-parole",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Commission",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le point de presse quotidien de la Commission.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "chaque midi"
+  ],
+  "relatedEntities": [
+    "porte-paroles",
+    "annonces",
+    "réactions"
+  ],
+  "questions": [
+    "Quelle annonce ?",
+    "Quelle réaction ?",
+    "Quel démenti ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#COMMUNICATION"
+  ],
+  "events": [],
+  "signals": [
+    "!COMMUNICATION"
+  ],
+  "isDeleted": false
+}

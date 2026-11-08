@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-qi",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "QI",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Intelligence et QI ; Tests psychométriques.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les études sur l'intelligence et le quotient intellectuel.",
+    "Suivre l'usage des tests psychométriques."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "QI",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#COGNITION",
+    "#INTELLIGENCE",
+    "#EVALUATION"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT",
+    "!SCIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "effet Flynn",
+    "intelligence",
+    "génétique",
+    "tests",
+    "personnalité",
+    "recrutement",
+    "tests psychométriques",
+    "évaluation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-concurrence-et-big-tech",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Concurrence et Big Tech",
+  "includedEntities": [
+    {
+      "entityName": "Big Tech",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "concurrence",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "enquête",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les enquêtes de concurrence visant les géants du numérique.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Google",
+    "Microsoft",
+    "Amazon"
+  ],
+  "questions": [
+    "Quelle enquête ?",
+    "Quelle amende ?",
+    "Quels engagements ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CONCURRENCE",
+    "#BIG-TECH"
+  ],
+  "events": [
+    "@DECISION"
+  ],
+  "signals": [
+    "!CONCURRENCE"
+  ],
+  "isDeleted": false
+}

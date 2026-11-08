@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (l'agriculture) : Premier pilier de la PAC : paiements directs et mesures de marché.",
+  "id": "eu-prog-feaga",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Fonds européen agricole de garantie",
+  "entityType": "PROGRAMME",
+  "description": "Premier pilier de la PAC : paiements directs et mesures de marché.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "« Fonds européen agricole de garantie » finance des projets dans l'agriculture.",
+    "Le projet a reçu un financement de « Fonds européen agricole de garantie ».",
+    "Le bilan de « Fonds européen agricole de garantie » a été présenté au Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "FEAGA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fonds%20europ%C3%A9en%20agricole%20de%20garantie"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Politique agricole commune",
+    "Direction générale de l'agriculture et du développement rural",
+    "Agriculture"
+  ],
+  "isDeleted": false,
+  "startDate": "2007-01-01T00:00:00",
+  "endDate": null
+}

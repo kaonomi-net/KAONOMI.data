@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-fortifications-russes-dans-le-sud",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Fortifications russes dans le Sud",
+  "includedEntities": [
+    {
+      "entityName": "fortifications",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "ligne Sourovikine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "mines",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les lignes défensives russes dans le Sud.",
+  "isFuzzy": true,
+  "locations": [
+    "Zaporijia",
+    "Kherson"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "champs de mines",
+    "tranchées",
+    "dents de dragon"
+  ],
+  "questions": [
+    "Quelles nouvelles lignes ?",
+    "Quelle profondeur ?",
+    "Quelles brèches ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ZAPORIJIA",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!OBSTACLE"
+  ],
+  "isDeleted": false
+}

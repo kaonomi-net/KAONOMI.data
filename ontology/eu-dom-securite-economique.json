@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la sécurité économique) : Réduction des dépendances stratégiques, filtrage des investissements et contrôle des exportations.",
+  "id": "eu-dom-securite-economique",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Sécurité économique",
+  "entityType": "DOMAIN",
+  "description": "Réduction des dépendances stratégiques, filtrage des investissements et contrôle des exportations.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Plusieurs commissaires ont été chargés du domaine « Sécurité économique ».",
+    "Le domaine « Sécurité économique » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Sécurité économique »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#SECURITEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=S%C3%A9curit%C3%A9%20%C3%A9conomique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commerce et sécurité économique ; relations interinstitutionnelles et transparence (Commission von der Leyen II)",
+    "Maroš Šefčovič",
+    "Direction générale du commerce et de la sécurité économique",
+    "Règlement sur les matières premières critiques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

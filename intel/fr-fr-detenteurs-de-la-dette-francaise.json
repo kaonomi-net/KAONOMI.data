@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-detenteurs-de-la-dette-francaise",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Détenteurs de la dette française",
+  "includedEntities": [
+    {
+      "entityName": "détenteurs",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "investisseurs étrangers",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "dette",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre qui détient la dette française et les mouvements d'investisseurs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "non-résidents",
+    "assureurs",
+    "banques"
+  ],
+  "questions": [
+    "Quelle part étrangère ?",
+    "Quels mouvements ?",
+    "Quelle fragilité ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#MARCHES"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

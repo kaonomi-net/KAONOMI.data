@@ -1,0 +1,13 @@
+{
+  "index": 354,
+  "file": "0354-ia-rag-comment-mettre-a-jour-l-index.prompt.json",
+  "prompt": "Comment mettre à jour l'index d'un RAG quand les documents changent ?",
+  "promptWords": 12,
+  "completion": "Pour mettre à jour l'index d'un système de RAG (Retrieval-Augmented Generation) lorsque les documents changent, voici les étapes générales à suivre :\n\n1. **Détection des changements** :\n   - Surveiller les modifications dans les documents sources (ajouts, suppressions, mises à jour).\n   - Utiliser des outils de versioning (comme Git) ou des systèmes de fichiers pour détecter les changements.\n\n2. **Extraction des nouveaux contenus** :\n   - Extraire les nouvelles sections, paragraphes ou documents ajoutés ou modifiés.\n   - Nettoyer et pré-traiter les données si nécessaire (tokenization, suppression du bruit, etc.).\n\n3. **Mise à jour de l'index** :\n   - **Pour les embeddings** :\n     - Re-calculer les embeddings pour les nouveaux contenus ou les contenus modifiés.\n     - Mettre à jour l'index vectoriel (par exemple, avec FAISS, Pinecone, ou Weaviate).\n   - **Pour les index traditionnels** :\n     - Mettre à jour l'index inversé ou l'index plein texte (par exemple, avec Elasticsearch ou Solr).\n\n4. **Gestion des suppressions** :\n   - Supprimer les embeddings ou les entrées de l'index correspondant aux documents supprimés.\n\n5. **Optimisation de l'index** :\n   - Réorganiser ou compacter l'index pour améliorer les performances de recherche.\n   - Vérifier la cohérence de l'index après les mises à jour.\n\n6. **Validation** :\n   - Tester la qualité de la récupération d'informations après la mise à jour pour s'assurer que les nouveaux contenus sont bien accessibles.\n\n7. **Automatisation** :\n   - Automatiser le processus avec des scripts ou des pipelines de données (par exemple, avec Apache Airflow ou des webhooks).\n\n### Outils et bibliothèques utiles :\n- **FAISS** (Facebook AI Similarity Search) pour les embeddings.\n- **Elasticsearch** ou **Solr** pour les index traditionnels.\n- **LangChain** pour gérer les pipelines de RAG.\n- **Apache Airflow** pour l'orchestration des mises à jour.\n\nSi vous avez des besoins spécifiques ou des outils particuliers en tête, n'hésitez pas à préciser pour des conseils plus ciblés !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:29:42.437248+02:00",
+  "durationSeconds": 10.27,
+  "stats": "mistral-small3.2:latest · 524 + 509 tokens · 10,3 s",
+  "isError": false,
+  "language": "FR"
+}

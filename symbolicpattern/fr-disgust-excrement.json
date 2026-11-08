@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-excrement",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les matières fécales.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:excr[ée]ment(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mati[èe]re(s)?\\s+f[ée]cale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:f[èe]ces)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]jection(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]tron(s)?)(?![\\w-])"
+  ],
+  "symbol": "excrément",
+  "event": null,
+  "title": "Excrément",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

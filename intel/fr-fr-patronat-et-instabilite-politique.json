@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-patronat-et-instabilite-politique",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Patronat et instabilité politique",
+  "includedEntities": [
+    {
+      "entityName": "MEDEF",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "patronat",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "instabilité",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les réactions du patronat à l'instabilité politique.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Patrick Martin",
+    "budget",
+    "fiscalité"
+  ],
+  "questions": [
+    "Quelle alerte ?",
+    "Quelles demandes ?",
+    "Quelle menace ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ENTREPRISES",
+    "#POLITIQUE"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!INQUIETUDE"
+  ],
+  "isDeleted": false
+}

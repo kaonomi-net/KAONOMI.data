@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Belgique.",
+  "id": "pe10-mep-130100",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Hilde Vautmans",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Belgique. Groupe politique : Renew Europe. Parti ou liste national : Anders.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Hilde Vautmans siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Hilde Vautmans figure dans le relevé des votes par appel nominal.",
+    "Hilde Vautmans participe aux travaux des commissions parlementaires."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Hilde VAUTMANS"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/130100",
+    "https://fr.wikipedia.org/w/index.php?search=Hilde%20Vautmans"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Belgique",
+    "Parlement européen",
+    "Renew Europe",
+    "Anders"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

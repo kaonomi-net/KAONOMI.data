@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-preference-europeenne-dans-l-armement",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Préférence européenne dans l'armement",
+  "includedEntities": [
+    {
+      "entityName": "préférence européenne",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "armement",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur l'achat d'armes européennes plutôt qu'américaines.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Paris",
+    "Berlin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "États-Unis",
+    "industrie",
+    "France"
+  ],
+  "questions": [
+    "Quelle règle ?",
+    "Quels pays résistent ?",
+    "Quelle réaction américaine ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DEFENSE",
+    "#SOUVERAINETE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

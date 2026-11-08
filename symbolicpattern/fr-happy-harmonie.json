@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-harmonie",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un accord heureux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:harmonie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:harmonieu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]quilibre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:concorde(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:accord\\s+parfait)(?![\\w-])"
+  ],
+  "symbol": "harmonie",
+  "event": null,
+  "title": "Harmonie",
+  "tags": [
+    "#PAIX",
+    "#BIENETRE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

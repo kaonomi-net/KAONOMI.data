@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-hausses-d-impots-en-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Hausses d'impôts en Russie",
+  "includedEntities": [
+    {
+      "entityName": "impôts",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "TVA",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "hausse",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les hausses d'impôts pour financer la guerre.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "budget",
+    "TVA",
+    "entreprises"
+  ],
+  "questions": [
+    "Quel impôt ?",
+    "Quel taux ?",
+    "Quel effet sur les ménages ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#FISCALITE"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

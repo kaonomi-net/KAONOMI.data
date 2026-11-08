@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-russie-en-afrique-et-au-moyen-orient",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Russie en Afrique et au Moyen-Orient",
+  "includedEntities": [
+    {
+      "entityName": "Russie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Afrique",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "influence",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la projection d'influence russe hors d'Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Sahel",
+    "Syrie",
+    "Libye"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Africa Corps",
+    "armement",
+    "céréales"
+  ],
+  "questions": [
+    "Quelle présence ?",
+    "Quels contrats ?",
+    "Quel recul ou progrès ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#AFRIQUE",
+    "#INFLUENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

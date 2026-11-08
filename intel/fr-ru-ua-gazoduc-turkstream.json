@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-gazoduc-turkstream",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Gazoduc TurkStream",
+  "includedEntities": [
+    {
+      "entityName": "TurkStream",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "gazoduc",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le dernier gazoduc acheminant du gaz russe vers l'Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Turquie",
+    "Bulgarie",
+    "Hongrie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Gazprom",
+    "attaques de drones",
+    "Serbie"
+  ],
+  "questions": [
+    "Quels volumes ?",
+    "Quelles attaques ?",
+    "Quelles sanctions ?"
+  ],
+  "tags": [
+    "#ENERGIE",
+    "#GAZ",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEPENDANCE"
+  ],
+  "isDeleted": false
+}

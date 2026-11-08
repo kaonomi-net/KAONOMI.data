@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-expulsion",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'être chassé de son logement.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:expulsion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:expuls(er|[ée]|[ée]e|[ée]s|[ée]es)|mis(e|es)?\\s+[àa]\\s+la\\s+porte)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perdre\\s+(son|mon|ton)\\s+logement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[àa]\\s+la\\s+rue)(?![\\w-])"
+  ],
+  "symbol": "expulsion",
+  "event": null,
+  "title": "Expulsion",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 72,
+  "file": "072-interet-pour-le-llm-est-ce-que-vous-etes-fatigue.prompt.json",
+  "prompt": "Est-ce que vous êtes fatigué de répondre à toutes ces questions ?",
+  "promptWords": 12,
+  "completion": "Non, je ne suis pas fatigué ! Je suis un programme informatique, donc je n'ai pas de sentiments comme la fatigue. Je suis toujours prêt à répondre à vos questions du mieux que je peux. \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:22.8729146+02:00",
+  "durationSeconds": 1.11,
+  "stats": "mistral-small3.2:latest · 521 + 46 tokens · 1,1 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (la communauté scientifique) : Création de l'American Association for Artificial Intelligence, devenue l'Association for the Advancement of Artificial Intelligence.",
+  "id": "ia-aaai-creation",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Fondation de l'AAAI",
+  "entityType": "EVENT",
+  "description": "Création de l'American Association for Artificial Intelligence, devenue l'Association for the Advancement of Artificial Intelligence.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "On date souvent un tournant de la communauté scientifique à « Fondation de l'AAAI ».",
+    "« Fondation de l'AAAI » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « Fondation de l'AAAI »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "création de l'AAAI"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#COMMUNAUTESCIENTIFIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fondation%20de%20l%27AAAI"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Première conférence IJCAI"
+  ],
+  "isDeleted": false,
+  "startDate": "1979-01-01T00:00:00",
+  "endDate": "1979-01-01T00:00:00"
+}

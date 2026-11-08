@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-corruption",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'acheter ou de vendre des faveurs.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:corruption(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:corrompu(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:corrompre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pot(s)?-de-vin)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dessous-de-table)(?![\\w-])"
+  ],
+  "symbol": "corruption",
+  "event": null,
+  "title": "Corruption",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

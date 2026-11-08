@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-emploi-et-chomage-dans-l-union",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Emploi et chômage dans l'Union",
+  "includedEntities": [
+    {
+      "entityName": "emploi",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "chômage",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution de l'emploi dans l'Union européenne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "publication mensuelle"
+  ],
+  "relatedEntities": [
+    "Eurostat",
+    "jeunes",
+    "industrie"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quels pays ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#EMPLOI",
+    "#INDICATEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

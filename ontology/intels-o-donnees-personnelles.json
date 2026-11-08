@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-donnees-personnelles",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "données personnelles",
+  "entityType": "DOMAIN",
+  "description": "Cité par 6 intels : Contrôle de la CNIL sur l'IA ; Fraude aux données personnelles ; Cyberattaque contre un club sportif ou une fédération ; Hacktivistes et fuites de données ; Fuite de données personnelles ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les décisions de la CNIL sur les systèmes d'IA.",
+    "Repérer les fuites massives de données de Français.",
+    "Repérer les fuites de données des fédérations et clubs sportifs."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "données personnelles",
+  "tags": [
+    "#DONNEES",
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES",
+    "#RGPD",
+    "#IA",
+    "#CNIL"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES",
+    "@DECISION-AUTORITE",
+    "@FUITE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!CONFORMITE",
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "CNIL",
+    "RGPD",
+    "fuite de données",
+    "fuite",
+    "hameçonnage",
+    "France",
+    "Paris",
+    "mise en demeure",
+    "sanction",
+    "France Travail"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

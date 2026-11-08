@@ -1,0 +1,13 @@
+{
+  "index": 158,
+  "file": "0158-microsoft-office-how-do-i-export-a-presentation.prompt.json",
+  "prompt": "How do I export a presentation as a video in PowerPoint?",
+  "promptWords": 11,
+  "completion": "To export a presentation as a video in PowerPoint, follow these steps:\n\n1. **Open your PowerPoint presentation**: Make sure your slides are ready and in the order you want them.\n\n2. **Go to the \"File\" menu**: Click on \"File\" in the top-left corner of the PowerPoint window.\n\n3. **Select \"Export\"**: In the dropdown menu, choose \"Export.\"\n\n4. **Choose \"Create a Video\"**: In the Export section, click on \"Create a Video.\"\n\n5. **Select video quality**:\n   - **Computer & HD Displays**: Choose this for high-definition videos (up to 1080p).\n   - **Internet & DVD**: Choose this for standard definition videos (up to 480p).\n   - **PPT Presentation (.pptx)**: This option is for creating a PowerPoint file, not a video.\n\n6. **Set the timing for your slides**:\n   - **Don’t Use Recorded Timings and Narrations**: This will use the default slide transition timings you’ve set up.\n   - **Use Recorded Timings and Narrations**: This will use the timings and narrations you’ve recorded during a slide show rehearsal.\n\n7. **Choose where to save the video**: Click on the \"Browse\" button to select the location where you want to save the video file.\n\n8. **Click \"Create Video\"**: PowerPoint will start rendering your presentation as a video. This may take some time depending on the length and complexity of your presentation.\n\n9. **Wait for the process to complete**: Once the video is created, you can find it in the location you specified.\n\nThat’s it! You now have a video version of your PowerPoint presentation.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:32:38.0583944+02:00",
+  "durationSeconds": 9.53,
+  "stats": "mistral-small3.2:latest · 520 + 362 tokens · 9,5 s",
+  "isError": false,
+  "language": "EN"
+}

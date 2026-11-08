@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-surete-de-l-ia",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "sûreté de l'IA",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Rapport international sur la sûreté de l'IA.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les conclusions du rapport international sur la sûreté de l'IA concernant la cybersécurité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "sûreté de l'IA",
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#SECURITE-IA"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "rapport international",
+    "Yoshua Bengio",
+    "capacités",
+    "risques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-sante-mentale-des-refugies",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Santé mentale des réfugiés",
+  "includedEntities": [
+    {
+      "entityName": "réfugiés",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "traumatismes",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la santé mentale des réfugiés et exilés.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Ukraine",
+    "Soudan",
+    "Afghanistan"
+  ],
+  "questions": [
+    "Quel constat ?",
+    "Quel soutien ?",
+    "Quel manque ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#MIGRATION",
+    "#TRAUMA"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "isDeleted": false
+}

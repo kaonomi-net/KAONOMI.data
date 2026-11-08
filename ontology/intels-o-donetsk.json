@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-donetsk",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "Donetsk",
+  "entityType": "CITY",
+  "description": "Cité par 4 intels : Combats autour de Kostiantynivka ; Situation à Myrnohrad ; Situation humanitaire dans les zones de front ; Vie dans les territoires occupés.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les combats dans le secteur de Kostiantynivka, l'un des plus intenses.",
+    "Suivre la situation autour de Myrnohrad.",
+    "Suivre les conditions de vie des civils près du front."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Donetsk",
+  "tags": [
+    "#UKRAINE",
+    "#DONBASS",
+    "#FRONT",
+    "#HUMANITAIRE",
+    "#CIVILS",
+    "#OCCUPATION"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!HUMANITAIRE",
+    "!VIGILANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "armée russe",
+    "combats",
+    "Zaporijia",
+    "armée ukrainienne",
+    "drones",
+    "Kostiantynivka",
+    "Myrnohrad",
+    "Pokrovsk",
+    "front",
+    "situation humanitaire"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

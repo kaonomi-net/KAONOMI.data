@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (le budget de l'Union) : Institution qui contrôle les comptes et la bonne gestion financière de l'Union.",
+  "id": "eu-inst-cour-comptes",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Cour des comptes européenne",
+  "entityType": "ORGANISATION",
+  "description": "Institution qui contrôle les comptes et la bonne gestion financière de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-institutions",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Cour des comptes européenne ».",
+    "« Cour des comptes européenne » joue un rôle dans le budget de l'Union.",
+    "Les fonctionnaires de « Cour des comptes européenne » préparent les textes relatifs au budget de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "CCE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#BUDGETUNION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Cour%20des%20comptes%20europ%C3%A9enne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Membre de la Cour des comptes européenne",
+    "Luxembourg",
+    "Union européenne",
+    "Budget",
+    "Iliana Ivanova",
+    "Janusz Wojciechowski"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

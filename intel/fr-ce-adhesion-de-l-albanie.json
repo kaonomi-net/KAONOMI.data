@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-adhesion-de-l-albanie",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Adhésion de l'Albanie",
+  "includedEntities": [
+    {
+      "entityName": "Albanie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "adhésion",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les progrès de l'Albanie vers l'adhésion.",
+  "isFuzzy": true,
+  "locations": [
+    "Tirana"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Edi Rama",
+    "chapitres",
+    "État de droit"
+  ],
+  "questions": [
+    "Quels chapitres ?",
+    "Quel calendrier ?",
+    "Quelles réformes ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#ALBANIE"
+  ],
+  "events": [
+    "@CONFERENCE-ADHESION"
+  ],
+  "signals": [
+    "!ELARGISSEMENT"
+  ],
+  "isDeleted": false
+}

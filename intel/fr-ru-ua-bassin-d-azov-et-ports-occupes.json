@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-bassin-d-azov-et-ports-occupes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Bassin d'Azov et ports occupés",
+  "includedEntities": [
+    {
+      "entityName": "mer d'Azov",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "ports",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'activité militaire et commerciale autour de la mer d'Azov.",
+  "isFuzzy": true,
+  "locations": [
+    "Berdiansk",
+    "Marioupol",
+    "Kertch"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "navires",
+    "céréales",
+    "frappes"
+  ],
+  "questions": [
+    "Quelle activité portuaire ?",
+    "Quelles frappes ?",
+    "Quels exports ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#MER-AZOV",
+    "#MARITIME"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

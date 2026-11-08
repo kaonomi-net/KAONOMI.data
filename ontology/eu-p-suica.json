@@ -1,0 +1,66 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la Méditerranée) : Ancienne professeure et maire de Dubrovnik, députée européenne, vice-présidente chargée de la démocratie et de la démographie (2019-2024), puis commissaire à la Méditerranée.",
+  "id": "eu-p-suica",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Dubravka Šuica",
+  "entityType": "PERSON",
+  "description": "Ancienne professeure et maire de Dubrovnik, députée européenne, vice-présidente chargée de la démocratie et de la démographie (2019-2024), puis commissaire à la Méditerranée.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Dubravka Šuica.",
+    "Lors du point de presse de midi, une question portait sur Dubravka Šuica.",
+    "Dubravka Šuica est une figure de la Méditerranée."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Šuica",
+    "Suica"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#MEDITERRANEE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Dubravka%20%C5%A0uica"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité croate",
+    "Union démocratique croate (HDZ)",
+    "Enseignant",
+    "Maire",
+    "Député européen",
+    "Commissaire européen",
+    "Démocratie et démographie (Commission von der Leyen I)",
+    "Vice-président de la Commission",
+    "Commission von der Leyen I",
+    "Démocratie",
+    "Démographie",
+    "Méditerranée (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Méditerranée",
+    "Politique de voisinage",
+    "Direction générale pour le Moyen-Orient, l'Afrique du Nord et le Golfe",
+    "Conférence sur l'avenir de l'Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

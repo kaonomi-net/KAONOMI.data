@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptographie appliquée) : Cryptographe et essayiste américain, auteur de « Applied Cryptography » et des chiffrements Blowfish et Twofish.",
+  "id": "cyber-schneier",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Bruce Schneier",
+  "entityType": "PERSON",
+  "description": "Cryptographe et essayiste américain, auteur de « Applied Cryptography » et des chiffrements Blowfish et Twofish.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Une biographie de Bruce Schneier rappelle son rôle dans la cryptographie appliquée.",
+    "Bruce Schneier est l'une des figures marquantes de la cryptographie appliquée.",
+    "Lors de la conférence, l'oratrice a cité Bruce Schneier pour illustrer les progrès de la cryptographie appliquée."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "B. Schneier"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTOGRAPHIEAPPLIQUEE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Bruce%20Schneier"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Blowfish"
+  ],
+  "isDeleted": false,
+  "startDate": "1963-01-15T00:00:00",
+  "endDate": null
+}

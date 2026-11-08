@@ -1,0 +1,13 @@
+{
+  "index": 99,
+  "file": "099-interet-pour-le-llm-what-would-you-like-me-to.prompt.json",
+  "prompt": "What would you like me to know about you?",
+  "promptWords": 9,
+  "completion": "I'm Mistral Small 3.2, an AI assistant created by Mistral AI, a French startup based in Paris. Here are a few key things to know about me:\n\n1. **Knowledge Base**: My knowledge was last updated on October 1, 2023. I don't have real-time information or personal experiences, but I can provide information based on the data I've been trained on up to that point.\n\n2. **Multilingual**: I can understand and respond in multiple languages. Just let me know which language you prefer!\n\n3. **Tool Use**: I can use specific tools to fetch up-to-date information or perform certain actions when needed. However, I can't browse the web, generate images, or transcribe audio/video files.\n\n4. **Clarity**: If your question is unclear or lacks context, I'll ask for clarification to ensure I provide the most accurate and helpful response.\n\n5. **Date Sensitivity**: I pay close attention to dates and will discard information that doesn't match the specific date you're asking about.\n\nHow can I assist you today?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:05:28.0893795+02:00",
+  "durationSeconds": 4.66,
+  "stats": "mistral-small3.2:latest · 517 + 225 tokens · 4,7 s",
+  "isError": false,
+  "language": "EN"
+}

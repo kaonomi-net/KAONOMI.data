@@ -1,0 +1,13 @@
+{
+  "index": 892,
+  "file": "0892-design-patterns-quels-design-patterns-utilise-le-framework.prompt.json",
+  "prompt": "Quels design patterns utilise le framework Spring ?",
+  "promptWords": 8,
+  "completion": "Le framework Spring utilise plusieurs design patterns pour simplifier le développement d'applications Java. Voici quelques-uns des principaux design patterns utilisés par Spring :\n\n1. **Singleton** : Le conteneur Spring gère les beans comme des singletons par défaut, ce qui signifie qu'une seule instance d'un bean est créée et partagée dans toute l'application.\n\n2. **Factory** : Le conteneur Spring agit comme une factory pour créer et gérer les instances des beans.\n\n3. **Dependency Injection (DI)** : Spring utilise l'injection de dépendances pour fournir les dépendances nécessaires aux objets, ce qui favorise un couplage faible et une meilleure testabilité.\n\n4. **Template Method** : Le pattern Template Method est utilisé dans des classes comme `JdbcTemplate`, `JmsTemplate`, etc., pour fournir une implémentation de base des opérations courantes.\n\n5. **Proxy** : Spring utilise le pattern Proxy pour implémenter des fonctionnalités comme l'AOP (Aspect-Oriented Programming), permettant d'ajouter des comportements transversaux (comme la journalisation, la sécurité, etc.) sans modifier le code des classes cibles.\n\n6. **Observer** : Le pattern Observer est utilisé dans Spring pour notifier les listeners d'événements, comme les événements de contexte d'application.\n\n7. **Decorator** : Le pattern Decorator est utilisé pour ajouter des comportements dynamiquement aux objets, souvent en combinaison avec l'AOP.\n\n8. **Adapter** : Le pattern Adapter est utilisé pour adapter des interfaces ou des classes existantes à d'autres interfaces, par exemple dans les intégrations avec d'autres frameworks ou bibliothèques.\n\n9. **Strategy** : Le pattern Strategy est utilisé pour encapsuler des algorithmes interchangeables, par exemple dans les différentes implémentations de `UserDetailsService` pour l'authentification.\n\n10. **MVC (Model-View-Controller)** : Spring MVC suit le pattern MVC pour séparer les préoccupations dans les applications web.\n\nCes design patterns aident à rendre Spring flexible, extensible et facile à utiliser pour le développement d'applications robustes et maintenables.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:37:46.2492127+02:00",
+  "durationSeconds": 9.02,
+  "stats": "mistral-small3.2:latest · 516 + 435 tokens · 9,0 s",
+  "isError": false,
+  "language": "FR"
+}

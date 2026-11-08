@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-methylphenidate",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "méthylphénidate",
+  "entityType": "MATERIAL",
+  "description": "Cité par 3 intels : TDAH chez l'enfant ; Pénurie de médicaments psychiatriques ; Psychotropes chez les enfants.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre le trouble du déficit de l'attention avec ou sans hyperactivité chez l'enfant.",
+    "Repérer les pénuries de médicaments psychiatriques.",
+    "Suivre la hausse des prescriptions de psychotropes chez les enfants."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "méthylphénidate",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ENFANCE",
+    "#MEDICAMENTS",
+    "#TDAH",
+    "#PENURIE"
+  ],
+  "events": [
+    "@PENURIE",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!ALERTE",
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "enfants",
+    "France",
+    "TDAH",
+    "école",
+    "diagnostic",
+    "Belgique",
+    "pénurie",
+    "psychiatriques",
+    "ANSM",
+    "médicaments"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (le financement de la recherche) : Période de désillusion et de baisse des financements après les promesses non tenues des années 1960 et les critiques du rapport Lighthill.",
+  "id": "ia-hiver-ia-1",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Premier hiver de l'IA",
+  "entityType": "EVENT",
+  "description": "Période de désillusion et de baisse des financements après les promesses non tenues des années 1960 et les critiques du rapport Lighthill.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "Dans sa conférence, l'historien des sciences est revenu sur « Premier hiver de l'IA ».",
+    "On date souvent un tournant du financement de la recherche à « Premier hiver de l'IA ».",
+    "« Premier hiver de l'IA » est un jalon de l'histoire de l'intelligence artificielle."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "hiver de l'IA des années 1970"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#FINANCEMENTRECHERCHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Premier%20hiver%20de%20l%27IA"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Publication de « Perceptrons »",
+    "Rapport Lighthill"
+  ],
+  "isDeleted": false,
+  "startDate": "1974-01-01T00:00:00",
+  "endDate": "1980-01-01T00:00:00"
+}

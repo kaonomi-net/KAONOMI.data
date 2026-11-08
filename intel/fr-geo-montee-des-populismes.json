@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-montee-des-populismes",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Montée des populismes",
+  "includedEntities": [
+    {
+      "entityName": "populisme",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "extrême droite",
+      "entityWeight": "25"
+    },
+    {
+      "entityName": "extrême gauche",
+      "entityWeight": "25"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre l'évolution électorale des partis populistes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "élections"
+  ],
+  "relatedEntities": [
+    "élections",
+    "sondages",
+    "coalitions"
+  ],
+  "questions": [
+    "Quels scores ?",
+    "Quelles alliances ?",
+    "Quelles politiques annoncées ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#POLITIQUE",
+    "#POPULISME"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

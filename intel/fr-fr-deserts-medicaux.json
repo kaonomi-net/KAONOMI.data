@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-deserts-medicaux",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Déserts médicaux",
+  "includedEntities": [
+    {
+      "entityName": "déserts médicaux",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "médecins",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les mesures contre les déserts médicaux.",
+  "isFuzzy": true,
+  "locations": [
+    "zones rurales"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "médecins",
+    "régulation",
+    "loi"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel vote ?",
+    "Quelle réaction des médecins ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SANTE",
+    "#TERRITOIRES"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

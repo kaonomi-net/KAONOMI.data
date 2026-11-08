@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-cartels-et-narcotrafic",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Cartels et narcotrafic",
+  "includedEntities": [
+    {
+      "entityName": "cartels",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "narcotrafic",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cocaïne",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le pouvoir des cartels et le trafic de drogue.",
+  "isFuzzy": true,
+  "locations": [
+    "Mexique",
+    "Équateur",
+    "ports européens"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "fentanyl",
+    "violence",
+    "corruption"
+  ],
+  "questions": [
+    "Quel cartel ?",
+    "Quelles saisies ?",
+    "Quelle violence ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#CRIMINALITE",
+    "#NARCOTRAFIC"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

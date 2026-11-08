@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-hacktivisme-et-evenements-sportifs",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Hacktivisme et événements sportifs",
+  "includedEntities": [
+    {
+      "entityName": "hacktivisme",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "événement sportif",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cyberattaques",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les cyberattaques autour des grands événements sportifs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "billetterie",
+    "diffusion",
+    "DDoS"
+  ],
+  "questions": [
+    "Quel événement ?",
+    "Quelle attaque ?",
+    "Quelle défense ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SPORT",
+    "#HACKTIVISME"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

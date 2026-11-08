@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'agriculture) : Commission de l'agriculture et du développement rural du Parlement européen, chargée de l'agriculture.",
+  "id": "eu-pe-agri",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission de l'agriculture et du développement rural (AGRI)",
+  "entityType": "ORGANISATION",
+  "description": "Commission de l'agriculture et du développement rural du Parlement européen, chargée de l'agriculture.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "Les décisions de « Commission de l'agriculture et du développement rural (AGRI) » touchent l'agriculture.",
+    "Le rapport annuel de « Commission de l'agriculture et du développement rural (AGRI) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Commission de l'agriculture et du développement rural (AGRI) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "AGRI"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20de%20l%27agriculture%20et%20du%20d%C3%A9veloppement%20rural%20%28AGRI%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Agriculture"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

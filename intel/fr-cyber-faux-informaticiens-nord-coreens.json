@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-faux-informaticiens-nord-coreens",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Faux informaticiens nord-coréens",
+  "includedEntities": [
+    {
+      "entityName": "informaticiens nord-coréens",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "télétravail",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les faux salariés nord-coréens recrutés en télétravail.",
+  "isFuzzy": true,
+  "locations": [
+    "États-Unis",
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "recrutement",
+    "identités volées",
+    "salaires"
+  ],
+  "questions": [
+    "Quelle entreprise ?",
+    "Combien de cas ?",
+    "Quelle poursuite ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#COREE-DU-NORD",
+    "#RECRUTEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-biotechs-belges",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Biotechs belges",
+  "includedEntities": [
+    {
+      "entityName": "biotech",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Belgique",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "essais cliniques",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les biotechs belges cotées.",
+  "isFuzzy": true,
+  "locations": [
+    "Gand",
+    "Louvain",
+    "Mont-Saint-Guibert"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "argenx",
+    "Galapagos",
+    "financement"
+  ],
+  "questions": [
+    "Quel essai ?",
+    "Quel financement ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BELGIQUE",
+    "#BIOTECH"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

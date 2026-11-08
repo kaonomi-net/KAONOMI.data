@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-agents-de-l-etranger",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Agents de l'étranger",
+  "includedEntities": [
+    {
+      "entityName": "agent de l'étranger",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "liste",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'extension du statut d'agent de l'étranger en Russie.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ministère de la Justice",
+    "journalistes",
+    "ONG"
+  ],
+  "questions": [
+    "Qui est ajouté ?",
+    "Quelles conséquences ?",
+    "Quelles nouvelles lois ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#REPRESSION",
+    "#LIBERTES"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 526,
+  "file": "0526-cybernetique-explique-la-boucle-de-retroaction-de.prompt.json",
+  "prompt": "Explique la boucle de rétroaction de façon simple.",
+  "promptWords": 8,
+  "completion": "La boucle de rétroaction, c'est un peu comme un système de régulation qui permet d'ajuster automatiquement un processus en fonction de ses résultats. Voici une explication simple :\n\n1. **Détection** : On mesure un résultat (par exemple, la température d'une pièce).\n2. **Comparaison** : On compare ce résultat à une valeur souhaitée (comme une température idéale de 20°C).\n3. **Action** : Si la température est trop basse, un chauffage se met en marche. Si elle est trop haute, il s'éteint.\n4. **Boucle** : Le processus se répète en continu pour maintenir la température stable.\n\nEn résumé, la boucle de rétroaction permet de corriger automatiquement les écarts pour atteindre et maintenir un objectif. On la retrouve dans de nombreux systèmes, comme les thermostats, les systèmes de contrôle industriel, ou même dans les interactions sociales (comme un feedback après une présentation).",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:01:35.5422958+02:00",
+  "durationSeconds": 4.25,
+  "stats": "mistral-small3.2:latest · 519 + 201 tokens · 4,2 s",
+  "isError": false,
+  "language": "FR"
+}

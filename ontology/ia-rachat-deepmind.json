@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (l'industrie de l'IA) : Google acquiert la start-up londonienne DeepMind, qui devient Google DeepMind en 2023.",
+  "id": "ia-rachat-deepmind",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Rachat de DeepMind par Google",
+  "entityType": "EVENT",
+  "description": "Google acquiert la start-up londonienne DeepMind, qui devient Google DeepMind en 2023.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "La frise chronologique de la salle de cours place « Rachat de DeepMind par Google » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Rachat de DeepMind par Google ».",
+    "L'événement « Rachat de DeepMind par Google » a marqué durablement l'histoire de l'industrie de l'IA."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "acquisition de DeepMind"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#INDUSTRIEIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Rachat%20de%20DeepMind%20par%20Google"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Fondation de DeepMind"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-01-26T00:00:00",
+  "endDate": "2014-01-26T00:00:00"
+}

@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique économique) : Ancien ministre français de l'Économie et des Affaires européennes, commissaire aux Affaires économiques et financières, à la Fiscalité et à l'Union douanière de 2014 à 2019.",
+  "id": "eu-p-moscovici",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Pierre Moscovici",
+  "entityType": "PERSON",
+  "description": "Ancien ministre français de l'Économie et des Affaires européennes, commissaire aux Affaires économiques et financières, à la Fiscalité et à l'Union douanière de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Le portrait de Pierre Moscovici figure dans le dossier consacré à la politique économique.",
+    "La presse européenne a longuement commenté le parcours de Pierre Moscovici.",
+    "Les manuels sur les institutions européennes citent Pierre Moscovici."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Moscovici"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pierre%20Moscovici"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité française",
+    "Parti socialiste",
+    "Ministre de l'Économie",
+    "Ministre des Affaires européennes",
+    "Commissaire européen",
+    "Affaires économiques et financières, fiscalité et union douanière (Commission Juncker)",
+    "Commission Juncker",
+    "Économie",
+    "Fiscalité et union douanière"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

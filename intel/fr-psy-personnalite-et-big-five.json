@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-personnalite-et-big-five",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Personnalité et Big Five",
+  "includedEntities": [
+    {
+      "entityName": "personnalité",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Big Five",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recherches sur la personnalité.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "traits",
+    "tests",
+    "stabilité"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel trait ?",
+    "Quelle application ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PERSONNALITE"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

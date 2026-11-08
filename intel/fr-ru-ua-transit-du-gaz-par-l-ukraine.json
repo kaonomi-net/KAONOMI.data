@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-transit-du-gaz-par-l-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Transit du gaz par l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "transit du gaz",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la fin du transit de gaz russe par l'Ukraine et ses conséquences.",
+  "isFuzzy": true,
+  "locations": [
+    "Slovaquie",
+    "Hongrie",
+    "Transnistrie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Gazprom",
+    "Naftogaz",
+    "TurkStream"
+  ],
+  "questions": [
+    "Quelles conséquences ?",
+    "Quels pays touchés ?",
+    "Quelles alternatives ?"
+  ],
+  "tags": [
+    "#ENERGIE",
+    "#GAZ",
+    "#UKRAINE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION-ENERGETIQUE"
+  ],
+  "isDeleted": false
+}

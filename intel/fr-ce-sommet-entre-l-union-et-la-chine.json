@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-sommet-entre-l-union-et-la-chine",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Sommet entre l'Union et la Chine",
+  "includedEntities": [
+    {
+      "entityName": "sommet UE-Chine",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les sommets et dialogues entre l'Union et la Chine.",
+  "isFuzzy": true,
+  "locations": [
+    "Pékin",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Xi Jinping",
+    "commerce",
+    "Russie"
+  ],
+  "questions": [
+    "Quels résultats ?",
+    "Quels désaccords ?",
+    "Quelles concessions ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CHINE",
+    "#SOMMET"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

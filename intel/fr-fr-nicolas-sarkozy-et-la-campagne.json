@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-nicolas-sarkozy-et-la-campagne",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Nicolas Sarkozy et la campagne",
+  "includedEntities": [
+    {
+      "entityName": "Nicolas Sarkozy",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "soutien",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'influence de Nicolas Sarkozy et ses affaires judiciaires.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "justice",
+    "LR",
+    "soutien"
+  ],
+  "questions": [
+    "Qui soutient-il ?",
+    "Quelle décision judiciaire ?",
+    "Quelle influence ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DROITE",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

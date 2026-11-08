@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-donnees-de-sante",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "données de santé",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Cyberattaque contre un hôpital ; Rançongiciels dans la santé ; Fuite de données de santé.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les cyberattaques contre les hôpitaux et les établissements de santé.",
+    "Suivre la hausse des rançongiciels dans le secteur de la santé.",
+    "Repérer les fuites de données de santé."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "données de santé",
+  "tags": [
+    "#CYBERSECURITE",
+    "#SANTE",
+    "#RANCONGICIEL",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [
+    "@CYBERATTAQUE",
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "hôpitaux",
+    "Belgique",
+    "cyberattaque",
+    "mode dégradé",
+    "France",
+    "déprogrammations",
+    "hôpital",
+    "santé",
+    "cliniques",
+    "rançongiciel"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

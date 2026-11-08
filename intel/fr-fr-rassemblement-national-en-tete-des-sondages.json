@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-rassemblement-national-en-tete-des-sondages",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Rassemblement national en tête des sondages",
+  "includedEntities": [
+    {
+      "entityName": "Rassemblement national",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "sondage",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "intentions de vote",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le niveau du RN dans les intentions de vote.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "IFOP",
+    "Elabe",
+    "Ipsos"
+  ],
+  "questions": [
+    "Quel score ?",
+    "Quelle évolution ?",
+    "Quel écart avec le deuxième ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#SONDAGES"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

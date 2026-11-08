@@ -1,0 +1,13 @@
+{
+  "index": 244,
+  "file": "0244-cybersecurite-explique-la-protection-des-donnees-personnelles.prompt.json",
+  "prompt": "Explique la protection des données personnelles de façon simple.",
+  "promptWords": 9,
+  "completion": "La protection des données personnelles, c'est comme protéger ses affaires personnelles dans un coffre-fort. Voici une explication simple :\n\n1. **Ce que sont les données personnelles** :\n   Ce sont des informations qui permettent d'identifier une personne, comme son nom, son adresse, son numéro de téléphone, son adresse e-mail, ou même des informations sur ses habitudes (achats, navigation sur Internet, etc.).\n\n2. **Pourquoi les protéger** :\n   Ces informations sont précieuses et peuvent être utilisées à mauvais escient (vol d'identité, spam, fraude, etc.). Les protéger permet de garder le contrôle sur sa vie privée.\n\n3. **Comment les protéger** :\n   - **Consentement** : Ne donner ses informations qu'à des entreprises ou services en qui on a confiance et qui demandent explicitement la permission.\n   - **Sécurité** : Utiliser des mots de passe solides, activer la double authentification, et mettre à jour ses appareils.\n   - **Droits** : Connaître ses droits, comme le droit d'accès, de rectification, ou de suppression de ses données (règlement RGPD en Europe).\n\n4. **Exemples concrets** :\n   - Ne pas partager son mot de passe.\n   - Vérifier les paramètres de confidentialité sur les réseaux sociaux.\n   - Faire attention aux e-mails ou appels suspects demandant des informations personnelles.\n\nEn résumé, la protection des données personnelles, c'est comme prendre soin de ses affaires les plus précieuses : on les garde en sécurité et on ne les partage qu'avec prudence.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:09:38.8890654+02:00",
+  "durationSeconds": 6.94,
+  "stats": "mistral-small3.2:latest · 519 + 338 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

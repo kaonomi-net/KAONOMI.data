@@ -1,0 +1,13 @@
+{
+  "index": 2,
+  "file": "022-cuisine-quelle-est-la-recette-traditionnelle-du.prompt.json",
+  "prompt": "Quelle est la recette traditionnelle du bœuf bourguignon ?",
+  "promptWords": 9,
+  "completion": "Le bœuf bourguignon est un plat emblématique de la cuisine française, originaire de Bourgogne. Voici une recette traditionnelle :\n\n### Ingrédients (pour 6 personnes) :\n- 1,5 kg de bœuf à bourguignon (paleron, joue ou gîte)\n- 200 g de lardons fumés\n- 500 g de petits oignons grelots (ou oignons perlés)\n- 500 g de champignons de Paris\n- 2 carottes\n- 2 gousses d'ail\n- 1 bouteille de vin rouge de Bourgogne (ou autre vin rouge corsé)\n- 2 cuillères à soupe de farine\n- 2 cuillères à soupe d'huile d'olive\n- 1 bouquet garni (thym, laurier, persil)\n- Sel et poivre\n\n### Préparation :\n\n1. **Préparer la viande** :\n   - Couper la viande en gros cubes.\n   - Dans une cocotte en fonte, faire chauffer l'huile d'olive et dorer les lardons. Les retirer et les réserver.\n   - Dans la même cocotte, dorer les morceaux de bœuf par petites quantités. Les retirer et les réserver.\n\n2. **Faire revenir les légumes** :\n   - Dans la même cocotte, faire revenir les carottes coupées en rondelles, les oignons grelots et l'ail écrasé.\n   - Ajouter la farine et bien mélanger pour former un roux.\n\n3. **Mouiller avec le vin** :\n   - Remettre la viande et les lardons dans la cocotte.\n   - Verser le vin rouge jusqu'à couvrir la viande.\n   - Ajouter le bouquet garni, saler et poivrer.\n\n4. **Cuisson longue** :\n   - Porter à ébullition, puis baisser le feu et laisser mijoter à couvert pendant 2 à 3 heures à feu doux.\n   - Ajouter les champignons de Paris émincés 30 minutes avant la fin de la cuisson.\n\n5. **Réglage de l'assaisonnement** :\n   - Retirer le bouquet garni.\n   - Rectifier l'assaisonnement si nécessaire.\n\n6. **Service** :\n   - Servir bien chaud avec des pommes de terre vapeur, des pâtes ou du pain frais.\n\n### Conseils :\n- Le bœuf bourguignon est encore meilleur réchauffé le lendemain.\n- Vous pouvez ajouter un peu de beurre manié (mélange de beurre et de farine) à la fin pour lier la sauce si nécessaire.\n\nBon appétit !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:53:52.7862033+02:00",
+  "durationSeconds": 12.22,
+  "stats": "mistral-small3.2:latest · 522 + 588 tokens · 12,2 s",
+  "isError": false,
+  "language": "FR"
+}

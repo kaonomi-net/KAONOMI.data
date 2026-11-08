@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-approvisionnement-en-gaz-russe",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Approvisionnement en gaz russe",
+  "includedEntities": [
+    {
+      "entityName": "gaz",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "gazoduc",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Surveiller les flux de gaz russe vers l'Europe et les ruptures d'approvisionnement.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe",
+    "mer Baltique"
+  ],
+  "times": [
+    "hiver"
+  ],
+  "relatedEntities": [
+    "Gazprom",
+    "Nord Stream",
+    "GNL"
+  ],
+  "questions": [
+    "Quels volumes ?",
+    "Quelles ruptures ?",
+    "Quels prix ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ENERGIE",
+    "#RUSSIE"
+  ],
+  "events": [
+    "@RUPTURE-APPROVISIONNEMENT"
+  ],
+  "signals": [
+    "!TENSION-ENERGETIQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : GERB, parti politique de ce pays : Bulgarie.",
+  "id": "eu-parti-gerb",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "GERB",
+  "entityType": "ORGANISATION",
+  "description": "GERB, parti politique de ce pays : Bulgarie. Il est affilié à la famille Parti populaire européen (PPE).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « GERB ».",
+    "Les décisions de « GERB » touchent la vie politique nationale.",
+    "Le rapport annuel de « GERB » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=GERB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bulgarie",
+    "Parti populaire européen (PPE)",
+    "Mariya Gabriel",
+    "Iliana Ivanova",
+    "Ekaterina Zaharieva"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

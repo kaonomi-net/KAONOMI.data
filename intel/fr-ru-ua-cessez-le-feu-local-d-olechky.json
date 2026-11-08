@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-cessez-le-feu-local-d-olechky",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Cessez-le-feu local d'Olechky",
+  "includedEntities": [
+    {
+      "entityName": "Olechky",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "cessez-le-feu",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la trêve locale d'Olechky et l'évacuation des habitants.",
+  "isFuzzy": true,
+  "locations": [
+    "Olechky",
+    "Kherson"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Melania Trump",
+    "évacuation",
+    "rive gauche du Dniepr"
+  ],
+  "questions": [
+    "La trêve est-elle respectée ?",
+    "Combien d'habitants évacués ?",
+    "Des positions ont-elles été renforcées ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#CESSEZ-LE-FEU",
+    "#KHERSON"
+  ],
+  "events": [
+    "@TREVE"
+  ],
+  "signals": [
+    "!DESESCALADE",
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

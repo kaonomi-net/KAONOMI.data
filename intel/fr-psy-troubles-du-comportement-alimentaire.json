@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-troubles-du-comportement-alimentaire",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Troubles du comportement alimentaire",
+  "includedEntities": [
+    {
+      "entityName": "troubles du comportement alimentaire",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "anorexie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "boulimie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'actualité des troubles du comportement alimentaire.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "réseaux sociaux",
+    "adolescentes",
+    "hospitalisations"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quelle hausse ?",
+    "Quelle prise en charge ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TCA"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

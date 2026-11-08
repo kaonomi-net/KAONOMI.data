@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-schneider-electric",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Schneider Electric",
+  "includedEntities": [
+    {
+      "entityName": "Schneider Electric",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "centres de données",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Schneider Electric, portée par l'électrification et les centres de données.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "IA",
+    "réseaux électriques",
+    "prévisions"
+  ],
+  "questions": [
+    "Quelle croissance ?",
+    "Quelle prévision ?",
+    "Quel effet de la baisse des valeurs IA ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#IA"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

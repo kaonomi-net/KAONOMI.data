@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Parti social-démocrate suédois, parti politique de ce pays : Suède.",
+  "id": "eu-parti-sap",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti social-démocrate suédois",
+  "entityType": "ORGANISATION",
+  "description": "Parti social-démocrate suédois, parti politique de ce pays : Suède. Il est affilié à la famille Socialistes et démocrates (S&D).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Parti social-démocrate suédois » préparent les textes relatifs à la vie politique nationale.",
+    "La délégation a rencontré des représentants de « Parti social-démocrate suédois ».",
+    "« Parti social-démocrate suédois » joue un rôle dans la vie politique nationale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20social-d%C3%A9mocrate%20su%C3%A9dois"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Suède",
+    "Socialistes et démocrates (S&D)",
+    "Ylva Johansson"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

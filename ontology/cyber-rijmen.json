@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptographie symétrique) : Cryptographe belge de la KU Leuven, co-auteur avec Joan Daemen de Rijndael, sélectionné comme AES en 2000.",
+  "id": "cyber-rijmen",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Vincent Rijmen",
+  "entityType": "PERSON",
+  "description": "Cryptographe belge de la KU Leuven, co-auteur avec Joan Daemen de Rijndael, sélectionné comme AES en 2000.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Vincent Rijmen.",
+    "Les étudiants lisent les travaux de Vincent Rijmen pour comprendre la cryptographie symétrique.",
+    "Sans Vincent Rijmen, l'histoire de la cryptographie symétrique aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "V. Rijmen"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTOGRAPHIESYMETRIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Vincent%20Rijmen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AES"
+  ],
+  "isDeleted": false,
+  "startDate": "1970-10-16T00:00:00",
+  "endDate": null
+}

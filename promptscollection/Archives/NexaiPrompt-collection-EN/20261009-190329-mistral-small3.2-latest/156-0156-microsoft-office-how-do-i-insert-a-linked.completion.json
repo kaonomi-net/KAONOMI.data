@@ -1,0 +1,13 @@
+{
+  "index": 156,
+  "file": "0156-microsoft-office-how-do-i-insert-a-linked.prompt.json",
+  "prompt": "How do I insert a linked Excel chart in PowerPoint?",
+  "promptWords": 10,
+  "completion": "To insert a linked Excel chart in PowerPoint, follow these steps:\n\n1. **Open PowerPoint**: Start by opening your PowerPoint presentation.\n\n2. **Go to the Slide**: Navigate to the slide where you want to insert the Excel chart.\n\n3. **Insert Object**:\n   - Click on the **Insert** tab in the PowerPoint ribbon.\n   - Click on **Object** in the Text group.\n   - In the dropdown menu, select **Object**.\n\n4. **Create from File**:\n   - In the Object dialog box, go to the **Create from File** tab.\n   - Click on **Browse** and locate the Excel file containing the chart you want to insert.\n   - Select the file and click **Open**.\n\n5. **Link to File**:\n   - Check the box that says **Display as icon** if you want the chart to be represented by an icon (this is optional).\n   - Make sure the **Link to file** option is checked. This ensures that any changes made to the Excel chart will be reflected in the PowerPoint presentation.\n   - Click **OK**.\n\n6. **Position the Chart**:\n   - The Excel chart will now appear on your slide. You can resize and reposition it as needed.\n\n7. **Update the Chart**:\n   - If you make changes to the original Excel chart, you can update it in PowerPoint by right-clicking on the chart and selecting **Update Link** or **Links** > **Update Now**.\n\nBy following these steps, you can insert a linked Excel chart in PowerPoint, ensuring that any updates to the chart in Excel will be automatically reflected in your PowerPoint presentation.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:32:15.101742+02:00",
+  "durationSeconds": 8.84,
+  "stats": "mistral-small3.2:latest · 519 + 337 tokens · 8,8 s",
+  "isError": false,
+  "language": "EN"
+}

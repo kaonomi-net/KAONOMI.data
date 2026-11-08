@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-sante-mentale-des-adolescentes",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Santé mentale des adolescentes",
+  "includedEntities": [
+    {
+      "entityName": "adolescentes",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "mal-être",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la hausse du mal-être chez les adolescentes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "hospitalisations",
+    "automutilation",
+    "réseaux sociaux"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quelle hausse ?",
+    "Quelle cause avancée ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADOLESCENTS",
+    "#SANTE-MENTALE"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

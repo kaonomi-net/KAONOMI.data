@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-pleurer",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Verser des larmes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pleur(er|e|es|ent|[ée]|ait|aient|ant|eur|eurs)|sanglot(s|er|e|ent)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:larmoy(er|ant|ante)|chialer)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fondre\\s+en\\s+larmes)(?![\\w-])"
+  ],
+  "symbol": "pleurer",
+  "event": null,
+  "title": "Pleurer",
+  "tags": [
+    "#TRISTESSE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

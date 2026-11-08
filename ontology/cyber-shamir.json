@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptographie) : Cryptographe israélien, co-inventeur de RSA, auteur du partage de secret qui porte son nom (1979) et co-inventeur de la cryptanalyse différentielle.",
+  "id": "cyber-shamir",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Adi Shamir",
+  "entityType": "PERSON",
+  "description": "Cryptographe israélien, co-inventeur de RSA, auteur du partage de secret qui porte son nom (1979) et co-inventeur de la cryptanalyse différentielle. Prix Turing 2002.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Une biographie de Adi Shamir rappelle son rôle dans la cryptographie.",
+    "Adi Shamir est l'une des figures marquantes de la cryptographie.",
+    "Lors de la conférence, l'oratrice a cité Adi Shamir pour illustrer les progrès de la cryptographie."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "A. Shamir"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTOGRAPHIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Adi%20Shamir"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "RSA",
+    "Partage de secret de Shamir",
+    "Cryptanalyse différentielle"
+  ],
+  "isDeleted": false,
+  "startDate": "1952-07-06T00:00:00",
+  "endDate": null
+}

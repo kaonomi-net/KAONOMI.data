@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-loi-resilience",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "loi Résilience",
+  "entityType": "LAW",
+  "description": "Cité par 3 intels : Loi Résilience et transposition de NIS2 ; Opérateurs d'importance vitale ; Résilience des entités critiques.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre l'examen de la loi Résilience, qui transpose NIS2 en France.",
+    "Suivre la protection des opérateurs d'importance vitale.",
+    "Suivre la directive européenne sur la résilience des entités critiques."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "loi Résilience",
+  "tags": [
+    "#CYBERSECURITE",
+    "#REGULATION",
+    "#INFRASTRUCTURES",
+    "#NIS2",
+    "#FRANCE"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!REGULATION",
+    "!DEFENSE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ANSSI",
+    "Paris",
+    "Assemblée nationale",
+    "NIS2",
+    "entités essentielles",
+    "SGDSN",
+    "opérateurs d'importance vitale",
+    "OIV",
+    "France",
+    "Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

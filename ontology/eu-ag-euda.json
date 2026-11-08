@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la santé publique) : Agence de l'Union européenne sur les drogues (EUDA), organe de l'Union créé en 1993 et installé dans cette ville : Lisbonne.",
+  "id": "eu-ag-euda",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence de l'Union européenne sur les drogues (EUDA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence de l'Union européenne sur les drogues (EUDA), organe de l'Union créé en 1993 et installé dans cette ville : Lisbonne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Agence de l'Union européenne sur les drogues (EUDA) » préparent les textes relatifs à la santé publique.",
+    "La délégation a rencontré des représentants de « Agence de l'Union européenne sur les drogues (EUDA) ».",
+    "« Agence de l'Union européenne sur les drogues (EUDA) » joue un rôle dans la santé publique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EUDA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20de%20l%27Union%20europ%C3%A9enne%20sur%20les%20drogues%20%28EUDA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Lisbonne",
+    "Direction générale de la migration et des affaires intérieures",
+    "Santé",
+    "Affaires intérieures et sécurité"
+  ],
+  "isDeleted": false,
+  "startDate": "1993-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-vote-du-budget-annuel-de-l-union",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Vote du budget annuel de l'Union",
+  "includedEntities": [
+    {
+      "entityName": "budget annuel",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Parlement européen",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "vote",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'adoption du budget annuel de l'Union européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [
+    "novembre et décembre"
+  ],
+  "relatedEntities": [
+    "Conseil",
+    "conciliation",
+    "crédits"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quels montants ?",
+    "Quels désaccords ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#BUDGET-UE"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!BUDGET"
+  ],
+  "isDeleted": false
+}

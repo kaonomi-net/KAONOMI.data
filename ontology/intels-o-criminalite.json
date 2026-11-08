@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-criminalite",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "criminalité",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Lutte contre le narcotrafic européen.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la lutte européenne contre le trafic de drogue dans les ports."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "criminalité",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SECURITE",
+    "#NARCOTRAFIC"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Anvers",
+    "narcotrafic",
+    "Le Havre",
+    "ports",
+    "alliance des ports",
+    "Rotterdam",
+    "cocaïne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

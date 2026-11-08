@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-renvoi-de-l-accord-mercosur-devant-la-cour-de-justice",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Renvoi de l'accord Mercosur devant la Cour de justice",
+  "includedEntities": [
+    {
+      "entityName": "Mercosur",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Cour de justice",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Parlement européen",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le renvoi par le Parlement de l'accord UE-Mercosur devant la Cour de justice.",
+  "isFuzzy": true,
+  "locations": [
+    "Luxembourg",
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "avis de la Cour",
+    "ratification",
+    "agriculteurs"
+  ],
+  "questions": [
+    "Quand la Cour se prononce-t-elle ?",
+    "Quel retard ?",
+    "Quelle application provisoire ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#MERCOSUR",
+    "#COUR-DE-JUSTICE"
+  ],
+  "events": [],
+  "signals": [
+    "!BLOCAGE"
+  ],
+  "isDeleted": false
+}

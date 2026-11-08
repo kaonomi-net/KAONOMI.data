@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-relation-entre-trump-et-zelensky",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Relation entre Trump et Zelensky",
+  "includedEntities": [
+    {
+      "entityName": "Trump",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Zelensky",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Maison Blanche",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les relations entre Donald Trump et Volodymyr Zelensky.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Bureau ovale",
+    "aide",
+    "négociations"
+  ],
+  "questions": [
+    "Quelle rencontre ?",
+    "Quel ton ?",
+    "Quels engagements ?"
+  ],
+  "tags": [
+    "#ETATS-UNIS",
+    "#UKRAINE",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@RENCONTRE-DIRIGEANTS"
+  ],
+  "signals": [
+    "!INCERTITUDE"
+  ],
+  "isDeleted": false
+}

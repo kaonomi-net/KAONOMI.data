@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-referendum-d-independance",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Référendum d'indépendance",
+  "includedEntities": [
+    {
+      "entityName": "référendum",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "indépendance",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les consultations sur l'indépendance de territoires.",
+  "isFuzzy": true,
+  "locations": [
+    "Nouvelle-Calédonie",
+    "Écosse",
+    "Catalogne"
+  ],
+  "times": [
+    "jour du vote"
+  ],
+  "relatedEntities": [
+    "séparatistes",
+    "État central",
+    "droit international"
+  ],
+  "questions": [
+    "Quel territoire ?",
+    "Quel résultat ?",
+    "Est-il reconnu ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#SOUVERAINETE",
+    "#REFERENDUM"
+  ],
+  "events": [
+    "@REFERENDUM"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

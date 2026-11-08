@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-budget-de-guerre-ukrainien",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Budget de guerre ukrainien",
+  "includedEntities": [
+    {
+      "entityName": "budget",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "défense",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le budget de l'Ukraine et sa dépendance à l'aide étrangère.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv"
+  ],
+  "times": [
+    "vote du budget"
+  ],
+  "relatedEntities": [
+    "FMI",
+    "Union européenne",
+    "impôts"
+  ],
+  "questions": [
+    "Quel déficit ?",
+    "Quelle part pour la défense ?",
+    "Quels financements extérieurs ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#BUDGET",
+    "#FINANCEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

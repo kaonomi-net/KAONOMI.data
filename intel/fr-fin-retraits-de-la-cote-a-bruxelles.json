@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-retraits-de-la-cote-a-bruxelles",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Retraits de la cote à Bruxelles",
+  "includedEntities": [
+    {
+      "entityName": "retrait de la cote",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "OPA",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les offres publiques qui retirent des sociétés de la Bourse de Bruxelles.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "fonds",
+    "familles",
+    "actionnaires minoritaires"
+  ],
+  "questions": [
+    "Quelle société ?",
+    "Quelle prime ?",
+    "Quelle réaction des minoritaires ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BELGIQUE",
+    "#OPA"
+  ],
+  "events": [
+    "@OFFRE"
+  ],
+  "signals": [
+    "!OPERATION"
+  ],
+  "isDeleted": false
+}

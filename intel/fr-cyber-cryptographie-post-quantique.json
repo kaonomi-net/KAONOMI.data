@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cryptographie-post-quantique",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cryptographie post-quantique",
+  "includedEntities": [
+    {
+      "entityName": "post-quantique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "cryptographie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la migration vers la cryptographie post-quantique.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "2030 et 2035"
+  ],
+  "relatedEntities": [
+    "NIST",
+    "ANSSI",
+    "ML-KEM"
+  ],
+  "questions": [
+    "Quelle échéance ?",
+    "Quel acteur a migré ?",
+    "Quelle recommandation ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CRYPTOGRAPHIE",
+    "#POST-QUANTIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "isDeleted": false
+}

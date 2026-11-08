@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-predictif",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui prétend prévoir nos actes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pr[ée]dicti(f|fs|ve|ves))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:police\\s+pr[ée]dictive)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:justice\\s+pr[ée]dictive)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:profilage\\s+pr[ée]dictif)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:minority\\s+report)(?![\\w-])"
+  ],
+  "symbol": "prédictif",
+  "event": null,
+  "title": "Prédictif",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

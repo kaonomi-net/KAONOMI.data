@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-pourparlers-d-abou-dhabi",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Pourparlers d'Abou Dhabi",
+  "includedEntities": [
+    {
+      "entityName": "Abou Dhabi",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "pourparlers",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les pourparlers russo-ukrainiens prévus à Abou Dhabi et leurs résultats.",
+  "isFuzzy": true,
+  "locations": [
+    "Abou Dhabi"
+  ],
+  "times": [
+    "10 et 11 novembre 2026"
+  ],
+  "relatedEntities": [
+    "Medinski",
+    "États-Unis",
+    "Émirats arabes unis"
+  ],
+  "questions": [
+    "Qui participe ?",
+    "Quels sujets sont abordés ?",
+    "Un accord est-il annoncé ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#UKRAINE",
+    "#NEGOCIATIONS"
+  ],
+  "events": [
+    "@POURPARLERS"
+  ],
+  "signals": [
+    "!DESESCALADE"
+  ],
+  "isDeleted": false
+}

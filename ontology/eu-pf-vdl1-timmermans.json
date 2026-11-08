@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (le Pacte vert) : Portefeuille détenu par Frans Timmermans, vice-président exécutif, dans la Commission von der Leyen I, du 1er décembre 2019 au 22 août 2023.",
+  "id": "eu-pf-vdl1-timmermans",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Pacte vert pour l'Europe (Commission von der Leyen I)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Frans Timmermans, vice-président exécutif, dans la Commission von der Leyen I, du 1er décembre 2019 au 22 août 2023.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Pacte vert pour l'Europe (Commission von der Leyen I) ».",
+    "Le portefeuille « Pacte vert pour l'Europe (Commission von der Leyen I) » couvre le Pacte vert.",
+    "La lettre de mission du portefeuille « Pacte vert pour l'Europe (Commission von der Leyen I) » fixe les objectifs en matière du Pacte vert."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#PACTEVERT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pacte%20vert%20pour%20l%27Europe%20%28Commission%20von%20der%20Leyen%20I%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Frans Timmermans",
+    "Commission von der Leyen I",
+    "Vice-président exécutif de la Commission",
+    "Pacte vert",
+    "Action pour le climat"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-12-01T00:00:00",
+  "endDate": "2023-08-22T00:00:00"
+}

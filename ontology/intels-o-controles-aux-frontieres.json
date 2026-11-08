@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-controles-aux-frontieres",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "contrôles aux frontières",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Contrôles aux frontières intérieures.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les réintroductions de contrôles aux frontières intérieures."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "contrôles aux frontières",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SCHENGEN",
+    "#FRONTIERES"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Schengen",
+    "Pays-Bas",
+    "Allemagne",
+    "Commission",
+    "migrations",
+    "Pologne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

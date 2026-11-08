@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-conscription",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'enrôlement obligatoire dans l'armée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:conscription(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:conscrit(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:service\\s+militaire\\s+obligatoire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:enr[ôo]lement(s)?\\s+forc[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:appel[ée](s)?\\s+sous\\s+les\\s+drapeaux)(?![\\w-])"
+  ],
+  "symbol": "conscription",
+  "event": null,
+  "title": "Conscription",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

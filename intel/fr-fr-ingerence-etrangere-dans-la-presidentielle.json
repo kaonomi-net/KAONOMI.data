@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-ingerence-etrangere-dans-la-presidentielle",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Ingérence étrangère dans la présidentielle",
+  "includedEntities": [
+    {
+      "entityName": "ingérence",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "présidentielle",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "étrangère",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les tentatives d'ingérence d'États étrangers dans l'élection.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Russie",
+    "Viginum",
+    "cyberattaques"
+  ],
+  "questions": [
+    "Quelle opération ?",
+    "Quel pays soupçonné ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#INGERENCE",
+    "#PRESIDENTIELLE-2027"
+  ],
+  "events": [
+    "@INGERENCE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

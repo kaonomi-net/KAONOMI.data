@@ -1,0 +1,13 @@
+{
+  "index": 249,
+  "file": "0249-cybersecurite-explique-le-pare-feu-applicatif-waf.prompt.json",
+  "prompt": "Explique le pare-feu applicatif (WAF) de façon simple.",
+  "promptWords": 8,
+  "completion": "Un pare-feu applicatif, ou WAF (Web Application Firewall en anglais), est un système de sécurité qui protège les applications web contre les attaques malveillantes. Voici une explication simple :\n\n1. **Filtrage des requêtes** : Le WAF analyse toutes les requêtes (demandes) envoyées à une application web et bloque celles qui semblent suspectes ou dangereuses.\n\n2. **Protection contre les attaques courantes** : Il se défend contre des attaques comme les injections SQL, les attaques par déni de service (DDoS), les tentatives de piratage par force brute, etc.\n\n3. **Règles de sécurité** : Il utilise des règles préétablies pour déterminer quelles requêtes sont légitimes et lesquelles doivent être bloquées. Ces règles peuvent être personnalisées selon les besoins de l'application.\n\n4. **Positionnement** : Contrairement à un pare-feu traditionnel qui protège un réseau entier, le WAF se concentre spécifiquement sur les applications web et est souvent placé entre les utilisateurs et le serveur web.\n\nEn résumé, le WAF agit comme un garde du corps pour les applications web, en vérifiant chaque demande pour s'assurer qu'elle ne représente pas une menace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:10:22.6281631+02:00",
+  "durationSeconds": 5.36,
+  "stats": "mistral-small3.2:latest · 523 + 259 tokens · 5,4 s",
+  "isError": false,
+  "language": "FR"
+}

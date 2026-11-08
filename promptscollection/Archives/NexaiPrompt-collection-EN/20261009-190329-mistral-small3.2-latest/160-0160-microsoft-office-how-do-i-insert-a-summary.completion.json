@@ -1,0 +1,13 @@
+{
+  "index": 160,
+  "file": "0160-microsoft-office-how-do-i-insert-a-summary.prompt.json",
+  "prompt": "How do I insert a summary zoom in PowerPoint?",
+  "promptWords": 9,
+  "completion": "To insert a summary zoom in PowerPoint, follow these steps:\n\n1. **Open your PowerPoint presentation** and go to the slide where you want to insert the summary zoom.\n\n2. **Go to the \"Insert\" tab** on the ribbon.\n\n3. **Click on \"Zoom\"** in the \"Zoom\" group.\n\n4. **Select \"Summary Zoom\"** from the dropdown menu. This will open the \"Summary Zoom\" dialog box.\n\n5. **Choose the slides** you want to include in the summary zoom by checking the boxes next to the slide thumbnails.\n\n6. **Click \"Create Summary Zoom\"** to insert the summary zoom slide into your presentation.\n\n7. **Customize the summary zoom slide** as needed. You can rearrange the slide thumbnails, add text, or change the layout to fit your preferences.\n\n8. **Save your presentation** to ensure your changes are preserved.\n\nThe summary zoom slide will act as a table of contents, allowing you to click on any slide thumbnail to jump to that specific slide during your presentation.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:32:54.9784502+02:00",
+  "durationSeconds": 6.34,
+  "stats": "mistral-small3.2:latest · 518 + 214 tokens · 6,3 s",
+  "isError": false,
+  "language": "EN"
+}

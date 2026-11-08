@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-arrestations-au-ministere-de-la-defense",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Arrestations au ministère de la Défense",
+  "includedEntities": [
+    {
+      "entityName": "ministère de la Défense",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "arrestation",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "corruption",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les poursuites pour corruption dans l'appareil militaire russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Belooussov",
+    "généraux",
+    "tribunal"
+  ],
+  "questions": [
+    "Qui est arrêté ?",
+    "Quel montant ?",
+    "Quel lien politique ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#CORRUPTION",
+    "#DEFENSE"
+  ],
+  "events": [
+    "@ARRESTATION"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-reconnaissance-de-l-etat-de-palestine",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Reconnaissance de l'État de Palestine",
+  "includedEntities": [
+    {
+      "entityName": "Palestine",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "reconnaissance",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les suites de la reconnaissance de l'État de Palestine par la France.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "New York"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ONU",
+    "Israël",
+    "Autorité palestinienne"
+  ],
+  "questions": [
+    "Quelles conséquences ?",
+    "Quels pays suivent ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PALESTINE",
+    "#DIPLOMATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

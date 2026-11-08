@@ -1,0 +1,13 @@
+{
+  "index": 991,
+  "file": "0991-rust-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Rust qui illustre l'ownership.",
+  "promptWords": 10,
+  "completion": "Voici un exemple de code en Rust qui illustre le concept d'ownership, l'un des piliers de la gestion de la mémoire dans Rust :\n\n```rust\nfn main() {\n    // Création d'une chaîne de caractères (String) avec ownership\n    let s1 = String::from(\"Bonjour\"); // s1 est le propriétaire de la chaîne\n\n    // Passage de l'ownership de s1 à s2\n    let s2 = s1; // Ici, s1 n'est plus valide après cette ligne\n\n    // Tentative d'utilisation de s1 après le transfert\n    // println!(\"{}\", s1); // Cela provoquerait une erreur de compilation\n\n    // Création d'une nouvelle chaîne\n    let s3 = String::from(\"Monde\");\n\n    // Passage de l'ownership à une fonction\n    take_ownership(s3);\n    // println!(\"{}\", s3); // s3 n'est plus valide ici\n\n    // Création d'une nouvelle chaîne\n    let s4 = String::from(\"Rust\");\n    // Passage de l'ownership à une fonction qui retourne l'ownership\n    let s5 = give_ownership();\n    let s6 = give_and_modify_ownership(s4);\n\n    println!(\"{}\", s5); // \"Rust\"\n    println!(\"{}\", s6); // \"Rust est génial\"\n}\n\n// Fonction qui prend l'ownership d'un String\nfn take_ownership(s: String) {\n    println!(\"{}\", s);\n} // s est libéré ici\n\n// Fonction qui retourne l'ownership d'un String\nfn give_ownership() -> String {\n    let s = String::from(\"Rust\");\n    s\n}\n\n// Fonction qui prend l'ownership, modifie et retourne l'ownership\nfn give_and_modify_ownership(s: String) -> String {\n    let s = s + \" est génial\";\n    s\n}\n```\n\nExplications :\n1. L'ownership est transféré quand on affecte `s1` à `s2` - `s1` n'est plus valide après cette ligne.\n2. Quand on passe un String à une fonction (`take_ownership`), l'ownership est transféré.\n3. Une fonction peut retourner l'ownership (`give_ownership`).\n4. Rust permet de modifier et retourner l'ownership (`give_and_modify_ownership`).\n\nCe code montre comment Rust gère automatiquement la mémoire en transférant l'ownership des variables, ce qui permet d'éviter les fuites de mémoire et les accès invalides.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T14:03:44.6130958+02:00",
+  "durationSeconds": 11.15,
+  "stats": "mistral-small3.2:latest · 523 + 556 tokens · 11,1 s",
+  "isError": false,
+  "language": "FR"
+}

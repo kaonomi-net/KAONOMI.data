@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-pacte-pour-une-industrie-propre",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Pacte pour une industrie propre",
+  "includedEntities": [
+    {
+      "entityName": "industrie propre",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "décarbonation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le pacte européen pour une industrie propre.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "acier vert",
+    "hydrogène",
+    "aides d'État"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quels financements ?",
+    "Quels secteurs ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#INDUSTRIE",
+    "#CLIMAT"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-monopole",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La domination de quelques géants de la technologie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:monopole(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gafam)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:big\\s+tech)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:g[ée]ants\\s+du\\s+num[ée]rique)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:concentration\\s+du\\s+pouvoir)(?![\\w-])"
+  ],
+  "symbol": "monopole",
+  "event": null,
+  "title": "Monopole",
+  "tags": [
+    "#FEAR",
+    "#IA",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-guerre-commerciale-et-droits-de-douane",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Guerre commerciale et droits de douane",
+  "includedEntities": [
+    {
+      "entityName": "droits de douane",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "guerre commerciale",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les hausses de droits de douane et les représailles.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington",
+    "Pékin",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "États-Unis",
+    "Chine",
+    "Union européenne"
+  ],
+  "questions": [
+    "Quels produits ?",
+    "Quel taux ?",
+    "Quelles représailles ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#COMMERCE",
+    "#TARIFS"
+  ],
+  "events": [
+    "@HAUSSE-TARIFS"
+  ],
+  "signals": [
+    "!TENSION-COMMERCIALE"
+  ],
+  "isDeleted": false
+}

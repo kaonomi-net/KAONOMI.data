@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-chatbot",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un agent conversationnel automatique.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:chatbot(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:agent(s)?\\s+conversationnel(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:faux\\s+humain)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bot(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:compte(s)?\\s+automatis[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "chatbot",
+  "event": null,
+  "title": "Chatbot",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

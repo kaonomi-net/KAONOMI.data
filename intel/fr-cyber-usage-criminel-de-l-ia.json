@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-usage-criminel-de-l-ia",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Usage criminel de l'IA",
+  "includedEntities": [
+    {
+      "entityName": "IA",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cybercriminels",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "usage malveillant",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage de l'IA par les cybercriminels.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "hameçonnage",
+    "rançongiciels",
+    "rapports des laboratoires"
+  ],
+  "questions": [
+    "Quel usage ?",
+    "Quel groupe ?",
+    "Quelle mesure des éditeurs ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#CYBERCRIMINALITE"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

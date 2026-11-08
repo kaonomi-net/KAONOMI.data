@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-operation-endgame",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Opération Endgame",
+  "includedEntities": [
+    {
+      "entityName": "Opération Endgame",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "logiciels malveillants",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les phases de l'opération Endgame contre les chargeurs de logiciels malveillants.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Europol",
+    "botnets",
+    "infostealers"
+  ],
+  "questions": [
+    "Quelle phase ?",
+    "Quels logiciels ?",
+    "Quelles arrestations ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CYBERCRIMINALITE",
+    "#EUROPOL"
+  ],
+  "events": [
+    "@DEMANTELEMENT"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 163,
+  "file": "0163-microsoft-office-comment-programmer-l-envoi-d-un.prompt.json",
+  "prompt": "Comment programmer l'envoi d'un e-mail dans Outlook ?",
+  "promptWords": 8,
+  "completion": "Pour programmer l'envoi d'un e-mail dans Outlook, vous pouvez suivre ces étapes :\n\n### Sur Outlook pour Windows :\n1. **Ouvrir Outlook** et composer un nouvel e-mail en cliquant sur **Nouveau message** (ou **Ctrl + N**).\n2. **Remplir les champs** (Destinataire, Objet, Corps du message) comme pour un e-mail normal.\n3. **Cliquer sur l'onglet \"Envoyer et recevoir\"** dans le ruban en haut de la fenêtre.\n4. **Choisir \"Autres actions\"** puis **\"Envoyer automatiquement\"**.\n5. **Sélectionner \"Envoyer automatiquement à\"** et choisir la date et l'heure souhaitées.\n6. **Cliquer sur \"Envoyer\"** pour programmer l'envoi.\n\n### Sur Outlook pour Mac :\n1. **Ouvrir Outlook** et composer un nouvel e-mail.\n2. **Cliquer sur l'icône \"Envoyer plus tard\"** (une horloge) dans la barre d'outils.\n3. **Choisir la date et l'heure** souhaitées.\n4. **Cliquer sur \"Programmer l'envoi\"** pour confirmer.\n\n### Sur Outlook sur le Web (Outlook.com) :\n1. **Ouvrir Outlook.com** et composer un nouvel e-mail.\n2. **Cliquer sur l'icône \"Envoyer plus tard\"** (une horloge) en bas à droite de la fenêtre de composition.\n3. **Choisir la date et l'heure** souhaitées.\n4. **Cliquer sur \"Programmer l'envoi\"** pour confirmer.\n\nSi vous utilisez une version différente d'Outlook ou si vous avez besoin d'aide supplémentaire, n'hésitez pas à me le préciser !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:57:50.4154908+02:00",
+  "durationSeconds": 7.67,
+  "stats": "mistral-small3.2:latest · 519 + 374 tokens · 7,7 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Lieu des attentats de Bruxelles de 2016 (la mémoire des attentats) : Place du centre de Bruxelles devenue, après les attentats, le principal lieu de rassemblement et d'hommage spontané.",
+  "id": "be2016-place-bourse",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Place de la Bourse",
+  "entityType": "LOCATION",
+  "description": "Place du centre de Bruxelles devenue, après les attentats, le principal lieu de rassemblement et d'hommage spontané.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-lieux",
+  "sentencesExemples": [
+    "Les reportages de l'époque montrent le lieu « Place de la Bourse ».",
+    "Les journalistes se sont rendus sur le lieu « Place de la Bourse » dans les jours qui ont suivi.",
+    "Les chronologies des attentats mentionnent le lieu « Place de la Bourse »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 3,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCCD",
+  "synonyms": [
+    "Beursplein"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#LOCATION",
+    "#MEMOIREATTENTATS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Place%20de%20la%20Bourse"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Rassemblements de la place de la Bourse"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

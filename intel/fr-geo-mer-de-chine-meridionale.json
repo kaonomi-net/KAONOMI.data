@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-mer-de-chine-meridionale",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Mer de Chine méridionale",
+  "includedEntities": [
+    {
+      "entityName": "mer de Chine méridionale",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "îlots",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "garde-côtes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les incidents et revendications en mer de Chine méridionale.",
+  "isFuzzy": true,
+  "locations": [
+    "îles Spratleys",
+    "Scarborough"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Philippines",
+    "Vietnam",
+    "Chine"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quels navires impliqués ?",
+    "Quelle réaction diplomatique ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#MER-DE-CHINE",
+    "#MARITIME"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

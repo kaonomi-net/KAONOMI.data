@@ -1,0 +1,13 @@
+{
+  "index": 885,
+  "file": "0885-design-patterns-pourquoi-le-singleton-est-il-parfois.prompt.json",
+  "prompt": "Pourquoi le Singleton est-il parfois considéré comme un anti-pattern ?",
+  "promptWords": 10,
+  "completion": "Le Singleton est parfois considéré comme un anti-pattern (ou motif anti-patron) pour plusieurs raisons, notamment en raison de ses implications sur la conception logicielle, la maintenabilité et la testabilité du code. Voici les principales critiques :\n\n1. **Violation du principe de responsabilité unique** :\n   Le Singleton combine la création de l'instance et la logique métier, ce qui peut rendre la classe plus complexe et moins maintenable.\n\n2. **Difficulté de test unitaire** :\n   Les Singletons rendent les tests unitaires plus difficiles car ils introduisent un état global partagé. Cela peut entraîner des tests qui ne sont pas isolés et qui dépendent de l'état précédent des tests.\n\n3. **Problèmes de concurrence** :\n   La gestion de l'instanciation unique dans un environnement multi-thread peut être complexe et source de bugs si elle n'est pas correctement implémentée.\n\n4. **Global State (État global)** :\n   Le Singleton introduit un état global dans l'application, ce qui peut rendre le code plus difficile à comprendre et à déboguer, car l'état peut être modifié de n'importe où dans le code.\n\n5. **Flexibilité réduite** :\n   Le Singleton peut rendre le code moins flexible et moins adaptable aux changements futurs, car il impose une seule instance pour toute l'application.\n\n6. **Problèmes de dépendances** :\n   Les classes qui dépendent d'un Singleton peuvent devenir difficiles à réutiliser ou à modifier, car elles sont fortement couplées à cette instance unique.\n\n7. **Alternatives plus adaptées** :\n   Dans de nombreux cas, des alternatives comme les dépendances injectées (Dependency Injection) ou les fabriques (Factories) peuvent offrir une meilleure solution pour gérer les instances uniques ou partagées.\n\n### Quand utiliser le Singleton ?\nMalgré ces critiques, le Singleton peut être utile dans certains cas bien précis, comme :\n- La gestion de ressources partagées (par exemple, une connexion à une base de données).\n- Les logger (journaux de logs) où une seule instance est nécessaire.\n- Les configurations globales de l'application.\n\nCependant, il est important d'évaluer soigneusement si le Singleton est vraiment nécessaire avant de l'utiliser, et de considérer des alternatives plus adaptées.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:36:22.579898+02:00",
+  "durationSeconds": 9.53,
+  "stats": "mistral-small3.2:latest · 520 + 471 tokens · 9,5 s",
+  "isError": false,
+  "language": "FR"
+}

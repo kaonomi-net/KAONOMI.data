@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-punaise",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un insecte suceur de sang.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:punaise(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:punaise(s)?\\s+de\\s+lit)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:piq[ûu]re(s)?\\s+de\\s+punaise(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:matelas\\s+infest[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lit\\s+infest[ée])(?![\\w-])"
+  ],
+  "symbol": "punaise",
+  "event": null,
+  "title": "Punaise",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

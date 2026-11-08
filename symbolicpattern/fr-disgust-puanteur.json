@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-puanteur",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une odeur très désagréable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:puanteur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pestilence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pestilentiel(le|s|les)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:infection(s)?\\s+(olfactive|totale))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[çc]a\\s+sent\\s+mauvais)(?![\\w-])"
+  ],
+  "symbol": "puanteur",
+  "event": null,
+  "title": "Puanteur",
+  "tags": [
+    "#DISGUST",
+    "#ODEUR"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

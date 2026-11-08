@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-moldavie-et-transnistrie",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Moldavie et Transnistrie",
+  "includedEntities": [
+    {
+      "entityName": "Moldavie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Transnistrie",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Surveiller les tensions autour de la Moldavie et de la région séparatiste de Transnistrie.",
+  "isFuzzy": true,
+  "locations": [
+    "Chișinău",
+    "Tiraspol"
+  ],
+  "times": [
+    "élections"
+  ],
+  "relatedEntities": [
+    "Russie",
+    "Union européenne",
+    "Roumanie"
+  ],
+  "questions": [
+    "Quelles pressions ?",
+    "Quelle stabilité ?",
+    "Quel rapprochement européen ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#MOLDAVIE",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

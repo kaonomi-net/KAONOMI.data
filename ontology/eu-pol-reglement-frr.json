@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (les réformes structurelles) : Règlement (UE) 2021/241, pièce maîtresse de NextGenerationEU.",
+  "id": "eu-pol-reglement-frr",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Règlement établissant la facilité pour la reprise et la résilience",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2021/241, pièce maîtresse de NextGenerationEU.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Le Journal officiel de l'Union a publié « Règlement établissant la facilité pour la reprise et la résilience ».",
+    "Les juristes de la Commission ont commenté « Règlement établissant la facilité pour la reprise et la résilience ».",
+    "La mise en œuvre de « Règlement établissant la facilité pour la reprise et la résilience » est suivie par la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#REFORMESSTRUCTURELLES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A8glement%20%C3%A9tablissant%20la%20facilit%C3%A9%20pour%20la%20reprise%20et%20la%20r%C3%A9silience"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Réformes",
+    "Économie",
+    "Direction générale des affaires économiques et financières",
+    "Commission von der Leyen I",
+    "Facilité pour la reprise et la résilience"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-02-12T00:00:00",
+  "endDate": null
+}

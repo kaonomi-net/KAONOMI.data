@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-etat-de-droit-dans-l-union-europeenne",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "État de droit dans l'Union européenne",
+  "includedEntities": [
+    {
+      "entityName": "État de droit",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "fonds",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les procédures européennes sur le respect de l'État de droit.",
+  "isFuzzy": true,
+  "locations": [
+    "Hongrie",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Commission européenne",
+    "article 7",
+    "justice"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Quels fonds gelés ?",
+    "Quelle procédure ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#UNION-EUROPEENNE",
+    "#DEMOCRATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

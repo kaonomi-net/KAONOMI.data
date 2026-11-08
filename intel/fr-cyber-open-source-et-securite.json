@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-open-source-et-securite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Open source et sécurité",
+  "includedEntities": [
+    {
+      "entityName": "open source",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "mainteneurs",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "sécurité",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la sécurité et le financement des logiciels libres.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "xz",
+    "OpenSSF",
+    "financement"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quel financement ?",
+    "Quelle initiative ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#OPEN-SOURCE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

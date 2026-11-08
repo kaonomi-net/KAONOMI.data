@@ -1,0 +1,13 @@
+{
+  "index": 109,
+  "file": "0109-microsoft-office-how-do-i-insert-a-section.prompt.json",
+  "prompt": "How do I insert a section break in Word?",
+  "promptWords": 9,
+  "completion": "To insert a section break in Microsoft Word, follow these steps:\n\n1. **Place the Cursor**: Position your cursor where you want the section break to be inserted.\n2. **Go to the Layout or Page Layout Tab**:\n   - In older versions of Word (2007-2010), go to the **Page Layout** tab.\n   - In newer versions (2013 and later), go to the **Layout** tab.\n3. **Insert a Section Break**:\n   - Click on the **Breaks** button in the **Page Setup** group.\n   - Choose the type of section break you want to insert:\n     - **Next Page**: Starts the new section on the next page.\n     - **Continuous**: Starts the new section on the same page.\n     - **Even Page**: Starts the new section on the next even-numbered page.\n     - **Odd Page**: Starts the new section on the next odd-numbered page.\n\nAlternatively, you can use the keyboard shortcut:\n- **Ctrl + Alt + Enter** (Windows) or **Command + Option + Enter** (Mac).\n\nThis will insert a section break at the cursor position, allowing you to format the new section differently from the previous one.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:23:45.4010532+02:00",
+  "durationSeconds": 6.56,
+  "stats": "mistral-small3.2:latest · 517 + 258 tokens · 6,6 s",
+  "isError": false,
+  "language": "EN"
+}

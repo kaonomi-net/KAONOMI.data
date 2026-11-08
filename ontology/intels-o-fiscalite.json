@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-fiscalite",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "fiscalité",
+  "entityType": "DOMAIN",
+  "description": "Cité par 7 intels : Patronat et instabilité politique ; Intercommunalités ; Bernard Arnault ; Plan d'épargne en actions ; Plan d'épargne retraite ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les réactions du patronat à l'instabilité politique.",
+    "Suivre la vie des intercommunalités après les municipales.",
+    "Suivre les décisions et déclarations de Bernard Arnault."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "fiscalité",
+  "tags": [
+    "#FRANCE",
+    "#EPARGNE",
+    "#BOURSE",
+    "#ENTREPRISES",
+    "#POLITIQUE",
+    "#COLLECTIVITES"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!EPARGNE",
+    "!INQUIETUDE",
+    "!POLITIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "France",
+    "épargne",
+    "PEA",
+    "MEDEF",
+    "instabilité",
+    "patronat",
+    "Patrick Martin",
+    "budget",
+    "compétences"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

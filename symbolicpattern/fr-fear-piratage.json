@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-piratage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'accès illégal à un système informatique.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:piratage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pirat(er|[ée]|[ée]e|[ée]s|[ée]es)|hacker(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hack([ée]|[ée]e|[ée]s)|intrusion(s)?\\s+informatique(s)?)(?![\\w-])"
+  ],
+  "symbol": "piratage",
+  "event": null,
+  "title": "Piratage",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 442,
+  "file": "0442-deep-learning-explain-transfer-learning-in-simple-terms.prompt.json",
+  "prompt": "Explain transfer learning in simple terms.",
+  "promptWords": 6,
+  "completion": "**Transfer learning** is like borrowing a skill you already know and tweaking it for a new job.\n\n1. **Learn a general skill first**  \n   Imagine you learn to drive a car. That gives you a lot of knowledge about steering, braking, traffic rules, etc. You practice it on many different roads and in many weather conditions. In machine‑learning terms, a model is trained on a huge, diverse dataset (e.g., millions of images or all of Wikipedia) and learns useful patterns.\n\n2. **Apply that skill to a new, specific task**  \n   Now you want to drive a motorcycle. You already know the fundamentals—how to control speed, how to handle turns—but you need to adapt to the bike’s quirks (balance, higher speed). So you do a short, focused training session on a motorcycle. The model takes the knowledge it learned from the big dataset and “fine‑tunes” it on a smaller, task‑specific dataset.\n\n3. **Why it works**  \n   The model has already learned low‑level building blocks (e.g., edges in images, common grammar patterns in text). Fine‑tuning just adjusts those blocks to fit the new, smaller problem.\n\n**Simple analogy**\n\n- **General training**: You learn to cook with a wide range of ingredients (Italian, Chinese, Mexican).  \n- **Transfer**: You then specialize in making only Italian pasta dishes. Your broad cooking knowledge speeds up learning and improves quality, even though the new kitchen has fewer recipes.\n\nSo, transfer learning lets a machine‑learning model reuse what it already knows, saving time and data while boosting performance on new, related tasks.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T21:49:42.1785386+02:00",
+  "durationSeconds": 4.61,
+  "stats": "gpt-oss:20b · 74 + 456 tokens · 4,6 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-systemes-patriot",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Systèmes Patriot",
+  "includedEntities": [
+    {
+      "entityName": "Patriot",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "défense antiaérienne",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les livraisons et l'usage des batteries Patriot.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Allemagne",
+    "États-Unis",
+    "missiles balistiques"
+  ],
+  "questions": [
+    "Combien de batteries ?",
+    "Quelles livraisons ?",
+    "Quels missiles interceptés ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#DEFENSE-ANTIAERIENNE",
+    "#PATRIOT"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

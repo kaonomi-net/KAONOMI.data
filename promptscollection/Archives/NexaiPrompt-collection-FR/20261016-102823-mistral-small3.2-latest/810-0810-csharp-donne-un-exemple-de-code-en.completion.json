@@ -1,0 +1,13 @@
+{
+  "index": 810,
+  "file": "0810-csharp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C# qui illustre les tuples.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en C# qui illustre l'utilisation des tuples :\n\n```csharp\nusing System;\n\nclass Program\n{\n    static void Main()\n    {\n        // Exemple 1 : Création d'un tuple simple\n        var person = (\"John\", \"Doe\", 30);\n        Console.WriteLine($\"Nom: {person.Item1}, Prénom: {person.Item2}, Âge: {person.Item3}\");\n\n        // Exemple 2 : Utilisation de noms pour les éléments du tuple\n        var namedPerson = (FirstName: \"Alice\", LastName: \"Smith\", Age: 25);\n        Console.WriteLine($\"Nom: {namedPerson.LastName}, Prénom: {namedPerson.FirstName}, Âge: {namedPerson.Age}\");\n\n        // Exemple 3 : Retour d'un tuple depuis une méthode\n        var result = GetPersonInfo();\n        Console.WriteLine($\"Nom: {result.name}, Âge: {result.age}\");\n\n        // Exemple 4 : Décomposition d'un tuple\n        var (firstName, lastName, age) = person;\n        Console.WriteLine($\"Prénom: {firstName}, Nom: {lastName}, Âge: {age}\");\n    }\n\n    // Méthode retournant un tuple\n    static (string name, int age) GetPersonInfo()\n    {\n        return (\"Bob\", 40);\n    }\n}\n```\n\nCe code montre plusieurs aspects des tuples en C# :\n1. Création de tuples anonymes\n2. Utilisation de noms pour les éléments du tuple\n3. Retour de tuples depuis des méthodes\n4. Décomposition de tuples\n\nLes tuples sont particulièrement utiles pour retourner plusieurs valeurs depuis une méthode sans avoir à créer une classe ou une structure dédiée.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:17:54.6683525+02:00",
+  "durationSeconds": 7.68,
+  "stats": "mistral-small3.2:latest · 522 + 367 tokens · 7,7 s",
+  "isError": false,
+  "language": "FR"
+}

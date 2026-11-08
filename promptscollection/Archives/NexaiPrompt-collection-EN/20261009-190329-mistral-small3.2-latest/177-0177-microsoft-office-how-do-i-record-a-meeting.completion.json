@@ -1,0 +1,13 @@
+{
+  "index": 177,
+  "file": "0177-microsoft-office-how-do-i-record-a-meeting.prompt.json",
+  "prompt": "How do I record a meeting in Teams?",
+  "promptWords": 8,
+  "completion": "To record a meeting in Microsoft Teams, follow these steps:\n\n1. **Start or Join a Meeting**:\n   - Open Microsoft Teams and start or join a meeting as usual.\n\n2. **Access the Recording Option**:\n   - Once in the meeting, look for the meeting controls at the bottom of the screen.\n   - Click on the three dots (More options) or the ellipsis (...) to open the additional options menu.\n\n3. **Start Recording**:\n   - In the dropdown menu, select **Start recording**.\n   - Teams will notify all participants that the meeting is being recorded.\n\n4. **Stop Recording**:\n   - To stop the recording, click on the three dots again and select **Stop recording**.\n   - The recording will be processed and saved automatically.\n\n5. **Access the Recording**:\n   - After the meeting ends, the recording will be available in the meeting chat or in the Teams channel (if it was a channel meeting).\n   - You can also find it in the **Files** tab of the meeting or channel.\n\n6. **Share the Recording**:\n   - You can share the recording link with participants or others who need to view it.\n\n**Note**: Ensure you have the necessary permissions to record meetings, as this feature might be restricted based on your organization's settings.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:35:42.3791436+02:00",
+  "durationSeconds": 7.34,
+  "stats": "mistral-small3.2:latest · 516 + 260 tokens · 7,3 s",
+  "isError": false,
+  "language": "EN"
+}

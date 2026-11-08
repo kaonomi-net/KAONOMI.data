@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-sanctions-europeennes-pour-cyberattaques",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Sanctions européennes pour cyberattaques",
+  "includedEntities": [
+    {
+      "entityName": "sanctions",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cyberattaques",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le régime de sanctions européen contre les auteurs de cyberattaques.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Conseil de l'UE",
+    "individus",
+    "entités"
+  ],
+  "questions": [
+    "Qui est sanctionné ?",
+    "Pour quelle attaque ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#UNION-EUROPEENNE",
+    "#SANCTIONS"
+  ],
+  "events": [
+    "@SANCTION"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-soumission-chimique",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Soumission chimique",
+  "includedEntities": [
+    {
+      "entityName": "soumission chimique",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "victimes",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la soumission chimique et ses conséquences psychologiques.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "procès de Mazan",
+    "prévention",
+    "tests"
+  ],
+  "questions": [
+    "Quelle affaire ?",
+    "Quelle mesure ?",
+    "Quel dispositif ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#VIOLENCES-SEXUELLES"
+  ],
+  "events": [],
+  "signals": [
+    "!VIOLENCE"
+  ],
+  "isDeleted": false
+}

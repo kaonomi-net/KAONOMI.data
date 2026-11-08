@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (les réseaux récurrents) : Chercheur allemand de l'IDSIA en Suisse, co-inventeur du LSTM avec Sepp Hochreiter (1997).",
+  "id": "ia-schmidhuber",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Jürgen Schmidhuber",
+  "entityType": "PERSON",
+  "description": "Chercheur allemand de l'IDSIA en Suisse, co-inventeur du LSTM avec Sepp Hochreiter (1997).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Sans les idées de Jürgen Schmidhuber, l'histoire des réseaux récurrents aurait été différente.",
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Jürgen Schmidhuber.",
+    "Les étudiants lisent les articles de Jürgen Schmidhuber pour comprendre les réseaux récurrents."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Juergen Schmidhuber"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#RESEAUXRECURRENTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=J%C3%BCrgen%20Schmidhuber"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "LSTM"
+  ],
+  "isDeleted": false,
+  "startDate": "1963-01-17T00:00:00",
+  "endDate": null
+}

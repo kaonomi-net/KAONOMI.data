@@ -1,0 +1,53 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-apt-iraniens",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "APT iraniens",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Cyberguerre liée à l'Iran.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les cyberattaques liées à la guerre avec l'Iran depuis février 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "APT iraniens",
+  "tags": [
+    "#CYBERSECURITE",
+    "#IRAN",
+    "#CYBERGUERRE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Iran",
+    "hacktivistes",
+    "Moyen-Orient",
+    "Europe",
+    "Handala",
+    "guerre",
+    "cyberattaques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

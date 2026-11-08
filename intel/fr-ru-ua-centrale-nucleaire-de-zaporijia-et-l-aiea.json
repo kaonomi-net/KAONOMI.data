@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-centrale-nucleaire-de-zaporijia-et-l-aiea",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Centrale nucléaire de Zaporijia et l'AIEA",
+  "includedEntities": [
+    {
+      "entityName": "centrale de Zaporijia",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "AIEA",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la sûreté de la centrale de Zaporijia et les rapports de l'AIEA.",
+  "isFuzzy": true,
+  "locations": [
+    "Enerhodar"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Grossi",
+    "Rosatom",
+    "lignes électriques"
+  ],
+  "questions": [
+    "Quel état de sûreté ?",
+    "Quelles coupures ?",
+    "Quelle proposition de l'AIEA ?"
+  ],
+  "tags": [
+    "#NUCLEAIRE",
+    "#UKRAINE",
+    "#AIEA"
+  ],
+  "events": [
+    "@RAPPORT-AIEA"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

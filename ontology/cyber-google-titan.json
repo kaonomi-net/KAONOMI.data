@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (la sécurité des plateformes) : Puce de racine de confiance de Google, déployée dans ses serveurs puis déclinée dans les téléphones Pixel (Titan M).",
+  "id": "cyber-google-titan",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Puce Titan de Google",
+  "entityType": "HARDWARE",
+  "description": "Puce de racine de confiance de Google, déployée dans ses serveurs puis déclinée dans les téléphones Pixel (Titan M).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "La fiche technique de Puce Titan de Google détaille ses caractéristiques de sécurité.",
+    "Pour cet audit, l'équipe a comparé Puce Titan de Google à d'autres solutions matérielles.",
+    "Puce Titan de Google a marqué l'histoire du matériel consacré à la sécurité des plateformes."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Titan"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#SECURITEPLATEFORMES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Puce%20Titan%20de%20Google"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Microsoft Pluton"
+  ],
+  "isDeleted": false,
+  "startDate": "2017-01-01T00:00:00",
+  "endDate": null
+}

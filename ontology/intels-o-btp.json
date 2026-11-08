@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-btp",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "BTP",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Dette italienne et BTP.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les taux italiens, comparés aux taux français."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "BTP",
+  "tags": [
+    "#DETTE",
+    "#ITALIE",
+    "#OBLIGATIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!TAUX"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Italie",
+    "Meloni",
+    "spread",
+    "notation",
+    "Rome"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

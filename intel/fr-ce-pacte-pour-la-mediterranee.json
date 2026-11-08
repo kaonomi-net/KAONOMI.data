@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-pacte-pour-la-mediterranee",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Pacte pour la Méditerranée",
+  "includedEntities": [
+    {
+      "entityName": "pacte pour la Méditerranée",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Méditerranée",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le nouveau pacte européen pour la Méditerranée.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Šuica",
+    "migrations",
+    "énergie"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quels pays partenaires ?",
+    "Quel financement ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MEDITERRANEE",
+    "#PARTENARIAT"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

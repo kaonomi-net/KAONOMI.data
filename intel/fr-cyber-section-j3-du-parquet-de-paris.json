@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-section-j3-du-parquet-de-paris",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Section J3 du parquet de Paris",
+  "includedEntities": [
+    {
+      "entityName": "parquet de Paris",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cybercriminalité",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les enquêtes de la section cybercriminalité du parquet de Paris.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "J3",
+    "plaintes",
+    "enquêtes"
+  ],
+  "questions": [
+    "Quelle enquête ?",
+    "Quelle victime ?",
+    "Quelle mise en examen ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FRANCE",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

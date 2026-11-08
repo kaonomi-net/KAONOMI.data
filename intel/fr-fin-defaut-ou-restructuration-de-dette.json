@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-defaut-ou-restructuration-de-dette",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Défaut ou restructuration de dette",
+  "includedEntities": [
+    {
+      "entityName": "défaut",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "restructuration",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les défauts d'entreprises ou d'États.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "créanciers",
+    "agences de notation",
+    "tribunal"
+  ],
+  "questions": [
+    "Quel émetteur ?",
+    "Quel montant ?",
+    "Quelle contagion ?"
+  ],
+  "tags": [
+    "#OBLIGATIONS",
+    "#DEFAUT"
+  ],
+  "events": [
+    "@DEFAUT"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

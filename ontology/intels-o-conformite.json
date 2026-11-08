@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-conformite",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "conformité",
+  "entityType": "DOMAIN",
+  "description": "Cité par 5 intels : Application de l'AI Act européen ; Système d'IA à haut risque ; Fintech et intelligence artificielle ; Référentiel Cyber France ; Omnibus numérique et AI Act.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'entrée en application du règlement européen sur l'IA.",
+    "Identifier les systèmes classés à haut risque par le règlement européen.",
+    "Suivre l'usage de l'IA dans la finance."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "conformité",
+  "tags": [
+    "#IA",
+    "#REGULATION",
+    "#EUROPE",
+    "#HAUT-RISQUE",
+    "#FINANCE",
+    "#FINTECH"
+  ],
+  "events": [
+    "@ECHEANCE-REGLEMENTAIRE"
+  ],
+  "signals": [
+    "!CONFORMITE",
+    "!REGULATION",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AI Act",
+    "Bruxelles",
+    "IA",
+    "Parlement européen",
+    "Commission européenne",
+    "Bureau de l'IA",
+    "Union européenne",
+    "Europe",
+    "justice",
+    "haut risque"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

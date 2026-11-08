@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-troubles-obsessionnels-compulsifs",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Troubles obsessionnels compulsifs",
+  "includedEntities": [
+    {
+      "entityName": "TOC",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "troubles obsessionnels compulsifs",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'actualité des troubles obsessionnels compulsifs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "rituels",
+    "TCC",
+    "stimulation"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel traitement ?",
+    "Quel témoignage ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TOC"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

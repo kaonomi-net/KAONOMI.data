@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-graine",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La semence qui donnera une plante.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:graine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:semence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]pin(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:planter\\s+(une|des)\\s+graine(s)?)(?![\\w-])"
+  ],
+  "symbol": "graine",
+  "event": null,
+  "title": "Graine",
+  "tags": [
+    "#NATURE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-remaniements-au-kremlin",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Remaniements au Kremlin",
+  "includedEntities": [
+    {
+      "entityName": "remaniement",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Kremlin",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "ministre",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les changements de ministres, de gouverneurs et de hauts responsables.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "gouvernement",
+    "gouverneurs",
+    "défense"
+  ],
+  "questions": [
+    "Qui part ?",
+    "Qui arrive ?",
+    "Quelle lecture politique ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#RUSSIE",
+    "#POUVOIR"
+  ],
+  "events": [
+    "@NOMINATION"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

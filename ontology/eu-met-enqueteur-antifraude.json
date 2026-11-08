@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Enquête sur les fraudes au détriment du budget de l'Union.",
+  "id": "eu-met-enqueteur-antifraude",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Enquêteur antifraude",
+  "entityType": "PROFESSION",
+  "description": "Enquête sur les fraudes au détriment du budget de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "Enquêteur antifraude : plusieurs personnalités de l'ontologie ont exercé cette fonction.",
+    "La fiche « Enquêteur antifraude » décrit le rôle et les responsabilités associés.",
+    "Les candidats aux concours européens découvrent le métier « Enquêteur antifraude »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Enqu%C3%AAteur%20antifraude"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Office européen de lutte antifraude"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

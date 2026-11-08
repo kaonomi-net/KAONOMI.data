@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-deportation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le transfert forcé de populations.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]portation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]port(er|[ée]|[ée]e|[ée]s|[ée]es)|transfert(s)?\\s+forc[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:camp(s)?\\s+de\\s+concentration)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nettoyage\\s+ethnique)(?![\\w-])"
+  ],
+  "symbol": "déportation",
+  "event": null,
+  "title": "Déportation",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

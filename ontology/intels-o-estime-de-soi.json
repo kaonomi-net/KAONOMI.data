@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-estime-de-soi",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "estime de soi",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Applications de rencontre et santé mentale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les effets psychologiques des applications de rencontre."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "estime de soi",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#COUPLE",
+    "#NUMERIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "santé mentale",
+    "applications de rencontre",
+    "fatigue",
+    "Tinder"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

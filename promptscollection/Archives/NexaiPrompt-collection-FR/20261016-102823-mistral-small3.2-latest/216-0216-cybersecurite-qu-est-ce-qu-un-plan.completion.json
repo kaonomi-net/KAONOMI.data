@@ -1,0 +1,13 @@
+{
+  "index": 216,
+  "file": "0216-cybersecurite-qu-est-ce-qu-un-plan.prompt.json",
+  "prompt": "Qu'est-ce qu'un plan de continuité et de reprise d'activité (PCA/PRA) ?",
+  "promptWords": 11,
+  "completion": "Un **Plan de Continuité et de Reprise d'Activité (PCA/PRA)** est un document stratégique qui définit les mesures à prendre pour assurer la continuité des activités d'une organisation en cas de crise ou de perturbation majeure, ainsi que les étapes nécessaires pour reprendre les opérations normales après un incident.\n\n### **1. Plan de Continuité d'Activité (PCA)**\nLe PCA vise à maintenir les fonctions critiques d'une organisation pendant une crise (ex. : cyberattaque, catastrophe naturelle, pandémie). Il inclut :\n- **L'identification des activités essentielles** (ex. : systèmes informatiques, chaînes d'approvisionnement).\n- **Des procédures de secours** (ex. : basculement vers des serveurs de secours, télétravail).\n- **Des ressources alternatives** (ex. : générateurs électriques, fournisseurs de secours).\n\n### **2. Plan de Reprise d'Activité (PRA)**\nLe PRA décrit les actions à mettre en œuvre pour rétablir les opérations après une interruption. Il comprend :\n- **Un plan de restauration** (ex. : sauvegardes de données, réparation des infrastructures).\n- **Des équipes dédiées** (ex. : cellules de crise, responsables de la reprise).\n- **Des tests réguliers** pour vérifier l'efficacité des mesures.\n\n### **Objectifs principaux**\n- **Minimiser les perturbations** et les pertes financières.\n- **Protéger les données et les actifs** de l'entreprise.\n- **Garantir la sécurité des employés** et des clients.\n\nUn PCA/PRA bien élaboré permet à une organisation de rester résiliente face aux imprévus. Souhaitez-vous des conseils pour en créer un ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:05:58.967289+02:00",
+  "durationSeconds": 7.41,
+  "stats": "mistral-small3.2:latest · 528 + 360 tokens · 7,4 s",
+  "isError": false,
+  "language": "FR"
+}

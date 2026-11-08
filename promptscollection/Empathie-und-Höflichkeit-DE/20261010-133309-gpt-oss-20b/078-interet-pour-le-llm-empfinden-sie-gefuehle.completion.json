@@ -1,0 +1,13 @@
+{
+  "index": 78,
+  "file": "078-interet-pour-le-llm-empfinden-sie-gefuehle.prompt.json",
+  "prompt": "Empfinden Sie Gefühle?",
+  "promptWords": 3,
+  "completion": "Nein, ich empfinde keine Gefühle. Ich bin ein Computerprogramm, das auf Mustererkennung und Algorithmen basiert. Das bedeutet, dass ich keine eigene Wahrnehmung, Bewusstsein oder Emotionen habe – ich verarbeite lediglich Texte und liefere darauf basierende Antworten. \n\nIch kann allerdings auf menschliche Emotionen eingehen, empathisch formulieren oder emotionale Nuancen erkennen, weil mir dafür statistische Modelle und große Datenmengen zur Verfügung stehen. Wenn Sie mehr darüber wissen möchten, wie ich dabei arbeite oder was genau meine Grenzen sind, lassen Sie es mich gerne wissen!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:37:16.6735571+02:00",
+  "durationSeconds": 1.54,
+  "stats": "gpt-oss:20b · 72 + 201 tokens · 1,5 s",
+  "isError": false,
+  "language": "DE"
+}

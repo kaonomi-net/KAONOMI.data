@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique spatiale) : Agence de l'Union européenne pour le programme spatial (EUSPA), organe de l'Union créé en 2021 et installé dans cette ville : Prague.",
+  "id": "eu-ag-euspa",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence de l'Union européenne pour le programme spatial (EUSPA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence de l'Union européenne pour le programme spatial (EUSPA), organe de l'Union créé en 2021 et installé dans cette ville : Prague.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Agence de l'Union européenne pour le programme spatial (EUSPA) ».",
+    "« Agence de l'Union européenne pour le programme spatial (EUSPA) » joue un rôle dans la politique spatiale.",
+    "Les fonctionnaires de « Agence de l'Union européenne pour le programme spatial (EUSPA) » préparent les textes relatifs à la politique spatiale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EUSPA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUESPATIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20de%20l%27Union%20europ%C3%A9enne%20pour%20le%20programme%20spatial%20%28EUSPA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Prague",
+    "Direction générale de l'industrie de la défense et de l'espace",
+    "Espace",
+    "Galileo",
+    "Copernicus"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-01-01T00:00:00",
+  "endDate": null
+}

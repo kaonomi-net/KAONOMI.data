@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-avatar",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "avatar",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Deuil numérique et avatars de défunts.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les avatars d'IA de personnes décédées."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "avatar",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#IA",
+    "#DEUIL"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "entreprises",
+    "défunt",
+    "deuil",
+    "éthique"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

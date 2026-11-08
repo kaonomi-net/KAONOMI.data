@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Tautos ir teisingumo sąjunga, parti ou liste de ce pays : Lituanie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-lt-tautos-ir-teisingumo-sajunga",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Tautos ir teisingumo sąjunga",
+  "entityType": "ORGANISATION",
+  "description": "Tautos ir teisingumo sąjunga, parti ou liste de ce pays : Lituanie, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Le programme européen de « Tautos ir teisingumo sąjunga » a été publié avant le scrutin.",
+    "Les eurodéputés de « Tautos ir teisingumo sąjunga » ont été élus en juin 2024.",
+    "« Tautos ir teisingumo sąjunga » est représenté dans le Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Tautos%20ir%20teisingumo%20s%C4%85junga"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Petras Gražulis",
+    "Lituanie",
+    "Europe des nations souveraines (ENS)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

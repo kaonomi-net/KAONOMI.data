@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-pourrissement",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un cheveu trouvé dans un plat.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pourrissement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cheveu(x)?\\s+dans\\s+(mon|le|ton|ce)\\s+(plat|assiette|soupe))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:poil(s)?\\s+dans\\s+(mon|le|la)\\s+(plat|assiette|soupe)|insecte(s)?\\s+dans\\s+(mon|le|la)\\s+(plat|assiette|salade)|ver(s)?\\s+dans\\s+(le|la|mon|ma)\\s+(fruit|pomme|salade))(?![\\w-])"
+  ],
+  "symbol": "pourrissement",
+  "event": null,
+  "title": "Pourrissement",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

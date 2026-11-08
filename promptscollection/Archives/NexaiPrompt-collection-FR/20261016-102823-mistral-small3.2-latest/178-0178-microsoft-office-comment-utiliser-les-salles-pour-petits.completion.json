@@ -1,0 +1,13 @@
+{
+  "index": 178,
+  "file": "0178-microsoft-office-comment-utiliser-les-salles-pour-petits.prompt.json",
+  "prompt": "Comment utiliser les salles pour petits groupes dans Teams ?",
+  "promptWords": 10,
+  "completion": "Pour utiliser les salles pour petits groupes dans Microsoft Teams, voici les étapes à suivre :\n\n1. **Accéder à une réunion Teams** :\n   - Ouvrez Microsoft Teams et rejoignez une réunion en cliquant sur l'onglet \"Réunions\" ou en acceptant une invitation à une réunion.\n\n2. **Activer les salles pour petits groupes** :\n   - Pendant une réunion, cliquez sur les trois points (⋯) à côté du bouton \"Partager\" dans la barre d'outils.\n   - Sélectionnez \"Salles pour petits groupes\" dans le menu déroulant.\n\n3. **Créer des salles** :\n   - Une fenêtre pop-up s'ouvrira où vous pourrez créer des salles pour petits groupes.\n   - Vous pouvez nommer chaque salle et y ajouter des participants spécifiques.\n\n4. **Gérer les participants** :\n   - Vous pouvez déplacer les participants entre les différentes salles ou les faire revenir dans la salle principale.\n\n5. **Utiliser les fonctionnalités des salles** :\n   - Chaque salle dispose de ses propres fonctionnalités de chat, de partage d'écran et de vidéo, similaires à celles de la salle principale.\n\n6. **Quitter les salles** :\n   - Une fois la réunion terminée, les salles pour petits groupes seront automatiquement fermées.\n\nSi vous avez besoin d'informations plus détaillées ou d'une assistance spécifique, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:59:57.4432866+02:00",
+  "durationSeconds": 6.26,
+  "stats": "mistral-small3.2:latest · 517 + 305 tokens · 6,3 s",
+  "isError": false,
+  "language": "FR"
+}

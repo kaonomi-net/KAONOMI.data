@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sncf",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "SNCF",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Transports et grèves SNCF ; Sécurité dans les transports ; Cybersécurité ferroviaire.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les grèves et perturbations dans les transports.",
+    "Suivre la sécurité dans les transports en commun.",
+    "Suivre les cyberattaques et sabotages visant le rail."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "SNCF",
+  "tags": [
+    "#FRANCE",
+    "#TRANSPORTS",
+    "#GREVE",
+    "#SECURITE",
+    "#CYBERSECURITE",
+    "#FERROVIAIRE"
+  ],
+  "events": [
+    "@GREVE",
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!PERTURBATION",
+    "!SECURITE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "RATP",
+    "contrôleurs aériens",
+    "usagers",
+    "grève",
+    "cheminots",
+    "Paris",
+    "métro",
+    "sécurité",
+    "police",
+    "agression"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

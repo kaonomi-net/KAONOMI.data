@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-euvd",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "EUVD",
+  "entityType": "LAW",
+  "description": "Cité par 2 intels : Base CVE et financement ; Base européenne des vulnérabilités.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre l'avenir de la base CVE et de son financement.",
+    "Suivre la base européenne des vulnérabilités gérée par l'ENISA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "EUVD",
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#CVE",
+    "#ENISA"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE",
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "CVE",
+    "base",
+    "MITRE",
+    "CISA",
+    "CRA",
+    "base européenne des vulnérabilités",
+    "ENISA",
+    "Athènes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

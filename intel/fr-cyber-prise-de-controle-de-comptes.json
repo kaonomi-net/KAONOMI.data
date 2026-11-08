@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-prise-de-controle-de-comptes",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Prise de contrôle de comptes",
+  "includedEntities": [
+    {
+      "entityName": "prise de contrôle",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "comptes",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les piratages de comptes de réseaux sociaux et de messageries.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "WhatsApp",
+    "Instagram",
+    "arnaques"
+  ],
+  "questions": [
+    "Quel service ?",
+    "Quelle technique ?",
+    "Quelle récupération ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IDENTITES"
+  ],
+  "events": [],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

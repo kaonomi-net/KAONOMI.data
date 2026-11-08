@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-taux-directeur-de-la-banque-de-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Taux directeur de la Banque de Russie",
+  "includedEntities": [
+    {
+      "entityName": "taux directeur",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Banque de Russie",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les décisions de la Banque de Russie, taux à 14 % fin 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [
+    "réunions de politique monétaire"
+  ],
+  "relatedEntities": [
+    "Elvira Nabioullina",
+    "inflation",
+    "crédit"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quel taux ?",
+    "Quelles prévisions ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ECONOMIE-RUSSE",
+    "#BANQUE-CENTRALE"
+  ],
+  "events": [
+    "@DECISION-BANQUE-CENTRALE"
+  ],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les services financiers) : Journaliste, députée européenne et vice-présidente du Parlement européen, commissaire aux Services financiers de 2020 à 2024.",
+  "id": "eu-p-mcguinness",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Mairead McGuinness",
+  "entityType": "PERSON",
+  "description": "Journaliste, députée européenne et vice-présidente du Parlement européen, commissaire aux Services financiers de 2020 à 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Mairead McGuinness est une figure de les services financiers.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Mairead McGuinness.",
+    "Lors du point de presse de midi, une question portait sur Mairead McGuinness."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "McGuinness"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#SERVICESFINANCIERS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Mairead%20McGuinness"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité irlandaise",
+    "Fine Gael",
+    "Journaliste",
+    "Député européen",
+    "Commissaire européen",
+    "Services financiers, stabilité financière et union des marchés des capitaux (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Services financiers",
+    "Union de l'épargne et des investissements",
+    "Phil Hogan"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

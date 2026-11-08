@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-euro-numerique",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "euro numérique",
+  "entityType": "PRODUCT",
+  "description": "Cité par 2 intels : Euro numérique et paiements ; Euro numérique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre le projet d'euro numérique et ses effets sur les banques.",
+    "Suivre le projet d'euro numérique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "euro numérique",
+  "tags": [
+    "#FINANCE",
+    "#EURO-NUMERIQUE",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Francfort",
+    "BCE",
+    "banques",
+    "paiements",
+    "Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

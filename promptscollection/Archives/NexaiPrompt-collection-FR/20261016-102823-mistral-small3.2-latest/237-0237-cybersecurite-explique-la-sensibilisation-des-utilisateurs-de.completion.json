@@ -1,0 +1,13 @@
+{
+  "index": 237,
+  "file": "0237-cybersecurite-explique-la-sensibilisation-des-utilisateurs-de.prompt.json",
+  "prompt": "Explique la sensibilisation des utilisateurs de façon simple.",
+  "promptWords": 8,
+  "completion": "La sensibilisation des utilisateurs, souvent appelée \"sensibilisation à la sécurité\" ou \"formation des utilisateurs\", est le processus d'informer et d'éduquer les personnes sur les bonnes pratiques à adopter pour utiliser un système, un logiciel, un service ou un produit de manière sûre et efficace.\n\n### En termes simples, cela signifie :\n1. **Informer** : Expliquer comment fonctionne quelque chose et quels sont les risques potentiels.\n2. **Éduquer** : Apprendre aux utilisateurs comment éviter les problèmes (comme les virus, les escroqueries, ou les mauvaises manipulations).\n3. **Prévenir** : Montrer les bonnes habitudes à prendre pour utiliser le système en toute sécurité.\n\n### Exemples concrets :\n- **Sécurité informatique** : Apprendre à reconnaître un email frauduleux (phishing) ou à créer un mot de passe solide.\n- **Utilisation d'un logiciel** : Montrer comment sauvegarder son travail régulièrement pour éviter de perdre des données.\n- **Santé et sécurité** : Expliquer comment bien utiliser une machine pour éviter les accidents.\n\nL'objectif est d'éviter les erreurs, les accidents ou les abus en donnant aux utilisateurs les connaissances nécessaires pour agir de manière responsable.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:08:44.9119955+02:00",
+  "durationSeconds": 5.47,
+  "stats": "mistral-small3.2:latest · 519 + 267 tokens · 5,5 s",
+  "isError": false,
+  "language": "FR"
+}

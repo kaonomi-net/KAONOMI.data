@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-sentiment-des-investisseurs",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Sentiment des investisseurs",
+  "includedEntities": [
+    {
+      "entityName": "sentiment",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "investisseurs",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sondage",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le moral et le positionnement des investisseurs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "enquête des gérants",
+    "flux",
+    "peur et avidité"
+  ],
+  "questions": [
+    "Quel sentiment ?",
+    "Quelle évolution ?",
+    "Quel positionnement ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#SENTIMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

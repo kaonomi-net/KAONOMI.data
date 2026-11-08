@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-vomi",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui a été vomi.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vomi(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vomissure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]gueulis)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:flaque(s)?\\s+de\\s+vomi)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]gurgitation(s)?)(?![\\w-])"
+  ],
+  "symbol": "vomi",
+  "event": null,
+  "title": "Vomi",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

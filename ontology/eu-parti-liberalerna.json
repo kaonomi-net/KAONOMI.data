@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Libéraux (Liberalerna), parti politique de ce pays : Suède.",
+  "id": "eu-parti-liberalerna",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Libéraux (Liberalerna)",
+  "entityType": "ORGANISATION",
+  "description": "Libéraux (Liberalerna), parti politique de ce pays : Suède. Il est affilié à la famille Renew Europe.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "« Libéraux (Liberalerna) » joue un rôle dans la vie politique nationale.",
+    "Les fonctionnaires de « Libéraux (Liberalerna) » préparent les textes relatifs à la vie politique nationale.",
+    "La délégation a rencontré des représentants de « Libéraux (Liberalerna) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Lib%C3%A9raux%20%28Liberalerna%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Suède",
+    "Renew Europe",
+    "Cecilia Malmström"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

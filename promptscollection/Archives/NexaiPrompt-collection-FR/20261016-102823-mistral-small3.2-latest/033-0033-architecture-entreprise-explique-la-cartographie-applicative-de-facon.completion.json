@@ -1,0 +1,13 @@
+{
+  "index": 33,
+  "file": "0033-architecture-entreprise-explique-la-cartographie-applicative-de-facon.prompt.json",
+  "prompt": "Explique la cartographie applicative de façon simple.",
+  "promptWords": 7,
+  "completion": "La cartographie applicative est une méthode utilisée pour visualiser et comprendre les interactions entre les différentes applications, systèmes ou composants d'un environnement informatique. Imaginez que vous avez plusieurs applications qui communiquent entre elles dans une entreprise. La cartographie applicative permet de représenter graphiquement comment ces applications sont connectées, quelles données elles échangent et comment elles interagissent.\n\n### Exemple simple :\n- **Application A** (Gestion des clients) envoie des données à **Application B** (Facturation).\n- **Application B** utilise ces données pour générer des factures et envoie ensuite des informations à **Application C** (Comptabilité).\n\nLa cartographie applicative montre ces flux sous forme de schéma, avec des flèches ou des lignes reliant les applications concernées.\n\n### À quoi ça sert ?\n1. **Clarté** : Comprendre comment les systèmes fonctionnent ensemble.\n2. **Optimisation** : Identifier les redondances ou les points faibles.\n3. **Maintenance** : Faciliter les mises à jour ou les corrections.\n4. **Sécurité** : Repérer les vulnérabilités dans les échanges de données.\n\nEn résumé, c'est comme un plan qui vous aide à naviguer dans un système complexe d'applications interconnectées.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:35:47.5996712+02:00",
+  "durationSeconds": 5.54,
+  "stats": "mistral-small3.2:latest · 518 + 268 tokens · 5,5 s",
+  "isError": false,
+  "language": "FR"
+}

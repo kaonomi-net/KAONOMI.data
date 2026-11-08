@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-maman",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La mère, avec tendresse.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:maman(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mamounette)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:maternelle(s)?)(?![\\w-])"
+  ],
+  "symbol": "maman",
+  "event": null,
+  "title": "Maman",
+  "tags": [
+    "#FAMILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

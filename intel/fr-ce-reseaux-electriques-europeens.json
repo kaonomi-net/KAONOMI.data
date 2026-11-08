@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-reseaux-electriques-europeens",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Réseaux électriques européens",
+  "includedEntities": [
+    {
+      "entityName": "réseaux électriques",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "interconnexions",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les investissements dans les réseaux et interconnexions.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "pannes",
+    "renouvelables",
+    "financement"
+  ],
+  "questions": [
+    "Quel projet ?",
+    "Quel financement ?",
+    "Quels goulets d'étranglement ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENERGIE",
+    "#RESEAUX"
+  ],
+  "events": [],
+  "signals": [
+    "!ENERGIE"
+  ],
+  "isDeleted": false
+}

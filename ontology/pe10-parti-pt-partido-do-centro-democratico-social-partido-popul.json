@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Partido do Centro Democrático Social-Partido Popular, parti ou liste de ce pays : Portugal, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-pt-partido-do-centro-democratico-social-partido-popul",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Partido do Centro Democrático Social-Partido Popular",
+  "entityType": "ORGANISATION",
+  "description": "Partido do Centro Democrático Social-Partido Popular, parti ou liste de ce pays : Portugal, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Le programme européen de « Partido do Centro Democrático Social-Partido Popular » a été publié avant le scrutin.",
+    "Les eurodéputés de « Partido do Centro Democrático Social-Partido Popular » ont été élus en juin 2024.",
+    "« Partido do Centro Democrático Social-Partido Popular » est représenté dans le Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Partido%20do%20Centro%20Democr%C3%A1tico%20Social-Partido%20Popular"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ana Miguel Pedro",
+    "Portugal",
+    "Parti populaire européen (PPE)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

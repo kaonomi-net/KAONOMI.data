@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-rapport-international-sur-la-surete-de-l-ia",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Rapport international sur la sûreté de l'IA",
+  "includedEntities": [
+    {
+      "entityName": "sûreté de l'IA",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "rapport international",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les conclusions du rapport international sur la sûreté de l'IA concernant la cybersécurité.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Yoshua Bengio",
+    "risques",
+    "capacités"
+  ],
+  "questions": [
+    "Quelles conclusions ?",
+    "Quels risques cyber ?",
+    "Quelles recommandations ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#SECURITE-IA"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

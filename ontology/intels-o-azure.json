@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-azure",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Azure",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 5 intels : Partenariat Microsoft et OpenAI ; Microsoft ; Pentest du cloud ; Microsoft et la sécurité ; Sécurité du cloud.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre l'évolution de l'alliance entre Microsoft et OpenAI.",
+    "Suivre l'action Microsoft, son cloud et son IA.",
+    "Suivre les tests d'intrusion des environnements cloud."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Azure",
+  "tags": [
+    "#MICROSOFT",
+    "#CYBERSECURITE",
+    "#IA",
+    "#CLOUD",
+    "#PARTENARIAT",
+    "#OPENAI"
+  ],
+  "events": [
+    "@PARTENARIAT",
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!DEFENSE",
+    "!STRATEGIE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Microsoft",
+    "Redmond",
+    "OpenAI",
+    "Copilot",
+    "configuration",
+    "AWS",
+    "San Francisco",
+    "Satya Nadella",
+    "identités",
+    "pentest"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

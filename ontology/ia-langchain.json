@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les applications de modèles de langage) : Cadriciel libre pour construire des applications à base de modèles de langage (chaînes, agents, RAG).",
+  "id": "ia-langchain",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "LangChain",
+  "entityType": "SOFTWARE",
+  "description": "Cadriciel libre pour construire des applications à base de modèles de langage (chaînes, agents, RAG).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "LangChain figure parmi les logiciels marquants des applications de modèles de langage.",
+    "En atelier, les élèves ont découvert LangChain et ses possibilités.",
+    "L'équipe a comparé LangChain avec d'autres outils des applications de modèles de langage."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "LangChain"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#APPLICATIONSMODELESLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=LangChain"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ChatGPT"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-01-01T00:00:00",
+  "endDate": null
+}

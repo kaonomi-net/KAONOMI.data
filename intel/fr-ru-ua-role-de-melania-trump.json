@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-role-de-melania-trump",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Rôle de Melania Trump",
+  "includedEntities": [
+    {
+      "entityName": "Melania Trump",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "cessez-le-feu",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de Melania Trump dans les initiatives humanitaires et de trêve.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Olechky",
+    "enfants",
+    "Maison Blanche"
+  ],
+  "questions": [
+    "Quelle initiative ?",
+    "Quel résultat ?",
+    "Quelle réaction des parties ?"
+  ],
+  "tags": [
+    "#ETATS-UNIS",
+    "#HUMANITAIRE",
+    "#CESSEZ-LE-FEU"
+  ],
+  "events": [],
+  "signals": [
+    "!DESESCALADE"
+  ],
+  "isDeleted": false
+}

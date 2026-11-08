@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-asie-centrale",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Asie centrale",
+  "entityType": "LOCATION",
+  "description": "Cité par 5 intels : Déplacements de Poutine à l'étranger ; Main-d'œuvre étrangère et naturalisés envoyés au front ; Asie centrale et Russie ; Contournement des sanctions par des pays tiers ; Union européenne et Asie centrale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les voyages officiels du président russe.",
+    "Suivre les pressions sur les migrants et naturalisés pour s'engager.",
+    "Suivre les relations entre la Russie et les pays d'Asie centrale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Asie centrale",
+  "tags": [
+    "#RUSSIE",
+    "#ASIE-CENTRALE",
+    "#UNION-EUROPEENNE",
+    "#POUTINE",
+    "#DIPLOMATIE",
+    "#MIGRANTS"
+  ],
+  "events": [
+    "@VISITE-OFFICIELLE"
+  ],
+  "signals": [
+    "!INFLUENCE",
+    "!DIPLOMATIE",
+    "!VIGILANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chine",
+    "migrants",
+    "Astana",
+    "sanctions",
+    "Russie",
+    "Inde",
+    "voyage",
+    "visite",
+    "Poutine",
+    "armée"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-reconstruction-de-l-ukraine-et-la-commission",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Reconstruction de l'Ukraine et la Commission",
+  "includedEntities": [
+    {
+      "entityName": "reconstruction",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Commission",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de la Commission dans la reconstruction de l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv",
+    "Rome"
+  ],
+  "times": [
+    "conférences de reconstruction"
+  ],
+  "relatedEntities": [
+    "investisseurs",
+    "BEI",
+    "garanties"
+  ],
+  "questions": [
+    "Quels engagements ?",
+    "Quels projets ?",
+    "Quelle coordination ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#UKRAINE",
+    "#RECONSTRUCTION"
+  ],
+  "events": [
+    "@CONFERENCE"
+  ],
+  "signals": [
+    "!RECONSTRUCTION"
+  ],
+  "isDeleted": false
+}

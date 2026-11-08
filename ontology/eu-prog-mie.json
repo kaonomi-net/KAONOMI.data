@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (les transports) : Financement des réseaux transeuropéens de transport, d'énergie et de télécommunications.",
+  "id": "eu-prog-mie",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Mécanisme pour l'interconnexion en Europe",
+  "entityType": "PROGRAMME",
+  "description": "Financement des réseaux transeuropéens de transport, d'énergie et de télécommunications.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Le bilan de « Mécanisme pour l'interconnexion en Europe » a été présenté au Parlement européen.",
+    "« Mécanisme pour l'interconnexion en Europe » finance des projets dans les transports.",
+    "Le projet a reçu un financement de « Mécanisme pour l'interconnexion en Europe »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [
+    "MIE",
+    "CEF"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#TRANSPORTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=M%C3%A9canisme%20pour%20l%27interconnexion%20en%20Europe"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de la mobilité et des transports",
+    "Transports",
+    "Énergie",
+    "Numérique",
+    "Agence exécutive européenne pour le climat, les infrastructures et l'environnement (CINEA)"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-01-01T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

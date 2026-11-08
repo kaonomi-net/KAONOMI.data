@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (les accélérateurs d'IA) : Puce géante de Cerebras couvrant une tranche de silicium entière, avec des centaines de milliers de cœurs.",
+  "id": "ia-cerebras-wse",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Cerebras WSE",
+  "entityType": "HARDWARE",
+  "description": "Puce géante de Cerebras couvrant une tranche de silicium entière, avec des centaines de milliers de cœurs.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Lors du salon, le stand présentait Cerebras WSE en démonstration.",
+    "Le laboratoire utilise Cerebras WSE pour ses travaux dans le domaine des accélérateurs d'IA.",
+    "Le technicien a installé Cerebras WSE dans la salle des machines."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Wafer Scale Engine"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#ACCELERATEURSIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Cerebras%20WSE"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NVIDIA A100"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-01-01T00:00:00",
+  "endDate": null
+}

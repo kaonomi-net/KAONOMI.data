@@ -1,0 +1,13 @@
+{
+  "index": 546,
+  "file": "0546-prolog-qu-est-ce-que-le-langage.prompt.json",
+  "prompt": "Qu'est-ce que le langage Prolog ?",
+  "promptWords": 6,
+  "completion": "Prolog (Programmation en Logique) est un langage de programmation logique inventé en 1972 par Alain Colmerauer et Philippe Roussel. Il est principalement utilisé pour des applications nécessitant un raisonnement logique, comme l'intelligence artificielle, la linguistique, la base de données et la résolution de problèmes complexes.\n\nVoici quelques caractéristiques clés de Prolog :\n\n1. **Déclaratif** : Contrairement aux langages impératifs comme C ou Python, Prolog est déclaratif. Vous décrivez ce que vous voulez accomplir plutôt que de décrire comment l'accomplir.\n\n2. **Règles et faits** : Prolog utilise des règles et des faits pour représenter des connaissances. Par exemple, vous pouvez définir des faits comme `chat(tom)` et des règles comme `animal(X) :- chat(X).` pour dire que Tom est un chat et qu'un chat est un animal.\n\n3. **Backtracking** : Prolog utilise un mécanisme de backtracking pour explorer toutes les solutions possibles à un problème.\n\n4. **Unification** : C'est un processus de correspondance de motifs utilisé pour comparer des termes et trouver des solutions.\n\n5. **Applications** : Prolog est souvent utilisé dans des domaines comme le traitement du langage naturel, les systèmes experts, la vérification de programmes et la résolution de problèmes de contraintes.\n\nSi vous avez des questions plus spécifiques sur Prolog ou si vous souhaitez des exemples de code, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:04:39.804235+02:00",
+  "durationSeconds": 6.41,
+  "stats": "mistral-small3.2:latest · 516 + 312 tokens · 6,4 s",
+  "isError": false,
+  "language": "FR"
+}

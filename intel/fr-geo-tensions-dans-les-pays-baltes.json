@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-tensions-dans-les-pays-baltes",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Tensions dans les pays baltes",
+  "includedEntities": [
+    {
+      "entityName": "pays baltes",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Kaliningrad",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "OTAN",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les tensions entre la Russie et les États baltes.",
+  "isFuzzy": true,
+  "locations": [
+    "Lituanie",
+    "Lettonie",
+    "Estonie",
+    "Kaliningrad"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "OTAN",
+    "sabotage",
+    "câbles sous-marins"
+  ],
+  "questions": [
+    "Quelles provocations ?",
+    "Quels renforts de l'OTAN ?",
+    "Quels sabotages ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#BALTES",
+    "#OTAN",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

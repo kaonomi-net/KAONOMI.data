@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-avoirs-russes",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "avoirs russes",
+  "entityType": "PRODUCT",
+  "description": "Cité par 4 intels : Avoirs russes gelés ; Prêt de réparation pour l'Ukraine ; Avoirs russes gelés chez Euroclear ; Commission des réclamations pour l'Ukraine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre l'avenir des quelque 210 milliards d'euros d'avoirs russes gelés en Europe.",
+    "Suivre le projet de la Commission d'utiliser les avoirs russes gelés pour l'Ukraine.",
+    "Suivre le sort des quelque 210 milliards d'euros d'avoirs russes immobilisés chez Euroclear."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "avoirs russes",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AVOIRS-GELES",
+    "#RUSSIE",
+    "#UKRAINE",
+    "#COMMISSION-EUROPEENNE",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@DECISION-UE"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE",
+    "!SOUTIEN",
+    "!JUSTICE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Euroclear",
+    "gel illimité",
+    "210 milliards",
+    "Belgique",
+    "prêt de réparation",
+    "G7",
+    "gelés",
+    "victimes",
+    "réclamations"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-gratitude-et-optimisme",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Gratitude et optimisme",
+  "includedEntities": [
+    {
+      "entityName": "gratitude",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "optimisme",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recherches sur la gratitude et l'optimisme.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "psychologie positive",
+    "santé",
+    "longévité"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel effet ?",
+    "Quelle limite ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#EMOTIONS",
+    "#PSYCHOLOGIE-POSITIVE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "isDeleted": false
+}

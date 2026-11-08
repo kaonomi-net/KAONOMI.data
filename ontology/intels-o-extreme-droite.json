@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-extreme-droite",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "extrême droite",
+  "entityType": "NORP",
+  "description": "Cité par 2 intels : Montée des populismes ; Votes du PPE avec l'extrême droite.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-norp",
+  "sentencesExemples": [
+    "Suivre l'évolution électorale des partis populistes.",
+    "Suivre les votes où le PPE s'allie avec les groupes de droite radicale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "extrême droite",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#POLITIQUE",
+    "#POPULISME",
+    "#PARLEMENT-EUROPEEN",
+    "#PPE",
+    "#ALLIANCES"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "coalitions",
+    "sondages",
+    "extrême gauche",
+    "populisme",
+    "élections",
+    "Patriotes",
+    "ECR",
+    "vote",
+    "Manfred Weber",
+    "PPE"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

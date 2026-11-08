@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-note-de-s-p",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Note de S&P",
+  "includedEntities": [
+    {
+      "entityName": "S&P",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Standard and Poor's",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "note",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la note de Standard and Poor's.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "calendrier des revues"
+  ],
+  "relatedEntities": [
+    "perspective",
+    "dette",
+    "budget"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quelle perspective ?",
+    "Quelles raisons ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#NOTATION"
+  ],
+  "events": [
+    "@DECISION-NOTATION"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

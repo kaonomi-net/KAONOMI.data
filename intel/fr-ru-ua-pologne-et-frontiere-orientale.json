@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-pologne-et-frontiere-orientale",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Pologne et frontière orientale",
+  "includedEntities": [
+    {
+      "entityName": "Pologne",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "frontière",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Biélorussie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la sécurité de la frontière orientale polonaise.",
+  "isFuzzy": true,
+  "locations": [
+    "Pologne",
+    "frontière biélorusse"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Bouclier Est",
+    "migrants",
+    "drones"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quelles mesures ?",
+    "Quels renforts ?"
+  ],
+  "tags": [
+    "#POLOGNE",
+    "#FRONTIERE",
+    "#SECURITE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

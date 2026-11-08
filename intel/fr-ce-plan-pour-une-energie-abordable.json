@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-plan-pour-une-energie-abordable",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Plan pour une énergie abordable",
+  "includedEntities": [
+    {
+      "entityName": "énergie abordable",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "plan",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le plan européen pour réduire le coût de l'énergie.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "réseaux",
+    "contrats de long terme",
+    "industrie"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quel effet ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENERGIE",
+    "#COMPETITIVITE"
+  ],
+  "events": [],
+  "signals": [
+    "!ENERGIE"
+  ],
+  "isDeleted": false
+}

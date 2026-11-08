@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-operations-sur-les-iles-du-dniepr",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Opérations sur les îles du Dniepr",
+  "includedEntities": [
+    {
+      "entityName": "îles du Dniepr",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Dniepr",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les opérations sur les îles et la rive gauche du Dniepr.",
+  "isFuzzy": true,
+  "locations": [
+    "Kherson",
+    "Krynky"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "forces spéciales",
+    "marine",
+    "drones"
+  ],
+  "questions": [
+    "Quelle opération ?",
+    "Quelle position tenue ?",
+    "Quelles pertes ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#KHERSON",
+    "#FRONT"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

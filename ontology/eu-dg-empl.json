@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'emploi) : Direction générale de l'emploi, des affaires sociales et de l'inclusion (DG EMPL), service de la Commission européenne compétent pour l'emploi, les compétences, placé sous l'autorité de Roxana Mînzatu dans la Commission von der Leyen II.",
+  "id": "eu-dg-empl",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de l'emploi, des affaires sociales et de l'inclusion",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de l'emploi, des affaires sociales et de l'inclusion (DG EMPL), service de la Commission européenne compétent pour l'emploi, les compétences, placé sous l'autorité de Roxana Mînzatu dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "« Direction générale de l'emploi, des affaires sociales et de l'inclusion » joue un rôle dans l'emploi.",
+    "Les fonctionnaires de « Direction générale de l'emploi, des affaires sociales et de l'inclusion » préparent les textes relatifs à l'emploi.",
+    "La délégation a rencontré des représentants de « Direction générale de l'emploi, des affaires sociales et de l'inclusion »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG EMPL"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20l%27emploi%2C%20des%20affaires%20sociales%20et%20de%20l%27inclusion"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Roxana Mînzatu",
+    "Emploi et droits sociaux",
+    "Compétences",
+    "Autorité européenne du travail (ELA)",
+    "Fondation européenne pour l'amélioration des conditions de vie et de travail (Eurofound)",
+    "Agence européenne pour la sécurité et la santé au travail (EU-OSHA)",
+    "Centre européen pour le développement de la formation professionnelle (Cedefop)",
+    "Fondation européenne pour la formation (ETF)",
+    "Directive relative à des salaires minimaux adéquats",
+    "Directive sur le travail via une plateforme",
+    "Fonds social européen plus"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

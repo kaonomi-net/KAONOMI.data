@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-egout",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La canalisation des eaux sales.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]gout(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bouche(s)?\\s+d['’][ée]gout)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fosse(s)?\\s+septique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cloaque(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:caniveau(x)?\\s+puant(s)?)(?![\\w-])"
+  ],
+  "symbol": "égout",
+  "event": null,
+  "title": "Égout",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

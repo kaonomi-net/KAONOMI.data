@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-abus",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'usage injuste de son pouvoir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:abus)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:abus\\s+de\\s+pouvoir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:abus\\s+de\\s+faiblesse)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:abus(er|[ée]|[ée]e)\\s+de)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:emprise(s)?)(?![\\w-])"
+  ],
+  "symbol": "abus",
+  "event": null,
+  "title": "Abus",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

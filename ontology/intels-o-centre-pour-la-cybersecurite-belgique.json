@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-centre-pour-la-cybersecurite-belgique",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "Centre pour la cybersécurité Belgique",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Cyberattaque en Belgique ; Centre pour la cybersécurité Belgique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les cyberattaques visant la Belgique.",
+    "Suivre les alertes et la mise en œuvre de NIS2 en Belgique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Centre pour la cybersécurité Belgique",
+  "tags": [
+    "#CYBERSECURITE",
+    "#BELGIQUE",
+    "#CCB"
+  ],
+  "events": [
+    "@CYBERATTAQUE",
+    "@ALERTE-SECURITE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!DEFENSE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "CCB",
+    "Belgique",
+    "entreprises",
+    "DDoS",
+    "cyberattaque",
+    "alertes",
+    "NIS2",
+    "Bruxelles",
+    "Safeonweb"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

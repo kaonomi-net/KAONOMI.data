@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-bourreau",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Celui qui fait souffrir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bourreau(x)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tortionnaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pers[ée]cuteur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tyran(s)?\\s+domestique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:harceleur(s)?)(?![\\w-])"
+  ],
+  "symbol": "bourreau",
+  "event": null,
+  "title": "Bourreau",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

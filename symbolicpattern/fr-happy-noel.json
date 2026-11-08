@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-noel",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La fête de la Nativité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:no[ëe]l(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:joyeux\\s+no[ëe]l)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sapin(s)?\\s+de\\s+no[ëe]l)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[èe]re\\s+no[ëe]l)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nativit[ée])(?![\\w-])"
+  ],
+  "symbol": "noël",
+  "event": null,
+  "title": "Noël",
+  "tags": [
+    "#FETE",
+    "#FAMILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

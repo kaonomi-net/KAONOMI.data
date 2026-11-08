@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-protection-des-donnees-et-rgpd",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Protection des données et RGPD",
+  "includedEntities": [
+    {
+      "entityName": "RGPD",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "données personnelles",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution du RGPD et les sanctions des autorités.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Dublin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "simplification",
+    "CNIL",
+    "Meta"
+  ],
+  "questions": [
+    "Quelle modification ?",
+    "Quelle amende ?",
+    "Quelle critique ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#RGPD",
+    "#DONNEES"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

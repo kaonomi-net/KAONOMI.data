@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-gratitude",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La reconnaissance d'un bienfait.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:gratitude(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:reconnaissant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gr[âa]ce(s)?(?!\\s+[àa]))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rendre\\s+gr[âa]ce)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:remerciement(s)?)(?![\\w-])"
+  ],
+  "symbol": "gratitude",
+  "event": null,
+  "title": "Gratitude",
+  "tags": [
+    "#GRATITUDE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

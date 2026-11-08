@@ -1,0 +1,13 @@
+{
+  "index": 535,
+  "file": "0535-ia-symbolique-qu-est-ce-qu-une-ontologie.prompt.json",
+  "prompt": "Qu'est-ce qu'une ontologie en intelligence artificielle ?",
+  "promptWords": 7,
+  "completion": "En intelligence artificielle (IA), une **ontologie** est un modèle formel qui représente un ensemble de concepts au sein d'un domaine spécifique, ainsi que les relations entre ces concepts. Elle permet de structurer et d'organiser les connaissances de manière à ce qu'elles soient compréhensibles par les machines et les humains.\n\n### Caractéristiques principales d'une ontologie :\n1. **Concepts (Classes)** : Représentent les objets ou les entités d'un domaine (ex. : \"Personne\", \"Voiture\", \"Livre\").\n2. **Relations** : Définissent comment les concepts sont liés entre eux (ex. : \"a pour auteur\", \"est un sous-type de\").\n3. **Instances** : Exemples concrets des concepts (ex. : \"Jean\" est une instance de \"Personne\").\n4. **Axiomes** : Règles ou contraintes logiques qui décrivent les propriétés des concepts et relations (ex. : \"Toute personne a un nom\").\n\n### Utilisations en IA :\n- **Systèmes experts** : Pour modéliser des connaissances spécialisées.\n- **Web sémantique** : Pour structurer des données sur le web (ex. : RDF, OWL).\n- **Traitement du langage naturel (NLP)** : Pour comprendre le sens des mots dans un contexte donné.\n- **Apprentissage automatique** : Pour améliorer la compréhension des données.\n\n### Exemple simple :\nDans une ontologie sur les bibliothèques, on pourrait avoir :\n- **Concepts** : \"Livre\", \"Auteur\", \"Membre\".\n- **Relations** : \"Livre → a pour auteur → Auteur\", \"Membre → emprunte → Livre\".\n\nLes ontologies aident à standardiser et partager des connaissances, facilitant ainsi l'interopérabilité entre différents systèmes d'IA.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:03:07.6168591+02:00",
+  "durationSeconds": 7.96,
+  "stats": "mistral-small3.2:latest · 519 + 393 tokens · 8,0 s",
+  "isError": false,
+  "language": "FR"
+}

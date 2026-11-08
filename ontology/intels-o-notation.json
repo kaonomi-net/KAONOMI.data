@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-notation",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "notation",
+  "entityType": "DOMAIN",
+  "description": "Cité par 7 intels : Crise de la dette en France ; Comparaison avec l'Italie ; Écart de taux entre la France et l'Allemagne ; Notation souveraine de la France ; Dette belge et OLO ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Surveiller les signes d'une crise de confiance sur la dette française.",
+    "Suivre les comparaisons entre les finances françaises et italiennes.",
+    "Suivre l'écart entre les taux à dix ans français et allemands, proche de 170 points de base fin octobre 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 14,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "notation",
+  "tags": [
+    "#DETTE",
+    "#FRANCE",
+    "#OBLIGATIONS",
+    "#CRISE",
+    "#EUROPE",
+    "#NOTATION"
+  ],
+  "events": [
+    "@ALERTE-MARCHE",
+    "@NOTATION"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!FEAR",
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "spread",
+    "Paris",
+    "Italie",
+    "Meloni",
+    "dette",
+    "OAT",
+    "taux",
+    "marchés",
+    "crise de la dette",
+    "comparaison"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

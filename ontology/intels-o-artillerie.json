@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-artillerie",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "artillerie",
+  "entityType": "HARDWARE",
+  "description": "Cité par 5 intels : Ceinture fortifiée de Kramatorsk et Sloviansk ; Secteur de Siversk ; Secteur de Toretsk ; Munitions nord-coréennes ; Artillerie et obus de 155 mm.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Surveiller la menace sur les dernières grandes villes ukrainiennes du Donbass.",
+    "Suivre la situation autour de Siversk.",
+    "Suivre les combats autour de Toretsk."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "artillerie",
+  "tags": [
+    "#UKRAINE",
+    "#DONBASS",
+    "#FRONT",
+    "#MUNITIONS",
+    "#COREE-DU-NORD",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT",
+    "!MENACE",
+    "!ESCALADE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "combats",
+    "obus",
+    "Kramatorsk",
+    "Sloviansk",
+    "ceinture fortifiée",
+    "bombes planantes",
+    "fortifications",
+    "Droujkivka",
+    "Lyman",
+    "Siversk"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

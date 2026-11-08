@@ -1,0 +1,13 @@
+{
+  "index": 240,
+  "file": "0240-cybersecurite-explique-le-durcissement-des-serveurs-de.prompt.json",
+  "prompt": "Explique le durcissement des serveurs de façon simple.",
+  "promptWords": 8,
+  "completion": "Le durcissement des serveurs (ou *server hardening* en anglais) est un ensemble de mesures techniques et de bonnes pratiques visant à renforcer la sécurité d'un serveur. L'objectif est de réduire les risques de cyberattaques, de fuites de données ou de piratage.\n\nVoici une explication simple des principales étapes du durcissement :\n\n1. **Mises à jour régulières** :\n   - Installer les dernières mises à jour de sécurité pour corriger les failles connues.\n\n2. **Suppression des logiciels inutiles** :\n   - Désinstaller les services et applications non nécessaires pour limiter les points d'entrée potentiels pour les pirates.\n\n3. **Configuration sécurisée** :\n   - Désactiver les fonctionnalités inutiles (comme les protocoles obsolètes).\n   - Changer les paramètres par défaut pour des options plus sécurisées.\n\n4. **Gestion des comptes utilisateurs** :\n   - Supprimer les comptes inutilisés.\n   - Utiliser des mots de passe forts et des méthodes d'authentification avancées (comme la double authentification).\n\n5. **Protection contre les intrusions** :\n   - Installer un pare-feu pour filtrer les connexions suspectes.\n   - Utiliser des outils de détection d'intrusion pour repérer les activités anormales.\n\n6. **Chiffrement des données** :\n   - Protéger les informations sensibles en les chiffrant.\n\n7. **Sauvegardes régulières** :\n   - Faire des copies de sécurité pour pouvoir restaurer le serveur en cas d'attaque.\n\nEn résumé, le durcissement des serveurs consiste à verrouiller toutes les failles possibles pour rendre le serveur plus résistant aux attaques. C'est un peu comme renforcer les portes et les fenêtres d'une maison pour la protéger des cambrioleurs.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:09:07.0115563+02:00",
+  "durationSeconds": 7.88,
+  "stats": "mistral-small3.2:latest · 520 + 387 tokens · 7,9 s",
+  "isError": false,
+  "language": "FR"
+}

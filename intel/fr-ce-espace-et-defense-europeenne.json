@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-espace-et-defense-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Espace et défense européenne",
+  "includedEntities": [
+    {
+      "entityName": "espace",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "IRIS²",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "satellites",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les programmes spatiaux européens de sécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Kourou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "IRIS²",
+    "Galileo",
+    "Copernicus"
+  ],
+  "questions": [
+    "Quel avancement ?",
+    "Quel budget ?",
+    "Quelle alternative à Starlink ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ESPACE",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

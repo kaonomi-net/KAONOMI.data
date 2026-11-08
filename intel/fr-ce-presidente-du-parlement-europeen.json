@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-presidente-du-parlement-europeen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Présidente du Parlement européen",
+  "includedEntities": [
+    {
+      "entityName": "Roberta Metsola",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Parlement européen",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de la présidente du Parlement européen.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Commission",
+    "Conseil",
+    "sommets"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quel arbitrage ?",
+    "Quelle position ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#METSOLA"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

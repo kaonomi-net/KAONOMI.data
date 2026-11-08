@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-epanouissement",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le développement heureux de soi.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]panouissement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]panou(ir|i|ie|is|ies|issant|issante))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:accomplissement(s)?\\s+personnel(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pl[ée]nitude(s)?)(?![\\w-])"
+  ],
+  "symbol": "épanouissement",
+  "event": null,
+  "title": "Épanouissement",
+  "tags": [
+    "#BIENETRE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

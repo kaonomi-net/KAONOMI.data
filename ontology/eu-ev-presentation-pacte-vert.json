@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (le Pacte vert) : Ursula von der Leyen présente le Pacte vert au Parlement européen, comparé à « l'homme qui pose le pied sur la lune ».",
+  "id": "eu-ev-presentation-pacte-vert",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Présentation du Pacte vert",
+  "entityType": "EVENT",
+  "description": "Ursula von der Leyen présente le Pacte vert au Parlement européen, comparé à « l'homme qui pose le pied sur la lune ».",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les archives audiovisuelles de la Commission conservent des images de « Présentation du Pacte vert ».",
+    "La presse européenne a largement couvert « Présentation du Pacte vert ».",
+    "« Présentation du Pacte vert » concerne le Pacte vert."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#PACTEVERT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pr%C3%A9sentation%20du%20Pacte%20vert"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pacte vert",
+    "Ursula von der Leyen",
+    "Frans Timmermans",
+    "Commission von der Leyen I",
+    "Bruxelles",
+    "Pacte vert pour l'Europe"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-12-11T00:00:00",
+  "endDate": null
+}

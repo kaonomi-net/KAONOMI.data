@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-gazprom-et-la-crise-du-gaz",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Gazprom et la crise du gaz",
+  "includedEntities": [
+    {
+      "entityName": "Gazprom",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "pertes",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les difficultés de Gazprom après la perte du marché européen.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Power of Siberia",
+    "Chine",
+    "Turquie"
+  ],
+  "questions": [
+    "Quels résultats ?",
+    "Quels nouveaux contrats ?",
+    "Quels licenciements ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ENERGIE",
+    "#GAZPROM"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

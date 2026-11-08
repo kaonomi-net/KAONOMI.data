@@ -1,0 +1,13 @@
+{
+  "index": 586,
+  "file": "0586-python-explique-les-classes-et-l-heritage.prompt.json",
+  "prompt": "Explique les classes et l'héritage en Python avec un exemple simple.",
+  "promptWords": 11,
+  "completion": "En Python, les classes et l'héritage sont des concepts fondamentaux de la programmation orientée objet (POO). Voici une explication simple avec un exemple :\n\n### Classes\nUne classe est un modèle ou un plan pour créer des objets. Elle définit les attributs (variables) et les méthodes (fonctions) que les objets créés à partir de cette classe auront.\n\n### Héritage\nL'héritage permet à une classe (appelée classe enfant ou sous-classe) d'hériter des attributs et des méthodes d'une autre classe (appelée classe parent ou super-classe). Cela favorise la réutilisation du code et la hiérarchie des classes.\n\n### Exemple Simple\n\n```python\n# Classe parent (super-classe)\nclass Animal:\n    def __init__(self, nom):\n        self.nom = nom\n\n    def parler(self):\n        return f\"{self.nom} fait un bruit.\"\n\n# Classe enfant (sous-classe) qui hérite de Animal\nclass Chien(Animal):\n    def parler(self):\n        return f\"{self.nom} aboie.\"\n\n# Classe enfant (sous-classe) qui hérite de Animal\nclass Chat(Animal):\n    def parler(self):\n        return f\"{self.nom} miaule.\"\n\n# Création d'objets\nmon_chien = Chien(\"Rex\")\nmon_chat = Chat(\"Whiskers\")\n\n# Utilisation des méthodes\nprint(mon_chien.parler())  # Sortie: Rex aboie.\nprint(mon_chat.parler())   # Sortie: Whiskers miaule.\n```\n\n### Explication de l'exemple :\n1. **Classe `Animal`** : C'est la classe parent qui définit un attribut `nom` et une méthode `parler`.\n2. **Classe `Chien`** : C'est une classe enfant qui hérite de `Animal` et redéfinit la méthode `parler` pour qu'elle retourne une chaîne spécifique aux chiens.\n3. **Classe `Chat`** : C'est une autre classe enfant qui hérite de `Animal` et redéfinit la méthode `parler` pour qu'elle retourne une chaîne spécifique aux chats.\n4. **Création d'objets** : On crée des instances de `Chien` et de `Chat` et on appelle la méthode `parler` sur ces instances.\n\nL'héritage permet ici de réutiliser le code de la classe `Animal` tout en personnalisant le comportement de chaque sous-classe.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:22:56.0914229+02:00",
+  "durationSeconds": 10.49,
+  "stats": "mistral-small3.2:latest · 523 + 534 tokens · 10,5 s",
+  "isError": false,
+  "language": "FR"
+}

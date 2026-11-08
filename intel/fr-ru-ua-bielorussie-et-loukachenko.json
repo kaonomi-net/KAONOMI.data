@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-bielorussie-et-loukachenko",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Biélorussie et Loukachenko",
+  "includedEntities": [
+    {
+      "entityName": "Loukachenko",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Biélorussie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la politique d'Alexandre Loukachenko et sa relation à Moscou.",
+  "isFuzzy": true,
+  "locations": [
+    "Minsk"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "prisonniers politiques",
+    "Occident",
+    "Russie"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quelles libérations ?",
+    "Quel rôle dans les négociations ?"
+  ],
+  "tags": [
+    "#BIELORUSSIE",
+    "#POLITIQUE"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

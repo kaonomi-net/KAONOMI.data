@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (le marché intérieur) : Thierry Breton démissionne en dénonçant une « gouvernance douteuse » ; Stéphane Séjourné est proposé à sa place.",
+  "id": "eu-ev-demission-breton",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Démission de Thierry Breton",
+  "entityType": "EVENT",
+  "description": "Thierry Breton démissionne en dénonçant une « gouvernance douteuse » ; Stéphane Séjourné est proposé à sa place.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "« Démission de Thierry Breton » concerne le marché intérieur.",
+    "Les archives audiovisuelles de la Commission conservent des images de « Démission de Thierry Breton ».",
+    "La presse européenne a largement couvert « Démission de Thierry Breton »."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 0,
+  "surpriseLevel": 3,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#MARCHEINTERIEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=D%C3%A9mission%20de%20Thierry%20Breton"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Marché intérieur",
+    "Thierry Breton",
+    "Ursula von der Leyen",
+    "Stéphane Séjourné",
+    "Commission von der Leyen I",
+    "Prospérité et stratégie industrielle (Commission von der Leyen II)"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-09-16T00:00:00",
+  "endDate": null
+}

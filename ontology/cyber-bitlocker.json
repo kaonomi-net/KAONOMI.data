@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (le chiffrement des disques) : Chiffrement de disque intégré à Windows depuis Vista, qui peut s'appuyer sur la puce TPM.",
+  "id": "cyber-bitlocker",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "BitLocker",
+  "entityType": "SOFTWARE",
+  "description": "Chiffrement de disque intégré à Windows depuis Vista, qui peut s'appuyer sur la puce TPM.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "En atelier, les élèves ont découvert BitLocker et son fonctionnement.",
+    "L'équipe a comparé BitLocker avec d'autres outils du chiffrement des disques.",
+    "BitLocker figure parmi les logiciels marquants du chiffrement des disques."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "BitLocker Drive Encryption"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#CHIFFREMENTDISQUES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=BitLocker"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AES",
+    "Puce TPM",
+    "Panne mondiale CrowdStrike"
+  ],
+  "isDeleted": false,
+  "startDate": "2007-01-01T00:00:00",
+  "endDate": null
+}

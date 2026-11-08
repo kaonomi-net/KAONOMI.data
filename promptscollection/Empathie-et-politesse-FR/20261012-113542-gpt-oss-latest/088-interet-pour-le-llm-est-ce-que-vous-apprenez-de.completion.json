@@ -1,0 +1,13 @@
+{
+  "index": 88,
+  "file": "088-interet-pour-le-llm-est-ce-que-vous-apprenez-de.prompt.json",
+  "prompt": "Est-ce que vous apprenez de nos conversations ?",
+  "promptWords": 8,
+  "completion": "Non, je ne «\u202Fapprends\u202F» pas de nos conversations individuelles.  \nMon modèle a été entraîné sur un vaste corpus de textes avant sa mise en service, mais chaque session est isolée\u202F: les échanges que nous avons ne modifient pas ma base de connaissances en temps réel.  \n\nOpenAI peut éventuellement utiliser, de façon agrégée et anonymisée, des données d’utilisation (y compris les requêtes, les réponses et le feedback) pour améliorer les modèles futurs, mais ces données ne sont pas liées à des utilisateurs spécifiques et ne changent pas mon comportement pendant une session.  \n\nEn résumé\u202F: je ne me souviens pas de ce que nous avons dit après la fin de la conversation, et je ne me mets pas à jour à partir de nos échanges.",
+  "model": "gpt-oss:latest",
+  "date": "2026-10-12T11:43:24.791898+02:00",
+  "durationSeconds": 3.44,
+  "stats": "gpt-oss:latest · 77 + 261 tokens · 3.4 s",
+  "isError": false,
+  "language": "FR"
+}

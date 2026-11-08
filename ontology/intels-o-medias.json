@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-medias",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "médias",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 10 intels : Liberté de la presse en Ukraine ; IA et journalisme ; Déclaration de candidature ; Médias et propriétaires ; Justice et procès médiatiques ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre la situation des médias et du télémarathon unique.",
+    "Suivre l'usage de l'IA par les rédactions et les accords avec les éditeurs.",
+    "Repérer les annonces de candidature à l'élection présidentielle."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "médias",
+  "tags": [
+    "#MEDIAS",
+    "#FRANCE",
+    "#UNION-EUROPEENNE",
+    "#PSYCHOLOGIE",
+    "#UKRAINE",
+    "#LIBERTES"
+  ],
+  "events": [
+    "@CANDIDATURE",
+    "@VERDICT",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!VIGILANCE",
+    "!DEBAT",
+    "!CAMPAGNE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "désinformation",
+    "Paris",
+    "Bruxelles",
+    "loi martiale",
+    "Kyiv",
+    "journalistes",
+    "censure",
+    "télémarathon",
+    "liberté de la presse",
+    "rédactions"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

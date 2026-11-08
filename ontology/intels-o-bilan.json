@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-bilan",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "bilan",
+  "entityType": "DOMAIN",
+  "description": "Cité par 5 intels : Anne Hidalgo ; Fin du second mandat d'Emmanuel Macron ; Bilan des municipales de 2026 ; Perpignan et Louis Aliot ; Bilan de la BCE et resserrement quantitatif.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le rôle d'Anne Hidalgo après son départ de la mairie de Paris.",
+    "Suivre les derniers mois du mandat et la question du bilan.",
+    "Suivre les enseignements des municipales de mars 2026 pour 2027."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "bilan",
+  "tags": [
+    "#FRANCE",
+    "#BILAN",
+    "#MUNICIPALES",
+    "#PS",
+    "#PARIS",
+    "#MACRON"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE",
+    "!TRANSITION",
+    "!POLITIQUE-MONETAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "PS",
+    "Paris",
+    "Anne Hidalgo",
+    "Emmanuel Grégoire",
+    "fin de mandat",
+    "héritage",
+    "successeur",
+    "réformes",
+    "Élysée",
+    "Emmanuel Macron"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

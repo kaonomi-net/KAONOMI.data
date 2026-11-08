@@ -1,0 +1,13 @@
+{
+  "index": 722,
+  "file": "0722-java-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Java qui illustre la programmation concurrente avec CompletableFuture.",
+  "promptWords": 14,
+  "completion": "Voici un exemple de code en Java qui illustre la programmation concurrente avec `CompletableFuture`. Cet exemple montre comment exécuter des tâches de manière asynchrone et combiner leurs résultats :\n\n```java\nimport java.util.concurrent.CompletableFuture;\nimport java.util.concurrent.ExecutionException;\n\npublic class CompletableFutureExample {\n\n    public static void main(String[] args) {\n        // Création de deux tâches asynchrones\n        CompletableFuture<String> future1 = CompletableFuture.supplyAsync(() -> {\n            try {\n                Thread.sleep(1000); // Simulation d'une tâche longue\n            } catch (InterruptedException e) {\n                e.printStackTrace();\n            }\n            return \"Résultat de la tâche 1\";\n        });\n\n        CompletableFuture<String> future2 = CompletableFuture.supplyAsync(() -> {\n            try {\n                Thread.sleep(1500); // Simulation d'une tâche longue\n            } catch (InterruptedException e) {\n                e.printStackTrace();\n            }\n            return \"Résultat de la tâche 2\";\n        });\n\n        // Combinaison des résultats des deux tâches\n        CompletableFuture<String> combinedFuture = future1.thenCombine(future2, (result1, result2) -> {\n            return result1 + \" et \" + result2;\n        });\n\n        // Attente du résultat final et affichage\n        try {\n            String result = combinedFuture.get();\n            System.out.println(\"Résultat final: \" + result);\n        } catch (InterruptedException | ExecutionException e) {\n            e.printStackTrace();\n        }\n    }\n}\n```\n\n### Explications :\n\n1. **`CompletableFuture.supplyAsync`** : Crée une tâche asynchrone qui retourne un résultat.\n2. **`thenCombine`** : Combine les résultats de deux `CompletableFuture` en une seule tâche.\n3. **`get`** : Attend la fin de l'exécution de la tâche asynchrone et retourne le résultat.\n\n### Exécution :\n- La tâche 1 s'exécute pendant 1 seconde.\n- La tâche 2 s'exécute pendant 1,5 seconde.\n- Les résultats sont combinés et affichés après la fin des deux tâches.\n\nCet exemple montre comment utiliser `CompletableFuture` pour exécuter des tâches de manière concurrente et combiner leurs résultats de manière non bloquante.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:56:21.3929684+02:00",
+  "durationSeconds": 10.17,
+  "stats": "mistral-small3.2:latest · 528 + 508 tokens · 10,2 s",
+  "isError": false,
+  "language": "FR"
+}

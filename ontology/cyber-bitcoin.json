@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (les cryptomonnaies) : Première cryptomonnaie décentralisée, dont le logiciel a été publié par Satoshi Nakamoto en janvier 2009.",
+  "id": "cyber-bitcoin",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Bitcoin",
+  "entityType": "SOFTWARE",
+  "description": "Première cryptomonnaie décentralisée, dont le logiciel a été publié par Satoshi Nakamoto en janvier 2009.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "Le rapport d'incident cite Bitcoin à plusieurs reprises.",
+    "L'analyste a utilisé Bitcoin pendant l'enquête.",
+    "Les historiens de l'informatique considèrent Bitcoin comme une étape des cryptomonnaies."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "BTC",
+    "Bitcoin Core"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#CRYPTOMONNAIES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Bitcoin"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "David Chaum",
+    "Satoshi Nakamoto",
+    "Publication du livre blanc de Bitcoin",
+    "SHA-2",
+    "ECDSA",
+    "Arbre de Merkle",
+    "Ledger Nano S",
+    "Trezor"
+  ],
+  "isDeleted": false,
+  "startDate": "2009-01-01T00:00:00",
+  "endDate": null
+}

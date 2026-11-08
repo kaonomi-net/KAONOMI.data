@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-hermes",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Hermès",
+  "includedEntities": [
+    {
+      "entityName": "Hermès",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "luxe",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action et les résultats d'Hermès.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Birkin",
+    "Chine",
+    "prix"
+  ],
+  "questions": [
+    "Quelle croissance ?",
+    "Quelle réaction du titre ?",
+    "Quelle valorisation ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#LUXE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

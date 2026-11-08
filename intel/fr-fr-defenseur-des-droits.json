@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-defenseur-des-droits",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Défenseur des droits",
+  "includedEntities": [
+    {
+      "entityName": "Défenseur des droits",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "rapport",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les rapports et alertes du Défenseur des droits.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Claire Hédon",
+    "discriminations",
+    "services publics"
+  ],
+  "questions": [
+    "Quel rapport ?",
+    "Quelle alerte ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DROITS",
+    "#INSTITUTIONS"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

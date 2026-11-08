@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-accident",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un événement soudain et dommageable.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:accident(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:accident[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:collision(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:carambolage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crash(s|es)?)(?![\\w-])"
+  ],
+  "symbol": "accident",
+  "event": null,
+  "title": "Accident",
+  "tags": [
+    "#CATASTROPHE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

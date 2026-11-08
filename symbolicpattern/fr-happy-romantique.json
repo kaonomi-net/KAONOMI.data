@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-romantique",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Tendre et sentimental.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:romantique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:romantisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[îi]ner\\s+aux\\s+chandelles)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sentimental(e|es|aux)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:idylle(s)?)(?![\\w-])"
+  ],
+  "symbol": "romantique",
+  "event": null,
+  "title": "Romantique",
+  "tags": [
+    "#AMOUR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

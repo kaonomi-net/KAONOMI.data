@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-inflation-en-zone-euro",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Inflation en zone euro",
+  "includedEntities": [
+    {
+      "entityName": "inflation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "zone euro",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'inflation de la zone euro publiée par Eurostat.",
+  "isFuzzy": true,
+  "locations": [
+    "Luxembourg"
+  ],
+  "times": [
+    "publications mensuelles"
+  ],
+  "relatedEntities": [
+    "énergie",
+    "services",
+    "BCE"
+  ],
+  "questions": [
+    "Quel chiffre ?",
+    "Quelle tendance ?",
+    "Quel effet sur la BCE ?"
+  ],
+  "tags": [
+    "#INFLATION",
+    "#ZONE-EURO"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!INFLATION"
+  ],
+  "isDeleted": false
+}

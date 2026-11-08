@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-tracage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le suivi des faits et gestes de chacun.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:tra[çc]age(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tracking)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:g[ée]olocalis([ée]|[ée]e|[ée]s|ation))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pistage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:suivi(e|s|es)?\\s+[àa]\\s+la\\s+trace)(?![\\w-])"
+  ],
+  "symbol": "traçage",
+  "event": null,
+  "title": "Traçage",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

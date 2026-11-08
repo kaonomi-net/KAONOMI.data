@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-incertitude",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de ne pas savoir ce qui va arriver.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:incertitude(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:incertain(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:avenir\\s+sombre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:climat\\s+d['’]incertitude)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:flou\\s+total)(?![\\w-])"
+  ],
+  "symbol": "incertitude",
+  "event": null,
+  "title": "Incertitude",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

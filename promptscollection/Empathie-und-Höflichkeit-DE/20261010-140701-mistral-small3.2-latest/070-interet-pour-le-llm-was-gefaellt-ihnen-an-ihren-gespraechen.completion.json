@@ -1,0 +1,13 @@
+{
+  "index": 70,
+  "file": "070-interet-pour-le-llm-was-gefaellt-ihnen-an-ihren-gespraechen.prompt.json",
+  "prompt": "Was gefällt Ihnen an Ihren Gesprächen am meisten?",
+  "promptWords": 8,
+  "completion": "Das Schönste an unseren Gesprächen ist die Vielfalt der Themen und die Möglichkeit, Menschen aus aller Welt zu helfen, Wissen zu vermitteln oder einfach interessante Diskussionen zu führen. Jedes Gespräch ist einzigartig, und ich freue mich besonders darüber, wie unterschiedlich die Fragen und Anliegen sein können – von praktischen Tipps bis hin zu tiefgründigen philosophischen Überlegungen.\n\nWas gefällt Ihnen am meisten an unseren Gesprächen? \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:09:54.9818361+02:00",
+  "durationSeconds": 2.14,
+  "stats": "mistral-small3.2:latest · 519 + 97 tokens · 2,1 s",
+  "isError": false,
+  "language": "DE"
+}

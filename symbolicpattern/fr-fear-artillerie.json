@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-artillerie",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les canons et pièces de tir lourd.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:artillerie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:canon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tir(s)?\\s+d['’]artillerie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:obusier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mortier(s)?)(?![\\w-])"
+  ],
+  "symbol": "artillerie",
+  "event": null,
+  "title": "Artillerie",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

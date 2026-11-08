@@ -1,0 +1,13 @@
+{
+  "index": 658,
+  "file": "0658-java-qu-est-ce-que-les-threads.prompt.json",
+  "prompt": "Qu'est-ce que les threads virtuels de Java 21 ?",
+  "promptWords": 9,
+  "completion": "Les threads virtuels (ou *virtual threads*) de Java 21 sont une fonctionnalité introduite pour simplifier l'écriture de code concurrent et améliorer l'efficacité des applications qui gèrent un grand nombre de tâches simultanées. Voici les points clés à retenir :\n\n1. **Léger et peu coûteux** : Contrairement aux threads traditionnels (ou *platform threads*), les threads virtuels sont légers et peu coûteux en termes de ressources. Ils permettent de gérer des milliers, voire des millions de tâches concurrentes sans surcharger le système.\n\n2. **Basés sur les fibres** : Les threads virtuels sont construits sur les *fibres* (ou *coroutines*), une technologie qui permet de suspendre et de reprendre l'exécution d'un thread sans bloquer un thread système sous-jacent.\n\n3. **Simplicité de programmation** : Ils permettent d'écrire du code concurrent de manière plus simple et plus intuitive, en utilisant les mêmes API que les threads traditionnels (comme `java.lang.Thread` ou `java.util.concurrent`).\n\n4. **Intégration avec les API existantes** : Les threads virtuels peuvent être utilisés avec les API de concurrence existantes, comme `ExecutorService`, `CompletableFuture`, etc.\n\n5. **Utilisation typique** : Ils sont particulièrement utiles pour les applications serveur, comme les serveurs web ou les bases de données, où de nombreuses requêtes doivent être traitées simultanément.\n\n### Exemple d'utilisation :\n```java\nThread.startVirtualThread(() -> {\n    // Code à exécuter de manière concurrente\n    System.out.println(\"Thread virtuel en cours d'exécution\");\n});\n```\n\nEn résumé, les threads virtuels de Java 21 offrent une solution efficace et simple pour gérer la concurrence à grande échelle, tout en réduisant la complexité et les coûts associés aux threads traditionnels.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:40:00.4303574+02:00",
+  "durationSeconds": 8.07,
+  "stats": "mistral-small3.2:latest · 521 + 396 tokens · 8,1 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-expulsions-de-diplomates-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Expulsions de diplomates russes",
+  "includedEntities": [
+    {
+      "entityName": "expulsion",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "diplomates russes",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les expulsions de diplomates russes accusés d'espionnage.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ambassades",
+    "espionnage",
+    "réciprocité"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Combien de diplomates ?",
+    "Quelle riposte russe ?"
+  ],
+  "tags": [
+    "#EUROPE",
+    "#ESPIONNAGE",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@EXPULSION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

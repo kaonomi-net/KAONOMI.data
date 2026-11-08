@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-pourvoi-de-marine-le-pen-en-cassation",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Pourvoi de Marine Le Pen en cassation",
+  "includedEntities": [
+    {
+      "entityName": "Marine Le Pen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Cour de cassation",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "pourvoi",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre la décision de la Cour de cassation sur la condamnation de Marine Le Pen.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "début 2027 au plus tard"
+  ],
+  "relatedEntities": [
+    "assistants parlementaires",
+    "inéligibilité",
+    "Parlement européen"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quand ?",
+    "Quelle conséquence sur sa candidature ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!INCERTITUDE"
+  ],
+  "isDeleted": false
+}

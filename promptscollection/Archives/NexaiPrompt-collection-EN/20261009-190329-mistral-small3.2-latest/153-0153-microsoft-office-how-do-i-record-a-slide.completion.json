@@ -1,0 +1,13 @@
+{
+  "index": 153,
+  "file": "0153-microsoft-office-how-do-i-record-a-slide.prompt.json",
+  "prompt": "How do I record a slide show with narration in PowerPoint?",
+  "promptWords": 11,
+  "completion": "To record a slide show with narration in PowerPoint, follow these steps:\n\n### For PowerPoint 2016 and later versions:\n1. **Open your PowerPoint presentation**.\n2. **Go to the \"Slide Show\" tab** on the ribbon.\n3. **Click on \"Record Slide Show\"**.\n4. **Choose whether to record from the beginning or from the current slide**.\n5. **Select the options you want**:\n   - **Slide and animation timings**: This will record the timing of each slide and animation.\n   - **Narration and laser pointer**: This will record your voice and any laser pointer actions.\n6. **Click \"Start Recording\"**.\n7. **Present your slide show** as you normally would, speaking into your microphone.\n8. **Advance slides** by clicking the next button or using the arrow keys.\n9. **When you're done**, click the **stop button** in the top-left corner.\n10. **Save your presentation** to keep the recorded narration.\n\n### For PowerPoint 2013 and earlier versions:\n1. **Go to the \"Slide Show\" tab**.\n2. **Click on \"Record Slide Show\"**.\n3. **Choose \"Record Timings and Narration\"**.\n4. **Present your slide show** and speak into your microphone.\n5. **Advance slides** manually.\n6. **When finished**, click the **stop button**.\n7. **Save your presentation**.\n\n### Tips:\n- **Use a good quality microphone** for clear narration.\n- **Practice your presentation** before recording to ensure smooth delivery.\n- **Check the recorded narration** by playing the slide show to make sure the timing and audio are correct.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:31:45.4366229+02:00",
+  "durationSeconds": 9.2,
+  "stats": "mistral-small3.2:latest · 520 + 352 tokens · 9,2 s",
+  "isError": false,
+  "language": "EN"
+}

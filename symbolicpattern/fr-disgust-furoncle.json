@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-furoncle",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une inflammation purulente de la peau.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:furoncle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:anthrax\\s+cutan[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:kyste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bubon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pustule(s)?)(?![\\w-])"
+  ],
+  "symbol": "furoncle",
+  "event": null,
+  "title": "Furoncle",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

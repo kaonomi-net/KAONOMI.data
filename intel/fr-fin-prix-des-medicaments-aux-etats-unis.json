@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-prix-des-medicaments-aux-etats-unis",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Prix des médicaments aux États-Unis",
+  "includedEntities": [
+    {
+      "entityName": "prix des médicaments",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "États-Unis",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les mesures américaines sur le prix des médicaments.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Trump",
+    "nation la plus favorisée",
+    "Sanofi"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel effet sur les laboratoires ?",
+    "Quel accord ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#PHARMA",
+    "#ETATS-UNIS"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

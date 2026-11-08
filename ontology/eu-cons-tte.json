@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les transports) : Conseil Transports, télécommunications et énergie, formation du Conseil de l'Union européenne compétente pour les transports, la transformation numérique, la politique énergétique.",
+  "id": "eu-cons-tte",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Conseil Transports, télécommunications et énergie (TTE)",
+  "entityType": "ORGANISATION",
+  "description": "Conseil Transports, télécommunications et énergie, formation du Conseil de l'Union européenne compétente pour les transports, la transformation numérique, la politique énergétique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-formations-conseil",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Conseil Transports, télécommunications et énergie (TTE) ».",
+    "Les décisions de « Conseil Transports, télécommunications et énergie (TTE) » touchent les transports.",
+    "Le rapport annuel de « Conseil Transports, télécommunications et énergie (TTE) » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "TTE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#TRANSPORTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Conseil%20Transports%2C%20t%C3%A9l%C3%A9communications%20et%20%C3%A9nergie%20%28TTE%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conseil de l'Union européenne",
+    "Transports",
+    "Numérique",
+    "Énergie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

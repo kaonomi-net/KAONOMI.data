@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-transition-en-syrie",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Transition en Syrie",
+  "includedEntities": [
+    {
+      "entityName": "Syrie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Damas",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "transition",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation politique et sécuritaire en Syrie.",
+  "isFuzzy": true,
+  "locations": [
+    "Damas",
+    "Alep",
+    "nord-est syrien"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Turquie",
+    "Kurdes",
+    "réfugiés"
+  ],
+  "questions": [
+    "Quelle stabilité ?",
+    "Quels affrontements ?",
+    "Quel retour des réfugiés ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#SYRIE",
+    "#MOYEN-ORIENT"
+  ],
+  "events": [],
+  "signals": [
+    "!INSTABILITE"
+  ],
+  "isDeleted": false
+}

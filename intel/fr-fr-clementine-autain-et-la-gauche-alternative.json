@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-clementine-autain-et-la-gauche-alternative",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Clémentine Autain et la gauche alternative",
+  "includedEntities": [
+    {
+      "entityName": "Clémentine Autain",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "gauche",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de Clémentine Autain et des dissidents de LFI.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "L'Après",
+    "primaire",
+    "union"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quelle alliance ?",
+    "Quelle candidature soutient-elle ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#GAUCHE"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

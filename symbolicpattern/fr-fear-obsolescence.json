@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-obsolescence",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de devenir inutile, dépassé.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:obsolescence(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:obsol[èe]te(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[ée]tier(s)?\\s+qui\\s+disparai(ssen)?t)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inutile\\s+face\\s+[àa]\\s+la\\s+machine)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:devenu(e|s|es)?\\s+inutile(s)?)(?![\\w-])"
+  ],
+  "symbol": "obsolescence",
+  "event": null,
+  "title": "Obsolescence",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

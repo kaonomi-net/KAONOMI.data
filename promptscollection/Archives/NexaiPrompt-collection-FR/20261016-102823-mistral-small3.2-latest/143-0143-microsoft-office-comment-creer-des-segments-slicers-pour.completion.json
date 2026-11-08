@@ -1,0 +1,13 @@
+{
+  "index": 143,
+  "file": "0143-microsoft-office-comment-creer-des-segments-slicers-pour.prompt.json",
+  "prompt": "Comment créer des segments (slicers) pour filtrer un tableau croisé dans Excel ?",
+  "promptWords": 13,
+  "completion": "Pour créer des segments (slicers) afin de filtrer un tableau croisé dans Excel, suivez ces étapes :\n\n### Étape 1 : Créer un tableau croisé dynamique\n1. **Sélectionnez vos données** dans Excel.\n2. Allez dans l'onglet **Insertion** (ou **Insert** en anglais).\n3. Cliquez sur **Tableau croisé dynamique** (ou **PivotTable**).\n4. Choisissez où placer le tableau croisé dynamique (nouvelle feuille ou feuille existante) et cliquez sur **OK**.\n\n### Étape 2 : Ajouter un segment (slicer)\n1. **Sélectionnez votre tableau croisé dynamique**.\n2. Allez dans l'onglet **Analyse des tableaux croisés dynamiques** (ou **PivotTable Analyze**).\n3. Cliquez sur **Insérer un segment** (ou **Insert Slicer**).\n4. Une fenêtre s'ouvre avec les champs disponibles. **Sélectionnez les champs** que vous souhaitez utiliser pour filtrer votre tableau croisé dynamique.\n5. Cliquez sur **OK**.\n\n### Étape 3 : Utiliser le segment pour filtrer\n1. Le segment apparaîtra sur votre feuille.\n2. **Cliquez sur les éléments** du segment pour filtrer votre tableau croisé dynamique en conséquence.\n3. Vous pouvez également **sélectionner plusieurs éléments** en maintenant la touche **Ctrl** (ou **Cmd** sur Mac) enfoncée.\n\n### Étape 4 : Personnaliser le segment (optionnel)\n1. **Redimensionner** le segment en faisant glisser les bords.\n2. **Changer la position** en le déplaçant avec la souris.\n3. **Modifier les options** en cliquant droit sur le segment et en choisissant **Options de segment** (ou **Slicer Settings**).\n\n### Remarques :\n- Les segments sont particulièrement utiles pour les tableaux croisés dynamiques complexes avec plusieurs champs.\n- Vous pouvez créer plusieurs segments pour différents champs et les utiliser simultanément pour filtrer vos données.\n\nSi vous avez besoin d'aide supplémentaire ou si vous souhaitez des informations plus détaillées, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:54:55.4075756+02:00",
+  "durationSeconds": 9.61,
+  "stats": "mistral-small3.2:latest · 526 + 471 tokens · 9,6 s",
+  "isError": false,
+  "language": "FR"
+}

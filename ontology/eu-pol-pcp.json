@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la pêche) : Ensemble de règles de gestion des flottes de pêche et de conservation des stocks halieutiques.",
+  "id": "eu-pol-pcp",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Politique commune de la pêche",
+  "entityType": "LAW",
+  "description": "Ensemble de règles de gestion des flottes de pêche et de conservation des stocks halieutiques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "« Politique commune de la pêche » relève de la pêche.",
+    "« Politique commune de la pêche » a fait l'objet de longues négociations.",
+    "Les entreprises doivent tenir compte de « Politique commune de la pêche »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "PCP"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#PECHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Politique%20commune%20de%20la%20p%C3%AAche"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pêche",
+    "Direction générale des affaires maritimes et de la pêche",
+    "Commission Thorn"
+  ],
+  "isDeleted": false,
+  "startDate": "1983-01-01T00:00:00",
+  "endDate": null
+}

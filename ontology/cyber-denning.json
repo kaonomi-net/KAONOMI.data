@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la détection d'intrusion) : Informaticienne américaine, autrice en 1987 du premier modèle de système de détection d'intrusion.",
+  "id": "cyber-denning",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Dorothy Denning",
+  "entityType": "PERSON",
+  "description": "Informaticienne américaine, autrice en 1987 du premier modèle de système de détection d'intrusion.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Dorothy Denning est l'une des figures marquantes de la détection d'intrusion.",
+    "Lors de la conférence, l'oratrice a cité Dorothy Denning pour illustrer les progrès de la détection d'intrusion.",
+    "Une biographie de Dorothy Denning rappelle son rôle dans la détection d'intrusion."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Dorothy E. Denning"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#DETECTIONINTRUSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Dorothy%20Denning"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Snort"
+  ],
+  "isDeleted": false,
+  "startDate": "1945-08-12T00:00:00",
+  "endDate": null
+}

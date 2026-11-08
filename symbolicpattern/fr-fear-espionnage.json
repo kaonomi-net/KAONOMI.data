@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-espionnage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La recherche secrète d'informations.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:espionnage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:espion(ne|s|nes)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:agent(s)?\\s+secret(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:taupe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:renseignement(s)?\\s+militaire(s)?)(?![\\w-])"
+  ],
+  "symbol": "espionnage",
+  "event": null,
+  "title": "Espionnage",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberguerre-en-ukraine",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberguerre en Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cyberattaques",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la dimension cyber de la guerre en Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Ukraine",
+    "Russie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Kyivstar",
+    "effaceurs",
+    "hackers ukrainiens"
+  ],
+  "questions": [
+    "Quelle attaque ?",
+    "Quel impact ?",
+    "Quelle riposte ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#UKRAINE",
+    "#CYBERGUERRE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

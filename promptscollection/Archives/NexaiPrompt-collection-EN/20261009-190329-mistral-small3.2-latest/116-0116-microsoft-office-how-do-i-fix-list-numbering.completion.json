@@ -1,0 +1,13 @@
+{
+  "index": 116,
+  "file": "0116-microsoft-office-how-do-i-fix-list-numbering.prompt.json",
+  "prompt": "How do I fix list numbering that doesn't continue in Word?",
+  "promptWords": 11,
+  "completion": "To fix list numbering that doesn't continue in Microsoft Word, you can follow these steps:\n\n### Method 1: Restart the List\n1. **Place your cursor** at the beginning of the list where you want the numbering to restart.\n2. Go to the **Home** tab on the Ribbon.\n3. In the **Paragraph** group, click on the **Numbering** button (it looks like \"1. 2. 3.\").\n4. Select **Restart at 1** from the dropdown menu.\n\n### Method 2: Use the Multilevel List Feature\n1. **Select the entire list** that you want to renumber.\n2. Go to the **Home** tab on the Ribbon.\n3. In the **Paragraph** group, click on the **Multilevel List** button (it looks like \"1. 1.1. 1.1.1.\").\n4. Choose the numbering style you want from the dropdown menu.\n5. If the numbering still doesn't continue, you may need to adjust the list levels.\n\n### Method 3: Manually Adjust the Numbering\n1. **Place your cursor** at the beginning of the list.\n2. Go to the **Home** tab on the Ribbon.\n3. In the **Paragraph** group, click on the **Numbering** button.\n4. Select **Continue Numbering** from the dropdown menu.\n\n### Method 4: Check for Hidden Formatting\nSometimes, hidden formatting can cause issues with list numbering. To fix this:\n1. **Select the entire list**.\n2. Go to the **Home** tab on the Ribbon.\n3. In the **Paragraph** group, click on the **Clear All** button (it looks like a broom).\n4. This will remove any hidden formatting and allow you to restart the numbering.\n\n### Method 5: Use the Define New Multilevel List Option\n1. **Select the entire list**.\n2. Go to the **Home** tab on the Ribbon.\n3. In the **Paragraph** group, click on the **Multilevel List** button.\n4. Select **Define New Multilevel List** from the dropdown menu.\n5. In the dialog box that appears, adjust the numbering levels as needed and click **OK**.\n\nIf you continue to experience issues, it may be helpful to copy and paste the list into a new document to see if the problem persists.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:24:40.7852725+02:00",
+  "durationSeconds": 11.29,
+  "stats": "mistral-small3.2:latest · 520 + 504 tokens · 11,3 s",
+  "isError": false,
+  "language": "EN"
+}

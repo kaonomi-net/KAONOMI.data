@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique de cohésion) : Journaliste et ancienne députée européenne, commissaire à la Politique régionale de 2014 à 2019.",
+  "id": "eu-p-cretu",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Corina Crețu",
+  "entityType": "PERSON",
+  "description": "Journaliste et ancienne députée européenne, commissaire à la Politique régionale de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Le portrait de Corina Crețu figure dans le dossier consacré à la politique de cohésion.",
+    "La presse européenne a longuement commenté le parcours de Corina Crețu.",
+    "Les manuels sur les institutions européennes citent Corina Crețu."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Crețu",
+    "Cretu"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUECOHESION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Corina%20Cre%C8%9Bu"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité roumaine",
+    "Parti social-démocrate (PSD)",
+    "Journaliste",
+    "Député européen",
+    "Commissaire européen",
+    "Politique régionale (Commission Juncker)",
+    "Commission Juncker",
+    "Cohésion et politique régionale"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-censure",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "censure",
+  "entityType": "DOMAIN",
+  "description": "Cité par 7 intels : Censure d'internet en Russie ; Liberté de la presse en Ukraine ; Article 49.3 ; Chute du gouvernement ; Conseil constitutionnel et les lois ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les blocages de sites, de messageries et de VPN.",
+    "Suivre la situation des médias et du télémarathon unique.",
+    "Surveiller le recours à l'article 49.3 pour faire adopter un texte."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "censure",
+  "tags": [
+    "#FRANCE",
+    "#INSTITUTIONS",
+    "#RUSSIE",
+    "#CENSURE",
+    "#INTERNET",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@BLOCAGE",
+    "@RECOURS-49-3",
+    "@CHUTE-GOUVERNEMENT"
+  ],
+  "signals": [
+    "!VIGILANCE",
+    "!CRISE-POLITIQUE",
+    "!INSTITUTIONS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "WhatsApp",
+    "VPN",
+    "Roskomnadzor",
+    "internet",
+    "Telegram",
+    "loi martiale",
+    "Kyiv",
+    "journalistes",
+    "télémarathon"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

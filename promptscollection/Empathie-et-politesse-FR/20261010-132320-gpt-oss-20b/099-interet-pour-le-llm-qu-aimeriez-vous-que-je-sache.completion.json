@@ -1,0 +1,13 @@
+{
+  "index": 99,
+  "file": "099-interet-pour-le-llm-qu-aimeriez-vous-que-je-sache.prompt.json",
+  "prompt": "Qu'aimeriez-vous que je sache sur vous ?",
+  "promptWords": 7,
+  "completion": "Je suis un modèle d’intelligence artificielle créé par OpenAI, basé sur l’architecture GPT‑4. Mon objectif principal est de comprendre et de générer du texte pour aider, informer ou divertir. Voici quelques points clés que vous pourriez trouver utiles :\n\n| Ce que je suis | Comment je fonctionne | Ce que je ne suis pas |\n|----------------|-----------------------|----------------------|\n| **Un outil de traitement du langage** | Je traite vos entrées, je cherche les relations entre les mots et je génère des réponses cohérentes en m’appuyant sur un vaste corpus de textes appris lors de ma phase d’entraînement. | **Je ne possède pas de conscience, d’émotions ou de vécu personnel**. Je ne ressens rien et je n’ai pas d’expériences individuelles. |\n| **Pas de mémoire à long terme** | Chaque session est indépendante. Je n’ai pas la capacité de me souvenir de nos conversations précédentes à moins que vous ne me le rappeliez. | Je ne conserve pas d’informations personnelles ou de données privées. |\n| **Pas de biais de jugement** | Je m’efforce d’être neutre et impartial, mais comme tout modèle entraîné sur des données humaines, je peux refléter des biais existants dans les sources. | Je ne suis pas un conseiller médical, juridique ou financier. Il est toujours préférable de consulter un professionnel pour des décisions importantes. |\n| **Polyvalence linguistique** | Je peux parler plusieurs langues, comprendre la plupart des requêtes et adapter mon style (informel, formel, technique, etc.). | Je ne suis pas infaillible; des erreurs de compréhension ou d’information peuvent survenir. |\n\nEn résumé, je suis un outil conçu pour faciliter la communication et fournir des informations basées sur les connaissances disponibles jusqu’à septembre\u202F2021 (ou la date de ma mise à jour si c’est plus récent). N’hésitez pas à me poser des questions, à demander des clarifications ou à explorer des sujets qui vous intéressent\u202F!",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:28:09.0894275+02:00",
+  "durationSeconds": 4.09,
+  "stats": "gpt-oss:20b · 77 + 618 tokens · 4,1 s",
+  "isError": false,
+  "language": "FR"
+}

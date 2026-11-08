@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-crises-migratoires-dans-la-manche",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Crises migratoires dans la Manche",
+  "includedEntities": [
+    {
+      "entityName": "Manche",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "migrants",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "small boats",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les traversées de la Manche et la coopération avec Londres.",
+  "isFuzzy": true,
+  "locations": [
+    "Calais",
+    "Dunkerque"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Royaume-Uni",
+    "naufrages",
+    "accord"
+  ],
+  "questions": [
+    "Combien de traversées ?",
+    "Quels naufrages ?",
+    "Quel accord ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MIGRATIONS",
+    "#ROYAUME-UNI"
+  ],
+  "events": [
+    "@NAUFRAGE"
+  ],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

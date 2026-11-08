@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-ethiopie-et-corne-de-l-afrique",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Éthiopie et Corne de l'Afrique",
+  "includedEntities": [
+    {
+      "entityName": "Éthiopie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Érythrée",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Tigré",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les tensions en Éthiopie et dans la Corne de l'Afrique.",
+  "isFuzzy": true,
+  "locations": [
+    "Addis-Abeba",
+    "Tigré",
+    "Amhara"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Érythrée",
+    "accès à la mer",
+    "Somalie"
+  ],
+  "questions": [
+    "Quelles tensions ?",
+    "Quel risque de guerre ?",
+    "Quels accords ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ETHIOPIE",
+    "#AFRIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

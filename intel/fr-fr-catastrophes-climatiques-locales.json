@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-catastrophes-climatiques-locales",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Catastrophes climatiques locales",
+  "includedEntities": [
+    {
+      "entityName": "inondations",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sécheresse",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "incendies",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les catastrophes climatiques et leur gestion.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "catastrophe naturelle",
+    "assurances",
+    "prévention"
+  ],
+  "questions": [
+    "Quelle catastrophe ?",
+    "Quelles victimes ?",
+    "Quelle indemnisation ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#CLIMAT",
+    "#TERRITOIRES"
+  ],
+  "events": [
+    "@CATASTROPHE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

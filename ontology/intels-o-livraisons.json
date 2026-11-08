@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-livraisons",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "livraisons",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : Défense antiaérienne ukrainienne ; Initiative tchèque d'obus ; Airbus ; Boeing face à Airbus.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les capacités et les besoins de la défense antiaérienne.",
+    "Suivre l'achat d'obus hors d'Europe pour l'Ukraine.",
+    "Suivre l'action Airbus et l'objectif d'environ 870 livraisons en 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "livraisons",
+  "tags": [
+    "#UKRAINE",
+    "#BOURSE",
+    "#AERONAUTIQUE",
+    "#DEFENSE-ANTIAERIENNE",
+    "#TCHEQUIE",
+    "#MUNITIONS"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!VULNERABILITE",
+    "!SOUTIEN",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Toulouse",
+    "Airbus",
+    "NASAMS",
+    "défense antiaérienne",
+    "interception",
+    "IRIS-T",
+    "Patriot",
+    "financement",
+    "République tchèque",
+    "obus"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

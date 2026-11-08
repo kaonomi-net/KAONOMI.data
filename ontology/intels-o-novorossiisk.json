@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-novorossiisk",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "Novorossiïsk",
+  "entityType": "CITY",
+  "description": "Cité par 3 intels : Attaques sur les ports pétroliers russes ; Drones navals ukrainiens ; Flotte russe de la mer Noire.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les attaques contre les terminaux d'exportation de pétrole.",
+    "Suivre les attaques de drones navals contre la flotte et les ports russes.",
+    "Suivre les pertes et redéploiements de la flotte russe de la mer Noire."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Novorossiïsk",
+  "tags": [
+    "#MARITIME",
+    "#RUSSIE",
+    "#ENERGIE",
+    "#UKRAINE",
+    "#DRONES",
+    "#MER-NOIRE"
+  ],
+  "events": [
+    "@FRAPPE-ENERGIE",
+    "@ATTAQUE"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "pétroliers",
+    "drones navals",
+    "Sébastopol",
+    "Primorsk",
+    "Oust-Louga",
+    "port pétrolier",
+    "exportations",
+    "mer Baltique",
+    "Magura",
+    "flotte russe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-ddos-contre-des-sites-gouvernementaux",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "DDoS contre des sites gouvernementaux",
+  "includedEntities": [
+    {
+      "entityName": "DDoS",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "sites gouvernementaux",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les attaques DDoS contre les sites publics.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ministères",
+    "collectivités",
+    "hacktivistes"
+  ],
+  "questions": [
+    "Quel site ?",
+    "Quelle durée ?",
+    "Quel groupe ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DDOS",
+    "#ETAT"
+  ],
+  "events": [
+    "@DDOS"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

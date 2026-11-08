@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-sante-mentale-des-dirigeants",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Santé mentale des dirigeants",
+  "includedEntities": [
+    {
+      "entityName": "dirigeants",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "entrepreneurs",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la santé mentale des chefs d'entreprise et indépendants.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Bpifrance",
+    "solitude",
+    "faillite"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quelle aide ?",
+    "Quel constat ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TRAVAIL",
+    "#ENTREPRENEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

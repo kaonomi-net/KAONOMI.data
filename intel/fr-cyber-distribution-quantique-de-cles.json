@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-distribution-quantique-de-cles",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Distribution quantique de clés",
+  "includedEntities": [
+    {
+      "entityName": "distribution quantique de clés",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "QKD",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les réseaux de distribution quantique de clés.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "EuroQCI",
+    "satellites",
+    "fibre"
+  ],
+  "questions": [
+    "Quel réseau ?",
+    "Quel déploiement ?",
+    "Quelle limite ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#QUANTIQUE",
+    "#EUROQCI"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-francfort",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "Francfort",
+  "entityType": "CITY",
+  "description": "Cité par 13 intels : Banque centrale européenne et dette française ; DAX et Bourse de Francfort ; Décision de la BCE sur les taux ; Réunion de décembre de la BCE ; Départ anticipé de Christine Lagarde ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre le rôle de la BCE face aux tensions sur la dette française.",
+    "Suivre l'indice allemand, comparé au CAC 40 et au BEL 20.",
+    "Suivre les décisions de politique monétaire de la Banque centrale européenne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Francfort",
+  "tags": [
+    "#BCE",
+    "#FRANCE",
+    "#DETTE",
+    "#TAUX",
+    "#FINANCE",
+    "#EURO-NUMERIQUE"
+  ],
+  "events": [
+    "@DECISION-TAUX",
+    "@SEANCE-BOURSE",
+    "@DEPART"
+  ],
+  "signals": [
+    "!POLITIQUE-MONETAIRE",
+    "!TRANSITION",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "BCE",
+    "inflation",
+    "banques",
+    "TPI",
+    "rachats",
+    "Christine Lagarde",
+    "taux directeurs",
+    "projections",
+    "Bruxelles",
+    "spread"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

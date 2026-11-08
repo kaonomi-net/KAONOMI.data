@@ -1,0 +1,13 @@
+{
+  "index": 42,
+  "file": "0042-architecture-entreprise-explain-technical-debt-in-simple-terms.prompt.json",
+  "prompt": "Explain technical debt in simple terms.",
+  "promptWords": 6,
+  "completion": "Technical debt is a concept in software development that describes the eventual consequences of prioritizing speedy delivery of a product over perfect code. Imagine you're building a house. To finish quickly, you might use cheaper materials or skip some steps. This gets the house built faster, but later, you'll have to spend more time and money fixing leaks, replacing weak materials, or even rebuilding parts of it.\n\nIn software, technical debt works similarly:\n- **Quick Fixes**: Developers might take shortcuts to meet deadlines, like writing messy or incomplete code.\n- **Future Costs**: Over time, these shortcuts make the software harder to maintain, slower to update, and more prone to bugs. Fixing them later takes more effort than doing it right the first time.\n\nJust like financial debt, technical debt accumulates interest—the longer you ignore it, the harder and more expensive it becomes to pay it off. The goal is to balance speed and quality, so you don’t end up drowning in debt!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:11:07.6912908+02:00",
+  "durationSeconds": 5.4,
+  "stats": "mistral-small3.2:latest · 515 + 205 tokens · 5,4 s",
+  "isError": false,
+  "language": "EN"
+}

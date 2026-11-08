@@ -1,0 +1,13 @@
+{
+  "index": 35,
+  "file": "0035-architecture-entreprise-explain-service-oriented-architecture-in-simple.prompt.json",
+  "prompt": "Explain service-oriented architecture in simple terms.",
+  "promptWords": 6,
+  "completion": "Service-Oriented Architecture (SOA) is a way of designing software systems where different parts of the system, called \"services,\" work together over a network to perform tasks. Here's a simple breakdown:\n\n1. **Services**: These are self-contained units of functionality that do specific jobs. For example, one service might handle user logins, another might manage product catalogs, and another might process payments.\n\n2. **Loose Coupling**: Services are independent of each other. They can be developed, deployed, and scaled separately. This means you can update one service without affecting the others.\n\n3. **Reusability**: Services can be reused across different parts of the system or even in different systems. For example, a payment service can be used by both an e-commerce website and a mobile app.\n\n4. **Interoperability**: Services can communicate with each other using standard protocols (like HTTP or SOAP), regardless of the technology they're built with. This allows different systems to work together seamlessly.\n\n5. **Scalability**: Because services are independent, you can scale individual services based on demand. For example, if your login service is experiencing high traffic, you can scale just that service without scaling the entire system.\n\n6. **Modularity**: SOA promotes a modular design, where each service has a clear, specific purpose. This makes the system easier to understand, maintain, and modify.\n\n### Example:\nImagine a restaurant:\n- The **kitchen** is a service that prepares food.\n- The **waitstaff** is another service that takes orders and delivers food to customers.\n- The **cashier** is a service that handles payments.\n\nEach of these services works independently but collaborates to provide a complete dining experience. If the kitchen gets busy, you can add more chefs (scale the kitchen service) without affecting the waitstaff or cashier.\n\nIn summary, SOA is like building a system out of LEGO blocks, where each block (service) does one thing well and can be easily connected to other blocks to create a larger, functional system.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:10:11.0246449+02:00",
+  "durationSeconds": 9.51,
+  "stats": "mistral-small3.2:latest · 516 + 424 tokens · 9,5 s",
+  "isError": false,
+  "language": "EN"
+}

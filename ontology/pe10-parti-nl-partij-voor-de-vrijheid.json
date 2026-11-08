@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Partij voor de Vrijheid, parti ou liste de ce pays : Pays-Bas, qui compte 6 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-nl-partij-voor-de-vrijheid",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Partij voor de Vrijheid",
+  "entityType": "ORGANISATION",
+  "description": "Partij voor de Vrijheid, parti ou liste de ce pays : Pays-Bas, qui compte 6 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Le programme européen de « Partij voor de Vrijheid » a été publié avant le scrutin.",
+    "Les eurodéputés de « Partij voor de Vrijheid » ont été élus en juin 2024.",
+    "« Partij voor de Vrijheid » est représenté dans le Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Partij%20voor%20de%20Vrijheid"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Mieke Andriese",
+    "Rachel Blom",
+    "Ton Diepeveen",
+    "Marieke Ehlers",
+    "Sebastian Kruis",
+    "Auke Zijlstra",
+    "Pays-Bas",
+    "Patriotes pour l'Europe (PfE)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

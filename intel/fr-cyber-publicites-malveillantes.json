@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-publicites-malveillantes",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Publicités malveillantes",
+  "includedEntities": [
+    {
+      "entityName": "malvertising",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "publicités malveillantes",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les campagnes de publicités piégées.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "moteurs de recherche",
+    "faux logiciels",
+    "réseaux sociaux"
+  ],
+  "questions": [
+    "Quelle campagne ?",
+    "Quel logiciel imité ?",
+    "Quelle plateforme ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#MALWARE"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

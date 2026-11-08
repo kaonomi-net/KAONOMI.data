@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-depravation",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La corruption des mœurs.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]pravation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]prav[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]bauche(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:luxure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:stupre(s)?)(?![\\w-])"
+  ],
+  "symbol": "dépravation",
+  "event": null,
+  "title": "Dépravation",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

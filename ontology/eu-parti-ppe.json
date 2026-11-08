@@ -1,0 +1,71 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la démocratie européenne) : Parti populaire européen (PPE), famille politique européenne représentée par un groupe au Parlement européen.",
+  "id": "eu-parti-ppe",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti populaire européen (PPE)",
+  "entityType": "ORGANISATION",
+  "description": "Parti populaire européen (PPE), famille politique européenne représentée par un groupe au Parlement européen.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-europeens",
+  "sentencesExemples": [
+    "Les décisions de « Parti populaire européen (PPE) » touchent la démocratie européenne.",
+    "Le rapport annuel de « Parti populaire européen (PPE) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Parti populaire européen (PPE) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "PPE",
+    "EPP"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#DEMOCRATIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20populaire%20europ%C3%A9en%20%28PPE%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Union chrétienne-démocrate (CDU)",
+    "Appel chrétien-démocrate (CDA)",
+    "Unité (Vienotība)",
+    "Parti populaire (PP)",
+    "Union démocratique croate (HDZ)",
+    "Nouvelle Démocratie",
+    "Parti populaire autrichien (ÖVP)",
+    "Chrétiens-démocrates et flamands (CD&V)",
+    "GERB",
+    "Rassemblement démocrate (DISY)",
+    "Parti de la coalition nationale (Kokoomus)",
+    "Fine Gael",
+    "Forza Italia",
+    "Union de la patrie – Chrétiens-démocrates lituaniens",
+    "Parti populaire chrétien-social (CSV)",
+    "Parti nationaliste maltais",
+    "Plateforme civique (PO)",
+    "Parti social-démocrate (PSD)",
+    "Parti national libéral (PNL)",
+    "Parti du rassemblement modéré (Moderaterna)",
+    "Ursula von der Leyen"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-racisme",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La haine fondée sur l'origine.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:racisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:raciste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:x[ée]nophobie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:x[ée]nophobe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:propos\\s+racistes)(?![\\w-])"
+  ],
+  "symbol": "racisme",
+  "event": null,
+  "title": "Racisme",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

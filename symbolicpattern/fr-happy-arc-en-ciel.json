@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-arc-en-ciel",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un arc coloré dans le ciel.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:arc(s)?-en-ciel)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arcs-en-ciel)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mille\\s+couleurs)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:multicolore(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chatoyant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "arc-en-ciel",
+  "event": null,
+  "title": "Arc-en-ciel",
+  "tags": [
+    "#NATURE",
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

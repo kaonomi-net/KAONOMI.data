@@ -1,0 +1,13 @@
+{
+  "index": 110,
+  "file": "0110-microsoft-office-comment-comparer-deux-versions-d-un.prompt.json",
+  "prompt": "Comment comparer deux versions d'un document dans Word ?",
+  "promptWords": 9,
+  "completion": "Pour comparer deux versions d'un document dans Microsoft Word, vous pouvez utiliser la fonctionnalité de comparaison intégrée. Voici comment procéder :\n\n1. **Ouvrez les deux documents** que vous souhaitez comparer.\n2. **Allez dans l'onglet \"Révision\"** dans le ruban de Word.\n3. **Cliquez sur \"Comparer\"** dans le groupe \"Outils de comparaison\".\n4. **Sélectionnez les documents** :\n   - Dans la boîte de dialogue qui s'ouvre, cliquez sur le bouton \"Document original\" pour sélectionner le premier document.\n   - Cliquez sur le bouton \"Document modifié\" pour sélectionner le deuxième document.\n5. **Choisissez les options de comparaison** :\n   - Vous pouvez cocher ou décocher les options selon ce que vous souhaitez comparer (par exemple, les modifications de mise en forme, les commentaires, etc.).\n6. **Cliquez sur \"OK\"** pour lancer la comparaison.\n7. **Examinez les différences** :\n   - Word affichera les deux documents côte à côte avec les différences mises en évidence. Les modifications seront marquées de la même manière que les suggestions de révision.\n\nSi vous utilisez une version plus récente de Word (comme Word 2016 ou ultérieur), le processus est similaire, mais l'interface peut légèrement varier.\n\nSi vous avez besoin d'aide supplémentaire ou si vous utilisez une version spécifique de Word, n'hésitez pas à me le préciser !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:49:46.1187028+02:00",
+  "durationSeconds": 6.52,
+  "stats": "mistral-small3.2:latest · 517 + 319 tokens · 6,5 s",
+  "isError": false,
+  "language": "FR"
+}

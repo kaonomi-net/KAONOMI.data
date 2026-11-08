@@ -1,0 +1,13 @@
+{
+  "index": 159,
+  "file": "0159-microsoft-office-how-do-i-use-designer-to.prompt.json",
+  "prompt": "How do I use Designer to format a slide in PowerPoint?",
+  "promptWords": 11,
+  "completion": "To format a slide in PowerPoint using the Designer feature, follow these steps:\n\n1. **Open PowerPoint** and create a new presentation or open an existing one.\n2. **Go to the slide** you want to format.\n3. **Click on the \"Design\" tab** in the ribbon at the top of the screen.\n4. **Click on \"Design Ideas\"** in the Design tab. This will open the Designer pane on the right side of the screen.\n5. **Review the suggested designs** that appear in the Designer pane. You can scroll through the options to see different layouts and formats.\n6. **Hover over a design** to see a preview of how it will look on your slide.\n7. **Click on the design** you like to apply it to your slide. The slide will automatically be formatted according to the chosen design.\n8. **Customize further** if needed. After applying a design, you can manually adjust elements like text, images, and shapes to fine-tune the look of your slide.\n\nIf you don't see the Designer feature, make sure you are using a relatively recent version of PowerPoint (2019 or later) and that your content includes images or text that Designer can work with.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:32:47.6251369+02:00",
+  "durationSeconds": 7.31,
+  "stats": "mistral-small3.2:latest · 520 + 255 tokens · 7,3 s",
+  "isError": false,
+  "language": "EN"
+}

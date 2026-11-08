@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-arme",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un instrument fait pour tuer ou blesser.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:arme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:armement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arsenal)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:armes\\s+de\\s+destruction\\s+massive)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:munition(s)?)(?![\\w-])"
+  ],
+  "symbol": "arme",
+  "event": null,
+  "title": "Arme",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

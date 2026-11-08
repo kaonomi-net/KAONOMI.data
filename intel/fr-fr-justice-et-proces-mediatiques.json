@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-justice-et-proces-mediatiques",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Justice et procès médiatiques",
+  "includedEntities": [
+    {
+      "entityName": "procès",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "tribunal",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "verdict",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les grands procès qui marquent l'actualité.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "cour d'assises",
+    "médias",
+    "victimes"
+  ],
+  "questions": [
+    "Quel procès ?",
+    "Quel verdict ?",
+    "Quelles réactions ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#JUSTICE",
+    "#PROCES"
+  ],
+  "events": [
+    "@VERDICT"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

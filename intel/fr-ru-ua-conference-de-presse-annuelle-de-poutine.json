@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-conference-de-presse-annuelle-de-poutine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Conférence de presse annuelle de Poutine",
+  "includedEntities": [
+    {
+      "entityName": "Poutine",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "ligne directe",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "conférence de presse",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la conférence de presse et la ligne directe de fin d'année.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [
+    "décembre"
+  ],
+  "relatedEntities": [
+    "questions des citoyens",
+    "économie",
+    "guerre"
+  ],
+  "questions": [
+    "Quelles annonces ?",
+    "Quelles questions marquantes ?",
+    "Quel message sur la paix ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#RUSSIE",
+    "#COMMUNICATION"
+  ],
+  "events": [
+    "@CONFERENCE-PRESSE"
+  ],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

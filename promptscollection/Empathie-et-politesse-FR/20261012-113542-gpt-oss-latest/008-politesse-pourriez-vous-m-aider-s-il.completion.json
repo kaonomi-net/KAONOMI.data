@@ -1,0 +1,13 @@
+{
+  "index": 8,
+  "file": "008-politesse-pourriez-vous-m-aider-s-il.prompt.json",
+  "prompt": "Pourriez-vous m'aider, s'il vous plaît ?",
+  "promptWords": 6,
+  "completion": "Bien sûr\u202F! Pour que je puisse vous aider au mieux, pourriez‑vous préciser\u202F:\n\n- le sujet ou le domaine sur lequel vous avez besoin d’assistance (ex\u202F: maths, programmation, rédaction, etc.)\u202F?\n- votre niveau actuel ou le contexte du problème\u202F?\n- tout détail ou problème particulier que vous rencontrez\u202F?\n\nAvec un peu plus d’informations, je pourrai vous fournir une réponse ciblée et utile. \uD83D\uDE80",
+  "model": "gpt-oss:latest",
+  "date": "2026-10-12T11:36:02.958686+02:00",
+  "durationSeconds": 2.68,
+  "stats": "gpt-oss:latest · 78 + 169 tokens · 2.7 s",
+  "isError": false,
+  "language": "FR"
+}

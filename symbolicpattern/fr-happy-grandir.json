@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-grandir",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Devenir plus grand, mûrir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:grand(ir|it|is|issent|issait|i|ie)|m[ûu]rir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[ûu]ri(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:premiers\\s+pas)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:premier(s)?\\s+mot(s)?)(?![\\w-])"
+  ],
+  "symbol": "grandir",
+  "event": null,
+  "title": "Grandir",
+  "tags": [
+    "#ENFANCE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

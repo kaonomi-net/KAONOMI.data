@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (la sûreté de l'IA) : Chercheur américain, ancien vice-président de la recherche d'OpenAI, cofondateur et directeur général d'Anthropic, éditeur de Claude.",
+  "id": "ia-amodei",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Dario Amodei",
+  "entityType": "PERSON",
+  "description": "Chercheur américain, ancien vice-président de la recherche d'OpenAI, cofondateur et directeur général d'Anthropic, éditeur de Claude.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Dario Amodei est l'une des figures marquantes de la sûreté de l'IA.",
+    "Lors de la conférence, l'oratrice a cité Dario Amodei pour illustrer les progrès de la sûreté de l'IA.",
+    "Une biographie de Dario Amodei rappelle son rôle dans la sûreté de l'IA."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "D. Amodei"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#SURETEIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Dario%20Amodei"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Fondation d'Anthropic",
+    "Claude"
+  ],
+  "isDeleted": false,
+  "startDate": "1983-01-01T00:00:00",
+  "endDate": null
+}

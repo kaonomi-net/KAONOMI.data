@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-liste-des-pays-d-origine-surs",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Liste des pays d'origine sûrs",
+  "includedEntities": [
+    {
+      "entityName": "pays d'origine sûrs",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "liste",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la liste européenne des pays d'origine sûrs.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "asile",
+    "procédures accélérées",
+    "Tunisie"
+  ],
+  "questions": [
+    "Quels pays ?",
+    "Quel effet ?",
+    "Quelle contestation ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MIGRATION",
+    "#ASILE"
+  ],
+  "events": [],
+  "signals": [
+    "!MIGRATION"
+  ],
+  "isDeleted": false
+}

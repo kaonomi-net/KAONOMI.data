@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : SMER-Sociálna demokracia, parti ou liste de ce pays : Slovaquie, qui compte 5 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-sk-smer-socialna-demokracia",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "SMER-Sociálna demokracia",
+  "entityType": "ORGANISATION",
+  "description": "SMER-Sociálna demokracia, parti ou liste de ce pays : Slovaquie, qui compte 5 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "La presse a commenté le score de « SMER-Sociálna demokracia » aux élections européennes.",
+    "Les positions de « SMER-Sociálna demokracia » sont suivies à Bruxelles et à Strasbourg.",
+    "« SMER-Sociálna demokracia » compte des élus au Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=SMER-Soci%C3%A1lna%20demokracia"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Monika Beňová",
+    "Ľuboš Blaha",
+    "Erik Kaliňák",
+    "Judita Laššáková",
+    "Katarína Roth Neveďalová",
+    "Slovaquie",
+    "Non-inscrits"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

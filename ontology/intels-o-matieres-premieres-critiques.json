@@ -1,0 +1,55 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-matieres-premieres-critiques",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "matières premières critiques",
+  "entityType": "MATERIAL",
+  "description": "Cité par 2 intels : Accords sur les matières premières critiques ; Corporation européenne des matières premières critiques.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre les partenariats européens sur les matières premières critiques.",
+    "Suivre la création d'une entité européenne pour les matières premières critiques."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "matières premières critiques",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MATIERES-PREMIERES",
+    "#COMMERCE",
+    "#PROGRAMME-2027"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "lithium",
+    "partenariat",
+    "cobalt",
+    "Afrique",
+    "achats communs",
+    "stocks",
+    "Chine",
+    "Bruxelles",
+    "corporation européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

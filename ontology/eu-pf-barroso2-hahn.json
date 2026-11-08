@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la politique de cohésion) : Portefeuille détenu par Johannes Hahn, commissaire, dans la Commission Barroso II, du 10 février 2010 au 31 octobre 2014.",
+  "id": "eu-pf-barroso2-hahn",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Politique régionale (Commission Barroso II)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Johannes Hahn, commissaire, dans la Commission Barroso II, du 10 février 2010 au 31 octobre 2014.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Le portefeuille « Politique régionale (Commission Barroso II) » couvre la politique de cohésion.",
+    "La lettre de mission du portefeuille « Politique régionale (Commission Barroso II) » fixe les objectifs en matière de la politique de cohésion.",
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Politique régionale (Commission Barroso II) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#POLITIQUECOHESION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Politique%20r%C3%A9gionale%20%28Commission%20Barroso%20II%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Johannes Hahn",
+    "Commission Barroso II",
+    "Commissaire européen",
+    "Cohésion et politique régionale"
+  ],
+  "isDeleted": false,
+  "startDate": "2010-02-10T00:00:00",
+  "endDate": "2014-10-31T00:00:00"
+}

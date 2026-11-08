@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-assassinats-cibles-en-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Assassinats ciblés en Russie",
+  "includedEntities": [
+    {
+      "entityName": "assassinat",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "explosion",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "officier",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les attentats visant des officiers ou responsables russes.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou",
+    "régions"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "enquête",
+    "FSB",
+    "Ukraine"
+  ],
+  "questions": [
+    "Qui est visé ?",
+    "Qui est soupçonné ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#SECURITE",
+    "#ATTENTAT"
+  ],
+  "events": [
+    "@ATTENTAT"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

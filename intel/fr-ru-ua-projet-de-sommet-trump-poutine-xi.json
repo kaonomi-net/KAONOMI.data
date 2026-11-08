@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-projet-de-sommet-trump-poutine-xi",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Projet de sommet Trump-Poutine-Xi",
+  "includedEntities": [
+    {
+      "entityName": "sommet",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Poutine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Xi Jinping",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller l'idée d'un sommet entre les dirigeants américain, russe et chinois.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Donald Trump",
+    "Kremlin",
+    "Pékin"
+  ],
+  "questions": [
+    "Une date est-elle fixée ?",
+    "Quelle place pour Kyiv ?",
+    "Quel ordre du jour ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#CHINE",
+    "#ETATS-UNIS",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-reglement-sur-les-marches-numeriques",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Règlement sur les marchés numériques",
+  "includedEntities": [
+    {
+      "entityName": "DMA",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "marchés numériques",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "gatekeepers",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'application du règlement sur les marchés numériques aux géants du numérique.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Apple",
+    "Google",
+    "Meta"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quelle amende ?",
+    "Quelle mise en conformité ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DMA",
+    "#CONCURRENCE"
+  ],
+  "events": [
+    "@DECISION"
+  ],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

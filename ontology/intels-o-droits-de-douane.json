@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-droits-de-douane",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "droits de douane",
+  "entityType": "LAW",
+  "description": "Cité par 20 intels : Sanctions du Congrès américain contre la Russie ; Différends à l'OMC ; Guerre commerciale et droits de douane ; Macron et Donald Trump ; Droits de douane américains et économie française ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre les projets de loi de sanctions au Congrès américain.",
+    "Suivre les litiges commerciaux portés devant l'Organisation mondiale du commerce.",
+    "Suivre les hausses de droits de douane et les représailles."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "droits de douane",
+  "tags": [
+    "#ETATS-UNIS",
+    "#COMMERCE",
+    "#BOURSE",
+    "#ECONOMIE",
+    "#CAC40",
+    "#AUTOMOBILE"
+  ],
+  "events": [
+    "@HAUSSE-TARIFS",
+    "@VOTE",
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!TENSION-COMMERCIALE",
+    "!DIPLOMATIE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Washington",
+    "États-Unis",
+    "Bruxelles",
+    "Pékin",
+    "Chine",
+    "Paris",
+    "inflation",
+    "Trump",
+    "Congrès",
+    "Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

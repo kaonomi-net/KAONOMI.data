@@ -1,0 +1,13 @@
+{
+  "index": 583,
+  "file": "0583-python-explique-les-generateurs-en-python-avec.prompt.json",
+  "prompt": "Explique les générateurs en Python avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "En Python, un générateur est une fonction spéciale qui permet de générer une séquence de valeurs à la demande, plutôt que de les calculer toutes à l'avance et de les stocker en mémoire. Les générateurs sont particulièrement utiles pour traiter de grandes quantités de données, car ils permettent d'économiser de la mémoire.\n\nUn générateur est défini en utilisant le mot-clé `yield` dans une fonction. Lorsque la fonction est appelée, elle retourne un objet générateur, qui peut être itéré pour obtenir les valeurs une par une.\n\nVoici un exemple simple de générateur en Python :\n\n```python\ndef compteur(n):\n    i = 1\n    while i <= n:\n        yield i\n        i += 1\n\n# Utilisation du générateur\ncompteur_obj = compteur(5)\n\nfor nombre in compteur_obj:\n    print(nombre)\n```\n\nDans cet exemple, la fonction `compteur` est un générateur qui génère les nombres de 1 à `n`. Lorsque nous appelons `compteur(5)`, nous obtenons un objet générateur. En itérant sur cet objet avec une boucle `for`, nous obtenons les nombres 1, 2, 3, 4 et 5, un par un.\n\nLes générateurs sont particulièrement utiles pour traiter de grandes quantités de données, car ils permettent d'économiser de la mémoire. Par exemple, si vous avez un fichier très volumineux et que vous souhaitez le traiter ligne par ligne, vous pouvez utiliser un générateur pour lire le fichier ligne par ligne, plutôt que de le charger entièrement en mémoire.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:22:29.8017039+02:00",
+  "durationSeconds": 6.65,
+  "stats": "mistral-small3.2:latest · 519 + 335 tokens · 6,7 s",
+  "isError": false,
+  "language": "FR"
+}

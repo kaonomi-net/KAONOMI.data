@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-suisse",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "Suisse",
+  "entityType": "COUNTRY",
+  "description": "Cité par 2 intels : Exil fiscal et départs d'entrepreneurs ; Accord avec la Suisse.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre les menaces de départ d'entrepreneurs liées à la fiscalité.",
+    "Suivre le paquet d'accords entre l'Union et la Suisse."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Suisse",
+  "tags": [
+    "#FRANCE",
+    "#FISCALITE",
+    "#ENTREPRISES",
+    "#UNION-EUROPEENNE",
+    "#SUISSE",
+    "#COMMERCE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT",
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "exil fiscal",
+    "taxe Zucman",
+    "entrepreneurs",
+    "marché unique",
+    "libre circulation",
+    "accords bilatéraux",
+    "Berne",
+    "Bruxelles",
+    "référendum"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (l'optimisation) : Méthode d'optimisation itérative qui met à jour les paramètres à partir d'estimations bruitées du gradient, issue des travaux de Robbins et Monro.",
+  "id": "ia-sgd",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Descente de gradient stochastique",
+  "entityType": "ALGORITHM",
+  "description": "Méthode d'optimisation itérative qui met à jour les paramètres à partir d'estimations bruitées du gradient, issue des travaux de Robbins et Monro.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Descente de gradient stochastique est enseigné dans tous les cours consacrés à l'optimisation.",
+    "Le notebook compare Descente de gradient stochastique aux autres méthodes de l'optimisation.",
+    "La chercheuse a présenté une variante de Descente de gradient stochastique lors du séminaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "SGD",
+    "gradient stochastique"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#OPTIMISATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Descente%20de%20gradient%20stochastique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Rétropropagation du gradient"
+  ],
+  "isDeleted": false,
+  "startDate": "1951-01-01T00:00:00",
+  "endDate": null
+}

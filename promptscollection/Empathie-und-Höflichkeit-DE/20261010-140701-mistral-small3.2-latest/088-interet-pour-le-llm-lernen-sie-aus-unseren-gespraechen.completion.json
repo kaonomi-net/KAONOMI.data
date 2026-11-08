@@ -1,0 +1,13 @@
+{
+  "index": 88,
+  "file": "088-interet-pour-le-llm-lernen-sie-aus-unseren-gespraechen.prompt.json",
+  "prompt": "Lernen Sie aus unseren Gesprächen?",
+  "promptWords": 5,
+  "completion": "Nein, ich lerne nicht aus unseren Gesprächen. Jedes Gespräch beginnt für mich wie ein neues Blatt Papier – ich habe keine Erinnerung an vorherige Interaktionen. Ich kann jedoch innerhalb eines Gesprächs Informationen speichern und auf frühere Teile des Gesprächs Bezug nehmen, solange die Sitzung aktiv ist.\n\nWenn du also etwas Wichtiges erwähnt hast, das für die aktuelle Unterhaltung relevant ist, kann ich darauf zurückgreifen. Sobald das Gespräch beendet ist, vergesse ich jedoch alles.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:10:24.8653766+02:00",
+  "durationSeconds": 2.29,
+  "stats": "mistral-small3.2:latest · 516 + 107 tokens · 2,3 s",
+  "isError": false,
+  "language": "DE"
+}

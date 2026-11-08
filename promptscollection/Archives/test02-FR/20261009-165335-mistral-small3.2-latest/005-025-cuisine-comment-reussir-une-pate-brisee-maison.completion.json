@@ -1,0 +1,13 @@
+{
+  "index": 5,
+  "file": "025-cuisine-comment-reussir-une-pate-brisee-maison.prompt.json",
+  "prompt": "Comment réussir une pâte brisée maison ?",
+  "promptWords": 7,
+  "completion": "La pâte brisée est une base essentielle en pâtisserie, et la réaliser maison est plus simple qu'il n'y paraît. Voici une recette de base et quelques conseils pour la réussir parfaitement :\n\n### **Ingrédients pour une pâte brisée :**\n- 250 g de farine (type T45 ou T55)\n- 125 g de beurre froid (coupé en dés)\n- 1 pincée de sel\n- 5 à 6 cuillères à soupe d'eau froide (ou un peu plus si nécessaire)\n\n### **Étapes de préparation :**\n\n1. **Mélanger la farine et le sel** dans un grand saladier.\n2. **Ajouter le beurre froid** coupé en dés et travailler du bout des doigts pour obtenir une texture sableuse (le beurre doit rester en petits morceaux).\n3. **Incorporer l'eau progressivement**, une cuillère à la fois, en mélangeant avec une spatule ou les mains, jusqu'à ce que la pâte se forme et se détache des parois du saladier.\n4. **Pétrir légèrement** la pâte pour la rendre homogène, sans trop la travailler pour éviter qu'elle ne devienne élastique.\n5. **Former une boule**, l'envelopper dans du film alimentaire et la laisser reposer au réfrigérateur pendant **au moins 30 minutes** (idéalement 1 heure).\n\n### **Conseils pour une pâte brisée réussie :**\n- **Beurre bien froid** : C'est la clé pour une pâte feuilletée et croustillante.\n- **Ne pas trop pétrir** : Cela éviterait de développer le gluten et de rendre la pâte dure.\n- **Repos au frigo** : Cela permet au beurre de se raffermir et à la pâte de se détendre, facilitant son étalage.\n- **Étaler la pâte** entre deux feuilles de papier sulfurisé pour éviter qu'elle n'adhère au rouleau.\n\n### **Utilisation :**\nUne fois la pâte reposée, vous pouvez l'étaler sur un plan fariné et la foncer dans un moule à tarte. Piquez le fond avec une fourchette avant de cuire (à blanc ou avec une garniture).\n\nSi vous souhaitez une recette plus détaillée ou des variantes (pâte sablée, pâte sucrée), n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:54:25.9376807+02:00",
+  "durationSeconds": 11.07,
+  "stats": "mistral-small3.2:latest · 517 + 526 tokens · 11,1 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (le logement) : Logement abordable, premier portefeuille européen consacré à ce thème créé en 2024.",
+  "id": "eu-dom-logement",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Logement",
+  "entityType": "DOMAIN",
+  "description": "Logement abordable, premier portefeuille européen consacré à ce thème créé en 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Logement » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Logement » passent par le Parlement et le Conseil.",
+    "La conférence portait sur le logement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#LOGEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Logement"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Énergie et logement (Commission von der Leyen II)",
+    "Dan Jørgensen",
+    "Direction générale de l'énergie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

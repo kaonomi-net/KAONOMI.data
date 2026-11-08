@@ -1,0 +1,56 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-signatures",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "signatures",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Signatures post-quantiques ; Cryptographie et cryptomonnaies.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les algorithmes de signature post-quantiques et le concours additionnel du NIST.",
+    "Suivre la sécurité cryptographique des portefeuilles et blockchains."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "signatures",
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#POST-QUANTIQUE",
+    "#SIGNATURE",
+    "#CRYPTO"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSITION",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "candidats",
+    "SLH-DSA",
+    "FIPS 205",
+    "FIPS 204",
+    "ML-DSA",
+    "clés privées",
+    "bitcoin",
+    "quantique",
+    "cryptomonnaies"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

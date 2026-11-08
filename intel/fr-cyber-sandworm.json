@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-sandworm",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Sandworm",
+  "includedEntities": [
+    {
+      "entityName": "Sandworm",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "sabotage",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le groupe russe Sandworm et ses sabotages.",
+  "isFuzzy": true,
+  "locations": [
+    "Ukraine",
+    "Pologne"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "réseaux électriques",
+    "effaceurs",
+    "GRU"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quel sabotage ?",
+    "Quel impact ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RUSSIE",
+    "#SABOTAGE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

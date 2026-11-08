@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-asticot",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La larve de la mouche.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:asticot(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:larve(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ver(s)?\\s+de\\s+terre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ver(s)?\\s+blanc(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grouillant(e|s|es)?\\s+de\\s+vers)(?![\\w-])"
+  ],
+  "symbol": "asticot",
+  "event": null,
+  "title": "Asticot",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

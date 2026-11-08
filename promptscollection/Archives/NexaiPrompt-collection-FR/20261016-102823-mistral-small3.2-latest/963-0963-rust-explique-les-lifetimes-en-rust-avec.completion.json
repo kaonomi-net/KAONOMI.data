@@ -1,0 +1,13 @@
+{
+  "index": 963,
+  "file": "0963-rust-explique-les-lifetimes-en-rust-avec.prompt.json",
+  "prompt": "Explique les lifetimes en Rust avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "Les lifetimes en Rust sont un concept fondamental pour gérer la durée de vie des références et éviter les problèmes de mémoire comme les pointeurs pendants (dangling pointers). Ils permettent au compilateur de s'assurer qu'une référence ne vit pas plus longtemps que la donnée qu'elle pointe.\n\n### Exemple simple\n\nImaginons que nous voulons écrire une fonction qui retourne la référence la plus longue de deux chaînes :\n\n```rust\nfn longest<'a>(x: &'a str, y: &'a str) -> &'a str {\n    if x.len() > y.len() {\n        x\n    } else {\n        y\n    }\n}\n```\n\nDans cet exemple :\n- `'a` est un lifetime annoté qui indique que la référence retournée ne vivra pas plus longtemps que les références d'entrée `x` et `y`.\n- Le compilateur vérifie que la référence retournée est valide pour toute la durée de vie `'a`.\n\n### Explication détaillée\n\n1. **Déclaration du lifetime** : `'a` est déclaré après le nom de la fonction pour indiquer que tous les paramètres et la valeur de retour partagent ce lifetime.\n2. **Vérification par le compilateur** : Rust s'assure que la référence retournée (soit `x`, soit `y`) est valide pour toute la durée de vie `'a`.\n3. **Sécurité mémoire** : Cela empêche des erreurs comme retourner une référence vers une donnée qui pourrait être libérée avant d'être utilisée.\n\n### Utilisation\n\n```rust\nfn main() {\n    let string1 = String::from(\"long string is long\");\n    let result;\n    {\n        let string2 = String::from(\"xy\");\n        result = longest(string1.as_str(), string2.as_str());\n        println!(\"The longest string is {}\", result);\n    }\n    // string2 n'est plus valide ici, mais result pointe toujours vers string1\n    println!(\"The longest string is {}\", result);\n}\n```\n\nDans cet exemple, `result` pointe vers `string1`, qui est valide même après la fin du bloc où `string2` était définie. Le lifetime `'a` garantit que `result` ne peut pas pointer vers `string2` après sa destruction.\n\nLes lifetimes sont donc un mécanisme puissant pour garantir la sécurité mémoire en Rust sans avoir besoin de garbage collector.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:55:49.6421674+02:00",
+  "durationSeconds": 9.96,
+  "stats": "mistral-small3.2:latest · 520 + 494 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

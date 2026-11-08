@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'éducation) : Conseil Éducation, jeunesse, culture et sport, formation du Conseil de l'Union européenne compétente pour l'éducation, la jeunesse, la culture, le sport.",
+  "id": "eu-cons-eycs",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Conseil Éducation, jeunesse, culture et sport (EYCS)",
+  "entityType": "ORGANISATION",
+  "description": "Conseil Éducation, jeunesse, culture et sport, formation du Conseil de l'Union européenne compétente pour l'éducation, la jeunesse, la culture, le sport.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-formations-conseil",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Conseil Éducation, jeunesse, culture et sport (EYCS) ».",
+    "« Conseil Éducation, jeunesse, culture et sport (EYCS) » joue un rôle dans l'éducation.",
+    "Les fonctionnaires de « Conseil Éducation, jeunesse, culture et sport (EYCS) » préparent les textes relatifs à l'éducation."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EYCS"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#EDUCATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Conseil%20%C3%89ducation%2C%20jeunesse%2C%20culture%20et%20sport%20%28EYCS%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conseil de l'Union européenne",
+    "Éducation",
+    "Jeunesse",
+    "Culture",
+    "Sport"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

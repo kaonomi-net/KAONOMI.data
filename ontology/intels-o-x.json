@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-x",
+  "dateCreated": "2026-11-08 17:55:50",
+  "name": "X",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 4 intels : Déclarations d'Ursula von der Leyen ; Messages d'Ursula von der Leyen sur X ; Application du règlement sur les services numériques ; Amende contre X d'Elon Musk.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre les déclarations de la présidente de la Commission européenne.",
+    "Suivre les messages publiés par la présidente sur les réseaux sociaux.",
+    "Suivre les enquêtes et sanctions au titre du règlement sur les services numériques."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "X",
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#UNION-EUROPEENNE",
+    "#DSA",
+    "#COMMUNICATION",
+    "#PLATEFORMES"
+  ],
+  "events": [
+    "@DECISION",
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!COMMUNICATION",
+    "!REGULATION",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "DSA",
+    "Ursula von der Leyen",
+    "conférences de presse",
+    "Commission européenne",
+    "déclaration",
+    "annonces",
+    "réactions",
+    "von der Leyen",
+    "message"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

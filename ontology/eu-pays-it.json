@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Pays de l'Union européenne (la politique européenne) : Italie, État membre de l'Union européenne depuis 1958 (membre fondateur), capitale Rome.",
+  "id": "eu-pays-it",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Italie",
+  "entityType": "COUNTRY",
+  "description": "Italie, État membre de l'Union européenne depuis 1958 (membre fondateur), capitale Rome.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-etats-membres",
+  "sentencesExemples": [
+    "Le rapport de la Commission consacre un chapitre à Italie.",
+    "Italie participe aux décisions de de l'Union européenne.",
+    "Les fonds européens financent de nombreux projets en Italie."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF0D",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#COUNTRY",
+    "#POLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Italie"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité italienne",
+    "Rome",
+    "Union européenne",
+    "Parme",
+    "Turin",
+    "Ispra",
+    "italien",
+    "Parti démocrate (PD)",
+    "Frères d'Italie (FdI)",
+    "Forza Italia"
+  ],
+  "isDeleted": false,
+  "startDate": "1958-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-mycose",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une infection par des champignons.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:mycose(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:champignon(s)?\\s+(aux\\s+pieds|des\\s+ongles))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pied(s)?\\s+d['’]athl[èe]te)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ongle(s)?\\s+jaune(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:odeur(s)?\\s+de\\s+pieds)(?![\\w-])"
+  ],
+  "symbol": "mycose",
+  "event": null,
+  "title": "Mycose",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

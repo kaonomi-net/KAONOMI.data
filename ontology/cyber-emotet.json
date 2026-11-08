@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (les logiciels malveillants) : Cheval de Troie bancaire devenu un réseau de distribution d'autres logiciels malveillants, démantelé par Europol en 2021.",
+  "id": "cyber-emotet",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Emotet",
+  "entityType": "SOFTWARE",
+  "description": "Cheval de Troie bancaire devenu un réseau de distribution d'autres logiciels malveillants, démantelé par Europol en 2021.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé Emotet avec d'autres outils des logiciels malveillants.",
+    "Emotet figure parmi les logiciels marquants des logiciels malveillants.",
+    "En atelier, les élèves ont découvert Emotet et son fonctionnement."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 1,
+  "disgustLevel": 2,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Geodo"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#LOGICIELSMALVEILLANTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Emotet"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Zeus",
+    "ClamAV"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-indignation",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La colère devant l'injustice.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:indignation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:indign([ée]|[ée]e|[ée]s|[ée]es|er|ant|ante)|outr([ée]|[ée]e|age|ageant)|choqu[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]volt[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "indignation",
+  "event": null,
+  "title": "Indignation",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

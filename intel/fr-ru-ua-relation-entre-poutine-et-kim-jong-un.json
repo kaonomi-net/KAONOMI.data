@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-relation-entre-poutine-et-kim-jong-un",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Relation entre Poutine et Kim Jong-un",
+  "includedEntities": [
+    {
+      "entityName": "Poutine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Kim Jong-un",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Corée du Nord",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre la coopération entre la Russie et la Corée du Nord.",
+  "isFuzzy": true,
+  "locations": [
+    "Pyongyang",
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "traité de défense",
+    "missiles",
+    "soldats nord-coréens"
+  ],
+  "questions": [
+    "Quelle rencontre ?",
+    "Quels accords ?",
+    "Quel soutien militaire ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#COREE-DU-NORD",
+    "#ALLIANCE"
+  ],
+  "events": [
+    "@RENCONTRE-DIRIGEANTS"
+  ],
+  "signals": [
+    "!ALLIANCE"
+  ],
+  "isDeleted": false
+}

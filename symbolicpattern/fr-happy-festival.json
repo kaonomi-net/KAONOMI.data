@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-festival",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une grande fête artistique.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:festival(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:festivalier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:kermesse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:f[êe]te\\s+foraine)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guinguette(s)?)(?![\\w-])"
+  ],
+  "symbol": "festival",
+  "event": null,
+  "title": "Festival",
+  "tags": [
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

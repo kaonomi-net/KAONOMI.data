@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-ovhcloud",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "OVHcloud",
+  "includedEntities": [
+    {
+      "entityName": "OVHcloud",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "cloud",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre OVHcloud et le cloud souverain.",
+  "isFuzzy": false,
+  "locations": [
+    "Roubaix"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "souveraineté",
+    "centres de données",
+    "famille Klaba"
+  ],
+  "questions": [
+    "Quelle croissance ?",
+    "Quel contrat ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CLOUD",
+    "#SOUVERAINETE"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

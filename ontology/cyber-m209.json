@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (le chiffrement électromécanique) : Machine portable à chiffrer conçue par Boris Hagelin, utilisée par l'armée américaine pendant la Seconde Guerre mondiale.",
+  "id": "cyber-m209",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Machine Hagelin M-209",
+  "entityType": "HARDWARE",
+  "description": "Machine portable à chiffrer conçue par Boris Hagelin, utilisée par l'armée américaine pendant la Seconde Guerre mondiale.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Lors du salon, le stand présentait Machine Hagelin M-209 en démonstration.",
+    "Le laboratoire utilise Machine Hagelin M-209 pour ses travaux dans le domaine du chiffrement électromécanique.",
+    "Le technicien a installé Machine Hagelin M-209 dans la salle des machines."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "M-209"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#CHIFFREMENTELECTROMECANIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Machine%20Hagelin%20M-209"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Crypto AG CX-52"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

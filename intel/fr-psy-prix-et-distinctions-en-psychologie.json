@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-prix-et-distinctions-en-psychologie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Prix et distinctions en psychologie",
+  "includedEntities": [
+    {
+      "entityName": "prix",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "psychologue",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "chercheur",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prix décernés à des chercheurs en psychologie et neurosciences.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Nobel",
+    "prix Brain",
+    "CNRS"
+  ],
+  "questions": [
+    "Quel prix ?",
+    "Quel chercheur ?",
+    "Quels travaux ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#RECHERCHE",
+    "#PRIX"
+  ],
+  "events": [
+    "@PRIX"
+  ],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

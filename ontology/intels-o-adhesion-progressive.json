@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-adhesion-progressive",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "adhésion progressive",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Clause de sauvegarde et adhésion progressive.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les propositions d'intégration graduelle des pays candidats."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "adhésion progressive",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#REFORME"
+  ],
+  "events": [],
+  "signals": [
+    "!ELARGISSEMENT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "marché unique",
+    "réversibilité",
+    "clause de sauvegarde",
+    "fonds",
+    "Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

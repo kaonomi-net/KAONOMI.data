@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-deepfakes",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "deepfakes",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Désinformation pendant la campagne ; Obligations de transparence de l'AI Act ; Harcèlement en ligne des femmes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Détecter les fausses informations visant les candidats.",
+    "Suivre les obligations de transparence et de marquage des contenus générés par IA.",
+    "Suivre le cyberharcèlement visant les femmes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "deepfakes",
+  "tags": [
+    "#FRANCE",
+    "#DESINFORMATION",
+    "#PRESIDENTIELLE-2027",
+    "#UNION-EUROPEENNE",
+    "#IA",
+    "#TRANSPARENCE"
+  ],
+  "events": [
+    "@CAMPAGNE-DESINFORMATION",
+    "@ECHEANCE-REGLEMENTAIRE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!DESINFORMATION",
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "campagne",
+    "présidentielle",
+    "bots",
+    "Viginum",
+    "désinformation",
+    "AI Act",
+    "article 50",
+    "filigrane",
+    "transparence",
+    "Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-fracture-numerique-et-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Fracture numérique et IA",
+  "includedEntities": [
+    {
+      "entityName": "fracture numérique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les inégalités d'accès à l'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "zones rurales",
+    "seniors",
+    "pays du Sud"
+  ],
+  "questions": [
+    "Qui est exclu ?",
+    "Quelles initiatives ?",
+    "Quel coût d'accès ?"
+  ],
+  "tags": [
+    "#IA",
+    "#INCLUSION",
+    "#SOCIETE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE-SOCIAL"
+  ],
+  "isDeleted": false
+}

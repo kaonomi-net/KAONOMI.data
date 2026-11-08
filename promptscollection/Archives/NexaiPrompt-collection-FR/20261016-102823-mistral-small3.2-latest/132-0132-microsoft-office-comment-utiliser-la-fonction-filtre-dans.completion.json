@@ -1,0 +1,13 @@
+{
+  "index": 132,
+  "file": "0132-microsoft-office-comment-utiliser-la-fonction-filtre-dans.prompt.json",
+  "prompt": "Comment utiliser la fonction FILTRE dans Excel ?",
+  "promptWords": 8,
+  "completion": "La fonction FILTRE dans Excel est très utile pour extraire des données d'une plage en fonction de critères spécifiques. Voici comment l'utiliser :\n\n### Syntaxe de la fonction FILTRE\n```excel\n=FILTRE(plage_à_filtrer, [critère], [vide_ou_erreur])\n```\n\n### Paramètres :\n1. **plage_à_filtrer** : La plage de cellules dont vous souhaitez filtrer les données.\n2. **critère** : (Optionnel) La condition selon laquelle filtrer les données. Peut être une référence à une cellule, une expression ou une fonction.\n3. **vide_ou_erreur** : (Optionnel) Spécifie le texte à afficher si aucune valeur ne correspond au critère. Par défaut, Excel affiche une erreur.\n\n### Exemples d'utilisation :\n\n#### 1. Filtrer les valeurs supérieures à 100\nSupposons que vous avez une liste de nombres dans la plage A1:A10 et que vous voulez afficher uniquement les nombres supérieurs à 100.\n```excel\n=FILTRE(A1:A10, A1:A10 > 100)\n```\n\n#### 2. Filtrer en fonction d'une cellule de critère\nSi vous avez une liste de noms dans la plage B1:B10 et que vous voulez filtrer les noms qui commencent par \"A\", vous pouvez utiliser une cellule de critère (par exemple, D1) contenant \"A\".\n```excel\n=FILTRE(B1:B10, ET(ESTNUM(B1:B10), B1:B10 >= D1))\n```\n\n#### 3. Filtrer avec plusieurs critères\nPour filtrer les données en fonction de plusieurs critères, vous pouvez utiliser la fonction ET.\n```excel\n=FILTRE(A1:A10, ET(A1:A10 > 50, A1:A10 < 100))\n```\n\n#### 4. Spécifier un texte à afficher si aucune valeur ne correspond\nSi vous voulez afficher \"Aucun résultat\" lorsque aucune valeur ne correspond au critère, vous pouvez utiliser :\n```excel\n=FILTRE(A1:A10, A1:A10 > 200, \"Aucun résultat\")\n```\n\n### Remarques :\n- La fonction FILTRE est disponible dans les versions récentes d'Excel (Excel 365 et Excel 2021).\n- Les résultats du filtre sont dynamiques et se mettent à jour automatiquement si les données source changent.\n\nSi vous avez besoin d'aide pour un cas spécifique, n'hésitez pas à me le dire !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:53:09.5501301+02:00",
+  "durationSeconds": 11.92,
+  "stats": "mistral-small3.2:latest · 518 + 591 tokens · 11,9 s",
+  "isError": false,
+  "language": "FR"
+}

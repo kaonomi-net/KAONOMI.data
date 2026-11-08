@@ -1,0 +1,13 @@
+{
+  "index": 100,
+  "file": "100-interet-pour-le-llm-si-vous-pouviez-visiter-un-endroit.prompt.json",
+  "prompt": "Si vous pouviez visiter un endroit dans le monde, lequel choisiriez-vous ?",
+  "promptWords": 12,
+  "completion": "Si je pouvais visiter un endroit dans le monde, je choisirais probablement le Japon. Ce pays offre une richesse culturelle fascinante, alliant traditions anciennes et modernité. Entre les temples séculaires de Kyoto, les rues animées de Tokyo, les paysages naturels époustouflants comme le mont Fuji ou les cerisiers en fleurs au printemps, il y a tant à découvrir.\n\nEt vous, quel endroit aimeriez-vous visiter ? \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:16:13.9324458+02:00",
+  "durationSeconds": 2.07,
+  "stats": "mistral-small3.2:latest · 524 + 95 tokens · 2,1 s",
+  "isError": false,
+  "language": "FR"
+}

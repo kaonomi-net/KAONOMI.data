@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-secteur",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "secteur",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Secteur du luxe en Bourse ; Centres médico-psychologiques.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le secteur du luxe en Bourse et ses moteurs.",
+    "Suivre les délais d'attente et les moyens des CMP."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "secteur",
+  "tags": [
+    "#BOURSE",
+    "#LUXE",
+    "#PSYCHOLOGIE",
+    "#PSYCHIATRIE",
+    "#ACCES-AUX-SOINS"
+  ],
+  "events": [],
+  "signals": [
+    "!TENDANCE",
+    "!ACCES-AUX-SOINS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "luxe",
+    "Paris",
+    "Bourse",
+    "Milan",
+    "tourisme",
+    "Chine",
+    "États-Unis",
+    "CMP",
+    "centre médico-psychologique",
+    "enfants"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

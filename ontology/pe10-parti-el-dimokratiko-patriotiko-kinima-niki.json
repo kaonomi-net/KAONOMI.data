@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Dimokratikó Patriotikó Kínima «NIKI», parti ou liste de ce pays : Grèce, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-el-dimokratiko-patriotiko-kinima-niki",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Dimokratikó Patriotikó Kínima «NIKI»",
+  "entityType": "ORGANISATION",
+  "description": "Dimokratikó Patriotikó Kínima «NIKI», parti ou liste de ce pays : Grèce, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "La presse a commenté le score de « Dimokratikó Patriotikó Kínima «NIKI» » aux élections européennes.",
+    "Les positions de « Dimokratikó Patriotikó Kínima «NIKI» » sont suivies à Bruxelles et à Strasbourg.",
+    "« Dimokratikó Patriotikó Kínima «NIKI» » compte des élus au Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Dimokratik%C3%B3%20Patriotik%C3%B3%20K%C3%ADnima%20%C2%ABNIKI%C2%BB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Nikolaos Anadiotis",
+    "Grèce",
+    "Non-inscrits"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

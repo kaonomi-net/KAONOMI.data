@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-spotify-adyen-et-la-tech-europeenne",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Spotify, Adyen et la tech européenne",
+  "includedEntities": [
+    {
+      "entityName": "Spotify",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Adyen",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les grandes valeurs technologiques européennes hors semi-conducteurs.",
+  "isFuzzy": false,
+  "locations": [
+    "Stockholm",
+    "Amsterdam"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "croissance",
+    "valorisation",
+    "résultats"
+  ],
+  "questions": [
+    "Quelle croissance ?",
+    "Quelle valorisation ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#TECH",
+    "#EUROPE"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

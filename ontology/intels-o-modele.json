@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-modele",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "modèle",
+  "entityType": "DOMAIN",
+  "description": "Cité par 7 intels : Sortie d'un modèle Claude d'Anthropic ; Modèle ouvert de Mistral AI ; Modèle de raisonnement ; Contournement des garde-fous d'un modèle ; Alignement et sécurité des modèles ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les nouvelles versions de Claude et les changements de politique d'usage.",
+    "Surveiller les modèles publiés par Mistral AI et leur licence.",
+    "Repérer les modèles qui raisonnent par étapes avant de répondre."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "modèle",
+  "tags": [
+    "#IA",
+    "#LLM",
+    "#SECURITE-IA",
+    "#ALIGNEMENT",
+    "#ANTHROPIC",
+    "#MISTRAL"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE",
+    "@INCIDENT-SECURITE",
+    "@RECORD"
+  ],
+  "signals": [
+    "!NOUVEAUTE",
+    "!VIGILANCE",
+    "!RECHERCHE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Claude",
+    "Anthropic",
+    "sécurité",
+    "Amazon",
+    "San Francisco",
+    "Dario Amodei",
+    "Google",
+    "Paris",
+    "Mistral AI",
+    "Arthur Mensch"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-assemblee-de-corse",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Assemblée de Corse",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Corse et autonomie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre le processus d'autonomie de la Corse."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Assemblée de Corse",
+  "tags": [
+    "#FRANCE",
+    "#CORSE",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!INSTITUTIONS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "révision constitutionnelle",
+    "Corse",
+    "Bastia",
+    "nationalistes",
+    "Ajaccio",
+    "autonomie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

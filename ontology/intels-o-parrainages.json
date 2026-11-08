@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-parrainages",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "parrainages",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Parrainages des 500 élus ; Liste officielle des candidats ; Candidats hors partis.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la collecte des 500 parrainages nécessaires pour être candidat.",
+    "Suivre la publication de la liste officielle des candidats.",
+    "Repérer les candidatures venues de la société civile."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "parrainages",
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#REGLES",
+    "#CANDIDATS"
+  ],
+  "events": [
+    "@PARRAINAGES",
+    "@LISTE-CANDIDATS",
+    "@CANDIDATURE"
+  ],
+  "signals": [
+    "!ECHEANCE",
+    "!CAMPAGNE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conseil constitutionnel",
+    "maires",
+    "petits candidats",
+    "France",
+    "élus",
+    "liste des candidats",
+    "Paris",
+    "recours",
+    "chefs d'entreprise",
+    "candidat"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

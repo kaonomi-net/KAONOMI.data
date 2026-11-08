@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-travaux-de-yoshua-bengio",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Travaux de Yoshua Bengio",
+  "includedEntities": [
+    {
+      "entityName": "Yoshua Bengio",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "sécurité",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les travaux et prises de position de Yoshua Bengio.",
+  "isFuzzy": true,
+  "locations": [
+    "Montréal"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Mila",
+    "rapport international",
+    "LawZero"
+  ],
+  "questions": [
+    "Quel rapport ?",
+    "Quelle recommandation ?",
+    "Quel écho politique ?"
+  ],
+  "tags": [
+    "#IA",
+    "#PERSONNALITE",
+    "#SECURITE-IA"
+  ],
+  "events": [
+    "@PUBLICATION"
+  ],
+  "signals": [
+    "!RECHERCHE"
+  ],
+  "isDeleted": false
+}

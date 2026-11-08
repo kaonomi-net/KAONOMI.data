@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Fonctionnaire national mis à disposition de la Commission pour une durée limitée.",
+  "id": "eu-met-expert-national-detache",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Expert national détaché",
+  "entityType": "PROFESSION",
+  "description": "Fonctionnaire national mis à disposition de la Commission pour une durée limitée.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "Le métier « Expert national détaché » apparaît dans les biographies officielles.",
+    "La fonction « Expert national détaché » relève de la vie publique européenne.",
+    "Le parcours de nombreux commissaires passe par la fonction « Expert national détaché »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Expert%20national%20d%C3%A9tach%C3%A9"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale des ressources humaines et de la sécurité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

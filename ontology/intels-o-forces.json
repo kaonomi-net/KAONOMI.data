@@ -1,0 +1,47 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-forces",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "forces",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Psychologie positive.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les recherches et critiques de la psychologie positive."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": 100,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "forces",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PSYCHOLOGIE-POSITIVE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "psychologie positive",
+    "bonheur",
+    "bien-être",
+    "critiques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

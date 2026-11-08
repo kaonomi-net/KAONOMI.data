@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-abandon",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'être laissé, quitté.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:abandon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:abandonn(er|[ée]|[ée]e|[ée]s|[ée]es|e|ent))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:largu[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rejet([ée]|[ée]e|[ée]s|[ée]es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:l[âa]ch[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "abandon",
+  "event": null,
+  "title": "Abandon",
+  "tags": [
+    "#TRISTESSE",
+    "#RELATION"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 478,
+  "file": "0478-machine-learning-explique-la-validation-croisee-de-facon.prompt.json",
+  "prompt": "Explique la validation croisée de façon simple.",
+  "promptWords": 7,
+  "completion": "La validation croisée (ou *cross-validation* en anglais) est une technique utilisée pour évaluer la performance d'un modèle de machine learning de manière fiable. Voici une explication simple :\n\n1. **Objectif** : Vérifier si un modèle généralise bien sur de nouvelles données, et non pas seulement sur les données qu'il a apprises.\n\n2. **Fonctionnement de base** :\n   - On divise les données disponibles en plusieurs parties (ou *folds*).\n   - On entraîne le modèle sur une partie des données et on le teste sur une autre partie.\n   - On répète ce processus plusieurs fois en changeant les parties utilisées pour l'entraînement et le test.\n\n3. **Exemple simple (validation croisée k-fold)** :\n   - Supposons que vous avez 100 données.\n   - Vous les divisez en 5 groupes de 20 (k=5).\n   - Vous entraînez le modèle sur 4 groupes et testez sur le 5ème.\n   - Vous répétez cela 5 fois, en changeant le groupe de test à chaque fois.\n   - Enfin, vous moyennez les résultats des 5 tests pour obtenir une estimation globale de la performance du modèle.\n\n4. **Avantages** :\n   - Utilise toutes les données pour l'entraînement et le test.\n   - Réduit le risque de surapprentissage (quand le modèle mémorise les données d'entraînement au lieu d'apprendre des règles générales).\n   - Donne une meilleure estimation de la performance du modèle sur de nouvelles données.\n\nEn résumé, la validation croisée permet de s'assurer que votre modèle fonctionne bien non seulement sur les données qu'il a vues pendant l'apprentissage, mais aussi sur de nouvelles données.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:52:52.980179+02:00",
+  "durationSeconds": 7.58,
+  "stats": "mistral-small3.2:latest · 517 + 373 tokens · 7,6 s",
+  "isError": false,
+  "language": "FR"
+}

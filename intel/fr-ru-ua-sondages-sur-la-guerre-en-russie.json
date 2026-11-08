@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-sondages-sur-la-guerre-en-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Sondages sur la guerre en Russie",
+  "includedEntities": [
+    {
+      "entityName": "sondage",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Levada",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "opinion",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'opinion publique russe sur la guerre.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Centre Levada",
+    "VTsIOM",
+    "négociations"
+  ],
+  "questions": [
+    "Quel soutien à la guerre ?",
+    "Quel souhait de négociations ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#OPINION",
+    "#SONDAGE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

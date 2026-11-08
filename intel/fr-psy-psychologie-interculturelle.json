@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-psychologie-interculturelle",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Psychologie interculturelle",
+  "includedEntities": [
+    {
+      "entityName": "interculturel",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "culture",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recherches sur les différences culturelles en psychologie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "échantillons WEIRD",
+    "migrations",
+    "valeurs"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quelle différence ?",
+    "Quelle limite ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#CULTURE"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

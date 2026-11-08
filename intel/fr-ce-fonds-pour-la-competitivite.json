@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-fonds-pour-la-competitivite",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Fonds pour la compétitivité",
+  "includedEntities": [
+    {
+      "entityName": "fonds pour la compétitivité",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet de fonds européen pour la compétitivité.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Draghi",
+    "recherche",
+    "industrie"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quels secteurs ?",
+    "Quelle gouvernance ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMPETITIVITE",
+    "#BUDGET-UE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

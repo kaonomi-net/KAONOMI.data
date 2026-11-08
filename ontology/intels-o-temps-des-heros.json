@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-temps-des-heros",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "Temps des héros",
+  "entityType": "EVENT",
+  "description": "Cité par 1 intel : Poutine et les vétérans de la guerre.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre la promotion des vétérans de la guerre comme nouvelle élite russe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Temps des héros",
+  "tags": [
+    "#POUTINE",
+    "#RUSSIE",
+    "#VETERANS"
+  ],
+  "events": [],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "postes publics",
+    "vétérans",
+    "nouvelle élite",
+    "Douma",
+    "Poutine",
+    "Moscou"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

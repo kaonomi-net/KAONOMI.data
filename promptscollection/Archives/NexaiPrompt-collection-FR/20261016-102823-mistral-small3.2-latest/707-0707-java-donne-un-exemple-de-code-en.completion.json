@@ -1,0 +1,13 @@
+{
+  "index": 707,
+  "file": "0707-java-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Java qui illustre les expressions lambda.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en Java qui illustre l'utilisation des expressions lambda. Cet exemple montre comment utiliser une expression lambda pour implémenter une interface fonctionnelle simple :\n\n```java\n// Définition d'une interface fonctionnelle avec une seule méthode abstraite\n@FunctionalInterface\ninterface Greeting {\n    void greet(String name);\n}\n\npublic class LambdaExample {\n    public static void main(String[] args) {\n        // Utilisation d'une expression lambda pour implémenter l'interface Greeting\n        Greeting greeting = (name) -> System.out.println(\"Hello, \" + name + \"!\");\n\n        // Appel de la méthode greet\n        greeting.greet(\"Alice\");\n\n        // Autre exemple avec une liste et une expression lambda\n        List<String> names = Arrays.asList(\"Alice\", \"Bob\", \"Charlie\");\n\n        // Utilisation d'une expression lambda avec la méthode forEach\n        names.forEach((name) -> System.out.println(\"Processing: \" + name));\n\n        // Exemple avec une expression lambda et une référence de méthode\n        names.forEach(System.out::println);\n    }\n}\n```\n\nExplications :\n1. Nous définissons une interface fonctionnelle `Greeting` avec une seule méthode abstraite `greet`.\n2. Dans la méthode `main`, nous utilisons une expression lambda pour implémenter cette interface.\n3. Nous montrons aussi comment utiliser une expression lambda avec la méthode `forEach` d'une liste.\n4. Enfin, nous illustrons une référence de méthode comme alternative à une expression lambda.\n\nLes expressions lambda en Java permettent d'écrire du code plus concis et plus lisible, surtout lorsqu'on travaille avec des interfaces fonctionnelles.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:53:41.478891+02:00",
+  "durationSeconds": 7.15,
+  "stats": "mistral-small3.2:latest · 522 + 349 tokens · 7,2 s",
+  "isError": false,
+  "language": "FR"
+}

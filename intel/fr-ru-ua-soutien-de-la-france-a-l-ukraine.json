@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-soutien-de-la-france-a-l-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Soutien de la France à l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "France",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "soutien",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'aide et les initiatives françaises pour l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Macron",
+    "Mirage",
+    "formation"
+  ],
+  "questions": [
+    "Quelle aide ?",
+    "Quelle initiative diplomatique ?",
+    "Quelles livraisons ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#UKRAINE",
+    "#SOUTIEN"
+  ],
+  "events": [
+    "@ANNONCE-AIDE"
+  ],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

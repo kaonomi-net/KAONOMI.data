@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (les antivirus) : Entrepreneur américano-britannique, fondateur en 1987 de la société d'antivirus McAfee.",
+  "id": "cyber-mcafee",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "John McAfee",
+  "entityType": "PERSON",
+  "description": "Entrepreneur américano-britannique, fondateur en 1987 de la société d'antivirus McAfee.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Les étudiants lisent les travaux de John McAfee pour comprendre les antivirus.",
+    "Sans John McAfee, l'histoire des antivirus aurait été différente.",
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de John McAfee."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "J. McAfee"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#ANTIVIRUS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=John%20McAfee"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Eugène Kaspersky"
+  ],
+  "isDeleted": false,
+  "startDate": "1945-09-18T00:00:00",
+  "endDate": "2021-06-23T00:00:00"
+}

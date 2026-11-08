@@ -1,0 +1,13 @@
+{
+  "index": 97,
+  "file": "097-interet-pour-le-llm-finden-sie-mich-zu-gespraechig.prompt.json",
+  "prompt": "Finden Sie mich zu gesprächig?",
+  "promptWords": 5,
+  "completion": "Das hängt ganz davon ab, was du meinst! Wenn du fragst, ob ich zu viel rede oder zu viele Informationen gebe, dann kann ich meine Antworten gerne kürzer oder präziser halten. Sag mir einfach, was du brauchst, und ich passe mich an.\n\nFalls du dich selbst meinst: Wie schätzt du dich ein? Fühlst du dich manchmal zu gesprächig oder möchtest du Feedback dazu? \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:10:45.6067341+02:00",
+  "durationSeconds": 2.11,
+  "stats": "mistral-small3.2:latest · 517 + 96 tokens · 2,1 s",
+  "isError": false,
+  "language": "DE"
+}

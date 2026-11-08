@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-complot",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un projet secret contre quelqu'un.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:complot(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:comploteur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:conjuration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:projet(s)?\\s+d['’]attentat)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attentat\\s+d[ée]jou[ée])(?![\\w-])"
+  ],
+  "symbol": "complot",
+  "event": null,
+  "title": "Complot",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

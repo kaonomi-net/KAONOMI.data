@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-rancon",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La somme exigée pour libérer quelqu'un.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ran[çc]on(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:demande(s)?\\s+de\\s+ran[çc]on)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lib[ée]ration\\s+contre\\s+ran[çc]on)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:extorsion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chantage(s)?)(?![\\w-])"
+  ],
+  "symbol": "rançon",
+  "event": null,
+  "title": "Rançon",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

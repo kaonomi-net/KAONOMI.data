@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-aides-d-etat-et-cadre-temporaire",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Aides d'État et cadre temporaire",
+  "includedEntities": [
+    {
+      "entityName": "aides d'État",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "cadre",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les règles d'aides d'État et leurs assouplissements.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Ribera",
+    "industrie",
+    "distorsion"
+  ],
+  "questions": [
+    "Quel assouplissement ?",
+    "Quels pays en profitent ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CONCURRENCE",
+    "#AIDES-ETAT"
+  ],
+  "events": [],
+  "signals": [
+    "!CONCURRENCE"
+  ],
+  "isDeleted": false
+}

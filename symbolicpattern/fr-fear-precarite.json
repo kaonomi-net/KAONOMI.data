@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-precarite",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'instabilité des ressources et de l'emploi.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pr[ée]carit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pr[ée]caire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:emploi(s)?\\s+pr[ée]caire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fin\\s+de\\s+droits)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:travailleur(s)?\\s+pauvre(s)?)(?![\\w-])"
+  ],
+  "symbol": "précarité",
+  "event": null,
+  "title": "Précarité",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

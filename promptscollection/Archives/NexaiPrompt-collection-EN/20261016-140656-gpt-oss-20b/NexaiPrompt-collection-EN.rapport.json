@@ -1,0 +1,1379 @@
+{
+  "collection": "NexaiPrompt-collection-EN",
+  "collectionFolder": "K:\\promptscollection\\Archives\\NexaiPrompt-collection-EN",
+  "model": "gpt-oss:20b",
+  "language": "EN",
+  "date": "2026-10-16T14:06:56.8628076+02:00",
+  "endDate": "2026-10-16T15:03:13.5943129+02:00",
+  "executionTimeSeconds": 3376.7,
+  "executionTime": "00:56:16",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "promptCount": 220,
+  "sentCount": 194,
+  "skippedCount": 0,
+  "stopped": true,
+  "totalPromptWords": 2294,
+  "topicsSummary": "Not generated: the run was stopped with Esc.",
+  "topics": [],
+  "items": [
+    {
+      "index": 1,
+      "file": "0781-csharp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with lambda expressions in C# and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "001-0781-csharp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 2,
+      "file": "0782-csharp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with generic collections in C# and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "002-0782-csharp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 3,
+      "file": "0783-csharp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with testing with xUnit in C# and how can they be avoided?",
+      "promptWords": 17,
+      "completionFile": "003-0783-csharp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 4,
+      "file": "0784-csharp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with JSON serialization with System.Text.Json in C# and how can they be avoided?",
+      "promptWords": 18,
+      "completionFile": "004-0784-csharp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 5,
+      "file": "0785-csharp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with ASP.NET Core minimal APIs in C# and how can they be avoided?",
+      "promptWords": 18,
+      "completionFile": "005-0785-csharp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 6,
+      "file": "0786-csharp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with tuples in C# and how can they be avoided?",
+      "promptWords": 15,
+      "completionFile": "006-0786-csharp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 7,
+      "file": "0787-csharp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with iterators with yield return in C# and how can they be avoided?",
+      "promptWords": 18,
+      "completionFile": "007-0787-csharp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 8,
+      "file": "0788-csharp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with configuration with appsettings.json in C# and how can they be avoided?",
+      "promptWords": 17,
+      "completionFile": "008-0788-csharp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 9,
+      "file": "0789-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates LINQ.",
+      "promptWords": 9,
+      "completionFile": "009-0789-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 10,
+      "file": "0790-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates async and await.",
+      "promptWords": 11,
+      "completionFile": "010-0790-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 11,
+      "file": "0791-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates delegates and events.",
+      "promptWords": 11,
+      "completionFile": "011-0791-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 12,
+      "file": "0792-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates generics.",
+      "promptWords": 9,
+      "completionFile": "012-0792-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 13,
+      "file": "0793-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates records.",
+      "promptWords": 9,
+      "completionFile": "013-0793-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 14,
+      "file": "0794-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates properties.",
+      "promptWords": 9,
+      "completionFile": "014-0794-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 15,
+      "file": "0795-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates extension methods.",
+      "promptWords": 10,
+      "completionFile": "015-0795-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 16,
+      "file": "0796-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates pattern matching.",
+      "promptWords": 10,
+      "completionFile": "016-0796-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 17,
+      "file": "0797-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates nullable types.",
+      "promptWords": 10,
+      "completionFile": "017-0797-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 18,
+      "file": "0798-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates interfaces.",
+      "promptWords": 9,
+      "completionFile": "018-0798-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 19,
+      "file": "0799-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates dependency injection.",
+      "promptWords": 10,
+      "completionFile": "019-0799-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 20,
+      "file": "0800-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates Entity Framework Core.",
+      "promptWords": 11,
+      "completionFile": "020-0800-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 21,
+      "file": "0801-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates tasks (Task) and parallelism.",
+      "promptWords": 12,
+      "completionFile": "021-0801-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 22,
+      "file": "0802-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates attributes and reflection.",
+      "promptWords": 11,
+      "completionFile": "022-0802-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 23,
+      "file": "0803-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates IDisposable and using.",
+      "promptWords": 11,
+      "completionFile": "023-0803-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 24,
+      "file": "0804-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates Span<T> and Memory<T>.",
+      "promptWords": 11,
+      "completionFile": "024-0804-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 25,
+      "file": "0805-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates lambda expressions.",
+      "promptWords": 10,
+      "completionFile": "025-0805-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 26,
+      "file": "0806-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates generic collections.",
+      "promptWords": 10,
+      "completionFile": "026-0806-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 27,
+      "file": "0807-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates testing with xUnit.",
+      "promptWords": 11,
+      "completionFile": "027-0807-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 28,
+      "file": "0808-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates JSON serialization with System.Text.Json.",
+      "promptWords": 12,
+      "completionFile": "028-0808-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 29,
+      "file": "0809-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates ASP.NET Core minimal APIs.",
+      "promptWords": 12,
+      "completionFile": "029-0809-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 30,
+      "file": "0810-csharp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C# that illustrates tuples.",
+      "promptWords": 9,
+      "completionFile": "030-0810-csharp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 31,
+      "file": "0811-cpp-how-do-you-get-started-with.prompt.json",
+      "prompt": "How do you get started with C++ and install a compiler?",
+      "promptWords": 11,
+      "completionFile": "031-0811-cpp-how-do-you-get-started-with.completion.json"
+    },
+    {
+      "index": 32,
+      "file": "0812-cpp-what-is-the-difference-between-c.prompt.json",
+      "prompt": "What is the difference between C and C++?",
+      "promptWords": 8,
+      "completionFile": "032-0812-cpp-what-is-the-difference-between-c.completion.json"
+    },
+    {
+      "index": 33,
+      "file": "0813-cpp-what-is-a-pointer-in-c.prompt.json",
+      "prompt": "What is a pointer in C++?",
+      "promptWords": 6,
+      "completionFile": "033-0813-cpp-what-is-a-pointer-in-c.completion.json"
+    },
+    {
+      "index": 34,
+      "file": "0814-cpp-what-is-the-difference-between-a.prompt.json",
+      "prompt": "What is the difference between a pointer and a reference in C++?",
+      "promptWords": 12,
+      "completionFile": "034-0814-cpp-what-is-the-difference-between-a.completion.json"
+    },
+    {
+      "index": 35,
+      "file": "0815-cpp-what-is-raii-in-c.prompt.json",
+      "prompt": "What is RAII in C++?",
+      "promptWords": 5,
+      "completionFile": "035-0815-cpp-what-is-raii-in-c.completion.json"
+    },
+    {
+      "index": 36,
+      "file": "0816-cpp-what-is-a-smart-pointer-unique.prompt.json",
+      "prompt": "What is a smart pointer (unique_ptr, shared_ptr)?",
+      "promptWords": 7,
+      "completionFile": "036-0816-cpp-what-is-a-smart-pointer-unique.completion.json"
+    },
+    {
+      "index": 37,
+      "file": "0817-cpp-how-does-memory-management-work-in.prompt.json",
+      "prompt": "How does memory management work in C++?",
+      "promptWords": 7,
+      "completionFile": "037-0817-cpp-how-does-memory-management-work-in.completion.json"
+    },
+    {
+      "index": 38,
+      "file": "0818-cpp-what-are-move-semantics.prompt.json",
+      "prompt": "What are move semantics?",
+      "promptWords": 4,
+      "completionFile": "038-0818-cpp-what-are-move-semantics.completion.json"
+    },
+    {
+      "index": 39,
+      "file": "0819-cpp-how-do-you-use-cmake-to.prompt.json",
+      "prompt": "How do you use CMake to build a C++ project?",
+      "promptWords": 10,
+      "completionFile": "039-0819-cpp-how-do-you-use-cmake-to.completion.json"
+    },
+    {
+      "index": 40,
+      "file": "0820-cpp-what-is-new-in-c-20.prompt.json",
+      "prompt": "What is new in C++20 and C++23?",
+      "promptWords": 7,
+      "completionFile": "040-0820-cpp-what-is-new-in-c-20.completion.json"
+    },
+    {
+      "index": 41,
+      "file": "0821-cpp-what-is-a-memory-leak-and.prompt.json",
+      "prompt": "What is a memory leak and how do you detect it?",
+      "promptWords": 11,
+      "completionFile": "041-0821-cpp-what-is-a-memory-leak-and.completion.json"
+    },
+    {
+      "index": 42,
+      "file": "0822-cpp-what-is-undefined-behavior-in-c.prompt.json",
+      "prompt": "What is undefined behavior in C++?",
+      "promptWords": 6,
+      "completionFile": "042-0822-cpp-what-is-undefined-behavior-in-c.completion.json"
+    },
+    {
+      "index": 43,
+      "file": "0823-cpp-explain-smart-pointers-in-c-with.prompt.json",
+      "prompt": "Explain smart pointers in C++ with a simple example.",
+      "promptWords": 9,
+      "completionFile": "043-0823-cpp-explain-smart-pointers-in-c-with.completion.json"
+    },
+    {
+      "index": 44,
+      "file": "0824-cpp-explain-templates-in-c-with-a.prompt.json",
+      "prompt": "Explain templates in C++ with a simple example.",
+      "promptWords": 8,
+      "completionFile": "044-0824-cpp-explain-templates-in-c-with-a.completion.json"
+    },
+    {
+      "index": 45,
+      "file": "0825-cpp-explain-the-stl-in-c-with.prompt.json",
+      "prompt": "Explain the STL in C++ with a simple example.",
+      "promptWords": 9,
+      "completionFile": "045-0825-cpp-explain-the-stl-in-c-with.completion.json"
+    },
+    {
+      "index": 46,
+      "file": "0826-cpp-explain-vectors-std-vector-in-c.prompt.json",
+      "prompt": "Explain vectors (std::vector) in C++ with a simple example.",
+      "promptWords": 9,
+      "completionFile": "046-0826-cpp-explain-vectors-std-vector-in-c.completion.json"
+    },
+    {
+      "index": 47,
+      "file": "0827-cpp-explain-classes-and-inheritance-in-c.prompt.json",
+      "prompt": "Explain classes and inheritance in C++ with a simple example.",
+      "promptWords": 10,
+      "completionFile": "047-0827-cpp-explain-classes-and-inheritance-in-c.completion.json"
+    },
+    {
+      "index": 48,
+      "file": "0828-cpp-explain-polymorphism-and-virtual-functions-in.prompt.json",
+      "prompt": "Explain polymorphism and virtual functions in C++ with a simple example.",
+      "promptWords": 11,
+      "completionFile": "048-0828-cpp-explain-polymorphism-and-virtual-functions-in.completion.json"
+    },
+    {
+      "index": 49,
+      "file": "0829-cpp-explain-move-semantics-in-c-with.prompt.json",
+      "prompt": "Explain move semantics in C++ with a simple example.",
+      "promptWords": 9,
+      "completionFile": "049-0829-cpp-explain-move-semantics-in-c-with.completion.json"
+    },
+    {
+      "index": 50,
+      "file": "0830-cpp-explain-references-in-c-with-a.prompt.json",
+      "prompt": "Explain references in C++ with a simple example.",
+      "promptWords": 8,
+      "completionFile": "050-0830-cpp-explain-references-in-c-with-a.completion.json"
+    },
+    {
+      "index": 51,
+      "file": "0831-cpp-explain-lambda-expressions-in-c-with.prompt.json",
+      "prompt": "Explain lambda expressions in C++ with a simple example.",
+      "promptWords": 9,
+      "completionFile": "051-0831-cpp-explain-lambda-expressions-in-c-with.completion.json"
+    },
+    {
+      "index": 52,
+      "file": "0832-cpp-explain-threads-std-thread-in-c.prompt.json",
+      "prompt": "Explain threads (std::thread) in C++ with a simple example.",
+      "promptWords": 9,
+      "completionFile": "052-0832-cpp-explain-threads-std-thread-in-c.completion.json"
+    },
+    {
+      "index": 53,
+      "file": "0833-cpp-explain-c-20-concepts-in-c.prompt.json",
+      "prompt": "Explain C++20 concepts in C++ with a simple example.",
+      "promptWords": 9,
+      "completionFile": "053-0833-cpp-explain-c-20-concepts-in-c.completion.json"
+    },
+    {
+      "index": 54,
+      "file": "0834-cpp-explain-exceptions-in-c-with-a.prompt.json",
+      "prompt": "Explain exceptions in C++ with a simple example.",
+      "promptWords": 8,
+      "completionFile": "054-0834-cpp-explain-exceptions-in-c-with-a.completion.json"
+    },
+    {
+      "index": 55,
+      "file": "0835-cpp-explain-operator-overloading-in-c-with.prompt.json",
+      "prompt": "Explain operator overloading in C++ with a simple example.",
+      "promptWords": 9,
+      "completionFile": "055-0835-cpp-explain-operator-overloading-in-c-with.completion.json"
+    },
+    {
+      "index": 56,
+      "file": "0836-cpp-explain-iterators-in-c-with-a.prompt.json",
+      "prompt": "Explain iterators in C++ with a simple example.",
+      "promptWords": 8,
+      "completionFile": "056-0836-cpp-explain-iterators-in-c-with-a.completion.json"
+    },
+    {
+      "index": 57,
+      "file": "0837-cpp-explain-constexpr-in-c-with-a.prompt.json",
+      "prompt": "Explain constexpr in C++ with a simple example.",
+      "promptWords": 8,
+      "completionFile": "057-0837-cpp-explain-constexpr-in-c-with-a.completion.json"
+    },
+    {
+      "index": 58,
+      "file": "0838-cpp-explain-c-20-modules-in-c.prompt.json",
+      "prompt": "Explain C++20 modules in C++ with a simple example.",
+      "promptWords": 9,
+      "completionFile": "058-0838-cpp-explain-c-20-modules-in-c.completion.json"
+    },
+    {
+      "index": 59,
+      "file": "0839-cpp-explain-associative-containers-std-map-std.prompt.json",
+      "prompt": "Explain associative containers (std::map, std::unordered_map) in C++ with a simple example.",
+      "promptWords": 11,
+      "completionFile": "059-0839-cpp-explain-associative-containers-std-map-std.completion.json"
+    },
+    {
+      "index": 60,
+      "file": "0840-cpp-explain-std-optional-and-std-variant.prompt.json",
+      "prompt": "Explain std::optional and std::variant in C++ with a simple example.",
+      "promptWords": 10,
+      "completionFile": "060-0840-cpp-explain-std-optional-and-std-variant.completion.json"
+    },
+    {
+      "index": 61,
+      "file": "0841-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with smart pointers in C++ and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "061-0841-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 62,
+      "file": "0842-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with templates in C++ and how can they be avoided?",
+      "promptWords": 15,
+      "completionFile": "062-0842-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 63,
+      "file": "0843-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with the STL in C++ and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "063-0843-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 64,
+      "file": "0844-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with vectors (std::vector) in C++ and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "064-0844-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 65,
+      "file": "0845-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with classes and inheritance in C++ and how can they be avoided?",
+      "promptWords": 17,
+      "completionFile": "065-0845-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 66,
+      "file": "0846-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with polymorphism and virtual functions in C++ and how can they be avoided?",
+      "promptWords": 18,
+      "completionFile": "066-0846-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 67,
+      "file": "0847-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with move semantics in C++ and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "067-0847-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 68,
+      "file": "0848-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with references in C++ and how can they be avoided?",
+      "promptWords": 15,
+      "completionFile": "068-0848-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 69,
+      "file": "0849-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with lambda expressions in C++ and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "069-0849-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 70,
+      "file": "0850-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with threads (std::thread) in C++ and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "070-0850-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 71,
+      "file": "0851-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with C++20 concepts in C++ and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "071-0851-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 72,
+      "file": "0852-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with exceptions in C++ and how can they be avoided?",
+      "promptWords": 15,
+      "completionFile": "072-0852-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 73,
+      "file": "0853-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with operator overloading in C++ and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "073-0853-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 74,
+      "file": "0854-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with iterators in C++ and how can they be avoided?",
+      "promptWords": 15,
+      "completionFile": "074-0854-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 75,
+      "file": "0855-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with constexpr in C++ and how can they be avoided?",
+      "promptWords": 15,
+      "completionFile": "075-0855-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 76,
+      "file": "0856-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with C++20 modules in C++ and how can they be avoided?",
+      "promptWords": 16,
+      "completionFile": "076-0856-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 77,
+      "file": "0857-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with associative containers (std::map, std::unordered_map) in C++ and how can they be avoided?",
+      "promptWords": 18,
+      "completionFile": "077-0857-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 78,
+      "file": "0858-cpp-what-are-the-common-mistakes-with.prompt.json",
+      "prompt": "What are the common mistakes with std::optional and std::variant in C++ and how can they be avoided?",
+      "promptWords": 17,
+      "completionFile": "078-0858-cpp-what-are-the-common-mistakes-with.completion.json"
+    },
+    {
+      "index": 79,
+      "file": "0859-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates smart pointers.",
+      "promptWords": 10,
+      "completionFile": "079-0859-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 80,
+      "file": "0860-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates templates.",
+      "promptWords": 9,
+      "completionFile": "080-0860-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 81,
+      "file": "0861-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates the STL.",
+      "promptWords": 10,
+      "completionFile": "081-0861-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 82,
+      "file": "0862-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates vectors (std::vector).",
+      "promptWords": 10,
+      "completionFile": "082-0862-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 83,
+      "file": "0863-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates classes and inheritance.",
+      "promptWords": 11,
+      "completionFile": "083-0863-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 84,
+      "file": "0864-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates polymorphism and virtual functions.",
+      "promptWords": 12,
+      "completionFile": "084-0864-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 85,
+      "file": "0865-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates move semantics.",
+      "promptWords": 10,
+      "completionFile": "085-0865-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 86,
+      "file": "0866-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates references.",
+      "promptWords": 9,
+      "completionFile": "086-0866-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 87,
+      "file": "0867-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates lambda expressions.",
+      "promptWords": 10,
+      "completionFile": "087-0867-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 88,
+      "file": "0868-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates threads (std::thread).",
+      "promptWords": 10,
+      "completionFile": "088-0868-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 89,
+      "file": "0869-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates C++20 concepts.",
+      "promptWords": 10,
+      "completionFile": "089-0869-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 90,
+      "file": "0870-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates exceptions.",
+      "promptWords": 9,
+      "completionFile": "090-0870-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 91,
+      "file": "0871-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates operator overloading.",
+      "promptWords": 10,
+      "completionFile": "091-0871-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 92,
+      "file": "0872-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates iterators.",
+      "promptWords": 9,
+      "completionFile": "092-0872-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 93,
+      "file": "0873-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates constexpr.",
+      "promptWords": 9,
+      "completionFile": "093-0873-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 94,
+      "file": "0874-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates C++20 modules.",
+      "promptWords": 10,
+      "completionFile": "094-0874-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 95,
+      "file": "0875-cpp-give-a-code-example-in-c.prompt.json",
+      "prompt": "Give a code example in C++ that illustrates associative containers (std::map, std::unordered_map).",
+      "promptWords": 12,
+      "completionFile": "095-0875-cpp-give-a-code-example-in-c.completion.json"
+    },
+    {
+      "index": 96,
+      "file": "0876-design-patterns-what-is-a-design-pattern.prompt.json",
+      "prompt": "What is a design pattern?",
+      "promptWords": 5,
+      "completionFile": "096-0876-design-patterns-what-is-a-design-pattern.completion.json"
+    },
+    {
+      "index": 97,
+      "file": "0877-design-patterns-what-are-the-gang-of-four.prompt.json",
+      "prompt": "What are the Gang of Four design patterns?",
+      "promptWords": 8,
+      "completionFile": "097-0877-design-patterns-what-are-the-gang-of-four.completion.json"
+    },
+    {
+      "index": 98,
+      "file": "0878-design-patterns-what-is-the-difference-between-creational.prompt.json",
+      "prompt": "What is the difference between creational, structural and behavioral patterns?",
+      "promptWords": 10,
+      "completionFile": "098-0878-design-patterns-what-is-the-difference-between-creational.completion.json"
+    },
+    {
+      "index": 99,
+      "file": "0879-design-patterns-what-do-the-solid-principles-mean.prompt.json",
+      "prompt": "What do the SOLID principles mean?",
+      "promptWords": 6,
+      "completionFile": "099-0879-design-patterns-what-do-the-solid-principles-mean.completion.json"
+    },
+    {
+      "index": 100,
+      "file": "0880-design-patterns-which-design-patterns-are-most-used.prompt.json",
+      "prompt": "Which design patterns are most used in companies?",
+      "promptWords": 8,
+      "completionFile": "100-0880-design-patterns-which-design-patterns-are-most-used.completion.json"
+    },
+    {
+      "index": 101,
+      "file": "0881-design-patterns-what-is-an-anti-pattern.prompt.json",
+      "prompt": "What is an anti-pattern?",
+      "promptWords": 4,
+      "completionFile": "101-0881-design-patterns-what-is-an-anti-pattern.completion.json"
+    },
+    {
+      "index": 102,
+      "file": "0882-design-patterns-how-do-you-choose-the-right.prompt.json",
+      "prompt": "How do you choose the right design pattern?",
+      "promptWords": 8,
+      "completionFile": "102-0882-design-patterns-how-do-you-choose-the-right.completion.json"
+    },
+    {
+      "index": 103,
+      "file": "0883-design-patterns-what-is-the-difference-between-the.prompt.json",
+      "prompt": "What is the difference between the Strategy pattern and the State pattern?",
+      "promptWords": 12,
+      "completionFile": "103-0883-design-patterns-what-is-the-difference-between-the.completion.json"
+    },
+    {
+      "index": 104,
+      "file": "0884-design-patterns-what-is-the-difference-between-the.prompt.json",
+      "prompt": "What is the difference between the Decorator pattern and the Proxy pattern?",
+      "promptWords": 12,
+      "completionFile": "104-0884-design-patterns-what-is-the-difference-between-the.completion.json"
+    },
+    {
+      "index": 105,
+      "file": "0885-design-patterns-why-is-the-singleton-sometimes-considered.prompt.json",
+      "prompt": "Why is the Singleton sometimes considered an anti-pattern?",
+      "promptWords": 8,
+      "completionFile": "105-0885-design-patterns-why-is-the-singleton-sometimes-considered.completion.json"
+    },
+    {
+      "index": 106,
+      "file": "0886-design-patterns-what-is-the-difference-between-factory.prompt.json",
+      "prompt": "What is the difference between Factory Method and Abstract Factory?",
+      "promptWords": 10,
+      "completionFile": "106-0886-design-patterns-what-is-the-difference-between-factory.completion.json"
+    },
+    {
+      "index": 107,
+      "file": "0887-design-patterns-what-is-the-difference-between-adapter.prompt.json",
+      "prompt": "What is the difference between Adapter and Facade?",
+      "promptWords": 8,
+      "completionFile": "107-0887-design-patterns-what-is-the-difference-between-adapter.completion.json"
+    },
+    {
+      "index": 108,
+      "file": "0888-design-patterns-how-does-dependency-injection-replace-some.prompt.json",
+      "prompt": "How does dependency injection replace some design patterns?",
+      "promptWords": 8,
+      "completionFile": "108-0888-design-patterns-how-does-dependency-injection-replace-some.completion.json"
+    },
+    {
+      "index": 109,
+      "file": "0889-design-patterns-what-are-the-mvc-and-mvvm.prompt.json",
+      "prompt": "What are the MVC and MVVM patterns?",
+      "promptWords": 7,
+      "completionFile": "109-0889-design-patterns-what-are-the-mvc-and-mvvm.completion.json"
+    },
+    {
+      "index": 110,
+      "file": "0890-design-patterns-how-do-you-apply-the-open.prompt.json",
+      "prompt": "How do you apply the Open/Closed principle with the Strategy pattern?",
+      "promptWords": 11,
+      "completionFile": "110-0890-design-patterns-how-do-you-apply-the-open.completion.json"
+    },
+    {
+      "index": 111,
+      "file": "0891-design-patterns-which-design-patterns-does-the-net.prompt.json",
+      "prompt": "Which design patterns does the .NET framework use?",
+      "promptWords": 8,
+      "completionFile": "111-0891-design-patterns-which-design-patterns-does-the-net.completion.json"
+    },
+    {
+      "index": 112,
+      "file": "0892-design-patterns-which-design-patterns-does-the-spring.prompt.json",
+      "prompt": "Which design patterns does the Spring framework use?",
+      "promptWords": 8,
+      "completionFile": "112-0892-design-patterns-which-design-patterns-does-the-spring.completion.json"
+    },
+    {
+      "index": 113,
+      "file": "0893-design-patterns-how-do-you-unit-test-code.prompt.json",
+      "prompt": "How do you unit test code that uses design patterns?",
+      "promptWords": 10,
+      "completionFile": "113-0893-design-patterns-how-do-you-unit-test-code.completion.json"
+    },
+    {
+      "index": 114,
+      "file": "0894-design-patterns-what-is-the-event-sourcing-pattern.prompt.json",
+      "prompt": "What is the Event Sourcing pattern?",
+      "promptWords": 6,
+      "completionFile": "114-0894-design-patterns-what-is-the-event-sourcing-pattern.completion.json"
+    },
+    {
+      "index": 115,
+      "file": "0895-design-patterns-what-is-the-circuit-breaker-pattern.prompt.json",
+      "prompt": "What is the Circuit Breaker pattern in microservices?",
+      "promptWords": 8,
+      "completionFile": "115-0895-design-patterns-what-is-the-circuit-breaker-pattern.completion.json"
+    },
+    {
+      "index": 116,
+      "file": "0896-design-patterns-explain-the-singleton-pattern-with-an.prompt.json",
+      "prompt": "Explain the Singleton pattern with an example in C#.",
+      "promptWords": 9,
+      "completionFile": "116-0896-design-patterns-explain-the-singleton-pattern-with-an.completion.json"
+    },
+    {
+      "index": 117,
+      "file": "0897-design-patterns-how-do-you-implement-the-singleton.prompt.json",
+      "prompt": "How do you implement the Singleton pattern in Java?",
+      "promptWords": 9,
+      "completionFile": "117-0897-design-patterns-how-do-you-implement-the-singleton.completion.json"
+    },
+    {
+      "index": 118,
+      "file": "0898-design-patterns-explain-the-factory-method-pattern-with.prompt.json",
+      "prompt": "Explain the Factory Method pattern with an example in Java.",
+      "promptWords": 10,
+      "completionFile": "118-0898-design-patterns-explain-the-factory-method-pattern-with.completion.json"
+    },
+    {
+      "index": 119,
+      "file": "0899-design-patterns-how-do-you-implement-the-factory.prompt.json",
+      "prompt": "How do you implement the Factory Method pattern in C#?",
+      "promptWords": 10,
+      "completionFile": "119-0899-design-patterns-how-do-you-implement-the-factory.completion.json"
+    },
+    {
+      "index": 120,
+      "file": "0900-design-patterns-explain-the-abstract-factory-pattern-with.prompt.json",
+      "prompt": "Explain the Abstract Factory pattern with an example in C#.",
+      "promptWords": 10,
+      "completionFile": "120-0900-design-patterns-explain-the-abstract-factory-pattern-with.completion.json"
+    },
+    {
+      "index": 121,
+      "file": "0901-design-patterns-how-do-you-implement-the-abstract.prompt.json",
+      "prompt": "How do you implement the Abstract Factory pattern in Java?",
+      "promptWords": 10,
+      "completionFile": "121-0901-design-patterns-how-do-you-implement-the-abstract.completion.json"
+    },
+    {
+      "index": 122,
+      "file": "0902-design-patterns-explain-the-builder-pattern-with-an.prompt.json",
+      "prompt": "Explain the Builder pattern with an example in Java.",
+      "promptWords": 9,
+      "completionFile": "122-0902-design-patterns-explain-the-builder-pattern-with-an.completion.json"
+    },
+    {
+      "index": 123,
+      "file": "0903-design-patterns-how-do-you-implement-the-builder.prompt.json",
+      "prompt": "How do you implement the Builder pattern in C#?",
+      "promptWords": 9,
+      "completionFile": "123-0903-design-patterns-how-do-you-implement-the-builder.completion.json"
+    },
+    {
+      "index": 124,
+      "file": "0904-design-patterns-explain-the-prototype-pattern-with-an.prompt.json",
+      "prompt": "Explain the Prototype pattern with an example in C#.",
+      "promptWords": 9,
+      "completionFile": "124-0904-design-patterns-explain-the-prototype-pattern-with-an.completion.json"
+    },
+    {
+      "index": 125,
+      "file": "0905-design-patterns-how-do-you-implement-the-prototype.prompt.json",
+      "prompt": "How do you implement the Prototype pattern in Java?",
+      "promptWords": 9,
+      "completionFile": "125-0905-design-patterns-how-do-you-implement-the-prototype.completion.json"
+    },
+    {
+      "index": 126,
+      "file": "0906-design-patterns-explain-the-adapter-pattern-with-an.prompt.json",
+      "prompt": "Explain the Adapter pattern with an example in Java.",
+      "promptWords": 9,
+      "completionFile": "126-0906-design-patterns-explain-the-adapter-pattern-with-an.completion.json"
+    },
+    {
+      "index": 127,
+      "file": "0907-design-patterns-how-do-you-implement-the-adapter.prompt.json",
+      "prompt": "How do you implement the Adapter pattern in C#?",
+      "promptWords": 9,
+      "completionFile": "127-0907-design-patterns-how-do-you-implement-the-adapter.completion.json"
+    },
+    {
+      "index": 128,
+      "file": "0908-design-patterns-explain-the-decorator-pattern-with-an.prompt.json",
+      "prompt": "Explain the Decorator pattern with an example in C#.",
+      "promptWords": 9,
+      "completionFile": "128-0908-design-patterns-explain-the-decorator-pattern-with-an.completion.json"
+    },
+    {
+      "index": 129,
+      "file": "0909-design-patterns-how-do-you-implement-the-decorator.prompt.json",
+      "prompt": "How do you implement the Decorator pattern in Java?",
+      "promptWords": 9,
+      "completionFile": "129-0909-design-patterns-how-do-you-implement-the-decorator.completion.json"
+    },
+    {
+      "index": 130,
+      "file": "0910-design-patterns-explain-the-facade-pattern-with-an.prompt.json",
+      "prompt": "Explain the Facade pattern with an example in Java.",
+      "promptWords": 9,
+      "completionFile": "130-0910-design-patterns-explain-the-facade-pattern-with-an.completion.json"
+    },
+    {
+      "index": 131,
+      "file": "0911-design-patterns-how-do-you-implement-the-facade.prompt.json",
+      "prompt": "How do you implement the Facade pattern in C#?",
+      "promptWords": 9,
+      "completionFile": "131-0911-design-patterns-how-do-you-implement-the-facade.completion.json"
+    },
+    {
+      "index": 132,
+      "file": "0912-design-patterns-explain-the-proxy-pattern-with-an.prompt.json",
+      "prompt": "Explain the Proxy pattern with an example in C#.",
+      "promptWords": 9,
+      "completionFile": "132-0912-design-patterns-explain-the-proxy-pattern-with-an.completion.json"
+    },
+    {
+      "index": 133,
+      "file": "0913-design-patterns-how-do-you-implement-the-proxy.prompt.json",
+      "prompt": "How do you implement the Proxy pattern in Java?",
+      "promptWords": 9,
+      "completionFile": "133-0913-design-patterns-how-do-you-implement-the-proxy.completion.json"
+    },
+    {
+      "index": 134,
+      "file": "0914-design-patterns-explain-the-composite-pattern-with-an.prompt.json",
+      "prompt": "Explain the Composite pattern with an example in Java.",
+      "promptWords": 9,
+      "completionFile": "134-0914-design-patterns-explain-the-composite-pattern-with-an.completion.json"
+    },
+    {
+      "index": 135,
+      "file": "0915-design-patterns-how-do-you-implement-the-composite.prompt.json",
+      "prompt": "How do you implement the Composite pattern in C#?",
+      "promptWords": 9,
+      "completionFile": "135-0915-design-patterns-how-do-you-implement-the-composite.completion.json"
+    },
+    {
+      "index": 136,
+      "file": "0916-design-patterns-explain-the-bridge-pattern-with-an.prompt.json",
+      "prompt": "Explain the Bridge pattern with an example in C#.",
+      "promptWords": 9,
+      "completionFile": "136-0916-design-patterns-explain-the-bridge-pattern-with-an.completion.json"
+    },
+    {
+      "index": 137,
+      "file": "0917-design-patterns-how-do-you-implement-the-bridge.prompt.json",
+      "prompt": "How do you implement the Bridge pattern in Java?",
+      "promptWords": 9,
+      "completionFile": "137-0917-design-patterns-how-do-you-implement-the-bridge.completion.json"
+    },
+    {
+      "index": 138,
+      "file": "0918-design-patterns-explain-the-observer-pattern-with-an.prompt.json",
+      "prompt": "Explain the Observer pattern with an example in Java.",
+      "promptWords": 9,
+      "completionFile": "138-0918-design-patterns-explain-the-observer-pattern-with-an.completion.json"
+    },
+    {
+      "index": 139,
+      "file": "0919-design-patterns-how-do-you-implement-the-observer.prompt.json",
+      "prompt": "How do you implement the Observer pattern in C#?",
+      "promptWords": 9,
+      "completionFile": "139-0919-design-patterns-how-do-you-implement-the-observer.completion.json"
+    },
+    {
+      "index": 140,
+      "file": "0920-design-patterns-explain-the-strategy-pattern-with-an.prompt.json",
+      "prompt": "Explain the Strategy pattern with an example in C#.",
+      "promptWords": 9,
+      "completionFile": "140-0920-design-patterns-explain-the-strategy-pattern-with-an.completion.json"
+    },
+    {
+      "index": 141,
+      "file": "0921-design-patterns-how-do-you-implement-the-strategy.prompt.json",
+      "prompt": "How do you implement the Strategy pattern in Java?",
+      "promptWords": 9,
+      "completionFile": "141-0921-design-patterns-how-do-you-implement-the-strategy.completion.json"
+    },
+    {
+      "index": 142,
+      "file": "0922-design-patterns-explain-the-command-pattern-with-an.prompt.json",
+      "prompt": "Explain the Command pattern with an example in Java.",
+      "promptWords": 9,
+      "completionFile": "142-0922-design-patterns-explain-the-command-pattern-with-an.completion.json"
+    },
+    {
+      "index": 143,
+      "file": "0923-design-patterns-how-do-you-implement-the-command.prompt.json",
+      "prompt": "How do you implement the Command pattern in C#?",
+      "promptWords": 9,
+      "completionFile": "143-0923-design-patterns-how-do-you-implement-the-command.completion.json"
+    },
+    {
+      "index": 144,
+      "file": "0924-design-patterns-explain-the-state-pattern-with-an.prompt.json",
+      "prompt": "Explain the State pattern with an example in C#.",
+      "promptWords": 9,
+      "completionFile": "144-0924-design-patterns-explain-the-state-pattern-with-an.completion.json"
+    },
+    {
+      "index": 145,
+      "file": "0925-design-patterns-how-do-you-implement-the-state.prompt.json",
+      "prompt": "How do you implement the State pattern in Java?",
+      "promptWords": 9,
+      "completionFile": "145-0925-design-patterns-how-do-you-implement-the-state.completion.json"
+    },
+    {
+      "index": 146,
+      "file": "0926-design-patterns-explain-the-template-method-pattern-with.prompt.json",
+      "prompt": "Explain the Template Method pattern with an example in Java.",
+      "promptWords": 10,
+      "completionFile": "146-0926-design-patterns-explain-the-template-method-pattern-with.completion.json"
+    },
+    {
+      "index": 147,
+      "file": "0927-design-patterns-how-do-you-implement-the-template.prompt.json",
+      "prompt": "How do you implement the Template Method pattern in C#?",
+      "promptWords": 10,
+      "completionFile": "147-0927-design-patterns-how-do-you-implement-the-template.completion.json"
+    },
+    {
+      "index": 148,
+      "file": "0928-design-patterns-explain-the-chain-of-responsibility-pattern.prompt.json",
+      "prompt": "Explain the Chain of Responsibility pattern with an example in C#.",
+      "promptWords": 11,
+      "completionFile": "148-0928-design-patterns-explain-the-chain-of-responsibility-pattern.completion.json"
+    },
+    {
+      "index": 149,
+      "file": "0929-design-patterns-how-do-you-implement-the-chain.prompt.json",
+      "prompt": "How do you implement the Chain of Responsibility pattern in Java?",
+      "promptWords": 11,
+      "completionFile": "149-0929-design-patterns-how-do-you-implement-the-chain.completion.json"
+    },
+    {
+      "index": 150,
+      "file": "0930-design-patterns-explain-the-mediator-pattern-with-an.prompt.json",
+      "prompt": "Explain the Mediator pattern with an example in Java.",
+      "promptWords": 9,
+      "completionFile": "150-0930-design-patterns-explain-the-mediator-pattern-with-an.completion.json"
+    },
+    {
+      "index": 151,
+      "file": "0931-design-patterns-how-do-you-implement-the-mediator.prompt.json",
+      "prompt": "How do you implement the Mediator pattern in C#?",
+      "promptWords": 9,
+      "completionFile": "151-0931-design-patterns-how-do-you-implement-the-mediator.completion.json"
+    },
+    {
+      "index": 152,
+      "file": "0932-design-patterns-explain-the-repository-pattern-with-an.prompt.json",
+      "prompt": "Explain the Repository pattern with an example in C#.",
+      "promptWords": 9,
+      "completionFile": "152-0932-design-patterns-explain-the-repository-pattern-with-an.completion.json"
+    },
+    {
+      "index": 153,
+      "file": "0933-design-patterns-how-do-you-implement-the-repository.prompt.json",
+      "prompt": "How do you implement the Repository pattern in Java?",
+      "promptWords": 9,
+      "completionFile": "153-0933-design-patterns-how-do-you-implement-the-repository.completion.json"
+    },
+    {
+      "index": 154,
+      "file": "0934-design-patterns-explain-the-unit-of-work-pattern.prompt.json",
+      "prompt": "Explain the Unit of Work pattern with an example in Java.",
+      "promptWords": 11,
+      "completionFile": "154-0934-design-patterns-explain-the-unit-of-work-pattern.completion.json"
+    },
+    {
+      "index": 155,
+      "file": "0935-design-patterns-how-do-you-implement-the-unit.prompt.json",
+      "prompt": "How do you implement the Unit of Work pattern in C#?",
+      "promptWords": 11,
+      "completionFile": "155-0935-design-patterns-how-do-you-implement-the-unit.completion.json"
+    },
+    {
+      "index": 156,
+      "file": "0936-design-patterns-explain-the-cqrs-pattern-with-an.prompt.json",
+      "prompt": "Explain the CQRS pattern with an example in C#.",
+      "promptWords": 9,
+      "completionFile": "156-0936-design-patterns-explain-the-cqrs-pattern-with-an.completion.json"
+    },
+    {
+      "index": 157,
+      "file": "0937-design-patterns-how-do-you-implement-the-cqrs.prompt.json",
+      "prompt": "How do you implement the CQRS pattern in Java?",
+      "promptWords": 9,
+      "completionFile": "157-0937-design-patterns-how-do-you-implement-the-cqrs.completion.json"
+    },
+    {
+      "index": 158,
+      "file": "0938-design-patterns-explain-the-specification-pattern-with-an.prompt.json",
+      "prompt": "Explain the Specification pattern with an example in Java.",
+      "promptWords": 9,
+      "completionFile": "158-0938-design-patterns-explain-the-specification-pattern-with-an.completion.json"
+    },
+    {
+      "index": 159,
+      "file": "0939-design-patterns-how-do-you-implement-the-specification.prompt.json",
+      "prompt": "How do you implement the Specification pattern in C#?",
+      "promptWords": 9,
+      "completionFile": "159-0939-design-patterns-how-do-you-implement-the-specification.completion.json"
+    },
+    {
+      "index": 160,
+      "file": "0940-design-patterns-explain-the-visitor-pattern-with-an.prompt.json",
+      "prompt": "Explain the Visitor pattern with an example in C#.",
+      "promptWords": 9,
+      "completionFile": "160-0940-design-patterns-explain-the-visitor-pattern-with-an.completion.json"
+    },
+    {
+      "index": 161,
+      "file": "0941-design-patterns-how-do-you-implement-the-visitor.prompt.json",
+      "prompt": "How do you implement the Visitor pattern in Java?",
+      "promptWords": 9,
+      "completionFile": "161-0941-design-patterns-how-do-you-implement-the-visitor.completion.json"
+    },
+    {
+      "index": 162,
+      "file": "0942-design-patterns-explain-the-iterator-pattern-with-an.prompt.json",
+      "prompt": "Explain the Iterator pattern with an example in Java.",
+      "promptWords": 9,
+      "completionFile": "162-0942-design-patterns-explain-the-iterator-pattern-with-an.completion.json"
+    },
+    {
+      "index": 163,
+      "file": "0943-design-patterns-how-do-you-implement-the-iterator.prompt.json",
+      "prompt": "How do you implement the Iterator pattern in C#?",
+      "promptWords": 9,
+      "completionFile": "163-0943-design-patterns-how-do-you-implement-the-iterator.completion.json"
+    },
+    {
+      "index": 164,
+      "file": "0944-design-patterns-explain-the-memento-pattern-with-an.prompt.json",
+      "prompt": "Explain the Memento pattern with an example in C#.",
+      "promptWords": 9,
+      "completionFile": "164-0944-design-patterns-explain-the-memento-pattern-with-an.completion.json"
+    },
+    {
+      "index": 165,
+      "file": "0945-design-patterns-how-do-you-implement-the-memento.prompt.json",
+      "prompt": "How do you implement the Memento pattern in Java?",
+      "promptWords": 9,
+      "completionFile": "165-0945-design-patterns-how-do-you-implement-the-memento.completion.json"
+    },
+    {
+      "index": 166,
+      "file": "0946-rust-why-learn-the-rust-language.prompt.json",
+      "prompt": "Why learn the Rust language?",
+      "promptWords": 5,
+      "completionFile": "166-0946-rust-why-learn-the-rust-language.completion.json"
+    },
+    {
+      "index": 167,
+      "file": "0947-rust-how-do-you-install-rust-with.prompt.json",
+      "prompt": "How do you install Rust with rustup?",
+      "promptWords": 7,
+      "completionFile": "167-0947-rust-how-do-you-install-rust-with.completion.json"
+    },
+    {
+      "index": 168,
+      "file": "0948-rust-what-is-rust-s-ownership-system.prompt.json",
+      "prompt": "What is Rust's ownership system?",
+      "promptWords": 5,
+      "completionFile": "168-0948-rust-what-is-rust-s-ownership-system.completion.json"
+    },
+    {
+      "index": 169,
+      "file": "0949-rust-what-is-borrowing-in-rust.prompt.json",
+      "prompt": "What is borrowing in Rust?",
+      "promptWords": 5,
+      "completionFile": "169-0949-rust-what-is-borrowing-in-rust.completion.json"
+    },
+    {
+      "index": 170,
+      "file": "0950-rust-what-are-lifetimes-in-rust.prompt.json",
+      "prompt": "What are lifetimes in Rust?",
+      "promptWords": 5,
+      "completionFile": "170-0950-rust-what-are-lifetimes-in-rust.completion.json"
+    },
+    {
+      "index": 171,
+      "file": "0951-rust-how-does-cargo-rust-s-package.prompt.json",
+      "prompt": "How does Cargo, Rust's package manager, work?",
+      "promptWords": 7,
+      "completionFile": "171-0951-rust-how-does-cargo-rust-s-package.completion.json"
+    },
+    {
+      "index": 172,
+      "file": "0952-rust-what-is-the-difference-between-string.prompt.json",
+      "prompt": "What is the difference between String and &str in Rust?",
+      "promptWords": 10,
+      "completionFile": "172-0952-rust-what-is-the-difference-between-string.completion.json"
+    },
+    {
+      "index": 173,
+      "file": "0953-rust-how-do-you-handle-errors-with.prompt.json",
+      "prompt": "How do you handle errors with Result and Option in Rust?",
+      "promptWords": 11,
+      "completionFile": "173-0953-rust-how-do-you-handle-errors-with.completion.json"
+    },
+    {
+      "index": 174,
+      "file": "0954-rust-what-is-a-trait-in-rust.prompt.json",
+      "prompt": "What is a trait in Rust?",
+      "promptWords": 6,
+      "completionFile": "174-0954-rust-what-is-a-trait-in-rust.completion.json"
+    },
+    {
+      "index": 175,
+      "file": "0955-rust-how-do-you-do-asynchronous-programming.prompt.json",
+      "prompt": "How do you do asynchronous programming with Tokio?",
+      "promptWords": 8,
+      "completionFile": "175-0955-rust-how-do-you-do-asynchronous-programming.completion.json"
+    },
+    {
+      "index": 176,
+      "file": "0956-rust-how-does-rust-guarantee-memory-safety.prompt.json",
+      "prompt": "How does Rust guarantee memory safety without a garbage collector?",
+      "promptWords": 10,
+      "completionFile": "176-0956-rust-how-does-rust-guarantee-memory-safety.completion.json"
+    },
+    {
+      "index": 177,
+      "file": "0957-rust-how-do-you-build-a-web.prompt.json",
+      "prompt": "How do you build a web API in Rust with Axum or Actix?",
+      "promptWords": 13,
+      "completionFile": "177-0957-rust-how-do-you-build-a-web.completion.json"
+    },
+    {
+      "index": 178,
+      "file": "0958-rust-is-rust-faster-than-c.prompt.json",
+      "prompt": "Is Rust faster than C++?",
+      "promptWords": 5,
+      "completionFile": "178-0958-rust-is-rust-faster-than-c.completion.json"
+    },
+    {
+      "index": 179,
+      "file": "0959-rust-how-do-you-call-c-code.prompt.json",
+      "prompt": "How do you call C code from Rust?",
+      "promptWords": 8,
+      "completionFile": "179-0959-rust-how-do-you-call-c-code.completion.json"
+    },
+    {
+      "index": 180,
+      "file": "0960-rust-why-does-the-rust-compiler-reject.prompt.json",
+      "prompt": "Why does the Rust compiler reject my code (borrow checker)?",
+      "promptWords": 10,
+      "completionFile": "180-0960-rust-why-does-the-rust-compiler-reject.completion.json"
+    },
+    {
+      "index": 181,
+      "file": "0961-rust-explain-ownership-in-rust-with-a.prompt.json",
+      "prompt": "Explain ownership in Rust with a simple example.",
+      "promptWords": 8,
+      "completionFile": "181-0961-rust-explain-ownership-in-rust-with-a.completion.json"
+    },
+    {
+      "index": 182,
+      "file": "0962-rust-explain-borrowing-in-rust-with-a.prompt.json",
+      "prompt": "Explain borrowing in Rust with a simple example.",
+      "promptWords": 8,
+      "completionFile": "182-0962-rust-explain-borrowing-in-rust-with-a.completion.json"
+    },
+    {
+      "index": 183,
+      "file": "0963-rust-explain-lifetimes-in-rust-with-a.prompt.json",
+      "prompt": "Explain lifetimes in Rust with a simple example.",
+      "promptWords": 8,
+      "completionFile": "183-0963-rust-explain-lifetimes-in-rust-with-a.completion.json"
+    },
+    {
+      "index": 184,
+      "file": "0964-rust-explain-traits-in-rust-with-a.prompt.json",
+      "prompt": "Explain traits in Rust with a simple example.",
+      "promptWords": 8,
+      "completionFile": "184-0964-rust-explain-traits-in-rust-with-a.completion.json"
+    },
+    {
+      "index": 185,
+      "file": "0965-rust-explain-enums-and-pattern-matching-in.prompt.json",
+      "prompt": "Explain enums and pattern matching in Rust with a simple example.",
+      "promptWords": 11,
+      "completionFile": "185-0965-rust-explain-enums-and-pattern-matching-in.completion.json"
+    },
+    {
+      "index": 186,
+      "file": "0966-rust-explain-result-and-option-in-rust.prompt.json",
+      "prompt": "Explain Result and Option in Rust with a simple example.",
+      "promptWords": 10,
+      "completionFile": "186-0966-rust-explain-result-and-option-in-rust.completion.json"
+    },
+    {
+      "index": 187,
+      "file": "0967-rust-explain-iterators-in-rust-with-a.prompt.json",
+      "prompt": "Explain iterators in Rust with a simple example.",
+      "promptWords": 8,
+      "completionFile": "187-0967-rust-explain-iterators-in-rust-with-a.completion.json"
+    },
+    {
+      "index": 188,
+      "file": "0968-rust-explain-closures-in-rust-with-a.prompt.json",
+      "prompt": "Explain closures in Rust with a simple example.",
+      "promptWords": 8,
+      "completionFile": "188-0968-rust-explain-closures-in-rust-with-a.completion.json"
+    },
+    {
+      "index": 189,
+      "file": "0969-rust-explain-generics-in-rust-with-a.prompt.json",
+      "prompt": "Explain generics in Rust with a simple example.",
+      "promptWords": 8,
+      "completionFile": "189-0969-rust-explain-generics-in-rust-with-a.completion.json"
+    },
+    {
+      "index": 190,
+      "file": "0970-rust-explain-smart-pointers-box-rc-arc.prompt.json",
+      "prompt": "Explain smart pointers (Box, Rc, Arc) in Rust with a simple example.",
+      "promptWords": 12,
+      "completionFile": "190-0970-rust-explain-smart-pointers-box-rc-arc.completion.json"
+    },
+    {
+      "index": 191,
+      "file": "0971-rust-explain-concurrent-programming-in-rust-with.prompt.json",
+      "prompt": "Explain concurrent programming in Rust with a simple example.",
+      "promptWords": 9,
+      "completionFile": "191-0971-rust-explain-concurrent-programming-in-rust-with.completion.json"
+    },
+    {
+      "index": 192,
+      "file": "0972-rust-explain-macros-in-rust-with-a.prompt.json",
+      "prompt": "Explain macros in Rust with a simple example.",
+      "promptWords": 8,
+      "completionFile": "192-0972-rust-explain-macros-in-rust-with-a.completion.json"
+    },
+    {
+      "index": 193,
+      "file": "0973-rust-explain-modules-and-crates-in-rust.prompt.json",
+      "prompt": "Explain modules and crates in Rust with a simple example.",
+      "promptWords": 10,
+      "completionFile": "193-0973-rust-explain-modules-and-crates-in-rust.completion.json"
+    },
+    {
+      "index": 194,
+      "file": "0974-rust-explain-asynchronous-programming-in-rust-with.prompt.json",
+      "prompt": "Explain asynchronous programming in Rust with a simple example.",
+      "promptWords": 9,
+      "completionFile": "194-0974-rust-explain-asynchronous-programming-in-rust-with.completion.json"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Luxembourg.",
+  "id": "pe10-mep-256900",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Fernand Kartheiser",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Luxembourg. Groupe politique : Non-inscrits. Parti ou liste national : Alternativ Demokratesch Reformpartei.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Lors de la session plénière à Strasbourg, Fernand Kartheiser a pris la parole.",
+    "Les électeurs peuvent écrire à Fernand Kartheiser au Parlement européen.",
+    "La fiche officielle de Fernand Kartheiser est publiée sur le site du Parlement européen."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Fernand KARTHEISER"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256900",
+    "https://fr.wikipedia.org/w/index.php?search=Fernand%20Kartheiser"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Luxembourg",
+    "Parlement européen",
+    "Non-inscrits",
+    "Alternativ Demokratesch Reformpartei"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

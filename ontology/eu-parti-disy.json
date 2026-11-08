@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Rassemblement démocrate (DISY), parti politique de ce pays : Chypre.",
+  "id": "eu-parti-disy",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Rassemblement démocrate (DISY)",
+  "entityType": "ORGANISATION",
+  "description": "Rassemblement démocrate (DISY), parti politique de ce pays : Chypre. Il est affilié à la famille Parti populaire européen (PPE).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Rassemblement démocrate (DISY) » préparent les textes relatifs à la vie politique nationale.",
+    "La délégation a rencontré des représentants de « Rassemblement démocrate (DISY) ».",
+    "« Rassemblement démocrate (DISY) » joue un rôle dans la vie politique nationale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Rassemblement%20d%C3%A9mocrate%20%28DISY%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chypre",
+    "Parti populaire européen (PPE)",
+    "Stella Kyriakides",
+    "Christos Stylianides"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

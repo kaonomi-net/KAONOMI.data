@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'emploi) : Autorité européenne du travail (ELA), organe de l'Union créé en 2019 et installé dans cette ville : Bratislava.",
+  "id": "eu-ag-ela",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Autorité européenne du travail (ELA)",
+  "entityType": "ORGANISATION",
+  "description": "Autorité européenne du travail (ELA), organe de l'Union créé en 2019 et installé dans cette ville : Bratislava.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Autorité européenne du travail (ELA) ».",
+    "« Autorité européenne du travail (ELA) » joue un rôle dans l'emploi.",
+    "Les fonctionnaires de « Autorité européenne du travail (ELA) » préparent les textes relatifs à l'emploi."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ELA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Autorit%C3%A9%20europ%C3%A9enne%20du%20travail%20%28ELA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bratislava",
+    "Direction générale de l'emploi, des affaires sociales et de l'inclusion",
+    "Emploi et droits sociaux"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-01-01T00:00:00",
+  "endDate": null
+}

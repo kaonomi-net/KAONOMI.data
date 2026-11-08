@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-succession-et-fin-de-mandat-de-von-der-leyen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Succession et fin de mandat de von der Leyen",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "mandat",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "2029",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les spéculations sur la fin du mandat de la présidente en 2029.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Parti populaire européen",
+    "élections européennes",
+    "successeurs"
+  ],
+  "questions": [
+    "Quelle rumeur ?",
+    "Quelle ambition ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#SUCCESSION"
+  ],
+  "events": [],
+  "signals": [
+    "!SPECULATION"
+  ],
+  "isDeleted": false
+}

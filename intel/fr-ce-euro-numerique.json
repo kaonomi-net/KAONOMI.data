@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-euro-numerique",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Euro numérique",
+  "includedEntities": [
+    {
+      "entityName": "euro numérique",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "BCE",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet d'euro numérique.",
+  "isFuzzy": true,
+  "locations": [
+    "Francfort",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "BCE",
+    "Parlement européen",
+    "banques"
+  ],
+  "questions": [
+    "Où en est le texte ?",
+    "Quel calendrier ?",
+    "Quelles inquiétudes ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#EURO-NUMERIQUE",
+    "#FINANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

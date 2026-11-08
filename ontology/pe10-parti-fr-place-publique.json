@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Place publique, parti ou liste de ce pays : France, qui compte 3 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-fr-place-publique",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Place publique",
+  "entityType": "ORGANISATION",
+  "description": "Place publique, parti ou liste de ce pays : France, qui compte 3 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les positions de « Place publique » sont suivies à Bruxelles et à Strasbourg.",
+    "« Place publique » compte des élus au Parlement européen.",
+    "La presse a commenté le score de « Place publique » aux élections européennes."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Place%20publique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Raphaël Glucksmann",
+    "Aurore Lalucq",
+    "Thomas Pellerin-Carlin",
+    "France",
+    "Socialistes et démocrates (S&D)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

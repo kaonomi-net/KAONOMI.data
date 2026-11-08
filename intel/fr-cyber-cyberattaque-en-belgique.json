@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-en-belgique",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque en Belgique",
+  "includedEntities": [
+    {
+      "entityName": "Belgique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "CCB",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les cyberattaques visant la Belgique.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Centre pour la cybersécurité Belgique",
+    "DDoS",
+    "entreprises"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quel impact ?",
+    "Quelle alerte du CCB ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#BELGIQUE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

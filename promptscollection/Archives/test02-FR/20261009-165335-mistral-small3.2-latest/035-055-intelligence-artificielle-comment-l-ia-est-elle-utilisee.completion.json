@@ -1,0 +1,13 @@
+{
+  "index": 35,
+  "file": "055-intelligence-artificielle-comment-l-ia-est-elle-utilisee.prompt.json",
+  "prompt": "Comment l'IA est-elle utilisée en médecine ?",
+  "promptWords": 7,
+  "completion": "L'intelligence artificielle (IA) est de plus en plus utilisée en médecine pour améliorer le diagnostic, le traitement et la gestion des patients. Voici quelques exemples d'applications de l'IA en médecine :\n\n1. Diagnostic médical : L'IA peut aider les médecins à diagnostiquer des maladies en analysant des images médicales telles que des radiographies, des IRM et des scanners. Les algorithmes d'IA peuvent détecter des anomalies dans les images et aider les médecins à prendre des décisions plus précises et plus rapides.\n2. Prévision des maladies : L'IA peut être utilisée pour prédire le risque de développement de certaines maladies en analysant des données de santé telles que les antécédents médicaux, les résultats de laboratoire et les données génétiques.\n3. Traitement personnalisé : L'IA peut aider les médecins à personnaliser les traitements en fonction des caractéristiques individuelles des patients, telles que leur génétique, leur mode de vie et leurs antécédents médicaux.\n4. Recherche médicale : L'IA peut être utilisée pour analyser de grandes quantités de données médicales et identifier des modèles et des tendances qui peuvent aider à la découverte de nouveaux médicaments et à la compréhension des mécanismes des maladies.\n5. Assistance aux médecins : L'IA peut aider les médecins à gérer leur charge de travail en automatisant certaines tâches administratives, en fournissant des recommandations de traitement et en aidant à la gestion des patients.\n\nL'IA en médecine est un domaine en constante évolution, et de nouvelles applications sont développées chaque jour. Cependant, il est important de noter que l'IA ne remplace pas les médecins, mais plutôt les assiste dans leur travail. Les décisions médicales doivent toujours être prises par des professionnels de la santé qualifiés.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:59:39.3945233+02:00",
+  "durationSeconds": 8.18,
+  "stats": "mistral-small3.2:latest · 517 + 370 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

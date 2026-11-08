@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-statbel",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "Statbel",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Faillites d'entreprises ; Chômage en France et en Belgique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre le nombre de faillites d'entreprises.",
+    "Suivre le taux de chômage français et belge."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Statbel",
+  "tags": [
+    "#ECONOMIE",
+    "#FAILLITES",
+    "#EMPLOI"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "France",
+    "entreprises",
+    "secteurs",
+    "faillites",
+    "Banque de France",
+    "taux",
+    "emploi",
+    "INSEE",
+    "chômage"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

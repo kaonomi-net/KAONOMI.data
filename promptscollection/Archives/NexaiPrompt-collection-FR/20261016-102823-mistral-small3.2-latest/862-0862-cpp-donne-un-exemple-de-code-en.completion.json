@@ -1,0 +1,13 @@
+{
+  "index": 862,
+  "file": "0862-cpp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C++ qui illustre les vecteurs (std::vector).",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en C++ qui illustre l'utilisation des vecteurs (`std::vector`) :\n\n```cpp\n#include <iostream>\n#include <vector>\n\nint main() {\n    // Déclaration d'un vecteur de nombres entiers\n    std::vector<int> nombres;\n\n    // Ajout d'éléments au vecteur\n    nombres.push_back(10);\n    nombres.push_back(20);\n    nombres.push_back(30);\n\n    // Accès aux éléments du vecteur\n    std::cout << \"Premier élément : \" << nombres[0] << std::endl;\n    std::cout << \"Deuxième élément : \" << nombres[1] << std::endl;\n    std::cout << \"Troisième élément : \" << nombres[2] << std::endl;\n\n    // Taille du vecteur\n    std::cout << \"Taille du vecteur : \" << nombres.size() << std::endl;\n\n    // Parcourir le vecteur avec une boucle\n    std::cout << \"Contenu du vecteur : \";\n    for (int i = 0; i < nombres.size(); ++i) {\n        std::cout << nombres[i] << \" \";\n    }\n    std::cout << std::endl;\n\n    // Utilisation d'un itérateur pour parcourir le vecteur\n    std::cout << \"Contenu du vecteur avec itérateur : \";\n    for (std::vector<int>::iterator it = nombres.begin(); it != nombres.end(); ++it) {\n        std::cout << *it << \" \";\n    }\n    std::cout << std::endl;\n\n    // Suppression du dernier élément\n    nombres.pop_back();\n    std::cout << \"Après suppression du dernier élément, taille du vecteur : \" << nombres.size() << std::endl;\n\n    return 0;\n}\n```\n\n### Explications :\n1. **Déclaration** : `std::vector<int> nombres;` déclare un vecteur nommé `nombres` qui contient des entiers.\n2. **Ajout d'éléments** : `nombres.push_back(valeur);` ajoute un élément à la fin du vecteur.\n3. **Accès aux éléments** : `nombres[i]` permet d'accéder à l'élément à l'index `i`.\n4. **Taille du vecteur** : `nombres.size()` retourne le nombre d'éléments dans le vecteur.\n5. **Boucle de parcours** : Une boucle `for` classique ou un itérateur peut être utilisé pour parcourir le vecteur.\n6. **Suppression d'éléments** : `nombres.pop_back();` supprime le dernier élément du vecteur.\n\nCe code montre les opérations de base avec les vecteurs en C++.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:31:48.5994719+02:00",
+  "durationSeconds": 11.49,
+  "stats": "mistral-small3.2:latest · 527 + 572 tokens · 11,5 s",
+  "isError": false,
+  "language": "FR"
+}

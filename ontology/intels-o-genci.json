@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-genci",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "GENCI",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Supercalculateur pour l'IA.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les supercalculateurs dédiés à l'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "GENCI",
+  "tags": [
+    "#IA",
+    "#CALCUL",
+    "#INFRASTRUCTURE"
+  ],
+  "events": [
+    "@PROJET-INFRASTRUCTURE"
+  ],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "supercalculateur",
+    "Jülich",
+    "EuroHPC",
+    "Saclay",
+    "Jean Zay",
+    "IA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

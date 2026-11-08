@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-cour-des-comptes-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Cour des comptes européenne",
+  "includedEntities": [
+    {
+      "entityName": "Cour des comptes européenne",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "rapport",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les rapports de la Cour des comptes européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Luxembourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "irrégularités",
+    "plan de relance",
+    "dépenses"
+  ],
+  "questions": [
+    "Quelles conclusions ?",
+    "Quelles irrégularités ?",
+    "Quelle réaction de la Commission ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CONTROLE",
+    "#COUR-DES-COMPTES"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!VERIFICATION"
+  ],
+  "isDeleted": false
+}

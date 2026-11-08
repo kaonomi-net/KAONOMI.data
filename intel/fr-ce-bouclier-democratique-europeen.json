@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-bouclier-democratique-europeen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Bouclier démocratique européen",
+  "includedEntities": [
+    {
+      "entityName": "bouclier démocratique",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "démocratie",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet de bouclier européen pour la démocratie.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ingérences",
+    "élections",
+    "désinformation"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quel calendrier ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DEMOCRATIE",
+    "#INGERENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEMOCRATIE"
+  ],
+  "isDeleted": false
+}

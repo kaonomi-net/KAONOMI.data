@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-fin-du-gaz-russe-en-europe",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Fin du gaz russe en Europe",
+  "includedEntities": [
+    {
+      "entityName": "gaz russe",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "REPowerEU",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "interdiction",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'interdiction progressive des importations de gaz russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "GNL",
+    "Hongrie",
+    "Slovaquie"
+  ],
+  "questions": [
+    "Quel calendrier ?",
+    "Quels pays résistent ?",
+    "Quelles dérogations ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENERGIE",
+    "#RUSSIE"
+  ],
+  "events": [
+    "@DECISION-UE"
+  ],
+  "signals": [
+    "!DEPENDANCE"
+  ],
+  "isDeleted": false
+}

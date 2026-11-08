@@ -1,0 +1,13 @@
+{
+  "index": 323,
+  "file": "0323-ia-llm-qu-est-ce-que-la-sortie.prompt.json",
+  "prompt": "Qu'est-ce que la sortie structurée JSON d'un LLM ?",
+  "promptWords": 9,
+  "completion": "La sortie structurée JSON d'un LLM (Large Language Model) fait référence à la capacité d'un modèle de langage à générer des réponses sous forme de données structurées au format JSON (JavaScript Object Notation). Le JSON est un format de données léger et facile à lire, largement utilisé pour échanger des informations entre systèmes.\n\n### Exemple de sortie structurée JSON :\n```json\n{\n  \"question\": \"Qu'est-ce que la sortie structurée JSON d'un LLM ?\",\n  \"reponse\": \"La sortie structurée JSON d'un LLM est la capacité du modèle à générer des réponses sous forme de données structurées au format JSON.\",\n  \"details\": {\n    \"format\": \"JSON\",\n    \"utilisation\": \"Échange de données entre systèmes\",\n    \"avantages\": [\"lisible\", \"léger\", \"facile à parser\"]\n  }\n}\n```\n\n### Utilisations courantes :\n1. **Intégration avec des applications** : Les réponses JSON peuvent être facilement intégrées dans des applications web ou mobiles.\n2. **Automatisation des tâches** : Les sorties structurées facilitent l'automatisation des processus en fournissant des données organisées.\n3. **Interopérabilité** : Le format JSON est largement supporté par de nombreuses plateformes et langages de programmation.\n\n### Avantages :\n- **Clarté** : Les données sont organisées de manière hiérarchique et facile à comprendre.\n- **Flexibilité** : Peut représenter des structures de données complexes.\n- **Compatibilité** : Supporté par la plupart des langages de programmation modernes.\n\nSi vous avez besoin d'un exemple spécifique ou d'une démonstration, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:24:38.4757715+02:00",
+  "durationSeconds": 7.44,
+  "stats": "mistral-small3.2:latest · 521 + 367 tokens · 7,4 s",
+  "isError": false,
+  "language": "FR"
+}

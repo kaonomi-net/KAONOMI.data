@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-piege",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un objet qui contient une bombe cachée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pi[ée]g[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:voiture(s)?\\s+pi[ée]g[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:colis\\s+pi[ée]g[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lettre(s)?\\s+pi[ée]g[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:engin\\s+pi[ée]g[ée])(?![\\w-])"
+  ],
+  "symbol": "piégé",
+  "event": null,
+  "title": "Piégé",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

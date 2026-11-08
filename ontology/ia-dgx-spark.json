@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul accéléré) : Superordinateur de bureau de NVIDIA à puce GB10 Grace Blackwell et 128 Go de mémoire unifiée, pour développer des modèles en local.",
+  "id": "ia-dgx-spark",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "NVIDIA DGX Spark",
+  "entityType": "HARDWARE",
+  "description": "Superordinateur de bureau de NVIDIA à puce GB10 Grace Blackwell et 128 Go de mémoire unifiée, pour développer des modèles en local.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "NVIDIA DGX Spark a marqué l'histoire du matériel consacré au calcul accéléré.",
+    "La fiche technique de NVIDIA DGX Spark détaille ses performances.",
+    "Pour ce projet d'IA, l'équipe a comparé NVIDIA DGX Spark à d'autres solutions matérielles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "DGX Spark",
+    "Project DIGITS"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULACCELERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NVIDIA%20DGX%20Spark"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Jensen Huang",
+    "Ollama"
+  ],
+  "isDeleted": false,
+  "startDate": "2025-01-01T00:00:00",
+  "endDate": null
+}

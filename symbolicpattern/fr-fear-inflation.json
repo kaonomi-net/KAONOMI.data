@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-inflation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La hausse générale des prix.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:inflation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inflationniste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hausse\\s+des\\s+prix)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:flamb[ée]e\\s+des\\s+prix)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vie\\s+ch[èe]re)(?![\\w-])"
+  ],
+  "symbol": "inflation",
+  "event": null,
+  "title": "Inflation",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-civils-detenus-par-la-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Civils détenus par la Russie",
+  "includedEntities": [
+    {
+      "entityName": "civils détenus",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les civils ukrainiens détenus en Russie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "journalistes",
+    "militants",
+    "familles"
+  ],
+  "questions": [
+    "Combien de personnes ?",
+    "Quelles libérations ?",
+    "Quelles conditions ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#DETENTION",
+    "#DROITS-HUMAINS"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

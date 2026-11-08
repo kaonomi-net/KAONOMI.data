@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-groupe-qilin",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Groupe Qilin",
+  "includedEntities": [
+    {
+      "entityName": "Qilin",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "rançongiciel",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'activité du groupe Qilin.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "santé",
+    "affiliés",
+    "double extorsion"
+  ],
+  "questions": [
+    "Quelle victime ?",
+    "Quel secteur ?",
+    "Quelle rançon ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL"
+  ],
+  "events": [
+    "@RANCONGICIEL"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

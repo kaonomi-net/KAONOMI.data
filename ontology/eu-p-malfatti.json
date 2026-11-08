@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la présidence de la Commission) : Homme politique italien, président de la Commission de 1970 à 1972.",
+  "id": "eu-p-malfatti",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Franco Maria Malfatti",
+  "entityType": "PERSON",
+  "description": "Homme politique italien, président de la Commission de 1970 à 1972.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-presidents-commission",
+  "sentencesExemples": [
+    "Franco Maria Malfatti est une figure de la présidence de la Commission.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Franco Maria Malfatti.",
+    "Lors du point de presse de midi, une question portait sur Franco Maria Malfatti."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Malfatti"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PRESIDENCECOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Franco%20Maria%20Malfatti"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission Malfatti",
+    "nationalité italienne",
+    "Président de la Commission européenne",
+    "Présidence de la Commission (Commission Malfatti)",
+    "Communication et présidence"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

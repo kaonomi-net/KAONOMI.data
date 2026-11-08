@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-soignants",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "soignants",
+  "entityType": "PROFESSION",
+  "description": "Cité par 5 intels : Hôpital et système de santé ; Zéro contention en psychiatrie ; Santé mentale des soignants ; Trouble de la personnalité borderline ; Suicide des soignants.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre la situation des hôpitaux et des urgences.",
+    "Suivre l'objectif de zéro recours à la contention en psychiatrie d'ici 2030.",
+    "Suivre la santé mentale des soignants."
+  ],
+  "angryLevel": null,
+  "sadLevel": 20,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "soignants",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SOIGNANTS",
+    "#FRANCE",
+    "#SANTE",
+    "#SOCIAL",
+    "#PSYCHIATRIE"
+  ],
+  "events": [
+    "@CONFERENCE"
+  ],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!SOCIAL",
+    "!DROITS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "suicide",
+    "épuisement",
+    "déserts médicaux",
+    "santé",
+    "urgences",
+    "hôpital",
+    "budget",
+    "isolement",
+    "Contrôleur général des lieux de privation de liberté"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

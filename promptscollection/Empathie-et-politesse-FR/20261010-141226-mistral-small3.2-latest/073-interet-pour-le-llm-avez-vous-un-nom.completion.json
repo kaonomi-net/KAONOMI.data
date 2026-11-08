@@ -1,0 +1,13 @@
+{
+  "index": 73,
+  "file": "073-interet-pour-le-llm-avez-vous-un-nom.prompt.json",
+  "prompt": "Avez-vous un nom ?",
+  "promptWords": 4,
+  "completion": "Oui, je m'appelle Mistral Small 3.2. Je suis un grand modèle de langage créé par Mistral AI. Comment puis-je vous aider aujourd'hui ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:23.9939884+02:00",
+  "durationSeconds": 0.96,
+  "stats": "mistral-small3.2:latest · 513 + 37 tokens · 1,0 s",
+  "isError": false,
+  "language": "FR"
+}

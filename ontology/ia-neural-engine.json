@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (l'IA embarquée) : Accélérateur neuronal intégré aux puces Apple depuis l'A11 Bionic, utilisé pour Face ID et la photographie computationnelle.",
+  "id": "ia-neural-engine",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Apple Neural Engine",
+  "entityType": "HARDWARE",
+  "description": "Accélérateur neuronal intégré aux puces Apple depuis l'A11 Bionic, utilisé pour Face ID et la photographie computationnelle.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Le technicien a installé Apple Neural Engine dans la salle des machines.",
+    "Lors du salon, le stand présentait Apple Neural Engine en démonstration.",
+    "Le laboratoire utilise Apple Neural Engine pour ses travaux dans le domaine de l'IA embarquée."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "ANE"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#IAEMBARQUEE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Apple%20Neural%20Engine"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Puce Apple M1"
+  ],
+  "isDeleted": false,
+  "startDate": "2017-01-01T00:00:00",
+  "endDate": null
+}

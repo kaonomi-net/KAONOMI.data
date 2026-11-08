@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-sommet-entre-trump-et-poutine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Sommet entre Trump et Poutine",
+  "includedEntities": [
+    {
+      "entityName": "Trump",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Poutine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "sommet",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les sommets entre les présidents américain et russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Alaska",
+    "Budapest"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Kremlin",
+    "Ukraine",
+    "négociations"
+  ],
+  "questions": [
+    "Où et quand ?",
+    "Quels résultats ?",
+    "Kyiv est-il associé ?"
+  ],
+  "tags": [
+    "#ETATS-UNIS",
+    "#RUSSIE",
+    "#SOMMET"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

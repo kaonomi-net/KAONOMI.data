@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-temps-de-parole-des-candidats",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Temps de parole des candidats",
+  "includedEntities": [
+    {
+      "entityName": "temps de parole",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Arcom",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'équité du temps de parole dans les médias.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "période officielle"
+  ],
+  "relatedEntities": [
+    "Arcom",
+    "télévisions",
+    "radios"
+  ],
+  "questions": [
+    "Quel candidat est surreprésenté ?",
+    "Quelles mises en demeure ?",
+    "Quelles règles ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#MEDIAS"
+  ],
+  "events": [],
+  "signals": [
+    "!EQUITE"
+  ],
+  "isDeleted": false
+}

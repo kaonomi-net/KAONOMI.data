@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-bernin",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Bernin",
+  "entityType": "CITY",
+  "description": "Cité par 1 intel : Soitec.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre l'action Soitec."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Bernin",
+  "tags": [
+    "#BOURSE",
+    "#SEMI-CONDUCTEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!VOLATILITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Soitec",
+    "prévisions",
+    "substrats",
+    "smartphones",
+    "automobile"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

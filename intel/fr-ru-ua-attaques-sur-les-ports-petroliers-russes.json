@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-attaques-sur-les-ports-petroliers-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Attaques sur les ports pétroliers russes",
+  "includedEntities": [
+    {
+      "entityName": "port pétrolier",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Novorossiïsk",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Primorsk",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques contre les terminaux d'exportation de pétrole.",
+  "isFuzzy": true,
+  "locations": [
+    "Novorossiïsk",
+    "Primorsk",
+    "Oust-Louga"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "pétroliers",
+    "exportations",
+    "mer Baltique"
+  ],
+  "questions": [
+    "Quel terminal ?",
+    "Quels dégâts ?",
+    "Quel impact sur les exportations ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ENERGIE",
+    "#MARITIME"
+  ],
+  "events": [
+    "@FRAPPE-ENERGIE"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

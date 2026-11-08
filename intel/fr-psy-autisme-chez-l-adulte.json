@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-autisme-chez-l-adulte",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Autisme chez l'adulte",
+  "includedEntities": [
+    {
+      "entityName": "autisme",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "adulte",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le diagnostic et l'inclusion des adultes autistes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "diagnostic tardif",
+    "femmes",
+    "emploi"
+  ],
+  "questions": [
+    "Quel constat ?",
+    "Quelle mesure ?",
+    "Quel témoignage ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#AUTISME"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

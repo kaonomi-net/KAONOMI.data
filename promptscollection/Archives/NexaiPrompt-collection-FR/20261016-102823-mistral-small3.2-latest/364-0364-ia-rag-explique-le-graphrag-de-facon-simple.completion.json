@@ -1,0 +1,13 @@
+{
+  "index": 364,
+  "file": "0364-ia-rag-explique-le-graphrag-de-facon-simple.prompt.json",
+  "prompt": "Explique le GraphRAG de façon simple.",
+  "promptWords": 6,
+  "completion": "Le GraphRAG (Graph Retrieval-Augmented Generation) est une méthode qui combine deux concepts : le **graphique** et le **RAG** (Retrieval-Augmented Generation).\n\n1. **Graphique** : Il s'agit d'une structure de données qui représente des informations sous forme de nœuds (entités) et de liens (relations entre ces entités). Par exemple, dans un réseau social, les nœuds pourraient être des utilisateurs et les liens des amitiés.\n\n2. **RAG** : C'est une technique utilisée en intelligence artificielle où un modèle de langage (comme un chatbot) utilise des informations externes pour répondre à des questions. Au lieu de se fier uniquement à ses connaissances pré-entraînées, il recherche des informations pertinentes dans une base de données avant de générer une réponse.\n\n**GraphRAG** utilise un **graphique** pour organiser et stocker des informations, puis utilise le **RAG** pour rechercher et récupérer des informations pertinentes à partir de ce graphique afin de générer des réponses plus précises et contextuelles.\n\nEn résumé, le GraphRAG permet à un modèle de langage d'utiliser un graphique pour mieux comprendre et répondre aux questions en exploitant les relations entre les différentes informations.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:31:34.8732066+02:00",
+  "durationSeconds": 5.52,
+  "stats": "mistral-small3.2:latest · 517 + 268 tokens · 5,5 s",
+  "isError": false,
+  "language": "FR"
+}

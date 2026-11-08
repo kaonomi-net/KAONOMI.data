@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la cybersécurité) : Protection des réseaux, des systèmes d'information et des produits numériques contre les cybermenaces.",
+  "id": "eu-dom-cybersecurite",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Cybersécurité",
+  "entityType": "DOMAIN",
+  "description": "Protection des réseaux, des systèmes d'information et des produits numériques contre les cybermenaces.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le budget de l'Union consacre des crédits au domaine « Cybersécurité ».",
+    "Plusieurs commissaires ont été chargés du domaine « Cybersécurité ».",
+    "Le domaine « Cybersécurité » mobilise plusieurs directions générales."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#CYBERSECURITE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Cybers%C3%A9curit%C3%A9"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Souveraineté technologique, sécurité et démocratie (Commission von der Leyen II)",
+    "Henna Virkkunen",
+    "Union de la sécurité (Commission Juncker)",
+    "Julian King",
+    "Direction générale des réseaux de communication, du contenu et des technologies",
+    "Agence de l'Union européenne pour la cybersécurité (ENISA)",
+    "Directive NIS 2",
+    "Règlement sur la résilience opérationnelle numérique du secteur financier",
+    "Règlement sur la cyberrésilience",
+    "Programme pour une Europe numérique",
+    "IRIS²"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

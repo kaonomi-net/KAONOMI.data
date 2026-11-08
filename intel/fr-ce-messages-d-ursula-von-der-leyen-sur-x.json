@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-messages-d-ursula-von-der-leyen-sur-x",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Messages d'Ursula von der Leyen sur X",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "X",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "message",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les messages publiés par la présidente sur les réseaux sociaux.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "condoléances",
+    "annonces",
+    "réactions"
+  ],
+  "questions": [
+    "Quel message ?",
+    "Quel événement ?",
+    "Quel écho ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#COMMUNICATION"
+  ],
+  "events": [],
+  "signals": [
+    "!COMMUNICATION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 50,
+  "file": "070-physique-qu-est-ce-qu-un-atome.prompt.json",
+  "prompt": "Qu'est-ce qu'un atome ?",
+  "promptWords": 4,
+  "completion": "Un atome est la plus petite partie d'un élément chimique qui conserve les propriétés de cet élément. Il est composé de trois types de particules subatomiques principales :\n\n1. **Les protons** : ce sont des particules chargées positivement, situées dans le noyau de l'atome.\n2. **Les neutrons** : ce sont des particules sans charge, également situées dans le noyau.\n3. **Les électrons** : ce sont des particules chargées négativement qui tournent autour du noyau sur des orbites appelées couches électroniques.\n\nLes atomes sont les briques de base de la matière. Ils peuvent se combiner pour former des molécules, qui sont à leur tour les constituants des substances que nous voyons et touchons dans notre vie quotidienne.\n\nSi tu veux des détails plus spécifiques ou des exemples, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:02:00.8068334+02:00",
+  "durationSeconds": 4.57,
+  "stats": "mistral-small3.2:latest · 515 + 179 tokens · 4,6 s",
+  "isError": false,
+  "language": "FR"
+}

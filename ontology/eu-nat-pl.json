@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Nationalité de l'Union européenne (la citoyenneté européenne) : Nationalité des citoyens de ce pays : Pologne.",
+  "id": "eu-nat-pl",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "nationalité polonaise",
+  "entityType": "NORP",
+  "description": "Nationalité des citoyens de ce pays : Pologne. Les ressortissants sont appelés polonais.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-nationalites",
+  "sentencesExemples": [
+    "Les fonctionnaires européens de nationalité polonaise travaillent dans toutes les directions générales.",
+    "Le collège compte un membre de nationalité polonaise.",
+    "Plusieurs commissaires ont la nationalité polonaise."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDEAA",
+  "synonyms": [
+    "polonais",
+    "polonaise"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#NORP",
+    "#CITOYENNETEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=nationalit%C3%A9%20polonaise"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pologne",
+    "Janusz Wojciechowski",
+    "Piotr Serafin",
+    "Elżbieta Bieńkowska",
+    "Donald Tusk"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

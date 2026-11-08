@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-crapaud",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un batracien à la peau pustuleuse.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:crapaud(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pustuleu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bave\\s+de\\s+crapaud)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:batracien(s)?\\s+gluant(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:peau\\s+verruqueuse)(?![\\w-])"
+  ],
+  "symbol": "crapaud",
+  "event": null,
+  "title": "Crapaud",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

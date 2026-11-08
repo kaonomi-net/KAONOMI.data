@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-encerclement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'entourer une ville ou une armée.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:encerclement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:encercl(er|[ée]|[ée]e|[ée]s|[ée]es)|ville(s)?\\s+assi[ée]g[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:si[èe]ge\\s+de\\s+la\\s+ville)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:assi[ée]g(er|[ée]|[ée]e))(?![\\w-])"
+  ],
+  "symbol": "encerclement",
+  "event": null,
+  "title": "Encerclement",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

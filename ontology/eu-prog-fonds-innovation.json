@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (l'action pour le climat) : Fonds alimenté par le SEQE pour financer des technologies bas carbone.",
+  "id": "eu-prog-fonds-innovation",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Fonds pour l'innovation",
+  "entityType": "PROGRAMME",
+  "description": "Fonds alimenté par le SEQE pour financer des technologies bas carbone.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Le projet a reçu un financement de « Fonds pour l'innovation ».",
+    "Le bilan de « Fonds pour l'innovation » a été présenté au Parlement européen.",
+    "« Fonds pour l'innovation » finance des projets dans l'action pour le climat."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#ACTIONPOURCLIMAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fonds%20pour%20l%27innovation"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de l'action pour le climat",
+    "Action pour le climat",
+    "Innovation",
+    "Système d'échange de quotas d'émission de l'UE"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-01-01T00:00:00",
+  "endDate": null
+}

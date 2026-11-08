@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-statistiques-des-rancongiciels",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Statistiques des rançongiciels",
+  "includedEntities": [
+    {
+      "entityName": "statistiques",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "rançongiciels",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "victimes",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les statistiques mensuelles des attaques par rançongiciel.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "mensuel"
+  ],
+  "relatedEntities": [
+    "pays",
+    "secteurs",
+    "groupes"
+  ],
+  "questions": [
+    "Combien de victimes ?",
+    "Quel pays en tête ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#INDICATEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

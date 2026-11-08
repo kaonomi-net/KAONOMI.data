@@ -1,0 +1,13 @@
+{
+  "index": 544,
+  "file": "0544-ia-symbolique-explique-les-graphes-de-connaissances-de.prompt.json",
+  "prompt": "Explique les graphes de connaissances de façon simple.",
+  "promptWords": 8,
+  "completion": "Les graphes de connaissances sont un moyen de représenter et d'organiser des informations de manière structurée, comme un réseau ou une carte mentale. Imaginez que chaque information est un nœud (ou un point) dans le graphe, et que les relations entre ces informations sont des liens (ou des flèches) qui les connectent.\n\n### Exemple simple :\n- **Nœud 1** : \"Paris\"\n- **Nœud 2** : \"France\"\n- **Lien** : \"est la capitale de\"\n\nIci, le graphe montre que \"Paris\" est la capitale de la \"France\".\n\n### À quoi ça sert ?\n1. **Clarté** : Cela permet de visualiser facilement comment les informations sont liées.\n2. **Recherche** : Les machines (comme les intelligences artificielles) peuvent naviguer dans ce graphe pour trouver des informations ou répondre à des questions.\n3. **Apprentissage** : Les systèmes peuvent apprendre de nouvelles relations et les ajouter au graphe.\n\n### Utilisations courantes :\n- **Moteurs de recherche** : Pour comprendre les requêtes des utilisateurs et fournir des réponses pertinentes.\n- **Assistants vocaux** : Pour répondre à des questions complexes en reliant différentes informations.\n- **Recommandations** : Pour suggérer des produits, films, etc., en fonction des préférences de l'utilisateur.\n\nEn résumé, un graphe de connaissances est comme une toile d'araignée où chaque fil relie une idée à une autre, facilitant la compréhension et l'utilisation des données.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:04:26.3647419+02:00",
+  "durationSeconds": 6.77,
+  "stats": "mistral-small3.2:latest · 518 + 333 tokens · 6,8 s",
+  "isError": false,
+  "language": "FR"
+}

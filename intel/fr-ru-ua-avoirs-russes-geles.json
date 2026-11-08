@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-avoirs-russes-geles",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Avoirs russes gelés",
+  "includedEntities": [
+    {
+      "entityName": "avoirs russes",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "gelés",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "210 milliards",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'avenir des quelque 210 milliards d'euros d'avoirs russes gelés en Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Euroclear",
+    "gel illimité",
+    "G7"
+  ],
+  "questions": [
+    "Que décide l'Union européenne ?",
+    "Quel usage des revenus ?",
+    "Quels risques juridiques ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AVOIRS-GELES",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!PRESSION-ECONOMIQUE"
+  ],
+  "isDeleted": false
+}

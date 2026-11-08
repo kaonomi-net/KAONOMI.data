@@ -1,0 +1,13 @@
+{
+  "index": 725,
+  "file": "0725-java-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Java qui illustre l'API java.time pour les dates.",
+  "promptWords": 14,
+  "completion": "Voici un exemple de code en Java qui illustre l'utilisation de l'API `java.time` pour manipuler des dates et des heures :\n\n```java\nimport java.time.LocalDate;\nimport java.time.LocalDateTime;\nimport java.time.LocalTime;\nimport java.time.format.DateTimeFormatter;\nimport java.time.temporal.ChronoUnit;\n\npublic class ExempleJavaTime {\n    public static void main(String[] args) {\n        // Exemple avec LocalDate\n        LocalDate dateActuelle = LocalDate.now();\n        System.out.println(\"Date actuelle : \" + dateActuelle);\n\n        // Ajouter 5 jours à la date actuelle\n        LocalDate dateFuture = dateActuelle.plusDays(5);\n        System.out.println(\"Date dans 5 jours : \" + dateFuture);\n\n        // Exemple avec LocalTime\n        LocalTime heureActuelle = LocalTime.now();\n        System.out.println(\"Heure actuelle : \" + heureActuelle);\n\n        // Formater la date et l'heure\n        DateTimeFormatter formatter = DateTimeFormatter.ofPattern(\"dd/MM/yyyy HH:mm:ss\");\n        LocalDateTime dateHeureActuelle = LocalDateTime.now();\n        String dateHeureFormatee = dateHeureActuelle.format(formatter);\n        System.out.println(\"Date et heure formatée : \" + dateHeureFormatee);\n\n        // Calcul de la différence entre deux dates\n        LocalDate dateDebut = LocalDate.of(2023, 1, 1);\n        LocalDate dateFin = LocalDate.of(2023, 12, 31);\n        long joursEntreDates = ChronoUnit.DAYS.between(dateDebut, dateFin);\n        System.out.println(\"Nombre de jours entre le 1er janvier 2023 et le 31 décembre 2023 : \" + joursEntreDates);\n    }\n}\n```\n\nCe code montre comment :\n1. Obtenir la date et l'heure actuelles avec `LocalDate.now()` et `LocalTime.now()`.\n2. Manipuler des dates en ajoutant des jours avec `plusDays()`.\n3. Formater des dates et heures avec `DateTimeFormatter`.\n4. Calculer la différence entre deux dates avec `ChronoUnit`.\n\nL'API `java.time` est plus moderne et plus facile à utiliser que les anciennes classes comme `Date` et `Calendar`.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:56:53.6653978+02:00",
+  "durationSeconds": 9.95,
+  "stats": "mistral-small3.2:latest · 527 + 499 tokens · 9,9 s",
+  "isError": false,
+  "language": "FR"
+}

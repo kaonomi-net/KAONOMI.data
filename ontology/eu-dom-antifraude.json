@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la lutte antifraude) : Protection des intérêts financiers de l'Union contre la fraude et la corruption.",
+  "id": "eu-dom-antifraude",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Lutte antifraude",
+  "entityType": "DOMAIN",
+  "description": "Protection des intérêts financiers de l'Union contre la fraude et la corruption.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Plusieurs commissaires ont été chargés du domaine « Lutte antifraude ».",
+    "Le domaine « Lutte antifraude » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Lutte antifraude »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#LUTTEANTIFRAUDE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Lutte%20antifraude"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parquet européen",
+    "Commission du contrôle budgétaire (CONT)",
+    "Budget, lutte antifraude et administration publique (Commission von der Leyen II)",
+    "Piotr Serafin",
+    "Office européen de lutte antifraude",
+    "Autorité de lutte contre le blanchiment de capitaux (AMLA)",
+    "Règlement instituant l'Autorité de lutte contre le blanchiment",
+    "Scandale de corruption au Parlement européen (« Qatargate »)",
+    "Démission de la Commission Santer"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

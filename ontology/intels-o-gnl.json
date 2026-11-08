@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-gnl",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "GNL",
+  "entityType": "MATERIAL",
+  "description": "Cité par 8 intels : Paquet de sanctions de l'Union européenne contre la Russie ; Fin des importations de gaz russe en Europe ; Arctique et route maritime du Nord ; Approvisionnement en gaz russe ; Gaz naturel liquéfié ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre l'adoption des nouveaux paquets de sanctions européens.",
+    "Suivre l'interdiction progressive du gaz russe dans l'Union européenne.",
+    "Suivre les ambitions russes dans l'Arctique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "GNL",
+  "tags": [
+    "#ENERGIE",
+    "#RUSSIE",
+    "#UNION-EUROPEENNE",
+    "#GAZ",
+    "#GEOPOLITIQUE",
+    "#SANCTIONS"
+  ],
+  "events": [
+    "@DECISION-UE",
+    "@SANCTION",
+    "@RUPTURE-APPROVISIONNEMENT"
+  ],
+  "signals": [
+    "!DEPENDANCE",
+    "!PRESSION-ECONOMIQUE",
+    "!COMPETITION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Hongrie",
+    "Russie",
+    "gaz",
+    "Slovaquie",
+    "interdiction",
+    "gaz russe",
+    "REPowerEU",
+    "Europe",
+    "Qatar"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

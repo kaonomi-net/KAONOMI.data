@@ -1,0 +1,13 @@
+{
+  "index": 202,
+  "file": "0202-cybersecurite-qu-est-ce-qu-un-soc.prompt.json",
+  "prompt": "Qu'est-ce qu'un SOC (Security Operations Center) ?",
+  "promptWords": 7,
+  "completion": "Un SOC, ou **Security Operations Center** (Centre d'opérations de sécurité en français), est une unité spécialisée au sein d'une organisation chargée de surveiller, détecter, analyser et répondre aux incidents de sécurité informatique. Son objectif principal est de protéger les actifs numériques de l'entreprise contre les cybermenaces.\n\n### Principales fonctions d'un SOC :\n1. **Surveillance continue** : Le SOC surveille en temps réel les réseaux, les systèmes et les applications pour détecter des activités suspectes ou des anomalies.\n2. **Détection des menaces** : Utilisation d'outils avancés (comme les SIEM - Security Information and Event Management) pour identifier les cyberattaques potentielles.\n3. **Analyse des incidents** : Investigation des alertes pour déterminer si elles constituent une véritable menace.\n4. **Réponse aux incidents** : Mise en œuvre de mesures pour contenir et neutraliser les attaques.\n5. **Gestion des vulnérabilités** : Identification et correction des failles de sécurité avant qu'elles ne soient exploitées.\n6. **Conformité et reporting** : Assurer que l'organisation respecte les réglementations en matière de sécurité et fournir des rapports aux parties prenantes.\n\n### Composantes clés d'un SOC :\n- **Équipe d'analystes** : Experts en cybersécurité formés pour gérer les incidents.\n- **Technologies** : Outils de surveillance, de détection et de réponse automatisée.\n- **Processus** : Méthodologies standardisées pour traiter les incidents.\n- **Politiques et procédures** : Cadres définissant les actions à entreprendre en cas d'incident.\n\n### Pourquoi un SOC est-il important ?\nAvec l'augmentation des cybermenaces (ransomware, attaques par phishing, etc.), un SOC permet aux organisations de :\n- Réduire les risques de violations de données.\n- Minimiser les impacts financiers et réputationnels.\n- Réagir rapidement et efficacement aux incidents.\n\nEn résumé, un SOC est un pilier de la stratégie de cybersécurité d'une entreprise, assurant une protection proactive et réactive contre les cybermenaces.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:03:36.6259424+02:00",
+  "durationSeconds": 9.2,
+  "stats": "mistral-small3.2:latest · 519 + 453 tokens · 9,2 s",
+  "isError": false,
+  "language": "FR"
+}

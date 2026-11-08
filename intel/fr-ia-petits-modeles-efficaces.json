@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-petits-modeles-efficaces",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Petits modèles efficaces",
+  "includedEntities": [
+    {
+      "entityName": "petit modèle",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "efficacité",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "embarqué",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Repérer les modèles compacts capables de tourner sur un téléphone ou un ordinateur.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Phi",
+    "Gemma",
+    "smartphone"
+  ],
+  "questions": [
+    "Quelle taille ?",
+    "Quelles performances ?",
+    "Fonctionne-t-il hors ligne ?"
+  ],
+  "tags": [
+    "#IA",
+    "#EFFICACITE",
+    "#EDGE"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!NOUVEAUTE"
+  ],
+  "isDeleted": false
+}

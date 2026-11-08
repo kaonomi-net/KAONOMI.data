@@ -1,0 +1,13 @@
+{
+  "index": 458,
+  "file": "0458-machine-learning-qu-est-ce-que-la-regression.prompt.json",
+  "prompt": "Qu'est-ce que la régression linéaire ?",
+  "promptWords": 6,
+  "completion": "La régression linéaire est une méthode statistique utilisée pour modéliser la relation entre une variable dépendante (ou variable cible) et une ou plusieurs variables indépendantes (ou prédicteurs). Elle permet de prédire une valeur continue en fonction d'autres variables.\n\n### Types de régression linéaire :\n1. **Régression linéaire simple** : Une seule variable indépendante est utilisée pour prédire la variable dépendante.\n2. **Régression linéaire multiple** : Plusieurs variables indépendantes sont utilisées pour prédire la variable dépendante.\n\n### Hypothèses de base :\n- **Linéarité** : La relation entre les variables indépendantes et la variable dépendante est linéaire.\n- **Indépendance** : Les résidus (erreurs) doivent être indépendants.\n- **Homoscedasticité** : La variance des résidus doit être constante.\n- **Normalité** : Les résidus doivent être normalement distribués.\n\n### Équation de la régression linéaire simple :\n\\[ Y = \\beta_0 + \\beta_1 X + \\epsilon \\]\n- \\( Y \\) : Variable dépendante.\n- \\( X \\) : Variable indépendante.\n- \\( \\beta_0 \\) : Constante (interception).\n- \\( \\beta_1 \\) : Coefficient de régression pour \\( X \\).\n- \\( \\epsilon \\) : Terme d'erreur (résidu).\n\n### Applications :\n- Prévision de ventes.\n- Analyse de tendances.\n- Études économiques.\n\nSi vous avez besoin de plus de détails ou d'exemples spécifiques, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:49:23.0839764+02:00",
+  "durationSeconds": 6.77,
+  "stats": "mistral-small3.2:latest · 517 + 332 tokens · 6,8 s",
+  "isError": false,
+  "language": "FR"
+}

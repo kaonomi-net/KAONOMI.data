@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (la gouvernance de l'IA) : Premier sommet international sur la sûreté de l'IA, au Royaume-Uni, conclu par la déclaration de Bletchley.",
+  "id": "ia-sommet-bletchley",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Sommet de Bletchley Park sur la sûreté de l'IA",
+  "entityType": "EVENT",
+  "description": "Premier sommet international sur la sûreté de l'IA, au Royaume-Uni, conclu par la déclaration de Bletchley.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "Les journaux de l'époque ont largement commenté l'événement « Sommet de Bletchley Park sur la sûreté de l'IA ».",
+    "L'événement « Sommet de Bletchley Park sur la sûreté de l'IA » a marqué durablement l'histoire de la gouvernance de l'IA.",
+    "La frise chronologique de la salle de cours place « Sommet de Bletchley Park sur la sûreté de l'IA » en bonne place."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "AI Safety Summit"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#GOUVERNANCEIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Sommet%20de%20Bletchley%20Park%20sur%20la%20s%C3%BBret%C3%A9%20de%20l%27IA"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Sommet pour l'action sur l'IA"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-11-01T00:00:00",
+  "endDate": "2023-11-02T00:00:00"
+}

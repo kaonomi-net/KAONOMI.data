@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Langue de l'Union européenne (le multilinguisme) : Le hongrois est l'une des vingt-quatre langues officielles de l'Union européenne.",
+  "id": "eu-lang-hu",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "hongrois",
+  "entityType": "LANGUAGE",
+  "description": "Le hongrois est l'une des vingt-quatre langues officielles de l'Union européenne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-langues",
+  "sentencesExemples": [
+    "Le hongrois est l'une des langues officielles de l'Union.",
+    "Le Journal officiel est publié en hongrois.",
+    "Les juristes-linguistes vérifient la version en hongrois."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDE3",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LANGUAGE",
+    "#MULTILINGUISME"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=hongrois"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Union européenne",
+    "Hongrie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

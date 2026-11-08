@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-panne",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "panne",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : Panne d'un service d'IA ; Coupure d'électricité et cyber ; CrowdStrike ; Cloudflare.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les pannes des grands services d'IA et leurs conséquences pour les utilisateurs.",
+    "Vérifier l'origine des grandes coupures d'électricité.",
+    "Suivre CrowdStrike, ses résultats et ses incidents."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "panne",
+  "tags": [
+    "#CYBERSECURITE",
+    "#ENTREPRISES",
+    "#IA",
+    "#DISPONIBILITE",
+    "#INCIDENT",
+    "#ENERGIE"
+  ],
+  "events": [
+    "@PANNE",
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!VERIFICATION",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "indisponible",
+    "OpenAI",
+    "ChatGPT",
+    "cloud",
+    "Anthropic",
+    "Europe",
+    "cyberattaque",
+    "gestionnaires de réseau",
+    "enquête",
+    "coupure d'électricité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-negociations-climatiques",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Négociations climatiques",
+  "includedEntities": [
+    {
+      "entityName": "COP",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "climat",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "accord",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les conférences et engagements sur le climat.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "dates de la COP"
+  ],
+  "relatedEntities": [
+    "Accord de Paris",
+    "énergies fossiles",
+    "financement"
+  ],
+  "questions": [
+    "Quels engagements ?",
+    "Quel financement pour les pays du Sud ?",
+    "Quels désaccords ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#CLIMAT",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

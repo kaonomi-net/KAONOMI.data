@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-sommet-du-g7",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Sommet du G7",
+  "includedEntities": [
+    {
+      "entityName": "G7",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sommet",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les engagements des grandes économies occidentales.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "dates du sommet"
+  ],
+  "relatedEntities": [
+    "Union européenne",
+    "Japon",
+    "Canada"
+  ],
+  "questions": [
+    "Quels engagements ?",
+    "Quel communiqué final ?",
+    "Quels désaccords ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#G7",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

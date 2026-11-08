@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (l'audit des mots de passe) : Outil de récupération de mots de passe très rapide, qui exploite les GPU.",
+  "id": "cyber-hashcat",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Hashcat",
+  "entityType": "SOFTWARE",
+  "description": "Outil de récupération de mots de passe très rapide, qui exploite les GPU.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé Hashcat avec d'autres outils de l'audit des mots de passe.",
+    "Hashcat figure parmi les logiciels marquants de l'audit des mots de passe.",
+    "En atelier, les élèves ont découvert Hashcat et son fonctionnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Hashcat"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#AUDITMOTSPASSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Hashcat"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "SHA-1",
+    "Kali Linux"
+  ],
+  "isDeleted": false,
+  "startDate": "2009-01-01T00:00:00",
+  "endDate": null
+}

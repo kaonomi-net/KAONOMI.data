@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-rencontre-entre-poutine-et-zelensky",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Rencontre entre Poutine et Zelensky",
+  "includedEntities": [
+    {
+      "entityName": "Poutine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Zelensky",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "rencontre",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Repérer toute perspective de rencontre directe entre les deux présidents.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "médiateurs",
+    "Turquie",
+    "États-Unis"
+  ],
+  "questions": [
+    "Une rencontre est-elle envisagée ?",
+    "Quelles conditions préalables ?",
+    "Où se tiendrait-elle ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#UKRAINE",
+    "#NEGOCIATIONS"
+  ],
+  "events": [
+    "@RENCONTRE-DIRIGEANTS"
+  ],
+  "signals": [
+    "!DESESCALADE"
+  ],
+  "isDeleted": false
+}

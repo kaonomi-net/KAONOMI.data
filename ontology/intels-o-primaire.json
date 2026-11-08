@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-primaire",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "primaire",
+  "entityType": "DOMAIN",
+  "description": "Cité par 6 intels : Primaire de la gauche ; Primaire ou désignation à droite ; Parti socialiste et la présidentielle ; Les Écologistes et Marine Tondelier ; François Ruffin ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'organisation et les résultats d'une primaire à gauche.",
+    "Suivre le mode de désignation d'un candidat de la droite et du centre.",
+    "Suivre la stratégie du Parti socialiste pour 2027."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "primaire",
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#GAUCHE",
+    "#DROITE",
+    "#PS",
+    "#ECOLOGISTES"
+  ],
+  "events": [
+    "@PRIMAIRE"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "gauche",
+    "LFI",
+    "PS",
+    "écologistes",
+    "droite",
+    "LR",
+    "sondages",
+    "désignation",
+    "Horizons",
+    "Glucksmann"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

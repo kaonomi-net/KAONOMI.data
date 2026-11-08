@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la politique économique) : Programme de garantie destiné à mobiliser l'investissement privé et public.",
+  "id": "eu-prog-investeu",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "InvestEU",
+  "entityType": "PROGRAMME",
+  "description": "Programme de garantie destiné à mobiliser l'investissement privé et public.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Le bilan de « InvestEU » a été présenté au Parlement européen.",
+    "« InvestEU » finance des projets dans la politique économique.",
+    "Le projet a reçu un financement de « InvestEU »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=InvestEU"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale des affaires économiques et financières",
+    "Économie",
+    "PME et startups"
+  ],
+  "isDeleted": false,
+  "startDate": "2021-03-24T00:00:00",
+  "endDate": "2027-12-31T00:00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-alphabet-et-google",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Alphabet et Google",
+  "includedEntities": [
+    {
+      "entityName": "Alphabet",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Google",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Alphabet.",
+  "isFuzzy": false,
+  "locations": [
+    "Mountain View"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Gemini",
+    "cloud",
+    "antitrust"
+  ],
+  "questions": [
+    "Quelle croissance ?",
+    "Quel effet de l'IA sur la recherche ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#IA",
+    "#ALPHABET"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

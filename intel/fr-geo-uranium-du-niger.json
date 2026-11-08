@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-uranium-du-niger",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Uranium du Niger",
+  "includedEntities": [
+    {
+      "entityName": "Niger",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "uranium",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre le contrôle de l'uranium nigérien après le changement de régime.",
+  "isFuzzy": true,
+  "locations": [
+    "Arlit",
+    "Niamey"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Orano",
+    "France",
+    "Russie"
+  ],
+  "questions": [
+    "Qui exploite les mines ?",
+    "Quels contrats ?",
+    "Quel impact sur l'approvisionnement européen ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#NIGER",
+    "#URANIUM",
+    "#ENERGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE-APPROVISIONNEMENT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-epuisement-parental",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Épuisement parental",
+  "includedEntities": [
+    {
+      "entityName": "épuisement parental",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "burn-out parental",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le burn-out parental.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "familles",
+    "Isabelle Roskam",
+    "soutien"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel constat ?",
+    "Quelle aide ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PARENTALITE",
+    "#BURN-OUT"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

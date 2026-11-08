@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-successeur",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "successeur",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Fin du second mandat d'Emmanuel Macron ; Successeur souhaité par Macron ; Départ anticipé de Christine Lagarde.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les derniers mois du mandat et la question du bilan.",
+    "Suivre les signaux du président sur sa succession.",
+    "Suivre le départ de Christine Lagarde de la BCE, prévu le 7 février 2027."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "successeur",
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#BILAN",
+    "#PRESIDENTIELLE-2027",
+    "#BCE",
+    "#LAGARDE"
+  ],
+  "events": [
+    "@DEPART"
+  ],
+  "signals": [
+    "!TRANSITION",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Élysée",
+    "Emmanuel Macron",
+    "fin de mandat",
+    "héritage",
+    "réformes",
+    "bilan",
+    "Attal",
+    "Philippe",
+    "soutien",
+    "Lecornu"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

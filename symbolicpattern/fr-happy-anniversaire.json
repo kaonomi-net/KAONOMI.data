@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-anniversaire",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le jour où l'on fête sa naissance.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:anniversaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:joyeux\\s+anniversaire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bon\\s+anniversaire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bougie(s)?\\s+d['’]anniversaire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souffler\\s+(les|ses)\\s+bougies)(?![\\w-])"
+  ],
+  "symbol": "anniversaire",
+  "event": null,
+  "title": "Anniversaire",
+  "tags": [
+    "#FETE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

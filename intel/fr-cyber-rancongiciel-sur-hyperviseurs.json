@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-rancongiciel-sur-hyperviseurs",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Rançongiciel sur hyperviseurs",
+  "includedEntities": [
+    {
+      "entityName": "hyperviseur",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "VMware ESXi",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les rançongiciels visant les hyperviseurs et la virtualisation.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ESXi",
+    "machines virtuelles",
+    "sauvegardes"
+  ],
+  "questions": [
+    "Quel groupe ?",
+    "Quelle vulnérabilité ?",
+    "Quelles parades ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#VIRTUALISATION"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

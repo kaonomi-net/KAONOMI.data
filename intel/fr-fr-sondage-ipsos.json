@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-sondage-ipsos",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Sondage Ipsos",
+  "includedEntities": [
+    {
+      "entityName": "Ipsos",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sondage",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les sondages Ipsos sur l'élection.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "enquête électorale",
+    "participation",
+    "intentions"
+  ],
+  "questions": [
+    "Quels scores ?",
+    "Quelle participation ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SONDAGES"
+  ],
+  "events": [
+    "@SONDAGE"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

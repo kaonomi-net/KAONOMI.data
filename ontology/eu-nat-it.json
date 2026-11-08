@@ -1,0 +1,59 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Nationalité de l'Union européenne (la citoyenneté européenne) : Nationalité des citoyens de ce pays : Italie.",
+  "id": "eu-nat-it",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "nationalité italienne",
+  "entityType": "NORP",
+  "description": "Nationalité des citoyens de ce pays : Italie. Les ressortissants sont appelés italiens.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-nationalites",
+  "sentencesExemples": [
+    "Le collège compte un membre de nationalité italienne.",
+    "Plusieurs commissaires ont la nationalité italienne.",
+    "Les fonctionnaires européens de nationalité italienne travaillent dans toutes les directions générales."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDEAA",
+  "synonyms": [
+    "italien",
+    "italienne"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#NORP",
+    "#CITOYENNETEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=nationalit%C3%A9%20italienne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Italie",
+    "Paolo Gentiloni",
+    "Raffaele Fitto",
+    "Federica Mogherini",
+    "Romano Prodi",
+    "Franco Maria Malfatti",
+    "David Sassoli",
+    "Antonio Tajani",
+    "Mario Draghi",
+    "Enrico Letta"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

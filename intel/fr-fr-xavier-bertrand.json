@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-xavier-bertrand",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Xavier Bertrand",
+  "includedEntities": [
+    {
+      "entityName": "Xavier Bertrand",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Hauts-de-France",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de Xavier Bertrand à droite.",
+  "isFuzzy": true,
+  "locations": [
+    "Hauts-de-France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "LR",
+    "candidature",
+    "RN"
+  ],
+  "questions": [
+    "Quelle ambition ?",
+    "Quel soutien ?",
+    "Quelle position ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DROITE",
+    "#CANDIDATS"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-wiz-et-google",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Wiz et Google",
+  "includedEntities": [
+    {
+      "entityName": "Wiz",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Google",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'intégration de Wiz par Google.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "sécurité du cloud",
+    "acquisition",
+    "concurrence"
+  ],
+  "questions": [
+    "Quelle étape ?",
+    "Quel effet sur le marché ?",
+    "Quelle autorisation ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ENTREPRISES",
+    "#CLOUD"
+  ],
+  "events": [],
+  "signals": [
+    "!CONSOLIDATION"
+  ],
+  "isDeleted": false
+}

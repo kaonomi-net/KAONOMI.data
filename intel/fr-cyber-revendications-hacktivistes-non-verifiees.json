@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-revendications-hacktivistes-non-verifiees",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Revendications hacktivistes non vérifiées",
+  "includedEntities": [
+    {
+      "entityName": "revendication",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "non vérifiée",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Distinguer les revendications hacktivistes des incidents réels.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Telegram",
+    "exagération",
+    "désinformation"
+  ],
+  "questions": [
+    "Quelle revendication ?",
+    "Est-elle confirmée ?",
+    "Quel impact réel ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#HACKTIVISME",
+    "#VERIFICATION"
+  ],
+  "events": [],
+  "signals": [
+    "!VERIFICATION"
+  ],
+  "isDeleted": false
+}

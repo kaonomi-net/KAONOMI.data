@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-gouverneur",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "gouverneur",
+  "entityType": "PROFESSION",
+  "description": "Cité par 3 intels : Gouverneurs et régions russes ; Banque de France et la dette ; Banque de France.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les nominations, démissions et arrestations de gouverneurs.",
+    "Suivre les alertes de la Banque de France sur la dette.",
+    "Suivre les analyses de la Banque de France sur l'économie et la dette."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "gouverneur",
+  "tags": [
+    "#FRANCE",
+    "#RUSSIE",
+    "#REGIONS",
+    "#POUVOIR",
+    "#DETTE",
+    "#BANQUE-DE-FRANCE"
+  ],
+  "events": [
+    "@NOMINATION",
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!GOUVERNANCE",
+    "!RISQUE",
+    "!ECONOMIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "dette",
+    "croissance",
+    "Banque de France",
+    "François Villeroy de Galhau",
+    "Kremlin",
+    "région",
+    "régions russes",
+    "corruption",
+    "élections"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

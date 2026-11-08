@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-ingerence-russe-dans-les-elections-europeennes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Ingérence russe dans les élections européennes",
+  "includedEntities": [
+    {
+      "entityName": "ingérence",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "élections",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller l'ingérence russe dans les scrutins européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Roumanie",
+    "Moldavie",
+    "Allemagne"
+  ],
+  "times": [
+    "périodes électorales"
+  ],
+  "relatedEntities": [
+    "TikTok",
+    "financements",
+    "candidats"
+  ],
+  "questions": [
+    "Quel scrutin ?",
+    "Quels moyens ?",
+    "Quelles sanctions ?"
+  ],
+  "tags": [
+    "#EUROPE",
+    "#INGERENCE",
+    "#ELECTIONS"
+  ],
+  "events": [
+    "@INGERENCE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

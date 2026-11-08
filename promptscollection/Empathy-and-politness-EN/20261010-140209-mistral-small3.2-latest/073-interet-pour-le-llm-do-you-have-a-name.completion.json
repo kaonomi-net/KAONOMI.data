@@ -1,0 +1,13 @@
+{
+  "index": 73,
+  "file": "073-interet-pour-le-llm-do-you-have-a-name.prompt.json",
+  "prompt": "Do you have a name?",
+  "promptWords": 5,
+  "completion": "I don't have a name. You can call me \"Assistant\" if you'd like! How can I help you today?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:04:46.5482976+02:00",
+  "durationSeconds": 0.8,
+  "stats": "mistral-small3.2:latest · 513 + 27 tokens · 0,8 s",
+  "isError": false,
+  "language": "EN"
+}

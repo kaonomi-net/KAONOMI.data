@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les assistants vocaux) : Assistant vocal d'Apple, intégré à l'iPhone 4S en 2011, issu d'un projet du SRI.",
+  "id": "ia-siri",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "Siri",
+  "entityType": "SOFTWARE",
+  "description": "Assistant vocal d'Apple, intégré à l'iPhone 4S en 2011, issu d'un projet du SRI.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "Les historiens de l'informatique considèrent Siri comme une étape des assistants vocaux.",
+    "Le chercheur cite Siri dans son article sur les assistants vocaux.",
+    "Le développeur a utilisé Siri pour son projet."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Siri d'Apple"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#ASSISTANTSVOCAUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Siri"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Modèle de Markov caché"
+  ],
+  "isDeleted": false,
+  "startDate": "2011-01-01T00:00:00",
+  "endDate": null
+}

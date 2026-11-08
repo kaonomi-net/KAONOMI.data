@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-missiles-tomahawk-pour-l-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Missiles Tomahawk pour l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "Tomahawk",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "missiles",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur la fourniture de missiles Tomahawk à l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Trump",
+    "Kremlin",
+    "longue portée"
+  ],
+  "questions": [
+    "Une livraison est-elle décidée ?",
+    "Quelle réaction russe ?",
+    "Quelles conditions ?"
+  ],
+  "tags": [
+    "#ETATS-UNIS",
+    "#MISSILES",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@DECISION"
+  ],
+  "signals": [
+    "!ESCALADE"
+  ],
+  "isDeleted": false
+}

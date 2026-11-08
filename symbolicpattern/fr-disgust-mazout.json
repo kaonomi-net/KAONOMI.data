@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-mazout",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le pétrole qui souille les côtes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:mazout(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mazout[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:galette(s)?\\s+de\\s+goudron)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nappe(s)?\\s+de\\s+p[ée]trole)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]trole\\s+sur\\s+la\\s+plage)(?![\\w-])"
+  ],
+  "symbol": "mazout",
+  "event": null,
+  "title": "Mazout",
+  "tags": [
+    "#DISGUST",
+    "#INSALUBRITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

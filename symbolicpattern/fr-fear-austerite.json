@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-austerite",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La politique de restriction des dépenses.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:aust[ée]rit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cure\\s+d['’]aust[ée]rit[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coupe(s)?\\s+budg[ée]taire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rigueur\\s+budg[ée]taire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tour\\s+de\\s+vis)(?![\\w-])"
+  ],
+  "symbol": "austérité",
+  "event": null,
+  "title": "Austérité",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

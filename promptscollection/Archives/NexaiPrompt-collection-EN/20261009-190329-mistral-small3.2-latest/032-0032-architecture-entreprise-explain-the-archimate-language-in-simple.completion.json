@@ -1,0 +1,13 @@
+{
+  "index": 32,
+  "file": "0032-architecture-entreprise-explain-the-archimate-language-in-simple.prompt.json",
+  "prompt": "Explain the ArchiMate language in simple terms.",
+  "promptWords": 7,
+  "completion": "The ArchiMate language is a visual modeling language used to describe and analyze the structure and behavior of an organization's architecture. It helps businesses and IT professionals understand how different parts of an organization work together. Here’s a simple breakdown:\n\n1. **Purpose**: ArchiMate is used to create clear and consistent diagrams that show how business processes, IT systems, and other components interact. It’s like a blueprint for an organization’s architecture.\n\n2. **Layers**: It organizes information into three main layers:\n   - **Business Layer**: Describes the business services, processes, and actors (like employees or customers).\n   - **Application Layer**: Shows the software applications and their interactions.\n   - **Technology Layer**: Covers the hardware, networks, and other technology infrastructure.\n\n3. **Viewpoints**: It provides different perspectives (viewpoints) to focus on specific aspects, such as motivation (goals and strategies), business processes, application functions, or technology infrastructure.\n\n4. **Relationships**: ArchiMate uses lines and arrows to show how elements in different layers are connected, helping to identify dependencies and interactions.\n\n5. **Standardized**: It’s an open standard, meaning it’s widely recognized and can be used across different organizations and tools.\n\nIn short, ArchiMate helps organizations visualize and improve their architecture by making complex systems easier to understand and manage.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:09:49.121343+02:00",
+  "durationSeconds": 6.71,
+  "stats": "mistral-small3.2:latest · 518 + 280 tokens · 6,7 s",
+  "isError": false,
+  "language": "EN"
+}

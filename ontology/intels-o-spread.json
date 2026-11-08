@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-spread",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "spread",
+  "entityType": "DOMAIN",
+  "description": "Cité par 8 intels : Écart de taux avec l'Allemagne ; Crise de la dette en France ; Comparaison avec l'Italie ; Instrument anti-fragmentation de la BCE ; Écart de taux entre la France et l'Allemagne ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'écart entre les taux français et allemands.",
+    "Surveiller les signes d'une crise de confiance sur la dette française.",
+    "Suivre les comparaisons entre les finances françaises et italiennes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 12,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "spread",
+  "tags": [
+    "#DETTE",
+    "#FRANCE",
+    "#OBLIGATIONS",
+    "#BOURSE",
+    "#BANQUES",
+    "#MARCHES"
+  ],
+  "events": [
+    "@ALERTE-MARCHE"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!INDICATEUR",
+    "!FEAR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "notation",
+    "Italie",
+    "OAT",
+    "Bund",
+    "marchés",
+    "Meloni",
+    "dette",
+    "Francfort",
+    "BCE",
+    "Paris"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

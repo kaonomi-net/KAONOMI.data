@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (l'apprentissage par renforcement) : Algorithme d'apprentissage par renforcement sans modèle qui apprend la valeur des couples état-action, proposé par Chris Watkins.",
+  "id": "ia-q-learning",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Q-learning",
+  "entityType": "ALGORITHM",
+  "description": "Algorithme d'apprentissage par renforcement sans modèle qui apprend la valeur des couples état-action, proposé par Chris Watkins.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "La chercheuse a présenté une variante de Q-learning lors du séminaire.",
+    "Q-learning est enseigné dans tous les cours consacrés à l'apprentissage par renforcement.",
+    "Le notebook compare Q-learning aux autres méthodes de l'apprentissage par renforcement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "apprentissage Q"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#APPRENTISSAGEPARRENFORCEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Q-learning"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Apprentissage par différence temporelle",
+    "OpenAI Gym"
+  ],
+  "isDeleted": false,
+  "startDate": "1989-01-01T00:00:00",
+  "endDate": null
+}

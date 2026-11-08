@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-soc",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "SOC",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : IA dans les centres de sécurité ; Fournisseurs de services managés ; Détection et réponse EDR ; Centre opérationnel de sécurité.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'usage de l'IA par les équipes de défense.",
+    "Suivre les prestataires de sécurité managée.",
+    "Suivre les outils de détection et de réponse sur les postes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "SOC",
+  "tags": [
+    "#CYBERSECURITE",
+    "#SOC",
+    "#DEFENSE",
+    "#IA",
+    "#SERVICES",
+    "#EDR"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "automatisation",
+    "détection",
+    "analystes",
+    "triage",
+    "IA",
+    "SOC externalisé",
+    "MSSP",
+    "MDR",
+    "PME",
+    "services managés"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

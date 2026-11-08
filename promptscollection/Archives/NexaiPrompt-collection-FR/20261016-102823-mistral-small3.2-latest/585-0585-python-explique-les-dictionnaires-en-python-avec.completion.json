@@ -1,0 +1,13 @@
+{
+  "index": 585,
+  "file": "0585-python-explique-les-dictionnaires-en-python-avec.prompt.json",
+  "prompt": "Explique les dictionnaires en Python avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "En Python, un dictionnaire (ou `dict` en anglais) est une structure de données qui permet de stocker des paires clé-valeur. Les clés doivent être uniques et de type immuable (comme les chaînes de caractères, les nombres ou les tuples), tandis que les valeurs peuvent être de n'importe quel type.\n\n### Exemple simple d'utilisation d'un dictionnaire :\n\n```python\n# Création d'un dictionnaire\npersonne = {\n    \"nom\": \"Dupont\",\n    \"âge\": 30,\n    \"ville\": \"Paris\",\n    \"profession\": \"Ingénieur\"\n}\n\n# Accès aux valeurs via les clés\nprint(personne[\"nom\"])  # Affiche \"Dupont\"\nprint(personne[\"âge\"])   # Affiche 30\n\n# Ajout ou modification d'une paire clé-valeur\npersonne[\"âge\"] = 31     # Modifie la valeur de la clé \"âge\"\npersonne[\"pays\"] = \"France\"  # Ajoute une nouvelle paire clé-valeur\n\n# Suppression d'une paire clé-valeur\ndel personne[\"profession\"]\n\n# Parcours du dictionnaire\nfor clé, valeur in personne.items():\n    print(f\"{clé}: {valeur}\")\n```\n\n### Explication du code :\n1. **Création du dictionnaire** : On définit un dictionnaire `personne` avec des clés comme `\"nom\"`, `\"âge\"`, etc., et leurs valeurs associées.\n2. **Accès aux valeurs** : On utilise la syntaxe `dictionnaire[clé]` pour récupérer la valeur associée à une clé.\n3. **Modification et ajout** : On peut modifier une valeur existante ou ajouter une nouvelle paire clé-valeur.\n4. **Suppression** : La commande `del dictionnaire[clé]` permet de supprimer une paire clé-valeur.\n5. **Parcours du dictionnaire** : La méthode `.items()` permet de parcourir toutes les paires clé-valeur du dictionnaire.\n\nLes dictionnaires sont très utiles pour organiser des données de manière flexible et efficace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:22:47.41991+02:00",
+  "durationSeconds": 8.66,
+  "stats": "mistral-small3.2:latest · 519 + 437 tokens · 8,7 s",
+  "isError": false,
+  "language": "FR"
+}

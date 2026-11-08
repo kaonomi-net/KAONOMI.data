@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-vinci",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Vinci",
+  "includedEntities": [
+    {
+      "entityName": "Vinci",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "concessions",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [
+    {
+      "entityName": "Léonard",
+      "entityWeight": ""
+    }
+  ],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Vinci, ses autoroutes et ses aéroports.",
+  "isFuzzy": false,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "aéroports",
+    "autoroutes",
+    "construction"
+  ],
+  "questions": [
+    "Quel trafic ?",
+    "Quel contrat ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#CONCESSIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

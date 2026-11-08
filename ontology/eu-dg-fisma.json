@@ -1,0 +1,61 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les services financiers) : Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux (DG FISMA), service de la Commission européenne compétent pour les services financiers, l'union des marchés des capitaux, placé sous l'autorité de Maria Luís Albuquerque dans la Commission von der Leyen II.",
+  "id": "eu-dg-fisma",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux (DG FISMA), service de la Commission européenne compétent pour les services financiers, l'union des marchés des capitaux, placé sous l'autorité de Maria Luís Albuquerque dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Les décisions de « Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux » touchent les services financiers.",
+    "Le rapport annuel de « Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG FISMA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#SERVICESFINANCIERS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20la%20stabilit%C3%A9%20financi%C3%A8re%2C%20des%20services%20financiers%20et%20de%20l%27union%20des%20march%C3%A9s%20des%20capitaux"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Maria Luís Albuquerque",
+    "Services financiers",
+    "Union de l'épargne et des investissements",
+    "Autorité bancaire européenne (ABE)",
+    "Autorité européenne des marchés financiers (AEMF)",
+    "Autorité européenne des assurances et des pensions professionnelles (AEAPP)",
+    "Conseil de résolution unique (CRU)",
+    "Autorité de lutte contre le blanchiment de capitaux (AMLA)",
+    "Règlement sur la résilience opérationnelle numérique du secteur financier",
+    "Directive sur la publication d'informations en matière de durabilité",
+    "Règlement sur les marchés de crypto-actifs",
+    "Règlement instituant l'Autorité de lutte contre le blanchiment"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

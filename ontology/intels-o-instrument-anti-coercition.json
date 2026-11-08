@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-instrument-anti-coercition",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "instrument anti-coercition",
+  "entityType": "LAW",
+  "description": "Cité par 1 intel : Instrument anti-coercition.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Surveiller l'usage de l'instrument européen contre la coercition économique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "instrument anti-coercition",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#ANTI-COERCITION"
+  ],
+  "events": [
+    "@DECISION-UE"
+  ],
+  "signals": [
+    "!TENSION-COMMERCIALE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "riposte",
+    "sanctions",
+    "Chine",
+    "Bruxelles",
+    "États-Unis"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

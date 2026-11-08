@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-position-de-la-gauche-sur-les-retraites",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Position de la gauche sur les retraites",
+  "includedEntities": [
+    {
+      "entityName": "gauche",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "retraites",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "abrogation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les propositions de la gauche sur la réforme des retraites.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "62 ans",
+    "financement",
+    "syndicats"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quel coût ?",
+    "Quelle position commune ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#GAUCHE",
+    "#RETRAITES"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

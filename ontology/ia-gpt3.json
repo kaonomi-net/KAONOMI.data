@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les modèles de langage) : Grand modèle de langage autorégressif d'OpenAI de 175 milliards de paramètres.",
+  "id": "ia-gpt3",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "GPT-3",
+  "entityType": "SOFTWARE",
+  "description": "Grand modèle de langage autorégressif d'OpenAI de 175 milliards de paramètres.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "Le chercheur cite GPT-3 dans son article sur les modèles de langage.",
+    "Le développeur a utilisé GPT-3 pour son projet.",
+    "Les historiens de l'informatique considèrent GPT-3 comme une étape des modèles de langage."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Generative Pre-trained Transformer 3"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#MODELESLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=GPT-3"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Transformeur",
+    "ChatGPT",
+    "Annonce de GPT-3"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-01-01T00:00:00",
+  "endDate": null
+}

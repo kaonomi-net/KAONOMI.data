@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ville de l'Union européenne (la géographie européenne) : Amsterdam, capitale de ce pays : Pays-Bas.",
+  "id": "eu-ville-amsterdam",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "Amsterdam",
+  "entityType": "CITY",
+  "description": "Amsterdam, capitale de ce pays : Pays-Bas.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-villes",
+  "sentencesExemples": [
+    "La délégation s'est rendue à Amsterdam.",
+    "La réunion s'est tenue à Amsterdam.",
+    "Amsterdam apparaît sur la carte des implantations de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFD9",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#CITY",
+    "#GEOGRAPHIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Amsterdam"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pays-Bas",
+    "Agence européenne des médicaments (EMA)",
+    "Traité d'Amsterdam"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

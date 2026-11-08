@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-pedophilie",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les abus sexuels sur enfants.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:p[ée]dophilie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]dophile(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]docriminalit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]docriminel(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:abus\\s+sexuel(s)?\\s+sur\\s+mineur(s)?)(?![\\w-])"
+  ],
+  "symbol": "pédophilie",
+  "event": null,
+  "title": "Pédophilie",
+  "tags": [
+    "#DISGUST",
+    "#MORAL",
+    "#CRIME"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

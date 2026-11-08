@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-fetide",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui sent très mauvais.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:f[ée]tide(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:naus[ée]abond(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[ée]phitique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[âa]cre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:suffocant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "fétide",
+  "event": null,
+  "title": "Fétide",
+  "tags": [
+    "#DISGUST",
+    "#ODEUR"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

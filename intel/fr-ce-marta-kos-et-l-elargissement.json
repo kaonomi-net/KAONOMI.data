@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-marta-kos-et-l-elargissement",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Marta Kos et l'élargissement",
+  "includedEntities": [
+    {
+      "entityName": "Marta Kos",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "élargissement",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action de la commissaire à l'élargissement.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Balkans"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Ukraine",
+    "Moldavie",
+    "Monténégro"
+  ],
+  "questions": [
+    "Quel avancement ?",
+    "Quelle feuille de route ?",
+    "Quels blocages ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#KOS"
+  ],
+  "events": [],
+  "signals": [
+    "!ELARGISSEMENT"
+  ],
+  "isDeleted": false
+}

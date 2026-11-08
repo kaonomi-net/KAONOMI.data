@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la pêche) : Direction générale des affaires maritimes et de la pêche (DG MARE), service de la Commission européenne compétent pour la pêche, les océans, placé sous l'autorité de Costas Kadis dans la Commission von der Leyen II.",
+  "id": "eu-dg-mare",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale des affaires maritimes et de la pêche",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale des affaires maritimes et de la pêche (DG MARE), service de la Commission européenne compétent pour la pêche, les océans, placé sous l'autorité de Costas Kadis dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Direction générale des affaires maritimes et de la pêche » préparent les textes relatifs à la pêche.",
+    "La délégation a rencontré des représentants de « Direction générale des affaires maritimes et de la pêche ».",
+    "« Direction générale des affaires maritimes et de la pêche » joue un rôle dans la pêche."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG MARE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#PECHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20des%20affaires%20maritimes%20et%20de%20la%20p%C3%AAche"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Costas Kadis",
+    "Pêche",
+    "Océans et affaires maritimes",
+    "Agence européenne de contrôle des pêches (AECP)",
+    "Politique commune de la pêche",
+    "Fonds européen pour les affaires maritimes, la pêche et l'aquaculture"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

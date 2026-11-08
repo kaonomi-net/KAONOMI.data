@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'éducation) : Juriste, ancien ministre hongrois de la Justice puis des Affaires étrangères, commissaire à l'Éducation, à la Culture, à la Jeunesse et au Sport de 2014 à 2019.",
+  "id": "eu-p-navracsics",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Tibor Navracsics",
+  "entityType": "PERSON",
+  "description": "Juriste, ancien ministre hongrois de la Justice puis des Affaires étrangères, commissaire à l'Éducation, à la Culture, à la Jeunesse et au Sport de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Tibor Navracsics.",
+    "Les manuels sur les institutions européennes citent Tibor Navracsics.",
+    "Le portrait de Tibor Navracsics figure dans le dossier consacré à l'éducation."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Navracsics"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#EDUCATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Tibor%20Navracsics"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité hongroise",
+    "Fidesz",
+    "Juriste",
+    "Ministre de la Justice",
+    "Ministre des Affaires étrangères",
+    "Commissaire européen",
+    "Éducation, culture, jeunesse et sport (Commission Juncker)",
+    "Commission Juncker",
+    "Éducation",
+    "Culture",
+    "Jeunesse",
+    "Sport"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

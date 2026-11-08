@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-prime",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "prime",
+  "entityType": "PRODUCT",
+  "description": "Cité par 2 intels : Recrutement de soldats sous contrat ; Offre publique d'achat.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre le recrutement de volontaires et les primes d'engagement.",
+    "Repérer les offres publiques d'achat sur des sociétés cotées."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "prime",
+  "tags": [
+    "#RUSSIE",
+    "#ARMEE",
+    "#RECRUTEMENT",
+    "#BOURSE",
+    "#OPA"
+  ],
+  "events": [
+    "@OFFRE"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!OPERATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "contrat",
+    "recrutement",
+    "ministère de la Défense",
+    "régions russes",
+    "prisonniers",
+    "primes",
+    "Paris",
+    "régulateur",
+    "offre",
+    "OPA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

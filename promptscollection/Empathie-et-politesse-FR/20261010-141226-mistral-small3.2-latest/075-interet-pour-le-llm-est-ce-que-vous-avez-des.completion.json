@@ -1,0 +1,13 @@
+{
+  "index": 75,
+  "file": "075-interet-pour-le-llm-est-ce-que-vous-avez-des.prompt.json",
+  "prompt": "Est-ce que vous avez des amis ?",
+  "promptWords": 7,
+  "completion": "Non, je ne suis pas une personne, je suis un modèle de langage créé par Mistral AI. Je n'ai pas d'amis ni de sentiments. Cependant, je suis là pour vous aider avec vos questions et vos besoins ! Comment puis-je vous aider aujourd'hui ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:26.5264354+02:00",
+  "durationSeconds": 1.34,
+  "stats": "mistral-small3.2:latest · 515 + 56 tokens · 1,3 s",
+  "isError": false,
+  "language": "FR"
+}

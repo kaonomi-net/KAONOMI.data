@@ -1,0 +1,13 @@
+{
+  "index": 137,
+  "file": "0137-microsoft-office-comment-utiliser-la-fonction-concat-dans.prompt.json",
+  "prompt": "Comment utiliser la fonction CONCAT dans Excel ?",
+  "promptWords": 8,
+  "completion": "La fonction CONCAT dans Excel permet de combiner plusieurs chaînes de texte en une seule. Voici comment l'utiliser :\n\n### Syntaxe de la fonction CONCAT\n```excel\n=CONCAT(texte1, [texte2], ...)\n```\n\n### Paramètres\n- **texte1** : Le premier texte ou la première référence de cellule à combiner.\n- **[texte2], ...** : Les textes ou références de cellule supplémentaires à combiner (jusqu'à 253 arguments).\n\n### Exemple d'utilisation\nSupposons que vous avez les valeurs suivantes dans les cellules A1, A2 et A3 :\n- A1 : \"Bonjour\"\n- A2 : \" \"\n- A3 : \"le monde\"\n\nPour combiner ces valeurs en une seule chaîne de texte, vous pouvez utiliser la formule suivante :\n```excel\n=CONCAT(A1, A2, A3)\n```\n\nLe résultat sera : \"Bonjour le monde\"\n\n### Remarques\n- La fonction CONCAT est disponible dans les versions récentes d'Excel (2016 et ultérieures).\n- Si vous utilisez une version antérieure d'Excel, vous pouvez utiliser la fonction CONCATENER, qui a une syntaxe similaire :\n  ```excel\n  =CONCATENER(texte1, texte2, ...)\n  ```\n- Vous pouvez également combiner des textes statiques directement dans la fonction :\n  ```excel\n  =CONCAT(\"Bonjour\", \" \", \"le monde\")\n  ```\n\nSi vous avez besoin de plus d'informations ou d'exemples spécifiques, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:54:03.2911753+02:00",
+  "durationSeconds": 6.96,
+  "stats": "mistral-small3.2:latest · 516 + 338 tokens · 7,0 s",
+  "isError": false,
+  "language": "FR"
+}

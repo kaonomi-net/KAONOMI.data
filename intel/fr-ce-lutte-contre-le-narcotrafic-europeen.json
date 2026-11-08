@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-lutte-contre-le-narcotrafic-europeen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Lutte contre le narcotrafic européen",
+  "includedEntities": [
+    {
+      "entityName": "narcotrafic",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "ports",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la lutte européenne contre le trafic de drogue dans les ports.",
+  "isFuzzy": true,
+  "locations": [
+    "Anvers",
+    "Rotterdam",
+    "Le Havre"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "alliance des ports",
+    "cocaïne",
+    "criminalité"
+  ],
+  "questions": [
+    "Quelle saisie ?",
+    "Quelle mesure ?",
+    "Quelle coopération ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SECURITE",
+    "#NARCOTRAFIC"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

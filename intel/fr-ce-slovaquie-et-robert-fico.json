@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-slovaquie-et-robert-fico",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Slovaquie et Robert Fico",
+  "includedEntities": [
+    {
+      "entityName": "Slovaquie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Robert Fico",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la politique slovaque et ses tensions avec Bruxelles.",
+  "isFuzzy": true,
+  "locations": [
+    "Bratislava"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Russie",
+    "sanctions",
+    "État de droit"
+  ],
+  "questions": [
+    "Quelle tension ?",
+    "Quel veto ?",
+    "Quelle procédure ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SLOVAQUIE",
+    "#ETAT-DE-DROIT"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

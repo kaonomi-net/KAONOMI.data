@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la santé publique) : Règlement (UE) 2025/327.",
+  "id": "eu-pol-ehds",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Espace européen des données de santé",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2025/327.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "« Espace européen des données de santé » a fait l'objet de longues négociations.",
+    "Les entreprises doivent tenir compte de « Espace européen des données de santé ».",
+    "« Espace européen des données de santé » relève de la santé publique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "EHDS"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Espace%20europ%C3%A9en%20des%20donn%C3%A9es%20de%20sant%C3%A9"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Santé",
+    "Numérique",
+    "Direction générale de la santé et de la sécurité alimentaire",
+    "Commission von der Leyen II"
+  ],
+  "isDeleted": false,
+  "startDate": "2025-02-11T00:00:00",
+  "endDate": null
+}

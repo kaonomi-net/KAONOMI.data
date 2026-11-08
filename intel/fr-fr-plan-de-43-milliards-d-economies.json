@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-plan-de-43-milliards-d-economies",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Plan de 43 milliards d'économies",
+  "includedEntities": [
+    {
+      "entityName": "économies",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "43 milliards",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le plan d'économies d'environ 43 milliards d'euros du budget 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Bercy"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ministères",
+    "collectivités",
+    "Sécurité sociale"
+  ],
+  "questions": [
+    "Quelles économies ?",
+    "Qui est touché ?",
+    "Quelles économies sont abandonnées ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#ECONOMIES"
+  ],
+  "events": [],
+  "signals": [
+    "!BUDGET"
+  ],
+  "isDeleted": false
+}

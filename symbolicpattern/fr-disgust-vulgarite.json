@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-vulgarite",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le manque de délicatesse.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vulgarit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vulgaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grossi[èe]ret[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grossi(er|[èe]re|ers|[èe]res))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:trivial(e|es|aux)?)(?![\\w-])"
+  ],
+  "symbol": "vulgarité",
+  "event": null,
+  "title": "Vulgarité",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

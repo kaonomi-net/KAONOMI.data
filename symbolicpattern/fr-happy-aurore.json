@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-aurore",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La lumière qui précède le lever du soleil.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:aurore(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:aurore(s)?\\s+bor[ée]ale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lever\\s+de\\s+soleil)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:aube\\s+nouvelle)(?![\\w-])"
+  ],
+  "symbol": "aurore",
+  "event": null,
+  "title": "Aurore",
+  "tags": [
+    "#NATURE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 143,
+  "file": "0143-microsoft-office-how-do-i-create-slicers-to.prompt.json",
+  "prompt": "How do I create slicers to filter a pivot table in Excel?",
+  "promptWords": 12,
+  "completion": "Creating slicers to filter a pivot table in Excel is a straightforward process. Here’s a step-by-step guide:\n\n### Steps to Create Slicers for a Pivot Table:\n\n1. **Select the Pivot Table:**\n   - Click anywhere on the pivot table you want to filter.\n\n2. **Insert a Slicer:**\n   - Go to the **PivotTable Analyze** tab in the Excel ribbon.\n   - Click on **Insert Slicer** in the Filter group.\n\n3. **Choose Fields for the Slicer:**\n   - A dialog box will appear listing all the fields available in your pivot table data.\n   - Check the boxes next to the fields you want to create slicers for.\n   - Click **OK**.\n\n4. **Position the Slicer:**\n   - The slicer will appear on the worksheet. You can move it by dragging it to the desired location.\n\n5. **Filter the Pivot Table:**\n   - Click the items in the slicer to filter the pivot table. Multiple selections can be made by holding down the **Ctrl** key while clicking.\n\n6. **Customize the Slicer (Optional):**\n   - You can format the slicer by right-clicking on it and selecting **Slicer Settings** or **Slicer Styles**.\n   - To change the size or shape, click the slicer and use the handles to resize it.\n\n### Additional Tips:\n- **Multiple Slicers:** You can create multiple slicers for different fields to provide more filtering options.\n- **Clear Filters:** Click the funnel icon in the top right corner of the slicer to clear all filters.\n- **Connect Slicers to Multiple Pivot Tables:** Right-click the slicer, select **Slicer Settings**, and check the boxes for the pivot tables you want to connect it to.\n\nBy following these steps, you can easily create and use slicers to filter your pivot tables in Excel.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:29:55.5374793+02:00",
+  "durationSeconds": 10.25,
+  "stats": "mistral-small3.2:latest · 521 + 399 tokens · 10,3 s",
+  "isError": false,
+  "language": "EN"
+}

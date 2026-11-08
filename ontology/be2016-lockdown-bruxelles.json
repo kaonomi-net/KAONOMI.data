@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (la traque de la cellule) : L'OCAM relève la menace au niveau maximal à Bruxelles : métro, écoles et nombreux commerces restent fermés pendant plusieurs jours.",
+  "id": "be2016-lockdown-bruxelles",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Niveau de menace 4 à Bruxelles en novembre 2015",
+  "entityType": "EVENT",
+  "description": "L'OCAM relève la menace au niveau maximal à Bruxelles : métro, écoles et nombreux commerces restent fermés pendant plusieurs jours.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "Les enquêteurs et les historiens ont reconstitué le déroulement de « Niveau de menace 4 à Bruxelles en novembre 2015 ».",
+    "« Niveau de menace 4 à Bruxelles en novembre 2015 » figure dans la chronologie des attentats de 2016.",
+    "Les rapports officiels reviennent sur « Niveau de menace 4 à Bruxelles en novembre 2015 »."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 4,
+  "surpriseLevel": 3,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "lockdown de Bruxelles"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#TRAQUECELLULE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Niveau%20de%20menace%204%20%C3%A0%20Bruxelles%20en%20novembre%202015"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Attentats du 13 novembre 2015",
+    "OCAM",
+    "Échelle de la menace de l'OCAM"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-11-21T00:00:00",
+  "endDate": "2015-11-26T00:00:00"
+}

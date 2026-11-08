@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-assaillant",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Celui qui attaque.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:assaillant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:agresseur(s)?\\s+arm[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:forcen[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:individu(s)?\\s+arm[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tireur(s)?)(?![\\w-])"
+  ],
+  "symbol": "assaillant",
+  "event": null,
+  "title": "Assaillant",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

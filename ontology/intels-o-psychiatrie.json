@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-psychiatrie",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "psychiatrie",
+  "entityType": "DOMAIN",
+  "description": "Cité par 7 intels : Santé mentale grande cause ; Crise de la psychiatrie publique ; Zéro contention en psychiatrie ; Infirmiers en pratique avancée en psychiatrie ; Budget de la psychiatrie ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les politiques de santé mentale.",
+    "Suivre les difficultés de la psychiatrie publique.",
+    "Suivre l'objectif de zéro recours à la contention en psychiatrie d'ici 2030."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "psychiatrie",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PSYCHIATRIE",
+    "#FRANCE",
+    "#SANTE-MENTALE",
+    "#SANTE",
+    "#HOPITAL"
+  ],
+  "events": [
+    "@CONFERENCE"
+  ],
+  "signals": [
+    "!SOCIAL",
+    "!CRISE",
+    "!DROITS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "budget",
+    "santé mentale",
+    "jeunes",
+    "psychiatres",
+    "urgences",
+    "lits fermés",
+    "postes vacants",
+    "crise",
+    "hôpital"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

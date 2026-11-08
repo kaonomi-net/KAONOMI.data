@@ -1,0 +1,13 @@
+{
+  "index": 568,
+  "file": "0568-python-comment-lire-et-ecrire-un-fichier.prompt.json",
+  "prompt": "Comment lire et écrire un fichier en Python ?",
+  "promptWords": 9,
+  "completion": "Pour lire et écrire un fichier en Python, vous pouvez utiliser les fonctions intégrées de gestion des fichiers. Voici comment procéder :\n\n### 1. Lire un fichier\n\nPour lire le contenu d'un fichier, vous pouvez utiliser la fonction `open()` avec le mode `'r'` (lecture). Voici un exemple :\n\n```python\n# Ouvrir le fichier en mode lecture\nwith open('nom_du_fichier.txt', 'r') as fichier:\n    contenu = fichier.read()\n\n# Afficher le contenu du fichier\nprint(contenu)\n```\n\n### 2. Écrire dans un fichier\n\nPour écrire dans un fichier, vous pouvez utiliser la fonction `open()` avec le mode `'w'` (écriture). Si le fichier n'existe pas, il sera créé. Si le fichier existe déjà, son contenu sera écrasé. Voici un exemple :\n\n```python\n# Ouvrir le fichier en mode écriture\nwith open('nom_du_fichier.txt', 'w') as fichier:\n    fichier.write(\"Ceci est une ligne de texte.\")\n```\n\n### 3. Ajouter du texte à un fichier existant\n\nPour ajouter du texte à un fichier existant sans écraser son contenu, vous pouvez utiliser le mode `'a'` (ajout). Voici un exemple :\n\n```python\n# Ouvrir le fichier en mode ajout\nwith open('nom_du_fichier.txt', 'a') as fichier:\n    fichier.write(\"\\nCeci est une nouvelle ligne ajoutée.\")\n```\n\n### 4. Lire et écrire ligne par ligne\n\nVous pouvez également lire et écrire des fichiers ligne par ligne en utilisant une boucle `for`. Voici un exemple :\n\n```python\n# Lire un fichier ligne par ligne\nwith open('nom_du_fichier.txt', 'r') as fichier:\n    for ligne in fichier:\n        print(ligne.strip())  # strip() supprime les caractères de nouvelle ligne\n\n# Écrire dans un fichier ligne par ligne\nwith open('nom_du_fichier.txt', 'w') as fichier:\n    lignes = [\"Ligne 1\\n\", \"Ligne 2\\n\", \"Ligne 3\\n\"]\n    fichier.writelines(lignes)\n```\n\n### Remarques importantes\n\n- Utilisez toujours le contexte `with` pour ouvrir des fichiers, car cela garantit que le fichier est correctement fermé après son utilisation.\n- Assurez-vous que le fichier existe avant de le lire, ou gérez les exceptions avec un bloc `try-except`.\n\nSi vous avez besoin de plus d'informations ou d'exemples spécifiques, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:19:15.4459016+02:00",
+  "durationSeconds": 10.86,
+  "stats": "mistral-small3.2:latest · 516 + 552 tokens · 10,9 s",
+  "isError": false,
+  "language": "FR"
+}

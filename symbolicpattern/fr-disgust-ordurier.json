@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-ordurier",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Grossier jusqu'à l'obscénité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ordurier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:orduri[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:propos\\s+orduriers)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:insulte(s)?\\s+orduri[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:langage\\s+de\\s+charretier)(?![\\w-])"
+  ],
+  "symbol": "ordurier",
+  "event": null,
+  "title": "Ordurier",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-ratification-des-traites-d-adhesion",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Ratification des traités d'adhésion",
+  "includedEntities": [
+    {
+      "entityName": "ratification",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "traité d'adhésion",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la ratification des futurs traités d'adhésion par les États membres.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "2027"
+  ],
+  "relatedEntities": [
+    "parlements nationaux",
+    "référendums",
+    "Monténégro"
+  ],
+  "questions": [
+    "Quel traité ?",
+    "Quels pays ont ratifié ?",
+    "Quels risques de blocage ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#RATIFICATION"
+  ],
+  "events": [
+    "@RATIFICATION"
+  ],
+  "signals": [
+    "!ECHEANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ormuz",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "Ormuz",
+  "entityType": "LOCATION",
+  "description": "Cité par 5 intels : Détroit d'Ormuz ; Détroit d'Ormuz et marchés ; Désescalade avec l'Iran ; Prix du Brent ; Fret maritime.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Surveiller la sécurité du passage stratégique du détroit d'Ormuz.",
+    "Suivre l'effet du blocus iranien du détroit d'Ormuz sur les marchés.",
+    "Suivre les espoirs de désescalade avec l'Iran et leur effet sur les marchés."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Ormuz",
+  "tags": [
+    "#ENERGIE",
+    "#IRAN",
+    "#GEOPOLITIQUE",
+    "#BOURSE",
+    "#MARITIME",
+    "#PETROLE"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!PRIX",
+    "!RISQUE",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Iran",
+    "pétrole",
+    "détroit d'Ormuz",
+    "pétroliers",
+    "golfe Persique",
+    "marine américaine",
+    "transport maritime",
+    "inflation",
+    "négociations",
+    "désescalade"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

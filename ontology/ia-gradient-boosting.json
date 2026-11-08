@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (l'apprentissage d'ensemble) : Technique d'ensemble de Jerome Friedman qui ajoute des arbres successifs pour corriger les résidus des précédents ; base de XGBoost et LightGBM.",
+  "id": "ia-gradient-boosting",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Gradient boosting",
+  "entityType": "ALGORITHM",
+  "description": "Technique d'ensemble de Jerome Friedman qui ajoute des arbres successifs pour corriger les résidus des précédents ; base de XGBoost et LightGBM.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "La chercheuse a présenté une variante de Gradient boosting lors du séminaire.",
+    "Gradient boosting est enseigné dans tous les cours consacrés à l'apprentissage d'ensemble.",
+    "Le notebook compare Gradient boosting aux autres méthodes de l'apprentissage d'ensemble."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "boosting de gradient",
+    "GBM"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#APPRENTISSAGEENSEMBLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Gradient%20boosting"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Arbres de décision CART",
+    "AdaBoost"
+  ],
+  "isDeleted": false,
+  "startDate": "2001-01-01T00:00:00",
+  "endDate": null
+}

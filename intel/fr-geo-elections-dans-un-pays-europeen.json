@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-elections-dans-un-pays-europeen",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Élections dans un pays européen",
+  "includedEntities": [
+    {
+      "entityName": "élections",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Europe",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "gouvernement",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les élections nationales en Europe et la formation des gouvernements.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [
+    "jour du scrutin"
+  ],
+  "relatedEntities": [
+    "partis",
+    "coalition",
+    "Union européenne"
+  ],
+  "questions": [
+    "Quel résultat ?",
+    "Quelle coalition ?",
+    "Quelle orientation européenne ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#EUROPE",
+    "#ELECTIONS"
+  ],
+  "events": [
+    "@ELECTION"
+  ],
+  "signals": [
+    "!INCERTITUDE"
+  ],
+  "isDeleted": false
+}

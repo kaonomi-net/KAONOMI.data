@@ -1,0 +1,53 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-karol-nawrocki",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Karol Nawrocki",
+  "entityType": "PERSON",
+  "description": "Cité par 2 intels : Von der Leyen et la crise polonaise ; Crise constitutionnelle en Pologne.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre la position de la présidente dans le conflit entre le président polonais et le gouvernement de Donald Tusk.",
+    "Suivre le conflit entre le président Nawrocki et le gouvernement Tusk."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Karol Nawrocki",
+  "tags": [
+    "#POLOGNE",
+    "#ETAT-DE-DROIT",
+    "#COMMISSION-EUROPEENNE",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Donald Tusk",
+    "von der Leyen",
+    "Pologne",
+    "Varsovie",
+    "Tribunal constitutionnel",
+    "Nawrocki",
+    "crise constitutionnelle"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

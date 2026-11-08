@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-sondage-elabe",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Sondage Elabe",
+  "includedEntities": [
+    {
+      "entityName": "Elabe",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sondage",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les sondages Elabe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "BFMTV",
+    "intentions de vote",
+    "opinion"
+  ],
+  "questions": [
+    "Quels scores ?",
+    "Quelle évolution ?",
+    "Quels enseignements ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SONDAGES"
+  ],
+  "events": [
+    "@SONDAGE"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

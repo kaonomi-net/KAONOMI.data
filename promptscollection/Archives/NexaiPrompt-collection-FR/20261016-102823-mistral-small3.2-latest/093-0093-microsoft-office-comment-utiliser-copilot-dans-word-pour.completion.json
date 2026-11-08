@@ -1,0 +1,13 @@
+{
+  "index": 93,
+  "file": "0093-microsoft-office-comment-utiliser-copilot-dans-word-pour.prompt.json",
+  "prompt": "Comment utiliser Copilot dans Word pour rédiger un document ?",
+  "promptWords": 10,
+  "completion": "Pour utiliser Copilot dans Word et rédiger un document, voici les étapes générales à suivre :\n\n1. **Activer Copilot** :\n   - Assurez-vous que Copilot est activé dans votre version de Microsoft 365. Vous pouvez vérifier cela dans les paramètres de votre compte ou en contactant votre administrateur.\n\n2. **Ouvrir Word** :\n   - Lancez Microsoft Word et ouvrez un nouveau document ou un document existant que vous souhaitez modifier.\n\n3. **Accéder à Copilot** :\n   - Dans la barre de menu, cherchez l'icône ou l'onglet \"Copilot\". Cela peut être dans l'onglet \"Accueil\" ou \"Revue\".\n   - Cliquez sur l'icône Copilot pour ouvrir la fenêtre de chat ou l'interface de Copilot.\n\n4. **Poser des questions ou donner des instructions** :\n   - Dans la fenêtre de chat de Copilot, vous pouvez poser des questions ou donner des instructions pour aider à rédiger votre document. Par exemple, vous pouvez dire :\n     - \"Rédige une introduction sur [sujet].\"\n     - \"Ajoute une section sur [thème] avec des points clés.\"\n     - \"Corrige la grammaire et la syntaxe de ce paragraphe.\"\n\n5. **Utiliser les suggestions de Copilot** :\n   - Copilot peut générer des suggestions de texte, des idées, ou des corrections. Vous pouvez accepter, modifier ou rejeter ces suggestions selon vos besoins.\n\n6. **Collaborer avec Copilot** :\n   - Vous pouvez continuer à interagir avec Copilot pour affiner le contenu, ajouter des sections, ou obtenir des conseils sur la structure du document.\n\n7. **Enregistrer et partager** :\n   - Une fois votre document finalisé, enregistrez-le et partagez-le selon vos besoins.\n\nSi vous avez des questions spécifiques ou des étapes qui ne sont pas claires, n'hésitez pas à demander plus de détails !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:47:25.500724+02:00",
+  "durationSeconds": 8.7,
+  "stats": "mistral-small3.2:latest · 519 + 425 tokens · 8,7 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 63,
+  "file": "083-mathematiques-qu-est-ce-que-le-theoreme.prompt.json",
+  "prompt": "Qu'est-ce que le théorème de Pythagore ?",
+  "promptWords": 7,
+  "completion": "Le théorème de Pythagore est un principe fondamental en géométrie, qui s'applique aux triangles rectangles. Il établit une relation entre les longueurs des côtés d'un tel triangle. Voici sa formulation :\n\n**Dans un triangle rectangle, le carré de l'hypoténuse (le côté opposé à l'angle droit) est égal à la somme des carrés des deux autres côtés.**\n\nMathématiquement, cela s'exprime comme suit :\n\\[ c^2 = a^2 + b^2 \\]\noù :\n- \\( c \\) est la longueur de l'hypoténuse,\n- \\( a \\) et \\( b \\) sont les longueurs des deux autres côtés.\n\n### Exemple d'application :\nSi un triangle rectangle a des côtés de longueurs 3 et 4, alors la longueur de l'hypoténuse \\( c \\) est :\n\\[ c^2 = 3^2 + 4^2 = 9 + 16 = 25 \\]\n\\[ c = \\sqrt{25} = 5 \\]\n\nCe théorème est très utile dans de nombreux domaines, comme la physique, l'ingénierie, l'architecture et même la navigation.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:27:58.7913371+02:00",
+  "durationSeconds": 6.5,
+  "stats": "mistral-small3.2:latest · 519 + 247 tokens · 6,5 s",
+  "isError": false,
+  "language": "FR"
+}

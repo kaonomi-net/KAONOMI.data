@@ -1,0 +1,13 @@
+{
+  "index": 28,
+  "file": "048-intelligence-artificielle-qu-est-ce-qu-une-hallucination.prompt.json",
+  "prompt": "Qu'est-ce qu'une hallucination d'un modèle d'IA ?",
+  "promptWords": 7,
+  "completion": "Une hallucination d'un modèle d'IA est un phénomène où le modèle génère des informations, des réponses ou des contenus qui semblent plausibles ou cohérents, mais qui sont en réalité incorrects, inventés ou sans fondement dans les données sur lesquelles il a été entraîné.\n\n### Caractéristiques des hallucinations :\n1. **Faux faits** : Le modèle peut affirmer des choses qui ne sont pas vraies, comme des dates, des noms, des événements ou des concepts inexistants.\n2. **Incohérences** : Les réponses peuvent contenir des contradictions ou des éléments qui ne s'alignent pas avec la logique ou les connaissances établies.\n3. **Confiance excessive** : Le modèle peut présenter ces informations avec une assurance qui ne correspond pas à leur véracité.\n\n### Causes possibles :\n- **Limites des données d'entraînement** : Le modèle peut extrapoler à partir de données incomplètes ou biaisées.\n- **Complexité du langage** : Il peut mal interpréter des requêtes ambiguës ou complexes.\n- **Généralisation excessive** : Le modèle peut créer des réponses qui semblent logiques mais qui ne sont pas fondées sur des faits réels.\n\n### Exemple :\nSi vous demandez à un modèle d'IA : *\"Qui a écrit le livre 'Les Aventures de Tom Sawyer' ?\"*, une hallucination pourrait être : *\"Ce livre a été écrit par Jane Austen en 1850.\"* (Alors que c'est en réalité Mark Twain en 1876.)\n\nLes hallucinations sont un défi pour les modèles d'IA, et les chercheurs travaillent à les réduire en améliorant les techniques d'entraînement et en intégrant des mécanismes de vérification des faits.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:21:50.2115975+02:00",
+  "durationSeconds": 8.45,
+  "stats": "mistral-small3.2:latest · 521 + 366 tokens · 8,4 s",
+  "isError": false,
+  "language": "FR"
+}

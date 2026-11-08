@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-uranium",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "uranium",
+  "entityType": "MATERIAL",
+  "description": "Cité par 3 intels : Programme nucléaire iranien ; Uranium du Niger ; Uranium et nucléaire.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre le programme nucléaire iranien et les inspections.",
+    "Suivre le contrôle de l'uranium nigérien après le changement de régime.",
+    "Suivre le marché de l'uranium porté par le nucléaire et les centres de données."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "uranium",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#URANIUM",
+    "#IRAN",
+    "#NUCLEAIRE",
+    "#NIGER",
+    "#ENERGIE"
+  ],
+  "events": [
+    "@RAPPORT-AIEA"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!RISQUE-APPROVISIONNEMENT",
+    "!PRIX"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nucléaire",
+    "Orano",
+    "Iran",
+    "Natanz",
+    "Vienne",
+    "Fordo",
+    "enrichissement",
+    "AIEA",
+    "accord de Vienne",
+    "Niger"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

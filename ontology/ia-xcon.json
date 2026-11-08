@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les systèmes experts) : Système expert de Digital Equipment Corporation qui configurait les ordinateurs VAX, l'un des premiers succès commerciaux de l'IA.",
+  "id": "ia-xcon",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "XCON",
+  "entityType": "SOFTWARE",
+  "description": "Système expert de Digital Equipment Corporation qui configurait les ordinateurs VAX, l'un des premiers succès commerciaux de l'IA.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "Le développeur a utilisé XCON pour son projet.",
+    "Les historiens de l'informatique considèrent XCON comme une étape des systèmes experts.",
+    "Le chercheur cite XCON dans son article sur les systèmes experts."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "R1",
+    "eXpert CONfigurer"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#SYSTEMESEXPERTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=XCON"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "MYCIN",
+    "Cyc"
+  ],
+  "isDeleted": false,
+  "startDate": "1980-01-01T00:00:00",
+  "endDate": null
+}

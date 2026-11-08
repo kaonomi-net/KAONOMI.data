@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-delires-et-psychose-lies-a-l-ia",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Délires et psychose liés à l'IA",
+  "includedEntities": [
+    {
+      "entityName": "psychose",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "délire",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les cas de délires renforcés par des échanges avec une IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "complaisance",
+    "psychiatres",
+    "signalements"
+  ],
+  "questions": [
+    "Quel cas ?",
+    "Quelle analyse ?",
+    "Quelle mesure des éditeurs ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#IA",
+    "#PSYCHIATRIE"
+  ],
+  "events": [],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

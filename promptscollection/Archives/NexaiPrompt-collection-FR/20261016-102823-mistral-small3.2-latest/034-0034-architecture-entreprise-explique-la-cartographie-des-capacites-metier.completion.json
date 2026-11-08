@@ -1,0 +1,13 @@
+{
+  "index": 34,
+  "file": "0034-architecture-entreprise-explique-la-cartographie-des-capacites-metier.prompt.json",
+  "prompt": "Explique la cartographie des capacités métier de façon simple.",
+  "promptWords": 9,
+  "completion": "La cartographie des capacités métier est une méthode utilisée pour visualiser et organiser les différentes compétences et activités nécessaires pour qu'une entreprise ou une organisation fonctionne efficacement. Imaginez que vous avez une grande boîte remplie de pièces de puzzle. Chaque pièce représente une compétence ou une activité spécifique, comme la gestion des clients, la production de produits, la gestion des finances, etc.\n\nLa cartographie des capacités métier consiste à organiser ces pièces de puzzle de manière logique pour voir comment elles s'emboîtent les unes avec les autres. Cela permet de comprendre :\n1. **Quelles sont les compétences et activités clés** nécessaires pour atteindre les objectifs de l'entreprise.\n2. **Comment ces compétences et activités interagissent** entre elles.\n3. **Où se trouvent les forces et les faiblesses** dans l'organisation.\n\nEn résumé, c'est comme avoir une carte qui montre toutes les compétences et activités importantes de l'entreprise, ce qui aide à mieux les gérer et à les améliorer.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:35:53.1555456+02:00",
+  "durationSeconds": 4.19,
+  "stats": "mistral-small3.2:latest · 519 + 202 tokens · 4,2 s",
+  "isError": false,
+  "language": "FR"
+}

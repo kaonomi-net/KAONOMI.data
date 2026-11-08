@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-mobilisation-en-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Mobilisation en Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "mobilisation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "conscription",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la mobilisation et ses tensions dans la société ukrainienne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "centres de recrutement",
+    "âge de mobilisation",
+    "déserteurs"
+  ],
+  "questions": [
+    "Quelle nouvelle mesure ?",
+    "Quel âge ?",
+    "Quelles tensions ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#MOBILISATION",
+    "#ARMEE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

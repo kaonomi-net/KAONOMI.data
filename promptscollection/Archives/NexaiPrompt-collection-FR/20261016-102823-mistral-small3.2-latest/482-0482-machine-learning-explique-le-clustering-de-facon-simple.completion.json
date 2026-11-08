@@ -1,0 +1,13 @@
+{
+  "index": 482,
+  "file": "0482-machine-learning-explique-le-clustering-de-facon-simple.prompt.json",
+  "prompt": "Explique le clustering de façon simple.",
+  "promptWords": 6,
+  "completion": "Le clustering, ou regroupement en français, est une technique utilisée en analyse de données pour organiser des informations en groupes (ou \"clusters\") en fonction de leurs similitudes. Imagine que tu as un tas de fruits mélangés : pommes, bananes, oranges, etc. Le clustering va essayer de les regrouper automatiquement en fonction de leurs caractéristiques (couleur, taille, forme) sans que tu aies besoin de lui dire à l'avance quelles sont les catégories.\n\n### Exemple simple :\n- **Données** : Une liste de personnes avec leur âge et leur taille.\n- **Clustering** : L'algorithme va regrouper les personnes ayant des âges et tailles similaires (ex : un groupe d'enfants, un groupe d'adultes, un groupe de seniors).\n\n### À quoi ça sert ?\n- **Segmentation** : Par exemple, regrouper des clients par comportements d'achat.\n- **Découverte de motifs** : Trouver des tendances cachées dans les données.\n- **Réduction de complexité** : Simplifier l'analyse en réduisant le nombre de groupes à étudier.\n\n### Algorithmes courants :\n- **K-means** : Divise les données en K groupes en minimisant la distance entre les points et le centre du groupe.\n- **DBSCAN** : Détecte les groupes basés sur la densité des points.\n\nEn résumé, le clustering aide à structurer des données non étiquetées en groupes cohérents, ce qui est utile dans de nombreux domaines comme le marketing, la biologie ou la finance.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:53:26.5103311+02:00",
+  "durationSeconds": 6.89,
+  "stats": "mistral-small3.2:latest · 515 + 337 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-tenebres",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'obscurité profonde.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:t[ée]n[èe]bres)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:t[ée]n[ée]breu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:obscurit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nuit\\s+noire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sombre(s)?)(?![\\w-])"
+  ],
+  "symbol": "ténèbres",
+  "event": null,
+  "title": "Ténèbres",
+  "tags": [
+    "#SURNATUREL",
+    "#FEAR"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

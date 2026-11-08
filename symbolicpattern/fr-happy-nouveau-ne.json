@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-nouveau-ne",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'enfant qui vient de naître.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:nouveau-n[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nouveaux-n[ée]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nouvelle-n[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:petit\\s+dernier)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:petite\\s+derni[èe]re)(?![\\w-])"
+  ],
+  "symbol": "nouveau-né",
+  "event": null,
+  "title": "Nouveau-né",
+  "tags": [
+    "#NAISSANCE",
+    "#ENFANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

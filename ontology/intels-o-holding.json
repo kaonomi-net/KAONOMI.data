@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-holding",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "holding",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Groupe Bruxelles Lambert ; Sofina ; Ackermans & van Haaren.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre la holding GBL et ses participations.",
+    "Suivre la holding Sofina et ses participations dans la tech.",
+    "Suivre la holding Ackermans & van Haaren."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "holding",
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#HOLDINGS"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "décote",
+    "Bruxelles",
+    "cessions",
+    "GBL",
+    "famille Frère",
+    "capital-risque",
+    "valorisation",
+    "Sofina",
+    "Anvers",
+    "Ackermans"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

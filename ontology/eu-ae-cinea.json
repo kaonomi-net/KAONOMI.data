@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'action pour le climat) : Agence exécutive européenne pour le climat, les infrastructures et l'environnement, agence exécutive installée à Bruxelles qui gère des programmes pour la Commission.",
+  "id": "eu-ae-cinea",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence exécutive européenne pour le climat, les infrastructures et l'environnement (CINEA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence exécutive européenne pour le climat, les infrastructures et l'environnement, agence exécutive installée à Bruxelles qui gère des programmes pour la Commission.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences-executives",
+  "sentencesExemples": [
+    "Les décisions de « Agence exécutive européenne pour le climat, les infrastructures et l'environnement (CINEA) » touchent l'action pour le climat.",
+    "Le rapport annuel de « Agence exécutive européenne pour le climat, les infrastructures et l'environnement (CINEA) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Agence exécutive européenne pour le climat, les infrastructures et l'environnement (CINEA) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "CINEA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#ACTIONPOURCLIMAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20ex%C3%A9cutive%20europ%C3%A9enne%20pour%20le%20climat%2C%20les%20infrastructures%20et%20l%27environnement%20%28CINEA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de la mobilité et des transports",
+    "Bruxelles",
+    "Action pour le climat",
+    "Transports",
+    "Environnement",
+    "Mécanisme pour l'interconnexion en Europe",
+    "Programme LIFE"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

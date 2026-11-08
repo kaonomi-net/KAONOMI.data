@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-ia-dans-la-banque-et-la-finance",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "IA dans la banque et la finance",
+  "includedEntities": [
+    {
+      "entityName": "banque",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "finance",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage de l'IA dans les services financiers.",
+  "isFuzzy": true,
+  "locations": [
+    "La Défense",
+    "City de Londres"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "trading",
+    "fraude",
+    "crédit"
+  ],
+  "questions": [
+    "Quel usage ?",
+    "Quels risques ?",
+    "Quel contrôle des régulateurs ?"
+  ],
+  "tags": [
+    "#IA",
+    "#FINANCE",
+    "#BANQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!OPPORTUNITE"
+  ],
+  "isDeleted": false
+}

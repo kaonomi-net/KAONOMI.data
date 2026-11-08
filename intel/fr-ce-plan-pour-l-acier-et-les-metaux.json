@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-plan-pour-l-acier-et-les-metaux",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Plan pour l'acier et les métaux",
+  "includedEntities": [
+    {
+      "entityName": "acier",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "plan",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "métaux",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le plan d'action européen pour l'acier et les métaux.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "surcapacités",
+    "énergie",
+    "emplois"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quel effet ?",
+    "Quelles fermetures ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#INDUSTRIE",
+    "#ACIER"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

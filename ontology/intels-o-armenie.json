@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-armenie",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Arménie",
+  "entityType": "COUNTRY",
+  "description": "Cité par 3 intels : Contournement des sanctions par les pays tiers ; Arménie et Azerbaïdjan face à Moscou ; Arménie et rapprochement européen.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre les circuits de contournement des sanctions.",
+    "Suivre le recul de l'influence russe dans le Caucase du Sud.",
+    "Suivre le rapprochement de l'Arménie avec l'Union européenne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Arménie",
+  "tags": [
+    "#RUSSIE",
+    "#SANCTIONS",
+    "#CONTOURNEMENT",
+    "#CAUCASE",
+    "#INFLUENCE",
+    "#UNION-EUROPEENNE"
+  ],
+  "events": [],
+  "signals": [
+    "!CONTOURNEMENT",
+    "!INFLUENCE",
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Erevan",
+    "Pachinian",
+    "Russie",
+    "Kirghizstan",
+    "puces",
+    "réexportations",
+    "Émirats arabes unis",
+    "sanctions",
+    "biens à double usage",
+    "contournement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

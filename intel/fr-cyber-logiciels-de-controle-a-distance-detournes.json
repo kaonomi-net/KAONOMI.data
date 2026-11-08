@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-logiciels-de-controle-a-distance-detournes",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Logiciels de contrôle à distance détournés",
+  "includedEntities": [
+    {
+      "entityName": "contrôle à distance",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "AnyDesk",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "détourné",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le détournement d'outils d'accès à distance légitimes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ScreenConnect",
+    "TeamViewer",
+    "intrusions"
+  ],
+  "questions": [
+    "Quel outil ?",
+    "Quelle campagne ?",
+    "Quelle parade ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#INTRUSION"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

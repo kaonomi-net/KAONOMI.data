@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-donbass",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "Donbass",
+  "entityType": "LOCATION",
+  "description": "Cité par 6 intels : Concessions territoriales ; Bombes planantes russes ; Logistique et routes d'approvisionnement ; Mobilisation des troupes russes vers le Donbass ; Barrage et catastrophes environnementales ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre le débat sur d'éventuelles cessions de territoires dans un accord.",
+    "Surveiller l'usage massif des bombes planantes guidées.",
+    "Surveiller les menaces sur les routes d'approvisionnement du front."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Donbass",
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#FRONT",
+    "#TERRITOIRES",
+    "#ARMEMENT",
+    "#LOGISTIQUE"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!MENACE",
+    "!BLOCAGE",
+    "!VULNERABILITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Zaporijia",
+    "Kharkiv",
+    "drones",
+    "offensive",
+    "Kremlin",
+    "territoire",
+    "Crimée",
+    "concessions territoriales",
+    "Constitution ukrainienne",
+    "référendum"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

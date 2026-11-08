@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-contournement-des-garde-fous-de-l-ia",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Contournement des garde-fous de l'IA",
+  "includedEntities": [
+    {
+      "entityName": "jailbreak",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "garde-fous",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les techniques de contournement des protections des modèles d'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "modèles",
+    "refus",
+    "chercheurs"
+  ],
+  "questions": [
+    "Quelle technique ?",
+    "Quel modèle ?",
+    "Quel correctif ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#SECURITE-IA"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

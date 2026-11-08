@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-depenses",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "dépenses",
+  "entityType": "DOMAIN",
+  "description": "Cité par 10 intels : Sommet de l'OTAN et l'Ukraine ; Loi spéciale de fin d'année ; Projet de loi de finances pour 2027 ; Cour des comptes et finances publiques ; Loi de finances de fin de gestion 2026 ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les décisions de l'OTAN concernant l'Ukraine.",
+    "Surveiller l'adoption d'une loi spéciale faute de budget voté.",
+    "Suivre l'examen du projet de loi de finances pour 2027."
+  ],
+  "angryLevel": null,
+  "sadLevel": 10,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "dépenses",
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#PSYCHOLOGIE",
+    "#CONTROLE",
+    "#OTAN",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@RAPPORT",
+    "@SOMMET",
+    "@LOI-SPECIALE"
+  ],
+  "signals": [
+    "!BUDGET",
+    "!VERIFICATION",
+    "!ALLIANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement",
+    "recettes",
+    "rapport",
+    "Ukraine",
+    "sommet",
+    "OTAN",
+    "La Haye",
+    "adhésion",
+    "Bruxelles",
+    "Mark Rutte"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

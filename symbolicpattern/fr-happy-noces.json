@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-noces",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La fête du mariage.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:noce(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nuptial(e|es|aux)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lune\\s+de\\s+miel)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:voyage\\s+de\\s+noces)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:noces\\s+d['’]or)(?![\\w-])"
+  ],
+  "symbol": "noces",
+  "event": null,
+  "title": "Noces",
+  "tags": [
+    "#AMOUR",
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

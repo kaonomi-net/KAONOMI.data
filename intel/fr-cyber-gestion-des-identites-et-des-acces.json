@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-gestion-des-identites-et-des-acces",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Gestion des identités et des accès",
+  "includedEntities": [
+    {
+      "entityName": "gestion des identités",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "accès",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les pratiques de gestion des identités et des privilèges.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Active Directory",
+    "comptes à privilèges",
+    "moindre privilège"
+  ],
+  "questions": [
+    "Quelle pratique ?",
+    "Quel incident ?",
+    "Quel outil ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DEFENSE",
+    "#IDENTITES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 636,
+  "file": "0636-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre les fonctions lambda.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en Python qui illustre l'utilisation des fonctions lambda :\n\n```python\n# Exemple 1 : Fonction lambda simple pour additionner deux nombres\naddition = lambda x, y: x + y\nprint(addition(5, 3))  # Affiche 8\n\n# Exemple 2 : Utilisation d'une fonction lambda avec filter()\nnombres = [1, 2, 3, 4, 5, 6]\npairs = list(filter(lambda x: x % 2 == 0, nombres))\nprint(pairs)  # Affiche [2, 4, 6]\n\n# Exemple 3 : Utilisation d'une fonction lambda avec map()\ncarrés = list(map(lambda x: x ** 2, nombres))\nprint(carrés)  # Affiche [1, 4, 9, 16, 25, 36]\n\n# Exemple 4 : Utilisation d'une fonction lambda avec sorted()\npersonnes = [{'nom': 'Alice', 'âge': 25}, {'nom': 'Bob', 'âge': 20}, {'nom': 'Charlie', 'âge': 30}]\ntrié_par_âge = sorted(personnes, key=lambda x: x['âge'])\nprint(trié_par_âge)\n# Affiche [{'nom': 'Bob', 'âge': 20}, {'nom': 'Alice', 'âge': 25}, {'nom': 'Charlie', 'âge': 30}]\n```\n\nLes fonctions lambda en Python sont des fonctions anonymes définies avec le mot-clé `lambda`. Elles sont souvent utilisées pour des opérations simples et peuvent être passées comme arguments à d'autres fonctions comme `filter()`, `map()`, et `sorted()`.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:35:45.9867565+02:00",
+  "durationSeconds": 7.51,
+  "stats": "mistral-small3.2:latest · 522 + 377 tokens · 7,5 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-moisissure",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le champignon qui se forme sur ce qui pourrit.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:moisissure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:moisi(e|s|es|r)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:moisissant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:champignon(s)?\\s+noir(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:salp[êe]tre)(?![\\w-])"
+  ],
+  "symbol": "moisissure",
+  "event": null,
+  "title": "Moisissure",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

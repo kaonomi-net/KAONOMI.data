@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-pellicules",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les petites peaux mortes du cuir chevelu.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:pellicule(s)?\\s+(sur|dans)\\s+(les\\s+cheveux|le\\s+col)|pellicules)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cheveux\\s+gras)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cheveu(x)?\\s+dans\\s+la\\s+soupe)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tignasse\\s+sale)(?![\\w-])"
+  ],
+  "symbol": "pellicules",
+  "event": null,
+  "title": "Pellicules",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

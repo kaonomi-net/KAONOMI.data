@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-annexion",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'appropriation d'un territoire par la force.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:annexion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:annex(er|[ée]|[ée]e)|conqu[êe]te(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:expansionnisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vell[ée]it[ée]s\\s+territoriales)(?![\\w-])"
+  ],
+  "symbol": "annexion",
+  "event": null,
+  "title": "Annexion",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

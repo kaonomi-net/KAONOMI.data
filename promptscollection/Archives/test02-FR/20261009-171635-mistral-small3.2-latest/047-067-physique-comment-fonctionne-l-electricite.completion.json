@@ -1,0 +1,13 @@
+{
+  "index": 47,
+  "file": "067-physique-comment-fonctionne-l-electricite.prompt.json",
+  "prompt": "Comment fonctionne l'électricité ?",
+  "promptWords": 4,
+  "completion": "L'électricité est un phénomène physique lié aux charges électriques et à leur mouvement. Voici une explication simplifiée de son fonctionnement :\n\n### 1. **Nature de l'électricité**\nL'électricité est le flux de charges électriques, généralement des électrons, à travers un conducteur (comme un fil de cuivre). Ce flux crée un courant électrique.\n\n### 2. **Production de l'électricité**\nL'électricité est produite par la conversion d'autres formes d'énergie :\n- **Énergie mécanique** : Les centrales hydroélectriques, éoliennes et thermiques utilisent des turbines pour générer de l'électricité.\n- **Énergie chimique** : Les piles et batteries convertissent l'énergie chimique en électricité.\n- **Énergie solaire** : Les panneaux photovoltaïques transforment la lumière du soleil en électricité.\n\n### 3. **Transport de l'électricité**\nL'électricité produite est transportée via des lignes à haute tension pour minimiser les pertes d'énergie. Elle est ensuite transformée en basse tension pour être distribuée aux foyers et aux entreprises.\n\n### 4. **Utilisation de l'électricité**\nUne fois arrivée dans les habitations, l'électricité alimente divers appareils :\n- **Éclairage** : Ampoules, LED.\n- **Appareils électroménagers** : Réfrigérateurs, lave-linge.\n- **Électronique** : Ordinateurs, smartphones.\n\n### 5. **Circuit électrique**\nUn circuit électrique simple comprend :\n- **Une source de tension** (pile, générateur).\n- **Un conducteur** (fil).\n- **Un récepteur** (ampoule, moteur).\n\nPour que le courant circule, le circuit doit être fermé (boucle complète).\n\n### 6. **Sécurité électrique**\nL'électricité peut être dangereuse. Des dispositifs de sécurité comme les disjoncteurs et les prises de terre sont utilisés pour protéger les utilisateurs.\n\nSi vous avez des questions plus spécifiques ou si vous souhaitez des détails sur un aspect particulier de l'électricité, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:25:15.5465023+02:00",
+  "durationSeconds": 9.62,
+  "stats": "mistral-small3.2:latest · 512 + 430 tokens · 9,6 s",
+  "isError": false,
+  "language": "FR"
+}

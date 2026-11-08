@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-dissuasion-nucleaire",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Dissuasion nucléaire",
+  "includedEntities": [
+    {
+      "entityName": "dissuasion nucléaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "armes nucléaires",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les doctrines et déclarations sur la dissuasion nucléaire.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Russie",
+    "France",
+    "États-Unis"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quelle évolution de doctrine ?",
+    "Quelles alertes ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#NUCLEAIRE",
+    "#DISSUASION"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE",
+    "!FEAR"
+  ],
+  "isDeleted": false
+}

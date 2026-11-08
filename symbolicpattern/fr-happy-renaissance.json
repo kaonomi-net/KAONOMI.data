@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-renaissance",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de renaître, un nouveau départ.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:renaissance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rena[îi]tre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rena[îi]t)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nouveau\\s+d[ée]part)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nouvelle\\s+vie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:second\\s+souffle)(?![\\w-])"
+  ],
+  "symbol": "renaissance",
+  "event": null,
+  "title": "Renaissance",
+  "tags": [
+    "#VIE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

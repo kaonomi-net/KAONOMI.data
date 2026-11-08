@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la politique étrangère) : Les électeurs britanniques votent à 51,9 % pour quitter l'Union européenne.",
+  "id": "eu-ev-brexit-referendum",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Référendum sur l'appartenance du Royaume-Uni à l'UE",
+  "entityType": "EVENT",
+  "description": "Les électeurs britanniques votent à 51,9 % pour quitter l'Union européenne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "« Référendum sur l'appartenance du Royaume-Uni à l'UE » concerne la politique étrangère.",
+    "Les archives audiovisuelles de la Commission conservent des images de « Référendum sur l'appartenance du Royaume-Uni à l'UE ».",
+    "La presse européenne a largement couvert « Référendum sur l'appartenance du Royaume-Uni à l'UE »."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 2,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 4,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A9f%C3%A9rendum%20sur%20l%27appartenance%20du%20Royaume-Uni%20%C3%A0%20l%27UE"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Affaires étrangères",
+    "Commission Juncker",
+    "Royaume-Uni",
+    "Retrait du Royaume-Uni de l'Union européenne",
+    "Jonathan Hill"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-06-23T00:00:00",
+  "endDate": null
+}

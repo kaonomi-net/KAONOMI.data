@@ -1,0 +1,13 @@
+{
+  "index": 88,
+  "file": "088-interet-pour-le-llm-est-ce-que-vous-apprenez-de.prompt.json",
+  "prompt": "Est-ce que vous apprenez de nos conversations ?",
+  "promptWords": 8,
+  "completion": "Non, je n’apprends pas de nos conversations.  \nChaque échange est traité indépendamment\u202F; je ne conserve aucune donnée personnelle ni aucun souvenir de vos messages après la fin de la session. Mon modèle a été entraîné sur un corpus fixe, et il ne reçoit aucune mise à jour ou apprentissage supplémentaire à partir des conversations individuelles.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:27:46.2081611+02:00",
+  "durationSeconds": 1.74,
+  "stats": "gpt-oss:20b · 77 + 242 tokens · 1,7 s",
+  "isError": false,
+  "language": "FR"
+}

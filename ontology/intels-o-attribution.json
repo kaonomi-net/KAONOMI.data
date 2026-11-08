@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-attribution",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "attribution",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : APT28 et le renseignement militaire russe ; Attribution d'une cyberattaque par la France ; Espionnage chinois en Europe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les campagnes d'APT28 attribuées au renseignement militaire russe.",
+    "Suivre les attributions publiques de cyberattaques par la France.",
+    "Suivre les campagnes d'espionnage attribuées à la Chine en Europe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "attribution",
+  "tags": [
+    "#CYBERSECURITE",
+    "#RUSSIE",
+    "#APT",
+    "#FRANCE",
+    "#ATTRIBUTION",
+    "#CHINE"
+  ],
+  "events": [
+    "@ATTRIBUTION"
+  ],
+  "signals": [
+    "!ESPIONNAGE",
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Europe",
+    "APT28",
+    "ANSSI",
+    "espionnage",
+    "GRU",
+    "Paris",
+    "Quai d'Orsay",
+    "France",
+    "sanctions",
+    "APT31"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

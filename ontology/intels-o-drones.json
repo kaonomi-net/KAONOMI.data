@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-drones",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "drones",
+  "entityType": "HARDWARE",
+  "description": "Cité par 40 intels : Combats autour de Kostiantynivka ; Pression sur la région de Kharkiv ; Logistique et routes d'approvisionnement ; Guerre des drones sur le front ; Ville de Zaporijia sous les frappes ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre les combats dans le secteur de Kostiantynivka, l'un des plus intenses.",
+    "Surveiller les opérations russes dans la région de Kharkiv.",
+    "Surveiller les menaces sur les routes d'approvisionnement du front."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 2,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "drones",
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#DRONES",
+    "#FRAPPES",
+    "#FRONT",
+    "#DEFENSE"
+  ],
+  "events": [
+    "@FRAPPE",
+    "@INCURSION",
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!MENACE",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Russie",
+    "défense antiaérienne",
+    "missiles",
+    "Pologne",
+    "OTAN",
+    "Roumanie",
+    "Ukraine",
+    "civils",
+    "front",
+    "brouillage"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

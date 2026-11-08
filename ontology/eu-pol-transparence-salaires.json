@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (l'égalité) : Directive (UE) 2023/970 renforçant l'égalité de rémunération entre femmes et hommes.",
+  "id": "eu-pol-transparence-salaires",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Directive sur la transparence des rémunérations",
+  "entityType": "LAW",
+  "description": "Directive (UE) 2023/970 renforçant l'égalité de rémunération entre femmes et hommes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Directive sur la transparence des rémunérations ».",
+    "La mise en œuvre de « Directive sur la transparence des rémunérations » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Directive sur la transparence des rémunérations »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#EGALITE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Directive%20sur%20la%20transparence%20des%20r%C3%A9mun%C3%A9rations"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Égalité",
+    "Emploi et droits sociaux",
+    "Direction générale de la justice et des consommateurs",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-05-10T00:00:00",
+  "endDate": null
+}

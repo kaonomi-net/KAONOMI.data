@@ -1,0 +1,71 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique économique) : Ancien Premier ministre de Lettonie (2009-2014), vice-président de la Commission depuis 2014 (euro, économie, commerce), chargé de l'économie et de la simplification depuis 2024.",
+  "id": "eu-p-dombrovskis",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Valdis Dombrovskis",
+  "entityType": "PERSON",
+  "description": "Ancien Premier ministre de Lettonie (2009-2014), vice-président de la Commission depuis 2014 (euro, économie, commerce), chargé de l'économie et de la simplification depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les manuels sur les institutions européennes citent Valdis Dombrovskis.",
+    "Le portrait de Valdis Dombrovskis figure dans le dossier consacré à la politique économique.",
+    "La presse européenne a longuement commenté le parcours de Valdis Dombrovskis."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Dombrovskis"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Valdis%20Dombrovskis"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité lettone",
+    "Unité (Vienotība)",
+    "Économiste",
+    "Chef de gouvernement",
+    "Ministre des Finances",
+    "Député européen",
+    "Commissaire européen",
+    "Une économie au service des personnes et commerce (Commission von der Leyen I)",
+    "Vice-président exécutif de la Commission",
+    "Commission von der Leyen I",
+    "Économie",
+    "Commerce",
+    "Services financiers",
+    "Économie et productivité ; mise en œuvre et simplification (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Simplification et mise en œuvre",
+    "Euro et dialogue social (Commission Juncker)",
+    "Vice-président de la Commission",
+    "Commission Juncker",
+    "Ursula von der Leyen",
+    "Eurostat",
+    "Direction générale des affaires économiques et financières",
+    "Direction générale de l'appui aux réformes structurelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

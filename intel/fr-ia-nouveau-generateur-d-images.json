@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-nouveau-generateur-d-images",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Nouveau générateur d'images",
+  "includedEntities": [
+    {
+      "entityName": "Midjourney",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "DALL-E",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Stable Diffusion",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 30,
+  "instructions": "Suivre les outils de génération d'images et la qualité de leurs rendus.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "jour de sortie"
+  ],
+  "relatedEntities": [
+    "Stability AI",
+    "Flux",
+    "Adobe Firefly"
+  ],
+  "questions": [
+    "Quels droits sur les images ?",
+    "Les visages sont-ils réalistes ?",
+    "Y a-t-il un filigrane ?"
+  ],
+  "tags": [
+    "#IA",
+    "#GENERATION-IMAGE"
+  ],
+  "events": [
+    "@LANCEMENT-OUTIL"
+  ],
+  "signals": [
+    "!NOUVEAUTE"
+  ],
+  "isDeleted": false
+}

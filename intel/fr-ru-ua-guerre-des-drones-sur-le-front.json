@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-guerre-des-drones-sur-le-front",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Guerre des drones sur le front",
+  "includedEntities": [
+    {
+      "entityName": "drones",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "FPV",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "front",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre l'usage des drones FPV et leur rôle dans les combats.",
+  "isFuzzy": true,
+  "locations": [
+    "ligne de front"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "brouillage",
+    "fibre optique",
+    "opérateurs"
+  ],
+  "questions": [
+    "Quelle nouveauté tactique ?",
+    "Quel effet sur les assauts ?",
+    "Quelles contre-mesures ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#DRONES",
+    "#FRONT"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

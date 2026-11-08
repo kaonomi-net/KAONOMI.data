@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-souillure",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une tache qui salit.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:souillure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souill(er|[ée]|[ée]e|[ée]s|[ée]es)|macul[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tach([ée]|[ée]e|[ée]s|[ée]es)|[ée]clabouss[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "souillure",
+  "event": null,
+  "title": "Souillure",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

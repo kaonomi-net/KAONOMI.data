@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-libye",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Libye",
+  "entityType": "COUNTRY",
+  "description": "Cité par 4 intels : Russie en Afrique et au Moyen-Orient ; Présence russe en Afrique ; Instabilité en Libye ; Migrations en Méditerranée.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre la projection d'influence russe hors d'Europe.",
+    "Suivre l'implantation militaire et économique russe en Afrique.",
+    "Suivre la division politique et les affrontements en Libye."
+  ],
+  "angryLevel": null,
+  "sadLevel": 25,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Libye",
+  "tags": [
+    "#AFRIQUE",
+    "#GEOPOLITIQUE",
+    "#RUSSIE",
+    "#INFLUENCE",
+    "#LIBYE",
+    "#MIGRATIONS"
+  ],
+  "events": [
+    "@NAUFRAGE"
+  ],
+  "signals": [
+    "!INFLUENCE",
+    "!INSTABILITE",
+    "!HUMANITAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Africa Corps",
+    "Russie",
+    "migrants",
+    "armement",
+    "Syrie",
+    "Sahel",
+    "Afrique",
+    "céréales",
+    "influence",
+    "Wagner"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

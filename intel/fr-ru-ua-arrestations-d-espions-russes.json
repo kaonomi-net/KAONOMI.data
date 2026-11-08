@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-arrestations-d-espions-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Arrestations d'espions russes",
+  "includedEntities": [
+    {
+      "entityName": "espion",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "arrestation",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les arrestations de personnes espionnant pour la Russie en Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Allemagne",
+    "Pologne",
+    "Autriche"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "contre-espionnage",
+    "procès",
+    "sabotage"
+  ],
+  "questions": [
+    "Quelle affaire ?",
+    "Quelle cible ?",
+    "Quelle peine ?"
+  ],
+  "tags": [
+    "#EUROPE",
+    "#ESPIONNAGE",
+    "#RUSSIE"
+  ],
+  "events": [
+    "@ARRESTATION"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

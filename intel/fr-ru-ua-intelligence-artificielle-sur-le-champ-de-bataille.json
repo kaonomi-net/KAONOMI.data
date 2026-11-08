@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-intelligence-artificielle-sur-le-champ-de-bataille",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Intelligence artificielle sur le champ de bataille",
+  "includedEntities": [
+    {
+      "entityName": "intelligence artificielle",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "champ de bataille",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "ciblage",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage de l'IA pour le ciblage et l'analyse militaire.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "drones autonomes",
+    "Palantir",
+    "reconnaissance"
+  ],
+  "questions": [
+    "Quel usage ?",
+    "Quel niveau d'autonomie ?",
+    "Quelles questions éthiques ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#IA",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

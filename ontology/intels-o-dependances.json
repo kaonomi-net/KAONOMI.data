@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-dependances",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "dépendances",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : DevSecOps ; Nomenclature logicielle SBOM ; Sécurité économique de l'Union ; Paquet diversification des chaînes d'approvisionnement.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'intégration de la sécurité dans le développement logiciel.",
+    "Suivre l'adoption des nomenclatures logicielles.",
+    "Suivre la stratégie européenne de sécurité économique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "dépendances",
+  "tags": [
+    "#CYBERSECURITE",
+    "#UNION-EUROPEENNE",
+    "#DEVSECOPS",
+    "#APPSEC",
+    "#SUPPLY-CHAIN",
+    "#CRA"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE",
+    "!DEFENSE",
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "SBOM",
+    "Bruxelles",
+    "DevSecOps",
+    "sécurité du code",
+    "analyse de code",
+    "CRA",
+    "nomenclature logicielle",
+    "transparence",
+    "stratégie",
+    "contrôles à l'export"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

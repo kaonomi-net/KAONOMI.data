@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-sabotage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La destruction volontaire et secrète.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sabotage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sabot(er|[ée]|[ée]e|eur|eurs)|acte(s)?\\s+de\\s+sabotage)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:infrastructure(s)?\\s+vis[ée]e(s)?)(?![\\w-])"
+  ],
+  "symbol": "sabotage",
+  "event": null,
+  "title": "Sabotage",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

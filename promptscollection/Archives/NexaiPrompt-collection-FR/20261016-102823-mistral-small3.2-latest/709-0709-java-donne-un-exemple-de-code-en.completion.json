@@ -1,0 +1,13 @@
+{
+  "index": 709,
+  "file": "0709-java-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Java qui illustre les collections.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en Java qui illustre l'utilisation des collections, notamment la liste (`ArrayList`), l'ensemble (`HashSet`) et la carte (`HashMap`) :\n\n```java\nimport java.util.ArrayList;\nimport java.util.HashMap;\nimport java.util.HashSet;\nimport java.util.List;\nimport java.util.Map;\nimport java.util.Set;\n\npublic class ExempleCollections {\n    public static void main(String[] args) {\n        // Exemple avec une Liste (ArrayList)\n        List<String> listeFruits = new ArrayList<>();\n        listeFruits.add(\"Pomme\");\n        listeFruits.add(\"Banane\");\n        listeFruits.add(\"Orange\");\n        listeFruits.add(\"Pomme\"); // Les doublons sont autorisés\n\n        System.out.println(\"Liste de fruits : \" + listeFruits);\n\n        // Exemple avec un Ensemble (HashSet)\n        Set<String> ensembleFruits = new HashSet<>();\n        ensembleFruits.add(\"Pomme\");\n        ensembleFruits.add(\"Banane\");\n        ensembleFruits.add(\"Orange\");\n        ensembleFruits.add(\"Pomme\"); // Les doublons sont ignorés\n\n        System.out.println(\"Ensemble de fruits : \" + ensembleFruits);\n\n        // Exemple avec une Carte (HashMap)\n        Map<String, Integer> prixFruits = new HashMap<>();\n        prixFruits.put(\"Pomme\", 1);\n        prixFruits.put(\"Banane\", 2);\n        prixFruits.put(\"Orange\", 3);\n\n        System.out.println(\"Prix des fruits : \" + prixFruits);\n\n        // Accès à un élément dans la carte\n        int prixPomme = prixFruits.get(\"Pomme\");\n        System.out.println(\"Prix de la pomme : \" + prixPomme);\n    }\n}\n```\n\n### Explications :\n1. **Liste (`ArrayList`)** :\n   - Permet de stocker des éléments dans un ordre spécifique.\n   - Les doublons sont autorisés.\n\n2. **Ensemble (`HashSet`)** :\n   - Permet de stocker des éléments uniques (pas de doublons).\n   - L'ordre des éléments n'est pas garanti.\n\n3. **Carte (`HashMap`)** :\n   - Associe des clés à des valeurs.\n   - Chaque clé est unique.\n\nCe code montre comment créer et manipuler ces collections en Java. Vous pouvez l'exécuter dans un environnement Java pour voir les résultats.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:54:02.3048589+02:00",
+  "durationSeconds": 10.93,
+  "stats": "mistral-small3.2:latest · 521 + 528 tokens · 10,9 s",
+  "isError": false,
+  "language": "FR"
+}

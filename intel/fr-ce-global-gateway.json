@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-global-gateway",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Global Gateway",
+  "includedEntities": [
+    {
+      "entityName": "Global Gateway",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "investissements",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la stratégie européenne d'investissements dans les pays partenaires.",
+  "isFuzzy": true,
+  "locations": [
+    "Afrique",
+    "Asie",
+    "Amérique latine"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "infrastructures",
+    "routes de la soie",
+    "financements"
+  ],
+  "questions": [
+    "Quel projet ?",
+    "Quel montant ?",
+    "Quels résultats ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#GLOBAL-GATEWAY",
+    "#INFLUENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

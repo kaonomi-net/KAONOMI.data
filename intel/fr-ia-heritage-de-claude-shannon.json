@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-heritage-de-claude-shannon",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Héritage de Claude Shannon",
+  "includedEntities": [
+    {
+      "entityName": "Claude Shannon",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "théorie de l'information",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les références aux fondements de la théorie de l'information.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Bell Labs",
+    "entropie",
+    "information"
+  ],
+  "questions": [
+    "Quel concept est cité ?",
+    "Dans quel contexte ?",
+    "Quel lien avec l'IA actuelle ?"
+  ],
+  "tags": [
+    "#IA",
+    "#HISTOIRE",
+    "#THEORIE-INFORMATION"
+  ],
+  "events": [],
+  "signals": [
+    "!CULTURE"
+  ],
+  "isDeleted": false
+}

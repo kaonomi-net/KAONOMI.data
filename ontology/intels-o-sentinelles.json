@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sentinelles",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "sentinelles",
+  "entityType": "PROFESSION",
+  "description": "Cité par 2 intels : Suicide des agriculteurs ; Sentinelles en prévention du suicide.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre la prévention du suicide chez les agriculteurs.",
+    "Suivre la formation de sentinelles au repérage de la crise suicidaire."
+  ],
+  "angryLevel": null,
+  "sadLevel": 50,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "sentinelles",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE",
+    "#AGRICULTURE",
+    "#FORMATION"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD",
+    "!PREVENTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "Belgique",
+    "agriculteurs",
+    "suicide",
+    "Agri'écoute",
+    "MSA",
+    "entreprises",
+    "formation",
+    "repérage",
+    "collectivités"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

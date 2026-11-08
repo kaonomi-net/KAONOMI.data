@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-incendie",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un grand feu destructeur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:incendie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:incendi(er|[ée]|[ée]e|aire|aires))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:brasier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:calcin[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:br[ûu]l[ée](e|s|es)?\\s+vif(s|ve|ves)?)(?![\\w-])"
+  ],
+  "symbol": "incendie",
+  "event": null,
+  "title": "Incendie",
+  "tags": [
+    "#CATASTROPHE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

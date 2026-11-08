@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (les logiciels malveillants) : Logiciel malveillant qui enrôle caméras et routeurs mal protégés dans un réseau de machines utilisé pour des attaques par déni de service record.",
+  "id": "cyber-mirai",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Mirai",
+  "entityType": "SOFTWARE",
+  "description": "Logiciel malveillant qui enrôle caméras et routeurs mal protégés dans un réseau de machines utilisé pour des attaques par déni de service record.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "Le rapport d'incident cite Mirai à plusieurs reprises.",
+    "L'analyste a utilisé Mirai pendant l'enquête.",
+    "Les historiens de l'informatique considèrent Mirai comme une étape des logiciels malveillants."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 2,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Mirai"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#LOGICIELSMALVEILLANTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Mirai"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ver Morris"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (le chiffrement électromécanique) : Machine de la société suisse Crypto AG, fondée par Boris Hagelin, dont les appareils étaient secrètement affaiblis au profit de services de renseignement.",
+  "id": "cyber-crypto-ag-cx52",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Crypto AG CX-52",
+  "entityType": "HARDWARE",
+  "description": "Machine de la société suisse Crypto AG, fondée par Boris Hagelin, dont les appareils étaient secrètement affaiblis au profit de services de renseignement.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Le technicien a installé Crypto AG CX-52 dans la salle des machines.",
+    "Lors du salon, le stand présentait Crypto AG CX-52 en démonstration.",
+    "Le laboratoire utilise Crypto AG CX-52 pour ses travaux dans le domaine du chiffrement électromécanique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "CX-52"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#CHIFFREMENTELECTROMECANIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Crypto%20AG%20CX-52"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Machine Hagelin M-209",
+    "Machine Enigma"
+  ],
+  "isDeleted": false,
+  "startDate": "1952-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 71,
+  "file": "091-mathematiques-qu-est-ce-qu-un-logarithme.prompt.json",
+  "prompt": "Qu'est-ce qu'un logarithme ?",
+  "promptWords": 4,
+  "completion": "Un logarithme est une fonction mathématique qui permet de répondre à la question suivante : **\"À quelle puissance faut-il élever un nombre de base fixe pour obtenir un autre nombre ?\"**\n\nPlus formellement, si vous avez un nombre \\( a \\) et un nombre \\( b \\), le logarithme de \\( b \\) en base \\( a \\) (noté \\( \\log_a(b) \\)) est le nombre \\( x \\) tel que :\n\n\\[ a^x = b \\]\n\n### Exemples :\n1. **Logarithme en base 10** :\n   - \\( \\log_{10}(100) = 2 \\) car \\( 10^2 = 100 \\).\n   - \\( \\log_{10}(1000) = 3 \\) car \\( 10^3 = 1000 \\).\n\n2. **Logarithme naturel (base \\( e \\), où \\( e \\approx 2.71828 \\))** :\n   - \\( \\ln(7.389) \\approx 2 \\) car \\( e^2 \\approx 7.389 \\).\n\n### Propriétés importantes des logarithmes :\n1. **Produit** : \\( \\log_a(xy) = \\log_a(x) + \\log_a(y) \\).\n2. **Quotient** : \\( \\log_a\\left(\\frac{x}{y}\\right) = \\log_a(x) - \\log_a(y) \\).\n3. **Puissance** : \\( \\log_a(x^y) = y \\log_a(x) \\).\n\nLes logarithmes sont largement utilisés en mathématiques, en physique, en ingénierie, en économie et dans de nombreux autres domaines pour simplifier des calculs complexes, notamment ceux impliquant des nombres très grands ou très petits.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:29:03.7038408+02:00",
+  "durationSeconds": 9.08,
+  "stats": "mistral-small3.2:latest · 515 + 391 tokens · 9,1 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-calendrier-d-adoption-du-budget",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Calendrier d'adoption du budget",
+  "includedEntities": [
+    {
+      "entityName": "calendrier",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "délai",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le respect des délais constitutionnels d'adoption du budget.",
+  "isFuzzy": true,
+  "locations": [
+    "Parlement"
+  ],
+  "times": [
+    "70 jours"
+  ],
+  "relatedEntities": [
+    "article 47",
+    "Sénat",
+    "Conseil constitutionnel"
+  ],
+  "questions": [
+    "Le délai sera-t-il tenu ?",
+    "Quelle procédure ?",
+    "Quelle issue ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!ECHEANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (l'intelligence artificielle symbolique) : Informaticien américain qui a forgé l'expression « intelligence artificielle » pour la conférence de Dartmouth de 1956.",
+  "id": "ia-mccarthy",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "John McCarthy",
+  "entityType": "PERSON",
+  "description": "Informaticien américain qui a forgé l'expression « intelligence artificielle » pour la conférence de Dartmouth de 1956. Il a créé le langage Lisp en 1958 et reçu le prix Turing en 1971.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "John McCarthy est l'une des figures marquantes de l'intelligence artificielle symbolique.",
+    "Lors de la conférence, l'oratrice a cité John McCarthy pour illustrer les progrès de l'intelligence artificielle symbolique.",
+    "Une biographie de John McCarthy rappelle son rôle dans l'intelligence artificielle symbolique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "J. McCarthy"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#INTELLIGENCEARTIFICIELLESYMBOL"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=John%20McCarthy"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conférence de Dartmouth",
+    "Lisp"
+  ],
+  "isDeleted": false,
+  "startDate": "1927-09-04T00:00:00",
+  "endDate": "2011-10-24T00:00:00"
+}

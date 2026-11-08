@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-recueillement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le souvenir des victimes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:recueillement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hommage(s)?\\s+aux\\s+victimes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:minute\\s+de\\s+silence)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:deuil\\s+national)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:marche\\s+blanche)(?![\\w-])"
+  ],
+  "symbol": "recueillement",
+  "event": null,
+  "title": "Recueillement",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

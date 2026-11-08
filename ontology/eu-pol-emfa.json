@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la démocratie européenne) : Règlement (UE) 2024/1083.",
+  "id": "eu-pol-emfa",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Règlement européen sur la liberté des médias",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2024/1083.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "« Règlement européen sur la liberté des médias » a fait l'objet de longues négociations.",
+    "Les entreprises doivent tenir compte de « Règlement européen sur la liberté des médias ».",
+    "« Règlement européen sur la liberté des médias » relève de la démocratie européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "EMFA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#DEMOCRATIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A8glement%20europ%C3%A9en%20sur%20la%20libert%C3%A9%20des%20m%C3%A9dias"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Démocratie",
+    "Direction générale des réseaux de communication, du contenu et des technologies",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-04-11T00:00:00",
+  "endDate": null
+}

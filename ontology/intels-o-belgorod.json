@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-belgorod",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Belgorod",
+  "entityType": "CITY",
+  "description": "Cité par 3 intels : Attaques dans la région de Belgorod ; Frappes sur les centrales électriques russes ; Évacuations dans les régions frontalières russes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les frappes et incursions dans la région frontalière de Belgorod.",
+    "Suivre les frappes ukrainiennes contre la production électrique russe.",
+    "Suivre les évacuations de civils côté russe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Belgorod",
+  "tags": [
+    "#RUSSIE",
+    "#FRONTIERE",
+    "#BELGOROD",
+    "#ENERGIE",
+    "#FRAPPES",
+    "#EVACUATION"
+  ],
+  "events": [
+    "@FRAPPE",
+    "@FRAPPE-ENERGIE",
+    "@EVACUATION"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!HUMANITAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Briansk",
+    "Koursk",
+    "attaque",
+    "Chebekino",
+    "frontière",
+    "Chouvaïev",
+    "évacuations",
+    "sous-stations",
+    "centrale électrique",
+    "coupure"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

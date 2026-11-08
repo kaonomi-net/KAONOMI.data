@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-oliver-varhelyi-et-la-sante",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Olivér Várhelyi et la santé",
+  "includedEntities": [
+    {
+      "entityName": "Olivér Várhelyi",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "santé",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action du commissaire à la santé et au bien-être animal.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "médicaments",
+    "tabac",
+    "bien-être animal"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quelle controverse ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#SANTE",
+    "#VARHELYI"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-ruine",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La perte de ses biens ; un bâtiment détruit.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ruine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ruin(er|[ée]|[ée]e|[ée]s|[ée]es))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]combres)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]vast(er|[ée]|[ée]e|ation))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ravag(er|[ée]|[ée]e|[ée]s))(?![\\w-])"
+  ],
+  "symbol": "ruine",
+  "event": null,
+  "title": "Ruine",
+  "tags": [
+    "#ECHEC",
+    "#MISERE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

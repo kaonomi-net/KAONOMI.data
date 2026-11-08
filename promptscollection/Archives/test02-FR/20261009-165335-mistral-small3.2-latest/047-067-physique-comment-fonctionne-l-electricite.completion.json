@@ -1,0 +1,13 @@
+{
+  "index": 47,
+  "file": "067-physique-comment-fonctionne-l-electricite.prompt.json",
+  "prompt": "Comment fonctionne l'électricité ?",
+  "promptWords": 4,
+  "completion": "L'électricité est un phénomène physique lié aux charges électriques et à leur mouvement. Voici une explication simplifiée de son fonctionnement :\n\n### 1. **Nature de l'électricité**\nL'électricité est le flux de charges électriques, généralement des électrons, à travers un conducteur (comme un fil de cuivre). Ce flux crée un courant électrique.\n\n### 2. **Production de l'électricité**\nL'électricité peut être produite de plusieurs manières :\n- **Centrales thermiques** : Brûlage de combustibles fossiles (charbon, gaz, pétrole) pour chauffer de l'eau et produire de la vapeur qui actionne des turbines génératrices.\n- **Centrales nucléaires** : Utilisation de la fission nucléaire pour chauffer de l'eau et produire de la vapeur.\n- **Énergies renouvelables** :\n  - **Hydroélectrique** : Utilisation de l'énergie cinétique de l'eau en mouvement (chutes d'eau, barrages).\n  - **Éolienne** : Utilisation de l'énergie cinétique du vent pour faire tourner des éoliennes.\n  - **Solaire** : Conversion de l'énergie solaire en électricité via des panneaux photovoltaïques.\n  - **Géothermique** : Utilisation de la chaleur interne de la Terre.\n\n### 3. **Transport de l'électricité**\nL'électricité produite est transportée via des lignes à haute tension pour minimiser les pertes d'énergie. Elle est ensuite transformée en basse tension pour être distribuée aux foyers et aux industries.\n\n### 4. **Utilisation de l'électricité**\nUne fois arrivée dans les habitations, l'électricité alimente divers appareils grâce à des circuits électriques. Les interrupteurs, prises et fusibles permettent de contrôler et de protéger ces circuits.\n\n### 5. **Circuits électriques**\nUn circuit électrique simple comprend :\n- **Une source de tension** (pile, batterie, prise murale).\n- **Un conducteur** (fil électrique).\n- **Un récepteur** (ampoule, moteur, etc.).\n- **Un interrupteur** pour ouvrir ou fermer le circuit.\n\n### 6. **Sécurité électrique**\nL'électricité peut être dangereuse. Il est important de respecter les normes de sécurité, comme l'utilisation de disjoncteurs, de prises avec terre, et de ne pas surcharger les circuits.\n\nSi vous avez des questions plus spécifiques sur un aspect particulier de l'électricité, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:01:31.9004376+02:00",
+  "durationSeconds": 10.79,
+  "stats": "mistral-small3.2:latest · 512 + 507 tokens · 10,8 s",
+  "isError": false,
+  "language": "FR"
+}

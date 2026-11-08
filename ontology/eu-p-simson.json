@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique énergétique) : Ancienne ministre estonienne de l'Économie et des Infrastructures, commissaire à l'Énergie de 2019 à 2024.",
+  "id": "eu-p-simson",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Kadri Simson",
+  "entityType": "PERSON",
+  "description": "Ancienne ministre estonienne de l'Économie et des Infrastructures, commissaire à l'Énergie de 2019 à 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Lors du point de presse de midi, une question portait sur Kadri Simson.",
+    "Kadri Simson est une figure de la politique énergétique.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Kadri Simson."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Simson"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUEENERGETIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Kadri%20Simson"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité estonienne",
+    "Parti du centre d'Estonie",
+    "Ministre de l'Économie",
+    "Commissaire européen",
+    "Énergie (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Énergie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

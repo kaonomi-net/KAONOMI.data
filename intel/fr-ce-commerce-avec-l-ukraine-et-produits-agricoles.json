@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-commerce-avec-l-ukraine-et-produits-agricoles",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Commerce avec l'Ukraine et produits agricoles",
+  "includedEntities": [
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "produits agricoles",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "importations",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les règles d'importation des produits agricoles ukrainiens.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Varsovie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pologne",
+    "agriculteurs",
+    "quotas"
+  ],
+  "questions": [
+    "Quels quotas ?",
+    "Quelle colère agricole ?",
+    "Quel accord ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#UKRAINE",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-marche-du-credit-d-entreprise",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Marché du crédit d'entreprise",
+  "includedEntities": [
+    {
+      "entityName": "crédit",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "obligations d'entreprise",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "spreads",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les conditions de financement des entreprises sur les marchés obligataires.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "haut rendement",
+    "investment grade",
+    "défauts"
+  ],
+  "questions": [
+    "Quel spread ?",
+    "Quels défauts ?",
+    "Quelles émissions ?"
+  ],
+  "tags": [
+    "#OBLIGATIONS",
+    "#CREDIT"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

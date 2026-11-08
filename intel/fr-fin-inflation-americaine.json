@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-inflation-americaine",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Inflation américaine",
+  "includedEntities": [
+    {
+      "entityName": "inflation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "États-Unis",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "PCE",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'inflation américaine, remontée à 3,6 %.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [
+    "publications mensuelles"
+  ],
+  "relatedEntities": [
+    "CPI",
+    "PCE",
+    "droits de douane"
+  ],
+  "questions": [
+    "Quel chiffre ?",
+    "Quelle tendance ?",
+    "Quel effet sur la Fed ?"
+  ],
+  "tags": [
+    "#INFLATION",
+    "#ETATS-UNIS"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!INFLATION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-nice",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "Nice",
+  "entityType": "CITY",
+  "description": "Cité par 3 intels : Alliance entre le RN et l'UDR d'Éric Ciotti ; Éric Ciotti, maire de Nice ; Nice après les municipales.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre l'alliance entre le RN et le parti d'Éric Ciotti.",
+    "Suivre l'action d'Éric Ciotti, élu maire de Nice en mars 2026.",
+    "Suivre la gouvernance de Nice après l'élection d'Éric Ciotti."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Nice",
+  "tags": [
+    "#FRANCE",
+    "#NICE",
+    "#RN",
+    "#DROITE",
+    "#UDR",
+    "#MUNICIPALES"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE",
+    "!ALLIANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Éric Ciotti",
+    "UDR",
+    "métropole",
+    "Christian Estrosi",
+    "Rassemblement national",
+    "municipales",
+    "Les Républicains",
+    "alliance",
+    "sécurité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

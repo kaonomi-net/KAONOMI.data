@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Objet des attentats de Bruxelles de 2016 (l'attentat de l'aéroport) : Valise piégée abandonnée par Mohamed Abrini dans le hall, que le service de déminage a fait exploser de manière contrôlée.",
+  "id": "be2016-bombe-non-explosee",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Troisième bombe de l'aéroport",
+  "entityType": "MATERIAL",
+  "description": "Valise piégée abandonnée par Mohamed Abrini dans le hall, que le service de déminage a fait exploser de manière contrôlée.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-objets",
+  "sentencesExemples": [
+    "Les rapports techniques décrivent « Troisième bombe de l'aéroport ».",
+    "« Troisième bombe de l'aéroport » fait partie des éléments retenus par l'enquête sur l'attentat de l'aéroport.",
+    "Les enquêteurs ont analysé « Troisième bombe de l'aéroport »."
+  ],
+  "angryLevel": 1,
+  "sadLevel": 2,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 1,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDE9",
+  "synonyms": [
+    "bombe abandonnée"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#MATERIAL",
+    "#ATTENTATAEROPORT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Troisi%C3%A8me%20bombe%20de%20l%27a%C3%A9roport"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Mohamed Abrini",
+    "Bombes dans des valises"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

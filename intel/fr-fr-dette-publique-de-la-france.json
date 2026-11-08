@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-dette-publique-de-la-france",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Dette publique de la France",
+  "includedEntities": [
+    {
+      "entityName": "dette publique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "France",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le niveau de la dette publique, proche de 119 % du PIB en 2026.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "publications trimestrielles"
+  ],
+  "relatedEntities": [
+    "INSEE",
+    "PIB",
+    "charge de la dette"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quelle évolution ?",
+    "Quelle comparaison européenne ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-kalachnikov",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un fusil d'assaut.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:kalachnikov(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ak-47)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fusil(s)?\\s+d['’]assaut)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arme(s)?\\s+de\\s+guerre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arme(s)?\\s+automatique(s)?)(?![\\w-])"
+  ],
+  "symbol": "kalachnikov",
+  "event": null,
+  "title": "Kalachnikov",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

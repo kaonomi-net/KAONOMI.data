@@ -1,0 +1,13 @@
+{
+  "index": 319,
+  "file": "0319-ia-llm-qu-est-ce-qu-un-modele.prompt.json",
+  "prompt": "Qu'est-ce qu'un modèle multimodal ?",
+  "promptWords": 5,
+  "completion": "Un modèle multimodal est un type de modèle d'intelligence artificielle conçu pour traiter et comprendre plusieurs types de données simultanément. Contrairement aux modèles unimodaux, qui ne gèrent qu'un seul type de données (par exemple, du texte ou des images), les modèles multimodaux peuvent intégrer et fusionner des informations provenant de différentes modalités, telles que :\n\n1. **Texte** : Compréhension et génération de langage naturel.\n2. **Images** : Analyse et reconnaissance d'images ou de vidéos.\n3. **Audio** : Traitement de la parole ou de la musique.\n4. **Données structurées** : Tables, graphiques, etc.\n\n### Exemples d'applications des modèles multimodaux :\n- **Légendage automatique** : Générer des descriptions textuelles à partir d'images.\n- **Recherche visuelle** : Trouver des images en utilisant des requêtes textuelles.\n- **Chatbots avancés** : Répondre à des questions en combinant du texte et des images.\n- **Traduction multimodale** : Traduire du texte tout en interprétant des éléments visuels ou audio.\n\n### Avantages :\n- **Compréhension plus riche** : Permet une meilleure interprétation du contexte en combinant plusieurs sources d'information.\n- **Flexibilité** : Peut être utilisé dans une variété de tâches complexes nécessitant plusieurs types de données.\n\nLes modèles multimodaux sont particulièrement utiles dans des domaines comme la robotique, la médecine, l'éducation et les assistants virtuels, où la capacité à traiter plusieurs types de données simultanément est cruciale.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:24:07.808607+02:00",
+  "durationSeconds": 7.05,
+  "stats": "mistral-small3.2:latest · 516 + 343 tokens · 7,1 s",
+  "isError": false,
+  "language": "FR"
+}

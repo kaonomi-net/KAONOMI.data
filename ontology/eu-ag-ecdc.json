@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la santé publique) : Centre européen de prévention et de contrôle des maladies (ECDC), organe de l'Union créé en 2005 et installé dans cette ville : Solna.",
+  "id": "eu-ag-ecdc",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Centre européen de prévention et de contrôle des maladies (ECDC)",
+  "entityType": "ORGANISATION",
+  "description": "Centre européen de prévention et de contrôle des maladies (ECDC), organe de l'Union créé en 2005 et installé dans cette ville : Solna.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Le rapport annuel de « Centre européen de prévention et de contrôle des maladies (ECDC) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Centre européen de prévention et de contrôle des maladies (ECDC) ».",
+    "Les décisions de « Centre européen de prévention et de contrôle des maladies (ECDC) » touchent la santé publique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ECDC"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Centre%20europ%C3%A9en%20de%20pr%C3%A9vention%20et%20de%20contr%C3%B4le%20des%20maladies%20%28ECDC%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Solna",
+    "Direction générale de la santé et de la sécurité alimentaire",
+    "Santé"
+  ],
+  "isDeleted": false,
+  "startDate": "2005-01-01T00:00:00",
+  "endDate": null
+}

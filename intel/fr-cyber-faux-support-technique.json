@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-faux-support-technique",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Faux support technique",
+  "includedEntities": [
+    {
+      "entityName": "faux support technique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "arnaque",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les arnaques au faux support technique.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "fenêtres piégées",
+    "appels",
+    "prise de contrôle"
+  ],
+  "questions": [
+    "Quelle arnaque ?",
+    "Combien de victimes ?",
+    "Quelle alerte ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ARNAQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

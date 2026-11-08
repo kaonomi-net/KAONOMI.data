@@ -1,0 +1,13 @@
+{
+  "index": 34,
+  "file": "054-intelligence-artificielle-qu-est-ce-que-le-test.prompt.json",
+  "prompt": "Qu'est-ce que le test de Turing ?",
+  "promptWords": 7,
+  "completion": "Le test de Turing est un test proposé par le mathématicien et informaticien britannique Alan Turing en 1950. Il s'agit d'une méthode pour évaluer la capacité d'une machine à démontrer un comportement intelligent similaire à celui d'un être humain.\n\nLe test se déroule de la manière suivante :\n1. Un humain (l'interrogateur) engage une conversation avec deux autres entités : un humain et une machine (généralement un programme informatique).\n2. L'interrogateur ne peut pas voir ni entendre les deux autres entités, il communique uniquement par texte.\n3. L'objectif de l'interrogateur est de déterminer laquelle des deux entités est humaine et laquelle est la machine.\n4. Si l'interrogateur ne peut pas distinguer la machine de l'humain avec une certitude significative, la machine est considérée comme ayant réussi le test de Turing.\n\nAlan Turing a proposé ce test comme un moyen de discuter de l'intelligence des machines, bien qu'il ait souligné que ce n'était pas une définition complète de l'intelligence. Le test de Turing est souvent utilisé comme un point de référence dans les discussions sur l'intelligence artificielle et la conscience des machines.\n\nAujourd'hui, le test de Turing est parfois critiqué pour sa simplicité et son manque de profondeur, mais il reste un concept important dans le domaine de l'IA.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:22:55.9573305+02:00",
+  "durationSeconds": 7.02,
+  "stats": "mistral-small3.2:latest · 516 + 283 tokens · 7,0 s",
+  "isError": false,
+  "language": "FR"
+}

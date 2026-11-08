@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-programme-de-travail-2027-de-la-commission",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Programme de travail 2027 de la Commission",
+  "includedEntities": [
+    {
+      "entityName": "programme de travail",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "2027",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le programme de travail 2027, centré sur 23 initiatives et la mise en œuvre.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "adopté le 4 novembre 2026"
+  ],
+  "relatedEntities": [
+    "initiatives",
+    "retraits",
+    "simplification"
+  ],
+  "questions": [
+    "Quelles initiatives ?",
+    "Quels retraits ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#PROGRAMME-2027"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

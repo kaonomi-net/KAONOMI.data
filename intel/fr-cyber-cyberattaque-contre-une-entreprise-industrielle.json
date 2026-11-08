@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-une-entreprise-industrielle",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre une entreprise industrielle",
+  "includedEntities": [
+    {
+      "entityName": "industriel",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "usine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les cyberattaques qui arrêtent la production d'entreprises industrielles.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "arrêt de production",
+    "rançongiciel",
+    "OT"
+  ],
+  "questions": [
+    "Quelle entreprise ?",
+    "Combien de jours d'arrêt ?",
+    "Quel coût ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#INDUSTRIE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

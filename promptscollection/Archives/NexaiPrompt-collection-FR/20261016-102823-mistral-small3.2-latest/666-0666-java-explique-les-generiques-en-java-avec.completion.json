@@ -1,0 +1,13 @@
+{
+  "index": 666,
+  "file": "0666-java-explique-les-generiques-en-java-avec.prompt.json",
+  "prompt": "Explique les génériques en Java avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "Les génériques en Java sont une fonctionnalité qui permet de définir des classes, des interfaces et des méthodes avec des types paramétrés. Cela permet d'écrire du code plus flexible et réutilisable, tout en garantissant la sécurité des types à la compilation.\n\n### Avantages des génériques :\n1. **Sécurité des types** : Évite les erreurs de type à l'exécution.\n2. **Réutilisabilité** : Permet d'écrire du code qui fonctionne avec différents types.\n3. **Lisibilité** : Rend le code plus clair en indiquant les types utilisés.\n\n### Exemple simple : Une classe `Boîte` générique\n\n```java\n// Déclaration d'une classe générique\npublic class Boîte<T> {\n    private T contenu;\n\n    // Méthode pour ajouter un élément dans la boîte\n    public void ajouter(T element) {\n        this.contenu = element;\n    }\n\n    // Méthode pour récupérer l'élément de la boîte\n    public T obtenir() {\n        return contenu;\n    }\n\n    public static void main(String[] args) {\n        // Création d'une boîte pour des entiers\n        Boîte<Integer> boiteEntiers = new Boîte<>();\n        boiteEntiers.ajouter(42);\n        System.out.println(\"Contenu de la boîte d'entiers : \" + boiteEntiers.obtenir());\n\n        // Création d'une boîte pour des chaînes de caractères\n        Boîte<String> boiteChaines = new Boîte<>();\n        boiteChaines.ajouter(\"Hello, Génériques !\");\n        System.out.println(\"Contenu de la boîte de chaînes : \" + boiteChaines.obtenir());\n    }\n}\n```\n\n### Explication :\n1. **Déclaration de la classe générique** : `Boîte<T>` indique que la classe `Boîte` utilise un type paramétré `T`.\n2. **Utilisation du type paramétré** : `private T contenu;` déclare une variable de type `T`.\n3. **Méthodes génériques** : `ajouter(T element)` et `obtenir()` utilisent le type `T`.\n4. **Instantiation avec des types spécifiques** :\n   - `Boîte<Integer>` crée une boîte pour des entiers.\n   - `Boîte<String>` crée une boîte pour des chaînes de caractères.\n\n### Résultat attendu :\n```\nContenu de la boîte d'entiers : 42\nContenu de la boîte de chaînes : Hello, Génériques !\n```\n\nLes génériques permettent ainsi d'écrire du code qui peut manipuler différents types tout en maintenant la sécurité des types.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:42:10.3846964+02:00",
+  "durationSeconds": 11.11,
+  "stats": "mistral-small3.2:latest · 519 + 547 tokens · 11,1 s",
+  "isError": false,
+  "language": "FR"
+}

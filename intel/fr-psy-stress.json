@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-stress",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Stress",
+  "includedEntities": [
+    {
+      "entityName": "stress",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "chronique",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études sur le stress et ses effets.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "cortisol",
+    "santé",
+    "gestion du stress"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel effet ?",
+    "Quelle méthode ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#STRESS"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

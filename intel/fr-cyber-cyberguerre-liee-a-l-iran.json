@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberguerre-liee-a-l-iran",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberguerre liée à l'Iran",
+  "includedEntities": [
+    {
+      "entityName": "Iran",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cyberattaques",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "guerre",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les cyberattaques liées à la guerre avec l'Iran depuis février 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "Moyen-Orient",
+    "Europe"
+  ],
+  "times": [
+    "depuis le 28 février 2026"
+  ],
+  "relatedEntities": [
+    "Handala",
+    "APT iraniens",
+    "hacktivistes"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quel groupe ?",
+    "Quel impact ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IRAN",
+    "#CYBERGUERRE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

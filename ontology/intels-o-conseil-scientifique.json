@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-conseil-scientifique",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "conseil scientifique",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Composition du CAC 40.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les entrées et sorties du CAC 40."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "conseil scientifique",
+  "tags": [
+    "#BOURSE",
+    "#CAC40"
+  ],
+  "events": [
+    "@REVISION-INDICE"
+  ],
+  "signals": [
+    "!MARCHE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "composition",
+    "indice",
+    "Paris",
+    "capitalisation",
+    "CAC 40",
+    "entrée"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

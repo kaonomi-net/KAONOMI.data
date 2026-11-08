@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-bombe",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un engin explosif.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bombe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:obus)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bombe(s)?\\s+[àa]\\s+fragmentation)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bombe(s)?\\s+[àa]\\s+sous-munitions)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mine(s)?\\s+antipersonnel)(?![\\w-])"
+  ],
+  "symbol": "bombe",
+  "event": null,
+  "title": "Bombe",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sommeil",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "sommeil",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : Écrans et développement de l'enfant ; Sommeil des adolescents ; Sommeil et santé mentale ; Cerveau des adolescents.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les études sur les effets des écrans chez l'enfant.",
+    "Suivre le manque de sommeil chez les adolescents.",
+    "Suivre les études sur le sommeil et la santé mentale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "sommeil",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADOLESCENTS",
+    "#SOMMEIL",
+    "#ENFANCE",
+    "#ECRANS",
+    "#NEUROSCIENCES"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!BIEN-ETRE",
+    "!SCIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "écrans",
+    "santé mentale",
+    "adolescents",
+    "langage",
+    "attention",
+    "enfants",
+    "développement",
+    "horaires scolaires",
+    "mélatonine",
+    "insomnie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,63 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique étrangère) : Ingénieur et économiste, ancien président du Parlement européen (2004-2007) et ministre espagnol des Affaires étrangères, haut représentant pour les affaires étrangères de 2019 à 2024.",
+  "id": "eu-p-borrell",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Josep Borrell",
+  "entityType": "PERSON",
+  "description": "Ingénieur et économiste, ancien président du Parlement européen (2004-2007) et ministre espagnol des Affaires étrangères, haut représentant pour les affaires étrangères de 2019 à 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Josep Borrell est une figure de la politique étrangère.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Josep Borrell.",
+    "Lors du point de presse de midi, une question portait sur Josep Borrell."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Borrell"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Josep%20Borrell"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité espagnole",
+    "Parti socialiste ouvrier espagnol (PSOE)",
+    "Ingénieur",
+    "Économiste",
+    "Ministre des Affaires étrangères",
+    "Président du Parlement européen",
+    "Haut représentant pour les affaires étrangères et la politique de sécurité",
+    "Une Europe plus forte sur la scène internationale (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Affaires étrangères",
+    "Défense",
+    "Parlement européen",
+    "Service européen pour l'action extérieure",
+    "Kaja Kallas",
+    "Invasion de l'Ukraine par la Russie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

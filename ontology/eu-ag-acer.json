@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique énergétique) : Agence de l'Union européenne pour la coopération des régulateurs de l'énergie (ACER), organe de l'Union créé en 2010 et installé dans cette ville : Ljubljana.",
+  "id": "eu-ag-acer",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence de l'Union européenne pour la coopération des régulateurs de l'énergie (ACER)",
+  "entityType": "ORGANISATION",
+  "description": "Agence de l'Union européenne pour la coopération des régulateurs de l'énergie (ACER), organe de l'Union créé en 2010 et installé dans cette ville : Ljubljana.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Le rapport annuel de « Agence de l'Union européenne pour la coopération des régulateurs de l'énergie (ACER) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Agence de l'Union européenne pour la coopération des régulateurs de l'énergie (ACER) ».",
+    "Les décisions de « Agence de l'Union européenne pour la coopération des régulateurs de l'énergie (ACER) » touchent la politique énergétique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ACER"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEENERGETIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20de%20l%27Union%20europ%C3%A9enne%20pour%20la%20coop%C3%A9ration%20des%20r%C3%A9gulateurs%20de%20l%27%C3%A9nergie%20%28ACER%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ljubljana",
+    "Direction générale de l'énergie",
+    "Énergie"
+  ],
+  "isDeleted": false,
+  "startDate": "2010-01-01T00:00:00",
+  "endDate": null
+}

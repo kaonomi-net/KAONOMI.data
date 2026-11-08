@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-mensonge",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La parole contraire à la vérité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:menteu(r|rs|se|ses)\\s+(patent[ée]|inv[ée]t[ée]r[ée])(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mensonge(s)?\\s+[ée]hont[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mytho(mane|manes)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mensonge(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:baratin(s)?)(?![\\w-])"
+  ],
+  "symbol": "mensonge",
+  "event": null,
+  "title": "Mensonge",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

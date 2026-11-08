@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-fermetures-d-aeroports-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Fermetures d'aéroports russes",
+  "includedEntities": [
+    {
+      "entityName": "aéroports",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "fermeture",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "plan Kovior",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les fermetures d'aéroports russes à cause des drones.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou",
+    "Saint-Pétersbourg",
+    "Kazan"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "vols annulés",
+    "Rosaviatsia",
+    "défense antiaérienne"
+  ],
+  "questions": [
+    "Quels aéroports ?",
+    "Combien de vols touchés ?",
+    "Quelle durée ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#AVIATION",
+    "#DRONES"
+  ],
+  "events": [
+    "@FERMETURE-AEROPORT"
+  ],
+  "signals": [
+    "!PERTURBATION"
+  ],
+  "isDeleted": false
+}

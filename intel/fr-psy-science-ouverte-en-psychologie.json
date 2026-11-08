@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-science-ouverte-en-psychologie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Science ouverte en psychologie",
+  "includedEntities": [
+    {
+      "entityName": "science ouverte",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "préenregistrement",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les pratiques de science ouverte en psychologie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "données partagées",
+    "registered reports",
+    "réplications"
+  ],
+  "questions": [
+    "Quelle pratique ?",
+    "Quelle adoption ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#RECHERCHE",
+    "#SCIENCE-OUVERTE"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

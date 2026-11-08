@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Mouvement Liberté (Gibanje Svoboda), parti politique de ce pays : Slovénie.",
+  "id": "eu-parti-gs",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Mouvement Liberté (Gibanje Svoboda)",
+  "entityType": "ORGANISATION",
+  "description": "Mouvement Liberté (Gibanje Svoboda), parti politique de ce pays : Slovénie. Il est affilié à la famille Renew Europe.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "« Mouvement Liberté (Gibanje Svoboda) » joue un rôle dans la vie politique nationale.",
+    "Les fonctionnaires de « Mouvement Liberté (Gibanje Svoboda) » préparent les textes relatifs à la vie politique nationale.",
+    "La délégation a rencontré des représentants de « Mouvement Liberté (Gibanje Svoboda) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Mouvement%20Libert%C3%A9%20%28Gibanje%20Svoboda%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Slovénie",
+    "Renew Europe",
+    "Marta Kos"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

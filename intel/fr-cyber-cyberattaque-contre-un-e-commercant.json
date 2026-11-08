@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-un-e-commercant",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre un e-commerçant",
+  "includedEntities": [
+    {
+      "entityName": "e-commerce",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "clients",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "piratage",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les piratages de sites marchands, notamment avant les fêtes.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [
+    "novembre et décembre"
+  ],
+  "relatedEntities": [
+    "cartes bancaires",
+    "comptes clients",
+    "Black Friday"
+  ],
+  "questions": [
+    "Quel site ?",
+    "Quelles données ?",
+    "Quel risque de fraude ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#E-COMMERCE"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

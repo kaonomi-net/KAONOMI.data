@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-campus-cyber",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Campus Cyber",
+  "includedEntities": [
+    {
+      "entityName": "Campus Cyber",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "écosystème",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le Campus Cyber et l'écosystème français.",
+  "isFuzzy": true,
+  "locations": [
+    "La Défense",
+    "régions"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "startups",
+    "formations",
+    "communs"
+  ],
+  "questions": [
+    "Quelle initiative ?",
+    "Quel campus régional ?",
+    "Quel bilan ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FRANCE",
+    "#ECOSYSTEME"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

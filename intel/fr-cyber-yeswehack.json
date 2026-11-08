@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-yeswehack",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "YesWeHack",
+  "includedEntities": [
+    {
+      "entityName": "YesWeHack",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "bug bounty",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la plateforme française de bug bounty YesWeHack.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "chercheurs",
+    "programmes publics",
+    "levée de fonds"
+  ],
+  "questions": [
+    "Quel programme ?",
+    "Quelle croissance ?",
+    "Quel client ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#BUG-BOUNTY",
+    "#FRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

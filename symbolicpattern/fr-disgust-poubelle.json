@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-poubelle",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le récipient des déchets.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:poubelle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:poubelle(s)?\\s+qui\\s+d[ée]borde(nt)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:benne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vide-ordures)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bac(s)?\\s+[àa]\\s+ordures)(?![\\w-])"
+  ],
+  "symbol": "poubelle",
+  "event": null,
+  "title": "Poubelle",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

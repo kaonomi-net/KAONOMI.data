@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-reconnaissance-faciale-et-libertes",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Reconnaissance faciale et libertés",
+  "includedEntities": [
+    {
+      "entityName": "reconnaissance faciale",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "libertés",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Surveiller l'usage de la reconnaissance faciale dans l'espace public.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "police",
+    "Jeux olympiques",
+    "Quadrature du Net"
+  ],
+  "questions": [
+    "Quel usage autorisé ?",
+    "Quelle base légale ?",
+    "Quels recours ?"
+  ],
+  "tags": [
+    "#IA",
+    "#SURVEILLANCE",
+    "#LIBERTES"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

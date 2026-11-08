@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-attaques-par-deni-de-service",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Attaques par déni de service",
+  "includedEntities": [
+    {
+      "entityName": "déni de service",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "DDoS",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les attaques par déni de service distribué.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "sites indisponibles",
+    "botnets",
+    "revendications"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quel volume ?",
+    "Quelle durée ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DDOS"
+  ],
+  "events": [
+    "@DDOS"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

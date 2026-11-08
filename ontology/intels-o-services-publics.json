@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-services-publics",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "services publics",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Ruralité et services publics ; Défenseur des droits ; Cyberattaque contre une collectivité.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la question des services publics dans les territoires ruraux.",
+    "Suivre les rapports et alertes du Défenseur des droits.",
+    "Repérer les cyberattaques contre les communes, départements et régions."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "services publics",
+  "tags": [
+    "#FRANCE",
+    "#RURALITE",
+    "#TERRITOIRES",
+    "#DROITS",
+    "#INSTITUTIONS",
+    "#CYBERSECURITE"
+  ],
+  "events": [
+    "@RAPPORT",
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!SOCIAL",
+    "!VIGILANCE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ruralité",
+    "France Services",
+    "mobilité",
+    "fermetures",
+    "zones rurales",
+    "Paris",
+    "Défenseur des droits",
+    "Claire Hédon",
+    "rapport",
+    "discriminations"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

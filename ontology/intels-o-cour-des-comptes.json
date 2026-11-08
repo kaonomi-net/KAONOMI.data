@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cour-des-comptes",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "Cour des comptes",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Haut Conseil des finances publiques ; Cour des comptes et finances publiques ; Charge de la dette française.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les avis du Haut Conseil des finances publiques sur le budget.",
+    "Suivre les rapports de la Cour des comptes sur les finances publiques.",
+    "Suivre le coût des intérêts de la dette française."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Cour des comptes",
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#CONTROLE",
+    "#DETTE"
+  ],
+  "events": [
+    "@AVIS",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!VERIFICATION",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Haut Conseil des finances publiques",
+    "croissance",
+    "prévisions",
+    "avis",
+    "dépenses",
+    "dérapage",
+    "Pierre Moscovici",
+    "rapport",
+    "taux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

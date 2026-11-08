@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la communication de la Commission) : Portefeuille détenu par Manuel Marín, président de la Commission, dans la Commission Marín (intérim), du 16 mars 1999 au 16 septembre 1999.",
+  "id": "eu-pf-marin-marin",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Présidence de la Commission (intérim) (Commission Marín (intérim))",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Manuel Marín, président de la Commission, dans la Commission Marín (intérim), du 16 mars 1999 au 16 septembre 1999.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "La lettre de mission du portefeuille « Présidence de la Commission (intérim) (Commission Marín (intérim)) » fixe les objectifs en matière de la communication de la Commission.",
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Présidence de la Commission (intérim) (Commission Marín (intérim)) ».",
+    "Le portefeuille « Présidence de la Commission (intérim) (Commission Marín (intérim)) » couvre la communication de la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#COMMUNICATIONCOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pr%C3%A9sidence%20de%20la%20Commission%20%28int%C3%A9rim%29%20%28Commission%20Mar%C3%ADn%20%28int%C3%A9rim%29%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Manuel Marín",
+    "Commission Marín (intérim)",
+    "Président de la Commission européenne",
+    "Communication et présidence"
+  ],
+  "isDeleted": false,
+  "startDate": "1999-03-16T00:00:00",
+  "endDate": "1999-09-16T00:00:00"
+}

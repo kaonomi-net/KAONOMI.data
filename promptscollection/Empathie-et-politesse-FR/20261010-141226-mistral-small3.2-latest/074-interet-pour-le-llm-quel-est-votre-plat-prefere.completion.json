@@ -1,0 +1,13 @@
+{
+  "index": 74,
+  "file": "074-interet-pour-le-llm-quel-est-votre-plat-prefere.prompt.json",
+  "prompt": "Quel est votre plat préféré ?",
+  "promptWords": 6,
+  "completion": "Je n'ai pas de préférences personnelles, car je suis un modèle de langage et je n'ai pas de sensibilité gustative. Cependant, je peux vous aider à trouver des recettes, des recommandations de restaurants ou des informations sur différents plats du monde. Quel type de cuisine ou de plat vous intéresse ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:24.9641967+02:00",
+  "durationSeconds": 1.54,
+  "stats": "mistral-small3.2:latest · 513 + 66 tokens · 1,5 s",
+  "isError": false,
+  "language": "FR"
+}

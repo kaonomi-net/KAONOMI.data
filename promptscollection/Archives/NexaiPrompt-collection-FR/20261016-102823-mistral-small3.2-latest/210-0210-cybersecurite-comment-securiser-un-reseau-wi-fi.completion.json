@@ -1,0 +1,13 @@
+{
+  "index": 210,
+  "file": "0210-cybersecurite-comment-securiser-un-reseau-wi-fi.prompt.json",
+  "prompt": "Comment sécuriser un réseau Wi-Fi d'entreprise ?",
+  "promptWords": 7,
+  "completion": "Sécuriser un réseau Wi-Fi d'entreprise est essentiel pour protéger les données sensibles et prévenir les accès non autorisés. Voici quelques mesures à prendre pour renforcer la sécurité de votre réseau Wi-Fi :\n\n### 1. **Utiliser un protocole de sécurité robuste**\n   - **WPA3** : C'est le protocole de sécurité le plus récent et le plus sécurisé. Si votre matériel ne le prend pas en charge, utilisez au moins **WPA2** avec une clé de sécurité forte.\n   - **Éviter WEP** : Le protocole WEP est obsolète et facile à pirater.\n\n### 2. **Changer le mot de passe par défaut**\n   - Remplacez le mot de passe par défaut du routeur par un mot de passe fort et unique.\n   - Utilisez une combinaison de lettres majuscules et minuscules, de chiffres et de caractères spéciaux.\n\n### 3. **Activer le chiffrement**\n   - Assurez-vous que le chiffrement est activé sur votre réseau Wi-Fi. Les options incluent **AES** (Advanced Encryption Standard), qui est plus sécurisé que **TKIP**.\n\n### 4. **Masquer l'SSID**\n   - Masquer le nom de votre réseau (SSID) peut rendre plus difficile la découverte de votre réseau par des utilisateurs non autorisés.\n\n### 5. **Utiliser un pare-feu**\n   - Activez le pare-feu intégré de votre routeur pour bloquer les accès non autorisés.\n\n### 6. **Mettre à jour régulièrement le firmware du routeur**\n   - Les mises à jour de firmware corrigent souvent des vulnérabilités de sécurité.\n\n### 7. **Limiter les accès administrateur**\n   - Ne partagez pas les identifiants administrateur du routeur avec des personnes non autorisées.\n\n### 8. **Utiliser un réseau invité séparé**\n   - Créez un réseau invité pour les visiteurs afin de séparer leur trafic du réseau principal de l'entreprise.\n\n### 9. **Surveiller les connexions**\n   - Utilisez des outils de surveillance pour détecter les appareils non autorisés connectés à votre réseau.\n\n### 10. **Éduquer les employés**\n   - Sensibilisez les employés aux bonnes pratiques de sécurité Wi-Fi et aux risques potentiels.\n\nEn suivant ces étapes, vous pouvez considérablement améliorer la sécurité de votre réseau Wi-Fi d'entreprise. Si vous avez besoin de plus de détails sur une mesure spécifique, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:04:55.0194171+02:00",
+  "durationSeconds": 11.22,
+  "stats": "mistral-small3.2:latest · 518 + 543 tokens · 11,2 s",
+  "isError": false,
+  "language": "FR"
+}

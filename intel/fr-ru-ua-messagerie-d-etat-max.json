@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-messagerie-d-etat-max",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Messagerie d'État Max",
+  "includedEntities": [
+    {
+      "entityName": "Max",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "messagerie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "VK",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'imposition de la messagerie nationale russe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "WhatsApp",
+    "Telegram",
+    "surveillance"
+  ],
+  "questions": [
+    "Quelle obligation ?",
+    "Combien d'utilisateurs ?",
+    "Quels risques de surveillance ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#INTERNET",
+    "#SURVEILLANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

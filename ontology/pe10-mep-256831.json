@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Autriche.",
+  "id": "pe10-mep-256831",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Sophia Kircher",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Autriche. Groupe politique : Parti populaire européen (PPE). Parti ou liste national : Österreichische Volkspartei.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Sophia Kircher siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Sophia Kircher figure dans le relevé des votes par appel nominal.",
+    "Sophia Kircher participe aux travaux des commissions parlementaires."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Sophia KIRCHER"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256831",
+    "https://fr.wikipedia.org/w/index.php?search=Sophia%20Kircher"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Autriche",
+    "Parlement européen",
+    "Parti populaire européen (PPE)",
+    "Parti populaire autrichien (ÖVP)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-normalisation-entre-israel-et-l-arabie-saoudite",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Normalisation entre Israël et l'Arabie saoudite",
+  "includedEntities": [
+    {
+      "entityName": "Arabie saoudite",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Israël",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "normalisation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les discussions de normalisation diplomatique.",
+  "isFuzzy": true,
+  "locations": [
+    "Riyad",
+    "Jérusalem"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "accords d'Abraham",
+    "États-Unis",
+    "Palestiniens"
+  ],
+  "questions": [
+    "Quelles conditions ?",
+    "Quel calendrier ?",
+    "Quelle place pour un État palestinien ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#DIPLOMATIE",
+    "#MOYEN-ORIENT"
+  ],
+  "events": [
+    "@NEGOCIATIONS"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

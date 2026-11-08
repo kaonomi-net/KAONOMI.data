@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-klarna-et-introductions-de-fintechs",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Klarna et introductions de fintechs",
+  "includedEntities": [
+    {
+      "entityName": "Klarna",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "introduction en Bourse",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les introductions en Bourse de fintechs.",
+  "isFuzzy": true,
+  "locations": [
+    "New York",
+    "Stockholm"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "valorisation",
+    "résultats",
+    "cours"
+  ],
+  "questions": [
+    "Quel cours ?",
+    "Quelle valorisation ?",
+    "Quelle performance depuis l'introduction ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#FINTECH",
+    "#IPO"
+  ],
+  "events": [
+    "@INTRODUCTION-BOURSE"
+  ],
+  "signals": [
+    "!VALORISATION"
+  ],
+  "isDeleted": false
+}

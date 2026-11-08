@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (les rançongiciels) : Rançongiciel qui infecte des centaines de milliers de machines dans le monde, dont des hôpitaux britanniques.",
+  "id": "cyber-wannacry",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "WannaCry",
+  "entityType": "EVENT",
+  "description": "Rançongiciel qui infecte des centaines de milliers de machines dans le monde, dont des hôpitaux britanniques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "On date souvent un tournant des rançongiciels à « WannaCry ».",
+    "« WannaCry » est un jalon de l'histoire de la cybersécurité.",
+    "Dans sa conférence, l'historienne est revenue sur « WannaCry »."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 4,
+  "surpriseLevel": 3,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "WannaCrypt"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#RANCONGICIELS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=WannaCry"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Marcus Hutchins",
+    "NotPetya",
+    "Piratage de Sony Pictures",
+    "Rançongiciel contre Colonial Pipeline"
+  ],
+  "isDeleted": false,
+  "startDate": "2017-05-12T00:00:00",
+  "endDate": "2017-05-12T00:00:00"
+}

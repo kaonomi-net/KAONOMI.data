@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-logiciels-menaces-par-l-ia",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Logiciels menacés par l'IA",
+  "includedEntities": [
+    {
+      "entityName": "logiciels",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "disruption",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la crainte que l'IA agentique remplace des logiciels et services.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "SAP",
+    "Dassault Systèmes",
+    "Capgemini"
+  ],
+  "questions": [
+    "Quel secteur ?",
+    "Quel mouvement ?",
+    "Quel argument ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#IA",
+    "#DISRUPTION"
+  ],
+  "events": [],
+  "signals": [
+    "!DISRUPTION"
+  ],
+  "isDeleted": false
+}

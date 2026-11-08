@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-russie",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "Russie",
+  "entityType": "COUNTRY",
+  "description": "Cité par 91 intels : Pourparlers d'Abou Dhabi ; Rôle de la Chine dans la paix ; Statut de la Crimée dans les négociations ; Frappes de drones sur les raffineries russes ; Pénurie de carburant en Russie ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre les pourparlers russo-ukrainiens prévus à Abou Dhabi et leurs résultats.",
+    "Suivre les initiatives chinoises sur la guerre en Ukraine.",
+    "Suivre la place de la Crimée dans les discussions de paix."
+  ],
+  "angryLevel": null,
+  "sadLevel": 1,
+  "happyLevel": null,
+  "fearLevel": 2,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Russie",
+  "tags": [
+    "#RUSSIE",
+    "#GEOPOLITIQUE",
+    "#UKRAINE",
+    "#UNION-EUROPEENNE",
+    "#ENERGIE",
+    "#EUROPE"
+  ],
+  "events": [
+    "@SANCTION",
+    "@FRAPPE",
+    "@SABOTAGE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!INFLUENCE",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chine",
+    "États-Unis",
+    "Ukraine",
+    "drones",
+    "Bruxelles",
+    "sanctions",
+    "Pologne",
+    "Union européenne",
+    "sabotage",
+    "OTAN"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

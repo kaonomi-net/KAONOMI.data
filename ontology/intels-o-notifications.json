@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-notifications",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "notifications",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Attention et concentration ; Dépendance au smartphone.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les études sur la capacité d'attention.",
+    "Suivre la dépendance au smartphone."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "notifications",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#COGNITION",
+    "#ATTENTION",
+    "#ADDICTIONS",
+    "#ECRANS"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "concentration",
+    "multitâche",
+    "écrans",
+    "attention",
+    "jeunes",
+    "détox numérique",
+    "dépendance",
+    "temps d'écran",
+    "smartphone"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

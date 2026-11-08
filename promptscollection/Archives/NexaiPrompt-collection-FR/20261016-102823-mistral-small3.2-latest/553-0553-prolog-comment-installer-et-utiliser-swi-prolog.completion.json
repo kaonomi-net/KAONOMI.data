@@ -1,0 +1,13 @@
+{
+  "index": 553,
+  "file": "0553-prolog-comment-installer-et-utiliser-swi-prolog.prompt.json",
+  "prompt": "Comment installer et utiliser SWI-Prolog ?",
+  "promptWords": 6,
+  "completion": "Installer et utiliser SWI-Prolog est assez simple. Voici les étapes à suivre :\n\n### Installation de SWI-Prolog\n\n1. **Téléchargement** :\n   - Rendez-vous sur le site officiel de SWI-Prolog : [https://www.swi-prolog.org/](https://www.swi-prolog.org/)\n   - Sélectionnez la version appropriée pour votre système d'exploitation (Windows, macOS, Linux).\n\n2. **Installation** :\n   - **Windows** : Téléchargez l'installateur `.exe` et suivez les instructions de l'installation.\n   - **macOS** : Téléchargez le fichier `.dmg` et suivez les instructions pour installer l'application.\n   - **Linux** : Utilisez le gestionnaire de paquets de votre distribution. Par exemple, pour Ubuntu/Debian :\n     ```bash\n     sudo apt-get install swi-prolog\n     ```\n\n### Utilisation de SWI-Prolog\n\n1. **Lancement de SWI-Prolog** :\n   - **Windows/macOS** : Ouvrez l'application depuis le menu Démarrer ou le Launchpad.\n   - **Linux** : Lancez SWI-Prolog depuis le terminal en tapant `swipl`.\n\n2. **Interface de base** :\n   - Une fois lancé, vous verrez un prompt `?-` où vous pouvez entrer des requêtes Prolog.\n\n3. **Exemple de base** :\n   - Pour tester, vous pouvez entrer une simple règle Prolog :\n     ```prolog\n     ?- write('Hello, World!'), nl.\n     ```\n   - Appuyez sur Entrée pour exécuter la commande.\n\n4. **Chargement de fichiers** :\n   - Pour charger un fichier Prolog, utilisez la commande `consult` :\n     ```prolog\n     ?- consult('chemin/vers/votre_fichier.pl').\n     ```\n\n### Utilisation avancée\n\n- **Édition de fichiers** : Vous pouvez utiliser n'importe quel éditeur de texte pour écrire du code Prolog et ensuite le charger dans SWI-Prolog.\n- **Documentation** : La documentation complète est disponible sur le site officiel de SWI-Prolog et peut être consultée via l'interface en ligne de commande avec la commande `help.`\n\nSi vous avez besoin d'informations plus spécifiques ou d'aide pour une version particulière de SWI-Prolog, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:06:07.3860353+02:00",
+  "durationSeconds": 10.52,
+  "stats": "mistral-small3.2:latest · 516 + 520 tokens · 10,5 s",
+  "isError": false,
+  "language": "FR"
+}

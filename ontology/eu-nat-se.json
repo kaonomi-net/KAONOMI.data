@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Nationalité de l'Union européenne (la citoyenneté européenne) : Nationalité des citoyens de ce pays : Suède.",
+  "id": "eu-nat-se",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "nationalité suédoise",
+  "entityType": "NORP",
+  "description": "Nationalité des citoyens de ce pays : Suède. Les ressortissants sont appelés suédois.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-nationalites",
+  "sentencesExemples": [
+    "Les fonctionnaires européens de nationalité suédoise travaillent dans toutes les directions générales.",
+    "Le collège compte un membre de nationalité suédoise.",
+    "Plusieurs commissaires ont la nationalité suédoise."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDEAA",
+  "synonyms": [
+    "suédois",
+    "suédoise"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#NORP",
+    "#CITOYENNETEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=nationalit%C3%A9%20su%C3%A9doise"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Suède",
+    "Ylva Johansson",
+    "Jessika Roswall",
+    "Cecilia Malmström"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

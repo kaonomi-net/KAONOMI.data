@@ -1,0 +1,13 @@
+{
+  "index": 573,
+  "file": "0573-python-comment-manipuler-des-donnees-avec-pandas.prompt.json",
+  "prompt": "Comment manipuler des données avec pandas ?",
+  "promptWords": 7,
+  "completion": "Manipuler des données avec **pandas** est une tâche courante en analyse de données et en science des données. Voici quelques étapes et exemples de base pour vous aider à démarrer :\n\n### 1. **Installation de pandas**\nSi vous ne l'avez pas déjà installé, vous pouvez installer pandas via pip :\n```bash\npip install pandas\n```\n\n### 2. **Importation de pandas**\n```python\nimport pandas as pd\n```\n\n### 3. **Création d'un DataFrame**\nUn DataFrame est une structure de données tabulaire, similaire à une feuille de calcul Excel.\n\n#### Exemple de création d'un DataFrame à partir d'un dictionnaire :\n```python\ndata = {\n    'Nom': ['Alice', 'Bob', 'Charlie'],\n    'Âge': [25, 30, 35],\n    'Ville': ['Paris', 'Lyon', 'Marseille']\n}\n\ndf = pd.DataFrame(data)\nprint(df)\n```\n\n### 4. **Lecture de données depuis un fichier**\nVous pouvez lire des données depuis différents formats de fichiers comme CSV, Excel, etc.\n\n#### Exemple de lecture d'un fichier CSV :\n```python\ndf = pd.read_csv('chemin/vers/fichier.csv')\nprint(df.head())  # Affiche les premières lignes du DataFrame\n```\n\n### 5. **Manipulation des données**\n#### Sélection de colonnes :\n```python\nprint(df['Nom'])  # Affiche la colonne 'Nom'\n```\n\n#### Sélection de lignes :\n```python\nprint(df.iloc[0])  # Affiche la première ligne\n```\n\n#### Ajout d'une nouvelle colonne :\n```python\ndf['Nouvelle_Colonne'] = [1, 2, 3]\nprint(df)\n```\n\n#### Suppression d'une colonne :\n```python\ndf.drop('Nouvelle_Colonne', axis=1, inplace=True)\nprint(df)\n```\n\n### 6. **Filtrage des données**\n```python\n# Filtrer les lignes où l'âge est supérieur à 30\nfiltre = df['Âge'] > 30\ndf_filtre = df[filtre]\nprint(df_filtre)\n```\n\n### 7. **Tri des données**\n```python\n# Trier par ordre croissant de l'âge\ndf_trie = df.sort_values('Âge')\nprint(df_trie)\n```\n\n### 8. **Groupement et agrégation**\n```python\n# Groupement par ville et calcul de la moyenne d'âge\ngrouped = df.groupby('Ville')['Âge'].mean()\nprint(grouped)\n```\n\n### 9. **Sauvegarde des données**\n```python\ndf.to_csv('chemin/vers/fichier_modifie.csv', index=False)\n```\n\nCes exemples couvrent les bases de la manipulation de données avec pandas. Pour des opérations plus avancées, vous pouvez consulter la [documentation officielle de pandas](https://pandas.pydata.org/docs/).",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:20:15.1587053+02:00",
+  "durationSeconds": 12.27,
+  "stats": "mistral-small3.2:latest · 515 + 626 tokens · 12,3 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-comptes-de-campagne",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Comptes de campagne",
+  "includedEntities": [
+    {
+      "entityName": "comptes de campagne",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "financement",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le financement des campagnes et le contrôle de la commission.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "CNCCFP",
+    "dons",
+    "plafond de dépenses"
+  ],
+  "questions": [
+    "Quel plafond ?",
+    "Quels dons ?",
+    "Quelles irrégularités ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#FINANCEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSPARENCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (le calcul accéléré) : Ingénieur et entrepreneur taïwano-américain, cofondateur (1993) et directeur général de NVIDIA, dont les GPU sont devenus le moteur de l'apprentissage profond.",
+  "id": "ia-huang",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Jensen Huang",
+  "entityType": "PERSON",
+  "description": "Ingénieur et entrepreneur taïwano-américain, cofondateur (1993) et directeur général de NVIDIA, dont les GPU sont devenus le moteur de l'apprentissage profond.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Une biographie de Jensen Huang rappelle son rôle dans le calcul accéléré.",
+    "Jensen Huang est l'une des figures marquantes du calcul accéléré.",
+    "Lors de la conférence, l'oratrice a cité Jensen Huang pour illustrer les progrès du calcul accéléré."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Jen-Hsun Huang"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#CALCULACCELERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Jensen%20Huang"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NVIDIA H100",
+    "NVIDIA DGX-1",
+    "NVIDIA DGX Spark"
+  ],
+  "isDeleted": false,
+  "startDate": "1963-02-17T00:00:00",
+  "endDate": null
+}

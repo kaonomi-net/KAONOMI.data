@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-faillite",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'état d'une entreprise qui ne peut plus payer.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:faillite(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:failli(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mettre\\s+la\\s+cl[ée]\\s+sous\\s+la\\s+porte)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fermer\\s+boutique)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:entreprise(s)?\\s+en\\s+difficult[ée])(?![\\w-])"
+  ],
+  "symbol": "faillite",
+  "event": null,
+  "title": "Faillite",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

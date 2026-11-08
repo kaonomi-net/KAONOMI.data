@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-implantation-locale-du-rn-apres-les-municipales",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Implantation locale du RN après les municipales",
+  "includedEntities": [
+    {
+      "entityName": "Rassemblement national",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "mairies",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "municipales",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la gestion des villes conquises par le RN en 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "Perpignan",
+    "villes moyennes"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "maires RN",
+    "conseils municipaux",
+    "subventions"
+  ],
+  "questions": [
+    "Quelles villes ?",
+    "Quelles décisions marquantes ?",
+    "Quelles controverses ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#MUNICIPALES"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

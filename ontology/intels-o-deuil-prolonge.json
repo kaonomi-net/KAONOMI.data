@@ -1,0 +1,47 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-deuil-prolonge",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "deuil prolongé",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Deuil.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les recherches et l'actualité sur le deuil."
+  ],
+  "angryLevel": null,
+  "sadLevel": 100,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "deuil prolongé",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#DEUIL"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "perte",
+    "deuil",
+    "accompagnement",
+    "congé de deuil"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

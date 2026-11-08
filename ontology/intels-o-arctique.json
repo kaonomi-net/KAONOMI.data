@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-arctique",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Arctique",
+  "entityType": "LOCATION",
+  "description": "Cité par 4 intels : Arctique et route maritime du Nord ; Arctique et nouvelles routes ; Groenland et les États-Unis ; Union européenne et Arctique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les ambitions russes dans l'Arctique.",
+    "Suivre la compétition stratégique dans l'Arctique.",
+    "Suivre les ambitions américaines sur le Groenland et la réponse danoise."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Arctique",
+  "tags": [
+    "#ARCTIQUE",
+    "#GEOPOLITIQUE",
+    "#RUSSIE",
+    "#STRATEGIE",
+    "#RESSOURCES",
+    "#ETATS-UNIS"
+  ],
+  "events": [],
+  "signals": [
+    "!COMPETITION",
+    "!TENSION",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Danemark",
+    "Groenland",
+    "Chine",
+    "Nuuk",
+    "États-Unis",
+    "brise-glaces",
+    "GNL",
+    "route maritime du Nord",
+    "Mourmansk",
+    "Svalbard"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

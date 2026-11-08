@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-open-source",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "open source",
+  "entityType": "DOMAIN",
+  "description": "Cité par 8 intels : Modèle ouvert de Mistral AI ; Empoisonnement des données d'entraînement ; Prise de parole de Yann LeCun ; Déclaration d'Arthur Mensch ; Modèles open source contre modèles fermés ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Surveiller les modèles publiés par Mistral AI et leur licence.",
+    "Surveiller les attaques qui corrompent les données d'entraînement.",
+    "Suivre les positions de Yann LeCun sur l'avenir de l'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "open source",
+  "tags": [
+    "#IA",
+    "#CYBERSECURITE",
+    "#MISTRAL",
+    "#PERSONNALITE",
+    "#OPEN-SOURCE",
+    "#LLM"
+  ],
+  "events": [
+    "@DECLARATION",
+    "@LANCEMENT-MODELE",
+    "@INCIDENT-SECURITE"
+  ],
+  "signals": [
+    "!DEBAT",
+    "!NOUVEAUTE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Mistral AI",
+    "Arthur Mensch",
+    "Hugging Face",
+    "sécurité",
+    "Meta",
+    "failles",
+    "Le Chat",
+    "modèle",
+    "empoisonnement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

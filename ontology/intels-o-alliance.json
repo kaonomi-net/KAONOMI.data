@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-alliance",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "alliance",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Alliance entre le RN et l'UDR d'Éric Ciotti ; Alliance entre la droite et le centre.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'alliance entre le RN et le parti d'Éric Ciotti.",
+    "Suivre les accords ou divisions entre la droite et le centre."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "alliance",
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#DROITE",
+    "#PRESIDENTIELLE-2027",
+    "#STRATEGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!ALLIANCE",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Rassemblement national",
+    "municipales",
+    "Nice",
+    "Éric Ciotti",
+    "Les Républicains",
+    "UDR",
+    "droite",
+    "Renaissance",
+    "LR",
+    "centre"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

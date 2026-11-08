@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-christophe-hansen-et-l-agriculture",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Christophe Hansen et l'agriculture",
+  "includedEntities": [
+    {
+      "entityName": "Christophe Hansen",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "agriculture",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action du commissaire à l'agriculture.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "PAC",
+    "agriculteurs",
+    "Mercosur"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel budget agricole ?",
+    "Quelle réaction des agriculteurs ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#AGRICULTURE",
+    "#HANSEN"
+  ],
+  "events": [],
+  "signals": [
+    "!AGRICULTURE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (la psychologie) : Psychologue canadien, auteur de « The Organization of Behavior » (1949) où il énonce la règle d'apprentissage qui porte son nom.",
+  "id": "ia-hebb",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Donald Hebb",
+  "entityType": "PERSON",
+  "description": "Psychologue canadien, auteur de « The Organization of Behavior » (1949) où il énonce la règle d'apprentissage qui porte son nom.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Lors de la conférence, l'oratrice a cité Donald Hebb pour illustrer les progrès de la psychologie.",
+    "Une biographie de Donald Hebb rappelle son rôle dans la psychologie.",
+    "Donald Hebb est l'une des figures marquantes de la psychologie."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Donald Olding Hebb"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#PSYCHOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Donald%20Hebb"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Règle de Hebb"
+  ],
+  "isDeleted": false,
+  "startDate": "1904-07-22T00:00:00",
+  "endDate": "1985-08-20T00:00:00"
+}

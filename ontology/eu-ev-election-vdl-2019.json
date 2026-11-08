@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la démocratie européenne) : Élue de justesse avec 383 voix, neuf de plus que la majorité requise, après avoir été proposée par le Conseil européen.",
+  "id": "eu-ev-election-vdl-2019",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Élection d'Ursula von der Leyen par le Parlement européen",
+  "entityType": "EVENT",
+  "description": "Élue de justesse avec 383 voix, neuf de plus que la majorité requise, après avoir été proposée par le Conseil européen.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "La chronologie de la Commission place « Élection d'Ursula von der Leyen par le Parlement européen » à sa date.",
+    "« Élection d'Ursula von der Leyen par le Parlement européen » est un jalon de l'histoire de de l'Union européenne.",
+    "Les historiens de la construction européenne reviennent sur « Élection d'Ursula von der Leyen par le Parlement européen »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#DEMOCRATIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89lection%20d%27Ursula%20von%20der%20Leyen%20par%20le%20Parlement%20europ%C3%A9en"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Démocratie",
+    "Ursula von der Leyen",
+    "Commission Juncker",
+    "Strasbourg",
+    "Parlement européen",
+    "Élections européennes de 2019"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-07-16T00:00:00",
+  "endDate": null
+}

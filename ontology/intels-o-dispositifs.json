@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-dispositifs",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "dispositifs",
+  "entityType": "HARDWARE",
+  "description": "Cité par 1 intel : Stratégie nationale de prévention du suicide.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre la stratégie nationale de prévention du suicide."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "dispositifs",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "prévention du suicide",
+    "ARS",
+    "stratégie nationale",
+    "France",
+    "ministère"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

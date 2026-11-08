@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la politique spatiale) : Programme européen d'observation de la Terre.",
+  "id": "eu-prog-copernicus",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Copernicus",
+  "entityType": "PROGRAMME",
+  "description": "Programme européen d'observation de la Terre.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "La Commission gère « Copernicus » avec les États membres ou ses agences.",
+    "Les bénéficiaires de « Copernicus » sont publiés en ligne.",
+    "L'appel à propositions de « Copernicus » est ouvert."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#POLITIQUESPATIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Copernicus"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de l'industrie de la défense et de l'espace",
+    "Espace",
+    "Environnement",
+    "Agence de l'Union européenne pour le programme spatial (EUSPA)"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-04-03T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-sauvegardes-et-plan-de-reprise",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Sauvegardes et plan de reprise",
+  "includedEntities": [
+    {
+      "entityName": "sauvegardes",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "plan de reprise",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les bonnes pratiques de sauvegarde et de reprise après incident.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "3-2-1",
+    "immuabilité",
+    "tests"
+  ],
+  "questions": [
+    "Quelle pratique ?",
+    "Quel test ?",
+    "Quel retour d'expérience ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DEFENSE",
+    "#RESILIENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!RESILIENCE"
+  ],
+  "isDeleted": false
+}

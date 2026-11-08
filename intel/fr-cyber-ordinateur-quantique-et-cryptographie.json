@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-ordinateur-quantique-et-cryptographie",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Ordinateur quantique et cryptographie",
+  "includedEntities": [
+    {
+      "entityName": "ordinateur quantique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "RSA",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les avancées des ordinateurs quantiques et leur menace pour la cryptographie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "qubits",
+    "correction d'erreurs",
+    "IBM"
+  ],
+  "questions": [
+    "Quelle avancée ?",
+    "Combien de qubits logiques ?",
+    "Quel horizon ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#QUANTIQUE"
+  ],
+  "events": [
+    "@ANNONCE"
+  ],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

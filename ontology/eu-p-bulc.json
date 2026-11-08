@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les transports) : Cheffe d'entreprise et ancienne vice-Première ministre slovène, commissaire aux Transports de 2014 à 2019.",
+  "id": "eu-p-bulc",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Violeta Bulc",
+  "entityType": "PERSON",
+  "description": "Cheffe d'entreprise et ancienne vice-Première ministre slovène, commissaire aux Transports de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Le portrait de Violeta Bulc figure dans le dossier consacré aux transports.",
+    "La presse européenne a longuement commenté le parcours de Violeta Bulc.",
+    "Les manuels sur les institutions européennes citent Violeta Bulc."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Bulc"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#TRANSPORTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Violeta%20Bulc"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité slovène",
+    "Parti du centre moderne (SMC)",
+    "Chef d'entreprise",
+    "Commissaire européen",
+    "Transports (Commission Juncker)",
+    "Commission Juncker",
+    "Transports"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

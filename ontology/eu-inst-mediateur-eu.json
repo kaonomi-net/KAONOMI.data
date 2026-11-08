@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les valeurs de l'Union) : Organe indépendant qui enquête sur les plaintes pour mauvaise administration dans les institutions de l'Union.",
+  "id": "eu-inst-mediateur-eu",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Médiateur européen",
+  "entityType": "ORGANISATION",
+  "description": "Organe indépendant qui enquête sur les plaintes pour mauvaise administration dans les institutions de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-institutions",
+  "sentencesExemples": [
+    "Le rapport annuel de « Médiateur européen » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Médiateur européen ».",
+    "Les décisions de « Médiateur européen » touchent les valeurs de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "Ombudsman européen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VALEURSUNION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=M%C3%A9diateur%20europ%C3%A9en"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Médiateur européen",
+    "Strasbourg",
+    "Union européenne",
+    "Valeurs et transparence",
+    "Emily O'Reilly"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

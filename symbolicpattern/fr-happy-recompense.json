@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-recompense",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qu'on reçoit pour un mérite.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]compense(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]compens(er|[ée]|[ée]e|[ée]s))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gratification(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:laur[ée]at(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bonus)(?![\\w-])"
+  ],
+  "symbol": "récompense",
+  "event": null,
+  "title": "Récompense",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

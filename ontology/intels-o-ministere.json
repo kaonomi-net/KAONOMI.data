@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ministere",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "ministère",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Rachida Dati ; Cyberattaque contre un ministère ; Stratégie nationale de prévention du suicide.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre le parcours de Rachida Dati après la municipale parisienne.",
+    "Repérer les cyberattaques contre les administrations centrales.",
+    "Suivre la stratégie nationale de prévention du suicide."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "ministère",
+  "tags": [
+    "#FRANCE",
+    "#PARIS",
+    "#DROITE",
+    "#CYBERSECURITE",
+    "#ETAT",
+    "#PSYCHOLOGIE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!POLITIQUE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Rachida Dati",
+    "LR",
+    "justice",
+    "fuite",
+    "DDoS",
+    "cyberattaque",
+    "Bruxelles",
+    "espionnage",
+    "prévention du suicide"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-machette",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une arme blanche.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:machette(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arme(s)?\\s+blanche(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arm[ée](e|s|es)?\\s+d['’]un\\s+couteau)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:couteau(x)?\\s+de\\s+boucher)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hachoir(s)?)(?![\\w-])"
+  ],
+  "symbol": "machette",
+  "event": null,
+  "title": "Machette",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

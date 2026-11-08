@@ -1,0 +1,13 @@
+{
+  "index": 99,
+  "file": "0099-microsoft-office-comment-numeroter-les-pages-a-partir.prompt.json",
+  "prompt": "Comment numéroter les pages à partir de la deuxième page dans Word ?",
+  "promptWords": 13,
+  "completion": "Pour numéroter les pages à partir de la deuxième page dans Microsoft Word, suivez ces étapes :\n\n1. **Ouvrez votre document Word** et placez le curseur à la fin de la première page.\n2. **Double-cliquez sur l'en-tête ou le pied de page** (selon l'endroit où vous souhaitez que la numérotation apparaisse) pour entrer dans le mode d'édition de l'en-tête/pied de page.\n3. **Allez dans l'onglet \"Création\"** (ou \"Header & Footer\" dans certaines versions).\n4. **Cliquez sur \"Liens entre les en-têtes et pieds de page\"** pour désactiver la synchronisation entre les en-têtes/pieds de page. Cela permet de personnaliser la numérotation de la deuxième page sans affecter la première.\n5. **Placez le curseur dans l'en-tête ou le pied de page de la deuxième page**.\n6. **Cliquez sur \"Numéro de page\"** dans l'onglet \"Création\" et choisissez le format de numérotation souhaité (par exemple, \"Numéros de page simples\").\n7. **Cliquez sur \"Format des numéros de page\"** et dans la fenêtre qui s'ouvre, sélectionnez \"Commencer à\"** et entrez **2** dans le champ. Cela fera démarrer la numérotation à partir de la deuxième page.\n8. **Fermez le mode d'édition de l'en-tête/pied de page** en cliquant sur \"Fermer l'en-tête et le pied de page\" ou en double-cliquant à l'extérieur de cette zone.\n\nVotre document devrait maintenant afficher la numérotation des pages à partir de la deuxième page.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:48:22.8847023+02:00",
+  "durationSeconds": 7.51,
+  "stats": "mistral-small3.2:latest · 521 + 370 tokens · 7,5 s",
+  "isError": false,
+  "language": "FR"
+}

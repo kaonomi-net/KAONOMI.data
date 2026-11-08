@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-bots",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "bots",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 4 intels : Désinformation générée par IA ; Ingérence électorale par IA ; Désinformation pendant la campagne ; Ingérence numérique dans les élections.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Détecter les campagnes de fausses informations produites par IA.",
+    "Surveiller les tentatives de manipulation électorale par l'IA.",
+    "Détecter les fausses informations visant les candidats."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "bots",
+  "tags": [
+    "#ELECTIONS",
+    "#IA",
+    "#DESINFORMATION",
+    "#INGERENCE",
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027"
+  ],
+  "events": [
+    "@CAMPAGNE-DESINFORMATION",
+    "@INGERENCE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!DESINFORMATION",
+    "!INGERENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Viginum",
+    "désinformation",
+    "IA",
+    "ingérence",
+    "plateformes",
+    "réseaux sociaux",
+    "élection",
+    "deepfake",
+    "campagne",
+    "présidentielle"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

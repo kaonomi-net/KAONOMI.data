@@ -1,0 +1,13 @@
+{
+  "index": 90,
+  "file": "090-interet-pour-le-llm-haben-sie-vor-etwas-angst.prompt.json",
+  "prompt": "Haben Sie vor etwas Angst?",
+  "promptWords": 5,
+  "completion": "Nein, ich habe keine Angst, denn ich bin ein KI-Sprachmodell und empfinde keine Gefühle. Meine Aufgabe ist es, Informationen zu liefern und bei Fragen zu helfen.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:37:50.5465722+02:00",
+  "durationSeconds": 1.54,
+  "stats": "gpt-oss:20b · 74 + 204 tokens · 1,5 s",
+  "isError": false,
+  "language": "DE"
+}

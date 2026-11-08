@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-ecurement",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un dégoût qui soulève le cœur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]c(œ|oe)urement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]c(œ|oe)ur(er|[ée]|[ée]e|[ée]s|[ée]es|e|ent|ant|ante|ants|antes)|[çc]a\\s+m['’][ée]c(œ|oe)ure)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[àa]\\s+vomir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[àa]\\s+gerber)(?![\\w-])"
+  ],
+  "symbol": "écœurement",
+  "event": null,
+  "title": "Écœurement",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

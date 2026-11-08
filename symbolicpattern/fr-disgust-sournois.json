@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-sournois",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui cache ses mauvaises intentions.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sournois(e|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hypocritement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perfide(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:faux(-)?jeton(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mielleu(x|se|ses))(?![\\w-])"
+  ],
+  "symbol": "sournois",
+  "event": null,
+  "title": "Sournois",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

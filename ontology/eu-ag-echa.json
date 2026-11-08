@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'environnement) : Agence européenne des produits chimiques (ECHA), organe de l'Union créé en 2007 et installé dans cette ville : Helsinki.",
+  "id": "eu-ag-echa",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence européenne des produits chimiques (ECHA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence européenne des produits chimiques (ECHA), organe de l'Union créé en 2007 et installé dans cette ville : Helsinki.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Agence européenne des produits chimiques (ECHA) » préparent les textes relatifs à l'environnement.",
+    "La délégation a rencontré des représentants de « Agence européenne des produits chimiques (ECHA) ».",
+    "« Agence européenne des produits chimiques (ECHA) » joue un rôle dans l'environnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "ECHA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20europ%C3%A9enne%20des%20produits%20chimiques%20%28ECHA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Helsinki",
+    "Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME",
+    "Environnement",
+    "Industrie"
+  ],
+  "isDeleted": false,
+  "startDate": "2007-01-01T00:00:00",
+  "endDate": null
+}

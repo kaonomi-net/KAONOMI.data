@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Droit et justice (PiS), parti politique de ce pays : Pologne.",
+  "id": "eu-parti-pis",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Droit et justice (PiS)",
+  "entityType": "ORGANISATION",
+  "description": "Droit et justice (PiS), parti politique de ce pays : Pologne. Il est affilié à la famille Conservateurs et réformistes européens (ECR).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Droit et justice (PiS) » préparent les textes relatifs à la vie politique nationale.",
+    "La délégation a rencontré des représentants de « Droit et justice (PiS) ».",
+    "« Droit et justice (PiS) » joue un rôle dans la vie politique nationale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Droit%20et%20justice%20%28PiS%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pologne",
+    "Conservateurs et réformistes européens (ECR)",
+    "Janusz Wojciechowski"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

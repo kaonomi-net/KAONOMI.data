@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-peche-et-quotas",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Pêche et quotas",
+  "includedEntities": [
+    {
+      "entityName": "pêche",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "quotas",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la fixation des quotas de pêche européens.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "décembre"
+  ],
+  "relatedEntities": [
+    "pêcheurs",
+    "Royaume-Uni",
+    "stocks"
+  ],
+  "questions": [
+    "Quels quotas ?",
+    "Quelle réaction des pêcheurs ?",
+    "Quel accord avec Londres ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#PECHE"
+  ],
+  "events": [
+    "@DECISION-UE"
+  ],
+  "signals": [
+    "!AGRICULTURE"
+  ],
+  "isDeleted": false
+}

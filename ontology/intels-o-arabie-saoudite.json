@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-arabie-saoudite",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Arabie saoudite",
+  "entityType": "COUNTRY",
+  "description": "Cité par 3 intels : Normalisation entre Israël et l'Arabie saoudite ; Décision de l'OPEP+ ; OPEP+ et production pétrolière.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre les discussions de normalisation diplomatique.",
+    "Suivre les décisions de production des pays exportateurs de pétrole.",
+    "Suivre les décisions de production de l'OPEP+."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Arabie saoudite",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ENERGIE",
+    "#OPEP",
+    "#DIPLOMATIE",
+    "#MOYEN-ORIENT",
+    "#PETROLE"
+  ],
+  "events": [
+    "@NEGOCIATIONS",
+    "@DECISION-OPEP",
+    "@DECISION"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!PRIX-ENERGIE",
+    "!PRIX"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Riyad",
+    "OPEP",
+    "Vienne",
+    "production",
+    "quotas",
+    "Russie",
+    "Israël",
+    "Jérusalem",
+    "normalisation",
+    "accords d'Abraham"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-radiologique",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une menace liée aux matières radioactives.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:radiologique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bombe(s)?\\s+sale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mati[èe]re(s)?\\s+radioactive(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:contamination\\s+radioactive)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:irradiation(s)?)(?![\\w-])"
+  ],
+  "symbol": "radiologique",
+  "event": null,
+  "title": "Radiologique",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

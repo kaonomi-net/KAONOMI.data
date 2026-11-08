@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-compagnons-ia-et-adolescents",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Compagnons IA et adolescents",
+  "includedEntities": [
+    {
+      "entityName": "compagnons IA",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "adolescents",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage des chatbots compagnons par les adolescents, près de deux sur trois selon des enquêtes d'octobre 2026.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Common Sense Media",
+    "JED Foundation",
+    "Character.AI"
+  ],
+  "questions": [
+    "Quel usage ?",
+    "Quel risque ?",
+    "Quelle régulation ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADOLESCENTS",
+    "#IA"
+  ],
+  "events": [
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 45,
+  "file": "0045-architecture-entreprise-explique-le-domain-driven-design-de.prompt.json",
+  "prompt": "Explique le Domain-Driven Design de façon simple.",
+  "promptWords": 7,
+  "completion": "Le **Domain-Driven Design (DDD)** est une approche de conception logicielle qui met l'accent sur la compréhension approfondie du **domaine métier** (le cœur de l'activité de l'entreprise) pour créer un logiciel plus adapté et plus efficace.\n\n### En termes simples :\nImaginez que vous construisez une maison. Au lieu de simplement suivre un plan standard, vous prenez le temps de bien comprendre les besoins et les habitudes des personnes qui y vivront. Le DDD fonctionne de la même manière pour le logiciel : il s'agit de bien comprendre le domaine métier (les règles, les processus, les concepts clés) avant de coder.\n\n### Les idées principales du DDD :\n1. **Modélisation du domaine** :\n   - Identifier les concepts clés du métier (ex : \"Commande\", \"Client\", \"Paiement\" pour un site e-commerce).\n   - Créer des modèles qui reflètent ces concepts de manière précise.\n\n2. **Langage ubiquitaire** :\n   - Utiliser les mêmes termes entre les développeurs et les experts métiers pour éviter les malentendus.\n\n3. **Limites contextuelles (Bounded Contexts)** :\n   - Diviser le système en sous-domaines avec leurs propres règles (ex : la gestion des stocks n'a pas les mêmes règles que la facturation).\n\n4. **Entités, Valeurs et Agrégats** :\n   - **Entités** : Objets uniques identifiés par une clé (ex : un client avec un ID).\n   - **Valeurs** : Objets définis par leurs attributs (ex : une adresse postale).\n   - **Agrégats** : Groupes d'objets traités comme une seule unité (ex : une commande avec ses lignes de produits).\n\n### Pourquoi utiliser le DDD ?\n- **Logiciel plus adapté** : Le code reflète mieux la réalité métier.\n- **Moins d'erreurs** : Meilleure communication entre équipes techniques et métiers.\n- **Évolutivité** : Le système est plus facile à faire évoluer avec les changements métiers.\n\nEn résumé, le DDD aide à construire des logiciels qui correspondent vraiment aux besoins des utilisateurs, en évitant les solutions \"taille unique\" qui ne collent pas au métier.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:37:17.8898157+02:00",
+  "durationSeconds": 9.71,
+  "stats": "mistral-small3.2:latest · 519 + 481 tokens · 9,7 s",
+  "isError": false,
+  "language": "FR"
+}

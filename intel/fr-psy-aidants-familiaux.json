@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-aidants-familiaux",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Aidants familiaux",
+  "includedEntities": [
+    {
+      "entityName": "aidants",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "proches aidants",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la santé mentale des aidants familiaux.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "épuisement",
+    "répit",
+    "congé"
+  ],
+  "questions": [
+    "Quel constat ?",
+    "Quelle aide ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#AIDANTS"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-obus",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "obus",
+  "entityType": "HARDWARE",
+  "description": "Cité par 6 intels : Production européenne de munitions ; Initiative tchèque d'obus ; Munitions nord-coréennes ; Artillerie et obus de 155 mm ; Production d'armement russe ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre la montée en puissance de la production de munitions en Europe.",
+    "Suivre l'achat d'obus hors d'Europe pour l'Ukraine.",
+    "Suivre les livraisons d'obus et d'armes nord-coréens à la Russie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "obus",
+  "tags": [
+    "#MUNITIONS",
+    "#UKRAINE",
+    "#INDUSTRIE-DEFENSE",
+    "#RUSSIE",
+    "#EUROPE",
+    "#TCHEQUIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUTIEN",
+    "!INDICATEUR",
+    "!REARMEMENT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "munitions",
+    "production",
+    "Europe",
+    "ASAP",
+    "artillerie",
+    "missiles",
+    "Rheinmetall",
+    "initiative tchèque",
+    "financement",
+    "République tchèque"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

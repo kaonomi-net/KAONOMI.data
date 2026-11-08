@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-allegresse",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une joie vive qui se manifeste.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:all[ée]gresse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exaltation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:transport(s)?\\s+de\\s+joie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fou\\s+de\\s+joie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:folle\\s+de\\s+joie)(?![\\w-])"
+  ],
+  "symbol": "allégresse",
+  "event": null,
+  "title": "Allégresse",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

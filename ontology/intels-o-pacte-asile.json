@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-pacte-asile",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "pacte asile",
+  "entityType": "LAW",
+  "description": "Cité par 1 intel : Magnus Brunner et la migration.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre l'action du commissaire aux affaires intérieures et à la migration."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "pacte asile",
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#MIGRATION",
+    "#BRUNNER"
+  ],
+  "events": [],
+  "signals": [
+    "!MIGRATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Magnus Brunner",
+    "migration",
+    "retours",
+    "Bruxelles",
+    "Frontex"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

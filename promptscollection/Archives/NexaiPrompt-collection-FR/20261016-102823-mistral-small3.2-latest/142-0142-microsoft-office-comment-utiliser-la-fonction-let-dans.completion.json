@@ -1,0 +1,13 @@
+{
+  "index": 142,
+  "file": "0142-microsoft-office-comment-utiliser-la-fonction-let-dans.prompt.json",
+  "prompt": "Comment utiliser la fonction LET dans Excel ?",
+  "promptWords": 8,
+  "completion": "La fonction `LET` dans Excel est une fonction très utile qui permet de définir des variables intermédiaires pour simplifier et rendre plus lisible des formules complexes. Elle a été introduite dans Excel 365 et Excel 2021.\n\n### Syntaxe de la fonction `LET` :\n```excel\nLET(nom1, valeur1, nom2, valeur2, ..., calcul)\n```\n\n- **nom1, nom2, ...** : Ce sont les noms des variables que vous définissez.\n- **valeur1, valeur2, ...** : Ce sont les valeurs ou expressions associées à chaque variable.\n- **calcul** : C'est la formule finale qui utilise les variables définies.\n\n### Exemple d'utilisation :\nSupposons que vous voulez calculer l'aire d'un rectangle avec une longueur de 10 et une largeur de 5. Vous pouvez utiliser `LET` pour définir ces valeurs et ensuite les utiliser dans le calcul.\n\n```excel\n=LET(longueur, 10, largeur, 5, longueur * largeur)\n```\n\n### Avantages de `LET` :\n1. **Simplification des formules complexes** : Vous pouvez définir des variables intermédiaires pour rendre la formule plus lisible.\n2. **Réutilisation des calculs** : Vous pouvez réutiliser les mêmes calculs plusieurs fois dans une formule sans avoir à les répéter.\n3. **Meilleure performance** : Dans certains cas, Excel peut optimiser les calculs en utilisant `LET`.\n\n### Exemple plus avancé :\nImaginons que vous voulez calculer la moyenne et l'écart-type d'une plage de données, puis utiliser ces valeurs pour un autre calcul.\n\n```excel\n=LET(moyenne, AVERAGE(A1:A10), ecart_type, STDEV(A1:A10), moyenne + 2 * ecart_type)\n```\n\n### Remarque :\nLa fonction `LET` est particulièrement utile dans les versions récentes d'Excel (Excel 365 et Excel 2021). Si vous utilisez une version antérieure, cette fonction ne sera pas disponible.\n\nSi vous avez besoin d'un exemple spécifique ou d'une aide supplémentaire, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:54:45.9891661+02:00",
+  "durationSeconds": 9.41,
+  "stats": "mistral-small3.2:latest · 516 + 464 tokens · 9,4 s",
+  "isError": false,
+  "language": "FR"
+}

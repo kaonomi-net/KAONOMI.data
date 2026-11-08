@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (la normalisation) : Le National Bureau of Standards publie le DES comme standard fédéral de chiffrement (FIPS 46).",
+  "id": "cyber-des-standard",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Adoption du DES",
+  "entityType": "EVENT",
+  "description": "Le National Bureau of Standards publie le DES comme standard fédéral de chiffrement (FIPS 46).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "Les journaux de l'époque ont largement commenté l'événement « Adoption du DES ».",
+    "L'événement « Adoption du DES » a marqué durablement l'histoire de la normalisation.",
+    "La frise chronologique de la salle de formation place « Adoption du DES » en bonne place."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "FIPS 46"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#NORMALISATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Adoption%20du%20DES"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "DES"
+  ],
+  "isDeleted": false,
+  "startDate": "1977-01-01T00:00:00",
+  "endDate": "1977-01-01T00:00:00"
+}

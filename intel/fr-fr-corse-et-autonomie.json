@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-corse-et-autonomie",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Corse et autonomie",
+  "includedEntities": [
+    {
+      "entityName": "Corse",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "autonomie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le processus d'autonomie de la Corse.",
+  "isFuzzy": true,
+  "locations": [
+    "Ajaccio",
+    "Bastia"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "révision constitutionnelle",
+    "Assemblée de Corse",
+    "nationalistes"
+  ],
+  "questions": [
+    "Où en est la réforme ?",
+    "Quel vote ?",
+    "Quelles tensions ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#CORSE",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!INSTITUTIONS"
+  ],
+  "isDeleted": false
+}

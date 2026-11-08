@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Pays de l'Union européenne (la politique européenne) : Pologne, État membre de l'Union européenne depuis 2004, capitale Varsovie.",
+  "id": "eu-pays-pl",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Pologne",
+  "entityType": "COUNTRY",
+  "description": "Pologne, État membre de l'Union européenne depuis 2004, capitale Varsovie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-etats-membres",
+  "sentencesExemples": [
+    "Le rapport de la Commission consacre un chapitre à Pologne.",
+    "Pologne participe aux décisions de de l'Union européenne.",
+    "Les fonds européens financent de nombreux projets en Pologne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF0D",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#COUNTRY",
+    "#POLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pologne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité polonaise",
+    "Varsovie",
+    "Union européenne",
+    "polonais",
+    "Droit et justice (PiS)",
+    "Plateforme civique (PO)",
+    "Élargissement de 2004",
+    "Présidence polonaise du Conseil de l'UE (janvier-juin 2025)"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-01-01T00:00:00",
+  "endDate": null
+}

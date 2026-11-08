@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Grèce.",
+  "id": "pe10-mep-198490",
+  "dateCreated": "2026-10-31 20:22:42",
+  "name": "Emmanouil Fragkos",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Grèce. Groupe politique : Conservateurs et réformistes européens (ECR). Parti ou liste national : Elliniki Lusi-Greek Solution.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Emmanouil Fragkos siège au Parlement européen depuis la législature 2024-2029.",
+    "Le vote de Emmanouil Fragkos figure dans le relevé des votes par appel nominal.",
+    "Emmanouil Fragkos participe aux travaux des commissions parlementaires."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Emmanouil FRAGKOS"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/198490",
+    "https://fr.wikipedia.org/w/index.php?search=Emmanouil%20Fragkos"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Grèce",
+    "Parlement européen",
+    "Conservateurs et réformistes européens (ECR)",
+    "Elliniki Lusi-Greek Solution"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-squelette",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les os d'un mort.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:squelette(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ossement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cr[âa]ne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:t[êe]te(s)?\\s+de\\s+mort)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:macabre(s)?)(?![\\w-])"
+  ],
+  "symbol": "squelette",
+  "event": null,
+  "title": "Squelette",
+  "tags": [
+    "#MORT",
+    "#SURNATUREL"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 129,
+  "file": "0129-microsoft-office-how-do-i-use-power-query.prompt.json",
+  "prompt": "How do I use Power Query to import data in Excel?",
+  "promptWords": 11,
+  "completion": "To use Power Query to import data in Excel, follow these steps:\n\n### 1. **Open Power Query Editor**\n   - In Excel, go to the **Data** tab on the Ribbon.\n   - Click on **Get Data** in the toolbar.\n   - Choose the data source you want to import from (e.g., **From File**, **From Database**, **From Web**, etc.).\n\n### 2. **Select Your Data Source**\n   - For example, if you're importing from a file:\n     - Click **From File** > **From Excel** (or another file type like CSV, Text, etc.).\n     - Browse to the file location, select the file, and click **Import**.\n   - If you're importing from a database or web:\n     - Follow the prompts to connect to the database or enter the URL for the web data.\n\n### 3. **Load Data into Power Query Editor**\n   - After selecting the data source, Excel will open the **Power Query Editor**.\n   - Here, you can preview the data and perform transformations like filtering, sorting, or merging data.\n\n### 4. **Transform Data (Optional)**\n   - Use the **Home** or **Transform** tabs in the Power Query Editor to clean and shape your data.\n   - Common transformations include:\n     - Removing columns or rows.\n     - Changing data types.\n     - Filtering data.\n     - Merging or appending queries.\n\n### 5. **Load Data into Excel**\n   - Once you're satisfied with the data, click **Close & Load** in the Power Query Editor.\n   - Choose whether to load the data into the existing worksheet or a new sheet.\n\n### 6. **Refresh Data (Optional)**\n   - If the source data changes, you can refresh the data in Excel by going to the **Data** tab and clicking **Refresh All**.\n\n### Example: Importing Data from a CSV File\n1. Go to **Data** > **Get Data** > **From File** > **From Text/CSV**.\n2. Select the CSV file and click **Import**.\n3. In the Power Query Editor, preview and transform the data as needed.\n4. Click **Close & Load** to import the data into Excel.\n\nPower Query is a powerful tool for data import and transformation, making it easier to manage and analyze data in Excel.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:27:16.0907434+02:00",
+  "durationSeconds": 12.14,
+  "stats": "mistral-small3.2:latest · 519 + 487 tokens · 12,1 s",
+  "isError": false,
+  "language": "EN"
+}

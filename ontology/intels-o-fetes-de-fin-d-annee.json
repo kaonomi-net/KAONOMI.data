@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-fetes-de-fin-d-annee",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "fêtes de fin d'année",
+  "entityType": "EVENT",
+  "description": "Cité par 1 intel : Psychologie des fêtes de fin d'année.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les effets psychologiques des fêtes de fin d'année."
+  ],
+  "angryLevel": null,
+  "sadLevel": 100,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "fêtes de fin d'année",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SOCIETE",
+    "#FETES"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "solitude",
+    "dépenses",
+    "stress",
+    "famille"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

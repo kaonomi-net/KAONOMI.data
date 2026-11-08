@@ -1,0 +1,13 @@
+{
+  "index": 167,
+  "file": "0167-microsoft-office-how-do-i-recall-a-sent.prompt.json",
+  "prompt": "How do I recall a sent message in Outlook?",
+  "promptWords": 9,
+  "completion": "To recall a sent message in Outlook, follow these steps:\n\n1. **Open Outlook** and go to your **Sent Items** folder.\n2. **Double-click** the email you want to recall to open it.\n3. **On the Message tab**, in the **Actions** group, click **Actions** and then select **Recall This Message**.\n4. In the **Recall Message** dialog box, choose one of the following options:\n   - **Delete unread copies of this message**: This will delete the message from the recipient's inbox if they haven't read it yet.\n   - **Delete unread copies and replace with a new message**: This will delete the original message and send a new one in its place.\n5. If you want to receive a report about whether the recall was successful, check the **Tell me if recall succeeds or fails for each recipient** box.\n6. Click **OK**.\n\n### Important Notes:\n- The recall feature only works if both you and the recipient are using a Microsoft Exchange email account within the same organization.\n- If the recipient has already read the message, you won't be able to recall it.\n- The recall feature is not available for emails sent to external email addresses (e.g., Gmail, Yahoo).\n\nIf you need further assistance, please let me know!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:34:02.8342866+02:00",
+  "durationSeconds": 7.61,
+  "stats": "mistral-small3.2:latest · 517 + 270 tokens · 7,6 s",
+  "isError": false,
+  "language": "EN"
+}

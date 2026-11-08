@@ -1,0 +1,13 @@
+{
+  "index": 26,
+  "file": "046-intelligence-artificielle-qu-est-ce-que-l-ia.prompt.json",
+  "prompt": "Qu'est-ce que l'IA générative ?",
+  "promptWords": 5,
+  "completion": "L'IA générative est une branche de l'intelligence artificielle qui se concentre sur la création de contenu nouveau et original. Contrairement à l'IA traditionnelle qui se limite souvent à la classification ou à la prédiction, l'IA générative peut produire des textes, des images, de la musique, des vidéos et même des designs architecturaux.\n\nVoici quelques points clés pour mieux comprendre l'IA générative :\n\n1. **Apprentissage automatique (Machine Learning)** : L'IA générative repose sur des modèles d'apprentissage automatique, souvent des réseaux de neurones, qui apprennent à partir de grandes quantités de données pour générer de nouveaux contenus.\n\n2. **Types de contenu généré** :\n   - **Texte** : Des modèles comme moi peuvent générer des articles, des histoires, des poèmes, des scripts, etc.\n   - **Images** : Des outils comme DALL-E ou MidJourney peuvent créer des images à partir de descriptions textuelles.\n   - **Musique** : Des algorithmes peuvent composer des mélodies ou des morceaux entiers.\n   - **Vidéo** : Certains modèles peuvent générer des vidéos ou des animations.\n\n3. **Applications** :\n   - **Création artistique** : Aide les artistes et les designers à explorer de nouvelles idées.\n   - **Marketing** : Génération de contenu pour les campagnes publicitaires.\n   - **Éducation** : Création de matériel pédagogique personnalisé.\n   - **Jeux vidéo** : Génération de niveaux, de quêtes ou de personnages.\n\n4. **Défis et éthique** :\n   - **Qualité et originalité** : Assurer que le contenu généré est de haute qualité et ne plagie pas.\n   - **Biais** : Les modèles peuvent reproduire les biais présents dans les données d'entraînement.\n   - **Usage malveillant** : Risque de création de deepfakes ou de désinformation.\n\nL'IA générative est un domaine en pleine expansion qui ouvre de nombreuses possibilités tout en posant des questions importantes sur l'éthique et l'usage responsable de ces technologies.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:21:27.934819+02:00",
+  "durationSeconds": 10.04,
+  "stats": "mistral-small3.2:latest · 517 + 449 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

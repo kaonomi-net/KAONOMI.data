@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-crise-de-regime",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Crise de régime",
+  "includedEntities": [
+    {
+      "entityName": "crise de régime",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Ve République",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur une crise des institutions de la Ve République.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "instabilité",
+    "dissolution",
+    "VIe République"
+  ],
+  "questions": [
+    "Quel diagnostic ?",
+    "Quelles propositions ?",
+    "Quels soutiens ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#INSTITUTIONS",
+    "#DEMOCRATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!CRISE-POLITIQUE"
+  ],
+  "isDeleted": false
+}

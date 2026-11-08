@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-chantage",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La menace pour obtenir quelque chose.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:chantage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ma[îi]tre(s)?-chanteur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:extorsion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:racket(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ran[çc]onn(er|[ée]|[ée]e))(?![\\w-])"
+  ],
+  "symbol": "chantage",
+  "event": null,
+  "title": "Chantage",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

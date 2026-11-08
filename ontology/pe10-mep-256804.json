@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Finlande.",
+  "id": "pe10-mep-256804",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Pekka Toveri",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Finlande. Groupe politique : Parti populaire européen (PPE). Parti ou liste national : Kansallinen Kokoomus.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Les électeurs peuvent écrire à Pekka Toveri au Parlement européen.",
+    "La fiche officielle de Pekka Toveri est publiée sur le site du Parlement européen.",
+    "Lors de la session plénière à Strasbourg, Pekka Toveri a pris la parole."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Pekka TOVERI"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256804",
+    "https://fr.wikipedia.org/w/index.php?search=Pekka%20Toveri"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Finlande",
+    "Parlement européen",
+    "Parti populaire européen (PPE)",
+    "Parti de la coalition nationale (Kokoomus)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-maria-luis-albuquerque-et-les-services-financiers",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Maria Luís Albuquerque et les services financiers",
+  "includedEntities": [
+    {
+      "entityName": "Albuquerque",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "services financiers",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action de la commissaire aux services financiers.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "union de l'épargne",
+    "banques",
+    "marchés"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quelle simplification bancaire ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#FINANCE",
+    "#ALBUQUERQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!FINANCE"
+  ],
+  "isDeleted": false
+}

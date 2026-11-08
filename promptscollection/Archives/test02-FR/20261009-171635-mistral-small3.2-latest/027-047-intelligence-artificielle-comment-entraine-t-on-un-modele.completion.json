@@ -1,0 +1,13 @@
+{
+  "index": 27,
+  "file": "047-intelligence-artificielle-comment-entraine-t-on-un-modele.prompt.json",
+  "prompt": "Comment entraîne-t-on un modèle d'IA ?",
+  "promptWords": 6,
+  "completion": "L'entraînement d'un modèle d'IA est un processus complexe qui dépend du type de modèle et de la tâche à accomplir. Voici les étapes générales pour entraîner un modèle d'IA :\n\n### 1. **Collecte des données**\n   - **Sources de données** : Les données peuvent provenir de bases de données internes, de sources publiques, de capteurs, etc.\n   - **Qualité des données** : Les données doivent être propres, pertinentes et représentatives de la tâche à accomplir.\n\n### 2. **Prétraitement des données**\n   - **Nettoyage** : Suppression des données manquantes, des doublons, et correction des erreurs.\n   - **Normalisation** : Mise à l'échelle des données pour qu'elles soient comparables.\n   - **Transformation** : Conversion des données en un format utilisable par le modèle (par exemple, tokenisation pour le traitement du langage naturel).\n\n### 3. **Sélection du modèle**\n   - **Type de modèle** : Choix entre un modèle de régression, de classification, de clustering, de réseau de neurones, etc.\n   - **Architecture** : Définition de la structure du modèle (nombre de couches, type de couches, etc.).\n\n### 4. **Entraînement du modèle**\n   - **Fonction de coût (loss function)** : Mesure de la performance du modèle pendant l'entraînement.\n   - **Optimisation** : Utilisation d'algorithmes comme la descente de gradient pour minimiser la fonction de coût.\n   - **Validation** : Utilisation d'un ensemble de validation pour ajuster les hyperparamètres et éviter le surapprentissage (overfitting).\n\n### 5. **Évaluation du modèle**\n   - **Métriques de performance** : Précision, rappel, F1-score, erreur quadratique moyenne (MSE), etc.\n   - **Tests** : Évaluation sur un ensemble de test pour vérifier la généralisation du modèle.\n\n### 6. **Déploiement et monitoring**\n   - **Déploiement** : Intégration du modèle dans une application ou un système de production.\n   - **Monitoring** : Surveillance continue de la performance du modèle et mise à jour si nécessaire.\n\n### Outils et bibliothèques couramment utilisés\n- **TensorFlow** et **PyTorch** pour les réseaux de neurones.\n- **Scikit-learn** pour les modèles classiques.\n- **Keras** pour une interface simplifiée de TensorFlow.\n\nSi vous avez des questions plus spécifiques sur un type de modèle ou une étape particulière, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:21:38.0043259+02:00",
+  "durationSeconds": 12.18,
+  "stats": "mistral-small3.2:latest · 517 + 559 tokens · 12,2 s",
+  "isError": false,
+  "language": "FR"
+}

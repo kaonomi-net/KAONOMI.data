@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-benchmark-battu-par-un-modele",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Benchmark battu par un modèle",
+  "includedEntities": [
+    {
+      "entityName": "benchmark",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "record",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "modèle",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les records sur les bancs d'essai de l'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "MMLU",
+    "ARC",
+    "SWE-bench"
+  ],
+  "questions": [
+    "Quel score ?",
+    "Le test est-il contaminé ?",
+    "Quel modèle détient le record ?"
+  ],
+  "tags": [
+    "#IA",
+    "#BENCHMARK",
+    "#PERFORMANCE"
+  ],
+  "events": [
+    "@RECORD"
+  ],
+  "signals": [
+    "!PERFORMANCE"
+  ],
+  "isDeleted": false
+}

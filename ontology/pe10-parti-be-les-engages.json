@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Les Engagés, parti ou liste de ce pays : Belgique, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-be-les-engages",
+  "dateCreated": "2026-10-31 20:22:45",
+  "name": "Les Engagés",
+  "entityType": "ORGANISATION",
+  "description": "Les Engagés, parti ou liste de ce pays : Belgique, qui compte 1 député européen dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les eurodéputés de « Les Engagés » ont été élus en juin 2024.",
+    "« Les Engagés » est représenté dans le Parlement européen.",
+    "Le programme européen de « Les Engagés » a été publié avant le scrutin."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Les%20Engag%C3%A9s"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Yvan Verougstraete",
+    "Belgique",
+    "Renew Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

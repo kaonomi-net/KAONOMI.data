@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-dissuasion",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La menace qui empêche l'attaque.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:dissuasion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dissuasi(f|ve|fs|ves))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:force\\s+de\\s+frappe)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]quilibre\\s+de\\s+la\\s+terreur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arsenal\\s+nucl[ée]aire)(?![\\w-])"
+  ],
+  "symbol": "dissuasion",
+  "event": null,
+  "title": "Dissuasion",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

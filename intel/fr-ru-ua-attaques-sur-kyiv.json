@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-attaques-sur-kyiv",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Attaques sur Kyiv",
+  "includedEntities": [
+    {
+      "entityName": "Kyiv",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "attaque",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "frappe",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les attaques de missiles et de drones contre la capitale.",
+  "isFuzzy": true,
+  "locations": [
+    "Kyiv"
+  ],
+  "times": [
+    "nuit"
+  ],
+  "relatedEntities": [
+    "défense antiaérienne",
+    "victimes",
+    "bâtiments"
+  ],
+  "questions": [
+    "Quel bilan ?",
+    "Quels quartiers touchés ?",
+    "Combien d'engins abattus ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#KYIV",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-bebe",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un tout petit enfant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:b[ée]b[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:poupon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bambin(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:petit\\s+bout)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tout-petit(s)?)(?![\\w-])"
+  ],
+  "symbol": "bébé",
+  "event": null,
+  "title": "Bébé",
+  "tags": [
+    "#NAISSANCE",
+    "#ENFANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

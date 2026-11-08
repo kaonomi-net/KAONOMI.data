@@ -1,0 +1,59 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (l'élargissement) : Adhésion de dix pays, dont huit d'Europe centrale et orientale, plus Chypre et Malte.",
+  "id": "eu-ev-elargissement-2004",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Élargissement de 2004",
+  "entityType": "EVENT",
+  "description": "Adhésion de dix pays, dont huit d'Europe centrale et orientale, plus Chypre et Malte.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les archives audiovisuelles de la Commission conservent des images de « Élargissement de 2004 ».",
+    "La presse européenne a largement couvert « Élargissement de 2004 ».",
+    "« Élargissement de 2004 » concerne l'élargissement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=%C3%89largissement%20de%202004"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Élargissement",
+    "Romano Prodi",
+    "Commission Prodi",
+    "Chypre",
+    "Tchéquie",
+    "Estonie",
+    "Hongrie",
+    "Lettonie",
+    "Lituanie",
+    "Malte",
+    "Pologne",
+    "Slovaquie",
+    "Slovénie"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-05-01T00:00:00",
+  "endDate": null
+}

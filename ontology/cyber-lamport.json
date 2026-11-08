@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (les systèmes distribués) : Informaticien américain, auteur des signatures à usage unique de Lamport (1979) et de travaux fondateurs sur les systèmes distribués.",
+  "id": "cyber-lamport",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Leslie Lamport",
+  "entityType": "PERSON",
+  "description": "Informaticien américain, auteur des signatures à usage unique de Lamport (1979) et de travaux fondateurs sur les systèmes distribués. Prix Turing 2013.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Sans Leslie Lamport, l'histoire des systèmes distribués aurait été différente.",
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Leslie Lamport.",
+    "Les étudiants lisent les travaux de Leslie Lamport pour comprendre les systèmes distribués."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "L. Lamport"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#SYSTEMESDISTRIBUES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Leslie%20Lamport"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Arbre de Merkle"
+  ],
+  "isDeleted": false,
+  "startDate": "1941-02-07T00:00:00",
+  "endDate": null
+}

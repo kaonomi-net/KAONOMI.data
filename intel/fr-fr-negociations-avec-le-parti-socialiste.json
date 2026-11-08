@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-negociations-avec-le-parti-socialiste",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Négociations avec le Parti socialiste",
+  "includedEntities": [
+    {
+      "entityName": "Parti socialiste",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "négociation",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "gouvernement",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les négociations entre le gouvernement et le PS pour éviter la censure.",
+  "isFuzzy": true,
+  "locations": [
+    "Matignon"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "budget",
+    "retraites",
+    "taxe Zucman"
+  ],
+  "questions": [
+    "Quelles concessions ?",
+    "Quel accord ?",
+    "Le PS censure-t-il ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PS",
+    "#GOUVERNEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

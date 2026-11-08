@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-partage",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de partager avec d'autres.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:partage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:partag(er|eons|ent|eait|eaient)|mettre\\s+en\\s+commun)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:convivial(e|es|aux|it[ée])?)(?![\\w-])"
+  ],
+  "symbol": "partage",
+  "event": null,
+  "title": "Partage",
+  "tags": [
+    "#AMITIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

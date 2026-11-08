@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-initiative-eu-inc-et-28e-regime",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Initiative EU Inc et 28e régime",
+  "includedEntities": [
+    {
+      "entityName": "EU Inc",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "28e régime",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet de statut européen pour les entreprises innovantes.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "startups",
+    "droit des sociétés",
+    "compétitivité"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quel calendrier ?",
+    "Quel accueil des États ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#COMPETITIVITE",
+    "#STARTUPS"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

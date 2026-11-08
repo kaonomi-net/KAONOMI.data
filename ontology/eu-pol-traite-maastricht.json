@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la politique économique) : Crée l'Union européenne, la citoyenneté européenne et prévoit l'union économique et monétaire.",
+  "id": "eu-pol-traite-maastricht",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Traité de Maastricht",
+  "entityType": "LAW",
+  "description": "Crée l'Union européenne, la citoyenneté européenne et prévoit l'union économique et monétaire.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-traites",
+  "sentencesExemples": [
+    "Les entreprises doivent tenir compte de « Traité de Maastricht ».",
+    "« Traité de Maastricht » relève de la politique économique.",
+    "« Traité de Maastricht » a fait l'objet de longues négociations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "traité sur l'Union européenne"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Trait%C3%A9%20de%20Maastricht"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Économie",
+    "Maastricht",
+    "Union européenne",
+    "Euro et union économique et monétaire"
+  ],
+  "isDeleted": false,
+  "startDate": "1992-02-07T00:00:00",
+  "endDate": null
+}

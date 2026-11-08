@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-assistant-de-code-par-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Assistant de code par IA",
+  "includedEntities": [
+    {
+      "entityName": "Copilot",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Cursor",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "assistant de code",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 35,
+  "instructions": "Suivre les assistants qui écrivent du code et leur adoption par les développeurs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "GitHub",
+    "Claude Code",
+    "Codex"
+  ],
+  "questions": [
+    "Quelle part du code est générée ?",
+    "Quels risques de sécurité ?",
+    "Quel gain de productivité ?"
+  ],
+  "tags": [
+    "#IA",
+    "#DEVELOPPEMENT",
+    "#AGENTS"
+  ],
+  "events": [
+    "@LANCEMENT-OUTIL"
+  ],
+  "signals": [
+    "!PRODUCTIVITE"
+  ],
+  "isDeleted": false
+}

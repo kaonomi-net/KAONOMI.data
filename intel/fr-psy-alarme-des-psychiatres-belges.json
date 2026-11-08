@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-alarme-des-psychiatres-belges",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Alarme des psychiatres belges",
+  "includedEntities": [
+    {
+      "entityName": "psychiatres",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "réforme",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Belgique",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les critiques des psychiatres belges contre la réforme de leur financement.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "FBPA",
+    "nomenclature",
+    "Frank Vandenbroucke"
+  ],
+  "questions": [
+    "Quelle réforme ?",
+    "Quelle revendication ?",
+    "Quelle réponse du ministre ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BELGIQUE",
+    "#PSYCHIATRIE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

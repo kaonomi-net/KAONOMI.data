@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-content",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Satisfait, heureux de quelque chose.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:content(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:satisfait(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:combl[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:heureux\\s+de)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:heureuse\\s+de)(?![\\w-])"
+  ],
+  "symbol": "content",
+  "event": null,
+  "title": "Content",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

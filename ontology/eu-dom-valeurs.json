@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (les valeurs de l'Union) : Défense des valeurs de l'article 2 du traité sur l'Union européenne et transparence de l'action publique.",
+  "id": "eu-dom-valeurs",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Valeurs et transparence",
+  "entityType": "DOMAIN",
+  "description": "Défense des valeurs de l'article 2 du traité sur l'Union européenne et transparence de l'action publique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Valeurs et transparence » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Valeurs et transparence ».",
+    "Plusieurs commissaires ont été chargés du domaine « Valeurs et transparence »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#VALEURSUNION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Valeurs%20et%20transparence"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Médiateur européen",
+    "Valeurs et transparence (Commission von der Leyen I)",
+    "Věra Jourová",
+    "Agence des droits fondamentaux de l'Union européenne (FRA)",
+    "Charte des droits fondamentaux de l'Union européenne",
+    "Programme Citoyens, égalité, droits et valeurs",
+    "Arrêt du Tribunal sur les SMS Pfizer",
+    "Prix Nobel de la paix décerné à l'Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

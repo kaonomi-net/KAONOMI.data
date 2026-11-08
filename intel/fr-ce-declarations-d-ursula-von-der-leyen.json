@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-declarations-d-ursula-von-der-leyen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Déclarations d'Ursula von der Leyen",
+  "includedEntities": [
+    {
+      "entityName": "Ursula von der Leyen",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "déclaration",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les déclarations de la présidente de la Commission européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Commission européenne",
+    "X",
+    "conférences de presse"
+  ],
+  "questions": [
+    "Quel message ?",
+    "Quelle annonce ?",
+    "Quelle réaction des États membres ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!COMMUNICATION"
+  ],
+  "isDeleted": false
+}

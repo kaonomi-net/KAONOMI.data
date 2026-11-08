@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-coachs-et-psychologues",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Coachs et psychologues",
+  "includedEntities": [
+    {
+      "entityName": "coach",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "psychologue",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "titre",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la confusion entre coaching et psychologie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "titre protégé",
+    "réseaux sociaux",
+    "dérives"
+  ],
+  "questions": [
+    "Quel débat ?",
+    "Quelle dérive ?",
+    "Quelle règle ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PROFESSION",
+    "#DERIVES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

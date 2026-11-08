@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-infostealer",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "infostealer",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 1 intel : Voleurs d'informations.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre les logiciels qui volent mots de passe et cookies."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "infostealer",
+  "tags": [
+    "#CYBERSECURITE",
+    "#MALWARE",
+    "#INFOSTEALER"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "journaux",
+    "Lumma",
+    "RedLine",
+    "voleur d'informations"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

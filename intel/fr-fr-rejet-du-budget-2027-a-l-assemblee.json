@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-rejet-du-budget-2027-a-l-assemblee",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Rejet du budget 2027 à l'Assemblée",
+  "includedEntities": [
+    {
+      "entityName": "budget 2027",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "rejet",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Assemblée nationale",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les suites du rejet unanime du budget 2027 en première lecture le 4 novembre 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "Assemblée nationale"
+  ],
+  "times": [
+    "4 novembre 2026"
+  ],
+  "relatedEntities": [
+    "partie recettes",
+    "Sénat",
+    "gouvernement"
+  ],
+  "questions": [
+    "Quelle suite ?",
+    "Quelle version au Sénat ?",
+    "Quel compromis ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#PARLEMENT"
+  ],
+  "events": [
+    "@REJET-BUDGET"
+  ],
+  "signals": [
+    "!CRISE-POLITIQUE"
+  ],
+  "isDeleted": false
+}

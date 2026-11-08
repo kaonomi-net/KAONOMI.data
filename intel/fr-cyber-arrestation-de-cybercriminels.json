@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-arrestation-de-cybercriminels",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Arrestation de cybercriminels",
+  "includedEntities": [
+    {
+      "entityName": "arrestation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cybercriminels",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les arrestations de cybercriminels.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "police",
+    "extradition",
+    "rançongiciels"
+  ],
+  "questions": [
+    "Qui est arrêté ?",
+    "Pour quoi ?",
+    "Où ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CYBERCRIMINALITE",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@ARRESTATION"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

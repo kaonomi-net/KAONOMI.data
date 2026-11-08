@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-vehicules-electriques-chinois",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Véhicules électriques chinois",
+  "includedEntities": [
+    {
+      "entityName": "véhicules électriques",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "droits de douane",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les droits de douane européens sur les voitures électriques chinoises.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Pékin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "BYD",
+    "prix minimum",
+    "industrie automobile"
+  ],
+  "questions": [
+    "Quel accord sur les prix ?",
+    "Quelles usines chinoises en Europe ?",
+    "Quelle riposte chinoise ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CHINE",
+    "#AUTOMOBILE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION-COMMERCIALE"
+  ],
+  "isDeleted": false
+}

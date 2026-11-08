@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-rapport-de-l-ofdt",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Rapport de l'OFDT",
+  "includedEntities": [
+    {
+      "entityName": "OFDT",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "drogues",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les publications de l'Observatoire français des drogues et des tendances addictives.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "consommations",
+    "jeunes",
+    "tendances"
+  ],
+  "questions": [
+    "Quel chiffre ?",
+    "Quelle tendance ?",
+    "Quel produit ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADDICTIONS",
+    "#RAPPORT"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

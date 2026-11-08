@@ -1,0 +1,13 @@
+{
+  "index": 124,
+  "file": "0124-microsoft-office-how-do-i-use-the-sumifs.prompt.json",
+  "prompt": "How do I use the SUMIFS function in Excel?",
+  "promptWords": 9,
+  "completion": "The `SUMIFS` function in Excel is a powerful tool that allows you to sum values in a range based on multiple criteria. Here’s how you can use it:\n\n### Syntax:\n```excel\nSUMIFS(sum_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)\n```\n\n### Parameters:\n- **sum_range**: The range of cells you want to sum.\n- **criteria_range1**: The first range of cells to evaluate with the criteria.\n- **criteria1**: The condition that the cells in `criteria_range1` must meet.\n- **criteria_range2, criteria2, ...**: Additional ranges and criteria (optional).\n\n### Steps to Use SUMIFS:\n1. **Identify the Range to Sum**: Determine the range of cells that contain the values you want to sum.\n2. **Define Criteria Ranges and Criteria**: Specify the ranges and conditions that the cells must meet for their corresponding values to be included in the sum.\n3. **Enter the Formula**: Use the `SUMIFS` function in a cell where you want the result to appear.\n\n### Example:\nSuppose you have a table of sales data and you want to sum the sales for a specific product in a specific region.\n\n| Product  | Region   | Sales |\n|----------|----------|-------|\n| Apple    | North    | 100   |\n| Banana   | South    | 150   |\n| Apple    | North    | 200   |\n| Orange   | East     | 75    |\n| Banana   | North    | 50    |\n\nTo sum the sales of Apples in the North region, you would use:\n```excel\n=SUMIFS(B2:B6, A2:A6, \"Apple\", C2:C6, \">50\")\n```\n\nThis formula sums the values in `B2:B6` where the corresponding cells in `A2:A6` are \"Apple\" and the corresponding cells in `C2:C6` are greater than 50.\n\n### Tips:\n- You can add as many criteria as needed.\n- Criteria can be numbers, text, logical expressions, or cell references.\n- The criteria ranges must be the same size as the sum range.\n\nWould you like a more specific example or help with a particular scenario?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:26:15.2776121+02:00",
+  "durationSeconds": 12.2,
+  "stats": "mistral-small3.2:latest · 519 + 494 tokens · 12,2 s",
+  "isError": false,
+  "language": "EN"
+}

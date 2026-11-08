@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-peskov",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "Peskov",
+  "entityType": "PERSON",
+  "description": "Cité par 3 intels : Conditions posées par le Kremlin ; Déclarations de Vladimir Poutine sur la guerre ; Porte-parole Dmitri Peskov.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre les conditions de Moscou pour un accord de paix.",
+    "Suivre les déclarations du président russe sur la guerre en Ukraine.",
+    "Suivre les déclarations du porte-parole du Kremlin."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Peskov",
+  "tags": [
+    "#RUSSIE",
+    "#KREMLIN",
+    "#NEGOCIATIONS",
+    "#POUTINE",
+    "#UKRAINE",
+    "#COMMUNICATION"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!BLOCAGE",
+    "!STRATEGIE",
+    "!COMMUNICATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kremlin",
+    "Moscou",
+    "Poutine",
+    "Dmitri Peskov",
+    "neutralité de l'Ukraine",
+    "Lavrov",
+    "conditions",
+    "Ukraine",
+    "opération militaire spéciale",
+    "négociations"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

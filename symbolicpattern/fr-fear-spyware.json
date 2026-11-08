@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-spyware",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un logiciel qui écoute et observe en secret.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:spyware(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:logiciel(s)?\\s+espion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pegasus)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]coute(s)?\\s+ill[ée]gale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:micro(s)?\\s+cach[ée](s)?)(?![\\w-])"
+  ],
+  "symbol": "spyware",
+  "event": null,
+  "title": "Spyware",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

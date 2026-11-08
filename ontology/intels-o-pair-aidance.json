@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-pair-aidance",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "pair-aidance",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Pair-aidance en santé mentale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le développement de la pair-aidance."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "pair-aidance",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#RETABLISSEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!ACCES-AUX-SOINS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "formation",
+    "hôpitaux",
+    "médiateurs de santé",
+    "France",
+    "rétablissement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

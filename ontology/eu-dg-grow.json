@@ -1,0 +1,63 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (le marché intérieur) : Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME (DG GROW), service de la Commission européenne compétent pour le marché intérieur, la politique industrielle, les PME et les startups, placé sous l'autorité de Stéphane Séjourné dans la Commission von der Leyen II.",
+  "id": "eu-dg-grow",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME (DG GROW), service de la Commission européenne compétent pour le marché intérieur, la politique industrielle, les PME et les startups, placé sous l'autorité de Stéphane Séjourné dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Le rapport annuel de « Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME ».",
+    "Les décisions de « Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME » touchent le marché intérieur."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG GROW"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#MARCHEINTERIEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20du%20march%C3%A9%20int%C3%A9rieur%2C%20de%20l%27industrie%2C%20de%20l%27entrepreneuriat%20et%20des%20PME"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Stéphane Séjourné",
+    "Marché intérieur",
+    "Industrie",
+    "PME et startups",
+    "Agence exécutive du Conseil européen de l'innovation et des PME (EISMEA)",
+    "Agence européenne des produits chimiques (ECHA)",
+    "Office de l'Union européenne pour la propriété intellectuelle (EUIPO)",
+    "Marché unique",
+    "Nouvelle stratégie industrielle pour l'Europe",
+    "Règlement sur les matières premières critiques",
+    "Règlement pour une industrie « zéro net »",
+    "Boussole pour la compétitivité",
+    "Pacte pour une industrie propre",
+    "Programme pour le marché unique"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

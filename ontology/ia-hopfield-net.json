@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (les mémoires associatives) : Réseau de neurones récurrent à connexions symétriques qui stocke des motifs comme minima d'une fonction d'énergie.",
+  "id": "ia-hopfield-net",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Réseau de Hopfield",
+  "entityType": "ALGORITHM",
+  "description": "Réseau de neurones récurrent à connexions symétriques qui stocke des motifs comme minima d'une fonction d'énergie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Le notebook compare Réseau de Hopfield aux autres méthodes des mémoires associatives.",
+    "La chercheuse a présenté une variante de Réseau de Hopfield lors du séminaire.",
+    "Réseau de Hopfield est enseigné dans tous les cours consacrés aux mémoires associatives."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "modèle de Hopfield"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#MEMOIRESASSOCIATIVES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A9seau%20de%20Hopfield"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "John Hopfield"
+  ],
+  "isDeleted": false,
+  "startDate": "1982-01-01T00:00:00",
+  "endDate": null
+}

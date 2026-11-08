@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-poutine-et-la-mobilisation",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Poutine et la mobilisation",
+  "includedEntities": [
+    {
+      "entityName": "Poutine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "mobilisation",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "conscrits",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller toute décision de mobilisation supplémentaire.",
+  "isFuzzy": true,
+  "locations": [
+    "Russie"
+  ],
+  "times": [
+    "après les élections"
+  ],
+  "relatedEntities": [
+    "armée",
+    "réservistes",
+    "conscription"
+  ],
+  "questions": [
+    "Une mobilisation est-elle annoncée ?",
+    "Combien d'hommes ?",
+    "Quelles régions ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#MOBILISATION",
+    "#ARMEE"
+  ],
+  "events": [
+    "@MOBILISATION"
+  ],
+  "signals": [
+    "!ESCALADE"
+  ],
+  "isDeleted": false
+}

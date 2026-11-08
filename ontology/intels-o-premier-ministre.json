@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-premier-ministre",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "Premier ministre",
+  "entityType": "PROFESSION",
+  "description": "Cité par 3 intels : Passation de pouvoir à l'Élysée ; Jordan Bardella ; Hypothèse d'un Premier ministre RN.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre la passation de pouvoir entre Emmanuel Macron et son successeur.",
+    "Suivre le rôle et les déclarations de Jordan Bardella.",
+    "Suivre les scénarios d'un gouvernement mené par le RN."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Premier ministre",
+  "tags": [
+    "#FRANCE",
+    "#RN",
+    "#PRESIDENTIELLE-2027",
+    "#TRANSITION",
+    "#BARDELLA",
+    "#GOUVERNEMENT"
+  ],
+  "events": [
+    "@PASSATION",
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!TRANSITION",
+    "!CAMPAGNE",
+    "!INCERTITUDE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Jordan Bardella",
+    "Rassemblement national",
+    "investiture",
+    "passation",
+    "nouveau président",
+    "gouvernement",
+    "Élysée",
+    "Marine Le Pen",
+    "Europe",
+    "Paris"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique étrangère) : Ancienne ministre italienne des Affaires étrangères, haute représentante pour les affaires étrangères de 2014 à 2019.",
+  "id": "eu-p-mogherini",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Federica Mogherini",
+  "entityType": "PERSON",
+  "description": "Ancienne ministre italienne des Affaires étrangères, haute représentante pour les affaires étrangères de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Federica Mogherini est une figure de la politique étrangère.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Federica Mogherini.",
+    "Lors du point de presse de midi, une question portait sur Federica Mogherini."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Mogherini"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Federica%20Mogherini"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité italienne",
+    "Parti démocrate (PD)",
+    "Ministre des Affaires étrangères",
+    "Haut représentant pour les affaires étrangères et la politique de sécurité",
+    "Affaires étrangères et politique de sécurité (Commission Juncker)",
+    "Commission Juncker",
+    "Affaires étrangères",
+    "Service européen pour l'action extérieure"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-protection-anti-ddos",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Protection anti-DDoS",
+  "includedEntities": [
+    {
+      "entityName": "protection anti-DDoS",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "atténuation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les moyens de protection contre les attaques DDoS.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Cloudflare",
+    "Akamai",
+    "opérateurs"
+  ],
+  "questions": [
+    "Quel service ?",
+    "Quelle efficacité ?",
+    "Quel coût ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DDOS",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

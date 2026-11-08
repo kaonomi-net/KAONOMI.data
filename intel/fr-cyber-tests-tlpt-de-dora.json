@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-tests-tlpt-de-dora",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Tests TLPT de DORA",
+  "includedEntities": [
+    {
+      "entityName": "TLPT",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "DORA",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les tests d'intrusion fondés sur la menace imposés aux banques par DORA.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "TIBER-EU",
+    "banques",
+    "prestataires"
+  ],
+  "questions": [
+    "Quelle banque ?",
+    "Quel calendrier ?",
+    "Quels prestataires ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#PENTEST",
+    "#DORA"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

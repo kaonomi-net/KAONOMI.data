@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-diplome",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un titre obtenu par un examen.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:dipl[ôo]me(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dipl[ôo]m[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:re[çc]u(e|s|es)?\\s+([àa]|au)\\s+(l['’]examen|bac|concours)|bac\\s+en\\s+poche)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mention\\s+tr[èe]s\\s+bien)(?![\\w-])"
+  ],
+  "symbol": "diplôme",
+  "event": null,
+  "title": "Diplôme",
+  "tags": [
+    "#REUSSITE",
+    "#APPRENTISSAGE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

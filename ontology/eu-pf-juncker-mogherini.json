@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (la politique étrangère) : Portefeuille détenu par Federica Mogherini, haute représentante et vice-présidente, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "id": "eu-pf-juncker-mogherini",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Affaires étrangères et politique de sécurité (Commission Juncker)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Federica Mogherini, haute représentante et vice-présidente, dans la Commission Juncker, du 1er novembre 2014 au 30 novembre 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Affaires étrangères et politique de sécurité (Commission Juncker) ».",
+    "Le portefeuille « Affaires étrangères et politique de sécurité (Commission Juncker) » couvre la politique étrangère.",
+    "La lettre de mission du portefeuille « Affaires étrangères et politique de sécurité (Commission Juncker) » fixe les objectifs en matière de la politique étrangère."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#POLITIQUEETRANGERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Affaires%20%C3%A9trang%C3%A8res%20et%20politique%20de%20s%C3%A9curit%C3%A9%20%28Commission%20Juncker%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Federica Mogherini",
+    "Commission Juncker",
+    "Haut représentant pour les affaires étrangères et la politique de sécurité",
+    "Affaires étrangères"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-11-01T00:00:00",
+  "endDate": "2019-11-30T00:00:00"
+}

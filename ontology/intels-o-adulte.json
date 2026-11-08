@@ -1,0 +1,53 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-adulte",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "adulte",
+  "entityType": "PROFESSION",
+  "description": "Cité par 2 intels : TDAH chez l'adulte ; Autisme chez l'adulte.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre le diagnostic du TDAH chez l'adulte.",
+    "Suivre le diagnostic et l'inclusion des adultes autistes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "adulte",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TDAH",
+    "#AUTISME"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT",
+    "!SANTE-MENTALE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "diagnostic tardif",
+    "pénurie de médicaments",
+    "réseaux sociaux",
+    "TDAH",
+    "emploi",
+    "femmes",
+    "autisme"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

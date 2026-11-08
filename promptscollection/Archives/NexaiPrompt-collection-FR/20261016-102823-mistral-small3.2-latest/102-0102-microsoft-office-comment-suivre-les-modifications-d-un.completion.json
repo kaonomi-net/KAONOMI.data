@@ -1,0 +1,13 @@
+{
+  "index": 102,
+  "file": "0102-microsoft-office-comment-suivre-les-modifications-d-un.prompt.json",
+  "prompt": "Comment suivre les modifications d'un document dans Word ?",
+  "promptWords": 9,
+  "completion": "Pour suivre les modifications d'un document dans Microsoft Word, vous pouvez utiliser la fonctionnalité de **suivi des modifications** (ou \"relecture\"). Voici comment procéder :\n\n### Étapes pour activer le suivi des modifications :\n1. **Ouvrez votre document** dans Microsoft Word.\n2. Allez dans l'onglet **Révision** (ou \"Review\" en anglais) dans le ruban.\n3. Cliquez sur **Suivi des modifications** (ou \"Track Changes\") pour l'activer. Une coche apparaîtra à côté de l'option, indiquant que la fonctionnalité est activée.\n\n### Comment utiliser le suivi des modifications :\n- **Ajouts** : Tout texte ajouté apparaîtra en couleur (généralement bleu) et sera souligné.\n- **Suppressions** : Tout texte supprimé apparaîtra avec une barre rouge à travers le texte et sera entouré d'un cadre.\n- **Modifications de format** : Les changements de format (police, taille, couleur, etc.) seront également suivis.\n\n### Pour afficher les modifications :\n- Dans l'onglet **Révision**, vous pouvez choisir comment afficher les modifications :\n  - **Afficher les marques** : Affiche toutes les modifications.\n  - **Afficher les commentaires** : Affiche uniquement les commentaires.\n  - **Afficher les insertions et suppressions** : Affiche uniquement les ajouts et suppressions.\n\n### Pour accepter ou rejeter les modifications :\n1. Sélectionnez une modification dans le document.\n2. Dans l'onglet **Révision**, cliquez sur **Accepter** ou **Rejeter** pour chaque modification.\n\n### Pour désactiver le suivi des modifications :\n- Allez dans l'onglet **Révision** et cliquez sur **Suivi des modifications** pour le désactiver.\n\nCette fonctionnalité est particulièrement utile pour collaborer sur un document, car elle permet de voir qui a apporté quelles modifications et de les discuter avant de les valider.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:48:49.0674774+02:00",
+  "durationSeconds": 8.71,
+  "stats": "mistral-small3.2:latest · 517 + 423 tokens · 8,7 s",
+  "isError": false,
+  "language": "FR"
+}

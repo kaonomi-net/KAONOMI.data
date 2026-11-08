@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la culture) : Soutien aux secteurs culturels et créatifs et au patrimoine européen.",
+  "id": "eu-dom-culture",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Culture",
+  "entityType": "DOMAIN",
+  "description": "Soutien aux secteurs culturels et créatifs et au patrimoine européen.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Plusieurs commissaires ont été chargés du domaine « Culture ».",
+    "Le domaine « Culture » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Culture »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#CULTURE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Culture"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission de la culture et de l'éducation (CULT)",
+    "Conseil Éducation, jeunesse, culture et sport (EYCS)",
+    "Innovation, recherche, culture, éducation et jeunesse (Commission von der Leyen I)",
+    "Mariya Gabriel",
+    "Iliana Ivanova",
+    "Équité intergénérationnelle, jeunesse, culture et sport (Commission von der Leyen II)",
+    "Glenn Micallef",
+    "Éducation, culture, jeunesse et sport (Commission Juncker)",
+    "Tibor Navracsics",
+    "Direction générale de l'éducation, de la jeunesse, du sport et de la culture",
+    "Agence exécutive européenne pour l'éducation et la culture (EACEA)",
+    "Europe créative"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

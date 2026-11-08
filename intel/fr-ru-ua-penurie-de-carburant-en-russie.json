@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-penurie-de-carburant-en-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Pénurie de carburant en Russie",
+  "includedEntities": [
+    {
+      "entityName": "pénurie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "carburant",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les pénuries d'essence liées aux frappes sur les raffineries.",
+  "isFuzzy": true,
+  "locations": [
+    "Crimée",
+    "Extrême-Orient",
+    "régions"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "stations-service",
+    "exportations interdites",
+    "prix"
+  ],
+  "questions": [
+    "Quelles régions ?",
+    "Quelles restrictions ?",
+    "Quels prix ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ENERGIE",
+    "#PENURIE"
+  ],
+  "events": [],
+  "signals": [
+    "!PENURIE"
+  ],
+  "isDeleted": false
+}

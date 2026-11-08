@@ -1,0 +1,13 @@
+{
+  "index": 96,
+  "file": "0096-microsoft-office-comment-collaborer-en-temps-reel-sur.prompt.json",
+  "prompt": "Comment collaborer en temps réel sur un document Office ?",
+  "promptWords": 10,
+  "completion": "Pour collaborer en temps réel sur un document Office, vous pouvez utiliser les fonctionnalités de co-édition disponibles dans Microsoft 365 (anciennement Office 365). Voici comment procéder :\n\n### Pour Word, Excel et PowerPoint :\n1. **Ouvrez le document** dans l'application Office en ligne (Word Online, Excel Online, PowerPoint Online) via [Office.com](https://www.office.com) ou via OneDrive/SharePoint.\n2. **Partagez le document** :\n   - Cliquez sur **Partager** (en haut à droite).\n   - Entrez les adresses e-mail des personnes avec qui vous souhaitez collaborer.\n   - Choisissez le niveau d'accès (lecture, modification, etc.).\n3. **Collaboration en temps réel** :\n   - Les autres utilisateurs pourront ouvrir le document et voir les modifications en temps réel.\n   - Les curseurs de chaque collaborateur seront visibles, ainsi que les modifications apportées.\n\n### Pour Outlook (collaboration sur des pièces jointes) :\n1. **Joignez le document** à un e-mail.\n2. **Cliquez sur \"Partager en ligne\"** (si disponible) pour permettre une collaboration directe via OneDrive.\n3. Les destinataires pourront ouvrir le document et collaborer via le lien partagé.\n\n### Remarques :\n- Assurez-vous que tous les collaborateurs ont un compte Microsoft 365 ou un accès approprié.\n- La collaboration en temps réel fonctionne mieux avec les versions récentes des applications Office.\n\nSi vous avez besoin d'aide pour une configuration spécifique ou si vous utilisez une autre version d'Office, n'hésitez pas à préciser !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:48:01.2037898+02:00",
+  "durationSeconds": 7.41,
+  "stats": "mistral-small3.2:latest · 518 + 359 tokens · 7,4 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 144,
+  "file": "0144-microsoft-office-comment-utiliser-power-pivot-et-le.prompt.json",
+  "prompt": "Comment utiliser Power Pivot et le modèle de données dans Excel ?",
+  "promptWords": 12,
+  "completion": "Power Pivot et le modèle de données sont des outils puissants dans Excel qui permettent de gérer et d'analyser des données complexes. Voici comment les utiliser :\n\n### **1. Activer Power Pivot**\n- **Excel 2013 et versions ultérieures** : Power Pivot est généralement activé par défaut.\n- **Si nécessaire**, allez dans **Fichier > Options > Compléments**, sélectionnez **Compléments COM** et cochez **Microsoft Power Pivot pour Excel**.\n\n### **2. Créer un modèle de données**\n1. **Importer des données** :\n   - Allez dans l'onglet **Données** > **Obtenir des données** (ou **Nouvelle requête** dans les anciennes versions).\n   - Sélectionnez votre source de données (fichier Excel, base de données, etc.).\n   - Cliquez sur **Charger dans** > **Modèle de données**.\n\n2. **Gérer les relations entre les tables** :\n   - Allez dans l'onglet **Données** > **Gérer les relations**.\n   - Cliquez sur **Créer** pour définir des relations entre les tables (clés primaires/étrangères).\n\n### **3. Utiliser Power Pivot**\n1. **Ouvrir Power Pivot** :\n   - Dans l'onglet **Données**, cliquez sur **Gérer le modèle de données** (ou **Power Pivot** dans les anciennes versions).\n\n2. **Créer des mesures (DAX)** :\n   - Dans Power Pivot, cliquez sur **Créer une mesure**.\n   - Utilisez le langage **DAX** (Data Analysis Expressions) pour créer des calculs avancés.\n   - Exemple :\n     ```DAX\n     SommeVentes = SUM(Sales[Amount])\n     ```\n\n3. **Créer des tableaux croisés dynamiques basés sur le modèle de données** :\n   - Dans Excel, allez dans **Insertion** > **Tableau croisé dynamique**.\n   - Sélectionnez **Utiliser un modèle de données externe**.\n   - Choisissez vos champs et mesures.\n\n### **4. Optimiser les performances**\n- **Éviter les doublons** : Utilisez des relations correctes entre les tables.\n- **Utiliser des mesures DAX** : Plutôt que des calculs Excel classiques.\n- **Compresser les données** : Supprimez les colonnes inutiles.\n\n### **5. Publier et partager**\n- **Publier sur Power BI** : Pour une analyse plus avancée.\n- **Partager le fichier Excel** : Assurez-vous que les destinataires ont Power Pivot activé.\n\nSi vous avez besoin d'aide pour une étape spécifique ou si vous souhaitez des exemples concrets, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:55:05.0326343+02:00",
+  "durationSeconds": 12.05,
+  "stats": "mistral-small3.2:latest · 520 + 600 tokens · 12,0 s",
+  "isError": false,
+  "language": "FR"
+}

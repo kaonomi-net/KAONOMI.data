@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-entrainement",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "entraînement",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Coût de l'entraînement des modèles ; Droit d'auteur et entraînement des modèles ; Données synthétiques.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le coût d'entraînement des grands modèles.",
+    "Surveiller les litiges sur l'usage d'œuvres protégées pour entraîner les IA.",
+    "Suivre l'usage de données générées pour entraîner les modèles."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "entraînement",
+  "tags": [
+    "#IA",
+    "#COUT",
+    "#INFRASTRUCTURE",
+    "#DROIT-AUTEUR",
+    "#JUSTICE",
+    "#DONNEES"
+  ],
+  "events": [
+    "@PROCES"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!RISQUE-JURIDIQUE",
+    "!RECHERCHE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "coût",
+    "GPU",
+    "électricité",
+    "data centers",
+    "Nvidia",
+    "procès",
+    "éditeurs",
+    "artistes",
+    "droit d'auteur",
+    "New York Times"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

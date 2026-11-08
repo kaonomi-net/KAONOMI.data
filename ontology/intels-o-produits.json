@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-produits",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "produits",
+  "entityType": "PRODUCT",
+  "description": "Cité par 1 intel : Cyber Resilience Act.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre la mise en œuvre du règlement européen sur la cyberrésilience des produits."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "produits",
+  "tags": [
+    "#CYBERSECURITE",
+    "#REGULATION",
+    "#CRA"
+  ],
+  "events": [
+    "@ECHEANCE-REGLEMENTAIRE"
+  ],
+  "signals": [
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "fabricants",
+    "Europe",
+    "signalement des vulnérabilités",
+    "marquage CE",
+    "Cyber Resilience Act"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

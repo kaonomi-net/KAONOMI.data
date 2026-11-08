@@ -1,0 +1,52 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-etablissement-francais-du-sang",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "Établissement français du sang",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Cyberattaque chez un prestataire de l'EFS.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'incident du 2 novembre 2026 chez un prestataire d'équipements frigorifiques de l'EFS."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Établissement français du sang",
+  "tags": [
+    "#CYBERSECURITE",
+    "#SANTE",
+    "#FRANCE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "logiciel tiers",
+    "cyberattaque",
+    "prestataire",
+    "chambres froides",
+    "France",
+    "sous-traitant"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

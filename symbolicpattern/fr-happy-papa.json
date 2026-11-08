@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-papa",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le père, avec tendresse.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:papa(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[èe]re(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:paternel(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:papounet)(?![\\w-])"
+  ],
+  "symbol": "papa",
+  "event": null,
+  "title": "Papa",
+  "tags": [
+    "#FAMILLE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,47 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-norme",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "norme",
+  "entityType": "LAW",
+  "description": "Cité par 1 intel : Algorithme HQC.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre la normalisation de l'algorithme HQC, cinquième algorithme post-quantique du NIST."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "norme",
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#POST-QUANTIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ML-KEM",
+    "HQC",
+    "codes correcteurs",
+    "chiffrement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

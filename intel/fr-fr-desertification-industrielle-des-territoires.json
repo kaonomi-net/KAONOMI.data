@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-desertification-industrielle-des-territoires",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Désertification industrielle des territoires",
+  "includedEntities": [
+    {
+      "entityName": "désindustrialisation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "territoires",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "emplois",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les fermetures d'usines dans les territoires.",
+  "isFuzzy": true,
+  "locations": [
+    "Nord",
+    "Est",
+    "Centre"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "plans sociaux",
+    "réindustrialisation",
+    "vote RN"
+  ],
+  "questions": [
+    "Quelle fermeture ?",
+    "Combien d'emplois ?",
+    "Quelle reconversion ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#INDUSTRIE",
+    "#TERRITOIRES"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE-SOCIAL"
+  ],
+  "isDeleted": false
+}

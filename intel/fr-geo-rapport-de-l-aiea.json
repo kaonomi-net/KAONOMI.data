@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-rapport-de-l-aiea",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Rapport de l'AIEA",
+  "includedEntities": [
+    {
+      "entityName": "AIEA",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "rapport",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "inspecteurs",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les rapports de l'Agence internationale de l'énergie atomique.",
+  "isFuzzy": true,
+  "locations": [
+    "Vienne"
+  ],
+  "times": [
+    "réunion du conseil des gouverneurs"
+  ],
+  "relatedEntities": [
+    "Iran",
+    "Zaporijia",
+    "inspections"
+  ],
+  "questions": [
+    "Quel pays est concerné ?",
+    "Quelles conclusions ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#NUCLEAIRE",
+    "#AIEA"
+  ],
+  "events": [
+    "@RAPPORT-AIEA"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

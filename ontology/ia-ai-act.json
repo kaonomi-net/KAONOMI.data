@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (la régulation) : Le Conseil de l'Union européenne adopte le règlement sur l'intelligence artificielle, premier cadre juridique complet fondé sur les risques ; il entre en vigueur le 1er août 2024.",
+  "id": "ia-ai-act",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Adoption de l'AI Act européen",
+  "entityType": "EVENT",
+  "description": "Le Conseil de l'Union européenne adopte le règlement sur l'intelligence artificielle, premier cadre juridique complet fondé sur les risques ; il entre en vigueur le 1er août 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "On date souvent un tournant de la régulation à « Adoption de l'AI Act européen ».",
+    "« Adoption de l'AI Act européen » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « Adoption de l'AI Act européen »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 1,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "règlement européen sur l'IA",
+    "AI Act"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#REGULATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Adoption%20de%20l%27AI%20Act%20europ%C3%A9en"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ChatGPT"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-05-21T00:00:00",
+  "endDate": "2024-05-21T00:00:00"
+}

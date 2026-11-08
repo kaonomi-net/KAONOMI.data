@@ -1,0 +1,13 @@
+{
+  "index": 710,
+  "file": "0710-java-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Java qui illustre les records.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en Java qui illustre l'utilisation des records, une fonctionnalité introduite dans Java 14 pour créer des classes immuables et concises :\n\n```java\npublic class ExempleRecords {\n\n    public static void main(String[] args) {\n        // Création d'un objet Personne\n        Personne personne = new Personne(\"Jean\", \"Dupont\", 30);\n\n        // Affichage des informations\n        System.out.println(\"Nom complet : \" + personne.nomComplet());\n        System.out.println(\"Âge : \" + personne.age());\n        System.out.println(\"Personne : \" + personne);\n\n        // Création d'une autre personne avec la méthode de copie\n        Personne personneCopiee = personne.avecAge(31);\n        System.out.println(\"Personne copiée : \" + personneCopiee);\n    }\n\n    // Déclaration d'un record\n    record Personne(String prenom, String nom, int age) {\n\n        // Méthode personnalisée\n        public String nomComplet() {\n            return prenom + \" \" + nom;\n        }\n\n        // Méthode de copie avec modification d'un champ\n        public Personne avecAge(int nouvelAge) {\n            return new Personne(this.prenom, this.nom, nouvelAge);\n        }\n    }\n}\n```\n\nExplications :\n1. Le record `Personne` est déclaré avec trois champs : `prenom`, `nom` et `age`\n2. Java génère automatiquement :\n   - Un constructeur\n   - Des méthodes d'accès (getters)\n   - Une méthode `toString()`\n   - Des méthodes `equals()` et `hashCode()`\n3. Nous avons ajouté une méthode personnalisée `nomComplet()`\n4. La méthode `avecAge()` montre comment créer une nouvelle instance avec un champ modifié\n\nLes records sont particulièrement utiles pour créer des objets de type \"données\" (DTO, POJO) de manière concise et sûre.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:54:13.2597515+02:00",
+  "durationSeconds": 8.5,
+  "stats": "mistral-small3.2:latest · 521 + 412 tokens · 8,5 s",
+  "isError": false,
+  "language": "FR"
+}

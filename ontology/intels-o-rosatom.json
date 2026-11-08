@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-rosatom",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "Rosatom",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 3 intels : Situation à Enerhodar ; Centrale nucléaire de Zaporijia et l'AIEA ; Centrale nucléaire de Zaporijia.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre la situation de la ville des employés de la centrale de Zaporijia.",
+    "Suivre la sûreté de la centrale de Zaporijia et les rapports de l'AIEA.",
+    "Surveiller la sûreté de la centrale nucléaire de Zaporijia."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 33,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Rosatom",
+  "tags": [
+    "#UKRAINE",
+    "#NUCLEAIRE",
+    "#OCCUPATION",
+    "#AIEA",
+    "#GEOPOLITIQUE"
+  ],
+  "events": [
+    "@RAPPORT-AIEA",
+    "@ALERTE-NUCLEAIRE"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!VIGILANCE",
+    "!FEAR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AIEA",
+    "Enerhodar",
+    "personnel",
+    "ville",
+    "Grossi",
+    "lignes électriques",
+    "centrale de Zaporijia",
+    "centrale nucléaire",
+    "Zaporijia",
+    "bombardements"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

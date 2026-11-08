@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-instrumentalisation-des-migrants-a-la-frontiere",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Instrumentalisation des migrants à la frontière",
+  "includedEntities": [
+    {
+      "entityName": "migrants",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "frontière",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Biélorussie",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage de flux migratoires comme moyen de pression sur l'Union européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "frontière polonaise",
+    "Lituanie",
+    "Finlande"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Biélorussie",
+    "Russie",
+    "garde-frontières"
+  ],
+  "questions": [
+    "Combien de tentatives ?",
+    "Quelles mesures ?",
+    "Quelles victimes ?"
+  ],
+  "tags": [
+    "#EUROPE",
+    "#MIGRATIONS",
+    "#GUERRE-HYBRIDE"
+  ],
+  "events": [],
+  "signals": [
+    "!PRESSION"
+  ],
+  "isDeleted": false
+}

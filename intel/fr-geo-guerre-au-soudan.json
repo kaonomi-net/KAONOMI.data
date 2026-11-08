@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-guerre-au-soudan",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Guerre au Soudan",
+  "includedEntities": [
+    {
+      "entityName": "Soudan",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Forces de soutien rapide",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Khartoum",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la guerre au Soudan et la crise humanitaire.",
+  "isFuzzy": true,
+  "locations": [
+    "Khartoum",
+    "Darfour",
+    "El-Fasher"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "armée soudanaise",
+    "réfugiés",
+    "famine"
+  ],
+  "questions": [
+    "Quelles villes sont touchées ?",
+    "Quelle situation humanitaire ?",
+    "Quelles médiations ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#SOUDAN",
+    "#AFRIQUE",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@EVOLUTION-CONFLIT"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

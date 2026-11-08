@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-surpopulation",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "surpopulation",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Prisons et surpopulation ; Santé mentale dans les prisons ; Suicide en prison.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la surpopulation carcérale et les politiques pénitentiaires.",
+    "Suivre les troubles psychiques en détention.",
+    "Suivre les suicides en détention."
+  ],
+  "angryLevel": null,
+  "sadLevel": 33,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "surpopulation",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PRISON",
+    "#FRANCE",
+    "#JUSTICE",
+    "#PRISONS",
+    "#PSYCHIATRIE"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!TENSION",
+    "!DROITS",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "prison",
+    "France",
+    "places de prison",
+    "évasions",
+    "ministre de la Justice",
+    "prisons",
+    "troubles psychiques",
+    "soins",
+    "internement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-gemini",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "Gemini",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 4 intels : Nouveau modèle Gemini de Google ; Annonce de Demis Hassabis ; Modèle multimodal ; Alphabet et Google.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre l'évolution de la famille Gemini et son intégration aux produits Google.",
+    "Suivre les annonces du dirigeant de Google DeepMind.",
+    "Suivre les modèles qui comprennent texte, image, son et vidéo."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Gemini",
+  "tags": [
+    "#IA",
+    "#LLM",
+    "#GOOGLE",
+    "#PERSONNALITE",
+    "#DEEPMIND",
+    "#MULTIMODAL"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE",
+    "@DECLARATION",
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!NOUVEAUTE",
+    "!STRATEGIE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Google",
+    "Mountain View",
+    "Demis Hassabis",
+    "Londres",
+    "DeepMind",
+    "Android",
+    "Sundar Pichai",
+    "AlphaFold",
+    "voix",
+    "multimodal"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

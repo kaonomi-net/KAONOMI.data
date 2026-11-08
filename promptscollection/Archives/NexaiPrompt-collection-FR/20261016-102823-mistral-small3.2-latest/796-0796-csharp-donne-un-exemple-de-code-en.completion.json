@@ -1,0 +1,13 @@
+{
+  "index": 796,
+  "file": "0796-csharp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C# qui illustre le pattern matching.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en C# qui illustre le pattern matching. Ce code montre comment utiliser le pattern matching pour vérifier le type d'un objet et effectuer des actions en conséquence :\n\n```csharp\nusing System;\n\nclass Program\n{\n    static void Main()\n    {\n        object obj = \"Hello, World!\";\n\n        // Pattern matching avec switch expression\n        string result = obj switch\n        {\n            int i => $\"C'est un entier : {i}\",\n            string s => $\"C'est une chaîne : {s}\",\n            double d => $\"C'est un double : {d}\",\n            null => \"C'est null\",\n            _ => \"Type inconnu\"\n        };\n\n        Console.WriteLine(result);\n\n        // Pattern matching avec switch statement\n        switch (obj)\n        {\n            case int i:\n                Console.WriteLine($\"C'est un entier : {i}\");\n                break;\n            case string s:\n                Console.WriteLine($\"C'est une chaîne : {s}\");\n                break;\n            case double d:\n                Console.WriteLine($\"C'est un double : {d}\");\n                break;\n            case null:\n                Console.WriteLine(\"C'est null\");\n                break;\n            default:\n                Console.WriteLine(\"Type inconnu\");\n                break;\n        }\n    }\n}\n```\n\nDans cet exemple, nous avons deux façons d'utiliser le pattern matching :\n\n1. **Avec une switch expression** : Nous utilisons le mot-clé `switch` pour vérifier le type de l'objet `obj` et retourner une chaîne de caractères en fonction du type.\n2. **Avec un switch statement** : Nous utilisons un bloc `switch` traditionnel pour vérifier le type de l'objet `obj` et exécuter différentes actions en fonction du type.\n\nLe pattern matching permet de rendre le code plus lisible et plus concis en évitant les vérifications de type traditionnelles avec `is` et des blocs `if-else` imbriqués.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:15:24.4310461+02:00",
+  "durationSeconds": 8.17,
+  "stats": "mistral-small3.2:latest · 523 + 393 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

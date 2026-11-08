@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-chasseurs",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "chasseurs",
+  "entityType": "PROFESSION",
+  "description": "Cité par 3 intels : Sentinelle de l'Est de l'OTAN ; Incursions aériennes dans les pays baltes ; Avions russes près de l'espace aérien de l'OTAN.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre le renforcement de la défense aérienne sur le flanc est après les incursions de drones.",
+    "Suivre les violations de l'espace aérien balte par des avions ou des drones russes.",
+    "Suivre les interceptions d'avions militaires russes par l'OTAN."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "chasseurs",
+  "tags": [
+    "#OTAN",
+    "#ESPACE-AERIEN",
+    "#DRONES",
+    "#DEFENSE-ANTIAERIENNE",
+    "#BALTES",
+    "#GUERRE-HYBRIDE"
+  ],
+  "events": [
+    "@INCURSION",
+    "@INTERCEPTION"
+  ],
+  "signals": [
+    "!VIGILANCE",
+    "!ALERTE",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OTAN",
+    "Baltes",
+    "radars",
+    "drones",
+    "Eastern Sentry",
+    "Roumanie",
+    "défense antiaérienne",
+    "Pologne",
+    "Lituanie",
+    "Estonie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

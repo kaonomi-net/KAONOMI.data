@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-compilations-de-mots-de-passe",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Compilations de mots de passe",
+  "includedEntities": [
+    {
+      "entityName": "mots de passe",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "compilation",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "milliards",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les compilations géantes d'identifiants volés.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "infostealers",
+    "Have I Been Pwned",
+    "réutilisation"
+  ],
+  "questions": [
+    "Combien d'identifiants ?",
+    "Quelle origine ?",
+    "Quel risque ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FUITE-DE-DONNEES",
+    "#IDENTITES"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

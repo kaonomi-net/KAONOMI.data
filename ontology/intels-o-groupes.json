@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-groupes",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "groupes",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 5 intels : Assemblée nationale sans majorité ; Propositions de loi adoptées ; Statistiques des rançongiciels ; Arrestation de hacktivistes ; Renseignement sur la menace.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les rapports de force dans une Assemblée sans majorité.",
+    "Suivre les propositions de loi votées par le Parlement.",
+    "Suivre les statistiques mensuelles des attaques par rançongiciel."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "groupes",
+  "tags": [
+    "#CYBERSECURITE",
+    "#FRANCE",
+    "#PARLEMENT",
+    "#POLITIQUE",
+    "#LOI",
+    "#RANCONGICIEL"
+  ],
+  "events": [
+    "@VOTE",
+    "@ARRESTATION",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!BLOCAGE",
+    "!GOUVERNANCE",
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "majorité",
+    "compromis",
+    "groupes parlementaires",
+    "Assemblée nationale",
+    "votes",
+    "proposition de loi",
+    "vote",
+    "niche parlementaire",
+    "adoptée",
+    "Parlement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

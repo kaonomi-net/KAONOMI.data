@@ -1,0 +1,13 @@
+{
+  "index": 45,
+  "file": "0045-architecture-entreprise-explain-domain-driven-design-in-simple.prompt.json",
+  "prompt": "Explain Domain-Driven Design in simple terms.",
+  "promptWords": 6,
+  "completion": "Domain-Driven Design (DDD) is a software development approach that focuses on the core business domain and its complexity. The goal is to create software that closely aligns with the business needs and processes. Here’s a simple breakdown:\n\n1. **Focus on the Domain**: The \"domain\" refers to the area of knowledge or activity that the software is addressing (e.g., e-commerce, healthcare, banking). DDD emphasizes understanding this domain deeply.\n\n2. **Ubiquitous Language**: All team members (developers, business experts, etc.) use the same language to describe the domain. This reduces misunderstandings and ensures everyone is on the same page.\n\n3. **Models and Boundaries**: The domain is divided into smaller, manageable parts called \"bounded contexts.\" Each context has its own model and rules, which can differ from other contexts.\n\n4. **Entities, Value Objects, and Aggregates**:\n   - **Entities**: Objects that are defined by their identity (e.g., a User with a unique ID).\n   - **Value Objects**: Objects defined by their attributes (e.g., an Address with street, city, etc.).\n   - **Aggregates**: A cluster of associated objects treated as a single unit (e.g., an Order with its line items).\n\n5. **Repositories and Services**: These are technical patterns that help manage data and operations within the domain.\n\n6. **Context Mapping**: Describes how different bounded contexts interact with each other.\n\nIn short, DDD is about building software that truly reflects the business it serves by deeply understanding and modeling the domain.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:11:27.9759644+02:00",
+  "durationSeconds": 7.65,
+  "stats": "mistral-small3.2:latest · 518 + 324 tokens · 7,6 s",
+  "isError": false,
+  "language": "EN"
+}

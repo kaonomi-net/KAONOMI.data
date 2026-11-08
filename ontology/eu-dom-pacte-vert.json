@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (le Pacte vert) : Feuille de route visant à rendre l'Union climatiquement neutre d'ici à 2050 tout en découplant croissance et ressources.",
+  "id": "eu-dom-pacte-vert",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Pacte vert",
+  "entityType": "DOMAIN",
+  "description": "Feuille de route visant à rendre l'Union climatiquement neutre d'ici à 2050 tout en découplant croissance et ressources.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Pacte vert » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Pacte vert » passent par le Parlement et le Conseil.",
+    "La conférence portait sur le Pacte vert."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#PACTEVERT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pacte%20vert"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pacte vert pour l'Europe (Commission von der Leyen I)",
+    "Frans Timmermans",
+    "Relations interinstitutionnelles et prospective, puis Pacte vert (Commission von der Leyen I)",
+    "Maroš Šefčovič",
+    "Transition propre, juste et compétitive (Commission von der Leyen II)",
+    "Teresa Ribera",
+    "Pacte vert pour l'Europe",
+    "Directive sur la publication d'informations en matière de durabilité",
+    "Directive sur le devoir de vigilance des entreprises en matière de durabilité",
+    "Présentation du Pacte vert",
+    "Départ de Frans Timmermans de la Commission"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

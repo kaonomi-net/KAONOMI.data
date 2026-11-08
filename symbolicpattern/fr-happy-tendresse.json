@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-tendresse",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une affection douce.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:tendresse(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tendre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:doux\\s+et\\s+tendre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:douceur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attendri(e|s|es|ssant|ssante)?)(?![\\w-])"
+  ],
+  "symbol": "tendresse",
+  "event": null,
+  "title": "Tendresse",
+  "tags": [
+    "#AMOUR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

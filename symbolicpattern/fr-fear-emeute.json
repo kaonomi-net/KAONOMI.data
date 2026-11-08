@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-emeute",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un soulèvement violent dans la rue.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]meute(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]meutier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:violences\\s+urbaines)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gu[ée]rilla\\s+urbaine)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:affrontements\\s+avec\\s+la\\s+police)(?![\\w-])"
+  ],
+  "symbol": "émeute",
+  "event": null,
+  "title": "Émeute",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

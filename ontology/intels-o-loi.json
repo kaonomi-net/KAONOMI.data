@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-loi",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "loi",
+  "entityType": "LAW",
+  "description": "Cité par 11 intels : Église orthodoxe liée à Moscou en Ukraine ; Déserts médicaux ; Égalité femmes-hommes ; Banque de la démocratie ; Politique crypto des États-Unis ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre les mesures contre l'Église liée au patriarcat de Moscou.",
+    "Suivre les mesures contre les déserts médicaux.",
+    "Suivre les mesures pour l'égalité et contre les violences faites aux femmes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "loi",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#FRANCE",
+    "#CYBERSECURITE",
+    "#JUSTICE",
+    "#DROIT",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@VOTE",
+    "@DECISION-JUSTICE"
+  ],
+  "signals": [
+    "!DEBAT",
+    "!SOCIAL",
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "Belgique",
+    "Kyiv",
+    "patriarche Kirill",
+    "Laure de Kyiv",
+    "Église orthodoxe d'Ukraine",
+    "interdiction",
+    "Église orthodoxe",
+    "Moscou",
+    "déserts médicaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

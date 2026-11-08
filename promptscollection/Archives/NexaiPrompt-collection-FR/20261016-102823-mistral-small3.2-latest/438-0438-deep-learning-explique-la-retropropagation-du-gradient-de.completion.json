@@ -1,0 +1,13 @@
+{
+  "index": 438,
+  "file": "0438-deep-learning-explique-la-retropropagation-du-gradient-de.prompt.json",
+  "prompt": "Explique la rétropropagation du gradient de façon simple.",
+  "promptWords": 8,
+  "completion": "La rétropropagation du gradient (ou *backpropagation* en anglais) est une technique fondamentale en apprentissage automatique, notamment pour les réseaux de neurones. Voici une explication simple :\n\n### 1. **But de la rétropropagation**\nL'objectif est d'ajuster les poids d'un réseau de neurones pour minimiser l'erreur entre les prédictions du modèle et les valeurs réelles. En d'autres termes, on veut que le modèle apprenne à faire de meilleures prédictions.\n\n### 2. **Comment ça marche ?**\n- **Phase avant (forward pass)** : Le réseau de neurones fait une prédiction en utilisant les données d'entrée et les poids actuels.\n- **Calcul de l'erreur** : On compare la prédiction du modèle avec la valeur réelle et on calcule une erreur (par exemple, avec une fonction de coût comme l'erreur quadratique moyenne).\n- **Phase arrière (backward pass)** : On calcule le gradient de l'erreur par rapport à chaque poids du réseau. Le gradient indique dans quelle direction et de combien ajuster les poids pour réduire l'erreur.\n- **Mise à jour des poids** : On utilise un algorithme d'optimisation (comme la descente de gradient) pour ajuster les poids en fonction des gradients calculés.\n\n### 3. **Analogie simple**\nImaginez que vous êtes en montagne et que vous voulez descendre le plus vite possible. La rétropropagation est comme avoir une carte qui vous indique la direction la plus raide pour descendre (le gradient). À chaque étape, vous ajustez votre position en suivant cette direction pour atteindre le bas de la montagne (le minimum de l'erreur).\n\n### 4. **Pourquoi c'est important ?**\nLa rétropropagation permet au réseau de neurones d'apprendre de ses erreurs et de s'améliorer progressivement. Sans elle, les réseaux de neurones ne pourraient pas ajuster leurs poids de manière efficace.\n\nEn résumé, la rétropropagation est une méthode pour \"apprendre\" en ajustant les poids d'un réseau de neurones de manière à minimiser l'erreur de prédiction.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:45:11.4866559+02:00",
+  "durationSeconds": 9.08,
+  "stats": "mistral-small3.2:latest · 520 + 449 tokens · 9,1 s",
+  "isError": false,
+  "language": "FR"
+}

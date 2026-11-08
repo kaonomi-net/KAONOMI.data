@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-loi-speciale-de-fin-d-annee",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Loi spéciale de fin d'année",
+  "includedEntities": [
+    {
+      "entityName": "loi spéciale",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller l'adoption d'une loi spéciale faute de budget voté.",
+  "isFuzzy": true,
+  "locations": [
+    "Parlement"
+  ],
+  "times": [
+    "fin décembre"
+  ],
+  "relatedEntities": [
+    "impôts",
+    "dépenses",
+    "continuité de l'État"
+  ],
+  "questions": [
+    "Une loi spéciale est-elle nécessaire ?",
+    "Quand ?",
+    "Quelles conséquences ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#INSTITUTIONS"
+  ],
+  "events": [
+    "@LOI-SPECIALE"
+  ],
+  "signals": [
+    "!CRISE-POLITIQUE"
+  ],
+  "isDeleted": false
+}

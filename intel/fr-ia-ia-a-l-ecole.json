@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-ia-a-l-ecole",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "IA à l'école",
+  "includedEntities": [
+    {
+      "entityName": "école",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "élèves",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'arrivée de l'IA dans l'éducation.",
+  "isFuzzy": true,
+  "locations": [
+    "écoles",
+    "universités"
+  ],
+  "times": [
+    "rentrée scolaire"
+  ],
+  "relatedEntities": [
+    "Éducation nationale",
+    "enseignants",
+    "triche"
+  ],
+  "questions": [
+    "Quel usage autorisé ?",
+    "Quels risques de triche ?",
+    "Quelle formation des enseignants ?"
+  ],
+  "tags": [
+    "#IA",
+    "#EDUCATION"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

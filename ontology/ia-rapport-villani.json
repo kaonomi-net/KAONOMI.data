@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les politiques publiques) : Remise du rapport « Donner un sens à l'intelligence artificielle » de Cédric Villani, qui a fondé la stratégie nationale française en IA.",
+  "id": "ia-rapport-villani",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Publication du rapport Villani",
+  "entityType": "EVENT",
+  "description": "Remise du rapport « Donner un sens à l'intelligence artificielle » de Cédric Villani, qui a fondé la stratégie nationale française en IA.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "Dans sa conférence, l'historien des sciences est revenu sur « Publication du rapport Villani ».",
+    "On date souvent un tournant des politiques publiques à « Publication du rapport Villani ».",
+    "« Publication du rapport Villani » est un jalon de l'histoire de l'intelligence artificielle."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "rapport Donner un sens à l'IA"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#POLITIQUESPUBLIQUES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Publication%20du%20rapport%20Villani"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Cédric Villani",
+    "Supercalculateur Jean Zay"
+  ],
+  "isDeleted": false,
+  "startDate": "2018-03-28T00:00:00",
+  "endDate": "2018-03-28T00:00:00"
+}

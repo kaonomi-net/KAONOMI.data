@@ -1,0 +1,13 @@
+{
+  "index": 62,
+  "file": "082-mathematiques-comment-resoudre-une-equation-du-second.prompt.json",
+  "prompt": "Comment résoudre une équation du second degré ?",
+  "promptWords": 8,
+  "completion": "Résoudre une équation du second degré de la forme \\( ax^2 + bx + c = 0 \\) (où \\( a \\neq 0 \\)) peut se faire de plusieurs manières. Voici les principales méthodes :\n\n### 1. **Méthode du discriminant**\nCette méthode est la plus courante et fonctionne pour tous les types d'équations du second degré.\n\n1. **Calculer le discriminant** \\( \\Delta \\) :\n   \\[\n   \\Delta = b^2 - 4ac\n   \\]\n\n2. **Analyser le discriminant** :\n   - Si \\( \\Delta > 0 \\) : Deux solutions réelles distinctes.\n   - Si \\( \\Delta = 0 \\) : Une solution réelle double.\n   - Si \\( \\Delta < 0 \\) : Deux solutions complexes conjuguées.\n\n3. **Calculer les solutions** :\n   - Si \\( \\Delta \\geq 0 \\) :\n     \\[\n     x = \\frac{-b \\pm \\sqrt{\\Delta}}{2a}\n     \\]\n   - Si \\( \\Delta < 0 \\) :\n     \\[\n     x = \\frac{-b \\pm i\\sqrt{|\\Delta|}}{2a}\n     \\]\n     (où \\( i \\) est l'unité imaginaire).\n\n### 2. **Méthode de factorisation**\nSi l'équation peut être factorisée, on peut écrire :\n\\[\nax^2 + bx + c = a(x - x_1)(x - x_2) = 0\n\\]\noù \\( x_1 \\) et \\( x_2 \\) sont les solutions. Il suffit alors de résoudre \\( x - x_1 = 0 \\) et \\( x - x_2 = 0 \\).\n\n### 3. **Méthode de complétion du carré**\n1. Diviser l'équation par \\( a \\) (si \\( a \\neq 1 \\)) :\n   \\[\n   x^2 + \\frac{b}{a}x + \\frac{c}{a} = 0\n   \\]\n\n2. Déplacer le terme constant à droite :\n   \\[\n   x^2 + \\frac{b}{a}x = -\\frac{c}{a}\n   \\]\n\n3. Ajouter le carré du demi-coefficient de \\( x \\) des deux côtés :\n   \\[\n   x^2 + \\frac{b}{a}x + \\left(\\frac{b}{2a}\\right)^2 = -\\frac{c}{a} + \\left(\\frac{b}{2a}\\right)^2\n   \\]\n\n4. Écrire le carré parfait à gauche et simplifier à droite :\n   \\[\n   \\left(x + \\frac{b}{2a}\\right)^2 = \\frac{b^2 - 4ac}{4a^2}\n   \\]\n\n5. Passer à la racine carrée et résoudre pour \\( x \\).\n\n### Exemple avec la méthode du discriminant\nRésolvons l'équation \\( 2x^2 - 4x - 6 = 0 \\) :\n\n1. **Calcul du discriminant** :\n   \\[\n   \\Delta = (-4)^2 - 4 \\times 2 \\times (-6) = 16 + 48 = 64\n   \\]\n\n2. **Calcul des solutions** :\n   \\[\n   x = \\frac{4 \\pm \\sqrt{64}}{4} = \\frac{4 \\pm 8}{4}\n   \\]\n   Donc :\n   \\[\n   x_1 = \\frac{4 + 8}{4} = 3 \\quad \\text{et} \\quad x_2 = \\frac{4 - 8}{4} = -1\n   \\]\n\nLes solutions sont \\( x = 3 \\) et \\( x = -1 \\).",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:27:41.5551707+02:00",
+  "durationSeconds": 17.2,
+  "stats": "mistral-small3.2:latest · 516 + 802 tokens · 17,2 s",
+  "isError": false,
+  "language": "FR"
+}

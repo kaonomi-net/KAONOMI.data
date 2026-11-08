@@ -1,0 +1,13 @@
+{
+  "index": 24,
+  "file": "044-intelligence-artificielle-qu-est-ce-qu-un-reseau.prompt.json",
+  "prompt": "Qu'est-ce qu'un réseau de neurones ?",
+  "promptWords": 6,
+  "completion": "Un réseau de neurones est un modèle informatique inspiré du fonctionnement du cerveau humain. Il est composé de couches de neurones artificiels qui traitent des informations de manière hiérarchique. Voici les éléments clés pour comprendre ce concept :\n\n1. **Structure** :\n   - **Neurones** : Unités de base du réseau, similaires aux neurones biologiques. Chaque neurone reçoit des entrées, les traite avec des poids (parameters) et produit une sortie.\n   - **Couches** : Un réseau de neurones est organisé en couches :\n     - **Couche d'entrée** : Reçoit les données brutes.\n     - **Couches cachées** : Traitent les données de manière non linéaire pour extraire des caractéristiques.\n     - **Couche de sortie** : Produit le résultat final.\n\n2. **Fonctionnement** :\n   - **Apprentissage** : Le réseau ajuste ses poids en fonction des données d'entraînement pour minimiser l'erreur entre ses prédictions et les valeurs réelles (via des algorithmes comme la rétropropagation).\n   - **Activation** : Chaque neurone utilise une fonction d'activation (comme ReLU, sigmoïde) pour introduire de la non-linéarité.\n\n3. **Applications** :\n   - **Vision par ordinateur** : Reconnaissance d'images, détection d'objets.\n   - **Traitement du langage naturel** : Traduction automatique, chatbots.\n   - **Jeux** : Alphago de DeepMind.\n   - **Médecine** : Diagnostic assisté par IA.\n\n4. **Types de réseaux** :\n   - **Réseaux de neurones convolutifs (CNN)** : Efficaces pour les données visuelles.\n   - **Réseaux de neurones récurrents (RNN)** : Adaptés aux séquences temporelles.\n   - **Réseaux de neurones à long terme (LSTM)** : Variantes des RNN pour mieux capturer les dépendances à long terme.\n\n5. **Avantages** :\n   - Capacité à apprendre des motifs complexes à partir de données.\n   - Adaptabilité à divers types de problèmes.\n\n6. **Limites** :\n   - Nécessite de grandes quantités de données pour un bon apprentissage.\n   - Peut être opaque (boîte noire) en termes d'interprétabilité.\n\nLes réseaux de neurones sont au cœur de l'intelligence artificielle moderne et continuent d'évoluer avec des architectures plus sophistiquées comme les transformeurs (utilisés dans le modèle de langage que je suis).",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:21:08.7127583+02:00",
+  "durationSeconds": 11.92,
+  "stats": "mistral-small3.2:latest · 517 + 544 tokens · 11,9 s",
+  "isError": false,
+  "language": "FR"
+}

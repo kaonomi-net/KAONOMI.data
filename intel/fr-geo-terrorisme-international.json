@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-terrorisme-international",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Terrorisme international",
+  "includedEntities": [
+    {
+      "entityName": "État islamique",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "attentat",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "terrorisme",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller l'activité des groupes terroristes internationaux.",
+  "isFuzzy": true,
+  "locations": [
+    "Sahel",
+    "Syrie",
+    "Afghanistan"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Al-Qaïda",
+    "État islamique au Khorassan",
+    "services de renseignement"
+  ],
+  "questions": [
+    "Quel attentat ?",
+    "Quel groupe revendique ?",
+    "Quelle menace en Europe ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#TERRORISME",
+    "#SECURITE"
+  ],
+  "events": [
+    "@ATTENTAT"
+  ],
+  "signals": [
+    "!MENACE",
+    "!FEAR"
+  ],
+  "isDeleted": false
+}

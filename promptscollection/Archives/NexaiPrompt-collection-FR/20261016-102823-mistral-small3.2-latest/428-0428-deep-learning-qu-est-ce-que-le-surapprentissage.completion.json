@@ -1,0 +1,13 @@
+{
+  "index": 428,
+  "file": "0428-deep-learning-qu-est-ce-que-le-surapprentissage.prompt.json",
+  "prompt": "Qu'est-ce que le surapprentissage et comment l'éviter ?",
+  "promptWords": 8,
+  "completion": "Le surapprentissage (ou *overfitting* en anglais) est un problème courant en apprentissage automatique où un modèle apprend trop bien les données d'entraînement, y compris le bruit et les détails spécifiques, ce qui le rend moins performant sur de nouvelles données non vues auparavant. En d'autres termes, le modèle mémorise les données d'entraînement au lieu de généraliser correctement.\n\n### Comment reconnaître le surapprentissage ?\n- Le modèle a une très bonne performance sur les données d'entraînement mais une performance médiocre sur les données de test.\n- Les erreurs sur les données de test augmentent alors que les erreurs sur les données d'entraînement diminuent.\n\n### Comment éviter le surapprentissage ?\n1. **Augmenter la taille des données d'entraînement** : Plus le modèle a de données, moins il est susceptible de mémoriser des détails spécifiques.\n2. **Réduire la complexité du modèle** : Utiliser un modèle plus simple avec moins de paramètres peut aider à éviter le surapprentissage.\n3. **Utiliser la validation croisée** : Cette technique permet d'évaluer la performance du modèle sur différentes partitions des données, ce qui aide à détecter le surapprentissage.\n4. **Techniques de régularisation** :\n   - **Régularisation L1 ou L2** : Ajouter une pénalité aux paramètres du modèle pour limiter leur amplitude.\n   - **Dropout** : Dans les réseaux de neurones, désactiver aléatoirement certains neurones pendant l'entraînement pour empêcher la co-adaptation trop forte.\n5. **Early Stopping** : Arrêter l'entraînement dès que la performance sur les données de validation commence à se dégrader.\n6. **Data Augmentation** : Créer des versions modifiées des données d'entraînement pour augmenter la diversité des exemples.\n\nEn appliquant ces techniques, vous pouvez améliorer la généralisation de votre modèle et réduire le risque de surapprentissage.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:43:26.4992946+02:00",
+  "durationSeconds": 8.37,
+  "stats": "mistral-small3.2:latest · 523 + 418 tokens · 8,4 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 8,
+  "file": "028-cuisine-comment-cuire-du-riz-pour-qu.prompt.json",
+  "prompt": "Comment cuire du riz pour qu'il ne colle pas ?",
+  "promptWords": 10,
+  "completion": "Pour cuire du riz sans qu'il ne colle, voici quelques conseils et une méthode simple à suivre :\n\n### **Méthode de base pour du riz non collant**\n1. **Rincer le riz** :\n   - Passez le riz sous l'eau froide pour enlever l'excès d'amidon. Cela empêche les grains de coller entre eux.\n   - Faites-le jusqu'à ce que l'eau soit claire.\n\n2. **Utiliser la bonne proportion eau/riz** :\n   - Généralement, pour 1 volume de riz, comptez 1,5 à 2 volumes d'eau (selon le type de riz).\n   - Par exemple, pour 1 tasse de riz, utilisez 1,5 tasse d'eau.\n\n3. **Cuisson à feu doux** :\n   - Portez l'eau à ébullition, puis ajoutez le riz.\n   - Remettez à feu doux et couvrez avec un couvercle.\n   - Laissez cuire sans remuer pendant environ 15-20 minutes (selon le type de riz).\n\n4. **Laisser reposer** :\n   - Après la cuisson, retirez du feu et laissez reposer le riz couvert pendant 5-10 minutes avant de l'ouvrir.\n\n### **Astuces supplémentaires**\n- **Ajouter un peu d'huile ou de beurre** : Une cuillère à café d'huile ou de beurre dans l'eau de cuisson peut aider à séparer les grains.\n- **Utiliser une passoire à riz** : Si vous avez une passoire à riz (ou un panier vapeur), vous pouvez cuire le riz à la vapeur après l'avoir égoutté.\n- **Choisir le bon type de riz** : Certains riz (comme le riz basmati ou le riz thaï) sont naturellement moins collants que d'autres (comme le riz glutineux).\n\nEn suivant ces étapes, votre riz devrait être bien séparé et moelleux ! \uD83C\uDF5A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T18:16:51.1988155+02:00",
+  "durationSeconds": 9.48,
+  "stats": "mistral-small3.2:latest · 519 + 422 tokens · 9,5 s",
+  "isError": false,
+  "language": "FR"
+}

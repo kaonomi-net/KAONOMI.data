@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-marion-marechal",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Marion Maréchal",
+  "includedEntities": [
+    {
+      "entityName": "Marion Maréchal",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Identité-Libertés",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de Marion Maréchal dans la campagne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "RN",
+    "Reconquête",
+    "Parlement européen"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quel soutien ?",
+    "Quelle alliance ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#DROITE"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

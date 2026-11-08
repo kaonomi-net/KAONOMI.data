@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-new-york",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "New York",
+  "entityType": "CITY",
+  "description": "Cité par 22 intels : Rapports de l'ONU sur les droits humains ; Veto au Conseil de sécurité de l'ONU ; Introduction en bourse d'une entreprise d'IA ; Prise de parole de Yann LeCun ; Reconnaissance de l'État de Palestine ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les rapports onusiens sur la guerre.",
+    "Suivre les votes et veto au Conseil de sécurité des Nations unies.",
+    "Surveiller les entrées en bourse des entreprises d'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "New York",
+  "tags": [
+    "#BOURSE",
+    "#IA",
+    "#ONU",
+    "#DIPLOMATIE",
+    "#FRANCE",
+    "#TECH"
+  ],
+  "events": [
+    "@INTRODUCTION-BOURSE",
+    "@SEANCE-BOURSE",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!MARCHE",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "ONU",
+    "Nvidia",
+    "Nasdaq",
+    "introduction en Bourse",
+    "droits humains",
+    "Genève",
+    "Nations unies",
+    "Conseil de sécurité",
+    "résolutions"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

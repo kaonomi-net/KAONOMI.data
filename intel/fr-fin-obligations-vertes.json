@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-obligations-vertes",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Obligations vertes",
+  "includedEntities": [
+    {
+      "entityName": "obligations vertes",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "green bonds",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le marché des obligations vertes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Union européenne",
+    "entreprises",
+    "labels"
+  ],
+  "questions": [
+    "Quel volume ?",
+    "Quel émetteur ?",
+    "Quelle critique ?"
+  ],
+  "tags": [
+    "#OBLIGATIONS",
+    "#FINANCE-DURABLE"
+  ],
+  "events": [
+    "@EMISSION"
+  ],
+  "signals": [
+    "!FINANCE-DURABLE"
+  ],
+  "isDeleted": false
+}

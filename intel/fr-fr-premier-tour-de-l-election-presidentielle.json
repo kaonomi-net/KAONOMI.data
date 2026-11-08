@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-premier-tour-de-l-election-presidentielle",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Premier tour de l'élection présidentielle",
+  "includedEntities": [
+    {
+      "entityName": "premier tour",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "présidentielle",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre le premier tour de l'élection présidentielle du 18 avril 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [
+    "18 avril 2027"
+  ],
+  "relatedEntities": [
+    "candidats",
+    "Conseil constitutionnel",
+    "participation"
+  ],
+  "questions": [
+    "Qui se qualifie ?",
+    "Quelle participation ?",
+    "Quels écarts ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#ELECTIONS"
+  ],
+  "events": [
+    "@PREMIER-TOUR"
+  ],
+  "signals": [
+    "!ECHEANCE"
+  ],
+  "isDeleted": false
+}

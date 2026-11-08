@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-satisfaction",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le plaisir de ce qui est réussi.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:satisfaction(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:satisfaisant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:contentement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pl[ée]nitude(s)?)(?![\\w-])"
+  ],
+  "symbol": "satisfaction",
+  "event": null,
+  "title": "Satisfaction",
+  "tags": [
+    "#JOIE",
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

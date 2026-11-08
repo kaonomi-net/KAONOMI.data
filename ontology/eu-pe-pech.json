@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la pêche) : Commission de la pêche du Parlement européen, chargée de la pêche.",
+  "id": "eu-pe-pech",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission de la pêche (PECH)",
+  "entityType": "ORGANISATION",
+  "description": "Commission de la pêche du Parlement européen, chargée de la pêche.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "Les fonctionnaires de « Commission de la pêche (PECH) » préparent les textes relatifs à la pêche.",
+    "La délégation a rencontré des représentants de « Commission de la pêche (PECH) ».",
+    "« Commission de la pêche (PECH) » joue un rôle dans la pêche."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "PECH"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#PECHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20de%20la%20p%C3%AAche%20%28PECH%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Pêche"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

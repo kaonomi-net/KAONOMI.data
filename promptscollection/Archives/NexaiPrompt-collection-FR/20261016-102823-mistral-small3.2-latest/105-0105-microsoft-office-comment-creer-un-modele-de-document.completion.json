@@ -1,0 +1,13 @@
+{
+  "index": 105,
+  "file": "0105-microsoft-office-comment-creer-un-modele-de-document.prompt.json",
+  "prompt": "Comment créer un modèle de document dans Word ?",
+  "promptWords": 9,
+  "completion": "Créer un modèle de document dans Microsoft Word est une excellente façon de standardiser la mise en page et le contenu de vos documents. Voici comment procéder :\n\n### Étapes pour créer un modèle de document dans Word :\n\n1. **Ouvrir Microsoft Word** :\n   - Lancez Word et ouvrez un nouveau document vierge.\n\n2. **Personnaliser le document** :\n   - Ajoutez tous les éléments que vous souhaitez inclure dans votre modèle, tels que :\n     - En-têtes et pieds de page.\n     - Styles de texte (titres, sous-titres, paragraphes, etc.).\n     - Images, logos ou graphiques.\n     - Tableaux ou listes.\n     - Toute autre mise en forme spécifique.\n\n3. **Enregistrer le document comme modèle** :\n   - Cliquez sur **Fichier** dans le menu supérieur.\n   - Sélectionnez **Enregistrer sous**.\n   - Choisissez l'emplacement où vous souhaitez enregistrer le modèle.\n   - Dans la zone **Type**, sélectionnez **Modèle Word (*.dotx)**.\n   - Donnez un nom à votre modèle et cliquez sur **Enregistrer**.\n\n4. **Utiliser le modèle** :\n   - Pour créer un nouveau document basé sur ce modèle, ouvrez Word.\n   - Cliquez sur **Fichier** > **Nouveau**.\n   - Sélectionnez **Personnel** dans la barre de navigation.\n   - Choisissez votre modèle dans la liste des modèles disponibles.\n\n### Conseils supplémentaires :\n- **Styles** : Utilisez les styles intégrés de Word (Titre 1, Titre 2, etc.) pour faciliter la mise à jour et la cohérence de votre modèle.\n- **Champs** : Vous pouvez ajouter des champs pour des informations variables comme la date, le nom de l'auteur, etc.\n- **Protection** : Si vous souhaitez empêcher les modifications accidentelles, vous pouvez protéger le modèle.\n\nSi vous avez besoin d'aide supplémentaire ou si vous souhaitez des instructions plus détaillées pour une version spécifique de Word, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:49:07.4844949+02:00",
+  "durationSeconds": 8.99,
+  "stats": "mistral-small3.2:latest · 516 + 445 tokens · 9,0 s",
+  "isError": false,
+  "language": "FR"
+}

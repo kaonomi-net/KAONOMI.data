@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-souffrance",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de souffrir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:souffrance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souffr(ir|e|es|ent|ant|ante|ait|u)|endur(er|[ée]|e))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:martyre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tourment(s)?)(?![\\w-])"
+  ],
+  "symbol": "souffrance",
+  "event": null,
+  "title": "Souffrance",
+  "tags": [
+    "#SOUFFRANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

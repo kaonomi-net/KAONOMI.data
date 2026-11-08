@@ -1,0 +1,13 @@
+{
+  "index": 392,
+  "file": "0392-ia-agentique-explique-le-model-context-protocol-de.prompt.json",
+  "prompt": "Explique le Model Context Protocol de façon simple.",
+  "promptWords": 8,
+  "completion": "Le Model Context Protocol (MCP) est un protocole utilisé dans les systèmes de traitement du langage naturel (NLP) pour gérer le contexte des conversations. Voici une explication simple :\n\n1. **Contexte** : Imaginez que vous parlez à un assistant virtuel. Le contexte, c'est la mémoire de la conversation. Par exemple, si vous demandez \"Quelle est la météo ?\" et ensuite \"Demain ?\", le contexte permet à l'assistant de comprendre que vous parlez de la météo de demain.\n\n2. **Problème** : Dans les systèmes traditionnels, chaque question est traitée indépendamment, ce qui peut entraîner des réponses incohérentes ou des malentendus.\n\n3. **Solution** : Le MCP permet de conserver et de mettre à jour le contexte de la conversation. Il stocke les informations importantes (comme le sujet de la discussion, les entités mentionnées, etc.) et les utilise pour répondre de manière cohérente.\n\n4. **Fonctionnement** :\n   - **Initialisation** : Au début de la conversation, le contexte est vide.\n   - **Mise à jour** : À chaque tour de conversation, le contexte est mis à jour avec les nouvelles informations.\n   - **Utilisation** : Le contexte est utilisé pour interpréter et générer des réponses pertinentes.\n\n5. **Avantages** :\n   - **Cohérence** : Les réponses sont plus cohérentes et pertinentes.\n   - **Efficacité** : Moins de répétitions et de clarifications nécessaires.\n   - **Expérience utilisateur** : Conversations plus naturelles et fluides.\n\nEn résumé, le MCP est comme une mémoire partagée qui permet à un assistant virtuel de suivre le fil de la conversation et de répondre de manière intelligente.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:36:22.0378253+02:00",
+  "durationSeconds": 7.68,
+  "stats": "mistral-small3.2:latest · 517 + 380 tokens · 7,7 s",
+  "isError": false,
+  "language": "FR"
+}

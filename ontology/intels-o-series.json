@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-series",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "séries",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Effet Werther et médias.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le traitement médiatique du suicide et ses effets."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "séries",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE",
+    "#MEDIAS"
+  ],
+  "events": [],
+  "signals": [
+    "!PREVENTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "suicide",
+    "effet Werther",
+    "médias",
+    "recommandations",
+    "Papageno"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

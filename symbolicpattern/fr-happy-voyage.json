@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-voyage",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'aller découvrir d'autres lieux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:voyage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:voyag(er|eur|euse|eurs|e|eons)|escapade(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:road\\s+trip)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tour\\s+du\\s+monde)(?![\\w-])"
+  ],
+  "symbol": "voyage",
+  "event": null,
+  "title": "Voyage",
+  "tags": [
+    "#VOYAGE",
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

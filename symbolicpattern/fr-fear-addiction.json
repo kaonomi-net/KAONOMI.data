@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-addiction",
+  "date": "2026-11-08T13:23:24.901841+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La dépendance aux écrans et aux applications.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:addiction(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:addict(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:scrolling\\s+infini)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:temps\\s+d['’][ée]cran)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:captation\\s+de\\s+l['’]attention)(?![\\w-])"
+  ],
+  "symbol": "addiction",
+  "event": null,
+  "title": "Addiction",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

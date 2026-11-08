@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-liste-officielle-des-candidats",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Liste officielle des candidats",
+  "includedEntities": [
+    {
+      "entityName": "liste des candidats",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Conseil constitutionnel",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la publication de la liste officielle des candidats.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "mars 2027"
+  ],
+  "relatedEntities": [
+    "Conseil constitutionnel",
+    "parrainages",
+    "recours"
+  ],
+  "questions": [
+    "Combien de candidats ?",
+    "Qui est absent ?",
+    "Quels recours ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#REGLES"
+  ],
+  "events": [
+    "@LISTE-CANDIDATS"
+  ],
+  "signals": [
+    "!ECHEANCE"
+  ],
+  "isDeleted": false
+}

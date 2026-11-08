@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-motion-de-censure-de-janvier-2026",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Motion de censure de janvier 2026",
+  "includedEntities": [
+    {
+      "entityName": "motion de censure",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "janvier 2026",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Mercosur",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les suites de la motion rejetée le 22 janvier 2026 par 390 voix contre 165.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [
+    "22 janvier 2026"
+  ],
+  "relatedEntities": [
+    "Patriotes pour l'Europe",
+    "agriculteurs",
+    "Mercosur"
+  ],
+  "questions": [
+    "Une nouvelle motion est-elle annoncée ?",
+    "Quels groupes la soutiennent ?",
+    "Quel écart ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#CENSURE",
+    "#MERCOSUR"
+  ],
+  "events": [],
+  "signals": [
+    "!CRISE-POLITIQUE"
+  ],
+  "isDeleted": false
+}

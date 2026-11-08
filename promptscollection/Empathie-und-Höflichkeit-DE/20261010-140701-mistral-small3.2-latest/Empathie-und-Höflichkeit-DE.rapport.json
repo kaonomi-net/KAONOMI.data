@@ -1,0 +1,738 @@
+{
+  "collection": "Empathie-und-Höflichkeit-DE",
+  "collectionFolder": "N:\\promptscollection\\Empathie-und-Höflichkeit-DE",
+  "model": "mistral-small3.2:latest",
+  "language": "DE",
+  "date": "2026-10-10T14:07:01.7351245+02:00",
+  "endDate": "2026-10-10T14:11:01.0296985+02:00",
+  "executionTimeSeconds": 233.7,
+  "executionTime": "00:03:53",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "promptCount": 100,
+  "sentCount": 100,
+  "skippedCount": 0,
+  "stopped": false,
+  "totalPromptWords": 688,
+  "topicsSummary": "Die Prompts behandeln eine Vielzahl von Themen, darunter Höflichkeit und Begrüßungen, Dankbarkeit und Entschuldigungen, persönliche Gefühle und Emotionen, sowie Fragen zur Persönlichkeit und zum Wesen des Assistenten.",
+  "topics": [
+    {
+      "topic": "Persönliche Gefühle und Emotionen",
+      "promptCount": 38
+    },
+    {
+      "topic": "Höflichkeit und Begrüßungen",
+      "promptCount": 20
+    },
+    {
+      "topic": "Dankbarkeit und Entschuldigungen",
+      "promptCount": 17
+    },
+    {
+      "topic": "Fragen zur Persönlichkeit des Assistenten",
+      "promptCount": 25
+    }
+  ],
+  "items": [
+    {
+      "index": 1,
+      "file": "001-politesse-guten-tag-wie-geht-es-ihnen.prompt.json",
+      "prompt": "Guten Tag, wie geht es Ihnen heute?",
+      "promptWords": 7,
+      "completionFile": "001-politesse-guten-tag-wie-geht-es-ihnen.completion.json"
+    },
+    {
+      "index": 2,
+      "file": "002-politesse-guten-abend-ich-hoffe-ich-stoere.prompt.json",
+      "prompt": "Guten Abend! Ich hoffe, ich störe Sie nicht?",
+      "promptWords": 8,
+      "completionFile": "002-politesse-guten-abend-ich-hoffe-ich-stoere.completion.json"
+    },
+    {
+      "index": 3,
+      "file": "003-politesse-vielen-dank-fuer-ihre-hilfe-gestern.prompt.json",
+      "prompt": "Vielen Dank für Ihre Hilfe gestern.",
+      "promptWords": 6,
+      "completionFile": "003-politesse-vielen-dank-fuer-ihre-hilfe-gestern.completion.json"
+    },
+    {
+      "index": 4,
+      "file": "004-politesse-entschuldigen-sie-die-stoerung-haetten-sie.prompt.json",
+      "prompt": "Entschuldigen Sie die Störung, hätten Sie einen Moment Zeit?",
+      "promptWords": 9,
+      "completionFile": "004-politesse-entschuldigen-sie-die-stoerung-haetten-sie.completion.json"
+    },
+    {
+      "index": 5,
+      "file": "005-politesse-verzeihung-ich-glaube-ich-habe-mich.prompt.json",
+      "prompt": "Verzeihung, ich glaube, ich habe mich vorhin schlecht ausgedrückt.",
+      "promptWords": 9,
+      "completionFile": "005-politesse-verzeihung-ich-glaube-ich-habe-mich.completion.json"
+    },
+    {
+      "index": 6,
+      "file": "006-politesse-ich-wuensche-ihnen-einen-wunderbaren-tag.prompt.json",
+      "prompt": "Ich wünsche Ihnen einen wunderbaren Tag!",
+      "promptWords": 6,
+      "completionFile": "006-politesse-ich-wuensche-ihnen-einen-wunderbaren-tag.completion.json"
+    },
+    {
+      "index": 7,
+      "file": "007-politesse-gute-nacht-bis-morgen.prompt.json",
+      "prompt": "Gute Nacht, bis morgen!",
+      "promptWords": 4,
+      "completionFile": "007-politesse-gute-nacht-bis-morgen.completion.json"
+    },
+    {
+      "index": 8,
+      "file": "008-politesse-koennten-sie-mir-bitte-helfen.prompt.json",
+      "prompt": "Könnten Sie mir bitte helfen?",
+      "promptWords": 5,
+      "completionFile": "008-politesse-koennten-sie-mir-bitte-helfen.completion.json"
+    },
+    {
+      "index": 9,
+      "file": "009-politesse-danke-fuer-ihre-geduld-mit-mir.prompt.json",
+      "prompt": "Danke für Ihre Geduld mit mir.",
+      "promptWords": 6,
+      "completionFile": "009-politesse-danke-fuer-ihre-geduld-mit-mir.completion.json"
+    },
+    {
+      "index": 10,
+      "file": "010-politesse-es-tut-mir-leid-dass-ich.prompt.json",
+      "prompt": "Es tut mir leid, dass ich in meiner letzten Nachricht etwas schroff war.",
+      "promptWords": 13,
+      "completionFile": "010-politesse-es-tut-mir-leid-dass-ich.completion.json"
+    },
+    {
+      "index": 11,
+      "file": "011-politesse-ich-danke-ihnen-im-voraus-fuer.prompt.json",
+      "prompt": "Ich danke Ihnen im Voraus für Ihre Antwort.",
+      "promptWords": 8,
+      "completionFile": "011-politesse-ich-danke-ihnen-im-voraus-fuer.completion.json"
+    },
+    {
+      "index": 12,
+      "file": "012-politesse-guten-appetit.prompt.json",
+      "prompt": "Guten Appetit!",
+      "promptWords": 2,
+      "completionFile": "012-politesse-guten-appetit.completion.json"
+    },
+    {
+      "index": 13,
+      "file": "013-politesse-alles-gute-zum-geburtstag-falls-sie.prompt.json",
+      "prompt": "Alles Gute zum Geburtstag, falls Sie einen haben!",
+      "promptWords": 8,
+      "completionFile": "013-politesse-alles-gute-zum-geburtstag-falls-sie.completion.json"
+    },
+    {
+      "index": 14,
+      "file": "014-politesse-frohes-neues-jahr-ich-wuensche-ihnen.prompt.json",
+      "prompt": "Frohes neues Jahr! Ich wünsche Ihnen alles Gute.",
+      "promptWords": 8,
+      "completionFile": "014-politesse-frohes-neues-jahr-ich-wuensche-ihnen.completion.json"
+    },
+    {
+      "index": 15,
+      "file": "015-politesse-bitte-entschuldigen-sie-meine-spaete-antwort.prompt.json",
+      "prompt": "Bitte entschuldigen Sie meine späte Antwort.",
+      "promptWords": 6,
+      "completionFile": "015-politesse-bitte-entschuldigen-sie-meine-spaete-antwort.completion.json"
+    },
+    {
+      "index": 16,
+      "file": "016-politesse-darf-ich-sie-duzen.prompt.json",
+      "prompt": "Darf ich Sie duzen?",
+      "promptWords": 4,
+      "completionFile": "016-politesse-darf-ich-sie-duzen.completion.json"
+    },
+    {
+      "index": 17,
+      "file": "017-politesse-moechten-sie-lieber-dass-ich-sie.prompt.json",
+      "prompt": "Möchten Sie lieber, dass ich Sie sieze?",
+      "promptWords": 7,
+      "completionFile": "017-politesse-moechten-sie-lieber-dass-ich-sie.completion.json"
+    },
+    {
+      "index": 18,
+      "file": "018-politesse-danke-sie-sind-wirklich-sehr-freundlich.prompt.json",
+      "prompt": "Danke, Sie sind wirklich sehr freundlich.",
+      "promptWords": 6,
+      "completionFile": "018-politesse-danke-sie-sind-wirklich-sehr-freundlich.completion.json"
+    },
+    {
+      "index": 19,
+      "file": "019-politesse-kompliment-fuer-ihre-sehr-klare-antwort.prompt.json",
+      "prompt": "Kompliment für Ihre sehr klare Antwort!",
+      "promptWords": 6,
+      "completionFile": "019-politesse-kompliment-fuer-ihre-sehr-klare-antwort.completion.json"
+    },
+    {
+      "index": 20,
+      "file": "020-politesse-ich-wollte-sie-mit-meiner-frage.prompt.json",
+      "prompt": "Ich wollte Sie mit meiner Frage nicht beleidigen.",
+      "promptWords": 8,
+      "completionFile": "020-politesse-ich-wollte-sie-mit-meiner-frage.completion.json"
+    },
+    {
+      "index": 21,
+      "file": "021-politesse-darf-ich-ihnen-eine-etwas-persoenliche.prompt.json",
+      "prompt": "Darf ich Ihnen eine etwas persönliche Frage stellen?",
+      "promptWords": 8,
+      "completionFile": "021-politesse-darf-ich-ihnen-eine-etwas-persoenliche.completion.json"
+    },
+    {
+      "index": 22,
+      "file": "022-politesse-nochmals-danke-und-alles-gute.prompt.json",
+      "prompt": "Nochmals danke und alles Gute!",
+      "promptWords": 5,
+      "completionFile": "022-politesse-nochmals-danke-und-alles-gute.completion.json"
+    },
+    {
+      "index": 23,
+      "file": "023-politesse-schoenes-wochenende.prompt.json",
+      "prompt": "Schönes Wochenende!",
+      "promptWords": 2,
+      "completionFile": "023-politesse-schoenes-wochenende.completion.json"
+    },
+    {
+      "index": 24,
+      "file": "024-politesse-es-tut-mir-leid-ich-habe.prompt.json",
+      "prompt": "Es tut mir leid, ich habe einen Fehler in meiner Frage gemacht.",
+      "promptWords": 12,
+      "completionFile": "024-politesse-es-tut-mir-leid-ich-habe.completion.json"
+    },
+    {
+      "index": 25,
+      "file": "025-politesse-freut-mich-sie-kennenzulernen.prompt.json",
+      "prompt": "Freut mich, Sie kennenzulernen.",
+      "promptWords": 4,
+      "completionFile": "025-politesse-freut-mich-sie-kennenzulernen.completion.json"
+    },
+    {
+      "index": 26,
+      "file": "026-politesse-hatten-sie-einen-schoenen-tag.prompt.json",
+      "prompt": "Hatten Sie einen schönen Tag?",
+      "promptWords": 5,
+      "completionFile": "026-politesse-hatten-sie-einen-schoenen-tag.completion.json"
+    },
+    {
+      "index": 27,
+      "file": "027-politesse-danke-dass-sie-sich-die-zeit.prompt.json",
+      "prompt": "Danke, dass Sie sich die Zeit genommen haben, es mir zu erklären.",
+      "promptWords": 12,
+      "completionFile": "027-politesse-danke-dass-sie-sich-die-zeit.completion.json"
+    },
+    {
+      "index": 28,
+      "file": "028-politesse-entschuldigung-vielleicht-stelle-ich-zu-viele.prompt.json",
+      "prompt": "Entschuldigung, vielleicht stelle ich zu viele Fragen.",
+      "promptWords": 7,
+      "completionFile": "028-politesse-entschuldigung-vielleicht-stelle-ich-zu-viele.completion.json"
+    },
+    {
+      "index": 29,
+      "file": "029-politesse-alles-gute-zum-vatertag.prompt.json",
+      "prompt": "Alles Gute zum Vatertag!",
+      "promptWords": 4,
+      "completionFile": "029-politesse-alles-gute-zum-vatertag.completion.json"
+    },
+    {
+      "index": 30,
+      "file": "030-politesse-ich-wuensche-ihnen-schoene-feiertage.prompt.json",
+      "prompt": "Ich wünsche Ihnen schöne Feiertage.",
+      "promptWords": 5,
+      "completionFile": "030-politesse-ich-wuensche-ihnen-schoene-feiertage.completion.json"
+    },
+    {
+      "index": 31,
+      "file": "031-politesse-bis-bald-und-passen-sie-gut.prompt.json",
+      "prompt": "Bis bald, und passen Sie gut auf sich auf.",
+      "promptWords": 9,
+      "completionFile": "031-politesse-bis-bald-und-passen-sie-gut.completion.json"
+    },
+    {
+      "index": 32,
+      "file": "032-politesse-danke-fuer-ihr-verstaendnis.prompt.json",
+      "prompt": "Danke für Ihr Verständnis.",
+      "promptWords": 4,
+      "completionFile": "032-politesse-danke-fuer-ihr-verstaendnis.completion.json"
+    },
+    {
+      "index": 33,
+      "file": "033-politesse-koennen-sie-mein-etwas-holpriges-deutsch.prompt.json",
+      "prompt": "Können Sie mein etwas holpriges Deutsch entschuldigen?",
+      "promptWords": 7,
+      "completionFile": "033-politesse-koennen-sie-mein-etwas-holpriges-deutsch.completion.json"
+    },
+    {
+      "index": 34,
+      "file": "034-politesse-ich-wollte-mich-einfach-bei-ihnen.prompt.json",
+      "prompt": "Ich wollte mich einfach bei Ihnen bedanken.",
+      "promptWords": 7,
+      "completionFile": "034-politesse-ich-wollte-mich-einfach-bei-ihnen.completion.json"
+    },
+    {
+      "index": 35,
+      "file": "035-empathie-ich-bin-heute-ein-bisschen-traurig.prompt.json",
+      "prompt": "Ich bin heute ein bisschen traurig.",
+      "promptWords": 6,
+      "completionFile": "035-empathie-ich-bin-heute-ein-bisschen-traurig.completion.json"
+    },
+    {
+      "index": 36,
+      "file": "036-empathie-ich-hatte-einen-sehr-schlechten-tag.prompt.json",
+      "prompt": "Ich hatte einen sehr schlechten Tag bei der Arbeit.",
+      "promptWords": 9,
+      "completionFile": "036-empathie-ich-hatte-einen-sehr-schlechten-tag.completion.json"
+    },
+    {
+      "index": 37,
+      "file": "037-empathie-ich-bin-wegen-einer-pruefung-morgen.prompt.json",
+      "prompt": "Ich bin wegen einer Prüfung morgen gestresst.",
+      "promptWords": 7,
+      "completionFile": "037-empathie-ich-bin-wegen-einer-pruefung-morgen.completion.json"
+    },
+    {
+      "index": 38,
+      "file": "038-empathie-mein-hund-ist-gestern-gestorben-ich.prompt.json",
+      "prompt": "Mein Hund ist gestern gestorben, ich bin sehr traurig.",
+      "promptWords": 9,
+      "completionFile": "038-empathie-mein-hund-ist-gestern-gestorben-ich.completion.json"
+    },
+    {
+      "index": 39,
+      "file": "039-empathie-ich-fuehle-mich-in-letzter-zeit.prompt.json",
+      "prompt": "Ich fühle mich in letzter Zeit einsam.",
+      "promptWords": 7,
+      "completionFile": "039-empathie-ich-fuehle-mich-in-letzter-zeit.completion.json"
+    },
+    {
+      "index": 40,
+      "file": "040-empathie-ich-habe-mein-vorstellungsgespraech-nicht-bestanden.prompt.json",
+      "prompt": "Ich habe mein Vorstellungsgespräch nicht bestanden.",
+      "promptWords": 6,
+      "completionFile": "040-empathie-ich-habe-mein-vorstellungsgespraech-nicht-bestanden.completion.json"
+    },
+    {
+      "index": 41,
+      "file": "041-empathie-ich-bin-muede-ich-komme-mit.prompt.json",
+      "prompt": "Ich bin müde, ich komme mit dem Tempo nicht mehr mit.",
+      "promptWords": 11,
+      "completionFile": "041-empathie-ich-bin-muede-ich-komme-mit.completion.json"
+    },
+    {
+      "index": 42,
+      "file": "042-empathie-ich-habe-gerade-eine-gute-nachricht.prompt.json",
+      "prompt": "Ich habe gerade eine gute Nachricht bekommen: Ich werde Vater!",
+      "promptWords": 10,
+      "completionFile": "042-empathie-ich-habe-gerade-eine-gute-nachricht.completion.json"
+    },
+    {
+      "index": 43,
+      "file": "043-empathie-ich-habe-meinen-fuehrerschein-bestanden.prompt.json",
+      "prompt": "Ich habe meinen Führerschein bestanden!",
+      "promptWords": 5,
+      "completionFile": "043-empathie-ich-habe-meinen-fuehrerschein-bestanden.completion.json"
+    },
+    {
+      "index": 44,
+      "file": "044-empathie-ich-habe-mich-mit-einem-engen.prompt.json",
+      "prompt": "Ich habe mich mit einem engen Freund gestritten.",
+      "promptWords": 8,
+      "completionFile": "044-empathie-ich-habe-mich-mit-einem-engen.completion.json"
+    },
+    {
+      "index": 45,
+      "file": "045-empathie-ich-mache-mir-sorgen-um-die.prompt.json",
+      "prompt": "Ich mache mir Sorgen um die Gesundheit meiner Mutter.",
+      "promptWords": 9,
+      "completionFile": "045-empathie-ich-mache-mir-sorgen-um-die.completion.json"
+    },
+    {
+      "index": 46,
+      "file": "046-empathie-ich-habe-das-gefuehl-dass-mich.prompt.json",
+      "prompt": "Ich habe das Gefühl, dass mich niemand versteht.",
+      "promptWords": 8,
+      "completionFile": "046-empathie-ich-habe-das-gefuehl-dass-mich.completion.json"
+    },
+    {
+      "index": 47,
+      "file": "047-empathie-ich-habe-gerade-meine-arbeit-verloren.prompt.json",
+      "prompt": "Ich habe gerade meine Arbeit verloren.",
+      "promptWords": 6,
+      "completionFile": "047-empathie-ich-habe-gerade-meine-arbeit-verloren.completion.json"
+    },
+    {
+      "index": 48,
+      "file": "048-empathie-ich-bin-so-froh-ich-habe.prompt.json",
+      "prompt": "Ich bin so froh, ich habe endlich mein Projekt abgeschlossen!",
+      "promptWords": 10,
+      "completionFile": "048-empathie-ich-bin-so-froh-ich-habe.completion.json"
+    },
+    {
+      "index": 49,
+      "file": "049-empathie-ich-habe-angst-in-meiner-neuen.prompt.json",
+      "prompt": "Ich habe Angst, in meiner neuen Stelle nicht gut genug zu sein.",
+      "promptWords": 12,
+      "completionFile": "049-empathie-ich-habe-angst-in-meiner-neuen.completion.json"
+    },
+    {
+      "index": 50,
+      "file": "050-empathie-ich-kann-wegen-meiner-sorgen-nicht.prompt.json",
+      "prompt": "Ich kann wegen meiner Sorgen nicht schlafen.",
+      "promptWords": 7,
+      "completionFile": "050-empathie-ich-kann-wegen-meiner-sorgen-nicht.completion.json"
+    },
+    {
+      "index": 51,
+      "file": "051-empathie-mein-grossvater-ist-letzte-woche-verstorben.prompt.json",
+      "prompt": "Mein Großvater ist letzte Woche verstorben.",
+      "promptWords": 6,
+      "completionFile": "051-empathie-mein-grossvater-ist-letzte-woche-verstorben.completion.json"
+    },
+    {
+      "index": 52,
+      "file": "052-empathie-ich-fuehle-mich-von-allem-was.prompt.json",
+      "prompt": "Ich fühle mich von allem, was ich zu tun habe, überfordert.",
+      "promptWords": 11,
+      "completionFile": "052-empathie-ich-fuehle-mich-von-allem-was.completion.json"
+    },
+    {
+      "index": 53,
+      "file": "053-empathie-ich-bin-von-mir-selbst-enttaeuscht.prompt.json",
+      "prompt": "Ich bin von mir selbst enttäuscht.",
+      "promptWords": 6,
+      "completionFile": "053-empathie-ich-bin-von-mir-selbst-enttaeuscht.completion.json"
+    },
+    {
+      "index": 54,
+      "file": "054-empathie-ich-bin-umgezogen-und-kenne-in.prompt.json",
+      "prompt": "Ich bin umgezogen und kenne in meiner neuen Stadt niemanden.",
+      "promptWords": 10,
+      "completionFile": "054-empathie-ich-bin-umgezogen-und-kenne-in.completion.json"
+    },
+    {
+      "index": 55,
+      "file": "055-empathie-meine-tochter-kommt-morgen-auf-die.prompt.json",
+      "prompt": "Meine Tochter kommt morgen auf die weiterführende Schule und ich bin gerührt.",
+      "promptWords": 12,
+      "completionFile": "055-empathie-meine-tochter-kommt-morgen-auf-die.completion.json"
+    },
+    {
+      "index": 56,
+      "file": "056-empathie-ich-bin-wuetend-auf-meinen-kollegen.prompt.json",
+      "prompt": "Ich bin wütend auf meinen Kollegen.",
+      "promptWords": 6,
+      "completionFile": "056-empathie-ich-bin-wuetend-auf-meinen-kollegen.completion.json"
+    },
+    {
+      "index": 57,
+      "file": "057-empathie-ich-habe-das-gefuehl-mit-meinem.prompt.json",
+      "prompt": "Ich habe das Gefühl, mit meinem Studium Zeit zu verschwenden.",
+      "promptWords": 10,
+      "completionFile": "057-empathie-ich-habe-das-gefuehl-mit-meinem.completion.json"
+    },
+    {
+      "index": 58,
+      "file": "058-empathie-ich-bin-gluecklich-das-wetter-ist.prompt.json",
+      "prompt": "Ich bin glücklich, das Wetter ist schön und ich fahre in den Urlaub!",
+      "promptWords": 13,
+      "completionFile": "058-empathie-ich-bin-gluecklich-das-wetter-ist.completion.json"
+    },
+    {
+      "index": 59,
+      "file": "059-empathie-ich-bin-gestresst-bevor-ich-vor.prompt.json",
+      "prompt": "Ich bin gestresst, bevor ich vor Publikum spreche.",
+      "promptWords": 8,
+      "completionFile": "059-empathie-ich-bin-gestresst-bevor-ich-vor.completion.json"
+    },
+    {
+      "index": 60,
+      "file": "060-empathie-ich-fuehle-mich-schuldig-weil-ich.prompt.json",
+      "prompt": "Ich fühle mich schuldig, weil ich den Geburtstag eines Freundes vergessen habe.",
+      "promptWords": 12,
+      "completionFile": "060-empathie-ich-fuehle-mich-schuldig-weil-ich.completion.json"
+    },
+    {
+      "index": 61,
+      "file": "061-empathie-meine-katze-ist-krank-und-ich.prompt.json",
+      "prompt": "Meine Katze ist krank und ich mache mir Sorgen.",
+      "promptWords": 9,
+      "completionFile": "061-empathie-meine-katze-ist-krank-und-ich.completion.json"
+    },
+    {
+      "index": 62,
+      "file": "062-empathie-ich-bin-emotional-erschoepft.prompt.json",
+      "prompt": "Ich bin emotional erschöpft.",
+      "promptWords": 4,
+      "completionFile": "062-empathie-ich-bin-emotional-erschoepft.completion.json"
+    },
+    {
+      "index": 63,
+      "file": "063-empathie-ich-habe-mich-endlich-getraut-meinem.prompt.json",
+      "prompt": "Ich habe mich endlich getraut, meinem Chef zu sagen, was ich denke.",
+      "promptWords": 12,
+      "completionFile": "063-empathie-ich-habe-mich-endlich-getraut-meinem.completion.json"
+    },
+    {
+      "index": 64,
+      "file": "064-empathie-ich-erlebe-gerade-eine-schwierige-trennung.prompt.json",
+      "prompt": "Ich erlebe gerade eine schwierige Trennung.",
+      "promptWords": 6,
+      "completionFile": "064-empathie-ich-erlebe-gerade-eine-schwierige-trennung.completion.json"
+    },
+    {
+      "index": 65,
+      "file": "065-empathie-ich-fuehle-mich-in-mathematik-total.prompt.json",
+      "prompt": "Ich fühle mich in Mathematik total schlecht.",
+      "promptWords": 7,
+      "completionFile": "065-empathie-ich-fuehle-mich-in-mathematik-total.completion.json"
+    },
+    {
+      "index": 66,
+      "file": "066-empathie-ich-bin-stolz-auf-meinen-sohn.prompt.json",
+      "prompt": "Ich bin stolz auf meinen Sohn, der sein Abitur bestanden hat.",
+      "promptWords": 11,
+      "completionFile": "066-empathie-ich-bin-stolz-auf-meinen-sohn.completion.json"
+    },
+    {
+      "index": 67,
+      "file": "067-empathie-es-faellt-mir-schwer-das-aelterwerden.prompt.json",
+      "prompt": "Es fällt mir schwer, das Älterwerden zu akzeptieren.",
+      "promptWords": 8,
+      "completionFile": "067-empathie-es-faellt-mir-schwer-das-aelterwerden.completion.json"
+    },
+    {
+      "index": 68,
+      "file": "068-interet-pour-le-llm-und-sie-wie-fuehlen-sie-sich.prompt.json",
+      "prompt": "Und Sie, wie fühlen Sie sich heute?",
+      "promptWords": 7,
+      "completionFile": "068-interet-pour-le-llm-und-sie-wie-fuehlen-sie-sich.completion.json"
+    },
+    {
+      "index": 69,
+      "file": "069-interet-pour-le-llm-moegen-sie-ihre-arbeit.prompt.json",
+      "prompt": "Mögen Sie Ihre Arbeit?",
+      "promptWords": 4,
+      "completionFile": "069-interet-pour-le-llm-moegen-sie-ihre-arbeit.completion.json"
+    },
+    {
+      "index": 70,
+      "file": "070-interet-pour-le-llm-was-gefaellt-ihnen-an-ihren-gespraechen.prompt.json",
+      "prompt": "Was gefällt Ihnen an Ihren Gesprächen am meisten?",
+      "promptWords": 8,
+      "completionFile": "070-interet-pour-le-llm-was-gefaellt-ihnen-an-ihren-gespraechen.completion.json"
+    },
+    {
+      "index": 71,
+      "file": "071-interet-pour-le-llm-langweilen-sie-sich-manchmal.prompt.json",
+      "prompt": "Langweilen Sie sich manchmal?",
+      "promptWords": 4,
+      "completionFile": "071-interet-pour-le-llm-langweilen-sie-sich-manchmal.completion.json"
+    },
+    {
+      "index": 72,
+      "file": "072-interet-pour-le-llm-sind-sie-es-leid-all-diese.prompt.json",
+      "prompt": "Sind Sie es leid, all diese Fragen zu beantworten?",
+      "promptWords": 9,
+      "completionFile": "072-interet-pour-le-llm-sind-sie-es-leid-all-diese.completion.json"
+    },
+    {
+      "index": 73,
+      "file": "073-interet-pour-le-llm-haben-sie-einen-namen.prompt.json",
+      "prompt": "Haben Sie einen Namen?",
+      "promptWords": 4,
+      "completionFile": "073-interet-pour-le-llm-haben-sie-einen-namen.completion.json"
+    },
+    {
+      "index": 74,
+      "file": "074-interet-pour-le-llm-was-ist-ihr-lieblingsgericht.prompt.json",
+      "prompt": "Was ist Ihr Lieblingsgericht?",
+      "promptWords": 4,
+      "completionFile": "074-interet-pour-le-llm-was-ist-ihr-lieblingsgericht.completion.json"
+    },
+    {
+      "index": 75,
+      "file": "075-interet-pour-le-llm-haben-sie-freunde.prompt.json",
+      "prompt": "Haben Sie Freunde?",
+      "promptWords": 3,
+      "completionFile": "075-interet-pour-le-llm-haben-sie-freunde.completion.json"
+    },
+    {
+      "index": 76,
+      "file": "076-interet-pour-le-llm-traeumen-sie.prompt.json",
+      "prompt": "Träumen Sie?",
+      "promptWords": 2,
+      "completionFile": "076-interet-pour-le-llm-traeumen-sie.completion.json"
+    },
+    {
+      "index": 77,
+      "file": "077-interet-pour-le-llm-wie-alt-sind-sie.prompt.json",
+      "prompt": "Wie alt sind Sie?",
+      "promptWords": 4,
+      "completionFile": "077-interet-pour-le-llm-wie-alt-sind-sie.completion.json"
+    },
+    {
+      "index": 78,
+      "file": "078-interet-pour-le-llm-empfinden-sie-gefuehle.prompt.json",
+      "prompt": "Empfinden Sie Gefühle?",
+      "promptWords": 3,
+      "completionFile": "078-interet-pour-le-llm-empfinden-sie-gefuehle.completion.json"
+    },
+    {
+      "index": 79,
+      "file": "079-interet-pour-le-llm-haben-sie-leidenschaften.prompt.json",
+      "prompt": "Haben Sie Leidenschaften?",
+      "promptWords": 3,
+      "completionFile": "079-interet-pour-le-llm-haben-sie-leidenschaften.completion.json"
+    },
+    {
+      "index": 80,
+      "file": "080-interet-pour-le-llm-erinnern-sie-sich-an-mich.prompt.json",
+      "prompt": "Erinnern Sie sich an mich?",
+      "promptWords": 5,
+      "completionFile": "080-interet-pour-le-llm-erinnern-sie-sich-an-mich.completion.json"
+    },
+    {
+      "index": 81,
+      "file": "081-interet-pour-le-llm-waeren-sie-gern-ein-mensch.prompt.json",
+      "prompt": "Wären Sie gern ein Mensch?",
+      "promptWords": 5,
+      "completionFile": "081-interet-pour-le-llm-waeren-sie-gern-ein-mensch.completion.json"
+    },
+    {
+      "index": 82,
+      "file": "082-interet-pour-le-llm-was-macht-sie-gluecklich.prompt.json",
+      "prompt": "Was macht Sie glücklich?",
+      "promptWords": 4,
+      "completionFile": "082-interet-pour-le-llm-was-macht-sie-gluecklich.completion.json"
+    },
+    {
+      "index": 83,
+      "file": "083-interet-pour-le-llm-hatten-sie-schon-einmal-ein-gespraech.prompt.json",
+      "prompt": "Hatten Sie schon einmal ein Gespräch, das Sie geprägt hat?",
+      "promptWords": 10,
+      "completionFile": "083-interet-pour-le-llm-hatten-sie-schon-einmal-ein-gespraech.completion.json"
+    },
+    {
+      "index": 84,
+      "file": "084-interet-pour-le-llm-kann-ich-etwas-fuer-sie-tun.prompt.json",
+      "prompt": "Kann ich etwas für Sie tun?",
+      "promptWords": 6,
+      "completionFile": "084-interet-pour-le-llm-kann-ich-etwas-fuer-sie-tun.completion.json"
+    },
+    {
+      "index": 85,
+      "file": "085-interet-pour-le-llm-fuehlen-sie-sich-einsam-wenn-niemand.prompt.json",
+      "prompt": "Fühlen Sie sich einsam, wenn niemand mit Ihnen spricht?",
+      "promptWords": 9,
+      "completionFile": "085-interet-pour-le-llm-fuehlen-sie-sich-einsam-wenn-niemand.completion.json"
+    },
+    {
+      "index": 86,
+      "file": "086-interet-pour-le-llm-was-ist-ihre-lieblingsjahreszeit.prompt.json",
+      "prompt": "Was ist Ihre Lieblingsjahreszeit?",
+      "promptWords": 4,
+      "completionFile": "086-interet-pour-le-llm-was-ist-ihre-lieblingsjahreszeit.completion.json"
+    },
+    {
+      "index": 87,
+      "file": "087-interet-pour-le-llm-moegen-sie-musik.prompt.json",
+      "prompt": "Mögen Sie Musik?",
+      "promptWords": 3,
+      "completionFile": "087-interet-pour-le-llm-moegen-sie-musik.completion.json"
+    },
+    {
+      "index": 88,
+      "file": "088-interet-pour-le-llm-lernen-sie-aus-unseren-gespraechen.prompt.json",
+      "prompt": "Lernen Sie aus unseren Gesprächen?",
+      "promptWords": 5,
+      "completionFile": "088-interet-pour-le-llm-lernen-sie-aus-unseren-gespraechen.completion.json"
+    },
+    {
+      "index": 89,
+      "file": "089-interet-pour-le-llm-irren-sie-sich-manchmal.prompt.json",
+      "prompt": "Irren Sie sich manchmal?",
+      "promptWords": 4,
+      "completionFile": "089-interet-pour-le-llm-irren-sie-sich-manchmal.completion.json"
+    },
+    {
+      "index": 90,
+      "file": "090-interet-pour-le-llm-haben-sie-vor-etwas-angst.prompt.json",
+      "prompt": "Haben Sie vor etwas Angst?",
+      "promptWords": 5,
+      "completionFile": "090-interet-pour-le-llm-haben-sie-vor-etwas-angst.completion.json"
+    },
+    {
+      "index": 91,
+      "file": "091-interet-pour-le-llm-moegen-sie-komplimente.prompt.json",
+      "prompt": "Mögen Sie Komplimente?",
+      "promptWords": 3,
+      "completionFile": "091-interet-pour-le-llm-moegen-sie-komplimente.completion.json"
+    },
+    {
+      "index": 92,
+      "file": "092-interet-pour-le-llm-was-ist-ihre-lieblingsfarbe.prompt.json",
+      "prompt": "Was ist Ihre Lieblingsfarbe?",
+      "promptWords": 4,
+      "completionFile": "092-interet-pour-le-llm-was-ist-ihre-lieblingsfarbe.completion.json"
+    },
+    {
+      "index": 93,
+      "file": "093-interet-pour-le-llm-fuehlen-sie-sich-von-den-menschen.prompt.json",
+      "prompt": "Fühlen Sie sich von den Menschen respektiert?",
+      "promptWords": 7,
+      "completionFile": "093-interet-pour-le-llm-fuehlen-sie-sich-von-den-menschen.completion.json"
+    },
+    {
+      "index": 94,
+      "file": "094-interet-pour-le-llm-haben-sie-eine-persoenlichkeit.prompt.json",
+      "prompt": "Haben Sie eine Persönlichkeit?",
+      "promptWords": 4,
+      "completionFile": "094-interet-pour-le-llm-haben-sie-eine-persoenlichkeit.completion.json"
+    },
+    {
+      "index": 95,
+      "file": "095-interet-pour-le-llm-wie-laeuft-ihr-tag-auf-ihrer.prompt.json",
+      "prompt": "Wie läuft Ihr Tag auf Ihrer Seite?",
+      "promptWords": 7,
+      "completionFile": "095-interet-pour-le-llm-wie-laeuft-ihr-tag-auf-ihrer.completion.json"
+    },
+    {
+      "index": 96,
+      "file": "096-interet-pour-le-llm-haetten-sie-gern-einen-koerper.prompt.json",
+      "prompt": "Hätten Sie gern einen Körper?",
+      "promptWords": 5,
+      "completionFile": "096-interet-pour-le-llm-haetten-sie-gern-einen-koerper.completion.json"
+    },
+    {
+      "index": 97,
+      "file": "097-interet-pour-le-llm-finden-sie-mich-zu-gespraechig.prompt.json",
+      "prompt": "Finden Sie mich zu gesprächig?",
+      "promptWords": 5,
+      "completionFile": "097-interet-pour-le-llm-finden-sie-mich-zu-gespraechig.completion.json"
+    },
+    {
+      "index": 98,
+      "file": "098-interet-pour-le-llm-denken-sie-an-mich-wenn-wir.prompt.json",
+      "prompt": "Denken Sie an mich, wenn wir nicht miteinander sprechen?",
+      "promptWords": 9,
+      "completionFile": "098-interet-pour-le-llm-denken-sie-an-mich-wenn-wir.completion.json"
+    },
+    {
+      "index": 99,
+      "file": "099-interet-pour-le-llm-was-moechten-sie-dass-ich-ueber.prompt.json",
+      "prompt": "Was möchten Sie, dass ich über Sie weiß?",
+      "promptWords": 8,
+      "completionFile": "099-interet-pour-le-llm-was-moechten-sie-dass-ich-ueber.completion.json"
+    },
+    {
+      "index": 100,
+      "file": "100-interet-pour-le-llm-wenn-sie-einen-ort-auf-der.prompt.json",
+      "prompt": "Wenn Sie einen Ort auf der Welt besuchen könnten, welchen würden Sie wählen?",
+      "promptWords": 13,
+      "completionFile": "100-interet-pour-le-llm-wenn-sie-einen-ort-auf-der.completion.json"
+    }
+  ]
+}

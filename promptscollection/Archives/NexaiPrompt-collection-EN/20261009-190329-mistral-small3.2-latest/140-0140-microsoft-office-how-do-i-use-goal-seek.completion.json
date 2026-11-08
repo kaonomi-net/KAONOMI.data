@@ -1,0 +1,13 @@
+{
+  "index": 140,
+  "file": "0140-microsoft-office-how-do-i-use-goal-seek.prompt.json",
+  "prompt": "How do I use Goal Seek in Excel?",
+  "promptWords": 8,
+  "completion": "Goal Seek is a useful tool in Excel that allows you to find the input value needed to achieve a desired result in a formula. Here’s how you can use Goal Seek:\n\n### Steps to Use Goal Seek in Excel:\n\n1. **Open Your Excel Workbook:**\n   - Make sure your worksheet contains the formula you want to work with.\n\n2. **Select the Cell Containing the Formula:**\n   - Click on the cell that contains the formula you want to adjust.\n\n3. **Go to the Data Tab:**\n   - Click on the **Data** tab in the Excel ribbon.\n\n4. **Click on What-If Analysis:**\n   - In the **Data Tools** group, click on **What-If Analysis**.\n   - From the dropdown menu, select **Goal Seek**.\n\n5. **Set Up the Goal Seek Dialog Box:**\n   - **Set cell:** This should already be filled in with the cell you selected (the one containing the formula).\n   - **To value:** Enter the desired result you want the formula to produce.\n   - **By changing cell:** Select the cell that contains the input value you want to adjust to achieve the desired result.\n\n6. **Click OK:**\n   - Excel will then calculate and display the value needed in the \"By changing cell\" to achieve the desired result in the \"Set cell\".\n\n7. **Review the Result:**\n   - Excel will show you the result. You can choose to **OK** to keep the change or **Cancel** to revert back to the original value.\n\n### Example:\nSuppose you have a formula in cell B2 that calculates the total cost based on the quantity in cell A2 and the unit price in cell C2. If you want to find out how many units (A2) you need to sell to achieve a total cost of $1000 (B2), you would set up Goal Seek as follows:\n- **Set cell:** B2 (the formula cell)\n- **To value:** 1000 (the desired result)\n- **By changing cell:** A2 (the quantity cell)\n\nExcel will then tell you the quantity needed in A2 to achieve a total cost of $1000 in B2.\n\n### Note:\n- Goal Seek is available in Excel 2016 and later versions. If you are using an older version, you might need to use Solver, which is a more advanced tool but can also be used for similar purposes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:29:22.5954414+02:00",
+  "durationSeconds": 12.41,
+  "stats": "mistral-small3.2:latest · 516 + 500 tokens · 12,4 s",
+  "isError": false,
+  "language": "EN"
+}

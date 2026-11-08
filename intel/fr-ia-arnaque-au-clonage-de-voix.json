@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-arnaque-au-clonage-de-voix",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Arnaque au clonage de voix",
+  "includedEntities": [
+    {
+      "entityName": "clonage de voix",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "arnaque",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Repérer les escroqueries utilisant une voix clonée par IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "banque",
+    "famille",
+    "police"
+  ],
+  "questions": [
+    "Quelle somme demandée ?",
+    "Qui est imité ?",
+    "Comment l'arnaque a-t-elle été déjouée ?"
+  ],
+  "tags": [
+    "#IA",
+    "#FRAUDE",
+    "#DEEPFAKE"
+  ],
+  "events": [
+    "@FRAUDE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

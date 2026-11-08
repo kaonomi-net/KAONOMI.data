@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-tourisme-en-france",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Tourisme en France",
+  "includedEntities": [
+    {
+      "entityName": "tourisme",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "visiteurs",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la fréquentation touristique et ses recettes.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Côte d'Azur"
+  ],
+  "times": [
+    "saison estivale"
+  ],
+  "relatedEntities": [
+    "recettes",
+    "hôtellerie",
+    "événements"
+  ],
+  "questions": [
+    "Combien de visiteurs ?",
+    "Quelles recettes ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#TOURISME",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

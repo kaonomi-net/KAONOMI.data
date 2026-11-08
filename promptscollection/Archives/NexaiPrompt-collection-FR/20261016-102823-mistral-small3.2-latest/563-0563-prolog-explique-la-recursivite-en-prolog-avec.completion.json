@@ -1,0 +1,13 @@
+{
+  "index": 563,
+  "file": "0563-prolog-explique-la-recursivite-en-prolog-avec.prompt.json",
+  "prompt": "Explique la récursivité en Prolog avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "La récursivité en Prolog est un concept fondamental qui permet à un prédicat de s'appeler lui-même pour résoudre des problèmes de manière itérative. Contrairement à d'autres langages de programmation, la récursivité en Prolog est souvent utilisée pour parcourir des structures de données ou pour générer des solutions de manière déclarative.\n\n### Exemple simple : Calcul de la somme d'une liste\n\nImaginons que nous voulons calculer la somme des éléments d'une liste en utilisant la récursivité. Voici comment nous pourrions définir un prédicat `somme/2` qui prend une liste d'entiers et retourne leur somme :\n\n```prolog\nsomme([], 0).  % Cas de base : la somme d'une liste vide est 0\nsomme([Tete | Queue], Somme) :-\n    somme(Queue, SousSomme),  % Appel récursif\n    Somme is Tete + SousSomme. % Calcul de la somme\n```\n\n### Explication :\n\n1. **Cas de base** : `somme([], 0).`\n   - Si la liste est vide, la somme est 0. C'est le point d'arrêt de la récursion.\n\n2. **Cas récursif** : `somme([Tete | Queue], Somme) :- somme(Queue, SousSomme), Somme is Tete + SousSomme.`\n   - La liste est décomposée en deux parties : `Tete` (le premier élément) et `Queue` (le reste de la liste).\n   - Le prédicat `somme/2` est appelé récursivement sur `Queue` pour calculer la somme des éléments restants (`SousSomme`).\n   - La somme totale est alors calculée en ajoutant `Tete` à `SousSomme`.\n\n### Exemple d'utilisation :\n\n```prolog\n?- somme([1, 2, 3], Somme).\nSomme = 6.\n```\n\n### Exécution étape par étape :\n\n1. `somme([1, 2, 3], Somme)` appelle `somme([2, 3], SousSomme1)`.\n2. `somme([2, 3], SousSomme1)` appelle `somme([3], SousSomme2)`.\n3. `somme([3], SousSomme2)` appelle `somme([], SousSomme3)`.\n4. `somme([], SousSomme3)` retourne `SousSomme3 = 0` (cas de base).\n5. `somme([3], SousSomme2)` calcule `SousSomme2 = 3 + SousSomme3 = 3 + 0 = 3`.\n6. `somme([2, 3], SousSomme1)` calcule `SousSomme1 = 2 + SousSomme2 = 2 + 3 = 5`.\n7. `somme([1, 2, 3], Somme)` calcule `Somme = 1 + SousSomme1 = 1 + 5 = 6`.\n\nLa récursivité en Prolog est ainsi un outil puissant pour traiter des structures de données de manière élégante et déclarative.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:18:14.6514578+02:00",
+  "durationSeconds": 13.42,
+  "stats": "mistral-small3.2:latest · 521 + 682 tokens · 13,4 s",
+  "isError": false,
+  "language": "FR"
+}

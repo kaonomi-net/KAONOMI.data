@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-demagogie",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La démagogie qui flatte les instincts.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]magogie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]magogique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]mago(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:populisme(s)?\\s+(de\\s+bas\\s+[ée]tage|crasse))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:racolage(s)?)(?![\\w-])"
+  ],
+  "symbol": "démagogie",
+  "event": null,
+  "title": "Démagogie",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

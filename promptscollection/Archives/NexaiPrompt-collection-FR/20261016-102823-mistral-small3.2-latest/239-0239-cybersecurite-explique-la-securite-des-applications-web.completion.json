@@ -1,0 +1,13 @@
+{
+  "index": 239,
+  "file": "0239-cybersecurite-explique-la-securite-des-applications-web.prompt.json",
+  "prompt": "Explique la sécurité des applications web de façon simple.",
+  "promptWords": 9,
+  "completion": "La sécurité des applications web est essentielle pour protéger les données des utilisateurs et garantir le bon fonctionnement des sites. Voici une explication simple des principaux aspects :\n\n### 1. **Authentification et autorisation**\n   - **Authentification** : Vérifier que l'utilisateur est bien qui il prétend être (ex. : mot de passe, double authentification).\n   - **Autorisation** : S'assurer que l'utilisateur a le droit d'accéder à certaines fonctionnalités ou données (ex. : un administrateur peut tout voir, un utilisateur normal seulement ses propres données).\n\n### 2. **Chiffrement des données**\n   - Utiliser le protocole **HTTPS** (au lieu de HTTP) pour chiffrer les données échangées entre le navigateur et le serveur.\n   - Protéger les données sensibles (comme les mots de passe) avec des techniques comme le **hachage**.\n\n### 3. **Protection contre les attaques courantes**\n   - **Injections SQL** : Empêcher les attaques où un pirate injecte du code malveillant dans les requêtes de base de données.\n   - **Cross-Site Scripting (XSS)** : Bloquer les scripts malveillants qui pourraient être exécutés dans le navigateur des utilisateurs.\n   - **Cross-Site Request Forgery (CSRF)** : Empêcher les attaques où un utilisateur est forcé d'exécuter des actions non désirées (ex. : envoyer un message ou faire un paiement).\n\n### 4. **Mises à jour régulières**\n   - Garder les logiciels, bibliothèques et frameworks à jour pour corriger les failles de sécurité connues.\n\n### 5. **Sauvegardes et récupération**\n   - Faire des sauvegardes régulières des données pour pouvoir les restaurer en cas d'attaque ou de panne.\n\n### 6. **Tests de sécurité**\n   - Effectuer des audits de sécurité et des tests d'intrusion pour identifier et corriger les vulnérabilités.\n\nEn résumé, la sécurité des applications web repose sur plusieurs couches de protection pour empêcher les accès non autorisés, les vols de données et les attaques malveillantes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:08:57.5612657+02:00",
+  "durationSeconds": 9.43,
+  "stats": "mistral-small3.2:latest · 518 + 466 tokens · 9,4 s",
+  "isError": false,
+  "language": "FR"
+}

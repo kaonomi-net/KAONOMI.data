@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-senateurs",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "sénateurs",
+  "entityType": "PROFESSION",
+  "description": "Cité par 2 intels : Les Républicains après les municipales ; Commission mixte paritaire.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre la dynamique de LR après ses succès dans les villes moyennes.",
+    "Suivre les commissions mixtes paritaires sur les grands textes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "sénateurs",
+  "tags": [
+    "#FRANCE",
+    "#LR",
+    "#MUNICIPALES",
+    "#PARLEMENT",
+    "#PROCEDURE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE",
+    "!BUDGET"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "villes moyennes",
+    "municipales",
+    "Les Républicains",
+    "maires LR",
+    "implantation",
+    "commission mixte paritaire",
+    "députés",
+    "accord",
+    "Parlement",
+    "budget"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

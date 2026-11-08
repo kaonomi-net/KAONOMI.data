@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-degradation-de-la-note-de-la-france",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Dégradation de la note de la France",
+  "includedEntities": [
+    {
+      "entityName": "dégradation",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "note",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "France",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer toute dégradation de la note souveraine française.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "agences de notation",
+    "taux",
+    "marchés"
+  ],
+  "questions": [
+    "Quelle agence ?",
+    "Quelle nouvelle note ?",
+    "Quelle réaction des marchés ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#NOTATION"
+  ],
+  "events": [
+    "@DEGRADATION"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

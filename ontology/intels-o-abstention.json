@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-abstention",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "abstention",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Participation et abstention ; Indécis et électeurs volatils ; Défiance envers les politiques.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les intentions de participation et l'abstention réelle.",
+    "Suivre la part des indécis et la solidité des choix.",
+    "Suivre les études sur la confiance dans la vie politique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "abstention",
+  "tags": [
+    "#FRANCE",
+    "#OPINION",
+    "#PRESIDENTIELLE-2027",
+    "#PARTICIPATION",
+    "#SONDAGES",
+    "#DEMOCRATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR",
+    "!INCERTITUDE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sondages",
+    "participation",
+    "jeunes",
+    "quartiers populaires",
+    "électeurs",
+    "indécis",
+    "certitude du choix",
+    "défiance",
+    "Cevipof",
+    "baromètre"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

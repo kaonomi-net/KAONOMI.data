@@ -1,0 +1,13 @@
+{
+  "index": 45,
+  "file": "065-physique-que-signifie-e-mc2.prompt.json",
+  "prompt": "Que signifie E = mc² ?",
+  "promptWords": 6,
+  "completion": "L'équation \\( E = mc^2 \\) est l'une des équations les plus célèbres de la physique, formulée par Albert Einstein dans le cadre de sa théorie de la relativité restreinte en 1905. Voici ce qu'elle signifie :\n\n- **\\( E \\)** : Représente l'énergie.\n- **\\( m \\)** : Représente la masse (de l'objet considéré).\n- **\\( c \\)** : Représente la vitesse de la lumière dans le vide, qui est une constante universelle d'environ 300 000 kilomètres par seconde.\n\nL'équation \\( E = mc^2 \\) montre que la masse et l'énergie sont deux formes interchangeables d'une même chose. En d'autres termes, une petite quantité de matière peut être convertie en une très grande quantité d'énergie, et vice versa.\n\n### Interprétation :\n- **Énergie de masse** : Même au repos, un objet possède une énergie intrinsèque due à sa masse, appelée énergie de masse ou énergie de repos. Cette énergie est donnée par \\( E = mc^2 \\).\n- **Conversion masse-énergie** : L'équation montre aussi que la masse peut être convertie en énergie (par exemple, dans les réactions nucléaires comme la fission ou la fusion) et que l'énergie peut se manifester sous forme de masse (par exemple, dans les particules créées par des collisions à haute énergie).\n\n### Exemple :\nSi on convertissait 1 gramme de matière en énergie pure, on obtiendrait environ \\( 9 \\times 10^{13} \\) joules d'énergie, soit l'équivalent d'environ 21,5 kilotonnes de TNT, ce qui est comparable à l'énergie libérée par la bombe atomique d'Hiroshima.\n\nCette équation a révolutionné notre compréhension de l'univers et a des applications dans de nombreux domaines, notamment l'énergie nucléaire, la cosmologie et la physique des particules.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:24:57.7699427+02:00",
+  "durationSeconds": 9.47,
+  "stats": "mistral-small3.2:latest · 514 + 409 tokens · 9,5 s",
+  "isError": false,
+  "language": "FR"
+}

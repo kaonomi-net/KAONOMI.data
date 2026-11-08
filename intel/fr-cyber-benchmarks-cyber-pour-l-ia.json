@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-benchmarks-cyber-pour-l-ia",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Benchmarks cyber pour l'IA",
+  "includedEntities": [
+    {
+      "entityName": "benchmark",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "CTF",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les bancs d'essai qui mesurent les capacités cyber des IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "CVE-bench",
+    "Cybench",
+    "évaluations"
+  ],
+  "questions": [
+    "Quel score ?",
+    "Quel modèle ?",
+    "Quelle progression ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#IA",
+    "#EVALUATION"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

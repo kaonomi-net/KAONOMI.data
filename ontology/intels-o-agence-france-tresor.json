@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-agence-france-tresor",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "Agence France Trésor",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 4 intels : Taux des obligations françaises ; Agence France Trésor ; Taux de l'OAT à dix ans ; Adjudications de l'Agence France Trésor.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre le taux d'emprunt de l'État à dix ans.",
+    "Suivre le programme d'émissions de dette de l'État.",
+    "Suivre le taux d'emprunt à dix ans de la France, autour de 5 %."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Agence France Trésor",
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#MARCHES",
+    "#OBLIGATIONS"
+  ],
+  "events": [
+    "@ADJUDICATION",
+    "@EMISSION"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OAT",
+    "Paris",
+    "taux",
+    "dix ans",
+    "demande",
+    "BCE",
+    "marchés",
+    "émissions",
+    "investisseurs",
+    "adjudications"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-cadre-financier-pluriannuel-2028-2034",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Cadre financier pluriannuel 2028-2034",
+  "includedEntities": [
+    {
+      "entityName": "cadre financier pluriannuel",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "2028-2034",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la négociation du budget à long terme de l'Union pour 2028-2034.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "Conseil européen des 17 et 18 décembre 2026"
+  ],
+  "relatedEntities": [
+    "États membres",
+    "Parlement européen",
+    "Commission"
+  ],
+  "questions": [
+    "Un accord est-il trouvé ?",
+    "Quel montant ?",
+    "Quels points de blocage ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#BUDGET-UE",
+    "#CFP"
+  ],
+  "events": [
+    "@NEGOCIATION"
+  ],
+  "signals": [
+    "!BUDGET"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (la sécurité des communications) : Protocole qui chiffre et authentifie les échanges sur Internet (HTTPS), successeur de SSL ; sa version 1.3 date de 2018.",
+  "id": "cyber-tls",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Protocole TLS",
+  "entityType": "ALGORITHM",
+  "description": "Protocole qui chiffre et authentifie les échanges sur Internet (HTTPS), successeur de SSL ; sa version 1.3 date de 2018.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Protocole TLS est enseigné dans tous les cours consacrés à la sécurité des communications.",
+    "L'audit vérifie que Protocole TLS est utilisé correctement.",
+    "La chercheuse a présenté une analyse de Protocole TLS lors du séminaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "TLS",
+    "Transport Layer Security",
+    "SSL"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#SECURITECOMMUNICATIONS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Protocole%20TLS"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AES",
+    "ChaCha20",
+    "Échange de clés Diffie-Hellman",
+    "RSA",
+    "OpenSSL",
+    "Let's Encrypt",
+    "Tor"
+  ],
+  "isDeleted": false,
+  "startDate": "1999-01-01T00:00:00",
+  "endDate": null
+}

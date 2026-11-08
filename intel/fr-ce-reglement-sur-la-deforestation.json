@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-reglement-sur-la-deforestation",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Règlement sur la déforestation",
+  "includedEntities": [
+    {
+      "entityName": "déforestation",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "règlement",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le report et la simplification du règlement contre la déforestation importée.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "cacao",
+    "café",
+    "pays producteurs"
+  ],
+  "questions": [
+    "Quel report ?",
+    "Quelle simplification ?",
+    "Quelle réaction des partenaires ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENVIRONNEMENT",
+    "#DEFORESTATION"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

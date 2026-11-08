@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-malediction",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un sort funeste.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:mal[ée]diction(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:maudi(t|te|ts|tes|re))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sort(s)?\\s+funeste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mauvais\\s+(œ|oe)il)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:porte-malheur)(?![\\w-])"
+  ],
+  "symbol": "malédiction",
+  "event": null,
+  "title": "Malédiction",
+  "tags": [
+    "#SURNATUREL",
+    "#MALHEUR"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

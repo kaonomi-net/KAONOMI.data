@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-sur-lviv-et-l-ouest-de-l-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes sur Lviv et l'ouest de l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "Lviv",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "ouest de l'Ukraine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "frappe",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les frappes visant l'ouest du pays, proche de l'Union européenne.",
+  "isFuzzy": true,
+  "locations": [
+    "Lviv",
+    "Loutsk",
+    "Ivano-Frankivsk"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pologne",
+    "aviation polonaise",
+    "infrastructures"
+  ],
+  "questions": [
+    "Quelle cible ?",
+    "Quel bilan ?",
+    "L'aviation polonaise a-t-elle décollé ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#LVIV",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

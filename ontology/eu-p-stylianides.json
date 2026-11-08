@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'aide humanitaire) : Chirurgien-dentiste et ancien député européen, commissaire à l'Aide humanitaire et à la Gestion des crises de 2014 à 2019.",
+  "id": "eu-p-stylianides",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Christos Stylianides",
+  "entityType": "PERSON",
+  "description": "Chirurgien-dentiste et ancien député européen, commissaire à l'Aide humanitaire et à la Gestion des crises de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Christos Stylianides.",
+    "Lors du point de presse de midi, une question portait sur Christos Stylianides.",
+    "Christos Stylianides est une figure de l'aide humanitaire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Stylianides"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#AIDEHUMANITAIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Christos%20Stylianides"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité chypriote",
+    "Rassemblement démocrate (DISY)",
+    "Médecin",
+    "Député européen",
+    "Commissaire européen",
+    "Aide humanitaire et gestion des crises (Commission Juncker)",
+    "Commission Juncker",
+    "Aide humanitaire",
+    "Gestion des crises"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyber-solidarity-act",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyber Solidarity Act",
+  "includedEntities": [
+    {
+      "entityName": "Cyber Solidarity Act",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "solidarité",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le bouclier cyber européen et la réserve de cybersécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "SOC transfrontaliers",
+    "réserve",
+    "incidents majeurs"
+  ],
+  "questions": [
+    "Quelle mise en œuvre ?",
+    "Quel budget ?",
+    "Quel premier usage ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#UNION-EUROPEENNE",
+    "#SOLIDARITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

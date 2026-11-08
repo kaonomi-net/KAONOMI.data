@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-amazon",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "Amazon",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 5 intels : Sortie d'un modèle Claude d'Anthropic ; Dépenses d'investissement dans l'IA ; Amazon et AWS ; Valorisation d'OpenAI et d'Anthropic ; Concurrence et Big Tech.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les nouvelles versions de Claude et les changements de politique d'usage.",
+    "Suivre les dépenses des géants du cloud dans l'IA.",
+    "Suivre l'action Amazon et son cloud AWS."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Amazon",
+  "tags": [
+    "#IA",
+    "#BOURSE",
+    "#LLM",
+    "#ANTHROPIC",
+    "#INVESTISSEMENT",
+    "#AMAZON"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE",
+    "@PUBLICATION-RESULTATS",
+    "@LEVEE-DE-FONDS"
+  ],
+  "signals": [
+    "!NOUVEAUTE",
+    "!INVESTISSEMENT",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Google",
+    "Microsoft",
+    "San Francisco",
+    "Anthropic",
+    "Claude",
+    "Dario Amodei",
+    "modèle",
+    "Alphabet",
+    "hyperscalers",
+    "IA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

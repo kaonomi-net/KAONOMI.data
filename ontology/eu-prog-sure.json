@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (l'emploi) : Instrument de prêts aux États membres pour financer le chômage partiel pendant la pandémie.",
+  "id": "eu-prog-sure",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "SURE",
+  "entityType": "PROGRAMME",
+  "description": "Instrument de prêts aux États membres pour financer le chômage partiel pendant la pandémie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Le projet a reçu un financement de « SURE ».",
+    "Le bilan de « SURE » a été présenté au Parlement européen.",
+    "« SURE » finance des projets dans l'emploi."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=SURE"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale des affaires économiques et financières",
+    "Emploi et droits sociaux",
+    "Pandémie de COVID-19 en Europe"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-05-19T00:00:00",
+  "endDate": "2022-12-31T00:00:00"
+}

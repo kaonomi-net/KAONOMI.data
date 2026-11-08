@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (les guerres de la crypto) : Le gouvernement américain propose une puce de chiffrement avec clés déposées auprès de l'État ; le projet est abandonné après de vives critiques.",
+  "id": "cyber-clipper",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Annonce de la puce Clipper",
+  "entityType": "EVENT",
+  "description": "Le gouvernement américain propose une puce de chiffrement avec clés déposées auprès de l'État ; le projet est abandonné après de vives critiques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "La frise chronologique de la salle de formation place « Annonce de la puce Clipper » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Annonce de la puce Clipper ».",
+    "L'événement « Annonce de la puce Clipper » a marqué durablement l'histoire des guerres de la crypto."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Clipper chip"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#GUERRESCRYPTO"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Annonce%20de%20la%20puce%20Clipper"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Enquête contre Phil Zimmermann"
+  ],
+  "isDeleted": false,
+  "startDate": "1993-04-16T00:00:00",
+  "endDate": "1993-04-16T00:00:00"
+}

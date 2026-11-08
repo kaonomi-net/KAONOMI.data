@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-rat",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un rongeur porteur de maladies.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:rat(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:surmulot(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rongeur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:souris\\s+crev[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]ratisation(s)?)(?![\\w-])"
+  ],
+  "symbol": "rat",
+  "event": null,
+  "title": "Rat",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

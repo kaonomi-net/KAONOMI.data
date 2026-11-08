@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-fine-tuning-d-un-modele",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Fine-tuning d'un modèle",
+  "includedEntities": [
+    {
+      "entityName": "fine-tuning",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "modèle",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "données",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre l'adaptation de modèles à des usages spécifiques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "LoRA",
+    "données métier",
+    "entreprise"
+  ],
+  "questions": [
+    "Quelles données ?",
+    "Quel gain ?",
+    "Quel coût ?"
+  ],
+  "tags": [
+    "#IA",
+    "#FINE-TUNING",
+    "#TECHNIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!OPPORTUNITE"
+  ],
+  "isDeleted": false
+}

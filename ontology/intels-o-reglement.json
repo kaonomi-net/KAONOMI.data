@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-reglement",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "règlement",
+  "entityType": "LAW",
+  "description": "Cité par 3 intels : Règlement sur la déforestation ; Règlement sur les retours ; Liberté des médias en Europe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre le report et la simplification du règlement contre la déforestation importée.",
+    "Suivre le nouveau règlement européen sur les retours de migrants.",
+    "Suivre l'application du règlement européen sur la liberté des médias."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "règlement",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ENVIRONNEMENT",
+    "#DEFORESTATION",
+    "#MIGRATION",
+    "#RETOURS",
+    "#MEDIAS"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT",
+    "!MIGRATION",
+    "!VIGILANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "déforestation",
+    "pays producteurs",
+    "cacao",
+    "café",
+    "expulsions",
+    "centres de retour",
+    "droits",
+    "pays tiers",
+    "retours"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

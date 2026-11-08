@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Classe de l'ontologie : persons › Personnalités de la cybersécurité.",
+  "id": "cyber-personnalites",
+  "dateCreated": "2026-10-31 19:16:42",
+  "name": "Personnalités de la cybersécurité",
+  "entityType": "PERSON",
+  "description": "Les cryptographes, chercheurs, hackers, défenseurs et lanceurs d'alerte qui ont fait l'histoire de la sécurité informatique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ontology-root-persons",
+  "sentencesExemples": [
+    "La branche « Personnalités de la cybersécurité » de l'ontologie regroupe les entrées de ce thème.",
+    "Pour explorer « Personnalités de la cybersécurité », ouvrez la branche dans la fenêtre de l'ontologie.",
+    "Chaque entrée de « Personnalités de la cybersécurité » est reliée à d'autres par des relations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": true,
+  "symbol": "\uD83D\uDCC2",
+  "synonyms": [
+    "figures de la cybersécurité",
+    "pionniers de la cryptographie"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ONTOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

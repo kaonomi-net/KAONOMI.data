@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-acceleration-du-deploiement-de-l-ia",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Accélération du déploiement de l'IA",
+  "includedEntities": [
+    {
+      "entityName": "déploiement de l'IA",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "gigafactories",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le plan européen pour accélérer l'IA et les gigafactories d'IA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "InvestAI",
+    "supercalculateurs",
+    "startups"
+  ],
+  "questions": [
+    "Quels projets ?",
+    "Quels financements ?",
+    "Quels pays ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#IA",
+    "#INVESTISSEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

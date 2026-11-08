@@ -1,0 +1,13 @@
+{
+  "index": 232,
+  "file": "0232-cybersecurite-explique-la-securite-des-api-de.prompt.json",
+  "prompt": "Explique la sécurité des API de façon simple.",
+  "promptWords": 8,
+  "completion": "La sécurité des API (Interfaces de Programmation d'Applications) est essentielle pour protéger les données et les fonctionnalités d'une application. Voici une explication simple des principaux aspects :\n\n1. **Authentification** :\n   - C'est comme une carte d'identité pour les utilisateurs ou les applications qui veulent accéder à l'API.\n   - Exemples : mots de passe, clés API, tokens d'accès.\n\n2. **Autorisation** :\n   - Une fois authentifié, l'utilisateur ou l'application doit avoir les droits nécessaires pour effectuer certaines actions.\n   - Exemple : un utilisateur peut lire des données mais pas les modifier.\n\n3. **Chiffrement** :\n   - Les données échangées entre l'API et les utilisateurs doivent être chiffrées pour éviter qu'elles ne soient interceptées.\n   - Exemple : utilisation du protocole HTTPS au lieu de HTTP.\n\n4. **Limitation des requêtes** :\n   - Pour éviter les abus (comme des attaques par déni de service), les API limitent le nombre de requêtes qu'un utilisateur peut faire en un temps donné.\n\n5. **Validation des données** :\n   - L'API doit vérifier que les données reçues sont correctes et conformes aux attentes pour éviter des injections malveillantes.\n\n6. **Journalisation et surveillance** :\n   - Enregistrer les activités pour détecter et réagir rapidement en cas de comportement suspect.\n\nEn résumé, la sécurité des API vise à garantir que seules les personnes ou applications autorisées peuvent accéder aux données et fonctionnalités, et ce de manière sécurisée.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:08:13.1404715+02:00",
+  "durationSeconds": 6.88,
+  "stats": "mistral-small3.2:latest · 517 + 337 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

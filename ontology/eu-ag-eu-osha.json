@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'emploi) : Agence européenne pour la sécurité et la santé au travail (EU-OSHA), organe de l'Union créé en 1994 et installé dans cette ville : Bilbao.",
+  "id": "eu-ag-eu-osha",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence européenne pour la sécurité et la santé au travail (EU-OSHA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence européenne pour la sécurité et la santé au travail (EU-OSHA), organe de l'Union créé en 1994 et installé dans cette ville : Bilbao.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Le rapport annuel de « Agence européenne pour la sécurité et la santé au travail (EU-OSHA) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Agence européenne pour la sécurité et la santé au travail (EU-OSHA) ».",
+    "Les décisions de « Agence européenne pour la sécurité et la santé au travail (EU-OSHA) » touchent l'emploi."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EU-OSHA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20europ%C3%A9enne%20pour%20la%20s%C3%A9curit%C3%A9%20et%20la%20sant%C3%A9%20au%20travail%20%28EU-OSHA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bilbao",
+    "Direction générale de l'emploi, des affaires sociales et de l'inclusion",
+    "Emploi et droits sociaux"
+  ],
+  "isDeleted": false,
+  "startDate": "1994-01-01T00:00:00",
+  "endDate": null
+}

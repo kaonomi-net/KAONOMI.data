@@ -1,0 +1,56 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-fonds-activiste",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "fonds activiste",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 2 intels : Vendeurs à découvert ; Fonds activistes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre les attaques de vendeurs à découvert.",
+    "Suivre les campagnes de fonds activistes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "fonds activiste",
+  "tags": [
+    "#BOURSE",
+    "#ACTIVISME",
+    "#GOUVERNANCE"
+  ],
+  "events": [
+    "@ATTAQUE-VENDEUR"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!GOUVERNANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "réponse de l'entreprise",
+    "vente à découvert",
+    "rapport",
+    "cours",
+    "gouvernance",
+    "actionnaires",
+    "cessions",
+    "dirigeants"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

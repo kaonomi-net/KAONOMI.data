@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-jeunes",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "jeunes",
+  "entityType": "PROFESSION",
+  "description": "Cité par 28 intels : Participation et abstention ; Électorat du RN ; Vote des jeunes ; Chômage en France ; Jeunesse et emploi ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les intentions de participation et l'abstention réelle.",
+    "Suivre les études sur l'électorat du RN.",
+    "Suivre le vote et l'abstention des jeunes électeurs."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 7,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "jeunes",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADDICTIONS",
+    "#FRANCE",
+    "#JEUNESSE",
+    "#SANTE-MENTALE",
+    "#OPINION"
+  ],
+  "events": [
+    "@ALERTE",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!DEBAT",
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "France",
+    "santé mentale",
+    "sondages",
+    "réseaux sociaux",
+    "addiction",
+    "prévention",
+    "universités",
+    "chômage",
+    "emploi"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les services financiers) : Économiste, ancienne ministre portugaise des Finances, commissaire aux Services financiers et à l'Union de l'épargne et des investissements depuis 2024.",
+  "id": "eu-p-albuquerque",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Maria Luís Albuquerque",
+  "entityType": "PERSON",
+  "description": "Économiste, ancienne ministre portugaise des Finances, commissaire aux Services financiers et à l'Union de l'épargne et des investissements depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Maria Luís Albuquerque est une figure de les services financiers.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Maria Luís Albuquerque.",
+    "Lors du point de presse de midi, une question portait sur Maria Luís Albuquerque."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Albuquerque"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#SERVICESFINANCIERS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Maria%20Lu%C3%ADs%20Albuquerque"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité portugaise",
+    "Parti social-démocrate (PSD)",
+    "Économiste",
+    "Ministre des Finances",
+    "Commissaire européen",
+    "Services financiers et union de l'épargne et des investissements (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Services financiers",
+    "Union de l'épargne et des investissements",
+    "Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

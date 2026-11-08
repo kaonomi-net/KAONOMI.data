@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-nucleaire",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "nucléaire",
+  "entityType": "DOMAIN",
+  "description": "Cité par 11 intels : Menaces nucléaires du Kremlin ; Déclarations de Dmitri Medvedev ; Énergoatom et l'énergie nucléaire ukrainienne ; Programme nucléaire iranien ; Consommation énergétique de l'IA ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les déclarations russes évoquant l'arme nucléaire.",
+    "Suivre les déclarations souvent radicales de Dmitri Medvedev.",
+    "Suivre la gestion des centrales nucléaires ukrainiennes et les enquêtes associées."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 9,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "nucléaire",
+  "tags": [
+    "#NUCLEAIRE",
+    "#ENERGIE",
+    "#IRAN",
+    "#FRANCE",
+    "#UNION-EUROPEENNE",
+    "#POUTINE"
+  ],
+  "events": [
+    "@MENACE-NUCLEAIRE",
+    "@DECLARATION",
+    "@RAPPORT-AIEA"
+  ],
+  "signals": [
+    "!ENERGIE",
+    "!RISQUE",
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Medvedev",
+    "Moscou",
+    "AIEA",
+    "Iran",
+    "uranium",
+    "IA",
+    "énergie",
+    "EDF",
+    "EPR2",
+    "petits réacteurs"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

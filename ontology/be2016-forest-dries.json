@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Lieu des attentats de Bruxelles de 2016 (la traque de la cellule) : Rue de la commune de Forest où une perquisition a tourné à la fusillade le 15 mars 2016.",
+  "id": "be2016-forest-dries",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Rue du Dries à Forest",
+  "entityType": "LOCATION",
+  "description": "Rue de la commune de Forest où une perquisition a tourné à la fusillade le 15 mars 2016.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-lieux",
+  "sentencesExemples": [
+    "Le lieu « Rue du Dries à Forest » est lié aux attentats de 2016.",
+    "Le lieu « Rue du Dries à Forest » apparaît sur la carte des faits établie par les enquêteurs.",
+    "Le lieu « Rue du Dries à Forest » est cité dans les comptes rendus consacrés à la traque de la cellule."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 2,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCCD",
+  "synonyms": [
+    "Driesstraat"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#LOCATION",
+    "#TRAQUECELLULE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Rue%20du%20Dries%20%C3%A0%20Forest"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Fusillade de la rue du Dries"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

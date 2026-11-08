@@ -1,0 +1,64 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la transformation numérique) : Direction générale des réseaux de communication, du contenu et des technologies (DG CNECT), service de la Commission européenne compétent pour la transformation numérique, l'intelligence artificielle, la cybersécurité, placé sous l'autorité de Henna Virkkunen dans la Commission von der Leyen II.",
+  "id": "eu-dg-cnect",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale des réseaux de communication, du contenu et des technologies",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale des réseaux de communication, du contenu et des technologies (DG CNECT), service de la Commission européenne compétent pour la transformation numérique, l'intelligence artificielle, la cybersécurité, placé sous l'autorité de Henna Virkkunen dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Le rapport annuel de « Direction générale des réseaux de communication, du contenu et des technologies » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Direction générale des réseaux de communication, du contenu et des technologies ».",
+    "Les décisions de « Direction générale des réseaux de communication, du contenu et des technologies » touchent la transformation numérique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG CNECT"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#TRANSFORMATIONNUMERIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20des%20r%C3%A9seaux%20de%20communication%2C%20du%20contenu%20et%20des%20technologies"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Henna Virkkunen",
+    "Numérique",
+    "Intelligence artificielle",
+    "Cybersécurité",
+    "Agence de l'Union européenne pour la cybersécurité (ENISA)",
+    "Office de l'Organe des régulateurs européens des communications électroniques (Office de l'ORECE)",
+    "Règlement sur les marchés numériques",
+    "Règlement sur les services numériques",
+    "Directive NIS 2",
+    "Règlement européen sur les semi-conducteurs",
+    "Règlement sur les données",
+    "Règlement européen sur la liberté des médias",
+    "Règlement sur l'intelligence artificielle",
+    "Règlement sur la cyberrésilience",
+    "Programme pour une Europe numérique"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

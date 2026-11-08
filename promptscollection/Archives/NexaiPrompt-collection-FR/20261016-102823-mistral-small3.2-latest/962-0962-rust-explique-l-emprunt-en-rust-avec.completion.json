@@ -1,0 +1,13 @@
+{
+  "index": 962,
+  "file": "0962-rust-explique-l-emprunt-en-rust-avec.prompt.json",
+  "prompt": "Explique l'emprunt en Rust avec un exemple simple.",
+  "promptWords": 8,
+  "completion": "En Rust, l'emprunt (ou *borrowing*) est un concept fondamental qui permet d'accéder aux données sans en prendre la propriété. Cela aide à garantir la sécurité de la mémoire et à éviter les problèmes comme les accès concurrents ou les références pendantes.\n\n### Types d'emprunts :\n1. **Emprunt immuable (`&T`)** : Permet de lire les données mais pas de les modifier.\n2. **Emprunt mutable (`&mut T`)** : Permet de modifier les données.\n\n### Règles des emprunts :\n- À un instant donné, vous pouvez avoir soit :\n  - Plusieurs emprunts immuables, **ou**\n  - Un seul emprunt mutable.\n- Les emprunts doivent toujours être valides (pas de références pendantes).\n\n---\n\n### Exemple simple :\n\n```rust\nfn main() {\n    let mut s = String::from(\"hello\"); // Variable mutable\n\n    // Emprunt immuable\n    let len = calculate_length(&s);\n    println!(\"Length of '{}' is {}.\", s, len);\n\n    // Emprunt mutable\n    change_string(&mut s);\n    println!(\"The string is now {}.\", s);\n}\n\nfn calculate_length(s: &String) -> usize {\n    s.len()\n}\n\nfn change_string(s: &mut String) {\n    s.push_str(\", world!\");\n}\n```\n\n### Explication :\n1. **`&s`** : Emprunt immuable de `s` pour calculer sa longueur.\n2. **`&mut s`** : Emprunt mutable de `s` pour modifier son contenu.\n3. **Sécurité** : Rust empêche d'emprunter `s` de manière mutable si un emprunt immuable existe déjà (et vice versa).\n\n---\n\n### Erreur courante :\nSi vous essayez de créer un emprunt mutable et immuable simultanément, Rust générera une erreur de compilation :\n\n```rust\nlet mut s = String::from(\"hello\");\nlet r1 = &s; // Emprunt immuable\nlet r2 = &mut s; // Erreur ! Emprunt mutable après un emprunt immuable\n```\n\n---\n\nL'emprunt est essentiel pour écrire du code Rust sûr et efficace. Il permet de partager des données tout en évitant les problèmes de concurrence et de mémoire.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:55:39.6700869+02:00",
+  "durationSeconds": 9.96,
+  "stats": "mistral-small3.2:latest · 520 + 494 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

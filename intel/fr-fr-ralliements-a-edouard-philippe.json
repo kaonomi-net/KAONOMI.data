@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-ralliements-a-edouard-philippe",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Ralliements à Édouard Philippe",
+  "includedEntities": [
+    {
+      "entityName": "ralliement",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Édouard Philippe",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les soutiens qui rejoignent Édouard Philippe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "élus",
+    "ministres",
+    "Renaissance"
+  ],
+  "questions": [
+    "Qui le rejoint ?",
+    "D'où vient-il ?",
+    "Quel impact ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#HORIZONS",
+    "#CAMPAGNE"
+  ],
+  "events": [
+    "@RALLIEMENT"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

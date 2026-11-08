@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-haute-autorite-pour-la-transparence",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "Haute Autorité pour la transparence",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Haute Autorité pour la transparence.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les contrôles de la HATVP sur les responsables publics."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Haute Autorité pour la transparence",
+  "tags": [
+    "#FRANCE",
+    "#TRANSPARENCE",
+    "#INSTITUTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSPARENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "déclarations de patrimoine",
+    "Paris",
+    "lobbying",
+    "conflits d'intérêts",
+    "HATVP"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

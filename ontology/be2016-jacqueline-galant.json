@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne des attentats de Bruxelles de 2016 (la réponse de l'État) : Ministre fédérale de la Mobilité, elle a démissionné le 15 avril 2016 à la suite de la polémique sur des rapports européens consacrés à la sûreté des aéroports belges.",
+  "id": "be2016-jacqueline-galant",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Jacqueline Galant",
+  "entityType": "PERSON",
+  "description": "Ministre fédérale de la Mobilité, elle a démissionné le 15 avril 2016 à la suite de la polémique sur des rapports européens consacrés à la sûreté des aéroports belges.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-personnes",
+  "sentencesExemples": [
+    "Le dossier documentaire consacré aux attentats comporte une fiche sur Jacqueline Galant.",
+    "Les comptes rendus de l'époque évoquent Jacqueline Galant à plusieurs reprises.",
+    "Les journalistes ont retracé le rôle de Jacqueline Galant dans la réponse de l'État."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "J. Galant"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#PERSON",
+    "#REPONSEETAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Jacqueline%20Galant"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Démission de Jacqueline Galant"
+  ],
+  "isDeleted": false,
+  "startDate": "1974-01-01T00:00:00",
+  "endDate": null
+}

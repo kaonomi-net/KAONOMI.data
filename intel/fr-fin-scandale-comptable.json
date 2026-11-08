@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-scandale-comptable",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Scandale comptable",
+  "includedEntities": [
+    {
+      "entityName": "scandale comptable",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "fraude",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les scandales comptables dans les sociétés cotées.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "auditeurs",
+    "comptes",
+    "justice"
+  ],
+  "questions": [
+    "Quelle entreprise ?",
+    "Quel montant ?",
+    "Quelles conséquences ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#FRAUDE"
+  ],
+  "events": [
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!SCANDALE"
+  ],
+  "isDeleted": false
+}

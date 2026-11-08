@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-dividende",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "dividende",
+  "entityType": "PRODUCT",
+  "description": "Cité par 4 intels : Ageas ; BNP Paribas Fortis ; Solvay ; Proximus.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre l'action Ageas.",
+    "Suivre BNP Paribas Fortis et la part de l'État belge dans BNP Paribas.",
+    "Suivre l'action Solvay."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "dividende",
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#BELGIQUE",
+    "#ASSURANCE",
+    "#BANQUES",
+    "#CHIMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS",
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "assurance",
+    "Hans De Cuyper",
+    "Ageas",
+    "esure",
+    "SFPI",
+    "BNP Paribas Fortis",
+    "banque",
+    "BNP Paribas",
+    "coûts"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

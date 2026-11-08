@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (l'union des marchés des capitaux) : Intégration des marchés des capitaux pour mieux orienter l'épargne vers l'investissement.",
+  "id": "eu-dom-union-capitaux",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Union de l'épargne et des investissements",
+  "entityType": "DOMAIN",
+  "description": "Intégration des marchés des capitaux pour mieux orienter l'épargne vers l'investissement.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le budget de l'Union consacre des crédits au domaine « Union de l'épargne et des investissements ».",
+    "Plusieurs commissaires ont été chargés du domaine « Union de l'épargne et des investissements ».",
+    "Le domaine « Union de l'épargne et des investissements » mobilise plusieurs directions générales."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#UNIONMARCHESCAPITAUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Union%20de%20l%27%C3%A9pargne%20et%20des%20investissements"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Services financiers, stabilité financière et union des marchés des capitaux (Commission von der Leyen I)",
+    "Mairead McGuinness",
+    "Services financiers et union de l'épargne et des investissements (Commission von der Leyen II)",
+    "Maria Luís Albuquerque",
+    "Stabilité financière, services financiers et union des marchés des capitaux (Commission Juncker)",
+    "Jonathan Hill",
+    "Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux",
+    "Autorité européenne des marchés financiers (AEMF)",
+    "Union de l'épargne et des investissements"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

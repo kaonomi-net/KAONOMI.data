@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Danemark.",
+  "id": "pe10-mep-96709",
+  "dateCreated": "2026-10-31 20:22:43",
+  "name": "Morten Løkkegaard",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Danemark. Groupe politique : Renew Europe. Parti ou liste national : Venstre, Danmarks Liberale Parti.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Le vote de Morten Løkkegaard figure dans le relevé des votes par appel nominal.",
+    "Morten Løkkegaard participe aux travaux des commissions parlementaires.",
+    "Morten Løkkegaard siège au Parlement européen depuis la législature 2024-2029."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Morten LØKKEGAARD"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/96709",
+    "https://fr.wikipedia.org/w/index.php?search=Morten%20L%C3%B8kkegaard"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Danemark",
+    "Parlement européen",
+    "Renew Europe",
+    "Venstre, Danmarks Liberale Parti"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

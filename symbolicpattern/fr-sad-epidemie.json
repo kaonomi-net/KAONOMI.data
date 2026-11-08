@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-epidemie",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La propagation rapide d'une maladie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]pid[ée]mie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pand[ée]mie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:peste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chol[ée]ra)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:contagion(s)?)(?![\\w-])"
+  ],
+  "symbol": "épidémie",
+  "event": null,
+  "title": "Épidémie",
+  "tags": [
+    "#MALADIE",
+    "#CATASTROPHE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

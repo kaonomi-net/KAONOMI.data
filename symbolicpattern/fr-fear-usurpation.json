@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-usurpation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le vol d'identité.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:usurpation(s)?\\s+d['’]identit[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:usurpation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vol\\s+d['’]identit[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:identit[ée]\\s+vol[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:faux\\s+profil(s)?)(?![\\w-])"
+  ],
+  "symbol": "usurpation",
+  "event": null,
+  "title": "Usurpation",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

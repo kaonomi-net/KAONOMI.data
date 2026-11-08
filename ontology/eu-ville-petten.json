@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ville de l'Union européenne (la géographie européenne) : Petten, ville du pays Pays-Bas.",
+  "id": "eu-ville-petten",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "Petten",
+  "entityType": "CITY",
+  "description": "Petten, ville du pays Pays-Bas.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-villes",
+  "sentencesExemples": [
+    "La ville de Petten accueille une institution ou un événement européen.",
+    "Plusieurs fonctionnaires européens travaillent à Petten.",
+    "Le siège installé à Petten emploie des agents de nombreuses nationalités."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFD9",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#CITY",
+    "#GEOGRAPHIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Petten"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pays-Bas",
+    "Centre commun de recherche"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

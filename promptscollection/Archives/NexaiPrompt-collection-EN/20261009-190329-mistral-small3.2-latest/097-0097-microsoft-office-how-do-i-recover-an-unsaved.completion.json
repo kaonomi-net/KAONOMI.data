@@ -1,0 +1,13 @@
+{
+  "index": 97,
+  "file": "0097-microsoft-office-how-do-i-recover-an-unsaved.prompt.json",
+  "prompt": "How do I recover an unsaved Office file?",
+  "promptWords": 8,
+  "completion": "Recovering an unsaved Office file depends on the application you were using (Word, Excel, PowerPoint, etc.) and the version of Office. Here are some general steps you can try:\n\n### For Microsoft Word, Excel, or PowerPoint:\n1. **AutoRecover Files**:\n   - Open the application (Word, Excel, or PowerPoint).\n   - Go to `File` > `Open`.\n   - In the `Open` dialog box, click on `Recent` in the left-hand pane.\n   - Scroll down and click on `Recover Unsaved Documents` (for Word) or `Recover Unsaved Workbooks` (for Excel) or `Recover Unsaved Presentations` (for PowerPoint).\n   - Select the file you want to recover and click `Open`.\n\n2. **Check the AutoRecover Location**:\n   - The AutoRecover files are usually saved in a specific folder on your computer. You can navigate to this folder manually.\n   - The default location for AutoRecover files is typically:\n     - Windows: `C:\\Users\\[YourUsername]\\AppData\\Roaming\\Microsoft\\Office\\UnsavedFiles`\n     - Mac: `/Users/[YourUsername]/Library/Containers/com.microsoft.[Application]/Data/Library/Preferences/AutoRecovery`\n\n3. **Temporary Files**:\n   - Sometimes, Office applications create temporary files that might contain your unsaved work. You can search for `.tmp` files in the `Temp` folder.\n   - On Windows, you can open the `Temp` folder by typing `%temp%` in the Run dialog (Win + R).\n   - On Mac, the `Temp` folder is usually located at `/var/folders/`.\n\n4. **Previous Versions**:\n   - If you have File History or a backup system enabled, you might be able to recover a previous version of the file.\n\n5. **Check the Recycle Bin/Trash**:\n   - If you had saved the file but accidentally deleted it, check your Recycle Bin (Windows) or Trash (Mac).\n\n### Additional Tips:\n- **Enable AutoRecover**: To prevent future issues, make sure AutoRecover is enabled. Go to `File` > `Options` > `Save` and check the `Save AutoRecover information every [minutes]` option.\n- **Save Regularly**: Always save your work regularly to avoid losing data.\n\nIf you need more specific instructions or if the above steps do not work, please let me know which Office application and version you are using, and I can provide more tailored advice.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:22:07.2535031+02:00",
+  "durationSeconds": 11.92,
+  "stats": "mistral-small3.2:latest · 517 + 532 tokens · 11,9 s",
+  "isError": false,
+  "language": "EN"
+}

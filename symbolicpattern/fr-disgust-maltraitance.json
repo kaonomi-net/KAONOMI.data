@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-maltraitance",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les mauvais traitements.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:maltraitance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:maltrait(er|[ée]|[ée]e|[ée]s|[ée]es)|enfant(s)?\\s+battu(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:animaux\\s+maltrait[ée]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:violence(s)?\\s+conjugale(s)?)(?![\\w-])"
+  ],
+  "symbol": "maltraitance",
+  "event": null,
+  "title": "Maltraitance",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

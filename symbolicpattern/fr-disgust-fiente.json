@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-fiente",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les excréments d'oiseaux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:fiente(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fiente(s)?\\s+de\\s+pigeon)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:guano)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chiure(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:crotte(s)?\\s+de\\s+chien)(?![\\w-])"
+  ],
+  "symbol": "fiente",
+  "event": null,
+  "title": "Fiente",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

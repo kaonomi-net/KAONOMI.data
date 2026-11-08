@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-fin-de-la-facilite-pour-la-reprise",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Fin de la facilité pour la reprise",
+  "includedEntities": [
+    {
+      "entityName": "facilité pour la reprise",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "plans de relance",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "échéance",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la fin du plan de relance européen en 2026 et l'usage des fonds.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "août 2026"
+  ],
+  "relatedEntities": [
+    "jalons",
+    "décaissements",
+    "États membres"
+  ],
+  "questions": [
+    "Quels fonds non utilisés ?",
+    "Quels pays en retard ?",
+    "Quelle prolongation ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#PLAN-DE-RELANCE",
+    "#BUDGET-UE"
+  ],
+  "events": [],
+  "signals": [
+    "!ECHEANCE"
+  ],
+  "isDeleted": false
+}

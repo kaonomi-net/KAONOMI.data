@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (l'apprentissage statistique) : Mathématicien soviéto-américain, co-auteur de la théorie de Vapnik-Tchervonenkis et des machines à vecteurs de support (avec Corinna Cortes, 1995).",
+  "id": "ia-vapnik",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Vladimir Vapnik",
+  "entityType": "PERSON",
+  "description": "Mathématicien soviéto-américain, co-auteur de la théorie de Vapnik-Tchervonenkis et des machines à vecteurs de support (avec Corinna Cortes, 1995).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Vladimir Vapnik est l'une des figures marquantes de l'apprentissage statistique.",
+    "Lors de la conférence, l'oratrice a cité Vladimir Vapnik pour illustrer les progrès de l'apprentissage statistique.",
+    "Une biographie de Vladimir Vapnik rappelle son rôle dans l'apprentissage statistique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "V. Vapnik"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#APPRENTISSAGESTATISTIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Vladimir%20Vapnik"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Machines à vecteurs de support"
+  ],
+  "isDeleted": false,
+  "startDate": "1936-12-06T00:00:00",
+  "endDate": null
+}

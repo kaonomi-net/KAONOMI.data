@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-rachida-dati",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Rachida Dati",
+  "includedEntities": [
+    {
+      "entityName": "Rachida Dati",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Paris",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le parcours de Rachida Dati après la municipale parisienne.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "justice",
+    "ministère",
+    "LR"
+  ],
+  "questions": [
+    "Quelle fonction ?",
+    "Quel procès ?",
+    "Quelle ambition ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PARIS",
+    "#DROITE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-enlevement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le rapt d'une personne.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:enl[èe]vement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:kidnapping(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:kidnapp(er|[ée]|[ée]e|eur|eurs)|rapt(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s[ée]questr[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "enlèvement",
+  "event": null,
+  "title": "Enlèvement",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

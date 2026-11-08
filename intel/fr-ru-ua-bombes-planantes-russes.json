@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-bombes-planantes-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Bombes planantes russes",
+  "includedEntities": [
+    {
+      "entityName": "bombes planantes",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "KAB",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Surveiller l'usage massif des bombes planantes guidées.",
+  "isFuzzy": true,
+  "locations": [
+    "Kharkiv",
+    "Zaporijia",
+    "Donbass"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "aviation russe",
+    "Su-34",
+    "défense antiaérienne"
+  ],
+  "questions": [
+    "Combien de bombes ?",
+    "Quelles villes visées ?",
+    "Quelles victimes ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ARMEMENT",
+    "#FRONT"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

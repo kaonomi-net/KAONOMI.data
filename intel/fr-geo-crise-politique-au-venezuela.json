@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-crise-politique-au-venezuela",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Crise politique au Venezuela",
+  "includedEntities": [
+    {
+      "entityName": "Venezuela",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Caracas",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "opposition",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la crise politique et économique au Venezuela.",
+  "isFuzzy": true,
+  "locations": [
+    "Caracas"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "pétrole",
+    "migrants",
+    "États-Unis"
+  ],
+  "questions": [
+    "Quelle situation politique ?",
+    "Quelles sanctions ?",
+    "Quel exode ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#VENEZUELA",
+    "#AMERIQUE-LATINE"
+  ],
+  "events": [],
+  "signals": [
+    "!INSTABILITE"
+  ],
+  "isDeleted": false
+}

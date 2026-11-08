@@ -1,0 +1,13 @@
+{
+  "index": 894,
+  "file": "0894-design-patterns-qu-est-ce-que-le-pattern.prompt.json",
+  "prompt": "Qu'est-ce que le pattern Event Sourcing ?",
+  "promptWords": 7,
+  "completion": "Le pattern **Event Sourcing** est une approche architecturale et de modélisation des données qui consiste à capturer et à stocker tous les changements d'état d'un système sous forme d'une séquence d'événements immuables. Plutôt que de simplement sauvegarder l'état actuel d'un objet, le système enregistre chaque action ou événement qui a conduit à cet état.\n\n### Principaux concepts :\n1. **Événements** : Chaque changement d'état est représenté par un événement. Par exemple, dans un système de commande en ligne, un événement pourrait être \"Commande créée\", \"Paiement reçu\", ou \"Livraison effectuée\".\n2. **Immuabilité** : Les événements une fois enregistrés ne sont pas modifiés. Ils sont stockés dans un journal d'événements (event store).\n3. **Reconstruction de l'état** : L'état actuel d'un objet peut être reconstruit en rejouant tous les événements associés à cet objet depuis le début.\n4. **Temporalité** : Le système permet de comprendre l'historique complet des changements, ce qui est utile pour l'audit, la reprise après incident, ou l'analyse des données.\n\n### Avantages :\n- **Transparence** : Permet de retracer l'historique complet des changements.\n- **Flexibilité** : Facilite l'ajout de nouvelles fonctionnalités ou l'analyse des données passées.\n- **Résilience** : En cas d'erreur, il est possible de rejouer les événements pour retrouver un état cohérent.\n\n### Inconvénients :\n- **Complexité** : La gestion des événements et la reconstruction de l'état peuvent être complexes à mettre en œuvre.\n- **Performance** : Rejouer un grand nombre d'événements peut être coûteux en termes de performance.\n\n### Utilisations courantes :\n- Systèmes financiers (suivi des transactions).\n- Systèmes de gestion de commandes.\n- Applications nécessitant une auditabilité forte.\n\nSi vous avez besoin de plus de détails ou d'exemples concrets, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:38:15.8944107+02:00",
+  "durationSeconds": 8.83,
+  "stats": "mistral-small3.2:latest · 517 + 437 tokens · 8,8 s",
+  "isError": false,
+  "language": "FR"
+}

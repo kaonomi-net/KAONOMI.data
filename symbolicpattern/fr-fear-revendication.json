@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-revendication",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de déclarer être l'auteur d'un attentat.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:revendication(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:revendiqu(er|[ée]|[ée]e)|a\\s+revendiqu[ée]\\s+l['’]attentat)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:communiqu[ée]\\s+de\\s+revendication)(?![\\w-])"
+  ],
+  "symbol": "revendication",
+  "event": null,
+  "title": "Revendication",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

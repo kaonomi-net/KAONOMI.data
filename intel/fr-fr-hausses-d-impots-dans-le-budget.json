@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-hausses-d-impots-dans-le-budget",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Hausses d'impôts dans le budget",
+  "includedEntities": [
+    {
+      "entityName": "hausse d'impôts",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "impôts",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les hausses d'impôts envisagées ou votées.",
+  "isFuzzy": true,
+  "locations": [
+    "Parlement"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "entreprises",
+    "ménages aisés",
+    "surtaxe"
+  ],
+  "questions": [
+    "Quel impôt ?",
+    "Quel rendement ?",
+    "Qui paie ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#FISCALITE"
+  ],
+  "events": [],
+  "signals": [
+    "!BUDGET"
+  ],
+  "isDeleted": false
+}

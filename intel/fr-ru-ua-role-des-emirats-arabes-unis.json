@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-role-des-emirats-arabes-unis",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Rôle des Émirats arabes unis",
+  "includedEntities": [
+    {
+      "entityName": "Émirats arabes unis",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "médiation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle des Émirats dans les pourparlers et les échanges.",
+  "isFuzzy": true,
+  "locations": [
+    "Abou Dhabi"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "prisonniers",
+    "pourparlers",
+    "Golfe"
+  ],
+  "questions": [
+    "Quel rôle exact ?",
+    "Quels échanges facilités ?",
+    "Quels contacts directs ?"
+  ],
+  "tags": [
+    "#EMIRATS",
+    "#MEDIATION",
+    "#UKRAINE",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

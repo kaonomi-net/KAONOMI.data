@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-base-europeenne-des-vulnerabilites",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Base européenne des vulnérabilités",
+  "includedEntities": [
+    {
+      "entityName": "base européenne des vulnérabilités",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "ENISA",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la base européenne des vulnérabilités gérée par l'ENISA.",
+  "isFuzzy": true,
+  "locations": [
+    "Athènes"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "EUVD",
+    "CVE",
+    "CRA"
+  ],
+  "questions": [
+    "Quel usage ?",
+    "Quel lien avec CVE ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#VULNERABILITE",
+    "#ENISA"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "isDeleted": false
+}

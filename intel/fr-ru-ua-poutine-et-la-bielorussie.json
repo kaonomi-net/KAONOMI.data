@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-poutine-et-la-bielorussie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Poutine et la Biélorussie",
+  "includedEntities": [
+    {
+      "entityName": "Poutine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Loukachenko",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Biélorussie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les relations entre Poutine et Alexandre Loukachenko.",
+  "isFuzzy": true,
+  "locations": [
+    "Minsk",
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "État de l'Union",
+    "armes nucléaires",
+    "Orechnik"
+  ],
+  "questions": [
+    "Quelle rencontre ?",
+    "Quels accords ?",
+    "Quel déploiement militaire ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#BIELORUSSIE",
+    "#ALLIANCE"
+  ],
+  "events": [
+    "@RENCONTRE-DIRIGEANTS"
+  ],
+  "signals": [
+    "!ALLIANCE"
+  ],
+  "isDeleted": false
+}

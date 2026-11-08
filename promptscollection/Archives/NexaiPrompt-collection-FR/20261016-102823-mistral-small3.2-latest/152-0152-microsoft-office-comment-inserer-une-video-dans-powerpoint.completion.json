@@ -1,0 +1,13 @@
+{
+  "index": 152,
+  "file": "0152-microsoft-office-comment-inserer-une-video-dans-powerpoint.prompt.json",
+  "prompt": "Comment insérer une vidéo dans PowerPoint ?",
+  "promptWords": 7,
+  "completion": "Pour insérer une vidéo dans PowerPoint, vous pouvez suivre ces étapes :\n\n1. **Ouvrir PowerPoint** : Lancez PowerPoint et ouvrez la présentation dans laquelle vous souhaitez insérer la vidéo.\n\n2. **Accéder à l'onglet \"Insertion\"** : Cliquez sur l'onglet \"Insertion\" dans le ruban en haut de l'écran.\n\n3. **Cliquer sur \"Vidéo\"** : Dans le groupe \"Médias\", cliquez sur \"Vidéo\". Vous aurez alors deux options :\n   - **Vidéo de ce périphérique** : Pour insérer une vidéo stockée sur votre ordinateur.\n   - **Vidéo en ligne** : Pour insérer une vidéo depuis une URL (par exemple, YouTube).\n\n4. **Sélectionner la vidéo** :\n   - Si vous choisissez \"Vidéo de ce périphérique\", une fenêtre s'ouvrira pour vous permettre de naviguer dans vos fichiers et sélectionner la vidéo que vous souhaitez insérer.\n   - Si vous choisissez \"Vidéo en ligne\", vous devrez coller l'URL de la vidéo.\n\n5. **Insérer la vidéo** : Une fois la vidéo sélectionnée, cliquez sur \"Insérer\". La vidéo apparaîtra alors sur votre diapositive.\n\n6. **Ajuster la vidéo** : Vous pouvez redimensionner, déplacer ou ajuster la vidéo selon vos besoins.\n\n7. **Lire la vidéo** : Pour prévisualiser la vidéo, cliquez sur l'icône de lecture dans le coin de la vidéo.\n\nSi vous avez besoin d'instructions plus détaillées ou spécifiques à une version particulière de PowerPoint, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:56:17.2089183+02:00",
+  "durationSeconds": 7.69,
+  "stats": "mistral-small3.2:latest · 516 + 366 tokens · 7,7 s",
+  "isError": false,
+  "language": "FR"
+}

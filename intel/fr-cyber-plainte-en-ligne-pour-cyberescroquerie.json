@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-plainte-en-ligne-pour-cyberescroquerie",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Plainte en ligne pour cyberescroquerie",
+  "includedEntities": [
+    {
+      "entityName": "THESEE",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "plainte en ligne",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le dispositif de plainte en ligne pour les escroqueries sur Internet.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "police",
+    "victimes",
+    "arnaques"
+  ],
+  "questions": [
+    "Combien de plaintes ?",
+    "Quelles arnaques ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FRANCE",
+    "#VICTIMES"
+  ],
+  "events": [],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

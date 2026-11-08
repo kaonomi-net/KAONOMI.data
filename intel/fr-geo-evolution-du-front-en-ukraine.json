@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-evolution-du-front-en-ukraine",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Évolution du front en Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "front",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "offensive",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les mouvements militaires sur la ligne de front en Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Donbass",
+    "Zaporijia",
+    "Kharkiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Russie",
+    "armée ukrainienne",
+    "drones"
+  ],
+  "questions": [
+    "Quelles localités ont changé de main ?",
+    "Quelle intensité des combats ?",
+    "Quelles pertes civiles ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#UKRAINE",
+    "#RUSSIE",
+    "#GUERRE"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

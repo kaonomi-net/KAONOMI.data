@@ -1,0 +1,13 @@
+{
+  "index": 540,
+  "file": "0540-ia-symbolique-qu-est-ce-que-le-chainage.prompt.json",
+  "prompt": "Qu'est-ce que le chaînage avant et le chaînage arrière ?",
+  "promptWords": 10,
+  "completion": "Le chaînage avant et le chaînage arrière sont des techniques utilisées en construction, notamment dans la réalisation de murs en pierre ou en brique. Voici une explication de chacun :\n\n### Chaînage avant\nLe chaînage avant est une technique de construction où les pierres ou les briques sont disposées de manière à ce que les joints verticaux d'une rangée ne soient pas alignés avec ceux de la rangée précédente. Cela crée un motif en \"chaînage\" qui renforce la structure du mur. Le chaînage avant est souvent utilisé pour les murs en pierre ou en brique apparente, où l'esthétique est importante.\n\n### Chaînage arrière\nLe chaînage arrière, quant à lui, consiste à disposer les pierres ou les briques de manière à ce que les joints verticaux soient alignés d'une rangée à l'autre. Cette technique est moins courante pour les murs apparents, car elle peut être moins esthétique, mais elle peut être utilisée pour des murs de remplissage ou des structures internes où la résistance est plus importante que l'apparence.\n\nEn résumé, le chaînage avant est utilisé pour des raisons esthétiques et de résistance, tandis que le chaînage arrière est plus souvent utilisé pour des raisons de résistance pure, sans préoccupation esthétique.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:03:53.3373194+02:00",
+  "durationSeconds": 5.8,
+  "stats": "mistral-small3.2:latest · 523 + 278 tokens · 5,8 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-sensibilisation-des-salaries",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Sensibilisation des salariés",
+  "includedEntities": [
+    {
+      "entityName": "sensibilisation",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "salariés",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les campagnes de sensibilisation à la cybersécurité.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "formations",
+    "hameçonnage",
+    "comportements"
+  ],
+  "questions": [
+    "Quelle campagne ?",
+    "Quel effet ?",
+    "Quel public ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SENSIBILISATION"
+  ],
+  "events": [],
+  "signals": [
+    "!FORMATION"
+  ],
+  "isDeleted": false
+}

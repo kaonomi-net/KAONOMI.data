@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-vagues-de-drones-shahed",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Vagues de drones Shahed",
+  "includedEntities": [
+    {
+      "entityName": "Shahed",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Geran",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "drones",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les attaques massives de drones de type Shahed.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "nuit"
+  ],
+  "relatedEntities": [
+    "Iran",
+    "défense antiaérienne",
+    "leurres"
+  ],
+  "questions": [
+    "Combien de drones ?",
+    "Combien abattus ?",
+    "Quelles cibles ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#DRONES",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

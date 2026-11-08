@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-tribunal-special-pour-le-crime-d-agression",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Tribunal spécial pour le crime d'agression",
+  "includedEntities": [
+    {
+      "entityName": "tribunal spécial",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "crime d'agression",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la création du tribunal spécial pour juger l'agression contre l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "La Haye",
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Conseil de l'Europe",
+    "dirigeants russes",
+    "justice"
+  ],
+  "questions": [
+    "Où en est la création ?",
+    "Qui pourrait être jugé ?",
+    "Quels pays participent ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#JUSTICE-INTERNATIONALE",
+    "#RUSSIE"
+  ],
+  "events": [],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-inflation",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "inflation",
+  "entityType": "DOMAIN",
+  "description": "Cité par 21 intels : Poutine et l'économie russe ; Taux directeur de la Banque de Russie ; Inflation en Russie ; Inflation en France ; Salaires et SMIC ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les déclarations du président sur l'économie et l'inflation.",
+    "Suivre les décisions de la Banque de Russie, taux à 14 % fin 2026.",
+    "Suivre l'inflation russe, remontée à environ 6 % en 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "inflation",
+  "tags": [
+    "#ECONOMIE",
+    "#INFLATION",
+    "#FRANCE",
+    "#ECONOMIE-RUSSE",
+    "#BCE",
+    "#TAUX"
+  ],
+  "events": [
+    "@DECISION-TAUX",
+    "@PUBLICATION-INDICATEUR",
+    "@PREVISIONS"
+  ],
+  "signals": [
+    "!ECONOMIE",
+    "!POLITIQUE-MONETAIRE",
+    "!SOCIAL"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "BCE",
+    "Washington",
+    "croissance",
+    "énergie",
+    "Francfort",
+    "taux",
+    "droits de douane",
+    "zone euro",
+    "budget",
+    "Moscou"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

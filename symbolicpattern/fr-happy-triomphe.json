@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-triomphe",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un succès éclatant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:triomphe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:triomph(er|[ée]|ant|ante|al|ale)|cons[ée]cration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:apoth[ée]ose(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:gloire(s)?)(?![\\w-])"
+  ],
+  "symbol": "triomphe",
+  "event": null,
+  "title": "Triomphe",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

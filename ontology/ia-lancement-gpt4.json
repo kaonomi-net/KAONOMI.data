@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les modèles de langage) : OpenAI présente GPT-4, modèle multimodal acceptant texte et images.",
+  "id": "ia-lancement-gpt4",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Lancement de GPT-4",
+  "entityType": "EVENT",
+  "description": "OpenAI présente GPT-4, modèle multimodal acceptant texte et images.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "La frise chronologique de la salle de cours place « Lancement de GPT-4 » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Lancement de GPT-4 ».",
+    "L'événement « Lancement de GPT-4 » a marqué durablement l'histoire des modèles de langage."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "sortie de GPT-4"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#MODELESLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Lancement%20de%20GPT-4"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Lettre ouverte pour une pause de l'IA"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-03-14T00:00:00",
+  "endDate": "2023-03-14T00:00:00"
+}

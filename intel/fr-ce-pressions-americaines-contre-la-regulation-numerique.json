@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-pressions-americaines-contre-la-regulation-numerique",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Pressions américaines contre la régulation numérique",
+  "includedEntities": [
+    {
+      "entityName": "régulation numérique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "États-Unis",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "pressions",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les pressions de Washington contre les règles numériques européennes.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Trump",
+    "DSA",
+    "DMA"
+  ],
+  "questions": [
+    "Quelle menace ?",
+    "Quelle réponse de la Commission ?",
+    "Quel recul ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#NUMERIQUE",
+    "#ETATS-UNIS"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

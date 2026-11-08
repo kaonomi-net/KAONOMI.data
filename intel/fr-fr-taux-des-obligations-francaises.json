@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-taux-des-obligations-francaises",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Taux des obligations françaises",
+  "includedEntities": [
+    {
+      "entityName": "OAT",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "taux",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "dix ans",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le taux d'emprunt de l'État à dix ans.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Agence France Trésor",
+    "marchés",
+    "BCE"
+  ],
+  "questions": [
+    "Quel taux ?",
+    "Quelle évolution ?",
+    "Quelle cause ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#MARCHES"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

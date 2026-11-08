@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (les véhicules autonomes) : Volkswagen Touareg robotisée de l'université Stanford, vainqueur du DARPA Grand Challenge 2005.",
+  "id": "ia-stanley",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Véhicule autonome Stanley",
+  "entityType": "HARDWARE",
+  "description": "Volkswagen Touareg robotisée de l'université Stanford, vainqueur du DARPA Grand Challenge 2005.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "La fiche technique de Véhicule autonome Stanley détaille ses performances.",
+    "Pour ce projet d'IA, l'équipe a comparé Véhicule autonome Stanley à d'autres solutions matérielles.",
+    "Véhicule autonome Stanley a marqué l'histoire du matériel consacré aux véhicules autonomes."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Stanley de Stanford"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#VEHICULESAUTONOMES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=V%C3%A9hicule%20autonome%20Stanley"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "DARPA Grand Challenge"
+  ],
+  "isDeleted": false,
+  "startDate": "2005-01-01T00:00:00",
+  "endDate": null
+}

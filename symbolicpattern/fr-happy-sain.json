@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-sain",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "En bonne santé, bon pour la santé.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:sain(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sainement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:salubre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]quilibr[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bio)(?![\\w-])"
+  ],
+  "symbol": "sain",
+  "event": null,
+  "title": "Sain",
+  "tags": [
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-elon-musk",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "Elon Musk",
+  "entityType": "PERSON",
+  "description": "Cité par 4 intels : Satellites Starlink en Ukraine ; Prise de position d'Elon Musk sur l'IA ; Tesla ; Amende contre X d'Elon Musk.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre l'usage de Starlink par l'armée ukrainienne et son détournement par la Russie.",
+    "Suivre les déclarations et projets d'Elon Musk en IA.",
+    "Suivre l'action Tesla et ses paris sur les robots et la conduite autonome."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Elon Musk",
+  "tags": [
+    "#UKRAINE",
+    "#ESPACE",
+    "#COMMUNICATIONS",
+    "#IA",
+    "#PERSONNALITE",
+    "#XAI"
+  ],
+  "events": [
+    "@DECLARATION",
+    "@DECISION"
+  ],
+  "signals": [
+    "!VULNERABILITE",
+    "!DEBAT",
+    "!VOLATILITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "communications",
+    "satellites",
+    "SpaceX",
+    "Starlink",
+    "Grok",
+    "xAI",
+    "OpenAI",
+    "Austin",
+    "robotaxis",
+    "Tesla"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

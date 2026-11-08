@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-qualification-secnumcloud",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Qualification SecNumCloud",
+  "includedEntities": [
+    {
+      "entityName": "SecNumCloud",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "cloud",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les qualifications SecNumCloud et le cloud de confiance.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ANSSI",
+    "S3NS",
+    "Bleu"
+  ],
+  "questions": [
+    "Quel prestataire qualifié ?",
+    "Quelle exigence ?",
+    "Quel débat ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#CLOUD",
+    "#SOUVERAINETE"
+  ],
+  "events": [
+    "@QUALIFICATION"
+  ],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

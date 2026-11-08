@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-hacktivistes-et-fuites-de-donnees",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Hacktivistes et fuites de données",
+  "includedEntities": [
+    {
+      "entityName": "hacktivistes",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "fuite",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "publication",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les fuites de données publiées par des hacktivistes.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "données personnelles",
+    "documents internes",
+    "authenticité"
+  ],
+  "questions": [
+    "Quelle fuite ?",
+    "Est-elle authentique ?",
+    "Quelle victime ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#HACKTIVISME",
+    "#FUITE-DE-DONNEES"
+  ],
+  "events": [
+    "@FUITE-DE-DONNEES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

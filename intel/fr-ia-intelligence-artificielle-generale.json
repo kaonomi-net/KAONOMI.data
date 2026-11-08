@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-intelligence-artificielle-generale",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Intelligence artificielle générale",
+  "includedEntities": [
+    {
+      "entityName": "AGI",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "intelligence artificielle générale",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 40,
+  "instructions": "Suivre le débat et les annonces sur l'arrivée d'une IA générale.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "OpenAI",
+    "DeepMind",
+    "Sam Altman"
+  ],
+  "questions": [
+    "Qui annonce une date ?",
+    "Quelle définition retenue ?",
+    "Quels experts sont sceptiques ?"
+  ],
+  "tags": [
+    "#IA",
+    "#AGI",
+    "#PROSPECTIVE"
+  ],
+  "events": [],
+  "signals": [
+    "!SPECULATION"
+  ],
+  "isDeleted": false
+}

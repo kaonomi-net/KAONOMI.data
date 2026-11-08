@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-armenie-et-azerbaidjan-face-a-moscou",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Arménie et Azerbaïdjan face à Moscou",
+  "includedEntities": [
+    {
+      "entityName": "Arménie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Azerbaïdjan",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le recul de l'influence russe dans le Caucase du Sud.",
+  "isFuzzy": true,
+  "locations": [
+    "Erevan",
+    "Bakou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Pachinian",
+    "Aliev",
+    "corridor"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quelle tension avec Moscou ?",
+    "Quel rôle des États-Unis ?"
+  ],
+  "tags": [
+    "#CAUCASE",
+    "#RUSSIE",
+    "#INFLUENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

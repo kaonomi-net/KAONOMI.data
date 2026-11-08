@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-desertions-dans-l-armee-ukrainienne",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Désertions dans l'armée ukrainienne",
+  "includedEntities": [
+    {
+      "entityName": "désertion",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "abandon de poste",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'ampleur des désertions et absences sans autorisation.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "armée",
+    "amnistie",
+    "mobilisation"
+  ],
+  "questions": [
+    "Quelle ampleur ?",
+    "Quelles mesures ?",
+    "Quelles causes ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ARMEE",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!VULNERABILITE"
+  ],
+  "isDeleted": false
+}

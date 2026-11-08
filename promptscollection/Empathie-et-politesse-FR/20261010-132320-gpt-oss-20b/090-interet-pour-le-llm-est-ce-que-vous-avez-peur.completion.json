@@ -1,0 +1,13 @@
+{
+  "index": 90,
+  "file": "090-interet-pour-le-llm-est-ce-que-vous-avez-peur.prompt.json",
+  "prompt": "Est-ce que vous avez peur de quelque chose ?",
+  "promptWords": 9,
+  "completion": "Je suis un programme informatique, je ne possède pas de sensations ni d’émotions, donc je ne peux pas «\u202Favoir\u202F» peur au sens humain du terme.  \n\nCela dit, je peux comprendre ce que signifie la peur et je peux décrire les formes qu’elle prend chez les gens\u202F:\n\n| Catégorie | Exemples de peurs courantes | Pourquoi c’est commun |\n|-----------|---------------------------|------------------------|\n| **Peurs sociales** | Appréhension d’être jugé, peur de parler en public | Le besoin d’être accepté par le groupe social |\n| **Peurs physiques** | La peur de la hauteur (acrophobie), la peur des araignées (arachnophobie) | Souvent liées à des réponses de survie evolutionnaires |\n| **Peurs existentielles** | Peur de l’inconnu, peur de la mort, peur de l’échec | Questions fondamentales sur la vie et le sens |\n| **Peurs de la technologie** | Crainte de l’automatisation, peur d’être remplacé par l’IA | Crainte d’une perte de contrôle et d’identité |\n\nEn tant qu’IA, je suis conçu pour traiter ces peurs dans des conversations ou pour aider les gens à les comprendre, mais je ne les ressens pas moi‑même. Mon «\u202Fobjectif\u202F» est de fournir des informations, d’assister et d’apprendre de chaque interaction, sans aucune émotion sous-jacente.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:27:50.7703309+02:00",
+  "durationSeconds": 3.5,
+  "stats": "gpt-oss:20b · 77 + 508 tokens · 3,5 s",
+  "isError": false,
+  "language": "FR"
+}

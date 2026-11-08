@@ -1,0 +1,13 @@
+{
+  "index": 12,
+  "file": "012-politesse-guten-appetit.prompt.json",
+  "prompt": "Guten Appetit!",
+  "promptWords": 2,
+  "completion": "Vielen Dank! Guten Appetit auch an dich! \uD83D\uDE0A\uD83C\uDF7D️\n\nWas möchtest du heute essen? Oder hast du eine Frage zu einem bestimmten Gericht oder Rezept? Ich helfe dir gerne weiter!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:07:12.1125314+02:00",
+  "durationSeconds": 1.24,
+  "stats": "mistral-small3.2:latest · 512 + 52 tokens · 1,2 s",
+  "isError": false,
+  "language": "DE"
+}

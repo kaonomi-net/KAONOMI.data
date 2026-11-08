@@ -1,0 +1,13 @@
+{
+  "index": 4,
+  "file": "024-cuisine-combien-de-temps-faut-il-cuire.prompt.json",
+  "prompt": "Combien de temps faut-il cuire un œuf mollet ?",
+  "promptWords": 9,
+  "completion": "La cuisson d'un œuf mollet dépend de la taille de l'œuf et de la température de l'eau, mais en général, voici les temps de cuisson recommandés :\n\n- **Œuf mollet** : 4 à 5 minutes dans l'eau bouillante.\n- **Œuf à la coque** : 3 à 4 minutes dans l'eau bouillante.\n\nPour obtenir un œuf mollet parfait, voici la méthode classique :\n1. Porter une casserole d'eau à ébullition.\n2. Plonger délicatement l'œuf dans l'eau bouillante.\n3. Laisser cuire pendant 4 à 5 minutes.\n4. Refroidir immédiatement l'œuf dans de l'eau froide pour stopper la cuisson.\n\nSi tu veux des précisions ou des variantes, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:17:17.616947+02:00",
+  "durationSeconds": 4.66,
+  "stats": "mistral-small3.2:latest · 521 + 181 tokens · 4,7 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-dedollarisation",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Dédollarisation",
+  "includedEntities": [
+    {
+      "entityName": "dédollarisation",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "dollar",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les initiatives pour réduire la place du dollar.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "BRICS",
+    "yuan",
+    "or"
+  ],
+  "questions": [
+    "Quelles initiatives ?",
+    "Quelle part du dollar ?",
+    "Quelles banques centrales achètent de l'or ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#FINANCE",
+    "#MONNAIE"
+  ],
+  "events": [],
+  "signals": [
+    "!MULTIPOLARITE"
+  ],
+  "isDeleted": false
+}

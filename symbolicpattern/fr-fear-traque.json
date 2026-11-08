@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-traque",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La poursuite d'un suspect.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:traque(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:traqu(er|[ée]|[ée]e|[ée]s)|chasse\\s+[àa]\\s+l['’]homme)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:en\\s+cavale)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:avis\\s+de\\s+recherche)(?![\\w-])"
+  ],
+  "symbol": "traque",
+  "event": null,
+  "title": "Traque",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

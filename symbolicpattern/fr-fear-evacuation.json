@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-evacuation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait de faire partir une population en danger.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:[ée]vacuation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]vacu(er|[ée]|[ée]e|[ée]s|[ée]es)|corridor(s)?\\s+humanitaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fuite(s)?\\s+des\\s+civils)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exfiltration(s)?)(?![\\w-])"
+  ],
+  "symbol": "évacuation",
+  "event": null,
+  "title": "Évacuation",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

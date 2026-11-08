@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-nouvelle-douma-de-russie-unie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Nouvelle Douma de Russie unie",
+  "includedEntities": [
+    {
+      "entityName": "Russie unie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Douma",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la nouvelle Douma élue en septembre 2026 avec 349 sièges pour Russie unie.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Volodine",
+    "vétérans",
+    "lois"
+  ],
+  "questions": [
+    "Quelles premières lois ?",
+    "Quel rôle des vétérans élus ?",
+    "Quelle opposition ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#DOUMA",
+    "#POLITIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

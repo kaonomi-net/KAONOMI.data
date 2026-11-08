@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-contre-un-ministere",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque contre un ministère",
+  "includedEntities": [
+    {
+      "entityName": "ministère",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les cyberattaques contre les administrations centrales.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "DDoS",
+    "fuite",
+    "espionnage"
+  ],
+  "questions": [
+    "Quel ministère ?",
+    "Quel type d'attaque ?",
+    "Quel attaquant ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ETAT"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

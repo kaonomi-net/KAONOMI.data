@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-turquie-et-question-kurde",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Turquie et question kurde",
+  "includedEntities": [
+    {
+      "entityName": "Turquie",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Kurdes",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "PKK",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les relations entre la Turquie et les mouvements kurdes.",
+  "isFuzzy": true,
+  "locations": [
+    "Ankara",
+    "nord de la Syrie",
+    "nord de l'Irak"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "PKK",
+    "FDS",
+    "processus de paix"
+  ],
+  "questions": [
+    "Quelles opérations militaires ?",
+    "Quel processus de paix ?",
+    "Quelle réaction internationale ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#TURQUIE",
+    "#KURDES"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

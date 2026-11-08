@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-guirlande",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La décoration de fête.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:guirlande(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lampion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]coration(s)?\\s+de\\s+f[êe]te)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:illumination(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:paillette(s)?)(?![\\w-])"
+  ],
+  "symbol": "guirlande",
+  "event": null,
+  "title": "Guirlande",
+  "tags": [
+    "#FETE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

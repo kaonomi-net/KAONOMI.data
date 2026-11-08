@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-ignominie",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un déshonneur extrême.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ignominie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:turpitude(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vilenie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:indignit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:forfaiture(s)?)(?![\\w-])"
+  ],
+  "symbol": "ignominie",
+  "event": null,
+  "title": "Ignominie",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-identite-numerique-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Identité numérique européenne",
+  "includedEntities": [
+    {
+      "entityName": "portefeuille d'identité numérique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "identité",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le déploiement du portefeuille européen d'identité numérique.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "fin 2026"
+  ],
+  "relatedEntities": [
+    "États membres",
+    "vie privée",
+    "services"
+  ],
+  "questions": [
+    "Quels pays sont prêts ?",
+    "Quels usages ?",
+    "Quelles inquiétudes ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#NUMERIQUE",
+    "#IDENTITE"
+  ],
+  "events": [],
+  "signals": [
+    "!NUMERIQUE"
+  ],
+  "isDeleted": false
+}

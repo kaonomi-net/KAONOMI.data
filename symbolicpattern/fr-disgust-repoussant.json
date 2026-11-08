@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-repoussant",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui fait reculer de dégoût.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:repoussant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hideu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:laid(e|s|es)?\\s+[àa]\\s+faire\\s+peur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:monstrueu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:difforme(s)?)(?![\\w-])"
+  ],
+  "symbol": "repoussant",
+  "event": null,
+  "title": "Repoussant",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

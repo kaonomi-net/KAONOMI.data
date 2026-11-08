@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-deminage",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La neutralisation des explosifs.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]minage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]mineur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:p[ée]rim[èe]tre\\s+de\\s+s[ée]curit[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lev[ée]e\\s+de\\s+doute)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:robot\\s+d[ée]mineur)(?![\\w-])"
+  ],
+  "symbol": "déminage",
+  "event": null,
+  "title": "Déminage",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

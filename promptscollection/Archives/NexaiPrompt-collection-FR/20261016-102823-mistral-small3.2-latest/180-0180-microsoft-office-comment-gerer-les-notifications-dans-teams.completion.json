@@ -1,0 +1,13 @@
+{
+  "index": 180,
+  "file": "0180-microsoft-office-comment-gerer-les-notifications-dans-teams.prompt.json",
+  "prompt": "Comment gérer les notifications dans Teams ?",
+  "promptWords": 7,
+  "completion": "Pour gérer les notifications dans Microsoft Teams, vous pouvez suivre ces étapes :\n\n1. **Accéder aux paramètres des notifications** :\n   - Cliquez sur votre photo de profil ou sur l'icône de votre initiale en haut à droite de l'écran.\n   - Sélectionnez **Paramètres** dans le menu déroulant.\n   - Dans le menu de gauche, cliquez sur **Notifications**.\n\n2. **Personnaliser les notifications** :\n   - Vous pouvez ajuster les notifications pour différentes activités comme les messages, les mentions, les réactions, etc.\n   - Pour chaque type d'activité, vous pouvez choisir entre différentes options comme **Bannières**, **Son**, **Prévisions**, etc.\n\n3. **Gérer les notifications par canal ou équipe** :\n   - Vous pouvez également personnaliser les notifications pour des canaux ou équipes spécifiques.\n   - Allez dans l'équipe ou le canal concerné, cliquez sur l'icône de paramètres (⚙️) à côté du nom du canal, et sélectionnez **Gérer les notifications**.\n\n4. **Désactiver les notifications** :\n   - Si vous souhaitez désactiver complètement les notifications, vous pouvez le faire dans les paramètres généraux de Teams.\n\n5. **Notifications pour les appels et réunions** :\n   - Vous pouvez également configurer les notifications pour les appels et les réunions, comme les rappels de réunions ou les notifications d'appels entrants.\n\nSi vous avez besoin d'informations plus spécifiques ou d'une aide supplémentaire, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:00:11.0583678+02:00",
+  "durationSeconds": 6.95,
+  "stats": "mistral-small3.2:latest · 514 + 333 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

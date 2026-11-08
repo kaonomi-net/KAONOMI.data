@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (l'interconnexion) : Interconnexion à haut débit de NVIDIA entre GPU et processeurs, apparue avec l'architecture Pascal.",
+  "id": "ia-nvlink",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "NVLink",
+  "entityType": "HARDWARE",
+  "description": "Interconnexion à haut débit de NVIDIA entre GPU et processeurs, apparue avec l'architecture Pascal.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Pour ce projet d'IA, l'équipe a comparé NVLink à d'autres solutions matérielles.",
+    "NVLink a marqué l'histoire du matériel consacré à l'interconnexion.",
+    "La fiche technique de NVLink détaille ses performances."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "NVIDIA NVLink"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#INTERCONNEXION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NVLink"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NVIDIA GB200 NVL72",
+    "NVIDIA DGX-1"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-01-01T00:00:00",
+  "endDate": null
+}

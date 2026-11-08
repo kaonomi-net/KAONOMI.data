@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (les virus informatiques) : Informaticien américain qui a formalisé la notion de virus informatique en 1983-1984 et démontré l'impossibilité d'une détection parfaite.",
+  "id": "cyber-cohen",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Fred Cohen",
+  "entityType": "PERSON",
+  "description": "Informaticien américain qui a formalisé la notion de virus informatique en 1983-1984 et démontré l'impossibilité d'une détection parfaite.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Fred Cohen.",
+    "Les étudiants lisent les travaux de Fred Cohen pour comprendre les virus informatiques.",
+    "Sans Fred Cohen, l'histoire des virus informatiques aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Frederick B. Cohen"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#VIRUSINFORMATIQUES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fred%20Cohen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Leonard Adleman"
+  ],
+  "isDeleted": false,
+  "startDate": "1956-01-01T00:00:00",
+  "endDate": null
+}

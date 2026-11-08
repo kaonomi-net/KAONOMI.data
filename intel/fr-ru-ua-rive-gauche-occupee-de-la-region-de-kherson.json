@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-rive-gauche-occupee-de-la-region-de-kherson",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Rive gauche occupée de la région de Kherson",
+  "includedEntities": [
+    {
+      "entityName": "rive gauche",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Kherson",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "occupation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation dans la partie occupée de la région de Kherson.",
+  "isFuzzy": true,
+  "locations": [
+    "Nova Kakhovka",
+    "Oleshky",
+    "Skadovsk"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "administration d'occupation",
+    "habitants",
+    "évacuation"
+  ],
+  "questions": [
+    "Quelle situation des habitants ?",
+    "Quelles évacuations ?",
+    "Quelles frappes ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#KHERSON",
+    "#OCCUPATION"
+  ],
+  "events": [],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

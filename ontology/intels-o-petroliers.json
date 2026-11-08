@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-petroliers",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "pétroliers",
+  "entityType": "HARDWARE",
+  "description": "Cité par 6 intels : Attaques sur les ports pétroliers russes ; Drones navals ukrainiens ; Flotte fantôme russe ; Détroit d'Ormuz ; Flotte fantôme de pétroliers ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre les attaques contre les terminaux d'exportation de pétrole.",
+    "Suivre les attaques de drones navals contre la flotte et les ports russes.",
+    "Suivre les pétroliers qui contournent les sanctions."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "pétroliers",
+  "tags": [
+    "#MARITIME",
+    "#ENERGIE",
+    "#SANCTIONS",
+    "#RUSSIE",
+    "#GEOPOLITIQUE",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@SANCTION",
+    "@INCIDENT-MARITIME",
+    "@FRAPPE-ENERGIE"
+  ],
+  "signals": [
+    "!CONTOURNEMENT",
+    "!CONFLIT",
+    "!INNOVATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "mer Baltique",
+    "flotte fantôme",
+    "Novorossiïsk",
+    "assurance",
+    "inspections",
+    "golfe de Finlande",
+    "sanctions",
+    "Primorsk",
+    "Oust-Louga",
+    "port pétrolier"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

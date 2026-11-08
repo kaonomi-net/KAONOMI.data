@@ -1,0 +1,13 @@
+{
+  "index": 32,
+  "file": "052-intelligence-artificielle-qu-est-ce-que-l-ia.prompt.json",
+  "prompt": "Qu'est-ce que l'IA Act européen ?",
+  "promptWords": 6,
+  "completion": "L'IA Act européen, officiellement appelé \"Règlement sur l'intelligence artificielle\" (ou AI Act en anglais), est une proposition de règlement de l'Union européenne visant à établir un cadre juridique pour l'intelligence artificielle (IA). Ce règlement a pour objectif de garantir que les systèmes d'IA développés et utilisés dans l'UE sont sûrs, transparents et respectueux des droits fondamentaux.\n\nVoici quelques points clés de l'IA Act européen :\n\n1. **Classification des risques** : Les systèmes d'IA sont classés en fonction des risques qu'ils présentent, allant des risques minimaux (sans impact significatif) aux risques inacceptables (comme les systèmes de manipulation cognitive à grande échelle).\n\n2. **Interdictions** : Certains usages de l'IA sont interdits, notamment ceux qui présentent des risques inacceptables pour les droits fondamentaux, comme les systèmes de notation sociale ou les techniques de reconnaissance faciale à grande échelle dans les espaces publics.\n\n3. **Obligations pour les fournisseurs et utilisateurs** : Les fournisseurs de systèmes d'IA doivent respecter des exigences strictes en matière de transparence, de documentation et de gestion des risques. Les utilisateurs doivent également s'assurer que les systèmes qu'ils utilisent sont conformes.\n\n4. **Contrôle et sanctions** : Des autorités nationales et européennes sont chargées de superviser l'application du règlement, avec des sanctions pouvant aller jusqu'à 30 millions d'euros ou 6 % du chiffre d'affaires mondial pour les violations graves.\n\n5. **Innovation et compétitivité** : L'UE souhaite également promouvoir l'innovation en IA tout en assurant une régulation équilibrée, afin de maintenir sa compétitivité sur la scène internationale.\n\nL'IA Act européen est un texte en évolution, et son adoption finale peut encore subir des modifications. Si vous souhaitez des informations plus récentes ou spécifiques, je peux essayer de trouver des sources actualisées pour vous.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:22:37.3218796+02:00",
+  "durationSeconds": 9.34,
+  "stats": "mistral-small3.2:latest · 517 + 414 tokens · 9,3 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-invasion",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'entrée de forces armées dans un pays.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:invasion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:envah(ir|i|ie|is|it|issent|isseur|isseurs)|incursion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:offensive(s)?\\s+terrestre(s)?)(?![\\w-])"
+  ],
+  "symbol": "invasion",
+  "event": null,
+  "title": "Invasion",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

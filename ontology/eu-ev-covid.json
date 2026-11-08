@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la santé publique) : Crise sanitaire majeure qui conduit l'Union à acheter des vaccins en commun et à créer NextGenerationEU.",
+  "id": "eu-ev-covid",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Pandémie de COVID-19 en Europe",
+  "entityType": "EVENT",
+  "description": "Crise sanitaire majeure qui conduit l'Union à acheter des vaccins en commun et à créer NextGenerationEU.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "« Pandémie de COVID-19 en Europe » est un jalon de l'histoire de de l'Union européenne.",
+    "Les historiens de la construction européenne reviennent sur « Pandémie de COVID-19 en Europe ».",
+    "La chronologie de la Commission place « Pandémie de COVID-19 en Europe » à sa date."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 4,
+  "happyLevel": 0,
+  "fearLevel": 4,
+  "surpriseLevel": 3,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Pand%C3%A9mie%20de%20COVID-19%20en%20Europe"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Stratégie de l'UE en matière de vaccins",
+    "Certificat COVID numérique de l'UE",
+    "SURE",
+    "Santé",
+    "Gestion des crises",
+    "Ursula von der Leyen",
+    "Stella Kyriakides",
+    "Commission von der Leyen I",
+    "NextGenerationEU"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-02-01T00:00:00",
+  "endDate": "2023-05-01T00:00:00"
+}

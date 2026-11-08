@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-accord-sur-le-budget-au-conseil-europeen-de-decembre",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Accord sur le budget au Conseil européen de décembre",
+  "includedEntities": [
+    {
+      "entityName": "Conseil européen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "décembre",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller un accord sur le cadre financier lors du sommet des 17 et 18 décembre 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "17 et 18 décembre 2026"
+  ],
+  "relatedEntities": [
+    "António Costa",
+    "frugaux",
+    "cohésion"
+  ],
+  "questions": [
+    "Un compromis est-il trouvé ?",
+    "Quel montant ?",
+    "Quels pays bloquent ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#BUDGET-UE",
+    "#SOMMET"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!ECHEANCE"
+  ],
+  "isDeleted": false
+}

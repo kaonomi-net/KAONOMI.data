@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-sauvegardes-hors-ligne",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "sauvegardes hors ligne",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Rançongiciel et sauvegardes détruites.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les attaques qui ciblent d'abord les sauvegardes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "sauvegardes hors ligne",
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#RESILIENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sauvegardes",
+    "immuabilité",
+    "destruction",
+    "reprise"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

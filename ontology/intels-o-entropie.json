@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-entropie",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "entropie",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Héritage de Claude Shannon.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Repérer les références aux fondements de la théorie de l'information."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "entropie",
+  "tags": [
+    "#IA",
+    "#HISTOIRE",
+    "#THEORIE-INFORMATION"
+  ],
+  "events": [],
+  "signals": [
+    "!CULTURE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bell Labs",
+    "Claude Shannon",
+    "information",
+    "théorie de l'information"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-voiture-autonome",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Voiture autonome",
+  "includedEntities": [
+    {
+      "entityName": "voiture autonome",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "conduite",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les véhicules sans conducteur et leurs incidents.",
+  "isFuzzy": true,
+  "locations": [
+    "San Francisco",
+    "Pékin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Waymo",
+    "Tesla",
+    "robotaxi"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quelle autorisation ?",
+    "Quelle ville ?"
+  ],
+  "tags": [
+    "#IA",
+    "#MOBILITE",
+    "#AUTONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!OPPORTUNITE",
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

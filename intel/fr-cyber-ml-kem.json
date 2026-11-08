@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-ml-kem",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "ML-KEM",
+  "includedEntities": [
+    {
+      "entityName": "ML-KEM",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Kyber",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le déploiement de l'algorithme post-quantique d'échange de clés ML-KEM.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "FIPS 203",
+    "TLS",
+    "navigateurs"
+  ],
+  "questions": [
+    "Quel déploiement ?",
+    "Quelle implémentation ?",
+    "Quelle faille ?"
+  ],
+  "tags": [
+    "#CRYPTOGRAPHIE",
+    "#POST-QUANTIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "isDeleted": false
+}

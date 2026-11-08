@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la vie politique européenne) : Avocat, ancien maire de Lisbonne et Premier ministre du Portugal, président du Conseil européen depuis le 1er décembre 2024.",
+  "id": "eu-p-costa",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "António Costa",
+  "entityType": "PERSON",
+  "description": "Avocat, ancien maire de Lisbonne et Premier ministre du Portugal, président du Conseil européen depuis le 1er décembre 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-dirigeants",
+  "sentencesExemples": [
+    "Les manuels sur les institutions européennes citent António Costa.",
+    "Le portrait de António Costa figure dans le dossier consacré à la vie politique européenne.",
+    "La presse européenne a longuement commenté le parcours de António Costa."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Costa"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#VIEPOLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ant%C3%B3nio%20Costa"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité portugaise",
+    "Parti socialiste (PS)",
+    "Avocat",
+    "Maire",
+    "Chef de gouvernement",
+    "Président du Conseil européen",
+    "Conseil européen",
+    "Charles Michel"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

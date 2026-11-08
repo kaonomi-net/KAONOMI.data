@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-proportionnelle-aux-legislatives",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Proportionnelle aux législatives",
+  "includedEntities": [
+    {
+      "entityName": "proportionnelle",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "scrutin",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur l'introduction de la proportionnelle.",
+  "isFuzzy": true,
+  "locations": [
+    "Parlement"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Bayrou",
+    "RN",
+    "mode de scrutin"
+  ],
+  "questions": [
+    "Un texte est-il déposé ?",
+    "Quelle majorité ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#INSTITUTIONS",
+    "#ELECTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

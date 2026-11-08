@@ -1,0 +1,13 @@
+{
+  "index": 37,
+  "file": "037-empathie-je-suis-stresse-par-un-examen.prompt.json",
+  "prompt": "Je suis stressé par un examen demain.",
+  "promptWords": 7,
+  "completion": "Je comprends que tu sois stressé à l'approche de ton examen. Voici quelques conseils qui pourraient t'aider à mieux gérer ce stress :\n\n1. **Organise ton temps** : Si tu as encore des révisions à faire, fais une liste des sujets à revoir et répartis-les de manière réaliste. Concentre-toi sur les points clés.\n\n2. **Pratique la respiration profonde** : Des exercices de respiration lente et profonde peuvent t'aider à te calmer. Inspire profondément par le nez, retiens ta respiration quelques secondes, puis expire lentement par la bouche.\n\n3. **Fais des pauses** : Réviser sans s'arrêter peut être contre-productif. Prends des pauses régulières pour te détendre, boire de l'eau ou faire une courte promenade.\n\n4. **Bouge un peu** : Une activité physique légère, comme une marche ou quelques étirements, peut libérer des endorphines et réduire le stress.\n\n5. **Dors suffisamment** : Même si tu as envie de réviser jusqu'à tard dans la nuit, essaye de te coucher à une heure raisonnable pour être en forme demain.\n\n6. **Visualise le succès** : Imagine-toi en train de réussir ton examen. La visualisation positive peut renforcer ta confiance en toi.\n\n7. **Évite la caféine en excès** : Trop de café ou de boissons énergisantes peut augmenter ton anxiété.\n\n8. **Parle à quelqu'un** : Si tu te sens vraiment submergé, parle à un ami, un membre de ta famille ou un professeur. Parfois, exprimer ses craintes peut alléger le fardeau.\n\nEt surtout, rappelle-toi que le stress est normal et que beaucoup de gens le ressentent avant un examen. Tu as travaillé dur, et tu es prêt(e) pour ça. Bonne chance pour demain ! \uD83C\uDF40",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:13:01.9971415+02:00",
+  "durationSeconds": 7.83,
+  "stats": "mistral-small3.2:latest · 516 + 392 tokens · 7,8 s",
+  "isError": false,
+  "language": "FR"
+}

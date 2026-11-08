@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-afrique-du-sud-sur-la-scene-internationale",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Afrique du Sud sur la scène internationale",
+  "includedEntities": [
+    {
+      "entityName": "Afrique du Sud",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Pretoria",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "BRICS",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la diplomatie sud-africaine et son rôle dans les BRICS.",
+  "isFuzzy": true,
+  "locations": [
+    "Pretoria",
+    "Johannesburg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "BRICS",
+    "Cour internationale de justice",
+    "G20"
+  ],
+  "questions": [
+    "Quelle position diplomatique ?",
+    "Quelles relations avec les États-Unis ?",
+    "Quel rôle au G20 ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#AFRIQUE-DU-SUD",
+    "#BRICS"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

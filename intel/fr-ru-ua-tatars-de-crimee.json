@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-tatars-de-crimee",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Tatars de Crimée",
+  "includedEntities": [
+    {
+      "entityName": "Tatars de Crimée",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Crimée",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation des Tatars de Crimée sous occupation.",
+  "isFuzzy": true,
+  "locations": [
+    "Crimée"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Mejlis",
+    "arrestations",
+    "répression"
+  ],
+  "questions": [
+    "Quelles arrestations ?",
+    "Quels procès ?",
+    "Quelle réaction internationale ?"
+  ],
+  "tags": [
+    "#CRIMEE",
+    "#DROITS-HUMAINS",
+    "#MINORITES"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

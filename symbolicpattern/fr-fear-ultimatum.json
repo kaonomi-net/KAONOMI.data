@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-ultimatum",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une dernière mise en demeure avant la force.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ultimatum(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mise(s)?\\s+en\\s+demeure)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:menace(s)?\\s+d['’]intervention)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dernier\\s+avertissement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bruits\\s+de\\s+bottes)(?![\\w-])"
+  ],
+  "symbol": "ultimatum",
+  "event": null,
+  "title": "Ultimatum",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

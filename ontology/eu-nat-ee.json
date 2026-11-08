@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Nationalité de l'Union européenne (la citoyenneté européenne) : Nationalité des citoyens de ce pays : Estonie.",
+  "id": "eu-nat-ee",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "nationalité estonienne",
+  "entityType": "NORP",
+  "description": "Nationalité des citoyens de ce pays : Estonie. Les ressortissants sont appelés estoniens.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-nationalites",
+  "sentencesExemples": [
+    "Plusieurs commissaires ont la nationalité estonienne.",
+    "Les fonctionnaires européens de nationalité estonienne travaillent dans toutes les directions générales.",
+    "Le collège compte un membre de nationalité estonienne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDEAA",
+  "synonyms": [
+    "estonien",
+    "estonienne"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#NORP",
+    "#CITOYENNETEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=nationalit%C3%A9%20estonienne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Estonie",
+    "Kadri Simson",
+    "Kaja Kallas",
+    "Andrus Ansip"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

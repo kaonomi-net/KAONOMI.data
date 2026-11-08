@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Pays de l'Union européenne (la politique européenne) : Allemagne, État membre de l'Union européenne depuis 1958 (membre fondateur), capitale Berlin.",
+  "id": "eu-pays-de",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Allemagne",
+  "entityType": "COUNTRY",
+  "description": "Allemagne, État membre de l'Union européenne depuis 1958 (membre fondateur), capitale Berlin.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-etats-membres",
+  "sentencesExemples": [
+    "Allemagne participe aux décisions de de l'Union européenne.",
+    "Les fonds européens financent de nombreux projets en Allemagne.",
+    "Le rapport de la Commission consacre un chapitre à Allemagne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF0D",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#COUNTRY",
+    "#POLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Allemagne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité allemande",
+    "Berlin",
+    "Union européenne",
+    "Cologne",
+    "Francfort-sur-le-Main",
+    "Karlsruhe",
+    "Aix-la-Chapelle",
+    "allemand",
+    "Union chrétienne-démocrate (CDU)",
+    "Parti social-démocrate (SPD)",
+    "Parti libéral-démocrate (FDP)",
+    "Présidence allemande du Conseil de l'UE (juillet-décembre 2020)"
+  ],
+  "isDeleted": false,
+  "startDate": "1958-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-von-der-leyen-et-le-pacte-vert",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Von der Leyen et le Pacte vert",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Pacte vert",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "simplification",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution de la position de la présidente sur le Pacte vert.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "omnibus",
+    "climat",
+    "industrie"
+  ],
+  "questions": [
+    "Quel recul ?",
+    "Quelle mesure maintenue ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#CLIMAT",
+    "#VON-DER-LEYEN"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

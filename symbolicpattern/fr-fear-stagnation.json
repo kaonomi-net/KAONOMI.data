@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-stagnation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'absence de progression.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:stagnation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:stagn(er|e|ent|ant|ante)|pi[ée]tinement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:au\\s+point\\s+mort)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:croissance\\s+z[ée]ro)(?![\\w-])"
+  ],
+  "symbol": "stagnation",
+  "event": null,
+  "title": "Stagnation",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

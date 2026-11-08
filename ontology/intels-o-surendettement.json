@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-surendettement",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "surendettement",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Paiement fractionné.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le paiement fractionné et sa régulation."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "surendettement",
+  "tags": [
+    "#FINANCE",
+    "#FINTECH",
+    "#CREDIT"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "crédit",
+    "Europe",
+    "directive crédit",
+    "paiement fractionné",
+    "Klarna"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

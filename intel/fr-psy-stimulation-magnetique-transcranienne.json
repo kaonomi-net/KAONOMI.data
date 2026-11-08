@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-stimulation-magnetique-transcranienne",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Stimulation magnétique transcrânienne",
+  "includedEntities": [
+    {
+      "entityName": "stimulation magnétique transcrânienne",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "rTMS",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les traitements par stimulation cérébrale.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "dépression résistante",
+    "électroconvulsivothérapie",
+    "stimulation profonde"
+  ],
+  "questions": [
+    "Quel traitement ?",
+    "Quelle étude ?",
+    "Quel accès ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#THERAPIES",
+    "#NEUROSTIMULATION"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

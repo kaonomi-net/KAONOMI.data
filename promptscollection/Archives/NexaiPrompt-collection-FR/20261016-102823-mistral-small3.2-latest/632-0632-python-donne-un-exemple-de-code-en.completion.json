@@ -1,0 +1,13 @@
+{
+  "index": 632,
+  "file": "0632-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre les gestionnaires de contexte (with).",
+  "promptWords": 14,
+  "completion": "Voici un exemple de code en Python qui illustre l'utilisation des gestionnaires de contexte (avec la clause `with`) pour gérer des ressources de manière sécurisée :\n\n```python\n# Exemple avec un fichier\ntry:\n    # Utilisation du gestionnaire de contexte pour ouvrir un fichier\n    with open('exemple.txt', 'w') as fichier:\n        fichier.write(\"Bonjour, ceci est un exemple d'utilisation de 'with'.\")\n\n    # Le fichier est automatiquement fermé ici, même si une exception survient\n    print(\"Écriture terminée.\")\n\nexcept IOError as e:\n    print(f\"Une erreur est survenue : {e}\")\n\n# Exemple avec une connexion à une base de données (simulée)\nclass ConnexionBD:\n    def __enter__(self):\n        print(\"Connexion à la base de données établie.\")\n        return self\n\n    def __exit__(self, exc_type, exc_val, exc_tb):\n        print(\"Connexion à la base de données fermée.\")\n\n    def requete(self):\n        print(\"Exécution d'une requête SQL.\")\n\n# Utilisation du gestionnaire de contexte personnalisé\nwith ConnexionBD() as connexion:\n    connexion.requete()\n\nprint(\"Programme terminé.\")\n```\n\n### Explications :\n1. **Gestionnaire de contexte pour un fichier** :\n   - Le bloc `with open(...) as fichier` garantit que le fichier est automatiquement fermé dès la sortie du bloc, même en cas d'exception.\n   - Cela évite les fuites de ressources et simplifie la gestion des fichiers.\n\n2. **Gestionnaire de contexte personnalisé** :\n   - La classe `ConnexionBD` implémente les méthodes `__enter__` et `__exit__` pour définir le comportement du contexte.\n   - `__enter__` est appelé au début du bloc `with` et peut retourner un objet (ici `self`).\n   - `__exit__` est appelé à la fin du bloc `with` et gère la libération des ressources.\n\n3. **Avantages** :\n   - Simplification du code.\n   - Gestion automatique des ressources.\n   - Meilleure lisibilité et sécurité.\n\nCe code montre comment les gestionnaires de contexte peuvent être utilisés pour gérer des ressources de manière propre et efficace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:35:10.9972953+02:00",
+  "durationSeconds": 9.75,
+  "stats": "mistral-small3.2:latest · 526 + 477 tokens · 9,7 s",
+  "isError": false,
+  "language": "FR"
+}

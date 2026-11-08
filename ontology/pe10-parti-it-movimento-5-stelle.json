@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation du Parlement européen (le Parlement européen) : Movimento 5 Stelle, parti ou liste de ce pays : Italie, qui compte 8 députés européens dans la liste officielle de la législature 2024-2029.",
+  "id": "pe10-parti-it-movimento-5-stelle",
+  "dateCreated": "2026-10-31 20:22:46",
+  "name": "Movimento 5 Stelle",
+  "entityType": "ORGANISATION",
+  "description": "Movimento 5 Stelle, parti ou liste de ce pays : Italie, qui compte 8 députés européens dans la liste officielle de la législature 2024-2029.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-partis",
+  "sentencesExemples": [
+    "Les eurodéputés de « Movimento 5 Stelle » ont été élus en juin 2024.",
+    "« Movimento 5 Stelle » est représenté dans le Parlement européen.",
+    "Le programme européen de « Movimento 5 Stelle » a été publié avant le scrutin."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#ORGANISATION",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Movimento%205%20Stelle"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Giuseppe Antoci",
+    "Danilo Della Valle",
+    "Mario Furore",
+    "Carolina Morace",
+    "Valentina Palmisano",
+    "Gaetano Pedulla'",
+    "Dario Tamburrano",
+    "Pasquale Tridico",
+    "Italie",
+    "La Gauche au Parlement européen (GUE/NGL)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

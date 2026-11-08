@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (les services financiers) : Autorité européenne des assurances et des pensions professionnelles (AEAPP), organe de l'Union créé en 2011 et installé dans cette ville : Francfort-sur-le-Main.",
+  "id": "eu-ag-eiopa",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Autorité européenne des assurances et des pensions professionnelles (AEAPP)",
+  "entityType": "ORGANISATION",
+  "description": "Autorité européenne des assurances et des pensions professionnelles (AEAPP), organe de l'Union créé en 2011 et installé dans cette ville : Francfort-sur-le-Main.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Les décisions de « Autorité européenne des assurances et des pensions professionnelles (AEAPP) » touchent les services financiers.",
+    "Le rapport annuel de « Autorité européenne des assurances et des pensions professionnelles (AEAPP) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Autorité européenne des assurances et des pensions professionnelles (AEAPP) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "AEAPP"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#SERVICESFINANCIERS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Autorit%C3%A9%20europ%C3%A9enne%20des%20assurances%20et%20des%20pensions%20professionnelles%20%28AEAPP%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Francfort-sur-le-Main",
+    "Direction générale de la stabilité financière, des services financiers et de l'union des marchés des capitaux",
+    "Services financiers"
+  ],
+  "isDeleted": false,
+  "startDate": "2011-01-01T00:00:00",
+  "endDate": null
+}

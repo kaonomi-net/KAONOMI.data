@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-titane",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "titane",
+  "entityType": "MATERIAL",
+  "description": "Cité par 1 intel : Accord sur les minerais ukrainiens.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre l'accord entre Washington et Kyiv sur les ressources minérales."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "titane",
+  "tags": [
+    "#ETATS-UNIS",
+    "#UKRAINE",
+    "#MINERAIS"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "lithium",
+    "Ukraine",
+    "Kyiv",
+    "terres rares",
+    "fonds d'investissement",
+    "Washington",
+    "accord sur les minerais"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

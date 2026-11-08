@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (la gestion des mots de passe) : Gestionnaire de mots de passe libre qui chiffre ses bases localement.",
+  "id": "cyber-keepass",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "KeePass",
+  "entityType": "SOFTWARE",
+  "description": "Gestionnaire de mots de passe libre qui chiffre ses bases localement.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "Le rapport d'incident cite KeePass à plusieurs reprises.",
+    "L'analyste a utilisé KeePass pendant l'enquête.",
+    "Les historiens de l'informatique considèrent KeePass comme une étape de la gestion des mots de passe."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "KeePass Password Safe"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#GESTIONMOTSPASSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=KeePass"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AES",
+    "Argon2"
+  ],
+  "isDeleted": false,
+  "startDate": "2003-01-01T00:00:00",
+  "endDate": null
+}

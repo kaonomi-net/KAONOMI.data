@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Parti national libéral (PNL), parti politique de ce pays : Roumanie.",
+  "id": "eu-parti-pnl",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti national libéral (PNL)",
+  "entityType": "ORGANISATION",
+  "description": "Parti national libéral (PNL), parti politique de ce pays : Roumanie. Il est affilié à la famille Parti populaire européen (PPE).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Le rapport annuel de « Parti national libéral (PNL) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Parti national libéral (PNL) ».",
+    "Les décisions de « Parti national libéral (PNL) » touchent la vie politique nationale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20national%20lib%C3%A9ral%20%28PNL%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Roumanie",
+    "Parti populaire européen (PPE)",
+    "Adina Vălean"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-campagnes",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "campagnes",
+  "entityType": "EVENT",
+  "description": "Cité par 7 intels : Viginum ; Mois européen de la cybersécurité ; Santé mentale grande cause nationale 2026 ; Stigmatisation des troubles psychiques ; Violences éducatives ordinaires ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre les rapports de Viginum sur les manipulations de l'information.",
+    "Suivre le mois européen de la cybersécurité.",
+    "Suivre les actions de la santé mentale, grande cause nationale prolongée en 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "campagnes",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#CYBERSECURITE",
+    "#FRANCE",
+    "#SANTE-MENTALE",
+    "#PREVENTION-SUICIDE",
+    "#DESINFORMATION"
+  ],
+  "events": [
+    "@CAMPAGNE",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!PREVENTION",
+    "!INGERENCE",
+    "!FORMATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "associations",
+    "Belgique",
+    "prévention du suicide",
+    "Paris",
+    "réseaux sociaux",
+    "Viginum",
+    "SGDSN",
+    "manipulation",
+    "Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

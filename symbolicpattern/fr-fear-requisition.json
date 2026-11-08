@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-requisition",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La mise au service de la guerre des biens et des personnes.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]quisition(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]quisitionn(er|[ée]|[ée]e|[ée]s)|[ée]conomie\\s+de\\s+guerre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:effort\\s+de\\s+guerre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:loi\\s+de\\s+mobilisation)(?![\\w-])"
+  ],
+  "symbol": "réquisition",
+  "event": null,
+  "title": "Réquisition",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

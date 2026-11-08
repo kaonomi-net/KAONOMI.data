@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-mauritanie",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "Mauritanie",
+  "entityType": "COUNTRY",
+  "description": "Cité par 1 intel : Partenariats migratoires avec des pays tiers.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-country",
+  "sentencesExemples": [
+    "Suivre les accords migratoires avec la Tunisie, l'Égypte, la Libye et d'autres."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Mauritanie",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#MIGRATION",
+    "#PARTENARIATS"
+  ],
+  "events": [],
+  "signals": [
+    "!MIGRATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "financement",
+    "droits humains",
+    "Égypte",
+    "départs",
+    "pays tiers",
+    "Tunisie",
+    "partenariat migratoire"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

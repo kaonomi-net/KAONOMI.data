@@ -1,0 +1,13 @@
+{
+  "index": 70,
+  "file": "090-mathematiques-qu-est-ce-que-le-nombre.prompt.json",
+  "prompt": "Qu'est-ce que le nombre d'or ?",
+  "promptWords": 6,
+  "completion": "Le nombre d'or, souvent désigné par la lettre grecque φ (phi), est une proportion mathématique qui apparaît dans divers domaines, notamment en mathématiques, en art, en architecture et en nature. Il est défini comme le nombre positif solution de l'équation :\n\nφ = 1 + 1/φ\n\nou encore comme le nombre dont le rapport avec sa partie unité est égal au rapport de l'ensemble à la partie :\n\nφ / 1 = (1 + φ) / φ\n\nLa valeur numérique du nombre d'or est approximativement 1,6180339887...\n\n### Propriétés et caractéristiques :\n1. **Proportion divine** : Le nombre d'or est souvent appelé \"proportion divine\" en raison de son apparition dans des formes esthétiques harmonieuses.\n2. **Suite de Fibonacci** : Il est étroitement lié à la suite de Fibonacci, où chaque terme est la somme des deux précédents. Le rapport entre deux termes consécutifs de cette suite tend vers φ lorsque les termes deviennent grands.\n3. **Applications** : Il est utilisé en art, en architecture (comme dans le Parthénon), en musique, et même en biologie (disposition des feuilles, coquillages, etc.).\n\n### Exemple concret :\nSi vous divisez une ligne en deux parties, a et b, de telle sorte que le rapport de la ligne entière à la partie la plus grande (a) est égal au rapport de la partie la plus grande (a) à la partie la plus petite (b), alors vous avez le nombre d'or :\n\n(a + b) / a = a / b = φ\n\nLe nombre d'or est donc un concept fascinant qui relie les mathématiques à l'esthétique et à la nature.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:28:55.0735189+02:00",
+  "durationSeconds": 8.6,
+  "stats": "mistral-small3.2:latest · 516 + 365 tokens · 8,6 s",
+  "isError": false,
+  "language": "FR"
+}

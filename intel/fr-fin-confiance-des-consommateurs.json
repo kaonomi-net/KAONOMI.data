@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-confiance-des-consommateurs",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Confiance des consommateurs",
+  "includedEntities": [
+    {
+      "entityName": "confiance des consommateurs",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "ménages",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le moral des ménages.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "publication mensuelle"
+  ],
+  "relatedEntities": [
+    "consommation",
+    "épargne",
+    "inflation"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quelle évolution ?",
+    "Quel effet sur la consommation ?"
+  ],
+  "tags": [
+    "#ECONOMIE",
+    "#CONSOMMATION"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

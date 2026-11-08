@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'équité intergénérationnelle) : Ancien chef du secrétariat chargé des affaires européennes du Premier ministre maltais, commissaire à l'Équité intergénérationnelle, à la Jeunesse, à la Culture et au Sport depuis 2024.",
+  "id": "eu-p-micallef",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Glenn Micallef",
+  "entityType": "PERSON",
+  "description": "Ancien chef du secrétariat chargé des affaires européennes du Premier ministre maltais, commissaire à l'Équité intergénérationnelle, à la Jeunesse, à la Culture et au Sport depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Glenn Micallef.",
+    "Les manuels sur les institutions européennes citent Glenn Micallef.",
+    "Le portrait de Glenn Micallef figure dans le dossier consacré à l'équité intergénérationnelle."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Micallef"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#EQUITEINTERGENERATIONNELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Glenn%20Micallef"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité maltaise",
+    "Haut fonctionnaire national",
+    "Commissaire européen",
+    "Équité intergénérationnelle, jeunesse, culture et sport (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Équité intergénérationnelle",
+    "Jeunesse",
+    "Culture",
+    "Sport",
+    "Direction générale de l'éducation, de la jeunesse, du sport et de la culture"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-propositions-de-loi-adoptees",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Propositions de loi adoptées",
+  "includedEntities": [
+    {
+      "entityName": "proposition de loi",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "adoptée",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les propositions de loi votées par le Parlement.",
+  "isFuzzy": true,
+  "locations": [
+    "Parlement"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "niche parlementaire",
+    "groupes",
+    "vote"
+  ],
+  "questions": [
+    "Quel texte ?",
+    "Quel groupe l'a porté ?",
+    "Quelle majorité ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PARLEMENT",
+    "#LOI"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

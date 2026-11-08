@@ -1,0 +1,13 @@
+{
+  "index": 507,
+  "file": "0507-recherche-operationnelle-qu-est-ce-que-la-programmation.prompt.json",
+  "prompt": "Qu'est-ce que la programmation par contraintes ?",
+  "promptWords": 7,
+  "completion": "La programmation par contraintes (ou *Constraint Programming* en anglais) est un paradigme de programmation utilisé pour résoudre des problèmes de satisfaction de contraintes. Elle consiste à définir un ensemble de variables, des domaines de valeurs possibles pour ces variables, et un ensemble de contraintes qui doivent être satisfaites simultanément. L'objectif est de trouver des affectations de valeurs aux variables qui respectent toutes les contraintes.\n\n### Principaux concepts :\n1. **Variables** : Représentent les inconnues du problème.\n2. **Domaines** : Ensemble des valeurs possibles pour chaque variable.\n3. **Contraintes** : Conditions qui doivent être satisfaites par les variables. Elles peuvent être des relations entre variables (par exemple, \\( x < y \\)) ou des fonctions (par exemple, \\( x + y = z \\)).\n\n### Exemple simple :\nConsidérons un problème de coloration de graphes où chaque sommet doit être colorié avec une couleur différente de ses voisins. On peut modéliser ce problème avec :\n- Des variables représentant les sommets.\n- Des domaines représentant les couleurs disponibles.\n- Des contraintes indiquant que deux sommets adjacents ne peuvent pas avoir la même couleur.\n\n### Avantages :\n- **Déclaratif** : On décrit le problème plutôt que de spécifier comment le résoudre.\n- **Flexible** : Permet de modéliser des problèmes complexes avec des contraintes variées.\n- **Efficace** : Les solveurs de contraintes utilisent des techniques avancées pour explorer l'espace des solutions de manière intelligente.\n\n### Applications :\n- Planification et ordonnancement.\n- Logistique et transport.\n- Résolution de puzzles (comme le Sudoku).\n- Optimisation de ressources.\n\nLa programmation par contraintes est souvent implémentée avec des bibliothèques spécialisées comme *MiniZinc*, *Choco*, ou *Google OR-Tools*.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:58:21.7096744+02:00",
+  "durationSeconds": 7.86,
+  "stats": "mistral-small3.2:latest · 517 + 385 tokens · 7,9 s",
+  "isError": false,
+  "language": "FR"
+}

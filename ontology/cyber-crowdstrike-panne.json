@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (la résilience) : Une mise à jour défectueuse de l'agent CrowdStrike Falcon fait planter environ 8,5 millions de machines Windows dans le monde.",
+  "id": "cyber-crowdstrike-panne",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Panne mondiale CrowdStrike",
+  "entityType": "EVENT",
+  "description": "Une mise à jour défectueuse de l'agent CrowdStrike Falcon fait planter environ 8,5 millions de machines Windows dans le monde.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "Les journaux de l'époque ont largement commenté l'événement « Panne mondiale CrowdStrike ».",
+    "L'événement « Panne mondiale CrowdStrike » a marqué durablement l'histoire de la résilience.",
+    "La frise chronologique de la salle de formation place « Panne mondiale CrowdStrike » en bonne place."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 1,
+  "happyLevel": 0,
+  "fearLevel": 2,
+  "surpriseLevel": 4,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "incident CrowdStrike"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#RESILIENCE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Panne%20mondiale%20CrowdStrike"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "BitLocker"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-07-19T00:00:00",
+  "endDate": "2024-07-19T00:00:00"
+}

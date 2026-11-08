@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la politique de concurrence) : Contrôle des ententes, des abus de position dominante, des concentrations et des aides d'État.",
+  "id": "eu-dom-concurrence",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Concurrence",
+  "entityType": "DOMAIN",
+  "description": "Contrôle des ententes, des abus de position dominante, des concentrations et des aides d'État.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Concurrence » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Concurrence ».",
+    "Plusieurs commissaires ont été chargés du domaine « Concurrence »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#POLITIQUECONCURRENCE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Concurrence"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Une Europe adaptée à l'ère du numérique et concurrence (Commission von der Leyen I)",
+    "Margrethe Vestager",
+    "Transition propre, juste et compétitive (Commission von der Leyen II)",
+    "Teresa Ribera",
+    "Concurrence (Commission Juncker)",
+    "Direction générale de la concurrence",
+    "Règlement sur les marchés numériques"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

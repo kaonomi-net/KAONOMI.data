@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-groupe-des-conservateurs-et-reformistes",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Groupe des Conservateurs et réformistes",
+  "includedEntities": [
+    {
+      "entityName": "Conservateurs et réformistes",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "ECR",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la position du groupe ECR face à la Commission.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Fratelli d'Italia",
+    "Droit et justice",
+    "votes"
+  ],
+  "questions": [
+    "Quel vote ?",
+    "Quel soutien ?",
+    "Quelle rupture ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#ECR"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

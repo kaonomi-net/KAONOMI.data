@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-nouveau-modele-gemini-de-google",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Nouveau modèle Gemini de Google",
+  "includedEntities": [
+    {
+      "entityName": "Gemini",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Google",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "DeepMind",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'évolution de la famille Gemini et son intégration aux produits Google.",
+  "isFuzzy": false,
+  "locations": [
+    "Mountain View",
+    "Londres"
+  ],
+  "times": [
+    "conférence Google I/O"
+  ],
+  "relatedEntities": [
+    "Demis Hassabis",
+    "Sundar Pichai",
+    "Android"
+  ],
+  "questions": [
+    "Quels produits intègrent Gemini ?",
+    "Est-il multimodal ?",
+    "Quelle disponibilité en France ?"
+  ],
+  "tags": [
+    "#IA",
+    "#LLM",
+    "#GOOGLE"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!NOUVEAUTE"
+  ],
+  "isDeleted": false
+}

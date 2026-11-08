@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la vie politique européenne) : Journaliste italien, président du Parlement européen de 2019 à son décès en janvier 2022.",
+  "id": "eu-p-sassoli",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "David Sassoli",
+  "entityType": "PERSON",
+  "description": "Journaliste italien, président du Parlement européen de 2019 à son décès en janvier 2022.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-dirigeants",
+  "sentencesExemples": [
+    "Le portrait de David Sassoli figure dans le dossier consacré à la vie politique européenne.",
+    "La presse européenne a longuement commenté le parcours de David Sassoli.",
+    "Les manuels sur les institutions européennes citent David Sassoli."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Sassoli"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#VIEPOLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=David%20Sassoli"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité italienne",
+    "Parti démocrate (PD)",
+    "Journaliste",
+    "Député européen",
+    "Président du Parlement européen",
+    "Parlement européen",
+    "Roberta Metsola",
+    "Décès de David Sassoli"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

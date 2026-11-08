@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la Commission européenne) : Commission Marín (intérim), collège des commissaires présidé par Manuel Marín, en fonction du 16 mars 1999 au 16 septembre 1999.",
+  "id": "eu-col-marin",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission Marín (intérim)",
+  "entityType": "ORGANISATION",
+  "description": "Commission Marín (intérim), collège des commissaires présidé par Manuel Marín, en fonction du 16 mars 1999 au 16 septembre 1999.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-colleges",
+  "sentencesExemples": [
+    "« Commission Marín (intérim) » joue un rôle dans la Commission européenne.",
+    "Les fonctionnaires de « Commission Marín (intérim) » préparent les textes relatifs à la Commission européenne.",
+    "La délégation a rencontré des représentants de « Commission Marín (intérim) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20Mar%C3%ADn%20%28int%C3%A9rim%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Manuel Marín",
+    "Commission européenne",
+    "Commission Santer",
+    "Commission Prodi",
+    "Présidence de la Commission (intérim) (Commission Marín (intérim))"
+  ],
+  "isDeleted": false,
+  "startDate": "1999-03-16T00:00:00",
+  "endDate": "1999-09-16T00:00:00"
+}

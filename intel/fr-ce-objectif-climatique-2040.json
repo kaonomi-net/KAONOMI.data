@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-objectif-climatique-2040",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Objectif climatique 2040",
+  "includedEntities": [
+    {
+      "entityName": "objectif 2040",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "90 %",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "émissions",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'objectif de réduction de 90 % des émissions d'ici 2040.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "crédits internationaux",
+    "États membres",
+    "loi climat"
+  ],
+  "questions": [
+    "Quelle flexibilité ?",
+    "Quels crédits carbone ?",
+    "Quelle adoption ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#CLIMAT",
+    "#OBJECTIF-2040"
+  ],
+  "events": [],
+  "signals": [
+    "!CLIMAT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-emeutes-urbaines",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Émeutes urbaines",
+  "includedEntities": [
+    {
+      "entityName": "émeutes",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "violences urbaines",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les émeutes et violences urbaines.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "quartiers",
+    "police",
+    "réseaux sociaux"
+  ],
+  "questions": [
+    "Quelle ville ?",
+    "Quel déclencheur ?",
+    "Quel bilan ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SECURITE",
+    "#EMEUTES"
+  ],
+  "events": [
+    "@EMEUTES"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-prix-de-l-energie-en-france",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Prix de l'énergie en France",
+  "includedEntities": [
+    {
+      "entityName": "prix de l'énergie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "électricité",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "carburant",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prix de l'électricité, du gaz et des carburants.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "EDF",
+    "tarif réglementé",
+    "taxes"
+  ],
+  "questions": [
+    "Quelle hausse ?",
+    "Quelles mesures ?",
+    "Quel impact sur les ménages ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#ENERGIE",
+    "#POUVOIR-ACHAT"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

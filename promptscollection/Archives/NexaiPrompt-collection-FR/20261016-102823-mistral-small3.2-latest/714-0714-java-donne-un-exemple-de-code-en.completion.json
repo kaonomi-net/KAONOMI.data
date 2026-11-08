@@ -1,0 +1,13 @@
+{
+  "index": 714,
+  "file": "0714-java-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Java qui illustre la gestion des exceptions.",
+  "promptWords": 13,
+  "completion": "Voici un exemple de code en Java qui illustre la gestion des exceptions. Ce code montre comment gérer une exception qui peut survenir lors de la division de deux nombres :\n\n```java\npublic class GestionExceptions {\n    public static void main(String[] args) {\n        try {\n            int resultat = diviser(10, 0);\n            System.out.println(\"Résultat de la division : \" + resultat);\n        } catch (ArithmeticException e) {\n            System.out.println(\"Erreur : Division par zéro !\");\n        } finally {\n            System.out.println(\"Bloc finally exécuté.\");\n        }\n    }\n\n    public static int diviser(int a, int b) throws ArithmeticException {\n        if (b == 0) {\n            throw new ArithmeticException(\"Division par zéro interdite.\");\n        }\n        return a / b;\n    }\n}\n```\n\n### Explications :\n1. **Bloc `try`** : Le code susceptible de lever une exception est placé dans ce bloc.\n2. **Bloc `catch`** : Ce bloc capture l'exception spécifique (`ArithmeticException`) et définit une action à exécuter en cas d'erreur.\n3. **Bloc `finally`** : Ce bloc s'exécute toujours, que l'exception soit levée ou non.\n4. **Méthode `diviser`** : Cette méthode lève une exception si le diviseur est zéro.\n\nDans cet exemple, si vous essayez de diviser par zéro, l'exception `ArithmeticException` sera capturée et un message d'erreur sera affiché. Le bloc `finally` s'exécutera dans tous les cas.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:54:53.2572975+02:00",
+  "durationSeconds": 6.9,
+  "stats": "mistral-small3.2:latest · 523 + 340 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

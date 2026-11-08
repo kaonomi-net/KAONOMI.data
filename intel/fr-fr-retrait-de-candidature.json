@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-retrait-de-candidature",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Retrait de candidature",
+  "includedEntities": [
+    {
+      "entityName": "retrait",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "candidature",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "présidentielle",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les retraits ou renoncements de candidats.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ralliement",
+    "sondages",
+    "partis"
+  ],
+  "questions": [
+    "Qui se retire ?",
+    "Au profit de qui ?",
+    "Pourquoi ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#CANDIDATS"
+  ],
+  "events": [
+    "@RETRAIT"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

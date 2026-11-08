@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la gestion des crises) : Mécanisme de protection civile de l'Union et préparation aux catastrophes.",
+  "id": "eu-dom-crises",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Gestion des crises",
+  "entityType": "DOMAIN",
+  "description": "Mécanisme de protection civile de l'Union et préparation aux catastrophes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Gestion des crises » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Gestion des crises » passent par le Parlement et le Conseil.",
+    "La conférence portait sur la gestion des crises."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#GESTIONCRISES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Gestion%20des%20crises"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Gestion des crises (Commission von der Leyen I)",
+    "Janez Lenarčič",
+    "Préparation et gestion des crises ; égalité (Commission von der Leyen II)",
+    "Hadja Lahbib",
+    "Aide humanitaire et gestion des crises (Commission Juncker)",
+    "Christos Stylianides",
+    "Coopération internationale, aide humanitaire et réaction aux crises (Commission Barroso II)",
+    "Kristalina Georgieva",
+    "Direction générale de la protection civile et des opérations d'aide humanitaire européennes",
+    "Autorité de préparation et de réaction en cas d'urgence sanitaire",
+    "rescEU",
+    "Pandémie de COVID-19 en Europe"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

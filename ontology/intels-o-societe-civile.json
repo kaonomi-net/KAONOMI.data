@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-societe-civile",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "société civile",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Candidats hors partis.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les candidatures venues de la société civile."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "société civile",
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#CANDIDATS"
+  ],
+  "events": [
+    "@CANDIDATURE"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "candidat",
+    "parrainages",
+    "indépendant",
+    "personnalités médiatiques",
+    "chefs d'entreprise"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 61,
+  "file": "061-empathie-my-cat-is-sick-and-i.prompt.json",
+  "prompt": "My cat is sick and I'm worried.",
+  "promptWords": 7,
+  "completion": "I'm sorry to hear that your cat is not feeling well. It's important to take your cat's health seriously. Here are some steps you can take:\n\n1. **Monitor Symptoms**: Keep a close eye on your cat's symptoms. Note any changes in behavior, appetite, or physical condition.\n\n2. **Contact a Vet**: If your cat's condition is serious or worsening, it's best to contact a veterinarian. They can provide professional advice and treatment.\n\n3. **First Aid**: If it's an emergency and you need immediate advice, you can call a pet poison control hotline or an emergency vet clinic.\n\n4. **Hydration and Comfort**: Ensure your cat has access to fresh water and a comfortable place to rest.\n\nIf you can provide more details about your cat's symptoms, I might be able to offer more specific advice. However, please remember that I am not a substitute for professional veterinary care.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:04:13.2922028+02:00",
+  "durationSeconds": 3.97,
+  "stats": "mistral-small3.2:latest · 516 + 189 tokens · 4,0 s",
+  "isError": false,
+  "language": "EN"
+}

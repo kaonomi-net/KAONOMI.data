@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-drones-au-dessus-des-aeroports-europeens",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Drones au-dessus des aéroports européens",
+  "includedEntities": [
+    {
+      "entityName": "drones",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "aéroport",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Repérer les survols de drones fermant des aéroports en Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "Copenhague",
+    "Munich",
+    "Oslo"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "police",
+    "armée",
+    "Russie"
+  ],
+  "questions": [
+    "Quel aéroport ?",
+    "Quelle durée de fermeture ?",
+    "Qui est soupçonné ?"
+  ],
+  "tags": [
+    "#EUROPE",
+    "#DRONES",
+    "#GUERRE-HYBRIDE"
+  ],
+  "events": [
+    "@FERMETURE-AEROPORT"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

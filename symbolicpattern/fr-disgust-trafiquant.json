@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-trafiquant",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Celui qui fait un commerce illégal.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:trafiquant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:trafic(s)?\\s+d['’]organes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:trafic(s)?\\s+d['’][êe]tres\\s+humains)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:traite\\s+humaine)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:passeur(s)?\\s+sans\\s+scrupules)(?![\\w-])"
+  ],
+  "symbol": "trafiquant",
+  "event": null,
+  "title": "Trafiquant",
+  "tags": [
+    "#DISGUST",
+    "#MORAL",
+    "#CRIME"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

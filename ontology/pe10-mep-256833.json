@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:22:39.974473+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Député européen du Parlement européen (le Parlement européen) : Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Autriche.",
+  "id": "pe10-mep-256833",
+  "dateCreated": "2026-10-31 20:22:44",
+  "name": "Lena Schilling",
+  "entityType": "PERSON",
+  "description": "Membre du Parlement européen pour la législature 2024-2029, au titre de ce pays : Autriche. Groupe politique : Les Verts/Alliance libre européenne. Parti ou liste national : Die Grünen - Die Grüne Alternative.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "pe10-deputes",
+  "sentencesExemples": [
+    "Les électeurs peuvent écrire à Lena Schilling au Parlement européen.",
+    "La fiche officielle de Lena Schilling est publiée sur le site du Parlement européen.",
+    "Lors de la session plénière à Strasbourg, Lena Schilling a pris la parole."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Lena SCHILLING"
+  ],
+  "title": "",
+  "tags": [
+    "#PARLEMENTEUROPEEN2024",
+    "#PERSON",
+    "#PARLEMENTEUROPEEN"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://www.europarl.europa.eu/meps/fr/256833",
+    "https://fr.wikipedia.org/w/index.php?search=Lena%20Schilling"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Député européen",
+    "Autriche",
+    "Parlement européen",
+    "Les Verts/Alliance libre européenne",
+    "Die Grünen - Die Grüne Alternative"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

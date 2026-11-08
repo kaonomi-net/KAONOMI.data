@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-microsoft-et-la-securite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Microsoft et la sécurité",
+  "includedEntities": [
+    {
+      "entityName": "Microsoft",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "sécurité",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les incidents et engagements de sécurité de Microsoft.",
+  "isFuzzy": true,
+  "locations": [
+    "Redmond"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Secure Future Initiative",
+    "Exchange",
+    "Azure"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quel engagement ?",
+    "Quelle critique ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ENTREPRISES",
+    "#MICROSOFT"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFIANCE"
+  ],
+  "isDeleted": false
+}

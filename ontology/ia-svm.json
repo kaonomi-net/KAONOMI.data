@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (la classification) : Classifieurs à marge maximale qui utilisent l'astuce du noyau pour séparer des données non linéaires, formalisés par Cortes et Vapnik.",
+  "id": "ia-svm",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Machines à vecteurs de support",
+  "entityType": "ALGORITHM",
+  "description": "Classifieurs à marge maximale qui utilisent l'astuce du noyau pour séparer des données non linéaires, formalisés par Cortes et Vapnik.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Comprendre Machines à vecteurs de support est une étape clé pour maîtriser la classification.",
+    "Dans le domaine de la classification, Machines à vecteurs de support reste une référence.",
+    "Pour ce projet, l'équipe a implémenté Machines à vecteurs de support en quelques lignes de Python."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "SVM",
+    "séparateurs à vaste marge"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#CLASSIFICATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Machines%20%C3%A0%20vecteurs%20de%20support"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Vladimir Vapnik",
+    "scikit-learn"
+  ],
+  "isDeleted": false,
+  "startDate": "1995-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-mepris",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le sentiment qu'autrui ne vaut rien.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:m[ée]pris)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[ée]prisant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]dain(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]daigneu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:condescendance(s)?)(?![\\w-])"
+  ],
+  "symbol": "mépris",
+  "event": null,
+  "title": "Mépris",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

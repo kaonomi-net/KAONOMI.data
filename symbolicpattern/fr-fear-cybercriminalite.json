@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-cybercriminalite",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les crimes commis sur internet.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cybercriminalit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cybercriminel(le|s|les)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dark\\s+web)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:darknet)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:march[ée](s)?\\s+noir(s)?\\s+num[ée]rique(s)?)(?![\\w-])"
+  ],
+  "symbol": "cybercriminalité",
+  "event": null,
+  "title": "Cybercriminalité",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

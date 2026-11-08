@@ -1,0 +1,13 @@
+{
+  "index": 125,
+  "file": "0125-microsoft-office-comment-creer-une-liste-deroulante-dans.prompt.json",
+  "prompt": "Comment créer une liste déroulante dans Excel ?",
+  "promptWords": 8,
+  "completion": "Pour créer une liste déroulante dans Excel, vous pouvez suivre ces étapes :\n\n### Méthode 1 : Utiliser la validation des données\n\n1. **Sélectionnez la cellule** où vous souhaitez créer la liste déroulante.\n2. **Allez dans l'onglet \"Données\"** dans le ruban.\n3. **Cliquez sur \"Validation des données\"** dans le groupe \"Outils de données\".\n4. **Dans l'onglet \"Paramètres\"**, choisissez **\"Liste\"** dans le champ \"Autoriser\".\n5. **Dans le champ \"Source\"**, entrez les éléments de votre liste séparés par des virgules ou sélectionnez une plage de cellules contenant les éléments de la liste.\n6. **Cliquez sur \"OK\"**.\n\n### Méthode 2 : Utiliser une plage de cellules comme source\n\n1. **Créez une liste des éléments** que vous souhaitez inclure dans la liste déroulante dans une autre feuille ou une autre partie de la feuille.\n2. **Sélectionnez la cellule** où vous souhaitez créer la liste déroulante.\n3. **Allez dans l'onglet \"Données\"** et cliquez sur **\"Validation des données\"**.\n4. **Dans l'onglet \"Paramètres\"**, choisissez **\"Liste\"** dans le champ \"Autoriser\".\n5. **Cliquez sur la flèche dans le champ \"Source\"** et sélectionnez la plage de cellules contenant votre liste.\n6. **Cliquez sur \"OK\"**.\n\n### Exemple de liste déroulante avec des éléments séparés par des virgules\n\nSi vous souhaitez créer une liste déroulante avec les éléments \"Oui\", \"Non\", \"Peut-être\", vous pouvez entrer directement dans le champ \"Source\" :\n```\nOui, Non, Peut-être\n```\n\n### Remarque\n\n- Les listes déroulantes sont utiles pour standardiser les entrées et réduire les erreurs.\n- Vous pouvez également utiliser des formules pour générer dynamiquement les éléments de la liste déroulante.\n\nSi vous avez besoin d'aide supplémentaire ou d'exemples plus spécifiques, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:51:57.7488471+02:00",
+  "durationSeconds": 9.33,
+  "stats": "mistral-small3.2:latest · 517 + 458 tokens · 9,3 s",
+  "isError": false,
+  "language": "FR"
+}

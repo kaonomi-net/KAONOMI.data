@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la démocratie européenne) : Commission des pétitions du Parlement européen, chargée de la démocratie européenne.",
+  "id": "eu-pe-peti",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission des pétitions (PETI)",
+  "entityType": "ORGANISATION",
+  "description": "Commission des pétitions du Parlement européen, chargée de la démocratie européenne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Commission des pétitions (PETI) ».",
+    "Les décisions de « Commission des pétitions (PETI) » touchent la démocratie européenne.",
+    "Le rapport annuel de « Commission des pétitions (PETI) » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "PETI"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#DEMOCRATIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20des%20p%C3%A9titions%20%28PETI%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Démocratie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

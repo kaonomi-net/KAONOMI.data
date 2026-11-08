@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (les accélérateurs d'IA) : Puce d'Amazon Web Services dédiée à l'entraînement des modèles d'apprentissage profond.",
+  "id": "ia-trainium",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "AWS Trainium",
+  "entityType": "HARDWARE",
+  "description": "Puce d'Amazon Web Services dédiée à l'entraînement des modèles d'apprentissage profond.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "La fiche technique de AWS Trainium détaille ses performances.",
+    "Pour ce projet d'IA, l'équipe a comparé AWS Trainium à d'autres solutions matérielles.",
+    "AWS Trainium a marqué l'histoire du matériel consacré aux accélérateurs d'IA."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Trainium"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#ACCELERATEURSIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=AWS%20Trainium"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NVIDIA H100"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-01-01T00:00:00",
+  "endDate": null
+}

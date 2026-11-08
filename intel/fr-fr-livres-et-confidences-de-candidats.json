@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-livres-et-confidences-de-candidats",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Livres et confidences de candidats",
+  "includedEntities": [
+    {
+      "entityName": "livre",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "candidat",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les livres publiés par les candidats ou sur eux.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "éditeurs",
+    "révélations",
+    "promotion"
+  ],
+  "questions": [
+    "Quel livre ?",
+    "Quelles révélations ?",
+    "Quel écho ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#CAMPAGNE",
+    "#MEDIAS"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

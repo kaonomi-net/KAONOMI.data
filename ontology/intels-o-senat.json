@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-senat",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "Sénat",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 8 intels : Sanctions du Congrès américain contre la Russie ; Macron et la fin de vie ; Sénat et la loi de finances ; Accords entre le gouvernement et LR ; Commissions d'enquête parlementaires ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les projets de loi de sanctions au Congrès américain.",
+    "Suivre la loi sur la fin de vie et l'aide à mourir.",
+    "Suivre l'examen du budget au Sénat à partir du 20 novembre 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Sénat",
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#SENAT",
+    "#PARLEMENT",
+    "#ETATS-UNIS",
+    "#SANCTIONS"
+  ],
+  "events": [
+    "@VOTE",
+    "@RAPPORT",
+    "@REJET-BUDGET"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE",
+    "!DEBAT",
+    "!BUDGET"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Assemblée nationale",
+    "gouvernement",
+    "budget",
+    "Washington",
+    "droits de douane",
+    "sanctions",
+    "Congrès",
+    "Lindsey Graham",
+    "Russie",
+    "médecins"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

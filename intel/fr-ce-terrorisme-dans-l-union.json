@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-terrorisme-dans-l-union",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Terrorisme dans l'Union",
+  "includedEntities": [
+    {
+      "entityName": "terrorisme",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "attentat",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la menace terroriste dans l'Union européenne.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Europol",
+    "radicalisation",
+    "contenus en ligne"
+  ],
+  "questions": [
+    "Quel attentat ?",
+    "Quelle menace ?",
+    "Quelle réponse européenne ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#TERRORISME",
+    "#SECURITE"
+  ],
+  "events": [
+    "@ATTENTAT"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

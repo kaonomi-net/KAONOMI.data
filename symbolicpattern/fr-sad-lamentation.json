@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-lamentation",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La plainte de celui qui souffre.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:lamentation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lament(er|e|ent|[ée]|able|ables))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:g[ée]mi(r|t|ssent|ssement|ssements))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plainte(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:j[ée]r[ée]miade(s)?)(?![\\w-])"
+  ],
+  "symbol": "lamentation",
+  "event": null,
+  "title": "Lamentation",
+  "tags": [
+    "#TRISTESSE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

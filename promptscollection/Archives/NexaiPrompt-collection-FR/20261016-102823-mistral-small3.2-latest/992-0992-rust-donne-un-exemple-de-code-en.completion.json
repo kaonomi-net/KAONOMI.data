@@ -1,0 +1,13 @@
+{
+  "index": 992,
+  "file": "0992-rust-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Rust qui illustre l'emprunt.",
+  "promptWords": 10,
+  "completion": "Voici un exemple de code en Rust qui illustre le concept d'emprunt (borrowing) :\n\n```rust\nfn main() {\n    let s1 = String::from(\"hello\");\n\n    // Emprunt immuable\n    let len = calculate_length(&s1);\n    println!(\"Length of '{}' is {}.\", s1, len);\n\n    // Emprunt mutable\n    let mut s2 = String::from(\"hello\");\n    change_string(&mut s2);\n    println!(\"The string is now {}.\", s2);\n}\n\nfn calculate_length(s: &String) -> usize {\n    s.len()\n}\n\nfn change_string(s: &mut String) {\n    s.push_str(\", world\");\n}\n```\n\nExplications :\n1. `&s1` dans `calculate_length(&s1)` est un emprunt immuable (immutable borrow)\n2. `&mut s2` dans `change_string(&mut s2)` est un emprunt mutable (mutable borrow)\n3. Rust vérifie au moment de la compilation que les emprunts sont valides\n4. Un emprunt mutable empêche tout autre emprunt (immuable ou mutable) pendant sa durée de vie\n5. Un emprunt immuable permet plusieurs emprunts simultanés\n\nCe code montre comment Rust gère la mémoire de manière sûre grâce au système de vérification des emprunts.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T14:03:55.7928363+02:00",
+  "durationSeconds": 5.87,
+  "stats": "mistral-small3.2:latest · 523 + 285 tokens · 5,9 s",
+  "isError": false,
+  "language": "FR"
+}

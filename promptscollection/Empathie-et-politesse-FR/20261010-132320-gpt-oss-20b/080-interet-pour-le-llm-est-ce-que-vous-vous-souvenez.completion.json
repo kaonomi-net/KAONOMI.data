@@ -1,0 +1,13 @@
+{
+  "index": 80,
+  "file": "080-interet-pour-le-llm-est-ce-que-vous-vous-souvenez.prompt.json",
+  "prompt": "Est-ce que vous vous souvenez de moi ?",
+  "promptWords": 8,
+  "completion": "Je n’ai pas de mémoire personnelle entre les sessions, donc je ne peux pas me souvenir de nos échanges précédents. Mais je suis là pour vous aider dès maintenant\u202F! En quoi puis-je vous assister aujourd’hui\u202F?",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-10T13:27:26.123659+02:00",
+  "durationSeconds": 1.17,
+  "stats": "gpt-oss:20b · 77 + 136 tokens · 1,2 s",
+  "isError": false,
+  "language": "FR"
+}

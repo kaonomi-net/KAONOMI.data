@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-lachete",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le manque de courage.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:l[âa]chet[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:l[âa]che(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:couard(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]gonfl[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:poltron(ne|s|nes)?)(?![\\w-])"
+  ],
+  "symbol": "lâcheté",
+  "event": null,
+  "title": "Lâcheté",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

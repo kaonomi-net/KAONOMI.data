@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-nso",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "NSO",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Logiciels espions commerciaux.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'usage des logiciels espions commerciaux."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "NSO",
+  "tags": [
+    "#CYBERSECURITE",
+    "#SPYWARE",
+    "#VIE-PRIVEE"
+  ],
+  "events": [
+    "@REVELATION"
+  ],
+  "signals": [
+    "!SURVEILLANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paragon",
+    "journalistes",
+    "logiciel espion",
+    "Pegasus"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

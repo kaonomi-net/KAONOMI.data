@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-austin",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Austin",
+  "entityType": "CITY",
+  "description": "Cité par 3 intels : Tesla ; Oracle et le cloud IA ; CrowdStrike.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre l'action Tesla et ses paris sur les robots et la conduite autonome.",
+    "Suivre l'action Oracle et ses contrats de cloud pour l'IA.",
+    "Suivre CrowdStrike, ses résultats et ses incidents."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Austin",
+  "tags": [
+    "#BOURSE",
+    "#TECH",
+    "#TESLA",
+    "#IA",
+    "#CLOUD",
+    "#CYBERSECURITE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!VOLATILITE",
+    "!RISQUE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "robotaxis",
+    "Tesla",
+    "Optimus",
+    "Elon Musk",
+    "ventes",
+    "Stargate",
+    "OpenAI",
+    "dette",
+    "Oracle",
+    "cloud"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

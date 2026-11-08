@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-banja-luka",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Banja Luka",
+  "entityType": "CITY",
+  "description": "Cité par 1 intel : Bosnie-Herzégovine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre la situation de la Bosnie-Herzégovine et sa marche vers l'Union."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Banja Luka",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#BOSNIE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bosnie-Herzégovine",
+    "négociations",
+    "Sarajevo",
+    "réformes",
+    "Dodik",
+    "adhésion"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

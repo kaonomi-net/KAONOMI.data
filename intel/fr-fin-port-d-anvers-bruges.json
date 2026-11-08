@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-port-d-anvers-bruges",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Port d'Anvers-Bruges",
+  "includedEntities": [
+    {
+      "entityName": "port d'Anvers",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "trafic",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le trafic du port d'Anvers-Bruges, indicateur de l'économie belge.",
+  "isFuzzy": true,
+  "locations": [
+    "Anvers"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "conteneurs",
+    "chimie",
+    "droits de douane"
+  ],
+  "questions": [
+    "Quel trafic ?",
+    "Quelle tendance ?",
+    "Quel effet ?"
+  ],
+  "tags": [
+    "#ECONOMIE",
+    "#BELGIQUE",
+    "#LOGISTIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

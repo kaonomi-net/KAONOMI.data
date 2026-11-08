@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-adyen",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "Adyen",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : AEX et Bourse d'Amsterdam ; Spotify, Adyen et la tech européenne.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'indice néerlandais, porté par ASML.",
+    "Suivre les grandes valeurs technologiques européennes hors semi-conducteurs."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Adyen",
+  "tags": [
+    "#BOURSE",
+    "#PAYS-BAS",
+    "#TECH",
+    "#EUROPE"
+  ],
+  "events": [
+    "@SEANCE-BOURSE"
+  ],
+  "signals": [
+    "!MARCHE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Amsterdam",
+    "AEX",
+    "Shell",
+    "ASML",
+    "résultats",
+    "croissance",
+    "Spotify",
+    "valorisation",
+    "Stockholm"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

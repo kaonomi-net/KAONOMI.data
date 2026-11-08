@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-conflit-d-interets",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "conflit d'intérêts",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Lobbying et conflits d'intérêts ; République tchèque et Andrej Babiš.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les affaires de lobbying et de conflits d'intérêts.",
+    "Suivre la politique européenne du gouvernement tchèque."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "conflit d'intérêts",
+  "tags": [
+    "#FRANCE",
+    "#TRANSPARENCE",
+    "#LOBBYING",
+    "#UNION-EUROPEENNE",
+    "#TCHEQUIE"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSPARENCE",
+    "!POLITIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "entreprises",
+    "lobbying",
+    "ministres",
+    "HATVP",
+    "Ukraine",
+    "République tchèque",
+    "Prague",
+    "Andrej Babiš",
+    "fonds européens"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

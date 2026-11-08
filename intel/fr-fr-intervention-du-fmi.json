@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-intervention-du-fmi",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Intervention du FMI",
+  "includedEntities": [
+    {
+      "entityName": "FMI",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "France",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les mises en garde ou scénarios d'intervention du FMI.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "dette",
+    "rapport",
+    "alerte"
+  ],
+  "questions": [
+    "Quelle mise en garde ?",
+    "Quel scénario ?",
+    "Quelle réaction du gouvernement ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#DETTE",
+    "#FMI"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

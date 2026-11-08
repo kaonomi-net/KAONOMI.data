@@ -1,0 +1,13 @@
+{
+  "index": 17,
+  "file": "037-cuisine-comment-faire-du-pain-maison.prompt.json",
+  "prompt": "Comment faire du pain maison ?",
+  "promptWords": 6,
+  "completion": "Faire du pain maison est une activité gratifiante et relativement simple. Voici une recette de base pour un pain traditionnel :\n\n### Ingrédients :\n- 500 g de farine (type T55 ou T65)\n- 10 g de sel\n- 10 g de levure fraîche (ou 3 g de levure sèche)\n- 300 ml d'eau tiède\n- 1 cuillère à soupe d'huile d'olive (facultatif)\n\n### Étapes :\n\n1. **Préparation de la levure** :\n   - Si vous utilisez de la levure fraîche, émiettez-la dans un bol et ajoutez un peu d'eau tiède pour la dissoudre. Si vous utilisez de la levure sèche, mélangez-la directement avec l'eau tiède.\n\n2. **Mélange des ingrédients** :\n   - Dans un grand bol, mélangez la farine et le sel.\n   - Ajoutez le mélange de levure et d'eau tiède (et l'huile d'olive si vous en utilisez) à la farine.\n   - Mélangez jusqu'à obtenir une pâte homogène.\n\n3. **Pétrissage** :\n   - Pétrissez la pâte pendant environ 10 minutes à la main ou avec un robot pétrisseur. La pâte doit devenir élastique et lisse.\n\n4. **Première levée** :\n   - Placez la pâte dans un bol légèrement huilé, couvrez d'un torchon humide et laissez lever dans un endroit tiède pendant environ 1 à 2 heures, jusqu'à ce que la pâte ait doublé de volume.\n\n5. **Façonnage** :\n   - Dégazez la pâte en la pressant légèrement avec les poings.\n   - Façonnez-la en boule ou en baguette selon votre préférence.\n\n6. **Deuxième levée** :\n   - Placez la pâte façonnée sur une plaque de cuisson recouverte de papier sulfurisé, couvrez d'un torchon et laissez lever à nouveau pendant environ 30 minutes à 1 heure.\n\n7. **Cuisson** :\n   - Préchauffez votre four à 220°C (thermostat 7).\n   - Enfournez le pain et faites cuire pendant environ 25 à 30 minutes, jusqu'à ce qu'il soit bien doré.\n\n8. **Refroidissement** :\n   - Sortez le pain du four et laissez-le refroidir sur une grille avant de le couper.\n\n### Conseils :\n- Vous pouvez ajouter des graines (lin, sésame, tournesol) ou des herbes (romarin, thym) pour varier les saveurs.\n- Pour un pain plus croustillant, vaporisez de l'eau sur le pain avant de l'enfourner ou placez un bol d'eau dans le four pendant la cuisson.\n\nBon appétit ! \uD83C\uDF5E",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T18:18:32.0179696+02:00",
+  "durationSeconds": 14.32,
+  "stats": "mistral-small3.2:latest · 513 + 640 tokens · 14,3 s",
+  "isError": false,
+  "language": "FR"
+}

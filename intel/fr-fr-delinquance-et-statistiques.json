@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-delinquance-et-statistiques",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Délinquance et statistiques",
+  "includedEntities": [
+    {
+      "entityName": "délinquance",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "statistiques",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "chiffres",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les chiffres de la délinquance.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "publication annuelle"
+  ],
+  "relatedEntities": [
+    "ministère de l'Intérieur",
+    "cambriolages",
+    "violences"
+  ],
+  "questions": [
+    "Quelle évolution ?",
+    "Quelles catégories ?",
+    "Quel débat ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SECURITE",
+    "#INDICATEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

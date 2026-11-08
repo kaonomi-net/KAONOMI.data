@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-vigipirate",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le plan d'alerte contre le terrorisme.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vigipirate)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:urgence\\s+attentat)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:alerte\\s+attentat)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:niveau\\s+d['’]alerte\\s+maximal)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sentinelle)(?![\\w-])"
+  ],
+  "symbol": "vigipirate",
+  "event": null,
+  "title": "Vigipirate",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

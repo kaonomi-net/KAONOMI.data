@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-ligne-d-ecoute-1813",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Ligne d'écoute 1813",
+  "includedEntities": [
+    {
+      "entityName": "1813",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "prévention du suicide",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la ligne flamande de prévention du suicide et les lignes d'écoute belges.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Centre de prévention du suicide",
+    "Télé-Accueil",
+    "appels"
+  ],
+  "questions": [
+    "Combien d'appels ?",
+    "Quelle évolution ?",
+    "Quel financement ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BELGIQUE",
+    "#PREVENTION-SUICIDE"
+  ],
+  "events": [],
+  "signals": [
+    "!PREVENTION"
+  ],
+  "isDeleted": false
+}

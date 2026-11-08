@@ -1,0 +1,13 @@
+{
+  "index": 240,
+  "file": "0240-cybersecurite-explain-server-hardening-in-simple-terms.prompt.json",
+  "prompt": "Explain server hardening in simple terms.",
+  "promptWords": 6,
+  "completion": "**Server hardening** is simply making a computer that runs your services (like a web site or database) as safe as possible, so that attackers can’t break in or do bad stuff.\n\nThink of your server like a house:\n\n| House Feature | Server Counterpart | Why it matters |\n|---------------|--------------------|----------------|\n| Lock on the front door | Disable unused network ports & services | Fewer ways to get in |\n| Alarm system | Firewall rules that only allow trusted traffic | Stops unknown visitors |\n| Strong windows | Apply the latest security patches | Fixes known holes |\n| No spare keys | Remove unnecessary user accounts | Reduces chances of someone using a back‑door |\n| Good lighting | Log everything and review logs | Helps spot trouble early |\n| No open windows | Enable encryption (HTTPS, SSH keys) | Keeps data from being read on the way |\n| Regular maintenance | Keep the OS & software up‑to‑date | Keeps bugs fixed |\n\n### The basic steps\n\n1. **Keep the software up to date** – Install security patches as soon as they’re released.\n2. **Remove or disable things you don’t need** – Turn off services, close ports, and delete unused programs. Each extra piece of software is another possible entry point.\n3. **Use a firewall** – Block all traffic that isn’t explicitly allowed. Only let the traffic you really need in and out.\n4. **Strong authentication** – Use password‑less login (SSH keys, certificates) or enforce very strong passwords. Remove any “guest” or “anonymous” accounts.\n5. **Limit permissions** – Give each user and service only the files and actions it really needs (principle of least privilege).\n6. **Encrypt data** – Use HTTPS for web traffic, SSH for remote access, and encrypt sensitive data at rest.\n7. **Monitor and log** – Keep logs of logins, system changes, and errors. Review them regularly to spot unusual activity.\n8. **Back up** – Regularly back up critical data so you can recover if something goes wrong.\n\n### In a nutshell\n\nServer hardening is all about tightening the security “doors, windows, and walls” of a server so that an attacker has no easy way to get inside, no useful tools to use once inside, and no valuable data to steal. The fewer open doors and the stronger the locks, the safer your server is.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T20:54:54.8702925+02:00",
+  "durationSeconds": 5.85,
+  "stats": "gpt-oss:20b · 75 + 593 tokens · 5,8 s",
+  "isError": false,
+  "language": "EN"
+}

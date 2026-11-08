@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (la détection d'intrusion) : Système libre de détection et de prévention d'intrusion réseau créé par Martin Roesch.",
+  "id": "cyber-snort",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Snort",
+  "entityType": "SOFTWARE",
+  "description": "Système libre de détection et de prévention d'intrusion réseau créé par Martin Roesch.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "L'analyste a utilisé Snort pendant l'enquête.",
+    "Les historiens de l'informatique considèrent Snort comme une étape de la détection d'intrusion.",
+    "Le rapport d'incident cite Snort à plusieurs reprises."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Snort"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#DETECTIONINTRUSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Snort"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Dorothy Denning",
+    "Suricata"
+  ],
+  "isDeleted": false,
+  "startDate": "1998-01-01T00:00:00",
+  "endDate": null
+}

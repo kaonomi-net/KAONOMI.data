@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (l'administration européenne) : Fusionne les exécutifs de la CECA, de la CEE et d'Euratom en une Commission unique à partir de 1967.",
+  "id": "eu-pol-traite-fusion",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Traité de fusion",
+  "entityType": "LAW",
+  "description": "Fusionne les exécutifs de la CECA, de la CEE et d'Euratom en une Commission unique à partir de 1967.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-traites",
+  "sentencesExemples": [
+    "« Traité de fusion » a fait l'objet de longues négociations.",
+    "Les entreprises doivent tenir compte de « Traité de fusion ».",
+    "« Traité de fusion » relève de l'administration européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "traité de Bruxelles"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#ADMINISTRATIONEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Trait%C3%A9%20de%20fusion"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Administration",
+    "Bruxelles",
+    "Commission européenne"
+  ],
+  "isDeleted": false,
+  "startDate": "1965-04-08T00:00:00",
+  "endDate": null
+}

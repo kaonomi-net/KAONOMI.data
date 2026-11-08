@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (la vision par ordinateur) : Capteur de mouvement de Microsoft associant caméra de profondeur et reconnaissance de poses par apprentissage automatique.",
+  "id": "ia-kinect",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Kinect",
+  "entityType": "HARDWARE",
+  "description": "Capteur de mouvement de Microsoft associant caméra de profondeur et reconnaissance de poses par apprentissage automatique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Le laboratoire utilise Kinect pour ses travaux dans le domaine de la vision par ordinateur.",
+    "Le technicien a installé Kinect dans la salle des machines.",
+    "Lors du salon, le stand présentait Kinect en démonstration."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Microsoft Kinect"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#VISIONPARORDINATEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Kinect"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Forêts aléatoires"
+  ],
+  "isDeleted": false,
+  "startDate": "2010-01-01T00:00:00",
+  "endDate": null
+}

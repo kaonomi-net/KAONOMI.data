@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-tokenisation-des-actifs",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Tokenisation des actifs",
+  "includedEntities": [
+    {
+      "entityName": "tokenisation",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "actifs",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la tokenisation des actions, obligations et fonds.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "blockchain",
+    "Euronext",
+    "banques"
+  ],
+  "questions": [
+    "Quel projet ?",
+    "Quel acteur ?",
+    "Quelle régulation ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#BLOCKCHAIN"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

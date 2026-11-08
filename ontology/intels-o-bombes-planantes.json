@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-bombes-planantes",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "bombes planantes",
+  "entityType": "HARDWARE",
+  "description": "Cité par 5 intels : Ceinture fortifiée de Kramatorsk et Sloviansk ; Pression sur la région de Kharkiv ; Bombes planantes russes ; Ville de Zaporijia sous les frappes ; Aviation tactique russe.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Surveiller la menace sur les dernières grandes villes ukrainiennes du Donbass.",
+    "Surveiller les opérations russes dans la région de Kharkiv.",
+    "Surveiller l'usage massif des bombes planantes guidées."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "bombes planantes",
+  "tags": [
+    "#UKRAINE",
+    "#FRONT",
+    "#ARMEMENT",
+    "#DONBASS",
+    "#KHARKIV",
+    "#ZAPORIJIA"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "drones",
+    "Kharkiv",
+    "Su-34",
+    "aviation russe",
+    "Zaporijia",
+    "défense antiaérienne",
+    "Kramatorsk",
+    "Sloviansk",
+    "ceinture fortifiée",
+    "artillerie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

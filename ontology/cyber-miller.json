@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de la cybersécurité (la cryptographie sur courbes elliptiques) : Mathématicien américain qui a proposé en 1985, indépendamment de Neal Koblitz, la cryptographie sur courbes elliptiques.",
+  "id": "cyber-miller",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Victor Miller",
+  "entityType": "PERSON",
+  "description": "Mathématicien américain qui a proposé en 1985, indépendamment de Neal Koblitz, la cryptographie sur courbes elliptiques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-personnalites",
+  "sentencesExemples": [
+    "Sans Victor Miller, l'histoire de la cryptographie sur courbes elliptiques aurait été différente.",
+    "Le cours d'histoire de la cybersécurité consacre une séance entière aux travaux de Victor Miller.",
+    "Les étudiants lisent les travaux de Victor Miller pour comprendre la cryptographie sur courbes elliptiques."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Victor S. Miller"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#PERSON",
+    "#CRYPTOGRAPHIESURCOURBESELLIPTI"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Victor%20Miller"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Cryptographie sur courbes elliptiques"
+  ],
+  "isDeleted": false,
+  "startDate": "1947-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 14,
+  "file": "034-cuisine-comment-reussir-une-ratatouille.prompt.json",
+  "prompt": "Comment réussir une ratatouille ?",
+  "promptWords": 5,
+  "completion": "La ratatouille est un classique de la cuisine provençale, savoureuse et colorée. Voici une recette traditionnelle pour la réussir à la perfection :\n\n### Ingrédients (pour 4 personnes) :\n- 1 aubergine\n- 2 courgettes\n- 2 poivrons (1 rouge, 1 jaune)\n- 4 tomates bien mûres\n- 1 oignon\n- 2 gousses d'ail\n- 1 branche de thym frais (ou 1 c. à café de thym séché)\n- 1 feuille de laurier\n- Huile d'olive\n- Sel et poivre\n\n### Préparation :\n\n1. **Préparer les légumes** :\n   - Lavez et coupez les aubergines, les courgettes et les poivrons en dés.\n   - Pelez et émincez l'oignon et l'ail.\n   - Plongez les tomates dans l'eau bouillante pendant 1 minute, puis dans l'eau froide. Épluchez-les et coupez-les en dés.\n\n2. **Faire revenir les légumes** :\n   - Dans une cocotte ou une grande poêle, faites chauffer 3 cuillères à soupe d'huile d'olive à feu moyen.\n   - Ajoutez l'oignon et l'ail, faites revenir jusqu'à ce qu'ils deviennent translucides.\n   - Ajoutez les poivrons et faites cuire 5 minutes en remuant.\n   - Ajoutez ensuite les courgettes et les aubergines, et faites cuire 10 minutes en remuant de temps en temps.\n\n3. **Ajouter les tomates et les aromates** :\n   - Incorporez les tomates, le thym et le laurier.\n   - Salez et poivrez légèrement.\n   - Mélangez bien et laissez mijoter à feu doux pendant 30 à 40 minutes, en remuant de temps en temps.\n\n4. **Finition** :\n   - Goûtez et ajustez l'assaisonnement si nécessaire.\n   - Retirez le laurier avant de servir.\n\n### Conseils pour une ratatouille réussie :\n- Utilisez des légumes frais et de saison pour une meilleure saveur.\n- Ne couvrez pas la cocotte pendant la cuisson pour éviter que les légumes ne deviennent trop mous.\n- Vous pouvez servir la ratatouille chaude, tiède ou froide, selon vos préférences.\n\nBon appétit ! \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:55:55.4182334+02:00",
+  "durationSeconds": 11.57,
+  "stats": "mistral-small3.2:latest · 515 + 548 tokens · 11,6 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la justice) : Commission des affaires juridiques du Parlement européen, chargée de la justice.",
+  "id": "eu-pe-juri",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission des affaires juridiques (JURI)",
+  "entityType": "ORGANISATION",
+  "description": "Commission des affaires juridiques du Parlement européen, chargée de la justice.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "« Commission des affaires juridiques (JURI) » joue un rôle dans la justice.",
+    "Les fonctionnaires de « Commission des affaires juridiques (JURI) » préparent les textes relatifs à la justice.",
+    "La délégation a rencontré des représentants de « Commission des affaires juridiques (JURI) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "JURI"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20des%20affaires%20juridiques%20%28JURI%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Justice"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 120,
+  "file": "0120-microsoft-office-how-do-i-use-the-if.prompt.json",
+  "prompt": "How do I use the IF function with several conditions in Excel?",
+  "promptWords": 12,
+  "completion": "In Excel, you can use the `IF` function with multiple conditions by nesting `IF` functions or using logical functions like `AND`, `OR`, and `NOT` to simplify the syntax. Here are a few methods:\n\n### 1. **Nested IF Functions**\nYou can nest multiple `IF` functions to handle several conditions. For example:\n\n```excel\n=IF(condition1, value_if_true1, IF(condition2, value_if_true2, value_if_false))\n```\n\n**Example:**\n```excel\n=IF(A1 > 90, \"A\", IF(A1 > 80, \"B\", IF(A1 > 70, \"C\", \"D\")))\n```\n\n### 2. **Using AND, OR, and NOT Functions**\nYou can combine `IF` with logical functions to check multiple conditions at once.\n\n**Example with AND:**\n```excel\n=IF(AND(A1 > 80, B1 > 70), \"Pass\", \"Fail\")\n```\n\n**Example with OR:**\n```excel\n=IF(OR(A1 > 90, B1 > 90), \"High Score\", \"Low Score\")\n```\n\n**Example with NOT:**\n```excel\n=IF(NOT(A1 = 0), \"Not Zero\", \"Zero\")\n```\n\n### 3. **Using IFS Function (Excel 2019 and later)**\nIf you have Excel 2019 or later, you can use the `IFS` function, which is simpler for multiple conditions:\n\n```excel\n=IFS(condition1, value1, condition2, value2, condition3, value3, default_value)\n```\n\n**Example:**\n```excel\n=IFS(A1 > 90, \"A\", A1 > 80, \"B\", A1 > 70, \"C\", TRUE, \"D\")\n```\n\n### 4. **Using SUMPRODUCT for Complex Conditions**\nFor more complex conditions, you can use `SUMPRODUCT` with array formulas:\n\n```excel\n=IF(SUMPRODUCT(--(condition1), --(condition2)) > 0, \"True\", \"False\")\n```\n\n**Example:**\n```excel\n=IF(SUMPRODUCT(--(A1 > 80), --(B1 > 70)) > 0, \"Pass\", \"Fail\")\n```\n\n### Tips:\n- Avoid excessive nesting of `IF` functions, as it can make formulas hard to read and maintain.\n- Use `IFS` for simpler and cleaner syntax if you have Excel 2019 or later.\n- Combine `IF` with other logical functions (`AND`, `OR`, `NOT`) to simplify complex conditions.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:25:34.6562573+02:00",
+  "durationSeconds": 12.69,
+  "stats": "mistral-small3.2:latest · 520 + 574 tokens · 12,7 s",
+  "isError": false,
+  "language": "EN"
+}

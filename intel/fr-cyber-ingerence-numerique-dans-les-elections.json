@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-ingerence-numerique-dans-les-elections",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Ingérence numérique dans les élections",
+  "includedEntities": [
+    {
+      "entityName": "ingérence",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "élections",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "désinformation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les cyberattaques et manipulations visant les élections.",
+  "isFuzzy": true,
+  "locations": [
+    "Europe"
+  ],
+  "times": [
+    "élections"
+  ],
+  "relatedEntities": [
+    "Viginum",
+    "bots",
+    "fuites"
+  ],
+  "questions": [
+    "Quelle élection ?",
+    "Quelle opération ?",
+    "Quelle attribution ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#ELECTIONS",
+    "#INGERENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!INGERENCE"
+  ],
+  "isDeleted": false
+}

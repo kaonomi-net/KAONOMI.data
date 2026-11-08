@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-stagflation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La stagnation avec inflation.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:stagflation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:stagnation\\s+[ée]conomique)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:croissance\\s+en\\s+berne)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]conomie\\s+[àa]\\s+l['’]arr[êe]t)(?![\\w-])"
+  ],
+  "symbol": "stagflation",
+  "event": null,
+  "title": "Stagflation",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

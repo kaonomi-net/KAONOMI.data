@@ -1,0 +1,13 @@
+{
+  "index": 344,
+  "file": "0344-ia-rag-qu-est-ce-qu-une-base.prompt.json",
+  "prompt": "Qu'est-ce qu'une base de données vectorielle ?",
+  "promptWords": 7,
+  "completion": "Une base de données vectorielle est un type de système de gestion de bases de données conçu pour stocker, indexer et rechercher des données sous forme de vecteurs. Les vecteurs sont des représentations numériques de données, souvent utilisées pour capturer des caractéristiques ou des relations complexes entre les éléments.\n\n### Caractéristiques principales :\n1. **Stockage de vecteurs** : Elle stocke des vecteurs, qui peuvent représenter des données de différentes natures, comme des images, du texte, des sons, ou des données géospatiales.\n2. **Recherche par similarité** : Elle permet de rechercher des vecteurs similaires à un vecteur de requête, en utilisant des mesures de distance (comme la distance cosinus ou la distance euclidienne).\n3. **Indexation efficace** : Elle utilise des techniques d'indexation avancées (comme les arbres de recherche ou les méthodes de quantification) pour accélérer les requêtes de similarité.\n4. **Applications variées** : Elle est utilisée dans des domaines comme la reconnaissance d'images, le traitement du langage naturel, la recommandation de produits, et la recherche d'information.\n\n### Exemples d'utilisation :\n- **Recommandation de produits** : Trouver des produits similaires à ceux qu'un utilisateur a aimés.\n- **Recherche d'images** : Trouver des images similaires à une image de référence.\n- **Traitement du langage naturel** : Trouver des documents ou des phrases similaires à une requête texte.\n\n### Différence avec les bases de données traditionnelles :\n- Les bases de données relationnelles (comme MySQL ou PostgreSQL) sont optimisées pour des requêtes basées sur des égalités ou des plages de valeurs.\n- Les bases de données vectorielles sont optimisées pour des requêtes de similarité, où l'on cherche des éléments \"proches\" d'un élément de référence.\n\nSi vous avez des questions plus spécifiques ou si vous souhaitez des exemples concrets, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:27:43.1400486+02:00",
+  "durationSeconds": 8.61,
+  "stats": "mistral-small3.2:latest · 518 + 428 tokens · 8,6 s",
+  "isError": false,
+  "language": "FR"
+}

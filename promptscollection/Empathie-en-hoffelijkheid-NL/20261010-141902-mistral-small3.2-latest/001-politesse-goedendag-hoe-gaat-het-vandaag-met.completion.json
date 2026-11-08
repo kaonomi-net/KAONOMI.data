@@ -1,0 +1,13 @@
+{
+  "index": 1,
+  "file": "001-politesse-goedendag-hoe-gaat-het-vandaag-met.prompt.json",
+  "prompt": "Goedendag, hoe gaat het vandaag met u?",
+  "promptWords": 7,
+  "completion": "Goedendag! Het gaat goed, dank u wel. En met u? Hoe kan ik u vandaag helpen?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:19:02.2473514+02:00",
+  "durationSeconds": 3.16,
+  "stats": "mistral-small3.2:latest · 521 + 29 tokens · 3,2 s",
+  "isError": false,
+  "language": "NL"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 881,
+  "file": "0881-design-patterns-qu-est-ce-qu-un-anti.prompt.json",
+  "prompt": "Qu'est-ce qu'un anti-pattern ?",
+  "promptWords": 4,
+  "completion": "Un anti-pattern (ou antipattern en anglais) est un terme utilisé en informatique, en ingénierie logicielle et en gestion de projet pour désigner une solution courante qui semble appropriée à un problème donné, mais qui en réalité est inefficace, contre-productive ou même nuisible. Contrairement à un pattern (ou patron de conception), qui est une solution éprouvée et réutilisable, un anti-pattern est une pratique à éviter.\n\n### Caractéristiques d'un anti-pattern :\n1. **Apparence trompeuse** : La solution semble logique ou intuitive au premier abord.\n2. **Résultats négatifs** : Elle entraîne des problèmes tels que des bugs, une maintenance difficile, des coûts supplémentaires, ou une perte de performance.\n3. **Réutilisation fréquente** : Elle est souvent reproduite par des développeurs ou des équipes qui ne sont pas conscients de ses conséquences.\n\n### Exemples d'anti-patterns :\n- **Le \"God Object\"** : Un objet qui fait tout et devient trop complexe à maintenir.\n- **Le \"Spaghetti Code\"** : Un code source où les dépendances sont si emmêlées qu'il est difficile de le comprendre ou de le modifier.\n- **Le \"Copy-Paste Programming\"** : La duplication excessive de code sans réutilisation via des fonctions ou des classes.\n- **Le \"Golden Hammer\"** : L'utilisation excessive d'une solution particulière simplement parce qu'elle est familière, même si elle n'est pas adaptée au problème.\n\n### Pourquoi les anti-patterns sont-ils importants ?\nIdentifier et éviter les anti-patterns permet d'améliorer la qualité du code, la maintenabilité des projets et l'efficacité des équipes. Les reconnaître aide également à apprendre des erreurs passées et à adopter de meilleures pratiques.\n\nSi vous avez un exemple spécifique en tête ou si vous souhaitez des détails sur un anti-pattern particulier, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:35:30.0762735+02:00",
+  "durationSeconds": 8.19,
+  "stats": "mistral-small3.2:latest · 515 + 402 tokens · 8,2 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-primaire-de-la-gauche",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Primaire de la gauche",
+  "includedEntities": [
+    {
+      "entityName": "primaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "gauche",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'organisation et les résultats d'une primaire à gauche.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "automne 2026"
+  ],
+  "relatedEntities": [
+    "PS",
+    "écologistes",
+    "LFI"
+  ],
+  "questions": [
+    "Qui participe ?",
+    "Qui l'emporte ?",
+    "Qui refuse d'y participer ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#GAUCHE"
+  ],
+  "events": [
+    "@PRIMAIRE"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

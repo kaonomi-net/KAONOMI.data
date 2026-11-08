@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-endettement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'être endetté.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:endettement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:endett([ée]|[ée]e|[ée]s|[ée]es|er)|cribl[ée](e|s|es)?\\s+de\\s+dettes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dans\\s+le\\s+rouge)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fin(s)?\\s+de\\s+mois\\s+difficile(s)?)(?![\\w-])"
+  ],
+  "symbol": "endettement",
+  "event": null,
+  "title": "Endettement",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

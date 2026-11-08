@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-congres-de-psychiatrie-et-de-psychologie",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Congrès de psychiatrie et de psychologie",
+  "includedEntities": [
+    {
+      "entityName": "congrès",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "psychiatrie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "psychologie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les grands congrès de psychiatrie et de psychologie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Congrès français de psychiatrie",
+    "Encéphale",
+    "annonces"
+  ],
+  "questions": [
+    "Quel congrès ?",
+    "Quelles annonces ?",
+    "Quels débats ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#CONFERENCES"
+  ],
+  "events": [
+    "@CONFERENCE"
+  ],
+  "signals": [
+    "!VEILLE"
+  ],
+  "isDeleted": false
+}

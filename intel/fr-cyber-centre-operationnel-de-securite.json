@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-centre-operationnel-de-securite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Centre opérationnel de sécurité",
+  "includedEntities": [
+    {
+      "entityName": "SOC",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "centre opérationnel",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'organisation des centres opérationnels de sécurité.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "analystes",
+    "alertes",
+    "automatisation"
+  ],
+  "questions": [
+    "Quelle organisation ?",
+    "Quelle charge ?",
+    "Quel outil ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#DEFENSE",
+    "#SOC"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-arm",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "ARM",
+  "includedEntities": [
+    {
+      "entityName": "ARM",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "architecture",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action ARM et ses puces pour l'IA.",
+  "isFuzzy": false,
+  "locations": [
+    "Cambridge"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "SoftBank",
+    "licences",
+    "centres de données"
+  ],
+  "questions": [
+    "Quelle croissance ?",
+    "Quel projet ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#IA",
+    "#SEMI-CONDUCTEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

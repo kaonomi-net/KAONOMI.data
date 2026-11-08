@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-bnp-paribas-fortis",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "BNP Paribas Fortis",
+  "includedEntities": [
+    {
+      "entityName": "BNP Paribas Fortis",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "banque",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre BNP Paribas Fortis et la part de l'État belge dans BNP Paribas.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "SFPI",
+    "BNP Paribas",
+    "dividende"
+  ],
+  "questions": [
+    "Quel résultat ?",
+    "Quelle participation de l'État ?",
+    "Quelle cession ?"
+  ],
+  "tags": [
+    "#BELGIQUE",
+    "#BANQUES"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

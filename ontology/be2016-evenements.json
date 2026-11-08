@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Classe de l'ontologie : Attentats du 22 mars 2016 en Belgique › Événements.",
+  "id": "be2016-evenements",
+  "dateCreated": "2026-10-31 19:28:40",
+  "name": "Événements",
+  "entityType": "EVENT",
+  "description": "Les faits, de la menace de 2014-2015 aux attentats, à l'enquête, aux hommages et aux procès.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-racine",
+  "sentencesExemples": [
+    "La branche « Événements » de l'ontologie regroupe les entrées de ce thème.",
+    "Pour explorer « Événements », ouvrez la branche dans la fenêtre de l'ontologie.",
+    "Chaque entrée de « Événements » est reliée à d'autres par des relations."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": true,
+  "symbol": "\uD83D\uDCC2",
+  "synonyms": [
+    "chronologie"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#ONTOLOGIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

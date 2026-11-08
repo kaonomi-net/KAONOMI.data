@@ -1,0 +1,13 @@
+{
+  "index": 104,
+  "file": "0104-microsoft-office-how-do-i-set-a-single.prompt.json",
+  "prompt": "How do I set a single page to landscape in the middle of a document in Word?",
+  "promptWords": 17,
+  "completion": "To set a single page to landscape orientation in the middle of a document in Microsoft Word, follow these steps:\n\n1. **Place the Cursor**: Position your cursor at the beginning of the page you want to change to landscape orientation.\n\n2. **Insert a Section Break**:\n   - Go to the **Layout** or **Page Layout** tab (depending on your version of Word).\n   - Click on **Breaks**.\n   - Select **Next Page** under the **Section Breaks** section. This will insert a section break and start a new section on the next page.\n\n3. **Change Orientation for the New Section**:\n   - With the cursor still in the new section, go to the **Layout** or **Page Layout** tab.\n   - Click on **Orientation**.\n   - Choose **Landscape**.\n\n4. **Repeat for the Next Page (if needed)**:\n   - If you need to return to portrait orientation after the landscape page, place the cursor at the end of the landscape page.\n   - Insert another **Next Page** section break.\n   - Change the orientation of the new section back to **Portrait**.\n\n5. **Adjust Page Breaks (if necessary)**:\n   - You may need to adjust the page breaks to ensure the content flows correctly. Simply delete any unwanted page breaks that were created during the process.\n\nThis method ensures that only the specific page(s) you want are in landscape orientation while the rest of the document remains in portrait orientation.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:23:05.1176218+02:00",
+  "durationSeconds": 7.47,
+  "stats": "mistral-small3.2:latest · 525 + 300 tokens · 7,5 s",
+  "isError": false,
+  "language": "EN"
+}

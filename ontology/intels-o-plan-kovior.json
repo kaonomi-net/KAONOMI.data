@@ -1,0 +1,54 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-plan-kovior",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "plan Kovior",
+  "entityType": "PROGRAMME",
+  "description": "Cité par 1 intel : Fermetures d'aéroports russes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-programme",
+  "sentencesExemples": [
+    "Suivre les fermetures d'aéroports russes à cause des drones."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "plan Kovior",
+  "tags": [
+    "#RUSSIE",
+    "#AVIATION",
+    "#DRONES"
+  ],
+  "events": [
+    "@FERMETURE-AEROPORT"
+  ],
+  "signals": [
+    "!PERTURBATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kazan",
+    "fermeture",
+    "Saint-Pétersbourg",
+    "vols annulés",
+    "Rosaviatsia",
+    "aéroports",
+    "défense antiaérienne",
+    "Moscou"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

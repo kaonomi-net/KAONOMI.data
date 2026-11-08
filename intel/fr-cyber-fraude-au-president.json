@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-fraude-au-president",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Fraude au président",
+  "includedEntities": [
+    {
+      "entityName": "fraude au président",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "virement",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les fraudes au faux dirigeant et aux faux virements.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "comptabilité",
+    "usurpation",
+    "hypertrucage"
+  ],
+  "questions": [
+    "Quelle entreprise ?",
+    "Quel montant ?",
+    "Quelle technique ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FRAUDE"
+  ],
+  "events": [
+    "@FRAUDE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

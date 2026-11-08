@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-startups-francaises-de-la-cybersecurite",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Startups françaises de la cybersécurité",
+  "includedEntities": [
+    {
+      "entityName": "startup",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cybersécurité",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "levée de fonds",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les levées de fonds des jeunes pousses françaises de la cybersécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Campus Cyber",
+    "Bpifrance",
+    "investisseurs"
+  ],
+  "questions": [
+    "Quelle startup ?",
+    "Quel montant ?",
+    "Quel investisseur ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#STARTUPS",
+    "#FRANCE"
+  ],
+  "events": [
+    "@LEVEE-DE-FONDS"
+  ],
+  "signals": [
+    "!INVESTISSEMENT"
+  ],
+  "isDeleted": false
+}

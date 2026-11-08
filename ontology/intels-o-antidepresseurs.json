@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-antidepresseurs",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "antidépresseurs",
+  "entityType": "MATERIAL",
+  "description": "Cité par 3 intels : Antidépresseurs en Belgique ; Antidépresseurs ; Psychotropes chez les enfants.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre la consommation d'antidépresseurs et le manque de suivi en Belgique.",
+    "Suivre les études et débats sur les antidépresseurs.",
+    "Suivre la hausse des prescriptions de psychotropes chez les enfants."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "antidépresseurs",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#MEDICAMENTS",
+    "#BELGIQUE",
+    "#ENFANCE"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!DEBAT",
+    "!SANTE-MENTALE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "prescriptions",
+    "suivi",
+    "médecins généralistes",
+    "ISRS",
+    "sevrage",
+    "prescription",
+    "efficacité",
+    "enfants",
+    "psychotropes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

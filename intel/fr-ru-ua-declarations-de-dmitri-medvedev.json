@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-declarations-de-dmitri-medvedev",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Déclarations de Dmitri Medvedev",
+  "includedEntities": [
+    {
+      "entityName": "Medvedev",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "déclaration",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les déclarations souvent radicales de Dmitri Medvedev.",
+  "isFuzzy": true,
+  "locations": [
+    "Moscou"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Conseil de sécurité",
+    "nucléaire",
+    "Occident"
+  ],
+  "questions": [
+    "Quelle menace ?",
+    "Quelle cible ?",
+    "Quel écho ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#RHETORIQUE",
+    "#MEDVEDEV"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

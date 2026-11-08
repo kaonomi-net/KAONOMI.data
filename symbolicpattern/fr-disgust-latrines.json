@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-latrines",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Des toilettes sommaires et sales.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:latrine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:toilettes\\s+bouch[ée]es)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:toilettes\\s+immondes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chiottes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:wc\\s+bouch[ée]s)(?![\\w-])"
+  ],
+  "symbol": "latrines",
+  "event": null,
+  "title": "Latrines",
+  "tags": [
+    "#DISGUST",
+    "#INSALUBRITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

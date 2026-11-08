@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-repression-des-opposants-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Répression des opposants russes",
+  "includedEntities": [
+    {
+      "entityName": "opposants",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "prison",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "répression",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les condamnations et arrestations d'opposants en Russie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Memorial",
+    "OVD-Info",
+    "procès"
+  ],
+  "questions": [
+    "Qui est condamné ?",
+    "Quelle peine ?",
+    "Quel motif ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#REPRESSION",
+    "#DROITS-HUMAINS"
+  ],
+  "events": [
+    "@CONDAMNATION"
+  ],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

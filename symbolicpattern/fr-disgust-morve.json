@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-morve",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le mucus du nez.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:morve(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:morveu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mucus)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mucosit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nez\\s+qui\\s+coule)(?![\\w-])"
+  ],
+  "symbol": "morve",
+  "event": null,
+  "title": "Morve",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

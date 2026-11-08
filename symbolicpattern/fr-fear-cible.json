@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-cible",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui est visé par une attaque.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cible(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cibl[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vis[ée](e|s|es)?\\s+par)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lieu(x)?\\s+sensible(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cible(s)?\\s+molle(s)?)(?![\\w-])"
+  ],
+  "symbol": "cible",
+  "event": null,
+  "title": "Cible",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

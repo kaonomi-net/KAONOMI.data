@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la protection des données) : Autorité qui veille au respect de la protection des données par les institutions de l'Union.",
+  "id": "eu-inst-cepd",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Contrôleur européen de la protection des données",
+  "entityType": "ORGANISATION",
+  "description": "Autorité qui veille au respect de la protection des données par les institutions de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-institutions",
+  "sentencesExemples": [
+    "« Contrôleur européen de la protection des données » joue un rôle dans la protection des données.",
+    "Les fonctionnaires de « Contrôleur européen de la protection des données » préparent les textes relatifs à la protection des données.",
+    "La délégation a rencontré des représentants de « Contrôleur européen de la protection des données »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "CEPD"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#PROTECTIONDONNEES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Contr%C3%B4leur%20europ%C3%A9en%20de%20la%20protection%20des%20donn%C3%A9es"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Union européenne",
+    "Protection des données",
+    "Règlement général sur la protection des données"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

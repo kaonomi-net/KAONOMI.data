@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-controle-des-exportations-de-puces",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Contrôle des exportations de puces",
+  "includedEntities": [
+    {
+      "entityName": "exportations",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "puces",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les restrictions d'export de semi-conducteurs vers la Chine.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington",
+    "Pékin"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Nvidia",
+    "TSMC",
+    "département du Commerce"
+  ],
+  "questions": [
+    "Quelles puces sont visées ?",
+    "Quelle réaction chinoise ?",
+    "Quel impact sur Nvidia ?"
+  ],
+  "tags": [
+    "#IA",
+    "#SEMI-CONDUCTEURS",
+    "#GEOPOLITIQUE"
+  ],
+  "events": [
+    "@SANCTION"
+  ],
+  "signals": [
+    "!GEOPOLITIQUE"
+  ],
+  "isDeleted": false
+}

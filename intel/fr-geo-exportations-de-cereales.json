@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-exportations-de-cereales",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Exportations de céréales",
+  "includedEntities": [
+    {
+      "entityName": "céréales",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "blé",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "exportations",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les exportations de blé et leurs effets sur la sécurité alimentaire.",
+  "isFuzzy": true,
+  "locations": [
+    "Ukraine",
+    "Russie",
+    "Afrique du Nord"
+  ],
+  "times": [
+    "récolte"
+  ],
+  "relatedEntities": [
+    "mer Noire",
+    "prix alimentaires",
+    "famine"
+  ],
+  "questions": [
+    "Quels volumes exportés ?",
+    "Quel prix ?",
+    "Quels pays dépendants ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ALIMENTATION",
+    "#CEREALES"
+  ],
+  "events": [],
+  "signals": [
+    "!SECURITE-ALIMENTAIRE"
+  ],
+  "isDeleted": false
+}

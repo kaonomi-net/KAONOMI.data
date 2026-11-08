@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-lavrov",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Lavrov",
+  "entityType": "PERSON",
+  "description": "Cité par 2 intels : Conditions posées par le Kremlin ; Diplomatie de Sergueï Lavrov.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre les conditions de Moscou pour un accord de paix.",
+    "Suivre les déclarations et déplacements du ministre russe des Affaires étrangères."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Lavrov",
+  "tags": [
+    "#RUSSIE",
+    "#KREMLIN",
+    "#NEGOCIATIONS",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!BLOCAGE",
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kremlin",
+    "Dmitri Peskov",
+    "Peskov",
+    "neutralité de l'Ukraine",
+    "conditions",
+    "Moscou",
+    "ONU",
+    "Chine",
+    "diplomatie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

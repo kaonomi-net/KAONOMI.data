@@ -1,0 +1,13 @@
+{
+  "index": 501,
+  "file": "0501-recherche-operationnelle-what-is-the-knapsack-problem.prompt.json",
+  "prompt": "What is the knapsack problem?",
+  "promptWords": 5,
+  "completion": "**The knapsack problem** is a classic combinatorial optimization problem that asks:\n\n> *Given a set of items, each with a weight and a value, and a capacity limit, which subset of items should we pack into the knapsack so that the total value is maximized without exceeding the capacity?*\n\n---\n\n### Formal statement (0‑1 knapsack)\n\n- **Items**: \\(n\\) items indexed by \\(i = 1,\\dots,n\\).  \n- **Weight** of item \\(i\\): \\(w_i \\ge 0\\).  \n- **Value** (or profit) of item \\(i\\): \\(v_i \\ge 0\\).  \n- **Capacity** of the knapsack: \\(W \\ge 0\\).  \n- **Decision variable**: \\(x_i \\in \\{0,1\\}\\) (1 = include item \\(i\\), 0 = exclude).  \n\n**Objective**\n\n\\[\n\\max \\sum_{i=1}^{n} v_i x_i\n\\]\n\n**Constraint**\n\n\\[\n\\sum_{i=1}^{n} w_i x_i \\le W\n\\]\n\nThe solution is the set of items whose inclusion gives the largest total value while keeping the total weight within the limit.\n\n---\n\n### Why it matters\n\n- **NP‑hard**: The problem is computationally intractable for large \\(n\\) (no polynomial‑time algorithm is known unless \\(P = NP\\)).\n- **Applications**: resource allocation, budget planning, cargo loading, portfolio selection, etc.\n- **Variants**:  \n  - *Fractional knapsack* (items can be split): solvable in \\(O(n \\log n)\\) by a greedy algorithm.  \n  - *Unbounded knapsack*: unlimited copies of each item.  \n  - *Multiple‑choice knapsack*: items are grouped and one item per group must be chosen.  \n  - *Multidimensional knapsack*: multiple resource constraints (e.g., weight, volume, cost).  \n  - *Knapsack with conflicts* or *knapsack with precedence constraints*: additional restrictions on item selection.\n\n---\n\n### Solving it\n\n- **Exact algorithms**: dynamic programming (pseudo‑polynomial time), branch‑and‑bound, integer linear programming.  \n- **Approximation**: Fully Polynomial‑Time Approximation Scheme (FPTAS) for the 0‑1 knapsack.  \n- **Heuristics**: greedy, local search, genetic algorithms, simulated annealing, etc.\n\n---\n\nIn short, the knapsack problem encapsulates the challenge of making the best choice of items under a resource limit—an archetype for many real‑world optimization tasks.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T22:04:22.7827977+02:00",
+  "durationSeconds": 5.97,
+  "stats": "gpt-oss:20b · 74 + 660 tokens · 6,0 s",
+  "isError": false,
+  "language": "EN"
+}

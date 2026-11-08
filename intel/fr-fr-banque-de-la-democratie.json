@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-banque-de-la-democratie",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Banque de la démocratie",
+  "includedEntities": [
+    {
+      "entityName": "banque de la démocratie",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "financement",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet de banque publique pour financer les campagnes.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "partis",
+    "prêts bancaires",
+    "loi"
+  ],
+  "questions": [
+    "Où en est le projet ?",
+    "Quel vote ?",
+    "Qui en profiterait ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#FINANCEMENT",
+    "#DEMOCRATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

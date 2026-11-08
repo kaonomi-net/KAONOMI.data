@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (le multilinguisme) : Traduction et interprétation dans les vingt-quatre langues officielles de l'Union.",
+  "id": "eu-dom-multilinguisme",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Multilinguisme",
+  "entityType": "DOMAIN",
+  "description": "Traduction et interprétation dans les vingt-quatre langues officielles de l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Plusieurs commissaires ont été chargés du domaine « Multilinguisme ».",
+    "Le domaine « Multilinguisme » mobilise plusieurs directions générales.",
+    "Le budget de l'Union consacre des crédits au domaine « Multilinguisme »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#MULTILINGUISME"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Multilinguisme"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "irlandais",
+    "Direction générale de la traduction",
+    "Direction générale de l'interprétation",
+    "Centre de traduction des organes de l'Union européenne (CdT)"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

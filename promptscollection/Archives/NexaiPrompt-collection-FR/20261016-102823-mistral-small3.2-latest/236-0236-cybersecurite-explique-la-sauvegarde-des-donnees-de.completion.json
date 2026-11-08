@@ -1,0 +1,13 @@
+{
+  "index": 236,
+  "file": "0236-cybersecurite-explique-la-sauvegarde-des-donnees-de.prompt.json",
+  "prompt": "Explique la sauvegarde des données de façon simple.",
+  "promptWords": 8,
+  "completion": "La sauvegarde des données, c'est comme faire une copie de sécurité de tes informations importantes. Imagine que tu écris un texte super important sur ton ordinateur. Si jamais ton ordinateur tombe en panne ou si tu le perds, tu risques de perdre ce texte. Pour éviter ça, tu peux faire une sauvegarde, c'est-à-dire copier ce texte sur un autre support (comme un disque dur externe, une clé USB, ou un service en ligne comme Google Drive ou iCloud).\n\nEn gros, la sauvegarde, c'est :\n1. **Créer une copie** de tes fichiers importants.\n2. **La stocker ailleurs** que sur ton appareil principal.\n3. **La mettre à jour régulièrement** pour avoir la dernière version de tes données.\n\nÇa te permet de récupérer tes fichiers en cas de problème. Il existe différents types de sauvegardes :\n- **Sauvegarde locale** : sur un disque dur externe ou une clé USB.\n- **Sauvegarde cloud** : sur Internet, via des services comme Dropbox ou OneDrive.\n- **Sauvegarde automatique** : certains logiciels ou systèmes d'exploitation peuvent le faire pour toi sans que tu aies à y penser.\n\nC'est un peu comme avoir un double de tes clés : au cas où tu les perdrais, tu peux toujours ouvrir ta porte !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:08:39.2165635+02:00",
+  "durationSeconds": 5.68,
+  "stats": "mistral-small3.2:latest · 518 + 278 tokens · 5,7 s",
+  "isError": false,
+  "language": "FR"
+}

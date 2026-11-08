@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-elia",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Elia",
+  "includedEntities": [
+    {
+      "entityName": "Elia",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "réseau électrique",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Elia et les investissements dans le réseau électrique.",
+  "isFuzzy": false,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "augmentation de capital",
+    "éolien en mer",
+    "50Hertz"
+  ],
+  "questions": [
+    "Quel investissement ?",
+    "Quel financement ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#ENERGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!INVESTISSEMENT"
+  ],
+  "isDeleted": false
+}

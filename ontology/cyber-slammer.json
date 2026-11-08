@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (les logiciels malveillants) : Ver qui infecte la quasi-totalité des serveurs SQL Server vulnérables en une dizaine de minutes, saturant Internet.",
+  "id": "cyber-slammer",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Ver SQL Slammer",
+  "entityType": "EVENT",
+  "description": "Ver qui infecte la quasi-totalité des serveurs SQL Server vulnérables en une dizaine de minutes, saturant Internet.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "On date souvent un tournant des logiciels malveillants à « Ver SQL Slammer ».",
+    "« Ver SQL Slammer » est un jalon de l'histoire de la cybersécurité.",
+    "Dans sa conférence, l'historienne est revenue sur « Ver SQL Slammer »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Sapphire"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#LOGICIELSMALVEILLANTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ver%20SQL%20Slammer"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ver Code Red",
+    "Ver Conficker"
+  ],
+  "isDeleted": false,
+  "startDate": "2003-01-25T00:00:00",
+  "endDate": "2003-01-25T00:00:00"
+}

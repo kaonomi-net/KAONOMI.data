@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-hydrogene",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "hydrogène",
+  "entityType": "MATERIAL",
+  "description": "Cité par 4 intels : eau ; Air Liquide ; Pacte pour une industrie propre ; Hydrogène européen.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre l'action Air Liquide.",
+    "Suivre le pacte européen pour une industrie propre.",
+    "Suivre les projets européens d'hydrogène."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [
+    "hydrogene"
+  ],
+  "title": "hydrogène",
+  "tags": [
+    "#INDUSTRIE",
+    "#UNION-EUROPEENNE",
+    "#WATER",
+    "#HYDROGEN",
+    "#OXYGEN",
+    "#CHIMIE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESULTATS",
+    "!STRATEGIE",
+    "!ENERGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "oxygene",
+    "François Jackow",
+    "Paris",
+    "marges",
+    "Air Liquide",
+    "gaz industriels",
+    "acier vert",
+    "décarbonation",
+    "Bruxelles",
+    "industrie propre"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

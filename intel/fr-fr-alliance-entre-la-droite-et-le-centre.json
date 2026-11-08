@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-alliance-entre-la-droite-et-le-centre",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Alliance entre la droite et le centre",
+  "includedEntities": [
+    {
+      "entityName": "droite",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "centre",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "alliance",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les accords ou divisions entre la droite et le centre.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "LR",
+    "Horizons",
+    "Renaissance"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quels désaccords ?",
+    "Quel candidat commun ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#STRATEGIE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

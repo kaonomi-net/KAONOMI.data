@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-frappes-sur-les-aerodromes-militaires-russes",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Frappes sur les aérodromes militaires russes",
+  "includedEntities": [
+    {
+      "entityName": "aérodrome",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "bombardiers",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "frappe",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les frappes contre les bases aériennes russes.",
+  "isFuzzy": true,
+  "locations": [
+    "Engels",
+    "Morozovsk"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "bombardiers stratégiques",
+    "drones",
+    "images satellites"
+  ],
+  "questions": [
+    "Quelle base ?",
+    "Quels appareils détruits ?",
+    "Quelle confirmation ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#FRAPPES",
+    "#AVIATION"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

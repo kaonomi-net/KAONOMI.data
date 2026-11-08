@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-militarisation-de-l-espace",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Militarisation de l'espace",
+  "includedEntities": [
+    {
+      "entityName": "espace",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "satellites",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "militaire",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la compétition militaire dans l'espace.",
+  "isFuzzy": true,
+  "locations": [
+    "orbite basse"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Starlink",
+    "armes antisatellites",
+    "Chine"
+  ],
+  "questions": [
+    "Quel essai ?",
+    "Quelles capacités ?",
+    "Quels débris ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ESPACE",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!COMPETITION"
+  ],
+  "isDeleted": false
+}

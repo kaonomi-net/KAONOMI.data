@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-immangeable",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qu'on ne peut pas manger.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:immangeable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inmangeable(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:infect(e|s|es)?\\s+au\\s+go[ûu]t)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]gueu\\s+[àa]\\s+manger)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:on\\s+ne\\s+peut\\s+pas\\s+avaler\\s+[çc]a)(?![\\w-])"
+  ],
+  "symbol": "immangeable",
+  "event": null,
+  "title": "Immangeable",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (le budget de l'Union) : Après un sommet de quatre jours et quatre nuits, les dirigeants s'accordent sur le plan de relance et le budget 2021-2027.",
+  "id": "eu-ev-accord-ngeu",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Accord du Conseil européen sur NextGenerationEU",
+  "entityType": "EVENT",
+  "description": "Après un sommet de quatre jours et quatre nuits, les dirigeants s'accordent sur le plan de relance et le budget 2021-2027.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les archives audiovisuelles de la Commission conservent des images de « Accord du Conseil européen sur NextGenerationEU ».",
+    "La presse européenne a largement couvert « Accord du Conseil européen sur NextGenerationEU ».",
+    "« Accord du Conseil européen sur NextGenerationEU » concerne le budget de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#BUDGETUNION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Accord%20du%20Conseil%20europ%C3%A9en%20sur%20NextGenerationEU"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NextGenerationEU",
+    "Budget",
+    "Économie",
+    "Ursula von der Leyen",
+    "Charles Michel",
+    "Commission von der Leyen I",
+    "Bruxelles",
+    "Conseil européen",
+    "Cadre financier pluriannuel 2021-2027"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-07-21T00:00:00",
+  "endDate": null
+}

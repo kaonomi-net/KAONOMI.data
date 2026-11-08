@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Programme de l'Union européenne (la gestion des crises) : Réserve européenne de moyens de protection civile (avions bombardiers d'eau, stocks médicaux).",
+  "id": "eu-prog-rescue",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "rescEU",
+  "entityType": "PROGRAMME",
+  "description": "Réserve européenne de moyens de protection civile (avions bombardiers d'eau, stocks médicaux).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-programmes",
+  "sentencesExemples": [
+    "Le projet a reçu un financement de « rescEU ».",
+    "Le bilan de « rescEU » a été présenté au Parlement européen.",
+    "« rescEU » finance des projets dans la gestion des crises."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCB6",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROGRAMME",
+    "#GESTIONCRISES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=rescEU"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Direction générale de la protection civile et des opérations d'aide humanitaire européennes",
+    "Gestion des crises",
+    "Aide humanitaire"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-03-21T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-devaluation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La baisse de la valeur d'une monnaie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]valuation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]valu(er|[ée]|[ée]e)|chute\\s+de\\s+la\\s+monnaie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:monnaie\\s+qui\\s+s['’]effondre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]pr[ée]ciation\\s+mon[ée]taire)(?![\\w-])"
+  ],
+  "symbol": "dévaluation",
+  "event": null,
+  "title": "Dévaluation",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

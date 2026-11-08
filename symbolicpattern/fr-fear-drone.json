@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-drone",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un aéronef sans pilote, souvent armé.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:drone(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:drone(s)?\\s+kamikaze(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:drone(s)?\\s+arm[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:attaque(s)?\\s+de\\s+drones)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:essaim(s)?\\s+de\\s+drones)(?![\\w-])"
+  ],
+  "symbol": "drone",
+  "event": null,
+  "title": "Drone",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

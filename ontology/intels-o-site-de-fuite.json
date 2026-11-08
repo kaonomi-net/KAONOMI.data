@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-site-de-fuite",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "site de fuite",
+  "entityType": "LOCATION",
+  "description": "Cité par 3 intels : Groupe Everest ; Double extorsion ; Sites de fuite des rançongiciels.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les victimes revendiquées par le groupe Everest.",
+    "Suivre les menaces de publication de données volées.",
+    "Suivre les revendications publiées sur les sites de fuite."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "site de fuite",
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#EXTORSION",
+    "#DARK-WEB"
+  ],
+  "events": [
+    "@RANCONGICIEL"
+  ],
+  "signals": [
+    "!MENACE",
+    "!VEILLE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Europe",
+    "Everest",
+    "rançongiciel",
+    "Japon",
+    "industrie",
+    "données",
+    "double extorsion",
+    "publication",
+    "délai",
+    "rançon"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

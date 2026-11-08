@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation des attentats de Bruxelles de 2016 (les procès) : Juridiction belge avec jury populaire qui a jugé les accusés des attentats du 22 mars 2016.",
+  "id": "be2016-cour-assises",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Cour d'assises de Bruxelles-Capitale",
+  "entityType": "ORGANISATION",
+  "description": "Juridiction belge avec jury populaire qui a jugé les accusés des attentats du 22 mars 2016.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-organisations",
+  "sentencesExemples": [
+    "Les comptes rendus du procès évoquent « Cour d'assises de Bruxelles-Capitale ».",
+    "Le rôle de « Cour d'assises de Bruxelles-Capitale » a été examiné après les attentats.",
+    "« Cour d'assises de Bruxelles-Capitale » apparaît dans la chronologie des procès."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "cour d'assises de Bruxelles"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#ORGANISATION",
+    "#PROCES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Cour%20d%27assises%20de%20Bruxelles-Capitale"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Procès des attentats de Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

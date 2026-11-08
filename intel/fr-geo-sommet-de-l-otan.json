@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-sommet-de-l-otan",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Sommet de l'OTAN",
+  "includedEntities": [
+    {
+      "entityName": "OTAN",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "sommet",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les sommets de l'Alliance atlantique et leurs décisions.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "dates du sommet"
+  ],
+  "relatedEntities": [
+    "secrétaire général",
+    "dépenses de défense",
+    "Ukraine"
+  ],
+  "questions": [
+    "Quelles décisions ?",
+    "Quel objectif de dépenses ?",
+    "Quels nouveaux membres ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#OTAN",
+    "#DEFENSE"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!ALLIANCE"
+  ],
+  "isDeleted": false
+}

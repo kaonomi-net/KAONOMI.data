@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-celac",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "CELAC",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Union européenne et Amérique latine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les relations entre l'Union et l'Amérique latine."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "CELAC",
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#AMERIQUE-LATINE",
+    "#DIPLOMATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Chili",
+    "Brasilia",
+    "Amérique latine",
+    "Mercosur",
+    "Mexique",
+    "Bruxelles",
+    "Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

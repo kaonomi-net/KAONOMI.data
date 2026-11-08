@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-malvertising",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "malvertising",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Publicités malveillantes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les campagnes de publicités piégées."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "malvertising",
+  "tags": [
+    "#CYBERSECURITE",
+    "#MALWARE"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "réseaux sociaux",
+    "publicités malveillantes",
+    "moteurs de recherche",
+    "faux logiciels"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

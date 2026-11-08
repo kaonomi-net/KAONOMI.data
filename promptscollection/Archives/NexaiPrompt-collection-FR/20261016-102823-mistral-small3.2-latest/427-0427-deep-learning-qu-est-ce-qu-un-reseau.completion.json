@@ -1,0 +1,13 @@
+{
+  "index": 427,
+  "file": "0427-deep-learning-qu-est-ce-qu-un-reseau.prompt.json",
+  "prompt": "Qu'est-ce qu'un réseau de neurones récurrent (RNN, LSTM) ?",
+  "promptWords": 9,
+  "completion": "Un réseau de neurones récurrent (RNN, pour *Recurrent Neural Network*) est un type de réseau de neurones artificiels conçu pour traiter des séquences de données, comme du texte, des séries temporelles ou des vidéos. Contrairement aux réseaux de neurones classiques (comme les perceptrons multicouches), les RNN ont une structure qui permet de conserver une \"mémoire\" des informations précédentes dans la séquence, ce qui les rend particulièrement adaptées aux données séquentielles.\n\n### Fonctionnement des RNN\nLes RNN utilisent des boucles internes qui permettent de réinjecter les informations traitées à chaque étape dans le traitement de l'étape suivante. Cela signifie que l'état du réseau à un instant *t* dépend non seulement de l'entrée actuelle, mais aussi des entrées précédentes.\n\n### Problèmes des RNN classiques\nLes RNN classiques souffrent de deux problèmes majeurs :\n1. **Le problème du gradient disparaissant** : Les gradients deviennent très petits lors du rétropropageage à travers le temps, ce qui rend l'apprentissage difficile pour les longues séquences.\n2. **Le problème du gradient explosant** : Les gradients deviennent très grands, ce qui peut faire diverger l'apprentissage.\n\n### LSTM (Long Short-Term Memory)\nPour résoudre ces problèmes, les réseaux LSTM (*Long Short-Term Memory*) ont été introduits. Les LSTM sont une variante des RNN qui utilisent des mécanismes de \"portes\" (input gate, forget gate, output gate) pour contrôler le flux d'information et permettre à la mémoire de conserver des informations importantes sur de longues périodes.\n\n### Applications des RNN et LSTM\n- **Traitement du langage naturel (NLP)** : Traduction automatique, génération de texte, reconnaissance de la parole.\n- **Séries temporelles** : Prévision financière, analyse de données météorologiques.\n- **Reconnaissance de motifs** : Analyse de vidéos, reconnaissance de gestes.\n\nLes RNN et LSTM sont particulièrement utiles lorsque les données ont une structure séquentielle et que les relations entre les éléments de la séquence sont importantes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:43:17.560049+02:00",
+  "durationSeconds": 8.92,
+  "stats": "mistral-small3.2:latest · 526 + 442 tokens · 8,9 s",
+  "isError": false,
+  "language": "FR"
+}

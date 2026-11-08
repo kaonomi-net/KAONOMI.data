@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-agriculteurs-en-colere",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Agriculteurs en colère",
+  "includedEntities": [
+    {
+      "entityName": "agriculteurs",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "mobilisation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les mobilisations agricoles.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "FNSEA",
+    "Coordination rurale",
+    "Mercosur"
+  ],
+  "questions": [
+    "Quelle revendication ?",
+    "Quelles actions ?",
+    "Quelle réponse du gouvernement ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#AGRICULTURE",
+    "#SOCIAL"
+  ],
+  "events": [
+    "@MOBILISATION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

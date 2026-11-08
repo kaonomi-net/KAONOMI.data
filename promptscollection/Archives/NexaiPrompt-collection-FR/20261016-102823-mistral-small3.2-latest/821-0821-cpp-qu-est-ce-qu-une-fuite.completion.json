@@ -1,0 +1,13 @@
+{
+  "index": 821,
+  "file": "0821-cpp-qu-est-ce-qu-une-fuite.prompt.json",
+  "prompt": "Qu'est-ce qu'une fuite mémoire et comment la détecter ?",
+  "promptWords": 9,
+  "completion": "Une **fuite mémoire** (ou *memory leak* en anglais) est un problème de gestion de la mémoire dans un programme informatique où la mémoire allouée dynamiquement n'est pas libérée correctement après son utilisation. Cela peut entraîner une consommation excessive de mémoire, ralentir le système ou même provoquer des plantages.\n\n### **Causes courantes des fuites mémoire**\n1. **Allocation sans libération** : Un programme alloue de la mémoire mais oublie de la libérer.\n2. **Références circulaires** : Dans certains langages (comme Java ou C#), des objets peuvent se référencer mutuellement sans être collectés par le garbage collector.\n3. **Mauvaise gestion des ressources** : Fermeture incorrecte de fichiers, connexions réseau, etc.\n4. **Bibliothèques ou frameworks mal optimisés** : Certains outils peuvent ne pas libérer correctement la mémoire.\n\n### **Comment détecter une fuite mémoire ?**\n1. **Outils de profilage** :\n   - **Valgrind** (Linux) : Un outil puissant pour détecter les fuites mémoire en C/C++.\n   - **Visual Studio Debugger** (Windows) : Permet de suivre l'utilisation de la mémoire.\n   - **Chrome DevTools** (pour les applications web) : L'onglet *Memory* permet d'analyser les fuites.\n   - **Java Mission Control (JMC)** ou **Eclipse Memory Analyzer (MAT)** pour les applications Java.\n\n2. **Surveillance de la consommation mémoire** :\n   - Observer l'évolution de l'utilisation mémoire sur une longue période.\n   - Utiliser des outils comme **htop** (Linux) ou le **Gestionnaire des tâches** (Windows).\n\n3. **Tests unitaires et d'intégration** :\n   - Écrire des tests qui vérifient que la mémoire est correctement libérée après chaque opération.\n\n4. **Analyse des logs et des rapports d'erreurs** :\n   - Certains systèmes génèrent des alertes en cas de fuite mémoire.\n\n### **Exemple en C++ (avec Valgrind)**\n```cpp\n#include <iostream>\n#include <cstdlib>\n\nint main() {\n    int *ptr = new int(42); // Allocation mémoire\n    // Oubli de delete ptr; // <-- Fuite mémoire ici\n    return 0;\n}\n```\nEn exécutant avec Valgrind :\n```bash\nvalgrind --leak-check=full ./mon_programme\n```\nValgrind signalera la fuite mémoire.\n\nSi vous avez un cas spécifique ou un langage de programmation particulier en tête, n'hésitez pas à préciser pour des conseils plus ciblés !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:20:35.3604234+02:00",
+  "durationSeconds": 11.56,
+  "stats": "mistral-small3.2:latest · 520 + 567 tokens · 11,6 s",
+  "isError": false,
+  "language": "FR"
+}

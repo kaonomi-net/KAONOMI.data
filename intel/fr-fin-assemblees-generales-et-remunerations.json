@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-assemblees-generales-et-remunerations",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Assemblées générales et rémunérations",
+  "includedEntities": [
+    {
+      "entityName": "assemblée générale",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "rémunération",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les votes sur la rémunération des dirigeants.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "printemps"
+  ],
+  "relatedEntities": [
+    "actionnaires",
+    "proxy advisors",
+    "dirigeants"
+  ],
+  "questions": [
+    "Quel vote ?",
+    "Quelle contestation ?",
+    "Quel montant ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#GOUVERNANCE"
+  ],
+  "events": [
+    "@ASSEMBLEE-GENERALE"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "isDeleted": false
+}

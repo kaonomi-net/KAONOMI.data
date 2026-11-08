@@ -1,0 +1,13 @@
+{
+  "index": 227,
+  "file": "0227-cybersecurite-explique-l-authentification-multifacteur-de-facon.prompt.json",
+  "prompt": "Explique l'authentification multifacteur de façon simple.",
+  "promptWords": 6,
+  "completion": "L'authentification multifacteur (MFA) est une méthode de sécurité qui demande à un utilisateur de fournir deux ou plusieurs types de preuves pour accéder à un compte ou à un système. L'idée est de rendre plus difficile pour un pirate informatique de contourner la sécurité, même s'il connaît le mot de passe.\n\nVoici comment ça fonctionne de façon simple :\n\n1. **Premier facteur** : quelque chose que vous savez (comme un mot de passe ou une question secrète).\n2. **Deuxième facteur** : quelque chose que vous possédez (comme un code envoyé par SMS, une application d'authentification sur votre téléphone, ou une clé physique).\n3. **Troisième facteur (optionnel)** : quelque chose que vous êtes (comme une empreinte digitale ou une reconnaissance faciale).\n\nPar exemple, quand vous vous connectez à votre compte bancaire en ligne, vous entrez d'abord votre mot de passe (premier facteur). Ensuite, la banque vous envoie un code par SMS ou via une application (deuxième facteur). Vous devez entrer ce code pour accéder à votre compte. Même si quelqu'un vole votre mot de passe, il ne pourra pas accéder à votre compte sans le deuxième facteur.\n\nEn résumé, l'authentification multifacteur ajoute une couche de sécurité supplémentaire pour protéger vos informations personnelles.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:07:40.17802+02:00",
+  "durationSeconds": 5.77,
+  "stats": "mistral-small3.2:latest · 521 + 282 tokens · 5,8 s",
+  "isError": false,
+  "language": "FR"
+}

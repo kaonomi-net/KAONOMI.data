@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-cout-de-l-entrainement-des-modeles",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Coût de l'entraînement des modèles",
+  "includedEntities": [
+    {
+      "entityName": "entraînement",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "coût",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "GPU",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le coût d'entraînement des grands modèles.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Nvidia",
+    "data centers",
+    "électricité"
+  ],
+  "questions": [
+    "Quel coût annoncé ?",
+    "Combien de GPU ?",
+    "Quelle consommation électrique ?"
+  ],
+  "tags": [
+    "#IA",
+    "#COUT",
+    "#INFRASTRUCTURE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

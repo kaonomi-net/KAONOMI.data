@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ukrzaliznytsia",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "Ukrzaliznytsia",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Frappes sur les chemins de fer.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les attaques contre le réseau ferroviaire ukrainien."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Ukrzaliznytsia",
+  "tags": [
+    "#UKRAINE",
+    "#TRANSPORT",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE"
+  ],
+  "signals": [
+    "!VULNERABILITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "logistique",
+    "chemins de fer",
+    "frappe",
+    "trains",
+    "gares"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

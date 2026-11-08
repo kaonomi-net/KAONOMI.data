@@ -1,0 +1,13 @@
+{
+  "index": 139,
+  "file": "0139-microsoft-office-comment-compter-les-cellules-non-vides.prompt.json",
+  "prompt": "Comment compter les cellules non vides dans Excel ?",
+  "promptWords": 9,
+  "completion": "Pour compter les cellules non vides dans Excel, vous pouvez utiliser la fonction `NBVAL` (ou `COUNTBLANK` pour compter les cellules vides, mais nous allons nous concentrer sur les non vides).\n\nVoici comment procéder :\n\n1. **Fonction NBVAL** :\n   - La fonction `NBVAL` compte le nombre de cellules qui contiennent des nombres dans une plage donnée.\n   - Syntaxe : `=NBVAL(plage)`\n   - Exemple : `=NBVAL(A1:A10)` compte le nombre de cellules non vides contenant des nombres dans la plage A1 à A10.\n\n2. **Fonction NB.SI** (pour des critères spécifiques) :\n   - Si vous voulez compter les cellules non vides avec un critère spécifique, vous pouvez utiliser `NB.SI`.\n   - Syntaxe : `=NB.SI(plage; critère)`\n   - Exemple : `=NB.SI(A1:A10; \"<>\")` compte toutes les cellules non vides dans la plage A1 à A10.\n\n3. **Fonction SOMMEPROD** (pour des conditions complexes) :\n   - Si vous avez des conditions plus complexes, vous pouvez utiliser `SOMMEPROD`.\n   - Exemple : `=SOMMEPROD(--(A1:A10<>\"\"))` compte toutes les cellules non vides dans la plage A1 à A10.\n\n4. **Fonction LIGNE** ou **COLONNE** (pour des comptages spécifiques) :\n   - Vous pouvez également utiliser des combinaisons de fonctions comme `LIGNE` ou `COLONNE` avec `NB.SI` pour des comptages plus spécifiques.\n\nSi vous avez besoin de compter toutes les cellules non vides (y compris celles contenant du texte ou des formules), vous pouvez utiliser la fonction `NB.SI` avec le critère `<>\"\"` (différent de vide).\n\nExemple :\n```excel\n=NB.SI(A1:A10; \"<>\")\n```\n\nCette formule comptera toutes les cellules non vides dans la plage A1 à A10.\n\nSi vous avez besoin d'aide pour une situation spécifique, n'hésitez pas à me le dire !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:54:19.6598453+02:00",
+  "durationSeconds": 9.53,
+  "stats": "mistral-small3.2:latest · 516 + 472 tokens · 9,5 s",
+  "isError": false,
+  "language": "FR"
+}

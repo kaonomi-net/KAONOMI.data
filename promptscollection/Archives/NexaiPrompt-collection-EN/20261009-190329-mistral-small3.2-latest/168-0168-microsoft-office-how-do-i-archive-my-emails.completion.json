@@ -1,0 +1,13 @@
+{
+  "index": 168,
+  "file": "0168-microsoft-office-how-do-i-archive-my-emails.prompt.json",
+  "prompt": "How do I archive my emails in Outlook?",
+  "promptWords": 8,
+  "completion": "Archiving emails in Outlook helps you manage your inbox by moving older emails to a separate archive folder. Here’s how you can do it:\n\n### **Method 1: Using Auto-Archive (Automatic Archiving)**\n1. **Open Outlook** and go to **File** > **Options**.\n2. Select **Advanced** from the left-hand menu.\n3. Under the **Auto-Archive** section, click **Auto-Archive Settings**.\n4. Check the box **Run Auto-Archive every** and set the frequency (e.g., every 14 days).\n5. Choose where to move old items (e.g., archive file or a folder within your mailbox).\n6. Click **OK** to save the settings.\n\n### **Method 2: Manually Archiving Emails**\n1. **Select the emails** you want to archive (or press **Ctrl+A** to select all).\n2. Right-click and choose **Move** > **Other Folder**.\n3. Select **Archive Folder** (or create a new folder for archiving).\n4. Click **OK**.\n\n### **Method 3: Using the Archive Feature (Outlook 2016 and later)**\n1. Select the emails you want to archive.\n2. Click the **Home** tab.\n3. In the **Move** group, click **Archive** (or press **Ctrl+Alt+A**).\n4. Choose a destination folder (e.g., Archive folder).\n\n### **Method 4: Using the Archive Button (Outlook on the Web)**\n1. Log in to **Outlook on the Web** (Outlook.com or Office 365).\n2. Select the emails you want to archive.\n3. Click the **Archive** button (folder icon with a downward arrow).\n\nWould you like help with a specific version of Outlook? Let me know!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:34:10.4755933+02:00",
+  "durationSeconds": 9.85,
+  "stats": "mistral-small3.2:latest · 516 + 382 tokens · 9,9 s",
+  "isError": false,
+  "language": "EN"
+}

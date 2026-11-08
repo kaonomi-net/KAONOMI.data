@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les bibliothèques d'apprentissage profond) : Interface de haut niveau pour les réseaux de neurones créée par François Chollet, intégrée à TensorFlow.",
+  "id": "ia-keras",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "Keras",
+  "entityType": "SOFTWARE",
+  "description": "Interface de haut niveau pour les réseaux de neurones créée par François Chollet, intégrée à TensorFlow.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "Les historiens de l'informatique considèrent Keras comme une étape des bibliothèques d'apprentissage profond.",
+    "Le chercheur cite Keras dans son article sur les bibliothèques d'apprentissage profond.",
+    "Le développeur a utilisé Keras pour son projet."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Keras"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#BIBLIOTHEQUESAPPRENTISSAGEPROF"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Keras"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "TensorFlow"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,49 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-aides-a-l-apprentissage",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "aides à l'apprentissage",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Jeunesse et emploi.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'emploi des jeunes et l'apprentissage."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "aides à l'apprentissage",
+  "tags": [
+    "#FRANCE",
+    "#JEUNESSE",
+    "#EMPLOI"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "jeunes",
+    "apprentissage",
+    "universités",
+    "emploi",
+    "chômage des jeunes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

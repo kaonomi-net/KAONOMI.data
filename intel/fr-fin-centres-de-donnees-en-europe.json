@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-centres-de-donnees-en-europe",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Centres de données en Europe",
+  "includedEntities": [
+    {
+      "entityName": "centres de données",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Europe",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les investissements dans les centres de données européens.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Belgique",
+    "Pays-Bas"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "IA",
+    "électricité",
+    "gigafactories"
+  ],
+  "questions": [
+    "Quel projet ?",
+    "Quel montant ?",
+    "Quel investisseur ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#IA",
+    "#CENTRES-DE-DONNEES"
+  ],
+  "events": [
+    "@INVESTISSEMENT"
+  ],
+  "signals": [
+    "!INVESTISSEMENT"
+  ],
+  "isDeleted": false
+}

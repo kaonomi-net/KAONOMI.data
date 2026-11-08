@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-negociations",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "négociations",
+  "entityType": "DOMAIN",
+  "description": "Cité par 12 intels : Porte-parole Dmitri Peskov ; Sondages sur la guerre en Russie ; Envoyés spéciaux américains ; Sommet entre Trump et Poutine ; Relation entre Trump et Zelensky ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les déclarations du porte-parole du Kremlin.",
+    "Suivre l'opinion publique russe sur la guerre.",
+    "Suivre les missions des envoyés spéciaux américains."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "négociations",
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#ETATS-UNIS",
+    "#DIPLOMATIE",
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT"
+  ],
+  "events": [
+    "@DECLARATION",
+    "@MISSION-DIPLOMATIQUE",
+    "@SOMMET"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!INDICATEUR",
+    "!COMMUNICATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Kremlin",
+    "Kyiv",
+    "Trump",
+    "Ukraine",
+    "Poutine",
+    "Moscou",
+    "Washington",
+    "Zelensky",
+    "réformes",
+    "adhésion"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

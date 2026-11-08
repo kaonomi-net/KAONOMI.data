@@ -1,0 +1,13 @@
+{
+  "index": 956,
+  "file": "0956-rust-comment-rust-garantit-il-la-securite.prompt.json",
+  "prompt": "Comment Rust garantit-il la sécurité mémoire sans ramasse-miettes ?",
+  "promptWords": 9,
+  "completion": "Rust garantit la sécurité mémoire sans utiliser de ramasse-miettes (garbage collector) grâce à plusieurs mécanismes innovants intégrés dans son système de types et son emprunt (borrowing) :\n\n1. **Propriété (Ownership)** :\n   - Chaque valeur en Rust a un propriétaire unique.\n   - Quand le propriétaire sort de portée, la valeur est automatiquement libérée.\n   - Cela évite les fuites mémoire en s'assurant que chaque allocation a une durée de vie bien définie.\n\n2. **Emprunt (Borrowing)** :\n   - Rust distingue les références **immuables** (plusieurs peuvent exister simultanément) et **mutables** (une seule à la fois).\n   - Le compilateur vérifie que les références ne vivent pas plus longtemps que la donnée qu'elles pointent.\n   - Cela empêche les accès à des mémoire invalides (dangling pointers).\n\n3. **Vérification du compilateur** :\n   - Le compilateur Rust analyse le code pour détecter les violations de sécurité mémoire à la compilation.\n   - Si une règle de sécurité est violée, le code ne compile pas.\n\n4. **Types intelligents (Smart Pointers)** :\n   - Rust fournit des types comme `Rc` (Reference Counting) et `Arc` (Atomic Reference Counting) pour le partage entre threads.\n   - `RefCell` et `Mutex` permettent un contrôle fin de l'accès aux données.\n\n5. **Pas de ramasse-miettes** :\n   - Contrairement à des langages comme Java ou C#, Rust n'a pas besoin d'un ramasse-miettes car la libération mémoire est déterministe (au moment où les variables sortent de portée).\n\nCes mécanismes permettent à Rust d'offrir une sécurité mémoire comparable à celle des langages à ramasse-miettes, mais avec des performances proches de celles du C/C++.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:54:26.6732087+02:00",
+  "durationSeconds": 8.07,
+  "stats": "mistral-small3.2:latest · 521 + 397 tokens · 8,1 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-union-europeenne-et-arctique",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Union européenne et Arctique",
+  "includedEntities": [
+    {
+      "entityName": "Arctique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Groenland",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la politique européenne dans l'Arctique et autour du Groenland.",
+  "isFuzzy": true,
+  "locations": [
+    "Groenland",
+    "Nuuk"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Danemark",
+    "États-Unis",
+    "matières premières"
+  ],
+  "questions": [
+    "Quelle position ?",
+    "Quel investissement ?",
+    "Quelle réaction aux ambitions américaines ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ARCTIQUE",
+    "#GROENLAND"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

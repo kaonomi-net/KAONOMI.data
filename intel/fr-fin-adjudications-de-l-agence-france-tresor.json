@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-adjudications-de-l-agence-france-tresor",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Adjudications de l'Agence France Trésor",
+  "includedEntities": [
+    {
+      "entityName": "adjudication",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Agence France Trésor",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les émissions de dette de la France et la demande des investisseurs.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [
+    "chaque semaine"
+  ],
+  "relatedEntities": [
+    "OAT",
+    "demande",
+    "taux"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quelle demande ?",
+    "Quel taux ?"
+  ],
+  "tags": [
+    "#DETTE",
+    "#FRANCE"
+  ],
+  "events": [
+    "@EMISSION"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

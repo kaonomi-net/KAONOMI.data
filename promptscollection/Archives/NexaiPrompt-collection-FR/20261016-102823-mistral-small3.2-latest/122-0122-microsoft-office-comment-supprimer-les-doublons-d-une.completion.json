@@ -1,0 +1,13 @@
+{
+  "index": 122,
+  "file": "0122-microsoft-office-comment-supprimer-les-doublons-d-une.prompt.json",
+  "prompt": "Comment supprimer les doublons d'une liste dans Excel ?",
+  "promptWords": 9,
+  "completion": "Pour supprimer les doublons d'une liste dans Excel, vous pouvez suivre ces étapes :\n\n1. **Sélectionnez la plage de cellules** contenant les données dont vous souhaitez supprimer les doublons. Par exemple, si vos données sont dans la colonne A, sélectionnez cette colonne.\n\n2. **Accédez à l'onglet \"Données\"** dans le ruban Excel.\n\n3. **Cliquez sur \"Supprimer les doublons\"**. Cette option se trouve dans le groupe \"Outils de données\".\n\n4. **Une boîte de dialogue apparaîtra**. Excel vous demandera de confirmer la plage de données à traiter. Vous pouvez également choisir d'inclure les en-têtes si votre liste en contient.\n\n5. **Cliquez sur \"OK\"**. Excel supprimera les doublons et affichera un message vous indiquant combien de doublons ont été supprimés et combien de valeurs uniques restent.\n\nEt voilà ! Vos données sont maintenant exemptes de doublons. Si vous avez besoin de plus d'aide, n'hésitez pas à demander.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:51:36.9796679+02:00",
+  "durationSeconds": 4.6,
+  "stats": "mistral-small3.2:latest · 519 + 222 tokens · 4,6 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-detenu",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "détenu",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Journalistes tués ou détenus.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les journalistes tués, blessés ou détenus dans la guerre."
+  ],
+  "angryLevel": null,
+  "sadLevel": 100,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "détenu",
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#JOURNALISME"
+  ],
+  "events": [
+    "@SIGNALEMENT"
+  ],
+  "signals": [
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "journalistes",
+    "front",
+    "prisons",
+    "Reporters sans frontières",
+    "tué"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-colruyt",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Colruyt",
+  "includedEntities": [
+    {
+      "entityName": "Colruyt",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "distribution",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Colruyt et la concurrence dans la distribution belge.",
+  "isFuzzy": false,
+  "locations": [
+    "Hal"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "prix",
+    "parts de marché",
+    "Delhaize"
+  ],
+  "questions": [
+    "Quelles parts de marché ?",
+    "Quelle marge ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BELGIQUE",
+    "#DISTRIBUTION"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

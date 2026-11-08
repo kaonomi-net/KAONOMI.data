@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ville de l'Union européenne (la géographie européenne) : Sofia, capitale de ce pays : Bulgarie.",
+  "id": "eu-ville-sofia",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "Sofia",
+  "entityType": "CITY",
+  "description": "Sofia, capitale de ce pays : Bulgarie.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-villes",
+  "sentencesExemples": [
+    "La ville de Sofia accueille une institution ou un événement européen.",
+    "Plusieurs fonctionnaires européens travaillent à Sofia.",
+    "Le siège installé à Sofia emploie des agents de nombreuses nationalités."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFD9",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#CITY",
+    "#GEOGRAPHIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Sofia"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bulgarie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 887,
+  "file": "0887-design-patterns-quelle-est-la-difference-entre-adapter.prompt.json",
+  "prompt": "Quelle est la différence entre Adapter et Facade ?",
+  "promptWords": 9,
+  "completion": "Les patrons de conception **Adapter** et **Facade** sont tous deux utilisés pour structurer et simplifier l'interaction entre des composants logiciels, mais ils répondent à des besoins différents. Voici leurs différences principales :\n\n### **1. Adapter (Adaptateur)**\n- **Objectif** : Permet à des interfaces incompatibles de travailler ensemble.\n- **Utilisation** : Convertit l'interface d'une classe en une autre interface attendue par les clients.\n- **Exemple** :\n  - Vous avez une classe `VieuxLecteurFichier` qui lit des fichiers dans un format obsolète, mais vous voulez l'utiliser avec une nouvelle application qui attend un `NouveauLecteurFichier`.\n  - L'**Adapter** crée une classe intermédiaire qui transforme les appels de `NouveauLecteurFichier` en appels compatibles avec `VieuxLecteurFichier`.\n\n### **2. Facade (Façade)**\n- **Objectif** : Fournit une interface simplifiée pour un système complexe.\n- **Utilisation** : Masque la complexité d'un sous-système en offrant une interface unique et simplifiée.\n- **Exemple** :\n  - Vous avez un système multimédia complexe avec plusieurs composants (`LecteurDVD`, `Amplificateur`, `Projecteur`).\n  - La **Facade** (`HomeTheaterFacade`) permet de lancer un film avec une seule méthode (`playMovie()`) au lieu d'appeler chaque composant individuellement.\n\n### **Résumé des différences**\n| **Critère**       | **Adapter**                          | **Facade**                          |\n|-------------------|--------------------------------------|-------------------------------------|\n| **But**           | Rendre des interfaces incompatibles compatibles. | Simplifier l'accès à un système complexe. |\n| **Complexité**    | Résout un problème d'incompatibilité. | Réduit la complexité d'un système. |\n| **Exemple**       | Convertir une API ancienne en une nouvelle. | Un seul point d'entrée pour un système multimédia. |\n\nEn résumé :\n- **Adapter** = **Traduction d'interface**.\n- **Facade** = **Simplification d'interface**.\n\nSi vous avez un cas d'utilisation précis en tête, je peux vous aider à déterminer lequel des deux serait le plus adapté !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:36:45.23256+02:00",
+  "durationSeconds": 10.1,
+  "stats": "mistral-small3.2:latest · 518 + 498 tokens · 10,1 s",
+  "isError": false,
+  "language": "FR"
+}

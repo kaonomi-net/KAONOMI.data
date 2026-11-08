@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-rire",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Exprimer la gaieté par le rire.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ri(re|t|ent|ait|aient|ons|ez)|rigol(er|e|ent|ade|ades|o|ote)|[ée]clat(s)?\\s+de\\s+rire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fou\\s+rire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hilare(s)?)(?![\\w-])"
+  ],
+  "symbol": "rire",
+  "event": null,
+  "title": "Rire",
+  "tags": [
+    "#JOIE",
+    "#HUMOUR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la politique économique) : Monnaie unique introduite en 1999 pour les marchés et en 2002 sous forme de billets et de pièces.",
+  "id": "eu-pol-euro",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Euro et union économique et monétaire",
+  "entityType": "LAW",
+  "description": "Monnaie unique introduite en 1999 pour les marchés et en 2002 sous forme de billets et de pièces.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Euro et union économique et monétaire ».",
+    "La mise en œuvre de « Euro et union économique et monétaire » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Euro et union économique et monétaire »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "UEM",
+    "zone euro"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#POLITIQUEECONOMIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Euro%20et%20union%20%C3%A9conomique%20et%20mon%C3%A9taire"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Banque centrale européenne",
+    "Économie",
+    "Direction générale des affaires économiques et financières",
+    "Commission Santer",
+    "Traité de Maastricht",
+    "Mise en circulation des billets et pièces en euros",
+    "Adoption de l'euro par la Bulgarie"
+  ],
+  "isDeleted": false,
+  "startDate": "1999-01-01T00:00:00",
+  "endDate": null
+}

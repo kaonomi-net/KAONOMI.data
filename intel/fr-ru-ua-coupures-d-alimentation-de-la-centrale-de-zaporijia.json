@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-coupures-d-alimentation-de-la-centrale-de-zaporijia",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Coupures d'alimentation de la centrale de Zaporijia",
+  "includedEntities": [
+    {
+      "entityName": "Zaporijia",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "alimentation électrique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "diesel",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les pertes d'alimentation externe de la centrale.",
+  "isFuzzy": true,
+  "locations": [
+    "Enerhodar"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "générateurs diesel",
+    "refroidissement",
+    "AIEA"
+  ],
+  "questions": [
+    "Combien de temps ?",
+    "Quelle réserve de diesel ?",
+    "Quel risque ?"
+  ],
+  "tags": [
+    "#NUCLEAIRE",
+    "#UKRAINE",
+    "#RISQUE"
+  ],
+  "events": [
+    "@ALERTE-NUCLEAIRE"
+  ],
+  "signals": [
+    "!RISQUE",
+    "!FEAR"
+  ],
+  "isDeleted": false
+}

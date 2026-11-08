@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-deflation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La baisse générale et durable des prix.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]flation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]flationniste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:spirale\\s+d[ée]flationniste)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:baisse\\s+g[ée]n[ée]ralis[ée]e\\s+des\\s+prix)(?![\\w-])"
+  ],
+  "symbol": "déflation",
+  "event": null,
+  "title": "Déflation",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-fintech-et-intelligence-artificielle",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Fintech et intelligence artificielle",
+  "includedEntities": [
+    {
+      "entityName": "fintech",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage de l'IA dans la finance.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "banques",
+    "assurance",
+    "conformité"
+  ],
+  "questions": [
+    "Quel usage ?",
+    "Quel risque ?",
+    "Quelle régulation ?"
+  ],
+  "tags": [
+    "#FINANCE",
+    "#IA",
+    "#FINTECH"
+  ],
+  "events": [],
+  "signals": [
+    "!INNOVATION"
+  ],
+  "isDeleted": false
+}

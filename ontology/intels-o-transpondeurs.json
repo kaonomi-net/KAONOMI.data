@@ -1,0 +1,54 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-transpondeurs",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "transpondeurs",
+  "entityType": "HARDWARE",
+  "description": "Cité par 1 intel : Avions russes près de l'espace aérien de l'OTAN.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre les interceptions d'avions militaires russes par l'OTAN."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "transpondeurs",
+  "tags": [
+    "#OTAN",
+    "#RUSSIE",
+    "#ESPACE-AERIEN"
+  ],
+  "events": [
+    "@INTERCEPTION"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "mer Baltique",
+    "police du ciel",
+    "avions russes",
+    "chasseurs",
+    "interception",
+    "mer du Nord",
+    "mer Noire",
+    "OTAN"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

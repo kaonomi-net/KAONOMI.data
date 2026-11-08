@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-accords",
+  "dateCreated": "2026-11-08 17:55:34",
+  "name": "accords",
+  "entityType": "LAW",
+  "description": "Cité par 3 intels : Maroš Šefčovič et le commerce ; Droit à la déconnexion ; Qualité de vie au travail.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre les négociations commerciales menées par Maroš Šefčovič.",
+    "Suivre l'application du droit à la déconnexion.",
+    "Suivre les démarches de qualité de vie et des conditions de travail."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "accords",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#TRAVAIL",
+    "#COMMISSION-EUROPEENNE",
+    "#COMMERCE",
+    "#SEFCOVIC",
+    "#NUMERIQUE"
+  ],
+  "events": [
+    "@NEGOCIATION"
+  ],
+  "signals": [
+    "!PREVENTION",
+    "!TENSION-COMMERCIALE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Pékin",
+    "commerce",
+    "Washington",
+    "droits de douane",
+    "Šefčovič",
+    "États-Unis",
+    "Belgique",
+    "hyperconnexion",
+    "courriels",
+    "salariés"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

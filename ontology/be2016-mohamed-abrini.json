@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne des attentats de Bruxelles de 2016 (la cellule terroriste) : Surnommé « l'homme au chapeau », il accompagnait les deux kamikazes de l'aéroport et a pris la fuite sans déclencher sa bombe.",
+  "id": "be2016-mohamed-abrini",
+  "dateCreated": "2026-10-31 19:28:40",
+  "name": "Mohamed Abrini",
+  "entityType": "PERSON",
+  "description": "Surnommé « l'homme au chapeau », il accompagnait les deux kamikazes de l'aéroport et a pris la fuite sans déclencher sa bombe. Arrêté le 8 avril 2016, il a été jugé au procès des attentats de Bruxelles ; il avait aussi accompagné Salah Abdeslam vers Paris peu avant le 13 novembre 2015.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-personnes",
+  "sentencesExemples": [
+    "Le nom de Mohamed Abrini apparaît dans de nombreux articles consacrés aux attentats de 2016.",
+    "La chronologie des faits mentionne Mohamed Abrini.",
+    "Les archives de presse de 2016 citent Mohamed Abrini."
+  ],
+  "angryLevel": 4,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 1,
+  "disgustLevel": 4,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "l'homme au chapeau"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#PERSON",
+    "#CELLULETERRORISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Mohamed%20Abrini"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Attentat de l'aéroport de Bruxelles-National",
+    "Troisième bombe de l'aéroport",
+    "Cellule terroriste Paris-Bruxelles",
+    "Image de vidéosurveillance de l'aéroport",
+    "Arrestation de Mohamed Abrini et d'Osama Krayem",
+    "Procès des attentats de Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": "1984-01-01T00:00:00",
+  "endDate": null
+}

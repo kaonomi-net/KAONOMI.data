@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-retour-des-enfants-ukrainiens",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Retour des enfants ukrainiens",
+  "includedEntities": [
+    {
+      "entityName": "enfants ukrainiens",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "retour",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les négociations sur le retour des enfants transférés en Russie.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Qatar",
+    "Vatican",
+    "CPI"
+  ],
+  "questions": [
+    "Combien d'enfants rentrent ?",
+    "Quel médiateur ?",
+    "Quelle procédure ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#ENFANTS",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@RETOUR-ENFANTS"
+  ],
+  "signals": [
+    "!HUMANITAIRE"
+  ],
+  "isDeleted": false
+}

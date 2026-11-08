@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-rance",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui a pris une odeur et un goût âcres.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:rance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rancir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ranci(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:aigre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tourn[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "rance",
+  "event": null,
+  "title": "Rance",
+  "tags": [
+    "#DISGUST",
+    "#NOURRITURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

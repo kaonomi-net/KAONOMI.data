@@ -1,0 +1,13 @@
+{
+  "index": 100,
+  "file": "0100-microsoft-office-how-do-i-use-heading-styles.prompt.json",
+  "prompt": "How do I use heading styles in Word?",
+  "promptWords": 8,
+  "completion": "To use heading styles in Microsoft Word, follow these steps:\n\n1. **Open Your Document**: Start by opening your Word document where you want to apply heading styles.\n\n2. **Select the Text**: Highlight the text you want to format as a heading.\n\n3. **Apply a Heading Style**:\n   - Go to the **Home** tab on the ribbon.\n   - In the **Styles** group, you will see various heading styles (e.g., Heading 1, Heading 2, Heading 3, etc.).\n   - Click on the desired heading style to apply it to your selected text.\n\n4. **Modify the Style (Optional)**:\n   - If you want to change the appearance of a heading style, right-click on the style in the Styles group and select **Modify**.\n   - Adjust the font, size, color, and other formatting options as needed, then click **OK**.\n\n5. **Use the Navigation Pane (Optional)**:\n   - To see how your headings are structured, go to the **View** tab and check the **Navigation Pane** box.\n   - This will open a panel on the left side of your document, showing all the headings, which can help you navigate and organize your document.\n\nUsing heading styles is beneficial for creating a table of contents, improving document structure, and making it easier to navigate through long documents.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:22:34.3081435+02:00",
+  "durationSeconds": 7.01,
+  "stats": "mistral-small3.2:latest · 516 + 280 tokens · 7,0 s",
+  "isError": false,
+  "language": "EN"
+}

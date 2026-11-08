@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-ordonnances-budgetaires",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Ordonnances budgétaires",
+  "includedEntities": [
+    {
+      "entityName": "ordonnances",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "budget",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller un éventuel recours aux ordonnances pour le budget.",
+  "isFuzzy": true,
+  "locations": [
+    "Matignon"
+  ],
+  "times": [
+    "décembre"
+  ],
+  "relatedEntities": [
+    "article 47",
+    "Conseil constitutionnel",
+    "délais"
+  ],
+  "questions": [
+    "Le gouvernement y recourt-il ?",
+    "Quelle légalité ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#INSTITUTIONS"
+  ],
+  "events": [
+    "@ORDONNANCE"
+  ],
+  "signals": [
+    "!CRISE-POLITIQUE"
+  ],
+  "isDeleted": false
+}

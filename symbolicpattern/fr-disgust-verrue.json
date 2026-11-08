@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-verrue",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une petite excroissance de la peau.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:verrue(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:excroissance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:verruqueu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chancre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:l[ée]sion(s)?\\s+cutan[ée]e(s)?)(?![\\w-])"
+  ],
+  "symbol": "verrue",
+  "event": null,
+  "title": "Verrue",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

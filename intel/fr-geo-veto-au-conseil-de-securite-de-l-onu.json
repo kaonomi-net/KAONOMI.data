@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-veto-au-conseil-de-securite-de-l-onu",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Veto au Conseil de sécurité de l'ONU",
+  "includedEntities": [
+    {
+      "entityName": "Conseil de sécurité",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "veto",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "résolution",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les votes et veto au Conseil de sécurité des Nations unies.",
+  "isFuzzy": true,
+  "locations": [
+    "New York"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "membres permanents",
+    "résolution",
+    "Nations unies"
+  ],
+  "questions": [
+    "Quelle résolution ?",
+    "Quel pays met son veto ?",
+    "Quelles conséquences ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ONU",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@VOTE-ONU"
+  ],
+  "signals": [
+    "!BLOCAGE"
+  ],
+  "isDeleted": false
+}

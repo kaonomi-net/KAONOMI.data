@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique migratoire) : Agence de l'Union européenne pour l'asile (EUAA), organe de l'Union créé en 2010 et installé dans cette ville : La Valette.",
+  "id": "eu-ag-euaa",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence de l'Union européenne pour l'asile (EUAA)",
+  "entityType": "ORGANISATION",
+  "description": "Agence de l'Union européenne pour l'asile (EUAA), organe de l'Union créé en 2010 et installé dans cette ville : La Valette.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Agence de l'Union européenne pour l'asile (EUAA) ».",
+    "« Agence de l'Union européenne pour l'asile (EUAA) » joue un rôle dans la politique migratoire.",
+    "Les fonctionnaires de « Agence de l'Union européenne pour l'asile (EUAA) » préparent les textes relatifs à la politique migratoire."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "EUAA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUEMIGRATOIRE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20de%20l%27Union%20europ%C3%A9enne%20pour%20l%27asile%20%28EUAA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "La Valette",
+    "Direction générale de la migration et des affaires intérieures",
+    "Migration et asile"
+  ],
+  "isDeleted": false,
+  "startDate": "2010-01-01T00:00:00",
+  "endDate": null
+}

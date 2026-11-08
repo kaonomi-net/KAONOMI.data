@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-araignee",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un animal à huit pattes qui tisse des toiles.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:araign[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:toile(s)?\\s+d['’]araign[ée]e)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tarentule(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mygale(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:arachnide(s)?)(?![\\w-])"
+  ],
+  "symbol": "araignée",
+  "event": null,
+  "title": "Araignée",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

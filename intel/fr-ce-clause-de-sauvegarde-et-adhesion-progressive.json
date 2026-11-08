@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-clause-de-sauvegarde-et-adhesion-progressive",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Clause de sauvegarde et adhésion progressive",
+  "includedEntities": [
+    {
+      "entityName": "adhésion progressive",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "clause de sauvegarde",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les propositions d'intégration graduelle des pays candidats.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "marché unique",
+    "fonds",
+    "réversibilité"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quels pays concernés ?",
+    "Quel accueil ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#REFORME"
+  ],
+  "events": [],
+  "signals": [
+    "!ELARGISSEMENT"
+  ],
+  "isDeleted": false
+}

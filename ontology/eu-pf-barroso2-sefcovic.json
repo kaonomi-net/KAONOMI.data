@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Portefeuille de l'Union européenne (les relations interinstitutionnelles) : Portefeuille détenu par Maroš Šefčovič, vice-président, dans la Commission Barroso II, du 10 février 2010 au 31 octobre 2014.",
+  "id": "eu-pf-barroso2-sefcovic",
+  "dateCreated": "2026-10-31 20:18:16",
+  "name": "Relations interinstitutionnelles et administration (Commission Barroso II)",
+  "entityType": "PORTFOLIO",
+  "description": "Portefeuille détenu par Maroš Šefčovič, vice-président, dans la Commission Barroso II, du 10 février 2010 au 31 octobre 2014.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-portefeuilles",
+  "sentencesExemples": [
+    "Les eurodéputés ont interrogé le titulaire du portefeuille « Relations interinstitutionnelles et administration (Commission Barroso II) ».",
+    "Le portefeuille « Relations interinstitutionnelles et administration (Commission Barroso II) » couvre les relations interinstitutionnelles.",
+    "La lettre de mission du portefeuille « Relations interinstitutionnelles et administration (Commission Barroso II) » fixe les objectifs en matière des relations interinstitutionnelles."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBC",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PORTFOLIO",
+    "#RELATIONSINTERINSTITUTIONNELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Relations%20interinstitutionnelles%20et%20administration%20%28Commission%20Barroso%20II%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Maroš Šefčovič",
+    "Commission Barroso II",
+    "Vice-président de la Commission",
+    "Relations interinstitutionnelles",
+    "Administration"
+  ],
+  "isDeleted": false,
+  "startDate": "2010-02-10T00:00:00",
+  "endDate": "2014-10-31T00:00:00"
+}

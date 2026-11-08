@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Métier de l'Union européenne (la vie publique européenne) : Membre d'un gouvernement chargé du travail et de l'emploi.",
+  "id": "eu-met-ministre-travail",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Ministre du Travail",
+  "entityType": "PROFESSION",
+  "description": "Membre d'un gouvernement chargé du travail et de l'emploi.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-metiers",
+  "sentencesExemples": [
+    "La fiche « Ministre du Travail » décrit le rôle et les responsabilités associés.",
+    "Les candidats aux concours européens découvrent le métier « Ministre du Travail ».",
+    "Ministre du Travail : plusieurs personnalités de l'ontologie ont exercé cette fonction."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDF93",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PROFESSION",
+    "#VIEPUBLIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ministre%20du%20Travail"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ursula von der Leyen",
+    "Nicolas Schmit",
+    "Ylva Johansson"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

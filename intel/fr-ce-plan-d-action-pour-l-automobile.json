@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-plan-d-action-pour-l-automobile",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Plan d'action pour l'automobile",
+  "includedEntities": [
+    {
+      "entityName": "automobile",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "plan d'action",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "industrie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le plan européen de soutien à l'industrie automobile.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "constructeurs",
+    "batteries",
+    "CO2"
+  ],
+  "questions": [
+    "Quelles mesures ?",
+    "Quelle flexibilité CO2 ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#INDUSTRIE",
+    "#AUTOMOBILE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

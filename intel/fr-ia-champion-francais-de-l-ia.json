@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-champion-francais-de-l-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Champion français de l'IA",
+  "includedEntities": [
+    {
+      "entityName": "Mistral AI",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "France",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "souveraineté",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [
+    {
+      "entityName": "Meta",
+      "entityWeight": ""
+    }
+  ],
+  "triggerLevel": 50,
+  "instructions": "Suivre les acteurs français de l'IA et la souveraineté numérique.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Arthur Mensch",
+    "Bpifrance",
+    "H Company"
+  ],
+  "questions": [
+    "Quels contrats publics ?",
+    "Quel soutien de l'État ?",
+    "Quelle place face aux Américains ?"
+  ],
+  "tags": [
+    "#IA",
+    "#FRANCE",
+    "#SOUVERAINETE"
+  ],
+  "events": [
+    "@ACTEUR-NATIONAL"
+  ],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

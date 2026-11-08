@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-macron-et-l-afrique",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Macron et l'Afrique",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Afrique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "influence",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la politique africaine de la France.",
+  "isFuzzy": true,
+  "locations": [
+    "Sahel",
+    "Côte d'Ivoire",
+    "Sénégal"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "retrait militaire",
+    "Russie",
+    "coopération"
+  ],
+  "questions": [
+    "Quel retrait ?",
+    "Quel partenariat ?",
+    "Quelle tension ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#AFRIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "isDeleted": false
+}

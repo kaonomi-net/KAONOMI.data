@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de l'IA (la vision par ordinateur) : Architecture à connexions résiduelles qui permet d'entraîner des réseaux de plus de cent couches, proposée par Kaiming He et ses collègues de Microsoft Research.",
+  "id": "ia-resnet",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Réseau résiduel",
+  "entityType": "ALGORITHM",
+  "description": "Architecture à connexions résiduelles qui permet d'entraîner des réseaux de plus de cent couches, proposée par Kaiming He et ses collègues de Microsoft Research.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-algorithmes",
+  "sentencesExemples": [
+    "Pour ce projet, l'équipe a implémenté Réseau résiduel en quelques lignes de Python.",
+    "Comprendre Réseau résiduel est une étape clé pour maîtriser la vision par ordinateur.",
+    "Dans le domaine de la vision par ordinateur, Réseau résiduel reste une référence."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDEE",
+  "synonyms": [
+    "ResNet"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#ALGORITHM",
+    "#VISIONPARORDINATEUR"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A9seau%20r%C3%A9siduel"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Normalisation par lots"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-navires-marchands-vises-en-mer-noire",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Navires marchands visés en mer Noire",
+  "includedEntities": [
+    {
+      "entityName": "navire marchand",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "mer Noire",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "attaque",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Repérer les attaques contre des navires civils en mer Noire.",
+  "isFuzzy": true,
+  "locations": [
+    "Odessa",
+    "Danube"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "équipage",
+    "drapeau",
+    "assurance"
+  ],
+  "questions": [
+    "Quel navire ?",
+    "Quel pavillon ?",
+    "Quel bilan ?"
+  ],
+  "tags": [
+    "#MER-NOIRE",
+    "#MARITIME",
+    "#ATTAQUE"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

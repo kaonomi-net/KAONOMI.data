@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-von-der-leyen-et-la-crise-polonaise",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Von der Leyen et la crise polonaise",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Pologne",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Nawrocki",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre la position de la présidente dans le conflit entre le président polonais et le gouvernement de Donald Tusk.",
+  "isFuzzy": true,
+  "locations": [
+    "Varsovie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Donald Tusk",
+    "Karol Nawrocki",
+    "Tribunal constitutionnel"
+  ],
+  "questions": [
+    "Quel geste ?",
+    "Quelle déclaration ?",
+    "Quelle réaction de Varsovie ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#POLOGNE",
+    "#ETAT-DE-DROIT"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les distinctions) : Le prix Nobel de physique récompense John Hopfield et Geoffrey Hinton pour leurs découvertes fondatrices de l'apprentissage automatique par réseaux de neurones.",
+  "id": "ia-nobel-physique-2024",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Prix Nobel de physique 2024",
+  "entityType": "EVENT",
+  "description": "Le prix Nobel de physique récompense John Hopfield et Geoffrey Hinton pour leurs découvertes fondatrices de l'apprentissage automatique par réseaux de neurones.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "Les journaux de l'époque ont largement commenté l'événement « Prix Nobel de physique 2024 ».",
+    "L'événement « Prix Nobel de physique 2024 » a marqué durablement l'histoire des distinctions.",
+    "La frise chronologique de la salle de cours place « Prix Nobel de physique 2024 » en bonne place."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 4,
+  "fearLevel": 0,
+  "surpriseLevel": 3,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Nobel 2024 de physique"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#DISTINCTIONS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Prix%20Nobel%20de%20physique%202024"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Geoffrey Hinton",
+    "John Hopfield"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-10-08T00:00:00",
+  "endDate": "2024-10-08T00:00:00"
+}

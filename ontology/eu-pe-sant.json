@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la santé publique) : Commission de la santé publique du Parlement européen, chargée de la santé publique.",
+  "id": "eu-pe-sant",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission de la santé publique (SANT)",
+  "entityType": "ORGANISATION",
+  "description": "Commission de la santé publique du Parlement européen, chargée de la santé publique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "Les décisions de « Commission de la santé publique (SANT) » touchent la santé publique.",
+    "Le rapport annuel de « Commission de la santé publique (SANT) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Commission de la santé publique (SANT) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "SANT"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20de%20la%20sant%C3%A9%20publique%20%28SANT%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Santé"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

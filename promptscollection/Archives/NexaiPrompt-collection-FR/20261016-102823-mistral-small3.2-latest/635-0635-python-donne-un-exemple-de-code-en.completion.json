@@ -1,0 +1,13 @@
+{
+  "index": 635,
+  "file": "0635-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre les f-strings.",
+  "promptWords": 11,
+  "completion": "Voici un exemple de code en Python qui illustre l'utilisation des f-strings, une fonctionnalité introduite en Python 3.6 pour faciliter la mise en forme de chaînes de caractères :\n\n```python\n# Exemple de f-strings en Python\n\n# Variables d'exemple\nnom = \"Alice\"\nage = 25\nprix = 19.99\n\n# Utilisation de f-strings pour formater des chaînes\nmessage1 = f\"Bonjour, {nom} !\"\nmessage2 = f\"Tu as {age} ans.\"\nmessage3 = f\"Le prix est {prix:.2f} euros.\"\n\n# Affichage des résultats\nprint(message1)  # Bonjour, Alice !\nprint(message2)  # Tu as 25 ans.\nprint(message3)  # Le prix est 19.99 euros.\n\n# Exemple avec expression dans une f-string\nannee_future = 2023 + 5\nmessage4 = f\"Dans {5} ans, nous serons en {annee_future}.\"\nprint(message4)  # Dans 5 ans, nous serons en 2028.\n\n# Exemple avec appel de méthode dans une f-string\nmessage5 = f\"La longueur de '{nom}' est {len(nom)} caractères.\"\nprint(message5)  # La longueur de 'Alice' est 5 caractères.\n```\n\nLes f-strings permettent d'insérer directement des expressions Python dans des chaînes de caractères, ce qui rend le code plus lisible et concis. Elles sont particulièrement utiles pour le débogage et l'affichage de valeurs variables.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:35:38.6710331+02:00",
+  "durationSeconds": 7.3,
+  "stats": "mistral-small3.2:latest · 523 + 350 tokens · 7,3 s",
+  "isError": false,
+  "language": "FR"
+}

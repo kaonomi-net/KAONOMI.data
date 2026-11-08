@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-felicitations",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Des compliments pour un succès.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:f[ée]licitation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:f[ée]licit(er|e|[ée]|[ée]e|ons)|compliment(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chapeau\\s+bas)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:hourra)(?![\\w-])"
+  ],
+  "symbol": "félicitations",
+  "event": null,
+  "title": "Félicitations",
+  "tags": [
+    "#FETE",
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

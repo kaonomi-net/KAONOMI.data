@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la vie politique nationale) : Parti populaire (PP), parti politique de ce pays : Espagne.",
+  "id": "eu-parti-pp-es",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Parti populaire (PP)",
+  "entityType": "ORGANISATION",
+  "description": "Parti populaire (PP), parti politique de ce pays : Espagne. Il est affilié à la famille Parti populaire européen (PPE).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-partis-nationaux",
+  "sentencesExemples": [
+    "Les décisions de « Parti populaire (PP) » touchent la vie politique nationale.",
+    "Le rapport annuel de « Parti populaire (PP) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Parti populaire (PP) »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#VIEPOLITIQUENATIONALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parti%20populaire%20%28PP%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Espagne",
+    "Parti populaire européen (PPE)",
+    "Miguel Arias Cañete"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

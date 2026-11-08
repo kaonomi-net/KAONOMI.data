@@ -1,0 +1,13 @@
+{
+  "index": 301,
+  "file": "0301-ia-llm-qu-est-ce-qu-un-grand.prompt.json",
+  "prompt": "Qu'est-ce qu'un grand modèle de langage (LLM) ?",
+  "promptWords": 8,
+  "completion": "Un grand modèle de langage (LLM, pour *Large Language Model* en anglais) est un type d'intelligence artificielle conçu pour comprendre et générer du texte de manière cohérente et contextuelle. Voici quelques caractéristiques clés des LLM :\n\n1. **Architecture** : Ils sont généralement basés sur des réseaux de neurones, souvent des transformeurs (*transformers*), qui permettent de traiter de grandes quantités de données textuelles.\n\n2. **Volume de données** : Ils sont entraînés sur d'énormes corpus de texte, ce qui leur permet de comprendre une grande variété de sujets et de styles d'écriture.\n\n3. **Capacités** : Ils peuvent générer du texte, répondre à des questions, traduire des langues, résumer des documents, et même participer à des conversations de manière assez naturelle.\n\n4. **Contextualisation** : Ils prennent en compte le contexte des phrases précédentes pour générer des réponses pertinentes.\n\n5. **Applications** : Ils sont utilisés dans des domaines comme les assistants virtuels, la génération de contenu, le support client, et bien d'autres.\n\n6. **Limites** : Bien qu'ils soient très performants, ils ne comprennent pas vraiment le texte comme le ferait un humain. Ils génèrent des réponses basées sur des motifs qu'ils ont appris pendant leur entraînement.\n\nEn résumé, un LLM est une technologie puissante qui permet de traiter et de générer du texte de manière avancée, mais il a aussi ses limites et nécessite souvent une supervision humaine pour des applications critiques.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:21:09.8573544+02:00",
+  "durationSeconds": 6.72,
+  "stats": "mistral-small3.2:latest · 521 + 324 tokens · 6,7 s",
+  "isError": false,
+  "language": "FR"
+}

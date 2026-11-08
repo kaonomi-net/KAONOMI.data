@@ -1,0 +1,13 @@
+{
+  "index": 822,
+  "file": "0822-cpp-qu-est-ce-qu-un-comportement.prompt.json",
+  "prompt": "Qu'est-ce qu'un comportement indéfini (undefined behavior) en C++ ?",
+  "promptWords": 9,
+  "completion": "En C++, un comportement indéfini (ou *undefined behavior* en anglais) désigne une situation dans laquelle le langage C++ ne spécifie pas ce qui doit se produire. Cela signifie que le compilateur est libre de faire n'importe quoi, y compris générer du code qui semble fonctionner, planter le programme, ou même endommager le matériel.\n\n### Exemples de comportements indéfinis en C++ :\n1. **Accès à un pointeur nul ou non initialisé** :\n   ```cpp\n   int* ptr = nullptr;\n   *ptr = 42; // Comportement indéfini\n   ```\n\n2. **Dépassement de tableau** :\n   ```cpp\n   int arr[5] = {1, 2, 3, 4, 5};\n   arr[10] = 100; // Comportement indéfini\n   ```\n\n3. **Utilisation d'une variable non initialisée** :\n   ```cpp\n   int x;\n   std::cout << x; // Comportement indéfini (x contient une valeur indéterminée)\n   ```\n\n4. **Division par zéro** :\n   ```cpp\n   int a = 5 / 0; // Comportement indéfini\n   ```\n\n5. **Modification d'une variable const** :\n   ```cpp\n   const int y = 10;\n   y = 20; // Comportement indéfini\n   ```\n\n6. **Appel à une fonction virtuelle depuis un constructeur** :\n   ```cpp\n   class Base {\n   public:\n       virtual void foo() { std::cout << \"Base::foo\\n\"; }\n       Base() { foo(); } // Comportement indéfini\n   };\n   ```\n\n### Pourquoi est-ce important ?\n- **Portabilité** : Un code avec un comportement indéfini peut fonctionner sur une plateforme mais pas sur une autre.\n- **Sécurité** : Cela peut ouvrir des failles de sécurité (ex. : dépassement de tableau exploitable).\n- **Maintenance** : Le code devient difficile à déboguer et à maintenir.\n\n### Comment éviter les comportements indéfinis ?\n- Utiliser des outils d'analyse statique (comme `clang-tidy`, `cppcheck`).\n- Activer les avertissements du compilateur (`-Wall -Wextra` avec GCC/clang).\n- Écrire du code défensif (vérifications de limites, initialisations explicites).\n\nSi vous avez un exemple spécifique en tête, n'hésitez pas à le partager pour une analyse plus détaillée !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:20:46.9375331+02:00",
+  "durationSeconds": 10.93,
+  "stats": "mistral-small3.2:latest · 524 + 549 tokens · 10,9 s",
+  "isError": false,
+  "language": "FR"
+}

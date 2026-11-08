@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la démocratie européenne) : Première élection directe du Parlement européen.",
+  "id": "eu-ev-premiere-election-pe",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Premières élections européennes au suffrage universel direct",
+  "entityType": "EVENT",
+  "description": "Première élection directe du Parlement européen.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les archives audiovisuelles de la Commission conservent des images de « Premières élections européennes au suffrage universel direct ».",
+    "La presse européenne a largement couvert « Premières élections européennes au suffrage universel direct ».",
+    "« Premières élections européennes au suffrage universel direct » concerne la démocratie européenne."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#DEMOCRATIEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Premi%C3%A8res%20%C3%A9lections%20europ%C3%A9ennes%20au%20suffrage%20universel%20direct"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Démocratie",
+    "Roy Jenkins",
+    "Commission Jenkins",
+    "Parlement européen"
+  ],
+  "isDeleted": false,
+  "startDate": "1979-06-07T00:00:00",
+  "endDate": "1979-06-10T00:00:00"
+}

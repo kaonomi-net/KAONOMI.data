@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-instabilite",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "instabilité",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Bourse de Paris et instabilité politique ; Patronat et instabilité politique ; Crise de régime.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les réactions de la Bourse de Paris aux crises politiques.",
+    "Suivre les réactions du patronat à l'instabilité politique.",
+    "Suivre le débat sur une crise des institutions de la Ve République."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "instabilité",
+  "tags": [
+    "#FRANCE",
+    "#POLITIQUE",
+    "#MARCHES",
+    "#ENTREPRISES",
+    "#INSTITUTIONS",
+    "#DEMOCRATIE"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!INQUIETUDE",
+    "!CRISE-POLITIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Bourse",
+    "censure",
+    "CAC 40",
+    "investisseurs",
+    "banques",
+    "MEDEF",
+    "patronat",
+    "Patrick Martin",
+    "fiscalité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 334,
+  "file": "0334-ia-llm-explain-model-distillation-in-simple-terms.prompt.json",
+  "prompt": "Explain model distillation in simple terms.",
+  "promptWords": 6,
+  "completion": "**Model distillation** is a way to “teach” a small, fast model by using a larger, more powerful model as its teacher.  \nThink of it like this:\n\n| Step | What happens | Why it helps |\n|------|--------------|--------------|\n| 1. **Train a big model** | A complex model (e.g., a deep neural net with lots of layers) is trained on your data and learns to make good predictions. | It can capture a lot of nuance, but it’s slow and memory‑hungry. |\n| 2. **Let the big model “speak”** | Instead of only using the true labels, the big model outputs a *soft* probability distribution for each example (e.g., “this is 70\u202F% dog, 20\u202F% cat, 10\u202F% rabbit”). | Those probabilities contain extra information—how confident the big model is and how it relates different classes. |\n| 3. **Train a small model** | A smaller, simpler model is trained to mimic the big model’s output probabilities, using the same data. The loss function encourages the small model’s predictions to be close to the teacher’s. | The small model learns the same patterns the big model learned, but with far fewer parameters. |\n| 4. **Deploy the small model** | You now have a lightweight model that runs fast on mobile devices, in a web browser, or in an embedded system, yet still performs well because it learned from the big one. | Saves memory, reduces inference time, and often improves accuracy over training the small model from scratch. |\n\n**Why does it work?**  \n- The soft outputs act like “soft labels” that reveal relationships between classes (e.g., a picture of a “cat” might still give a small chance to “tiger”).\n- The small model sees many subtle cues that the original hard labels miss, which helps it generalize better.\n\n**Quick analogy**  \nImagine a master chef (big model) who can cook any dish perfectly. A new chef (small model) watches the master, noting not just the final taste but also the *degree* of seasoning, cooking time, and temperature used. After learning these details, the new chef can produce dishes that are nearly as good, but with fewer ingredients and less time.\n\nIn short, **model distillation** is a teacher‑student setup that compresses knowledge from a big, accurate model into a smaller, efficient one.",
+  "model": "gpt-oss:20b",
+  "date": "2026-10-09T21:18:26.6477425+02:00",
+  "durationSeconds": 6.38,
+  "stats": "gpt-oss:20b · 75 + 671 tokens · 6,4 s",
+  "isError": false,
+  "language": "EN"
+}

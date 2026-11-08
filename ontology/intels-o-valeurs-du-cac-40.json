@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-valeurs-du-cac-40",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "valeurs du CAC 40",
+  "entityType": "PRODUCT",
+  "description": "Cité par 1 intel : CAC 40.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre l'évolution de l'indice phare de la Bourse de Paris."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "valeurs du CAC 40",
+  "tags": [
+    "#BOURSE",
+    "#CAC40"
+  ],
+  "events": [
+    "@SEANCE-BOURSE"
+  ],
+  "signals": [
+    "!MARCHE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "séance",
+    "Euronext Paris",
+    "CAC 40",
+    "volatilité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

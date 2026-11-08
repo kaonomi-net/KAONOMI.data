@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-passage-a-la-majorite-qualifiee",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Passage à la majorité qualifiée",
+  "includedEntities": [
+    {
+      "entityName": "majorité qualifiée",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "unanimité",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur la fin de l'unanimité en politique étrangère.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Hongrie",
+    "traités",
+    "clause passerelle"
+  ],
+  "questions": [
+    "Qui le propose ?",
+    "Qui s'y oppose ?",
+    "Quelle avancée ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#INSTITUTIONS",
+    "#REFORME"
+  ],
+  "events": [],
+  "signals": [
+    "!INSTITUTIONS"
+  ],
+  "isDeleted": false
+}

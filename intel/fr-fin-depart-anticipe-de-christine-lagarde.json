@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-depart-anticipe-de-christine-lagarde",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Départ anticipé de Christine Lagarde",
+  "includedEntities": [
+    {
+      "entityName": "Christine Lagarde",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "départ",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le départ de Christine Lagarde de la BCE, prévu le 7 février 2027.",
+  "isFuzzy": true,
+  "locations": [
+    "Francfort"
+  ],
+  "times": [
+    "7 février 2027"
+  ],
+  "relatedEntities": [
+    "Conseil européen",
+    "élection présidentielle française",
+    "successeur"
+  ],
+  "questions": [
+    "Quelle raison avancée ?",
+    "Quel calendrier ?",
+    "Quelle réaction des marchés ?"
+  ],
+  "tags": [
+    "#BCE",
+    "#LAGARDE"
+  ],
+  "events": [
+    "@DEPART"
+  ],
+  "signals": [
+    "!TRANSITION"
+  ],
+  "isDeleted": false
+}

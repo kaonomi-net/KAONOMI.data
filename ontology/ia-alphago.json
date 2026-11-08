@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les jeux) : Programme de go de DeepMind combinant réseaux de neurones profonds et recherche Monte-Carlo, vainqueur de Lee Sedol en 2016.",
+  "id": "ia-alphago",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "AlphaGo",
+  "entityType": "SOFTWARE",
+  "description": "Programme de go de DeepMind combinant réseaux de neurones profonds et recherche Monte-Carlo, vainqueur de Lee Sedol en 2016.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "AlphaGo figure parmi les logiciels marquants des jeux.",
+    "En atelier, les élèves ont découvert AlphaGo et ses possibilités.",
+    "L'équipe a comparé AlphaGo avec d'autres outils des jeux."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "AlphaGo"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#JEUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=AlphaGo"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Demis Hassabis",
+    "Recherche arborescente Monte-Carlo",
+    "Réseau de neurones convolutif",
+    "AlphaGo bat Fan Hui",
+    "Match AlphaGo – Lee Sedol",
+    "Annonce d'AlphaZero"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-01-01T00:00:00",
+  "endDate": null
+}

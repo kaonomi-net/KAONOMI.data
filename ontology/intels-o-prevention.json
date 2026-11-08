@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-prevention",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "prévention",
+  "entityType": "DOMAIN",
+  "description": "Cité par 14 intels : Catastrophes climatiques locales ; Mineurs et piratage ; Défis dangereux sur les réseaux sociaux ; Burn-out ; Psychologues du travail ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les catastrophes climatiques et leur gestion.",
+    "Suivre les affaires impliquant de jeunes pirates.",
+    "Repérer les défis dangereux viraux chez les jeunes."
+  ],
+  "angryLevel": null,
+  "sadLevel": 14,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "prévention",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE",
+    "#JEUNESSE",
+    "#TRAVAIL",
+    "#ADDICTIONS",
+    "#FRANCE"
+  ],
+  "events": [
+    "@CATASTROPHE",
+    "@ARRESTATION",
+    "@ALERTE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!SANTE",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "Belgique",
+    "suicide",
+    "jeunes",
+    "assurances",
+    "incendies",
+    "sécheresse",
+    "catastrophe naturelle",
+    "inondations",
+    "Scattered Spider"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

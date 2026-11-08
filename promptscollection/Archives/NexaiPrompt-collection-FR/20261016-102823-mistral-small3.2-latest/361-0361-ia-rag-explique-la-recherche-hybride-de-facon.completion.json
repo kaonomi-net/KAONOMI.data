@@ -1,0 +1,13 @@
+{
+  "index": 361,
+  "file": "0361-ia-rag-explique-la-recherche-hybride-de-facon.prompt.json",
+  "prompt": "Explique la recherche hybride de façon simple.",
+  "promptWords": 7,
+  "completion": "La recherche hybride est une méthode qui combine plusieurs approches ou sources d'information pour obtenir des résultats plus complets et précis. Imagine que tu cherches des informations sur un sujet précis :\n\n1. **Recherche classique** : Tu utilises un moteur de recherche comme Google, qui te donne des résultats basés sur des pages web.\n2. **Recherche avancée** : Tu consultes des bases de données spécialisées, des livres, ou des articles scientifiques pour des informations plus approfondies.\n\nLa **recherche hybride** mélange ces deux approches (et parfois d'autres) pour croiser les données et obtenir une réponse plus riche. Par exemple, si tu cherches des recettes de cuisine, tu peux :\n- Utiliser un moteur de recherche pour des idées rapides.\n- Consulter des livres de cuisine pour des techniques traditionnelles.\n- Regarder des vidéos pour voir la préparation en direct.\n\nEn combinant ces sources, tu as une vision plus complète et plus fiable du sujet. C'est comme avoir plusieurs outils dans ta boîte à outils pour résoudre un problème !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:31:14.7502721+02:00",
+  "durationSeconds": 4.63,
+  "stats": "mistral-small3.2:latest · 517 + 225 tokens · 4,6 s",
+  "isError": false,
+  "language": "FR"
+}

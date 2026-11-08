@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-vacances",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le temps de repos et de loisirs.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vacance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vacancier(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cong[ée](s)?\\s+pay[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:farniente)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]vasion(s)?)(?![\\w-])"
+  ],
+  "symbol": "vacances",
+  "event": null,
+  "title": "Vacances",
+  "tags": [
+    "#FETE",
+    "#BIENETRE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

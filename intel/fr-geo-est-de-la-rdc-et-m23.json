@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-est-de-la-rdc-et-m23",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Est de la RDC et M23",
+  "includedEntities": [
+    {
+      "entityName": "RDC",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "M23",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Goma",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le conflit dans l'est de la République démocratique du Congo.",
+  "isFuzzy": true,
+  "locations": [
+    "Goma",
+    "Nord-Kivu",
+    "Bukavu"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Rwanda",
+    "minerais",
+    "MONUSCO"
+  ],
+  "questions": [
+    "Quelles avancées des rebelles ?",
+    "Quel rôle du Rwanda ?",
+    "Quels accords de paix ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#RDC",
+    "#AFRIQUE",
+    "#MINERAIS"
+  ],
+  "events": [
+    "@EVOLUTION-CONFLIT"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

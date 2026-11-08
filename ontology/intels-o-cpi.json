@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cpi",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "CPI",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 4 intels : Retour des enfants ukrainiens ; Enfants ukrainiens déportés ; Enquêtes sur les crimes de guerre ; Inflation américaine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les négociations sur le retour des enfants transférés en Russie.",
+    "Suivre le sort des enfants ukrainiens transférés en Russie.",
+    "Suivre les enquêtes et procès pour crimes de guerre."
+  ],
+  "angryLevel": null,
+  "sadLevel": 25,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "CPI",
+  "tags": [
+    "#UKRAINE",
+    "#ENFANTS",
+    "#CRIMES-DE-GUERRE",
+    "#RUSSIE",
+    "#HUMANITAIRE",
+    "#JUSTICE"
+  ],
+  "events": [
+    "@RETOUR-ENFANTS",
+    "@PROCES",
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!HUMANITAIRE",
+    "!SAD",
+    "!JUSTICE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "enfants ukrainiens",
+    "Qatar",
+    "Vatican",
+    "retour",
+    "déportation",
+    "Lvova-Belova",
+    "enfants",
+    "familles d'accueil",
+    "territoires occupés",
+    "Russie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

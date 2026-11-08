@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-von-der-leyen-et-xi-jinping",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Von der Leyen et Xi Jinping",
+  "includedEntities": [
+    {
+      "entityName": "von der Leyen",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Xi Jinping",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les échanges entre la présidente et le dirigeant chinois.",
+  "isFuzzy": true,
+  "locations": [
+    "Pékin",
+    "Bruxelles"
+  ],
+  "times": [
+    "sommet UE-Chine"
+  ],
+  "relatedEntities": [
+    "commerce",
+    "terres rares",
+    "Russie"
+  ],
+  "questions": [
+    "Quelle rencontre ?",
+    "Quels désaccords ?",
+    "Quels accords ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#CHINE",
+    "#VON-DER-LEYEN"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

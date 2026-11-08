@@ -1,0 +1,13 @@
+{
+  "index": 378,
+  "file": "0378-ia-agentique-comment-donner-une-memoire-a-un.prompt.json",
+  "prompt": "Comment donner une mémoire à un agent IA ?",
+  "promptWords": 9,
+  "completion": "Donner une mémoire à un agent IA est un défi complexe qui dépend du contexte et des besoins spécifiques. Voici quelques approches possibles :\n\n1. **Base de données externe** : Stocker les informations dans une base de données et permettre à l'agent d'y accéder pour se \"souvenir\" des interactions passées.\n\n2. **Modèles de langage avec mémoire** : Utiliser des modèles de langage qui intègrent une mémoire à court terme ou à long terme, comme certains modèles transformers avancés.\n\n3. **Mémoire conversationnelle** : Pour les assistants conversationnels, maintenir un contexte de conversation en mémoire pour permettre des réponses cohérentes sur plusieurs échanges.\n\n4. **Apprentissage par renforcement avec mémoire** : Utiliser des techniques comme les réseaux de neurones à mémoire (LSTM, GRU) ou les réseaux de neurones récurrents (RNN) pour permettre à l'agent d'apprendre et de se souvenir d'expériences passées.\n\n5. **Stockage de connaissances** : Créer un système de stockage de connaissances où l'agent peut enregistrer et récupérer des informations pertinentes.\n\nChaque approche a ses avantages et ses inconvénients, et le choix dépend de l'application spécifique et des ressources disponibles.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:34:08.8508125+02:00",
+  "durationSeconds": 5.51,
+  "stats": "mistral-small3.2:latest · 516 + 268 tokens · 5,5 s",
+  "isError": false,
+  "language": "FR"
+}

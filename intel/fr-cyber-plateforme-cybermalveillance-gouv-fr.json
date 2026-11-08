@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-plateforme-cybermalveillance-gouv-fr",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Plateforme Cybermalveillance.gouv.fr",
+  "includedEntities": [
+    {
+      "entityName": "Cybermalveillance",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "assistance",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les alertes et bilans du dispositif d'assistance aux victimes.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "victimes",
+    "arnaques",
+    "rapport annuel"
+  ],
+  "questions": [
+    "Quelle alerte ?",
+    "Quelle menace en hausse ?",
+    "Quel bilan ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#FRANCE",
+    "#VICTIMES"
+  ],
+  "events": [
+    "@ALERTE-SECURITE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

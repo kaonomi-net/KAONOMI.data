@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-haut-commissaire-a-l-enfance",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "Haut-commissaire à l'Enfance",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Violences faites aux enfants.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre le repérage des violences faites aux enfants."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Haut-commissaire à l'Enfance",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ENFANCE",
+    "#VIOLENCES"
+  ],
+  "events": [],
+  "signals": [
+    "!VIOLENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "maltraitance",
+    "enfants",
+    "violences",
+    "France",
+    "guide de détection",
+    "119"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

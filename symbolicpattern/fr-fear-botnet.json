@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-botnet",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un réseau de machines piratées.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:botnet(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]seau(x)?\\s+de\\s+zombies)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:machine(s)?\\s+zombie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ordinateur(s)?\\s+zombie(s)?)(?![\\w-])"
+  ],
+  "symbol": "botnet",
+  "event": null,
+  "title": "Botnet",
+  "tags": [
+    "#FEAR",
+    "#IA"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

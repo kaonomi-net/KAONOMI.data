@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-bpifrance",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "Bpifrance",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 5 intels : Levée de fonds d'une startup d'IA ; Champion français de l'IA ; Fonds de défense et épargne ; Startups françaises de la cybersécurité ; Santé mentale des dirigeants.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les levées de fonds des startups d'intelligence artificielle.",
+    "Suivre les acteurs français de l'IA et la souveraineté numérique.",
+    "Suivre les produits d'épargne orientés vers la défense."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Bpifrance",
+  "tags": [
+    "#IA",
+    "#FRANCE",
+    "#FINANCEMENT",
+    "#STARTUP",
+    "#SOUVERAINETE",
+    "#EPARGNE"
+  ],
+  "events": [
+    "@LEVEE-DE-FONDS",
+    "@ACTEUR-NATIONAL"
+  ],
+  "signals": [
+    "!INVESTISSEMENT",
+    "!SOUVERAINETE",
+    "!TENDANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "Paris",
+    "levée de fonds",
+    "startup",
+    "a16z",
+    "San Francisco",
+    "IA",
+    "Sequoia",
+    "Mistral AI",
+    "Arthur Mensch"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

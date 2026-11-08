@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-formation",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "formation",
+  "entityType": "DOMAIN",
+  "description": "Cité par 15 intels : Soutien de la France à l'Ukraine ; Soutien du Royaume-Uni à l'Ukraine ; Simulation d'hameçonnage ; Certifications de pentesteur ; Gouvernance cyber des conseils d'administration ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'aide et les initiatives françaises pour l'Ukraine.",
+    "Suivre l'aide britannique à l'Ukraine.",
+    "Suivre les campagnes de simulation d'hameçonnage en entreprise."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "formation",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#CYBERSECURITE",
+    "#FORMATION",
+    "#PROFESSION",
+    "#UKRAINE",
+    "#SOUTIEN"
+  ],
+  "events": [
+    "@ANNONCE-AIDE"
+  ],
+  "signals": [
+    "!PROFESSION",
+    "!SOUTIEN",
+    "!FORMATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "Belgique",
+    "Ukraine",
+    "Bruxelles",
+    "psychologues",
+    "Paris",
+    "Mirage",
+    "Macron",
+    "soutien",
+    "Storm Shadow"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

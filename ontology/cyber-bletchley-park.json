@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (la cryptanalyse) : Pendant la Seconde Guerre mondiale, les équipes de Bletchley Park déchiffrent les messages Enigma et Lorenz, renseignement nommé Ultra.",
+  "id": "cyber-bletchley-park",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Décryptage à Bletchley Park",
+  "entityType": "EVENT",
+  "description": "Pendant la Seconde Guerre mondiale, les équipes de Bletchley Park déchiffrent les messages Enigma et Lorenz, renseignement nommé Ultra.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "« Décryptage à Bletchley Park » est un jalon de l'histoire de la cybersécurité.",
+    "Dans sa conférence, l'historienne est revenue sur « Décryptage à Bletchley Park ».",
+    "On date souvent un tournant de la cryptanalyse à « Décryptage à Bletchley Park »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Ultra",
+    "Station X"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#CRYPTANALYSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=D%C3%A9cryptage%20%C3%A0%20Bletchley%20Park"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Alan Turing",
+    "Machine Enigma",
+    "Machine de Lorenz",
+    "Bombe de Turing",
+    "Colossus"
+  ],
+  "isDeleted": false,
+  "startDate": "1939-01-01T00:00:00",
+  "endDate": "1945-01-01T00:00:00"
+}

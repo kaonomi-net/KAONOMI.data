@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-evars",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "EVARS",
+  "entityType": "LAW",
+  "description": "Cité par 1 intel : Éducation à la vie affective et aux émotions.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre l'enseignement des compétences psychosociales à l'école."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "EVARS",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ECOLE",
+    "#EMOTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!PREVENTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "compétences psychosociales",
+    "Belgique",
+    "empathie",
+    "France",
+    "programmes",
+    "émotions"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

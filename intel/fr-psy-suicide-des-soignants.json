@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-suicide-des-soignants",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Suicide des soignants",
+  "includedEntities": [
+    {
+      "entityName": "suicide",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "soignants",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "médecins",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la prévention du suicide chez les soignants.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "internes",
+    "infirmiers",
+    "épuisement"
+  ],
+  "questions": [
+    "Quel chiffre ?",
+    "Quel dispositif ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE",
+    "#SOIGNANTS"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "isDeleted": false
+}

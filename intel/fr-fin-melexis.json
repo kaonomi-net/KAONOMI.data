@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-melexis",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Melexis",
+  "includedEntities": [
+    {
+      "entityName": "Melexis",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "semi-conducteurs",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action Melexis et les puces pour l'automobile.",
+  "isFuzzy": false,
+  "locations": [
+    "Ypres"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "automobile",
+    "Chine",
+    "prévisions"
+  ],
+  "questions": [
+    "Quel résultat ?",
+    "Quelle prévision ?",
+    "Quelle réaction du titre ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#BELGIQUE",
+    "#SEMI-CONDUCTEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!RESULTATS"
+  ],
+  "isDeleted": false
+}

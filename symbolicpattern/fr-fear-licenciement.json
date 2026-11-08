@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-licenciement",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La rupture du contrat de travail par l'employeur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:licenciement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:licenci(er|[ée]|[ée]e|[ée]s|[ée]es)|plan(s)?\\s+social(aux)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:plan(s)?\\s+de\\s+licenciement)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:suppression(s)?\\s+de\\s+postes)(?![\\w-])"
+  ],
+  "symbol": "licenciement",
+  "event": null,
+  "title": "Licenciement",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

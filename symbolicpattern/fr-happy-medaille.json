@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-medaille",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une récompense pour un mérite.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:m[ée]daille(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[ée]daill[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[ée]daille\\s+d['’]or)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:podium(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]cor[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "médaille",
+  "event": null,
+  "title": "Médaille",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

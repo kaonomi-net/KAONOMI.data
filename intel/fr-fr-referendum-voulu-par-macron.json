@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-referendum-voulu-par-macron",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Référendum voulu par Macron",
+  "includedEntities": [
+    {
+      "entityName": "référendum",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les projets de référendum du président.",
+  "isFuzzy": true,
+  "locations": [
+    "Élysée"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "article 11",
+    "fin de vie",
+    "institutions"
+  ],
+  "questions": [
+    "Quel sujet ?",
+    "Quelle date ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#REFERENDUM"
+  ],
+  "events": [
+    "@REFERENDUM"
+  ],
+  "signals": [
+    "!INSTITUTIONS"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-apprentissage-par-renforcement",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Apprentissage par renforcement",
+  "includedEntities": [
+    {
+      "entityName": "apprentissage par renforcement",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "agent",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "récompense",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les progrès de l'apprentissage par renforcement.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "DeepMind",
+    "robotique",
+    "jeux"
+  ],
+  "questions": [
+    "Quelle tâche est résolue ?",
+    "Quelle méthode ?",
+    "Quel transfert au monde réel ?"
+  ],
+  "tags": [
+    "#IA",
+    "#RECHERCHE",
+    "#RENFORCEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!RECHERCHE"
+  ],
+  "isDeleted": false
+}

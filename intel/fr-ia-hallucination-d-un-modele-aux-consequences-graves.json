@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-hallucination-d-un-modele-aux-consequences-graves",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Hallucination d'un modèle aux conséquences graves",
+  "includedEntities": [
+    {
+      "entityName": "hallucination",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "conséquences",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "erreur",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Repérer les erreurs inventées par une IA ayant causé un préjudice.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "avocat",
+    "médecin",
+    "journaliste"
+  ],
+  "questions": [
+    "Quelle erreur ?",
+    "Quel préjudice ?",
+    "Qui l'a repérée ?"
+  ],
+  "tags": [
+    "#IA",
+    "#FIABILITE",
+    "#HALLUCINATION"
+  ],
+  "events": [
+    "@INCIDENT-IA"
+  ],
+  "signals": [
+    "!VIGILANCE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-francois-bayrou-et-le-modem",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "François Bayrou et le MoDem",
+  "includedEntities": [
+    {
+      "entityName": "François Bayrou",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "MoDem",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le rôle de François Bayrou et du MoDem dans la campagne.",
+  "isFuzzy": true,
+  "locations": [
+    "Pau"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "bloc central",
+    "dette",
+    "candidature"
+  ],
+  "questions": [
+    "Est-il candidat ?",
+    "Qui soutient-il ?",
+    "Quelle position sur la dette ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#MODEM"
+  ],
+  "events": [],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

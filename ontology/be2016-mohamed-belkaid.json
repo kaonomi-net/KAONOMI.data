@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne des attentats de Bruxelles de 2016 (la cellule terroriste) : Ressortissant algérien tué par un tireur de la police lors de la perquisition de la rue du Dries à Forest, alors qu'il couvrait la fuite de deux complices.",
+  "id": "be2016-mohamed-belkaid",
+  "dateCreated": "2026-10-31 19:28:40",
+  "name": "Mohamed Belkaïd",
+  "entityType": "PERSON",
+  "description": "Ressortissant algérien tué par un tireur de la police lors de la perquisition de la rue du Dries à Forest, alors qu'il couvrait la fuite de deux complices.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-personnes",
+  "sentencesExemples": [
+    "Le dossier documentaire consacré aux attentats comporte une fiche sur Mohamed Belkaïd.",
+    "Les comptes rendus de l'époque évoquent Mohamed Belkaïd à plusieurs reprises.",
+    "Les journalistes ont retracé le rôle de Mohamed Belkaïd dans la cellule terroriste."
+  ],
+  "angryLevel": 4,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 1,
+  "disgustLevel": 4,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Mohamed Belkaid"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#PERSON",
+    "#CELLULETERRORISTE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Mohamed%20Belka%C3%AFd"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Fusillade de la rue du Dries"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": "2016-03-15T00:00:00"
+}

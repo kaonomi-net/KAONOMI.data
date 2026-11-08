@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (l'élargissement) : Conseil des affaires générales, formation du Conseil de l'Union européenne compétente pour l'élargissement, l'état de droit.",
+  "id": "eu-cons-gac",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Conseil des affaires générales (GAC)",
+  "entityType": "ORGANISATION",
+  "description": "Conseil des affaires générales, formation du Conseil de l'Union européenne compétente pour l'élargissement, l'état de droit.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-formations-conseil",
+  "sentencesExemples": [
+    "Le rapport annuel de « Conseil des affaires générales (GAC) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Conseil des affaires générales (GAC) ».",
+    "Les décisions de « Conseil des affaires générales (GAC) » touchent l'élargissement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "GAC"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#ELARGISSEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Conseil%20des%20affaires%20g%C3%A9n%C3%A9rales%20%28GAC%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Conseil de l'Union européenne",
+    "Élargissement",
+    "État de droit"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,13 @@
+{
+  "index": 101,
+  "file": "0101-microsoft-office-how-do-i-do-a-mail.prompt.json",
+  "prompt": "How do I do a mail merge in Word?",
+  "promptWords": 9,
+  "completion": "To perform a mail merge in Microsoft Word, follow these steps:\n\n### 1. **Prepare Your Data Source**\n   - Create a list of recipients in a program like Excel, Outlook, or another database. This list should include the fields you want to merge (e.g., names, addresses).\n   - Save the file in a compatible format (e.g., Excel spreadsheet or CSV file).\n\n### 2. **Open Word and Start Mail Merge**\n   - Open Microsoft Word and create a new document.\n   - Go to the **Mailings** tab on the Ribbon.\n   - Click **Start Mail Merge** and choose the type of document you want to create (e.g., letters, emails, labels, or envelopes).\n\n### 3. **Select Recipients**\n   - Click **Select Recipients** and then choose **Use an Existing List**.\n   - Browse to the file containing your recipient data and select it.\n   - If prompted, choose how you want to match the fields in your data source with the merge fields in your document.\n\n### 4. **Insert Merge Fields**\n   - Place your cursor in the document where you want to insert a merge field (e.g., where you want the recipient's name to appear).\n   - Click **Insert Merge Field** and select the field you want to insert (e.g., \"First Name\").\n   - Repeat this for all the fields you want to include in your document.\n\n### 5. **Preview and Complete the Merge**\n   - Click **Preview Results** to see how your document will look with the merged data.\n   - Use the navigation buttons to scroll through the merged documents.\n   - Once you are satisfied, click **Finish & Merge**.\n   - Choose whether you want to edit individual documents, print the merged documents, or send them as email messages.\n\n### 6. **Save Your Work**\n   - Save your main document and the merged documents as needed.\n\nWould you like more detailed instructions for a specific type of mail merge (e.g., letters, labels, or emails)?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:22:41.3454394+02:00",
+  "durationSeconds": 9.64,
+  "stats": "mistral-small3.2:latest · 517 + 420 tokens · 9,6 s",
+  "isError": false,
+  "language": "EN"
+}

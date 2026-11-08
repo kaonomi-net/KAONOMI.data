@@ -1,0 +1,13 @@
+{
+  "index": 138,
+  "file": "0138-microsoft-office-comment-arrondir-un-resultat-dans-excel.prompt.json",
+  "prompt": "Comment arrondir un résultat dans Excel ?",
+  "promptWords": 7,
+  "completion": "Pour arrondir un résultat dans Excel, vous pouvez utiliser plusieurs fonctions selon vos besoins. Voici les principales méthodes :\n\n1. **Fonction ARRONDI** :\n   - Syntaxe : `=ARRONDI(nombre; nb_chiffres)`\n   - Exemple : `=ARRONDI(3,14159; 2)` renvoie `3,14`.\n\n2. **Fonction ARRONDI.INF** (arrondi vers le bas) :\n   - Syntaxe : `=ARRONDI.INF(nombre; nb_chiffres)`\n   - Exemple : `=ARRONDI.INF(3,14159; 1)` renvoie `3,1`.\n\n3. **Fonction ARRONDI.SUP** (arrondi vers le haut) :\n   - Syntaxe : `=ARRONDI.SUP(nombre; nb_chiffres)`\n   - Exemple : `=ARRONDI.SUP(3,14159; 1)` renvoie `3,2`.\n\n4. **Fonction ENT** (arrondi à l'entier inférieur) :\n   - Syntaxe : `=ENT(nombre)`\n   - Exemple : `=ENT(3,7)` renvoie `3`.\n\n5. **Fonction PLANCHER** (arrondi à l'entier inférieur) :\n   - Syntaxe : `=PLANCHER(nombre; nb_chiffres)`\n   - Exemple : `=PLANCHER(3,14159; 1)` renvoie `3,1`.\n\n6. **Fonction PUISSANCE** (pour arrondir à une puissance de 10) :\n   - Syntaxe : `=PUISSANCE(nombre; puissance)`\n   - Exemple : `=PUISSANCE(123,456; -2)` renvoie `123,46`.\n\nChoisissez la fonction qui correspond le mieux à votre besoin d'arrondi. Si vous avez besoin d'aide pour une situation spécifique, n'hésitez pas à me le dire !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:54:10.2696548+02:00",
+  "durationSeconds": 9.38,
+  "stats": "mistral-small3.2:latest · 516 + 464 tokens · 9,4 s",
+  "isError": false,
+  "language": "FR"
+}

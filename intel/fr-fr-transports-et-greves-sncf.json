@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-transports-et-greves-sncf",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Transports et grèves SNCF",
+  "includedEntities": [
+    {
+      "entityName": "SNCF",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "grève",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "cheminots",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les grèves et perturbations dans les transports.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [
+    "vacances"
+  ],
+  "relatedEntities": [
+    "RATP",
+    "contrôleurs aériens",
+    "usagers"
+  ],
+  "questions": [
+    "Quelle grève ?",
+    "Quelles perturbations ?",
+    "Quelle revendication ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#TRANSPORTS",
+    "#GREVE"
+  ],
+  "events": [
+    "@GREVE"
+  ],
+  "signals": [
+    "!PERTURBATION"
+  ],
+  "isDeleted": false
+}

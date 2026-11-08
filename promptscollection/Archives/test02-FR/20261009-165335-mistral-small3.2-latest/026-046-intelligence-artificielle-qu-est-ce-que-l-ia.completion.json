@@ -1,0 +1,13 @@
+{
+  "index": 26,
+  "file": "046-intelligence-artificielle-qu-est-ce-que-l-ia.prompt.json",
+  "prompt": "Qu'est-ce que l'IA générative ?",
+  "promptWords": 5,
+  "completion": "L'IA générative est un domaine de l'intelligence artificielle qui se concentre sur la création de contenu nouveau et original, tel que des images, du texte, de la musique, ou même des vidéos. Contrairement aux systèmes d'IA traditionnels qui se contentent de classer ou de reconnaître des données existantes, l'IA générative utilise des modèles avancés pour produire des données qui ressemblent à celles qu'elle a apprises pendant son entraînement.\n\nVoici quelques exemples d'applications de l'IA générative :\n\n1. **Génération de texte** : Des modèles comme moi peuvent écrire des articles, des histoires, des poèmes, ou même répondre à des questions de manière conversationnelle.\n2. **Création d'images** : Des outils comme DALL-E ou Midjourney peuvent générer des images réalistes ou artistiques à partir de descriptions textuelles.\n3. **Composition musicale** : Des algorithmes peuvent créer des mélodies ou des morceaux de musique dans différents styles.\n4. **Synthèse de voix** : Des systèmes peuvent imiter la voix humaine pour lire du texte à voix haute ou créer des voix pour des personnages virtuels.\n\nL'IA générative repose souvent sur des techniques comme les réseaux de neurones génératifs antagonistes (GANs) ou les transformeurs, qui sont capables d'apprendre des motifs complexes dans les données d'entraînement pour ensuite les reproduire de manière créative.\n\nSi vous avez des questions plus spécifiques sur l'IA générative ou ses applications, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:58:10.255391+02:00",
+  "durationSeconds": 7.33,
+  "stats": "mistral-small3.2:latest · 517 + 327 tokens · 7,3 s",
+  "isError": false,
+  "language": "FR"
+}

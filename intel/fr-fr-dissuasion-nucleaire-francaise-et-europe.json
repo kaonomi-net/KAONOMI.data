@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-dissuasion-nucleaire-francaise-et-europe",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Dissuasion nucléaire française et Europe",
+  "includedEntities": [
+    {
+      "entityName": "dissuasion nucléaire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Europe",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur l'extension européenne de la dissuasion française.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Allemagne",
+    "Pologne",
+    "doctrine"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quels partenaires intéressés ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#NUCLEAIRE",
+    "#EUROPE"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

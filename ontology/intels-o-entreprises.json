@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-entreprises",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "entreprises",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 26 intels : Hausses d'impôts en Russie ; Licenciements liés à l'IA ; Éthique de l'IA ; Relations du RN avec les patrons ; Déplacements de Macron en France ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les hausses d'impôts pour financer la guerre.",
+    "Repérer les suppressions d'emplois attribuées à l'IA.",
+    "Suivre les chartes et débats sur l'IA responsable."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "entreprises",
+  "tags": [
+    "#FRANCE",
+    "#UNION-EUROPEENNE",
+    "#IA",
+    "#ECONOMIE",
+    "#PSYCHOLOGIE",
+    "#FISCALITE"
+  ],
+  "events": [
+    "@SUPPRESSION-EMPLOIS",
+    "@DEPLACEMENT",
+    "@EMISSION"
+  ],
+  "signals": [
+    "!DEBAT",
+    "!INDICATEUR",
+    "!PREVENTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "IA",
+    "Parlement",
+    "France",
+    "PME",
+    "Belgique",
+    "ONG",
+    "omnibus",
+    "impôts",
+    "budget"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

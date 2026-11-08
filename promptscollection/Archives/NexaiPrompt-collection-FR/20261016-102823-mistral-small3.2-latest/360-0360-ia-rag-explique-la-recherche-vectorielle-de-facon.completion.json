@@ -1,0 +1,13 @@
+{
+  "index": 360,
+  "file": "0360-ia-rag-explique-la-recherche-vectorielle-de-facon.prompt.json",
+  "prompt": "Explique la recherche vectorielle de façon simple.",
+  "promptWords": 7,
+  "completion": "La recherche vectorielle est une méthode utilisée pour trouver des informations similaires dans de grandes bases de données, comme des textes, des images ou des vidéos. Voici une explication simple :\n\n1. **Transformation en vecteurs** : Chaque élément (texte, image, etc.) est converti en un vecteur numérique, c'est-à-dire une liste de nombres. Par exemple, un texte peut être transformé en vecteur en analysant les mots qu'il contient et leur fréquence.\n\n2. **Comparaison des vecteurs** : Pour trouver des éléments similaires, on compare les vecteurs entre eux. Plus deux vecteurs sont proches (en termes de distance mathématique), plus les éléments qu'ils représentent sont considérés comme similaires.\n\n3. **Utilisation en pratique** : Cette technique est utilisée dans les moteurs de recherche, les recommandations de films ou de musique, et même dans la reconnaissance d'images. Par exemple, si tu cherches une photo de chat, le système transformera ta requête en vecteur et comparera ce vecteur avec ceux des images de sa base de données pour trouver les meilleures correspondances.\n\nEn résumé, la recherche vectorielle permet de trouver des éléments similaires en les représentant sous forme de vecteurs et en comparant ces vecteurs.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:31:09.3769279+02:00",
+  "durationSeconds": 5.36,
+  "stats": "mistral-small3.2:latest · 517 + 261 tokens · 5,4 s",
+  "isError": false,
+  "language": "FR"
+}

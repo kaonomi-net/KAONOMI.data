@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-cupidite",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le désir excessif de richesse.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cupidit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cupide(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:avidit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rapace(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:v[ée]nal(e|es|aux|it[ée])?)(?![\\w-])"
+  ],
+  "symbol": "cupidité",
+  "event": null,
+  "title": "Cupidité",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

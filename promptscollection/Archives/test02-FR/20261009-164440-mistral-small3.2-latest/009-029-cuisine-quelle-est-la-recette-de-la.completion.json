@@ -1,0 +1,13 @@
+{
+  "index": 9,
+  "file": "029-cuisine-quelle-est-la-recette-de-la.prompt.json",
+  "prompt": "Quelle est la recette de la quiche lorraine ?",
+  "promptWords": 9,
+  "completion": "La quiche lorraine est un classique de la cuisine française. Voici une recette traditionnelle :\n\n### Ingrédients (pour 6 personnes) :\n- 1 pâte brisée (ou feuilletée)\n- 200 g de lardons fumés\n- 3 œufs\n- 20 cl de crème fraîche épaisse\n- 10 cl de lait entier\n- 1 pincée de noix de muscade râpée\n- Sel et poivre (au goût)\n- 1 jaune d’œuf (pour la dorure)\n\n### Préparation :\n\n1. **Préchauffez le four** à 180°C (thermostat 6).\n\n2. **Étalez la pâte brisée** dans un moule à tarte beurré et fariné. Piquez le fond avec une fourchette pour éviter que la pâte ne gonfle à la cuisson.\n\n3. **Faites revenir les lardons** à sec dans une poêle jusqu’à ce qu’ils soient bien dorés. Égouttez-les sur du papier absorbant.\n\n4. **Dans un saladier**, battez les œufs avec la crème fraîche et le lait. Assaisonnez avec la noix de muscade, du sel et du poivre.\n\n5. **Répartissez les lardons** sur le fond de tarte, puis versez l’appareil à quiche par-dessus.\n\n6. **Dorez le bord de la pâte** avec le jaune d’œuf dilué dans un peu d’eau.\n\n7. **Enfournez pour 30 à 35 minutes** jusqu’à ce que la quiche soit bien dorée et gonflée.\n\n8. **Laissez tiédir** avant de déguster !\n\nBon appétit ! \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:46:09.4205135+02:00",
+  "durationSeconds": 8.85,
+  "stats": "mistral-small3.2:latest · 520 + 392 tokens · 8,8 s",
+  "isError": false,
+  "language": "FR"
+}

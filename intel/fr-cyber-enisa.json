@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-enisa",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "ENISA",
+  "includedEntities": [
+    {
+      "entityName": "ENISA",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'agence de l'Union européenne pour la cybersécurité.",
+  "isFuzzy": true,
+  "locations": [
+    "Athènes"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Threat Landscape",
+    "certification",
+    "CRA"
+  ],
+  "questions": [
+    "Quelle publication ?",
+    "Quel mandat ?",
+    "Quelle initiative ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#UNION-EUROPEENNE",
+    "#ENISA"
+  ],
+  "events": [
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

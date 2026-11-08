@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-delice",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un plaisir très vif.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]lice(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]licieu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:savoureu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exquis(e|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:succulent(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "délice",
+  "event": null,
+  "title": "Délice",
+  "tags": [
+    "#JOIE",
+    "#PLAISIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

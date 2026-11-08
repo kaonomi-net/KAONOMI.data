@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-courbe-des-taux",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Courbe des taux",
+  "includedEntities": [
+    {
+      "entityName": "courbe des taux",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "pentification",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la forme de la courbe des taux et ses signaux.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "inversion",
+    "récession",
+    "taux longs"
+  ],
+  "questions": [
+    "Quelle pente ?",
+    "Quel signal ?",
+    "Quelle évolution ?"
+  ],
+  "tags": [
+    "#OBLIGATIONS",
+    "#TAUX"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

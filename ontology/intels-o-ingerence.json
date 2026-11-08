@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ingerence",
+  "dateCreated": "2026-11-08 17:55:41",
+  "name": "ingérence",
+  "entityType": "DOMAIN",
+  "description": "Cité par 9 intels : Moldavie et pressions russes ; Ingérence russe dans les élections européennes ; Ingérence étrangère dans une élection ; Ingérence électorale par IA ; Ingérence étrangère dans la présidentielle ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les pressions russes sur la Moldavie.",
+    "Surveiller l'ingérence russe dans les scrutins européens.",
+    "Surveiller les tentatives d'ingérence étrangère dans les scrutins."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "ingérence",
+  "tags": [
+    "#INGERENCE",
+    "#ELECTIONS",
+    "#FRANCE",
+    "#MOLDAVIE",
+    "#RUSSIE",
+    "#EUROPE"
+  ],
+  "events": [
+    "@INGERENCE",
+    "@RAPPORT",
+    "@ENQUETE"
+  ],
+  "signals": [
+    "!ALERTE",
+    "!INGERENCE",
+    "!INSTABILITE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Russie",
+    "Viginum",
+    "Moldavie",
+    "Roumanie",
+    "élections",
+    "désinformation",
+    "élection",
+    "bots",
+    "Gagaouzie",
+    "Chișinău"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,59 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'environnement) : Économiste, ancien ministre lituanien de l'Économie, commissaire à l'Environnement, aux Océans et à la Pêche de 2019 à 2024.",
+  "id": "eu-p-sinkevicius",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Virginijus Sinkevičius",
+  "entityType": "PERSON",
+  "description": "Économiste, ancien ministre lituanien de l'Économie, commissaire à l'Environnement, aux Océans et à la Pêche de 2019 à 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les manuels sur les institutions européennes citent Virginijus Sinkevičius.",
+    "Le portrait de Virginijus Sinkevičius figure dans le dossier consacré à l'environnement.",
+    "La presse européenne a longuement commenté le parcours de Virginijus Sinkevičius."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Sinkevičius",
+    "Sinkevicius"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Virginijus%20Sinkevi%C4%8Dius"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité lituanienne",
+    "Union lituanienne des agriculteurs et des verts (LVŽS)",
+    "Économiste",
+    "Ministre de l'Économie",
+    "Commissaire européen",
+    "Environnement, océans et pêche (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Environnement",
+    "Océans et affaires maritimes",
+    "Pêche"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

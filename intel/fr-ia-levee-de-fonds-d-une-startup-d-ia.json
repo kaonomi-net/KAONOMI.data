@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-levee-de-fonds-d-une-startup-d-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Levée de fonds d'une startup d'IA",
+  "includedEntities": [
+    {
+      "entityName": "levée de fonds",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "startup",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les levées de fonds des startups d'intelligence artificielle.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "San Francisco"
+  ],
+  "times": [
+    "jour de l'annonce"
+  ],
+  "relatedEntities": [
+    "Bpifrance",
+    "Sequoia",
+    "a16z"
+  ],
+  "questions": [
+    "Quel montant ?",
+    "Quelle valorisation ?",
+    "Quels investisseurs ?"
+  ],
+  "tags": [
+    "#IA",
+    "#FINANCEMENT",
+    "#STARTUP"
+  ],
+  "events": [
+    "@LEVEE-DE-FONDS"
+  ],
+  "signals": [
+    "!INVESTISSEMENT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-concessions-territoriales",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Concessions territoriales",
+  "includedEntities": [
+    {
+      "entityName": "concessions territoriales",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "territoire",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre le débat sur d'éventuelles cessions de territoires dans un accord.",
+  "isFuzzy": true,
+  "locations": [
+    "Donbass",
+    "Crimée",
+    "Zaporijia"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Constitution ukrainienne",
+    "Kremlin",
+    "référendum"
+  ],
+  "questions": [
+    "Quelles régions sont évoquées ?",
+    "Quelle position de Kyiv ?",
+    "Quelle position de Moscou ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#TERRITOIRES"
+  ],
+  "events": [],
+  "signals": [
+    "!BLOCAGE"
+  ],
+  "isDeleted": false
+}

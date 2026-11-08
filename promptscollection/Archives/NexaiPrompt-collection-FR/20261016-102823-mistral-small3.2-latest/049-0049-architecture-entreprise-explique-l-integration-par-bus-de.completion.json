@@ -1,0 +1,13 @@
+{
+  "index": 49,
+  "file": "0049-architecture-entreprise-explique-l-integration-par-bus-de.prompt.json",
+  "prompt": "Explique l'intégration par bus de messages de façon simple.",
+  "promptWords": 9,
+  "completion": "L'intégration par bus de messages est une méthode utilisée en informatique pour permettre à différents systèmes ou applications de communiquer entre eux de manière décentralisée et asynchrone. Voici une explication simple :\n\n1. **Concept de base** :\n   - Imagine un bus (comme un bus scolaire) qui transporte des messages entre différents arrêts (les applications ou systèmes).\n   - Chaque arrêt peut envoyer des messages (ou les recevoir) sans avoir besoin de connaître directement les autres arrêts.\n\n2. **Fonctionnement** :\n   - Un **bus de messages** (ou *message bus*) est un intermédiaire qui gère la transmission des messages.\n   - Les applications envoient des messages au bus, qui les redistribue aux destinataires concernés.\n   - Les destinataires s'abonnent à certains types de messages qu'ils souhaitent recevoir.\n\n3. **Avantages** :\n   - **Découplage** : Les applications n'ont pas besoin de connaître les détails des autres systèmes pour communiquer.\n   - **Flexibilité** : On peut ajouter ou modifier des applications sans perturber les autres.\n   - **Scalabilité** : Le bus peut gérer un grand nombre de messages et d'applications.\n\n4. **Exemple concret** :\n   - Supposons que tu as une application de commande en ligne, une application de paiement et une application de livraison.\n   - Quand un utilisateur passe une commande, l'application de commande envoie un message au bus : *\"Nouvelle commande #123\"*.\n   - L'application de paiement et l'application de livraison reçoivent ce message et agissent en conséquence (paiement, préparation de la livraison).\n\nEn résumé, le bus de messages agit comme un intermédiaire intelligent qui simplifie la communication entre différents systèmes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:37:56.2269032+02:00",
+  "durationSeconds": 7.69,
+  "stats": "mistral-small3.2:latest · 520 + 377 tokens · 7,7 s",
+  "isError": false,
+  "language": "FR"
+}

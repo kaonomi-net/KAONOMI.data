@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-deficit",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le manque d'argent dans un budget.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]ficit(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]ficitaire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:trou\\s+budg[ée]taire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]rapage(s)?\\s+budg[ée]taire(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:dans\\s+le\\s+rouge)(?![\\w-])"
+  ],
+  "symbol": "déficit",
+  "event": null,
+  "title": "Déficit",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

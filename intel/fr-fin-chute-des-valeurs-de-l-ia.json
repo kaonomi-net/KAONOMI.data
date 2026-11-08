@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-chute-des-valeurs-de-l-ia",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Chute des valeurs de l'IA",
+  "includedEntities": [
+    {
+      "entityName": "valeurs de l'IA",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "chute",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "vente",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le repli mondial des valeurs liées à l'IA de début novembre 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "New York",
+    "Séoul",
+    "Amsterdam"
+  ],
+  "times": [
+    "5 novembre 2026"
+  ],
+  "relatedEntities": [
+    "Nvidia",
+    "Micron",
+    "CoreWeave"
+  ],
+  "questions": [
+    "Quelle ampleur ?",
+    "Quelle cause ?",
+    "Quel rebond ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#IA",
+    "#CORRECTION"
+  ],
+  "events": [
+    "@CHUTE-BOURSIERE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,59 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-valeur-refuge",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "valeur refuge",
+  "entityType": "PRODUCT",
+  "description": "Cité par 2 intels : Banque nationale suisse ; Cours de l'or.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre la politique de la BNS et le franc suisse.",
+    "Suivre le cours de l'or."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "valeur refuge",
+  "tags": [
+    "#BANQUES-CENTRALES",
+    "#SUISSE",
+    "#MATIERES-PREMIERES",
+    "#OR"
+  ],
+  "events": [
+    "@DECISION-TAUX"
+  ],
+  "signals": [
+    "!POLITIQUE-MONETAIRE",
+    "!REFUGE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "taux",
+    "franc suisse",
+    "Zurich",
+    "Banque nationale suisse",
+    "interventions",
+    "dollar",
+    "or",
+    "once",
+    "géopolitique",
+    "banques centrales"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

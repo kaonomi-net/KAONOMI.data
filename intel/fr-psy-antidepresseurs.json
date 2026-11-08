@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-antidepresseurs",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Antidépresseurs",
+  "includedEntities": [
+    {
+      "entityName": "antidépresseurs",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "prescription",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les études et débats sur les antidépresseurs.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "ISRS",
+    "sevrage",
+    "efficacité"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel débat ?",
+    "Quelle consommation ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#MEDICAMENTS"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

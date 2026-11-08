@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la présidence de la Commission) : Ancien Premier ministre du Luxembourg, président de la Commission de 1995 à la démission collective de 1999.",
+  "id": "eu-p-santer",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Jacques Santer",
+  "entityType": "PERSON",
+  "description": "Ancien Premier ministre du Luxembourg, président de la Commission de 1995 à la démission collective de 1999.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-presidents-commission",
+  "sentencesExemples": [
+    "Les manuels sur les institutions européennes citent Jacques Santer.",
+    "Le portrait de Jacques Santer figure dans le dossier consacré à la présidence de la Commission.",
+    "La presse européenne a longuement commenté le parcours de Jacques Santer."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Santer"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PRESIDENCECOMMISSION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Jacques%20Santer"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission Santer",
+    "nationalité luxembourgeoise",
+    "Parti populaire chrétien-social (CSV)",
+    "Chef de gouvernement",
+    "Président de la Commission européenne",
+    "Présidence de la Commission (Commission Santer)",
+    "Communication et présidence",
+    "Démission de la Commission Santer"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

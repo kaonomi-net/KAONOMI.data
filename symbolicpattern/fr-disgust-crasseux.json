@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-crasseux",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Couvert de crasse.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:crasseu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mal\\s+lav[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:jamais\\s+lav[ée](e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sent\\s+le\\s+fauve)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pue\\s+des\\s+pieds)(?![\\w-])"
+  ],
+  "symbol": "crasseux",
+  "event": null,
+  "title": "Crasseux",
+  "tags": [
+    "#DISGUST",
+    "#SALETE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

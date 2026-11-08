@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (le chiffrement des communications) : Logiciel de chiffrement et de signature de courriels de Phil Zimmermann, à l'origine du standard OpenPGP.",
+  "id": "cyber-pgp",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "PGP",
+  "entityType": "SOFTWARE",
+  "description": "Logiciel de chiffrement et de signature de courriels de Phil Zimmermann, à l'origine du standard OpenPGP.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé PGP avec d'autres outils du chiffrement des communications.",
+    "PGP figure parmi les logiciels marquants du chiffrement des communications.",
+    "En atelier, les élèves ont découvert PGP et son fonctionnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Pretty Good Privacy"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#CHIFFREMENTCOMMUNICATIONS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=PGP"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Phil Zimmermann",
+    "GnuPG",
+    "RSA"
+  ],
+  "isDeleted": false,
+  "startDate": "1991-01-01T00:00:00",
+  "endDate": null
+}

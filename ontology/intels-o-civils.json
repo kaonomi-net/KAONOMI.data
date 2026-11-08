@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-civils",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "civils",
+  "entityType": "PROFESSION",
+  "description": "Cité par 6 intels : Pression sur la région de Kharkiv ; Ville de Kherson et rive droite ; Nikopol et la rive opposée de la centrale ; Évacuations dans le Sud ; Situation humanitaire dans les zones de front ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Surveiller les opérations russes dans la région de Kharkiv.",
+    "Surveiller les bombardements sur Kherson depuis la rive gauche.",
+    "Suivre les bombardements sur Nikopol, face à la centrale de Zaporijia."
+  ],
+  "angryLevel": null,
+  "sadLevel": 17,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "civils",
+  "tags": [
+    "#UKRAINE",
+    "#CIVILS",
+    "#HUMANITAIRE",
+    "#KHARKIV",
+    "#FRONT",
+    "#KHERSON"
+  ],
+  "events": [
+    "@FRAPPE",
+    "@EVACUATION",
+    "@RAPPORT"
+  ],
+  "signals": [
+    "!MENACE",
+    "!HUMANITAIRE",
+    "!SAD"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "drones",
+    "ONG",
+    "Kharkiv",
+    "Kherson",
+    "bombardements",
+    "Zaporijia",
+    "frontière",
+    "bombes planantes",
+    "offensive",
+    "Vovtchansk"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

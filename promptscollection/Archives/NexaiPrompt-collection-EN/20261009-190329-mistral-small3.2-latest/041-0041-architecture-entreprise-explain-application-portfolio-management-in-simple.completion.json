@@ -1,0 +1,13 @@
+{
+  "index": 41,
+  "file": "0041-architecture-entreprise-explain-application-portfolio-management-in-simple.prompt.json",
+  "prompt": "Explain application portfolio management in simple terms.",
+  "promptWords": 7,
+  "completion": "Application Portfolio Management (APM) is like managing a collection of apps or software used by a company. Just like how you might organize and keep track of your personal apps on your phone, APM helps businesses do the same for all their applications.\n\nHere’s a simple breakdown:\n\n1. **Inventory**: APM starts by listing all the applications a company uses. This includes everything from big software systems to small tools used by different teams.\n\n2. **Evaluation**: Each application is checked to see if it’s still useful, if it’s working well, and if it’s worth the cost. Some apps might be outdated or no longer needed.\n\n3. **Prioritization**: The most important applications are identified. These are the ones that support the company’s goals the most. Less important apps might be updated, replaced, or removed.\n\n4. **Optimization**: The goal is to make sure the company isn’t wasting money on apps it doesn’t need or using too many apps that do the same thing. It’s about keeping things efficient.\n\n5. **Governance**: Rules and processes are put in place to manage the applications over time. This ensures that the company keeps track of its apps and makes good decisions about them.\n\nIn short, Application Portfolio Management helps a company keep its software organized, useful, and cost-effective. It’s like spring cleaning for all the digital tools a business uses!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:11:00.8921972+02:00",
+  "durationSeconds": 6.77,
+  "stats": "mistral-small3.2:latest · 516 + 282 tokens · 6,8 s",
+  "isError": false,
+  "language": "EN"
+}

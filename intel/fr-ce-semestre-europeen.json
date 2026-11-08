@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-semestre-europeen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Semestre européen",
+  "includedEntities": [
+    {
+      "entityName": "semestre européen",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "recommandations",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recommandations budgétaires et économiques adressées aux États.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "plans budgétaires",
+    "réformes",
+    "déficits"
+  ],
+  "questions": [
+    "Quelles recommandations ?",
+    "Quels pays épinglés ?",
+    "Quelle suite ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ECONOMIE",
+    "#SEMESTRE-EUROPEEN"
+  ],
+  "events": [
+    "@RECOMMANDATION"
+  ],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-nausee",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'envie de vomir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:naus[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:naus[ée]eu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mal\\s+au\\s+c(œ|oe)ur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:envie\\s+de\\s+vomir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:c(œ|oe)ur\\s+au\\s+bord\\s+des\\s+l[èe]vres)(?![\\w-])"
+  ],
+  "symbol": "nausée",
+  "event": null,
+  "title": "Nausée",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

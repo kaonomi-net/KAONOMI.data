@@ -1,0 +1,13 @@
+{
+  "index": 468,
+  "file": "0468-machine-learning-qu-est-ce-que-la-validation.prompt.json",
+  "prompt": "Qu'est-ce que la validation croisée ?",
+  "promptWords": 6,
+  "completion": "La validation croisée (ou *cross-validation* en anglais) est une technique utilisée en apprentissage automatique et en statistique pour évaluer la performance d'un modèle prédictif. Elle permet de s'assurer que le modèle généralise bien aux données non vues pendant l'entraînement, réduisant ainsi le risque de surapprentissage (*overfitting*).\n\n### Principaux types de validation croisée :\n\n1. **Validation croisée k-fold** :\n   - Les données sont divisées en *k* sous-ensembles (*folds*).\n   - Le modèle est entraîné *k* fois, chaque fois en utilisant *k-1* folds pour l'entraînement et le fold restant pour la validation.\n   - La performance moyenne est calculée sur les *k* itérations.\n\n2. **Validation croisée Leave-One-Out (LOO)** :\n   - Variante extrême de k-fold où *k* est égal au nombre total d'échantillons.\n   - Chaque échantillon est utilisé une fois comme test, et les autres pour l'entraînement.\n\n3. **Validation croisée stratifiée** :\n   - Version de k-fold qui préserve la distribution des classes dans chaque fold, utile pour les jeux de données déséquilibrés.\n\n4. **Validation croisée temporelle** :\n   - Adaptée aux séries temporelles, où les données sont divisées en séquences chronologiques pour éviter les fuites de données futures.\n\n### Avantages :\n- Meilleure estimation de la généralisation du modèle.\n- Utilisation efficace des données disponibles.\n- Réduction de la variance de l'estimation de performance.\n\n### Inconvénients :\n- Coût computationnel plus élevé (surtout pour LOO).\n- Peut être complexe à mettre en œuvre pour certains types de données (ex : séries temporelles).\n\nLa validation croisée est particulièrement utile pour comparer différents modèles ou pour ajuster les hyperparamètres.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:51:04.3675507+02:00",
+  "durationSeconds": 8.04,
+  "stats": "mistral-small3.2:latest · 516 + 395 tokens · 8,0 s",
+  "isError": false,
+  "language": "FR"
+}

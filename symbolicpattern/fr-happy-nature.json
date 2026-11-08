@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-nature",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le monde vivant.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:nature(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:naturel(le|s|les)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:biodiversit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]cosyst[èe]me(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grand\\s+air)(?![\\w-])"
+  ],
+  "symbol": "nature",
+  "event": null,
+  "title": "Nature",
+  "tags": [
+    "#NATURE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

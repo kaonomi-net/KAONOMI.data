@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-aide-militaire-a-l-ukraine",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Aide militaire à l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "aide militaire",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "livraison",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les livraisons d'armes et l'aide financière à l'Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington",
+    "Berlin",
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "États-Unis",
+    "Union européenne",
+    "missiles"
+  ],
+  "questions": [
+    "Quels équipements ?",
+    "Quel montant ?",
+    "Quelles conditions d'usage ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#UKRAINE",
+    "#DEFENSE"
+  ],
+  "events": [
+    "@ANNONCE-AIDE"
+  ],
+  "signals": [
+    "!SOUTIEN"
+  ],
+  "isDeleted": false
+}

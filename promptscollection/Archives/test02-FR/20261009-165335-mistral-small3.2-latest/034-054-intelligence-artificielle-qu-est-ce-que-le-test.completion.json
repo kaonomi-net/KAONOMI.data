@@ -1,0 +1,13 @@
+{
+  "index": 34,
+  "file": "054-intelligence-artificielle-qu-est-ce-que-le-test.prompt.json",
+  "prompt": "Qu'est-ce que le test de Turing ?",
+  "promptWords": 7,
+  "completion": "Le test de Turing est une expérience pensée par le mathématicien et informaticien britannique Alan Turing en 1950. Il s'agit d'un test conçu pour évaluer la capacité d'une machine à exhiber un comportement intelligent similaire à celui d'un être humain.\n\n### Principe du test :\nLe test de Turing repose sur un jeu d'imitation dans lequel trois participants sont impliqués :\n1. **Un interrogateur humain** (généralement appelé \"jugge\") qui pose des questions par écrit.\n2. **Un répondant humain** (de sexe opposé à l'interrogateur pour éviter les indices vocaux ou visuels).\n3. **Une machine** (par exemple, un programme informatique).\n\nL'interrogateur communique avec les deux répondants (l'humain et la machine) via un terminal texte, sans savoir lequel est humain et lequel est la machine. L'objectif de l'interrogateur est de déterminer lequel des deux répondants est humain en posant des questions. Si l'interrogateur ne peut pas distinguer la machine de l'humain après un certain nombre d'échanges, la machine est considérée comme ayant réussi le test.\n\n### Objectif du test :\nAlan Turing proposait ce test comme un moyen de déterminer si une machine pouvait être considérée comme \"intelligente\". Il suggérait que si une machine pouvait convaincre un interrogateur humain qu'elle était humaine, alors elle pouvait être considérée comme possédant une forme d'intelligence.\n\n### Critiques et limites :\n- Le test de Turing ne mesure pas réellement l'intelligence, mais plutôt la capacité à imiter un humain.\n- Il ne prend pas en compte la compréhension réelle ou la conscience.\n- Certains estiment qu'il est trop limité, car il se concentre uniquement sur la communication textuelle.\n\n### Importance historique :\nLe test de Turing a marqué un tournant dans l'histoire de l'intelligence artificielle en posant des questions fondamentales sur ce qu'est l'intelligence et comment la mesurer. Il reste un point de référence dans les discussions sur l'IA, bien que de nombreux chercheurs modernes cherchent des critères plus sophistiqués pour évaluer l'intelligence artificielle.\n\nSi tu veux plus de détails ou des exemples concrets, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:59:29.3439582+02:00",
+  "durationSeconds": 10.03,
+  "stats": "mistral-small3.2:latest · 516 + 464 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

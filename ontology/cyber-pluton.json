@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (la sécurité des plateformes) : Processeur de sécurité intégré directement au processeur principal, annoncé par Microsoft avec AMD, Intel et Qualcomm.",
+  "id": "cyber-pluton",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Microsoft Pluton",
+  "entityType": "HARDWARE",
+  "description": "Processeur de sécurité intégré directement au processeur principal, annoncé par Microsoft avec AMD, Intel et Qualcomm.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Le technicien a installé Microsoft Pluton dans la salle des machines.",
+    "Lors du salon, le stand présentait Microsoft Pluton en démonstration.",
+    "Le laboratoire utilise Microsoft Pluton pour ses travaux dans le domaine de la sécurité des plateformes."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Pluton"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#SECURITEPLATEFORMES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Microsoft%20Pluton"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Puce TPM",
+    "Puce Titan de Google"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-01-01T00:00:00",
+  "endDate": null
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (le multilinguisme) : Direction générale de la traduction (DGT), service de la Commission européenne compétent pour le multilinguisme, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "id": "eu-dg-dgt",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale de la traduction",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale de la traduction (DGT), service de la Commission européenne compétent pour le multilinguisme, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Direction générale de la traduction ».",
+    "Les décisions de « Direction générale de la traduction » touchent le multilinguisme.",
+    "Le rapport annuel de « Direction générale de la traduction » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DGT"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#MULTILINGUISME"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20de%20la%20traduction"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Traducteur",
+    "Commission européenne",
+    "Piotr Serafin",
+    "Multilinguisme"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

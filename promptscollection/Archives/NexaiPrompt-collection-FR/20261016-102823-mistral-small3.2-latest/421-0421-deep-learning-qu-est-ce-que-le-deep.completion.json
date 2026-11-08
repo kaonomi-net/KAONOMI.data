@@ -1,0 +1,13 @@
+{
+  "index": 421,
+  "file": "0421-deep-learning-qu-est-ce-que-le-deep.prompt.json",
+  "prompt": "Qu'est-ce que le deep learning ?",
+  "promptWords": 6,
+  "completion": "Le deep learning (ou apprentissage profond en français) est une branche de l'intelligence artificielle (IA) qui s'inspire du fonctionnement du cerveau humain. Il utilise des réseaux de neurones artificiels, souvent organisés en couches multiples, pour traiter et analyser de grandes quantités de données.\n\n### Principales caractéristiques du deep learning :\n1. **Réseaux de neurones profonds** : Ces réseaux sont composés de plusieurs couches de neurones, permettant de capturer des représentations complexes des données.\n2. **Apprentissage automatique** : Le modèle apprend à partir de données d'entraînement, en ajustant ses paramètres pour minimiser les erreurs.\n3. **Traitement de données non structurées** : Le deep learning excelle dans le traitement de données comme les images, les vidéos, le texte et le son, contrairement à d'autres méthodes d'IA qui nécessitent souvent des données structurées.\n\n### Applications courantes :\n- **Vision par ordinateur** : Reconnaissance d'images, détection d'objets, conduite autonome.\n- **Traitement du langage naturel (NLP)** : Traduction automatique, chatbots, analyse de sentiments.\n- **Recommandation** : Systèmes de recommandation personnalisés (Netflix, Amazon).\n- **Santé** : Diagnostic médical, analyse d'images médicales.\n\nLe deep learning a révolutionné de nombreux domaines en permettant des performances proches, voire supérieures, à celles des humains dans certaines tâches. Cependant, il nécessite souvent des ressources computationnelles importantes et de grandes quantités de données pour être efficace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:42:13.3064771+02:00",
+  "durationSeconds": 6.7,
+  "stats": "mistral-small3.2:latest · 515 + 331 tokens · 6,7 s",
+  "isError": false,
+  "language": "FR"
+}

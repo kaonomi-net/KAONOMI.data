@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (le chiffrement électromécanique) : Machine de chiffrement par flot du haut commandement allemand (SZ40/42), surnommée « Tunny » par les Britanniques.",
+  "id": "cyber-lorenz",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Machine de Lorenz",
+  "entityType": "HARDWARE",
+  "description": "Machine de chiffrement par flot du haut commandement allemand (SZ40/42), surnommée « Tunny » par les Britanniques.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "La fiche technique de Machine de Lorenz détaille ses caractéristiques de sécurité.",
+    "Pour cet audit, l'équipe a comparé Machine de Lorenz à d'autres solutions matérielles.",
+    "Machine de Lorenz a marqué l'histoire du matériel consacré au chiffrement électromécanique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Lorenz SZ40",
+    "Tunny"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#CHIFFREMENTELECTROMECANIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Machine%20de%20Lorenz"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Décryptage à Bletchley Park",
+    "Colossus"
+  ],
+  "isDeleted": false,
+  "startDate": "1941-01-01T00:00:00",
+  "endDate": null
+}

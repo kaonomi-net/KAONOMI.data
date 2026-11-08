@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-depenses-de-defense-dans-le-budget",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Dépenses de défense dans le budget",
+  "includedEntities": [
+    {
+      "entityName": "dépenses de défense",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "loi de programmation militaire",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la hausse du budget des armées malgré les économies.",
+  "isFuzzy": true,
+  "locations": [
+    "Bercy",
+    "ministère des Armées"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "LPM",
+    "munitions",
+    "OTAN"
+  ],
+  "questions": [
+    "Quelle hausse ?",
+    "Quels programmes ?",
+    "Quelle tension avec les économies ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#DEFENSE"
+  ],
+  "events": [],
+  "signals": [
+    "!BUDGET"
+  ],
+  "isDeleted": false
+}

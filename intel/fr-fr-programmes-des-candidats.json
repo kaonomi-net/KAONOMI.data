@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-programmes-des-candidats",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Programmes des candidats",
+  "includedEntities": [
+    {
+      "entityName": "programme",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "candidat",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre la présentation des programmes présidentiels.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "chiffrage",
+    "retraites",
+    "dette"
+  ],
+  "questions": [
+    "Quelles mesures phares ?",
+    "Quel coût ?",
+    "Quel financement ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#PROGRAMMES"
+  ],
+  "events": [
+    "@PROGRAMME"
+  ],
+  "signals": [
+    "!CAMPAGNE"
+  ],
+  "isDeleted": false
+}

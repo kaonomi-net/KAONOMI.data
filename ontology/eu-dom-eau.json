@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la gestion de l'eau) : Gestion durable de l'eau face aux sécheresses et aux inondations.",
+  "id": "eu-dom-eau",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Résilience hydrique",
+  "entityType": "DOMAIN",
+  "description": "Gestion durable de l'eau face aux sécheresses et aux inondations.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "La conférence portait sur la gestion de l'eau.",
+    "Le domaine « Résilience hydrique » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Résilience hydrique » passent par le Parlement et le Conseil."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#GESTIONEAU"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A9silience%20hydrique"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Environnement, résilience hydrique et économie circulaire compétitive (Commission von der Leyen II)",
+    "Jessika Roswall",
+    "Direction générale de l'environnement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

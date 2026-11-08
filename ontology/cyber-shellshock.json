@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (les vulnérabilités) : Faille de l'interpréteur Bash permettant d'exécuter des commandes à distance sur de nombreux serveurs.",
+  "id": "cyber-shellshock",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Faille Shellshock",
+  "entityType": "EVENT",
+  "description": "Faille de l'interpréteur Bash permettant d'exécuter des commandes à distance sur de nombreux serveurs.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "La frise chronologique de la salle de formation place « Faille Shellshock » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Faille Shellshock ».",
+    "L'événement « Faille Shellshock » a marqué durablement l'histoire des vulnérabilités."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "Bashdoor"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#VULNERABILITES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Faille%20Shellshock"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Faille Heartbleed",
+    "Faille Log4Shell"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-09-24T00:00:00",
+  "endDate": "2014-09-24T00:00:00"
+}

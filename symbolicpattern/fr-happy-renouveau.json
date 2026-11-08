@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-renouveau",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un retour à la vie, un renouvellement.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:renouveau(x)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:renouvellement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:regain(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nouveau\\s+souffle)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:revivre)(?![\\w-])"
+  ],
+  "symbol": "renouveau",
+  "event": null,
+  "title": "Renouveau",
+  "tags": [
+    "#NATURE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

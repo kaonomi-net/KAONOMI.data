@@ -1,0 +1,13 @@
+{
+  "index": 194,
+  "file": "0194-cybersecurite-comment-creer-un-mot-de-passe.prompt.json",
+  "prompt": "Comment créer un mot de passe robuste ?",
+  "promptWords": 8,
+  "completion": "Créer un mot de passe robuste est essentiel pour protéger vos comptes en ligne. Voici quelques conseils pour en générer un :\n\n1. **Longueur** : Utilisez au moins 12 caractères, plus c'est long, mieux c'est.\n2. **Complexité** : Combinez majuscules, minuscules, chiffres et symboles.\n3. **Originalité** : Évitez les mots courants, les dates de naissance ou les informations personnelles.\n4. **Unicité** : Utilisez un mot de passe différent pour chaque compte.\n5. **Générateur de mots de passe** : Utilisez un outil pour créer un mot de passe aléatoire et complexe.\n\nSi vous souhaitez un exemple de mot de passe généré, je peux vous en fournir un. Voulez-vous que je vous en génère un ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:02:23.9990485+02:00",
+  "durationSeconds": 3.82,
+  "stats": "mistral-small3.2:latest · 516 + 179 tokens · 3,8 s",
+  "isError": false,
+  "language": "FR"
+}

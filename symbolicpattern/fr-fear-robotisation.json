@@ -1,0 +1,30 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-robotisation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'être remplacé par une IA ou un robot.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:robotisation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:remplace(r|nt)?\\s+(mon|ton|son|notre|votre|leur|nos|les)\\s+(m[ée]tier|emploi|travail|job)(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:remplac[ée](e|s|es)?\\s+par\\s+un\\s+robot)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:destruction\\s+d['’]emplois)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fin\\s+du\\s+travail)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ch[ôo]mage\\s+technologique)(?![\\w-])"
+  ],
+  "symbol": "robotisation",
+  "event": null,
+  "title": "Robotisation",
+  "tags": [
+    "#FEAR",
+    "#IA",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

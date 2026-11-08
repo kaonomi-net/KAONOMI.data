@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-dependance-au-smartphone",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Dépendance au smartphone",
+  "includedEntities": [
+    {
+      "entityName": "dépendance",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "smartphone",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "temps d'écran",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la dépendance au smartphone.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "notifications",
+    "détox numérique",
+    "jeunes"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel temps d'écran ?",
+    "Quel conseil ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADDICTIONS",
+    "#ECRANS"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

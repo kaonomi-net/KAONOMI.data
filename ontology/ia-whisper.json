@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (la reconnaissance de la parole) : Modèle libre de reconnaissance de la parole multilingue d'OpenAI, utilisé notamment par la dictée de KAONOMI.",
+  "id": "ia-whisper",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "Whisper",
+  "entityType": "SOFTWARE",
+  "description": "Modèle libre de reconnaissance de la parole multilingue d'OpenAI, utilisé notamment par la dictée de KAONOMI.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "Le chercheur cite Whisper dans son article sur la reconnaissance de la parole.",
+    "Le développeur a utilisé Whisper pour son projet.",
+    "Les historiens de l'informatique considèrent Whisper comme une étape de la reconnaissance de la parole."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "OpenAI Whisper"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#RECONNAISSANCEPAROLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Whisper"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Transformeur",
+    "NVIDIA GeForce RTX 4090"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-01-01T00:00:00",
+  "endDate": null
+}

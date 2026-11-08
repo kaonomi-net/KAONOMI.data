@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-puces-neuromorphiques",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Puces neuromorphiques",
+  "includedEntities": [
+    {
+      "entityName": "neuromorphique",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "puce",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les puces inspirées du cerveau.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Intel Loihi",
+    "IBM",
+    "efficacité énergétique"
+  ],
+  "questions": [
+    "Quelle efficacité ?",
+    "Quelles applications ?",
+    "Quand une commercialisation ?"
+  ],
+  "tags": [
+    "#IA",
+    "#MATERIEL",
+    "#RECHERCHE"
+  ],
+  "events": [],
+  "signals": [
+    "!RECHERCHE"
+  ],
+  "isDeleted": false
+}

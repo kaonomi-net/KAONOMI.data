@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-dispositif-mon-soutien-psy",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Dispositif Mon soutien psy",
+  "includedEntities": [
+    {
+      "entityName": "Mon soutien psy",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "séances",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le dispositif de séances de psychologue remboursées.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Assurance maladie",
+    "psychologues",
+    "tarifs"
+  ],
+  "questions": [
+    "Combien de patients ?",
+    "Quel tarif ?",
+    "Combien de psychologues participent ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#SANTE-MENTALE",
+    "#REMBOURSEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!ACCES-AUX-SOINS"
+  ],
+  "isDeleted": false
+}

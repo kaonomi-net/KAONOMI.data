@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-mesures",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "mesures",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Référentiel Cyber France ; Kosovo et normalisation avec la Serbie ; Feuille de route santé mentale et psychiatrie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le référentiel de l'ANSSI pour les entités soumises à NIS2.",
+    "Suivre le dialogue de normalisation entre le Kosovo et la Serbie.",
+    "Suivre la feuille de route gouvernementale en santé mentale et psychiatrie."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "mesures",
+  "tags": [
+    "#CYBERSECURITE",
+    "#REGULATION",
+    "#ANSSI",
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#KOSOVO"
+  ],
+  "events": [],
+  "signals": [
+    "!REGULATION",
+    "!TENSION",
+    "!POLITIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "ReCyF",
+    "Référentiel Cyber France",
+    "conformité",
+    "ANSSI",
+    "Albin Kurti",
+    "Kosovo",
+    "normalisation",
+    "Belgrade",
+    "Pristina"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

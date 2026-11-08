@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-briansk",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "Briansk",
+  "entityType": "CITY",
+  "description": "Cité par 3 intels : Frappes sur l'industrie de défense russe ; Frappes sur les centrales électriques russes ; Évacuations dans les régions frontalières russes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les frappes contre les usines d'armement en Russie.",
+    "Suivre les frappes ukrainiennes contre la production électrique russe.",
+    "Suivre les évacuations de civils côté russe."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Briansk",
+  "tags": [
+    "#RUSSIE",
+    "#FRAPPES",
+    "#INDUSTRIE-DEFENSE",
+    "#ENERGIE",
+    "#FRONTIERE",
+    "#EVACUATION"
+  ],
+  "events": [
+    "@FRAPPE",
+    "@FRAPPE-ENERGIE",
+    "@EVACUATION"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!HUMANITAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Koursk",
+    "Belgorod",
+    "Ijevsk",
+    "missiles",
+    "Tatarstan",
+    "frappe",
+    "industrie de défense",
+    "drones",
+    "usine",
+    "Shahed"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

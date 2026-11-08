@@ -1,0 +1,13 @@
+{
+  "index": 46,
+  "file": "066-physique-qu-est-ce-que-la-gravite.prompt.json",
+  "prompt": "Qu'est-ce que la gravité ?",
+  "promptWords": 5,
+  "completion": "La gravité est l'une des quatre forces fondamentales de la nature, aux côtés de l'électromagnétisme, de l'interaction nucléaire forte et de l'interaction nucléaire faible. Elle est responsable de l'attraction mutuelle entre deux masses. Plus précisément, la gravité est la force qui attire tout objet avec une masse vers un autre objet avec une masse. Cette force est proportionnelle au produit des masses des deux objets et inversement proportionnelle au carré de la distance qui les sépare.\n\nLa gravité est décrite par la théorie de la relativité générale d'Albert Einstein, qui la considère comme une courbure de l'espace-temps causée par la présence de masse et d'énergie. Selon cette théorie, les objets suivent des trajectoires appelées géodésiques dans cet espace-temps courbé, ce qui donne l'impression que les objets sont attirés les uns vers les autres.\n\nLa gravité est également décrite par la loi de la gravitation universelle de Newton, qui est une approximation valable dans la plupart des situations quotidiennes. Selon cette loi, la force gravitationnelle entre deux objets est donnée par la formule :\n\nF = G * (m1 * m2) / r^2\n\noù F est la force gravitationnelle, G est la constante gravitationnelle, m1 et m2 sont les masses des deux objets, et r est la distance entre les centres des deux objets.\n\nLa gravité est responsable de nombreux phénomènes dans l'univers, tels que la formation des planètes, des étoiles et des galaxies, ainsi que le mouvement des planètes autour du Soleil et des satellites autour des planètes. Elle est également responsable du maintien de l'atmosphère autour de la Terre et de la chute des objets vers le sol.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:25:07.2606329+02:00",
+  "durationSeconds": 8.26,
+  "stats": "mistral-small3.2:latest · 515 + 359 tokens · 8,3 s",
+  "isError": false,
+  "language": "FR"
+}

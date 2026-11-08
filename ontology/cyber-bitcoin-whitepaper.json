@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (les cryptomonnaies) : Satoshi Nakamoto publie « Bitcoin: A Peer-to-Peer Electronic Cash System ».",
+  "id": "cyber-bitcoin-whitepaper",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Publication du livre blanc de Bitcoin",
+  "entityType": "EVENT",
+  "description": "Satoshi Nakamoto publie « Bitcoin: A Peer-to-Peer Electronic Cash System ».",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "L'événement « Publication du livre blanc de Bitcoin » a marqué durablement l'histoire des cryptomonnaies.",
+    "La frise chronologique de la salle de formation place « Publication du livre blanc de Bitcoin » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Publication du livre blanc de Bitcoin »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "livre blanc de Bitcoin"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#CRYPTOMONNAIES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Publication%20du%20livre%20blanc%20de%20Bitcoin"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Satoshi Nakamoto",
+    "Bitcoin"
+  ],
+  "isDeleted": false,
+  "startDate": "2008-10-31T00:00:00",
+  "endDate": "2008-10-31T00:00:00"
+}

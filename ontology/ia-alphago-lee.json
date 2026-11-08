@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les jeux) : AlphaGo de DeepMind bat Lee Sedol, l'un des meilleurs joueurs de go au monde, 4 parties à 1 à Séoul.",
+  "id": "ia-alphago-lee",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Match AlphaGo – Lee Sedol",
+  "entityType": "EVENT",
+  "description": "AlphaGo de DeepMind bat Lee Sedol, l'un des meilleurs joueurs de go au monde, 4 parties à 1 à Séoul.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "On date souvent un tournant des jeux à « Match AlphaGo – Lee Sedol ».",
+    "« Match AlphaGo – Lee Sedol » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « Match AlphaGo – Lee Sedol »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 1,
+  "happyLevel": 2,
+  "fearLevel": 1,
+  "surpriseLevel": 5,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "AlphaGo contre Lee Sedol"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#JEUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Match%20AlphaGo%20%E2%80%93%20Lee%20Sedol"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AlphaGo"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-03-09T00:00:00",
+  "endDate": "2016-03-15T00:00:00"
+}

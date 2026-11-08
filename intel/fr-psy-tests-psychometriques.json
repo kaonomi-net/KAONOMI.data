@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-tests-psychometriques",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Tests psychométriques",
+  "includedEntities": [
+    {
+      "entityName": "tests psychométriques",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "évaluation",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage des tests psychométriques.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "recrutement",
+    "QI",
+    "personnalité"
+  ],
+  "questions": [
+    "Quel test ?",
+    "Quel usage ?",
+    "Quelle critique ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#EVALUATION"
+  ],
+  "events": [],
+  "signals": [
+    "!SCIENCE"
+  ],
+  "isDeleted": false
+}

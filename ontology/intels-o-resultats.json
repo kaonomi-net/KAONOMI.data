@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-resultats",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "résultats",
+  "entityType": "DOMAIN",
+  "description": "Cité par 12 intels : Résultats financiers de Nvidia ; LVMH ; Danone ; Bureau Veritas ; Bouygues ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les résultats trimestriels de Nvidia, baromètre de l'IA.",
+    "Suivre l'action et les résultats de LVMH, en baisse marquée depuis janvier 2026.",
+    "Suivre l'action et les résultats de Danone."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "résultats",
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#IA",
+    "#NVIDIA",
+    "#BANQUES",
+    "#CYBERSECURITE"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS",
+    "@RESULTATS-TRIMESTRIELS",
+    "@INTRODUCTION-BOURSE"
+  ],
+  "signals": [
+    "!RESULTATS",
+    "!INDICATEUR",
+    "!ECHEANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Santa Clara",
+    "Nvidia",
+    "acquisitions",
+    "croissance",
+    "banque",
+    "valorisation",
+    "Stockholm",
+    "Jensen Huang",
+    "GPU"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

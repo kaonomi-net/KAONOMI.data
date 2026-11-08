@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-heritage-economique-de-macron",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Héritage économique de Macron",
+  "includedEntities": [
+    {
+      "entityName": "Emmanuel Macron",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "bilan économique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "réformes",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les évaluations du bilan économique du quinquennat.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "chômage",
+    "dette",
+    "attractivité"
+  ],
+  "questions": [
+    "Quel bilan ?",
+    "Quelles critiques ?",
+    "Quels chiffres clés ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!BILAN"
+  ],
+  "isDeleted": false
+}

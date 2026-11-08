@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-petrole",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "pétrole",
+  "entityType": "MATERIAL",
+  "description": "Cité par 9 intels : Poutine et l'Inde ; Détroit d'Ormuz ; Instabilité en Libye ; Décision de l'OPEP+ ; Prix du pétrole et géopolitique ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-material",
+  "sentencesExemples": [
+    "Suivre les relations entre la Russie et l'Inde.",
+    "Surveiller la sécurité du passage stratégique du détroit d'Ormuz.",
+    "Suivre la division politique et les affrontements en Libye."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "pétrole",
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ENERGIE",
+    "#IRAN",
+    "#BOURSE",
+    "#POUTINE",
+    "#INDE"
+  ],
+  "events": [
+    "@VISITE-OFFICIELLE",
+    "@INCIDENT-MARITIME",
+    "@DECISION-OPEP"
+  ],
+  "signals": [
+    "!DIPLOMATIE",
+    "!INSTABILITE",
+    "!PRIX-ENERGIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Iran",
+    "Ormuz",
+    "sanctions",
+    "détroit d'Ormuz",
+    "migrants",
+    "OPEP",
+    "Brent",
+    "armement",
+    "Inde",
+    "New Delhi"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

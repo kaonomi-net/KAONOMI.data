@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-election-presidentielle-americaine",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Élection présidentielle américaine",
+  "includedEntities": [
+    {
+      "entityName": "élection présidentielle",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "États-Unis",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "candidat",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre la campagne et les résultats de l'élection présidentielle américaine.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [
+    "campagne électorale",
+    "jour du scrutin"
+  ],
+  "relatedEntities": [
+    "Républicains",
+    "Démocrates",
+    "Maison Blanche"
+  ],
+  "questions": [
+    "Quels sondages ?",
+    "Quel résultat ?",
+    "Quelles conséquences pour la politique étrangère ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#ETATS-UNIS",
+    "#ELECTIONS"
+  ],
+  "events": [
+    "@ELECTION"
+  ],
+  "signals": [
+    "!INCERTITUDE"
+  ],
+  "isDeleted": false
+}

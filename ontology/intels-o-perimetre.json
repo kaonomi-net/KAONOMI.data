@@ -1,0 +1,47 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-perimetre",
+  "dateCreated": "2026-11-08 17:55:45",
+  "name": "périmètre",
+  "entityType": "DOMAIN",
+  "description": "Cité par 1 intel : Test d'intrusion.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'actualité des tests d'intrusion autorisés."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "périmètre",
+  "tags": [
+    "#CYBERSECURITE",
+    "#PENTEST"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "rapport",
+    "audit",
+    "pentest",
+    "test d'intrusion"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

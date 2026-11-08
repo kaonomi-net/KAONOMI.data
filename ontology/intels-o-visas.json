@@ -1,0 +1,61 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-visas",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "visas",
+  "entityType": "PRODUCT",
+  "description": "Cité par 3 intels : Relations entre la France et l'Algérie ; Arménie et rapprochement européen ; Visas et suspension de l'exemption.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-product",
+  "sentencesExemples": [
+    "Suivre les tensions et rapprochements entre Paris et Alger.",
+    "Suivre le rapprochement de l'Arménie avec l'Union européenne.",
+    "Suivre les décisions sur les exemptions de visas."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "visas",
+  "tags": [
+    "#DIPLOMATIE",
+    "#UNION-EUROPEENNE",
+    "#FRANCE",
+    "#ALGERIE",
+    "#ARMENIE",
+    "#VISAS"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION",
+    "!DIPLOMATIE",
+    "!MIGRATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "mémoire",
+    "Algérie",
+    "Alger",
+    "France",
+    "Boualem Sansal",
+    "Erevan",
+    "Pachinian",
+    "Russie",
+    "Arménie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

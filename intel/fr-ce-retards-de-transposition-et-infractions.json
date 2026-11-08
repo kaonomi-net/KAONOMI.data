@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-retards-de-transposition-et-infractions",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Retards de transposition et infractions",
+  "includedEntities": [
+    {
+      "entityName": "infraction",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "transposition",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "directive",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les procédures d'infraction contre les États membres.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "paquets mensuels"
+  ],
+  "relatedEntities": [
+    "Cour de justice",
+    "mises en demeure",
+    "directives"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Quelle directive ?",
+    "Quelle étape ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#INFRACTIONS",
+    "#DROIT"
+  ],
+  "events": [
+    "@PROCEDURE-INFRACTION"
+  ],
+  "signals": [
+    "!CONFORMITE"
+  ],
+  "isDeleted": false
+}

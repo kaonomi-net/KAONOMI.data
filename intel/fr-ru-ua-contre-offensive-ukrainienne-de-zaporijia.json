@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-contre-offensive-ukrainienne-de-zaporijia",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Contre-offensive ukrainienne de Zaporijia",
+  "includedEntities": [
+    {
+      "entityName": "contre-offensive",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Zaporijia",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre la contre-offensive ukrainienne lancée en février 2026 dans la région de Zaporijia.",
+  "isFuzzy": true,
+  "locations": [
+    "Zaporijia",
+    "Orikhiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "armée ukrainienne",
+    "CFR",
+    "ISW"
+  ],
+  "questions": [
+    "Quels gains territoriaux ?",
+    "Quelle profondeur ?",
+    "Quelle réaction russe ?"
+  ],
+  "tags": [
+    "#UKRAINE",
+    "#ZAPORIJIA",
+    "#CONTRE-OFFENSIVE"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT"
+  ],
+  "signals": [
+    "!CONTRE-OFFENSIVE"
+  ],
+  "isDeleted": false
+}

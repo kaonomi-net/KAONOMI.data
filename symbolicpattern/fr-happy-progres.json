@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-progres",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le fait d'aller vers le mieux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:progr[èe]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:progress(er|e|ent|[ée]|ion|ions)|am[ée]lioration(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:avanc[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s['’]am[ée]liorer)(?![\\w-])"
+  ],
+  "symbol": "progrès",
+  "event": null,
+  "title": "Progrès",
+  "tags": [
+    "#REUSSITE",
+    "#APPRENTISSAGE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-statut-de-la-crimee-dans-les-negociations",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Statut de la Crimée dans les négociations",
+  "includedEntities": [
+    {
+      "entityName": "Crimée",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "statut",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "reconnaissance",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la place de la Crimée dans les discussions de paix.",
+  "isFuzzy": true,
+  "locations": [
+    "Crimée",
+    "Sébastopol"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Russie",
+    "Ukraine",
+    "États-Unis"
+  ],
+  "questions": [
+    "Une reconnaissance est-elle évoquée ?",
+    "Quelle position européenne ?",
+    "Quelle position ukrainienne ?"
+  ],
+  "tags": [
+    "#CRIMEE",
+    "#UKRAINE",
+    "#RUSSIE",
+    "#TERRITOIRES"
+  ],
+  "events": [],
+  "signals": [
+    "!BLOCAGE"
+  ],
+  "isDeleted": false
+}

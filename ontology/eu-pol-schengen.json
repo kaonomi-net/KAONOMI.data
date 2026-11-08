@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (les affaires intérieures) : Espace de libre circulation sans contrôles aux frontières intérieures, issu des accords signés à Schengen.",
+  "id": "eu-pol-schengen",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Espace Schengen",
+  "entityType": "LAW",
+  "description": "Espace de libre circulation sans contrôles aux frontières intérieures, issu des accords signés à Schengen.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "La mise en œuvre de « Espace Schengen » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Espace Schengen ».",
+    "Les juristes de la Commission ont commenté « Espace Schengen »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "accords de Schengen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#AFFAIRESINTERIEURES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Espace%20Schengen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Affaires intérieures et sécurité",
+    "Migration et asile",
+    "Direction générale de la migration et des affaires intérieures",
+    "Commission Delors",
+    "Traité d'Amsterdam",
+    "Entrée de la Croatie dans la zone euro et l'espace Schengen"
+  ],
+  "isDeleted": false,
+  "startDate": "1985-06-14T00:00:00",
+  "endDate": null
+}

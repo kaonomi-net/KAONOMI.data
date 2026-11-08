@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-internement-en-belgique",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Internement en Belgique",
+  "includedEntities": [
+    {
+      "entityName": "internement",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "défense sociale",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation des personnes internées en Belgique.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "prisons",
+    "Cour européenne des droits de l'homme",
+    "soins"
+  ],
+  "questions": [
+    "Quel nombre ?",
+    "Quelle condamnation ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BELGIQUE",
+    "#DROITS"
+  ],
+  "events": [],
+  "signals": [
+    "!DROITS"
+  ],
+  "isDeleted": false
+}

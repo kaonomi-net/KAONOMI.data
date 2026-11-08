@@ -1,0 +1,13 @@
+{
+  "index": 19,
+  "file": "039-cuisine-quels-vins-servir-avec-un-plateau.prompt.json",
+  "prompt": "Quels vins servir avec un plateau de fromages ?",
+  "promptWords": 9,
+  "completion": "Servir un plateau de fromages est une excellente occasion de découvrir des accords mets et vins variés. Voici quelques suggestions pour accompagner différents types de fromages :\n\n### 1. **Fromages frais (type Brie, Camembert, Fromage de chèvre frais)**\n   - **Vin blanc sec** : Un Sancerre, un Chablis ou un Muscadet.\n   - **Vin rosé** : Un rosé de Provence sec.\n\n### 2. **Fromages à pâte molle (type Brie, Camembert, Reblochon)**\n   - **Vin blanc** : Un Bourgogne blanc (Meursault, Puligny-Montrachet) ou un Riesling.\n   - **Vin rouge léger** : Un Beaujolais (Brouilly, Fleurie) ou un Pinot Noir.\n\n### 3. **Fromages à pâte pressée non cuite (type Cheddar, Saint-Nectaire, Tomme)**\n   - **Vin rouge** : Un Bordeaux (Médoc, Saint-Émilion) ou un Côtes-du-Rhône.\n   - **Vin blanc** : Un Chardonnay ou un Viognier.\n\n### 4. **Fromages à pâte pressée cuite (type Comté, Emmental, Gruyère)**\n   - **Vin blanc** : Un Gewurztraminer ou un Riesling vendanges tardives.\n   - **Vin rouge** : Un Syrah ou un Merlot.\n\n### 5. **Fromages bleus (type Roquefort, Bleu d'Auvergne, Gorgonzola)**\n   - **Vin blanc moelleux** : Un Sauternes ou un Monbazillac.\n   - **Vin rouge** : Un Porto ou un Madère.\n\n### 6. **Fromages de chèvre affinés (type Crottin de Chavignol, Valençay)**\n   - **Vin blanc** : Un Sauvignon Blanc ou un Chenin Blanc.\n   - **Vin rouge** : Un Pinot Noir léger.\n\n### Conseils généraux :\n- **Équilibre des saveurs** : Essayez de marier des vins dont l'intensité correspond à celle du fromage.\n- **Expérimentation** : N'hésitez pas à tester différents accords pour trouver ceux qui vous plaisent le plus.\n\nSi vous avez des fromages spécifiques en tête, n'hésitez pas à me les préciser pour des recommandations plus ciblées !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:57:04.7224886+02:00",
+  "durationSeconds": 11.34,
+  "stats": "mistral-small3.2:latest · 518 + 532 tokens · 11,3 s",
+  "isError": false,
+  "language": "FR"
+}

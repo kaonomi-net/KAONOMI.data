@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-vermine",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les bêtes nuisibles et sales.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:vermine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nuisible(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:parasite(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bestiole(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sale(s)?\\s+b[êe]te(s)?)(?![\\w-])"
+  ],
+  "symbol": "vermine",
+  "event": null,
+  "title": "Vermine",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

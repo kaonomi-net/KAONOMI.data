@@ -1,0 +1,13 @@
+{
+  "index": 54,
+  "file": "074-physique-pourquoi-les-objets-tombent-ils-a.prompt.json",
+  "prompt": "Pourquoi les objets tombent-ils à la même vitesse dans le vide ?",
+  "promptWords": 12,
+  "completion": "Les objets tombent à la même vitesse dans le vide en raison de l'absence de résistance de l'air et de la seule influence de la gravité. Voici une explication plus détaillée :\n\n1. **Principe d'équivalence** : Selon la théorie de la relativité générale d'Einstein, la gravité est une courbure de l'espace-temps. Tous les objets, quelle que soit leur masse, suivent la même trajectoire dans un champ gravitationnel, car la force gravitationnelle est proportionnelle à la masse de l'objet (plus un objet est massif, plus il est attiré par la gravité, mais sa masse inertielle, qui résiste à l'accélération, augmente également proportionnellement).\n\n2. **Absence de résistance de l'air** : Dans le vide, il n'y a pas de frottement aérodynamique. Sur Terre, avec l'air, des objets de formes et de masses différentes peuvent tomber à des vitesses différentes en raison de la résistance de l'air. Par exemple, une plume et une balle de métal tombent à des vitesses très différentes dans l'air, mais dans le vide, ils atteindront le sol en même temps.\n\n3. **Expérience historique** : Galilée a démontré cette idée en faisant tomber des objets de différentes masses depuis la tour de Pise. Bien que ses expériences aient été effectuées dans l'air, les résultats ont montré que les objets atteignaient le sol presque en même temps, ce qui a été confirmé plus tard dans des conditions de vide.\n\nEn résumé, dans le vide, tous les objets tombent à la même vitesse parce que la gravité agit de manière uniforme sur tous les objets, sans être affectée par d'autres forces comme la résistance de l'air.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:26:27.1787184+02:00",
+  "durationSeconds": 8.33,
+  "stats": "mistral-small3.2:latest · 522 + 366 tokens · 8,3 s",
+  "isError": false,
+  "language": "FR"
+}

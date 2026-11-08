@@ -1,0 +1,62 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-dnipropetrovsk",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "Dnipropetrovsk",
+  "entityType": "CITY",
+  "description": "Cité par 3 intels : Occupation dans la région de Dnipropetrovsk ; Secteur de Velyka Novosilka ; Évacuations dans le Sud.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les avancées et reprises de villages dans la région de Dnipropetrovsk.",
+    "Suivre les combats à la jonction entre le Donbass et la région de Zaporijia.",
+    "Suivre les évacuations de civils dans les régions du Sud."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Dnipropetrovsk",
+  "tags": [
+    "#UKRAINE",
+    "#FRONT",
+    "#DNIPROPETROVSK",
+    "#EVACUATION",
+    "#HUMANITAIRE"
+  ],
+  "events": [
+    "@EVOLUTION-FRONT",
+    "@EVACUATION"
+  ],
+  "signals": [
+    "!CONFLIT",
+    "!HUMANITAIRE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "armée russe",
+    "limite administrative",
+    "occupation",
+    "villages",
+    "Mejova",
+    "contre-attaques",
+    "Velyka Novosilka",
+    "front",
+    "Houliaïpole",
+    "évacuation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

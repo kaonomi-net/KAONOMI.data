@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-mur-de-drones-europeen",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Mur de drones européen",
+  "includedEntities": [
+    {
+      "entityName": "mur de drones",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "drones",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le projet de défense contre les drones sur le flanc est.",
+  "isFuzzy": true,
+  "locations": [
+    "Pologne",
+    "Baltes",
+    "Finlande"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Eastern Flank Watch",
+    "OTAN",
+    "industrie"
+  ],
+  "questions": [
+    "Quel avancement ?",
+    "Quel financement ?",
+    "Quels pays participent ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DEFENSE",
+    "#DRONES"
+  ],
+  "events": [],
+  "signals": [
+    "!SECURITE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-bien-etre-animal",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Bien-être animal",
+  "includedEntities": [
+    {
+      "entityName": "bien-être animal",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "élevage",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la révision des règles européennes de bien-être animal.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "transport des animaux",
+    "cages",
+    "Várhelyi"
+  ],
+  "questions": [
+    "Quelle proposition ?",
+    "Quel recul ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#BIEN-ETRE-ANIMAL",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

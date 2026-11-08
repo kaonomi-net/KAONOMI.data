@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-salle-de-consommation",
+  "dateCreated": "2026-11-08 17:55:47",
+  "name": "salle de consommation",
+  "entityType": "LOCATION",
+  "description": "Cité par 1 intel : Salles de consommation à moindre risque.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-location",
+  "sentencesExemples": [
+    "Suivre les haltes soins addictions et salles de consommation."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "salle de consommation",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ADDICTIONS",
+    "#REDUCTION-DES-RISQUES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "réduction des risques",
+    "riverains",
+    "Strasbourg",
+    "évaluation",
+    "Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

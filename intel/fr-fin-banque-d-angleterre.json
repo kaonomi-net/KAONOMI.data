@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-banque-d-angleterre",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Banque d'Angleterre",
+  "includedEntities": [
+    {
+      "entityName": "Banque d'Angleterre",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "taux",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les décisions de la Banque d'Angleterre.",
+  "isFuzzy": true,
+  "locations": [
+    "Londres"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "livre sterling",
+    "inflation",
+    "gilts"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quel vote ?",
+    "Quel effet sur la livre ?"
+  ],
+  "tags": [
+    "#BANQUES-CENTRALES",
+    "#ROYAUME-UNI"
+  ],
+  "events": [
+    "@DECISION-TAUX"
+  ],
+  "signals": [
+    "!POLITIQUE-MONETAIRE"
+  ],
+  "isDeleted": false
+}

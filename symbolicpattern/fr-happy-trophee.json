@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-trophee",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un objet qui récompense une victoire.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:troph[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coupe(s)?\\s+(gagn[ée]e|remport[ée]e)(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:palme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:couronne(s)?\\s+de\\s+lauriers)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:distinction(s)?)(?![\\w-])"
+  ],
+  "symbol": "trophée",
+  "event": null,
+  "title": "Trophée",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-discours-sur-l-etat-de-l-union",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Discours sur l'état de l'Union",
+  "includedEntities": [
+    {
+      "entityName": "état de l'Union",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "Ursula von der Leyen",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le discours annuel sur l'état de l'Union devant le Parlement.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [
+    "septembre"
+  ],
+  "relatedEntities": [
+    "Parlement européen",
+    "priorités",
+    "annonces"
+  ],
+  "questions": [
+    "Quelles annonces ?",
+    "Quelles priorités ?",
+    "Quelles réactions des groupes ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#VON-DER-LEYEN",
+    "#PARLEMENT-EUROPEEN"
+  ],
+  "events": [
+    "@DISCOURS"
+  ],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

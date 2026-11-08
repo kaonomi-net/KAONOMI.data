@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-garde-frontieres",
+  "dateCreated": "2026-11-08 17:55:40",
+  "name": "garde-frontières",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Instrumentalisation des migrants à la frontière.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre l'usage de flux migratoires comme moyen de pression sur l'Union européenne."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "garde-frontières",
+  "tags": [
+    "#EUROPE",
+    "#MIGRATIONS",
+    "#GUERRE-HYBRIDE"
+  ],
+  "events": [],
+  "signals": [
+    "!PRESSION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "migrants",
+    "Lituanie",
+    "Finlande",
+    "frontière polonaise",
+    "frontière",
+    "Russie",
+    "Biélorussie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

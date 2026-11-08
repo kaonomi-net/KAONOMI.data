@@ -1,0 +1,13 @@
+{
+  "index": 867,
+  "file": "0867-cpp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C++ qui illustre les expressions lambda.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en C++ qui illustre l'utilisation des expressions lambda :\n\n```cpp\n#include <iostream>\n#include <vector>\n#include <algorithm>\n\nint main() {\n    // Exemple 1 : Expression lambda simple\n    auto greet = []() {\n        std::cout << \"Hello, World!\" << std::endl;\n    };\n    greet();  // Appel de la lambda\n\n    // Exemple 2 : Lambda avec paramètres\n    auto add = [](int a, int b) {\n        return a + b;\n    };\n    std::cout << \"3 + 5 = \" << add(3, 5) << std::endl;\n\n    // Exemple 3 : Lambda avec capture de variables\n    int factor = 5;\n    auto multiply = [factor](int x) {\n        return x * factor;\n    };\n    std::cout << \"7 * \" << factor << \" = \" << multiply(7) << std::endl;\n\n    // Exemple 4 : Utilisation avec STL (algorithme std::for_each)\n    std::vector<int> numbers = {1, 2, 3, 4, 5};\n    std::for_each(numbers.begin(), numbers.end(), [](int n) {\n        std::cout << n << \" \";\n    });\n    std::cout << std::endl;\n\n    // Exemple 5 : Lambda avec capture par référence\n    int count = 0;\n    auto increment = [&count]() {\n        count++;\n    };\n    increment();\n    std::cout << \"Count: \" << count << std::endl;\n\n    return 0;\n}\n```\n\nCe code montre plusieurs aspects des expressions lambda en C++ :\n1. Une lambda simple sans paramètres\n2. Une lambda avec paramètres\n3. Une lambda qui capture une variable du contexte extérieur\n4. Utilisation avec l'algorithme STL `std::for_each`\n5. Capture par référence d'une variable\n\nLes expressions lambda sont particulièrement utiles pour écrire du code concis et expressif, surtout lorsqu'elles sont utilisées avec les algorithmes de la STL.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:32:47.8977791+02:00",
+  "durationSeconds": 8.9,
+  "stats": "mistral-small3.2:latest · 523 + 441 tokens · 8,9 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 123,
+  "file": "0123-microsoft-office-comment-figer-les-volets-dans-excel.prompt.json",
+  "prompt": "Comment figer les volets dans Excel ?",
+  "promptWords": 7,
+  "completion": "Pour figurer (fixer) les volets dans Excel, vous pouvez suivre ces étapes :\n\n1. **Ouvrir votre fichier Excel** : Lancez Excel et ouvrez le classeur dans lequel vous souhaitez figurer les volets.\n\n2. **Accéder aux options de fenêtre** :\n   - Cliquez sur l'onglet **Affichage** dans le ruban.\n   - Dans le groupe **Fenêtre**, cliquez sur **Figurer les volets**.\n\n3. **Choisir les volets à figurer** :\n   - **Figurer les volets de lecture** : Cela verrouille les volets de lecture (colonnes et lignes) pour qu'ils ne puissent pas être déplacés.\n   - **Figurer les volets de feuille** : Cela verrouille les volets de feuille pour qu'ils ne puissent pas être déplacés.\n\n4. **Confirmer** : Cliquez sur **OK** pour appliquer les modifications.\n\nSi vous souhaitez défiger les volets plus tard, vous pouvez suivre les mêmes étapes et choisir **Défiger les volets**.\n\nSi vous avez besoin d'instructions plus spécifiques ou si vous utilisez une version différente d'Excel, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:51:41.5948742+02:00",
+  "durationSeconds": 5.46,
+  "stats": "mistral-small3.2:latest · 516 + 265 tokens · 5,5 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 98,
+  "file": "0098-microsoft-office-comment-inserer-une-table-des-matieres.prompt.json",
+  "prompt": "Comment insérer une table des matières automatique dans Word ?",
+  "promptWords": 10,
+  "completion": "Pour insérer une table des matières automatique dans Microsoft Word, suivez ces étapes :\n\n1. **Appliquer des styles de titre** :\n   - Sélectionnez le texte de vos titres (niveau 1, niveau 2, etc.).\n   - Appliquez les styles prédéfinis de Word :\n     - **Titre 1** pour les titres principaux.\n     - **Titre 2** pour les sous-titres, et ainsi de suite.\n\n2. **Insérer la table des matières** :\n   - Placez le curseur à l'endroit où vous souhaitez insérer la table des matières.\n   - Allez dans l'onglet **Références**.\n   - Cliquez sur **Table des matières** dans le groupe **Table des matières**.\n   - Choisissez un modèle automatique (par exemple, **Table des matières automatique 1** ou **Table des matières automatique 2**).\n\n3. **Mettre à jour la table des matières** :\n   - Si vous modifiez vos titres ou ajoutez de nouvelles sections, vous pouvez mettre à jour la table des matières :\n     - Cliquez droit sur la table des matières.\n     - Sélectionnez **Mettre à jour la table des matières**.\n     - Choisissez **Mettre à jour toute la table** pour inclure les modifications.\n\nCes étapes permettent d'avoir une table des matières dynamique qui se met à jour automatiquement lorsque vous modifiez votre document.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:48:16.700123+02:00",
+  "durationSeconds": 6.17,
+  "stats": "mistral-small3.2:latest · 518 + 302 tokens · 6,2 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 150,
+  "file": "0150-microsoft-office-comment-ajouter-des-animations-dans-powerpoint.prompt.json",
+  "prompt": "Comment ajouter des animations dans PowerPoint ?",
+  "promptWords": 7,
+  "completion": "Ajouter des animations dans PowerPoint peut rendre vos présentations plus dynamiques et engageantes. Voici comment procéder :\n\n### Étapes pour ajouter des animations dans PowerPoint :\n\n1. **Sélectionnez l'élément** :\n   - Cliquez sur l'objet, le texte ou l'image que vous souhaitez animer.\n\n2. **Accédez à l'onglet \"Animations\"** :\n   - Dans le ruban en haut de l'écran, cliquez sur l'onglet **\"Animations\"**.\n\n3. **Choisissez une animation** :\n   - Dans la section **\"Animation\"** du ruban, sélectionnez l'animation souhaitée parmi les options disponibles (par exemple, \"Apparition\", \"Volant\", \"Zoom\", etc.).\n\n4. **Personnalisez l'animation** (facultatif) :\n   - Cliquez sur **\"Personnaliser l'animation\"** dans le groupe **\"Animations\"** pour ajuster les paramètres comme la durée, le déclenchement, le chemin, etc.\n\n5. **Ajoutez plusieurs animations** (si nécessaire) :\n   - Vous pouvez ajouter plusieurs animations à un même élément en répétant les étapes ci-dessus.\n\n6. **Prévisualisez l'animation** :\n   - Cliquez sur **\"Prévisualiser\"** dans le groupe **\"Animations\"** pour voir à quoi ressemble votre animation.\n\n7. **Gérez les animations** :\n   - Utilisez le volet **\"Panneau d'animation\"** (accessible via **\"Panneau d'animation\"** dans le groupe **\"Animations\"**) pour organiser, modifier ou supprimer les animations.\n\n### Conseils pour utiliser les animations efficacement :\n- **Évitez l'excès** : Trop d'animations peuvent distraire votre audience.\n- **Utilisez des animations pertinentes** : Choisissez des animations qui renforcent votre message.\n- **Testez vos animations** : Assurez-vous qu'elles fonctionnent comme prévu avant de présenter.\n\nSi vous avez besoin d'aide pour une animation spécifique ou pour résoudre un problème, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:56:02.2544559+02:00",
+  "durationSeconds": 9.22,
+  "stats": "mistral-small3.2:latest · 515 + 442 tokens · 9,2 s",
+  "isError": false,
+  "language": "FR"
+}

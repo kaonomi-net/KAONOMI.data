@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-desquamation",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La couche sèche sur une plaie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cro[ûu]te(s)?\\s+(de\\s+sang|purulente)(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cro[ûu]teu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:desquamation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:peau\\s+morte)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:squame(s)?)(?![\\w-])"
+  ],
+  "symbol": "desquamation",
+  "event": null,
+  "title": "Desquamation",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

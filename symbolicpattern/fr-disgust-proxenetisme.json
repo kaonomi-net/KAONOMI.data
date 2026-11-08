@@ -1,0 +1,29 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-proxenetisme",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'exploitation de la prostitution d'autrui.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:prox[ée]n[ée]tisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prox[ée]n[èe]te(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:exploitation\\s+sexuelle)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:traite\\s+des\\s+femmes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]seau(x)?\\s+de\\s+prostitution)(?![\\w-])"
+  ],
+  "symbol": "proxénétisme",
+  "event": null,
+  "title": "Proxénétisme",
+  "tags": [
+    "#DISGUST",
+    "#MORAL",
+    "#CRIME"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

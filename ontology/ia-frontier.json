@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul de haute performance) : Supercalculateur du laboratoire d'Oak Ridge, premier à franchir officiellement l'exaflop.",
+  "id": "ia-frontier",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Supercalculateur Frontier",
+  "entityType": "HARDWARE",
+  "description": "Supercalculateur du laboratoire d'Oak Ridge, premier à franchir officiellement l'exaflop.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "La fiche technique de Supercalculateur Frontier détaille ses performances.",
+    "Pour ce projet d'IA, l'équipe a comparé Supercalculateur Frontier à d'autres solutions matérielles.",
+    "Supercalculateur Frontier a marqué l'histoire du matériel consacré au calcul de haute performance."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "Frontier"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULHAUTEPERFORMANCE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Supercalculateur%20Frontier"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Supercalculateur Jean Zay"
+  ],
+  "isDeleted": false,
+  "startDate": "2022-01-01T00:00:00",
+  "endDate": null
+}

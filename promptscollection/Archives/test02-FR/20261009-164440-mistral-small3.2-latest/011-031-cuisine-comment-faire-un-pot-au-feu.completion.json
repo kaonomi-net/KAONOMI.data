@@ -1,0 +1,13 @@
+{
+  "index": 11,
+  "file": "031-cuisine-comment-faire-un-pot-au-feu.prompt.json",
+  "prompt": "Comment faire un pot-au-feu ?",
+  "promptWords": 5,
+  "completion": "Le pot-au-feu est un classique de la cuisine française, réconfortant et savoureux. Voici une recette traditionnelle pour le préparer :\n\n### Ingrédients (pour 6 personnes) :\n- 1,5 kg de viande à pot-au-feu (gîte, joue, paleron, ou une combinaison de ces morceaux)\n- 2 oignons\n- 2 carottes\n- 2 poireaux\n- 1 branche de céleri\n- 1 bouquet garni (thym, laurier, persil)\n- 10 grains de poivre\n- 2 clous de girofle\n- 1 os à moelle (facultatif)\n- Sel\n- Eau\n\n### Préparation :\n\n1. **Préparer les légumes** :\n   - Épluchez et lavez les carottes, les poireaux et le céleri. Coupez-les en gros morceaux.\n   - Épluchez les oignons et piquez-les avec les clous de girofle.\n\n2. **Cuire la viande** :\n   - Dans une grande cocotte ou une marmite, placez la viande et couvrez d'eau froide.\n   - Portez à ébullition, écumez la surface pour enlever les impuretés.\n   - Ajoutez les oignons, les carottes, les poireaux, le céleri, le bouquet garni, les grains de poivre et l'os à moelle (si utilisé).\n   - Salez modérément (la viande va rendre du sel).\n\n3. **Cuisson** :\n   - Laissez mijoter à feu doux pendant 2 à 3 heures (la viande doit être tendre et se détacher facilement).\n   - Vérifiez le niveau d'eau et ajoutez-en si nécessaire.\n\n4. **Servir** :\n   - Retirez la viande et les légumes avec une écumoire.\n   - Découpez la viande en tranches et servez avec les légumes et le bouillon.\n   - Traditionnellement, le pot-au-feu se sert avec des cornichons, de la moutarde et du gros sel.\n\n### Astuces :\n- Vous pouvez préparer le pot-au-feu la veille pour que les saveurs se développent davantage.\n- Le bouillon peut être utilisé pour une soupe ou une sauce.\n\nBon appétit ! \uD83C\uDF72",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:46:27.6797597+02:00",
+  "durationSeconds": 11.11,
+  "stats": "mistral-small3.2:latest · 515 + 506 tokens · 11,1 s",
+  "isError": false,
+  "language": "FR"
+}

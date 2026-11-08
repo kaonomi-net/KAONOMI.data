@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-lombric",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le ver de terre.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:lombric(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ann[ée]lide(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ver(s)?\\s+gluant(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ver(s)?\\s+de\\s+vase)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tortillant(e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "lombric",
+  "event": null,
+  "title": "Lombric",
+  "tags": [
+    "#DISGUST",
+    "#VERMINE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

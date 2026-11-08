@@ -1,0 +1,56 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-loi-de-finances",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "loi de finances",
+  "entityType": "LAW",
+  "description": "Cité par 2 intels : Sénat et la loi de finances ; Loi de finances de fin de gestion 2026.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-law",
+  "sentencesExemples": [
+    "Suivre l'examen du budget au Sénat à partir du 20 novembre 2026.",
+    "Suivre le projet de loi de finances de fin de gestion pour 2026."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "loi de finances",
+  "tags": [
+    "#FRANCE",
+    "#BUDGET",
+    "#SENAT"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!BUDGET"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Sénat",
+    "Gérard Larcher",
+    "commission des finances",
+    "amendements",
+    "solde budgétaire",
+    "recettes",
+    "dépenses",
+    "Parlement",
+    "fin de gestion"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-repugnance",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une forte aversion physique ou morale.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]pugnance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]pugn(er|e|ent|ait|ant|ante|ants|antes)|me\\s+r[ée]pugne)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]pulsion(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]vulsion(s)?)(?![\\w-])"
+  ],
+  "symbol": "répugnance",
+  "event": null,
+  "title": "Répugnance",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

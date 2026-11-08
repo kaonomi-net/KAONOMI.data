@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-manifestations",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "manifestations",
+  "entityType": "EVENT",
+  "description": "Cité par 7 intels : Géorgie entre Moscou et l'Europe ; Manifestations de masse ; Grève interprofessionnelle ; Violences policières ; Serbie et l'Union européenne ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Suivre l'évolution politique de la Géorgie et sa relation à la Russie.",
+    "Repérer les mouvements de contestation massifs dans le monde.",
+    "Suivre les grèves et journées de mobilisation interprofessionnelles."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "manifestations",
+  "tags": [
+    "#GEORGIE",
+    "#SOCIETE",
+    "#FRANCE",
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#RUSSIE"
+  ],
+  "events": [
+    "@MOBILISATION",
+    "@GREVE"
+  ],
+  "signals": [
+    "!TENSION",
+    "!INSTABILITE",
+    "!VIGILANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Géorgie",
+    "loi sur les agents étrangers",
+    "Tbilissi",
+    "Rêve géorgien",
+    "Union européenne",
+    "répression",
+    "contestation",
+    "réseaux sociaux",
+    "police",
+    "gouvernement"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

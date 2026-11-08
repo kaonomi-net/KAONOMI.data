@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (le financement de la recherche) : Période de déclin marquée par l'effondrement du marché des machines Lisp et la désaffection envers les systèmes experts.",
+  "id": "ia-hiver-ia-2",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Second hiver de l'IA",
+  "entityType": "EVENT",
+  "description": "Période de déclin marquée par l'effondrement du marché des machines Lisp et la désaffection envers les systèmes experts.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "On date souvent un tournant du financement de la recherche à « Second hiver de l'IA ».",
+    "« Second hiver de l'IA » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « Second hiver de l'IA »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 1,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "hiver de l'IA de la fin des années 1980"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#FINANCEMENTRECHERCHE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Second%20hiver%20de%20l%27IA"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Machine Lisp"
+  ],
+  "isDeleted": false,
+  "startDate": "1987-01-01T00:00:00",
+  "endDate": "1993-01-01T00:00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-arbre",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une grande plante à tronc.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:arbre(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:for[êe]t(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:feuillage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ch[êe]ne(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:verger(s)?)(?![\\w-])"
+  ],
+  "symbol": "arbre",
+  "event": null,
+  "title": "Arbre",
+  "tags": [
+    "#NATURE",
+    "#VIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

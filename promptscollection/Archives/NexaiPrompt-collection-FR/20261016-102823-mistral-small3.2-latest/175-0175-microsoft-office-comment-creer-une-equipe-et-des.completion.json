@@ -1,0 +1,13 @@
+{
+  "index": 175,
+  "file": "0175-microsoft-office-comment-creer-une-equipe-et-des.prompt.json",
+  "prompt": "Comment créer une équipe et des canaux dans Teams ?",
+  "promptWords": 10,
+  "completion": "Pour créer une équipe et des canaux dans Microsoft Teams, suivez ces étapes :\n\n### **1. Créer une équipe**\n1. **Ouvrez Microsoft Teams** (via l'application de bureau ou le navigateur web).\n2. **Cliquez sur \"Équipes\"** dans le menu de gauche.\n3. **Cliquez sur \"Créer une équipe\"** (en haut à droite).\n4. **Choisissez le type d'équipe** :\n   - **Équipe liée à un groupe Microsoft 365** (recommandé pour la plupart des cas).\n   - **Équipe de classe** (pour les enseignants et élèves).\n   - **Équipe à partir d'un groupe existant** (si vous avez déjà un groupe dans Outlook).\n5. **Remplissez les détails** :\n   - **Nom de l'équipe** (ex: \"Marketing\", \"Projet X\").\n   - **Description** (facultatif).\n   - **Privacité** (Publique ou Privée).\n6. **Cliquez sur \"Créer\"** pour finaliser.\n\n### **2. Créer des canaux**\nUne fois votre équipe créée, vous pouvez ajouter des canaux pour organiser les discussions :\n1. **Dans l'équipe**, cliquez sur **\"Ajouter un canal\"**.\n2. **Donnez un nom au canal** (ex: \"Général\", \"Projets\", \"Discussions\").\n3. **Choisissez la visibilité** (Standard ou Privé).\n4. **Cliquez sur \"Ajouter\"** pour créer le canal.\n\n### **3. Personnaliser les canaux (optionnel)**\n- **Ajouter des onglets** (fichiers, sites web, applications) dans un canal.\n- **Modifier les autorisations** (si le canal est privé).\n- **Supprimer ou archiver** un canal si nécessaire.\n\nSi vous avez besoin d'aide supplémentaire ou si vous souhaitez des détails sur une étape spécifique, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:59:34.5536212+02:00",
+  "durationSeconds": 8.53,
+  "stats": "mistral-small3.2:latest · 518 + 422 tokens · 8,5 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la politique commerciale) : Commission du commerce international du Parlement européen, chargée de la politique commerciale.",
+  "id": "eu-pe-inta",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Commission du commerce international (INTA)",
+  "entityType": "ORGANISATION",
+  "description": "Commission du commerce international du Parlement européen, chargée de la politique commerciale.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissions-pe",
+  "sentencesExemples": [
+    "Le rapport annuel de « Commission du commerce international (INTA) » est publié sur le site de l'Union.",
+    "Un organigramme détaille la structure de « Commission du commerce international (INTA) ».",
+    "Les décisions de « Commission du commerce international (INTA) » touchent la politique commerciale."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "INTA"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#POLITIQUECOMMERCIALE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Commission%20du%20commerce%20international%20%28INTA%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Parlement européen",
+    "Commerce"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

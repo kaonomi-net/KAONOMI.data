@@ -1,0 +1,13 @@
+{
+  "index": 799,
+  "file": "0799-csharp-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en C# qui illustre l'injection de dépendances.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en C# qui illustre l'injection de dépendances (Dependency Injection) en utilisant l'approche manuelle (sans framework spécifique) :\n\n```csharp\nusing System;\n\n// Interface pour le service de journalisation\npublic interface ILogger\n{\n    void Log(string message);\n}\n\n// Implémentation concrète du service de journalisation\npublic class ConsoleLogger : ILogger\n{\n    public void Log(string message)\n    {\n        Console.WriteLine($\"LOG: {message}\");\n    }\n}\n\n// Classe qui dépend d'un service de journalisation\npublic class OrderService\n{\n    private readonly ILogger _logger;\n\n    // Injection de dépendance via le constructeur\n    public OrderService(ILogger logger)\n    {\n        _logger = logger;\n    }\n\n    public void ProcessOrder(string orderId)\n    {\n        _logger.Log($\"Processing order {orderId}\");\n        // Logique de traitement de commande\n    }\n}\n\n// Programme principal\nclass Program\n{\n    static void Main(string[] args)\n    {\n        // Création de l'implémentation concrète du service de journalisation\n        ILogger logger = new ConsoleLogger();\n\n        // Injection de la dépendance dans OrderService\n        var orderService = new OrderService(logger);\n\n        // Utilisation du service\n        orderService.ProcessOrder(\"12345\");\n    }\n}\n```\n\nDans cet exemple :\n\n1. Nous avons une interface `ILogger` qui définit un contrat pour le service de journalisation.\n2. `ConsoleLogger` est une implémentation concrète de ce service.\n3. `OrderService` dépend de `ILogger` mais ne crée pas cette dépendance lui-même.\n4. La dépendance est injectée via le constructeur de `OrderService`.\n5. Dans le programme principal, nous créons l'implémentation concrète et l'injectons dans `OrderService`.\n\nCet exemple montre le principe fondamental de l'injection de dépendances : les dépendances sont fournies à une classe plutôt que d'être créées à l'intérieur de celle-ci. Cela facilite le test et le remplacement des dépendances.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T13:15:51.0662743+02:00",
+  "durationSeconds": 8.84,
+  "stats": "mistral-small3.2:latest · 526 + 438 tokens · 8,8 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,13 @@
+{
+  "index": 191,
+  "file": "0191-cybersecurite-qu-est-ce-que-la-cybersecurite.prompt.json",
+  "prompt": "Qu'est-ce que la cybersécurité et pourquoi est-elle importante pour une entreprise ?",
+  "promptWords": 12,
+  "completion": "La cybersécurité est l'ensemble des pratiques, technologies et processus mis en place pour protéger les systèmes informatiques, les réseaux, les données et les informations contre les cyberattaques, les accès non autorisés, les dommages ou les interruptions. Elle vise à garantir la confidentialité, l'intégrité et la disponibilité des informations.\n\n### Pourquoi la cybersécurité est-elle importante pour une entreprise ?\n\n1. **Protection des données sensibles** : Les entreprises manipulent souvent des données confidentielles (informations clients, données financières, secrets commerciaux). Une faille de sécurité peut entraîner des fuites de données avec des conséquences graves (perte de confiance des clients, amendes légales, etc.).\n\n2. **Prévention des cyberattaques** : Les attaques comme les ransomwares, les phishing ou les intrusions peuvent paralyser les opérations, voler des informations ou exiger des rançons. La cybersécurité aide à prévenir ces menaces.\n\n3. **Conformité légale et réglementaire** : De nombreuses industries sont soumises à des réglementations strictes (comme le RGPD en Europe) qui imposent des mesures de sécurité pour protéger les données personnelles. Le non-respect de ces règles peut entraîner des sanctions financières.\n\n4. **Maintenance de la réputation** : Une violation de données peut nuire à l'image de l'entreprise et éroder la confiance des clients, des partenaires et des investisseurs.\n\n5. **Continuité des activités** : Une bonne cybersécurité permet de minimiser les interruptions dues aux cyberincidents, assurant ainsi la continuité des opérations commerciales.\n\n6. **Réduction des coûts** : Les cyberattaques peuvent être coûteuses en termes de temps, d'argent et de ressources. Investir dans la cybersécurité permet d'éviter ces coûts supplémentaires.\n\nEn résumé, la cybersécurité est essentielle pour protéger les actifs numériques d'une entreprise, assurer sa conformité aux lois, maintenir sa réputation et garantir sa pérennité.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:01:49.7701432+02:00",
+  "durationSeconds": 8.72,
+  "stats": "mistral-small3.2:latest · 525 + 425 tokens · 8,7 s",
+  "isError": false,
+  "language": "FR"
+}

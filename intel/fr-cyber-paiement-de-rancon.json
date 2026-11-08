@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-paiement-de-rancon",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Paiement de rançon",
+  "includedEntities": [
+    {
+      "entityName": "paiement",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "rançon",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "cryptomonnaie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat et les décisions sur le paiement des rançons.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "interdiction",
+    "assureurs",
+    "négociateurs"
+  ],
+  "questions": [
+    "Une rançon est-elle payée ?",
+    "Quel montant ?",
+    "Quelle interdiction ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#RANCON"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

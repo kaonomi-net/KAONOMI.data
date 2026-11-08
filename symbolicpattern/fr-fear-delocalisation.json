@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-delocalisation",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le transfert d'activités à l'étranger.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]localisation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]localis(er|[ée]|[ée]e|[ée]s)|fermeture(s)?\\s+d['’]usine(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:usine(s)?\\s+ferm[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:emplois\\s+d[ée]localis[ée]s)(?![\\w-])"
+  ],
+  "symbol": "délocalisation",
+  "event": null,
+  "title": "Délocalisation",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

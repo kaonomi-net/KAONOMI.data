@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-langage",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "langage",
+  "entityType": "DOMAIN",
+  "description": "Cité par 2 intels : Écrans et développement de l'enfant ; Langage et cerveau.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les études sur les effets des écrans chez l'enfant.",
+    "Suivre les recherches sur le langage et le cerveau."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "langage",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ENFANCE",
+    "#ECRANS",
+    "#NEUROSCIENCES",
+    "#LANGAGE"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!SCIENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "sommeil",
+    "attention",
+    "enfants",
+    "développement",
+    "écrans",
+    "bilinguisme",
+    "aphasie",
+    "IA",
+    "cerveau"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

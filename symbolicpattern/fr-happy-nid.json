@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-nid",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'abri que construisent les oiseaux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:nid(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nich[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:couv[ée]e(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nidification(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:(œ|oe)uf(s)?\\s+de\\s+p[âa]ques)(?![\\w-])"
+  ],
+  "symbol": "nid",
+  "event": null,
+  "title": "Nid",
+  "tags": [
+    "#NATURE",
+    "#NAISSANCE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

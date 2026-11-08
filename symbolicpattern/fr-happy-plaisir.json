@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-plaisir",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui fait du bien, réjouit.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:plaisir(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:agr[ée]able(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]lectation(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:savour(er|e|[ée]|[ée]e)|r[ée]gal(e|er|[ée])?)(?![\\w-])"
+  ],
+  "symbol": "plaisir",
+  "event": null,
+  "title": "Plaisir",
+  "tags": [
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

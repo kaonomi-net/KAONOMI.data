@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-cout-de-la-sante-mentale-pour-la-securite-sociale",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Coût de la santé mentale pour la Sécurité sociale",
+  "includedEntities": [
+    {
+      "entityName": "coût",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "indemnités",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le coût des troubles psychiques pour la sécurité sociale.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique",
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "indemnités",
+    "INAMI",
+    "Assurance maladie"
+  ],
+  "questions": [
+    "Quel coût ?",
+    "Quelle évolution ?",
+    "Quelle mesure ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ECONOMIE",
+    "#SANTE-MENTALE"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-amour",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un sentiment profond d'affection.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:amour(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:je\\s+t['’]aime)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mon\\s+c(œ|oe)ur)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ma\\s+ch[ée]rie)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mon\\s+ch[ée]ri)(?![\\w-])"
+  ],
+  "symbol": "amour",
+  "event": null,
+  "title": "Amour",
+  "tags": [
+    "#AMOUR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

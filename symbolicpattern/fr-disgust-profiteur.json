@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-profiteur",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Celui qui profite des autres.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:profiteu(r|rs|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:parasite(s)?\\s+sociaux)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:resquilleu(r|rs|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:pique-assiette(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sangsue(s)?\\s+(de\\s+la\\s+soci[ée]t[ée]|du\\s+syst[èe]me))(?![\\w-])"
+  ],
+  "symbol": "profiteur",
+  "event": null,
+  "title": "Profiteur",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

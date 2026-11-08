@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-introductions-en-bourse",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Introductions en Bourse",
+  "includedEntities": [
+    {
+      "entityName": "introduction en Bourse",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "IPO",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les introductions en Bourse.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Bruxelles",
+    "New York"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "prix",
+    "demande",
+    "première cotation"
+  ],
+  "questions": [
+    "Quelle société ?",
+    "Quel prix ?",
+    "Quelle première séance ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#IPO"
+  ],
+  "events": [
+    "@INTRODUCTION-BOURSE"
+  ],
+  "signals": [
+    "!OPERATION"
+  ],
+  "isDeleted": false
+}

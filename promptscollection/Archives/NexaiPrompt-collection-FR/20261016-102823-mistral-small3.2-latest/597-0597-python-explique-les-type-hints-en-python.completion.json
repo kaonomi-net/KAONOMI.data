@@ -1,0 +1,13 @@
+{
+  "index": 597,
+  "file": "0597-python-explique-les-type-hints-en-python.prompt.json",
+  "prompt": "Explique les type hints en Python avec un exemple simple.",
+  "promptWords": 10,
+  "completion": "Les type hints (ou annotations de type) en Python sont une fonctionnalité introduite dans Python 3.5 (via PEP 484) qui permet d'indiquer le type attendu des variables, des paramètres de fonctions et des valeurs de retour. Cela améliore la lisibilité du code et permet d'utiliser des outils comme `mypy` pour détecter des erreurs de type avant l'exécution.\n\n### Exemple simple :\n\n```python\ndef ajouter(a: int, b: int) -> int:\n    return a + b\n\nresultat: int = ajouter(5, 3)\nprint(resultat)  # Affiche 8\n```\n\n### Explications :\n- `a: int` et `b: int` indiquent que les paramètres `a` et `b` doivent être de type `int`.\n- `-> int` indique que la fonction retourne une valeur de type `int`.\n- `resultat: int` est une annotation de variable qui indique que `resultat` doit être de type `int`.\n\n### Avantages :\n1. **Lisibilité** : Le code est plus clair pour les autres développeurs.\n2. **Détection d'erreurs** : Des outils comme `mypy` peuvent détecter des erreurs de type avant l'exécution.\n3. **Documentation** : Les annotations de type servent de documentation pour les utilisateurs de la fonction.\n\n### Remarque :\nLes type hints sont optionnels et n'affectent pas le comportement du code à l'exécution. Python reste un langage dynamique, mais les annotations de type aident à rendre le code plus robuste.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:24:57.214528+02:00",
+  "durationSeconds": 6.8,
+  "stats": "mistral-small3.2:latest · 519 + 339 tokens · 6,8 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de la cybersécurité (la cryptographie) : Article de Claude Shannon qui fonde la cryptographie mathématique et prouve la sécurité parfaite du masque jetable.",
+  "id": "cyber-shannon-secrecy",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Publication de « Communication Theory of Secrecy Systems »",
+  "entityType": "EVENT",
+  "description": "Article de Claude Shannon qui fonde la cryptographie mathématique et prouve la sécurité parfaite du masque jetable.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-evenements",
+  "sentencesExemples": [
+    "L'événement « Publication de « Communication Theory of Secrecy Systems » » a marqué durablement l'histoire de la cryptographie.",
+    "La frise chronologique de la salle de formation place « Publication de « Communication Theory of Secrecy Systems » » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Publication de « Communication Theory of Secrecy Systems » »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "théorie du secret de Shannon"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#EVENT",
+    "#CRYPTOGRAPHIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Publication%20de%20%C2%AB%20Communication%20Theory%20of%20Secrecy%20Systems%20%C2%BB"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Publication de « La Cryptographie militaire »",
+    "Claude Shannon",
+    "Masque jetable"
+  ],
+  "isDeleted": false,
+  "startDate": "1949-01-01T00:00:00",
+  "endDate": "1949-01-01T00:00:00"
+}

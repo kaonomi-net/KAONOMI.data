@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (les jeux) : Première victoire d'un programme contre un joueur professionnel de go sur un plateau complet, sans handicap : AlphaGo bat le champion d'Europe Fan Hui 5 à 0.",
+  "id": "ia-alphago-fan",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "AlphaGo bat Fan Hui",
+  "entityType": "EVENT",
+  "description": "Première victoire d'un programme contre un joueur professionnel de go sur un plateau complet, sans handicap : AlphaGo bat le champion d'Europe Fan Hui 5 à 0.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "« AlphaGo bat Fan Hui » est un jalon de l'histoire de l'intelligence artificielle.",
+    "Dans sa conférence, l'historien des sciences est revenu sur « AlphaGo bat Fan Hui ».",
+    "On date souvent un tournant des jeux à « AlphaGo bat Fan Hui »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "AlphaGo contre Fan Hui"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#JEUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=AlphaGo%20bat%20Fan%20Hui"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "AlphaGo"
+  ],
+  "isDeleted": false,
+  "startDate": "2015-10-01T00:00:00",
+  "endDate": "2015-10-01T00:00:00"
+}

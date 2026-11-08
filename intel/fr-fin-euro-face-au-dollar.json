@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-euro-face-au-dollar",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Euro face au dollar",
+  "includedEntities": [
+    {
+      "entityName": "euro",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "dollar",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "change",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le taux de change euro-dollar.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "BCE",
+    "Fed",
+    "écart de taux"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quelle tendance ?",
+    "Quel effet sur les exportateurs ?"
+  ],
+  "tags": [
+    "#CHANGE",
+    "#EURO",
+    "#DOLLAR"
+  ],
+  "events": [],
+  "signals": [
+    "!CHANGE"
+  ],
+  "isDeleted": false
+}

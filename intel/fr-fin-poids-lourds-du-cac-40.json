@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-poids-lourds-du-cac-40",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Poids lourds du CAC 40",
+  "includedEntities": [
+    {
+      "entityName": "poids lourds",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "CAC 40",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les plus fortes pondérations du CAC 40 (TotalEnergies, Schneider, Airbus, Air Liquide, L'Oréal).",
+  "isFuzzy": true,
+  "locations": [
+    "Paris"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "pondération",
+    "capitalisation",
+    "indice"
+  ],
+  "questions": [
+    "Quelle évolution ?",
+    "Quel changement de classement ?",
+    "Quel effet sur l'indice ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#CAC40"
+  ],
+  "events": [],
+  "signals": [
+    "!MARCHE"
+  ],
+  "isDeleted": false
+}

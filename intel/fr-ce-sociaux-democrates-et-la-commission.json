@@ -1,0 +1,46 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-sociaux-democrates-et-la-commission",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Sociaux-démocrates et la Commission",
+  "includedEntities": [
+    {
+      "entityName": "sociaux-démocrates",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "S&D",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les relations entre les socialistes européens et la Commission.",
+  "isFuzzy": true,
+  "locations": [
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Iratxe García",
+    "majorité",
+    "conditions"
+  ],
+  "questions": [
+    "Quelles conditions ?",
+    "Quel vote ?",
+    "Quelle menace de rupture ?"
+  ],
+  "tags": [
+    "#PARLEMENT-EUROPEEN",
+    "#S-D"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

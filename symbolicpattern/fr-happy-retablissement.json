@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-retablissement",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le retour à un bon état.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]tablissement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]tabli(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:remis(e|es)?\\s+sur\\s+pied)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:de\\s+nouveau\\s+sur\\s+pied)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prompt\\s+r[ée]tablissement)(?![\\w-])"
+  ],
+  "symbol": "rétablissement",
+  "event": null,
+  "title": "Rétablissement",
+  "tags": [
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-guerre-civile-en-birmanie",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Guerre civile en Birmanie",
+  "includedEntities": [
+    {
+      "entityName": "Birmanie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "junte",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "résistance",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le conflit entre la junte birmane et les groupes armés.",
+  "isFuzzy": true,
+  "locations": [
+    "Rangoun",
+    "Naypyidaw",
+    "États shan"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ASEAN",
+    "Rohingyas",
+    "Chine"
+  ],
+  "questions": [
+    "Quels territoires perdus par la junte ?",
+    "Quelle situation humanitaire ?",
+    "Quelles négociations ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#BIRMANIE",
+    "#CONFLIT"
+  ],
+  "events": [],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

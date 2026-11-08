@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-macron-et-la-fin-de-vie",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Macron et la fin de vie",
+  "includedEntities": [
+    {
+      "entityName": "fin de vie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "aide à mourir",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la loi sur la fin de vie et l'aide à mourir.",
+  "isFuzzy": true,
+  "locations": [
+    "Assemblée nationale",
+    "Sénat"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "soins palliatifs",
+    "médecins",
+    "référendum"
+  ],
+  "questions": [
+    "Où en est le texte ?",
+    "Quel vote ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#FIN-DE-VIE",
+    "#SOCIETE"
+  ],
+  "events": [
+    "@VOTE"
+  ],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

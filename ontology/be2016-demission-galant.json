@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement des attentats de Bruxelles de 2016 (la réponse de l'État) : La ministre de la Mobilité démissionne à la suite de la polémique sur la sûreté des aéroports.",
+  "id": "be2016-demission-galant",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Démission de Jacqueline Galant",
+  "entityType": "EVENT",
+  "description": "La ministre de la Mobilité démissionne à la suite de la polémique sur la sûreté des aéroports.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-evenements",
+  "sentencesExemples": [
+    "La presse belge a largement couvert « Démission de Jacqueline Galant ».",
+    "L'événement « Démission de Jacqueline Galant » s'inscrit dans la réponse de l'État.",
+    "La frise chronologique du dossier place « Démission de Jacqueline Galant » à sa date."
+  ],
+  "angryLevel": 2,
+  "sadLevel": 3,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 2,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "démission de la ministre de la Mobilité"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#EVENT",
+    "#REPONSEETAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=D%C3%A9mission%20de%20Jacqueline%20Galant"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Jacqueline Galant",
+    "Aéroport de Bruxelles-National"
+  ],
+  "isDeleted": false,
+  "startDate": "2016-04-15T00:00:00",
+  "endDate": "2016-04-15T00:00:00"
+}

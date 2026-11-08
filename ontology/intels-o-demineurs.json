@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-demineurs",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "démineurs",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Déminage des terres agricoles.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre le déminage des territoires repris et des terres agricoles."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "démineurs",
+  "tags": [
+    "#UKRAINE",
+    "#DEMINAGE",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [
+    "!RECONSTRUCTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "agriculture",
+    "aide internationale",
+    "Zaporijia",
+    "déminage",
+    "Kherson",
+    "mines",
+    "Kharkiv"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-cynisme",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le mépris des valeurs morales.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cynisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cynique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sans\\s+scrupule(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sans\\s+vergogne)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sans\\s+foi\\s+ni\\s+loi)(?![\\w-])"
+  ],
+  "symbol": "cynisme",
+  "event": null,
+  "title": "Cynisme",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

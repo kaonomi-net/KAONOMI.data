@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (l'action pour le climat) : Règlement (UE) 2023/956 appliquant un prix du carbone à certaines importations.",
+  "id": "eu-pol-mace",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Mécanisme d'ajustement carbone aux frontières",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2023/956 appliquant un prix du carbone à certaines importations.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Mécanisme d'ajustement carbone aux frontières ».",
+    "La mise en œuvre de « Mécanisme d'ajustement carbone aux frontières » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Mécanisme d'ajustement carbone aux frontières »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "MACF",
+    "CBAM"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#ACTIONPOURCLIMAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=M%C3%A9canisme%20d%27ajustement%20carbone%20aux%20fronti%C3%A8res"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Action pour le climat",
+    "Fiscalité et union douanière",
+    "Direction générale de la fiscalité et de l'union douanière",
+    "Commission von der Leyen I",
+    "Système d'échange de quotas d'émission de l'UE"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-05-10T00:00:00",
+  "endDate": null
+}

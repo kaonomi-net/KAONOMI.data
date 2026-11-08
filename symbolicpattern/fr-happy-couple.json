@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-couple",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Deux personnes qui s'aiment.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:couple(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[âa]me(s)?\\s+s(œ|oe)ur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ma\\s+moiti[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:en\\s+amoureux)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:vie\\s+[àa]\\s+deux)(?![\\w-])"
+  ],
+  "symbol": "couple",
+  "event": null,
+  "title": "Couple",
+  "tags": [
+    "#AMOUR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

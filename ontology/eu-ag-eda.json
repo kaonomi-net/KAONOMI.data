@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la défense européenne) : Agence européenne de défense (AED), organe de l'Union créé en 2004 et installé dans cette ville : Bruxelles.",
+  "id": "eu-ag-eda",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Agence européenne de défense (AED)",
+  "entityType": "ORGANISATION",
+  "description": "Agence européenne de défense (AED), organe de l'Union créé en 2004 et installé dans cette ville : Bruxelles.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "Un organigramme détaille la structure de « Agence européenne de défense (AED) ».",
+    "Les décisions de « Agence européenne de défense (AED) » touchent la défense européenne.",
+    "Le rapport annuel de « Agence européenne de défense (AED) » est publié sur le site de l'Union."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "AED"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#DEFENSEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Agence%20europ%C3%A9enne%20de%20d%C3%A9fense%20%28AED%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "Défense",
+    "Service européen pour l'action extérieure"
+  ],
+  "isDeleted": false,
+  "startDate": "2004-01-01T00:00:00",
+  "endDate": null
+}

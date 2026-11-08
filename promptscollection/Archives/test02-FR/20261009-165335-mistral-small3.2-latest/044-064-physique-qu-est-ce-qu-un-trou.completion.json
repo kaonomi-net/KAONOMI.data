@@ -1,0 +1,13 @@
+{
+  "index": 44,
+  "file": "064-physique-qu-est-ce-qu-un-trou.prompt.json",
+  "prompt": "Qu'est-ce qu'un trou noir ?",
+  "promptWords": 5,
+  "completion": "Un trou noir est un objet céleste extrêmement dense dont le champ gravitationnel est si intense que rien, pas même la lumière, ne peut s'en échapper une fois franchi un certain seuil appelé l'horizon des événements.\n\n### Caractéristiques principales :\n1. **Formation** : Les trous noirs se forment généralement à la fin de la vie d'une étoile massive. Lorsque le cœur de l'étoile s'effondre sous l'effet de sa propre gravité, il peut créer un trou noir si la masse est suffisante.\n\n2. **Horizon des événements** : C'est la frontière autour du trou noir au-delà de laquelle la vitesse de libération (la vitesse nécessaire pour échapper à la gravité) dépasse celle de la lumière. Tout ce qui passe cet horizon est irrémédiablement attiré vers le centre du trou noir.\n\n3. **Singularité** : Au centre du trou noir se trouve une singularité, un point où la densité devient infinie et où les lois de la physique classique cessent de s'appliquer.\n\n4. **Types de trous noirs** :\n   - **Trous noirs stellaires** : Formés à partir de l'effondrement d'une étoile massive.\n   - **Trous noirs supermassifs** : Situés au centre des galaxies, comme Sagittarius A* au centre de la Voie lactée.\n   - **Trous noirs intermédiaires** : Moins courants, leur masse est comprise entre celle des trous noirs stellaires et supermassifs.\n\n5. **Effets observables** : Bien que les trous noirs eux-mêmes soient invisibles, leur présence peut être détectée par leur influence gravitationnelle sur les étoiles et le gaz environnants, ainsi que par les émissions de rayonnement (comme les rayons X) provenant de la matière chauffée en tombant dans le trou noir.\n\nLes trous noirs sont un sujet de recherche actif en astrophysique et en physique théorique, car ils mettent à l'épreuve notre compréhension de la gravité, de la relativité générale et de la mécanique quantique.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:01:04.9423327+02:00",
+  "durationSeconds": 9.41,
+  "stats": "mistral-small3.2:latest · 515 + 430 tokens · 9,4 s",
+  "isError": false,
+  "language": "FR"
+}

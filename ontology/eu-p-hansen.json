@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'agriculture) : Ancien député européen et parlementaire luxembourgeois, commissaire à l'Agriculture et à l'Alimentation depuis 2024.",
+  "id": "eu-p-hansen",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Christophe Hansen",
+  "entityType": "PERSON",
+  "description": "Ancien député européen et parlementaire luxembourgeois, commissaire à l'Agriculture et à l'Alimentation depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Christophe Hansen.",
+    "Lors du point de presse de midi, une question portait sur Christophe Hansen.",
+    "Christophe Hansen est une figure de l'agriculture."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Hansen"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Christophe%20Hansen"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité luxembourgeoise",
+    "Parti populaire chrétien-social (CSV)",
+    "Député européen",
+    "Commissaire européen",
+    "Agriculture et alimentation (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "Agriculture",
+    "Sécurité alimentaire",
+    "Direction générale de l'agriculture et du développement rural"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

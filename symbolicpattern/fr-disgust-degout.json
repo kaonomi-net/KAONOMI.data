@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-degout",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une vive répugnance.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:d[ée]go[ûu]t(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]go[ûu]t(er|[ée]|[ée]e|[ée]s|[ée]es|e|ent|ant|ante|ants|antes)|d[ée]go[ûu]t[ée](e|s|es)?\\s+de)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[çc]a\\s+me\\s+d[ée]go[ûu]te)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:quel\\s+d[ée]go[ûu]t)(?![\\w-])"
+  ],
+  "symbol": "dégoût",
+  "event": null,
+  "title": "Dégoût",
+  "tags": [
+    "#DISGUST"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

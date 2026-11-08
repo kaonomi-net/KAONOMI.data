@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (le traitement du langage) : Chercheur, premier auteur de l'article « Attention Is All You Need » (2017) qui a introduit l'architecture Transformeur chez Google.",
+  "id": "ia-vaswani",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Ashish Vaswani",
+  "entityType": "PERSON",
+  "description": "Chercheur, premier auteur de l'article « Attention Is All You Need » (2017) qui a introduit l'architecture Transformeur chez Google.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Le cours d'histoire de l'IA consacre une séance entière aux travaux de Ashish Vaswani.",
+    "Les étudiants lisent les articles de Ashish Vaswani pour comprendre le traitement du langage.",
+    "Sans les idées de Ashish Vaswani, l'histoire du traitement du langage aurait été différente."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "A. Vaswani"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#TRAITEMENTLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ashish%20Vaswani"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Publication de « Attention Is All You Need »"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

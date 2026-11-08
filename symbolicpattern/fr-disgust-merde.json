@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-merde",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les excréments (vulgaire).",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:merde(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:merdique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:emmerd(ant|ante|ement)|crotte(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:caca(s)?)(?![\\w-])"
+  ],
+  "symbol": "merde",
+  "event": null,
+  "title": "Merde",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

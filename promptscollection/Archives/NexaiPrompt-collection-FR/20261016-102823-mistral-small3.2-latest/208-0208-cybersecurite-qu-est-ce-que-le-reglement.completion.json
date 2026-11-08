@@ -1,0 +1,13 @@
+{
+  "index": 208,
+  "file": "0208-cybersecurite-qu-est-ce-que-le-reglement.prompt.json",
+  "prompt": "Qu'est-ce que le règlement DORA pour le secteur financier ?",
+  "promptWords": 10,
+  "completion": "Le règlement DORA (Digital Operational Resilience Act) est une réglementation de l'Union européenne qui vise à renforcer la résilience opérationnelle numérique des entreprises du secteur financier. Adopté en novembre 2022 et applicable à partir de janvier 2025, DORA impose des exigences strictes en matière de gestion des risques liés aux technologies de l'information et de la communication (TIC).\n\n### Principaux objectifs de DORA :\n1. **Harmonisation des règles** : Créer un cadre commun pour toutes les institutions financières de l'UE afin de garantir une protection uniforme contre les cybermenaces.\n2. **Renforcement de la résilience** : Améliorer la capacité des entreprises financières à prévenir, détecter, répondre et récupérer des incidents liés aux TIC.\n3. **Gestion des tiers** : Imposer des exigences strictes sur la gestion des risques liés aux fournisseurs de services TIC, y compris les prestataires de cloud computing.\n\n### Principales obligations pour les entreprises financières :\n- **Évaluation des risques** : Mettre en place des processus pour identifier et évaluer les risques liés aux TIC.\n- **Tests de résilience** : Réaliser régulièrement des tests de pénétration et des simulations d'attaques pour évaluer la robustesse des systèmes.\n- **Gestion des incidents** : Développer des plans de réponse aux incidents et de continuité d'activité.\n- **Surveillance des tiers** : Surveiller et évaluer les risques posés par les fournisseurs de services TIC, y compris les prestataires de cloud.\n\n### Portée du règlement :\nDORA s'applique à un large éventail d'entités financières, y compris les banques, les compagnies d'assurance, les sociétés d'investissement, les infrastructures de marché et les prestataires de services de paiement.\n\n### Sanctions en cas de non-conformité :\nLes entreprises qui ne respectent pas les exigences de DORA peuvent être soumises à des sanctions, y compris des amendes pouvant aller jusqu'à 1 % de leur chiffre d'affaires mondial.\n\nDORA représente une étape majeure dans la modernisation de la régulation financière en Europe, en réponse à l'augmentation des cybermenaces et à la dépendance croissante aux technologies numériques.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:04:36.0901467+02:00",
+  "durationSeconds": 9.99,
+  "stats": "mistral-small3.2:latest · 521 + 482 tokens · 10,0 s",
+  "isError": false,
+  "language": "FR"
+}

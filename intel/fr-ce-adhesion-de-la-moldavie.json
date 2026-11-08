@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-adhesion-de-la-moldavie",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Adhésion de la Moldavie",
+  "includedEntities": [
+    {
+      "entityName": "Moldavie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "adhésion",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "clusters",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les négociations d'adhésion de la Moldavie.",
+  "isFuzzy": true,
+  "locations": [
+    "Chișinău"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Maia Sandu",
+    "Transnistrie",
+    "réformes"
+  ],
+  "questions": [
+    "Quels clusters ouverts ?",
+    "Quel calendrier ?",
+    "Quel lien avec l'Ukraine ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#MOLDAVIE"
+  ],
+  "events": [
+    "@CONFERENCE-ADHESION"
+  ],
+  "signals": [
+    "!ELARGISSEMENT"
+  ],
+  "isDeleted": false
+}

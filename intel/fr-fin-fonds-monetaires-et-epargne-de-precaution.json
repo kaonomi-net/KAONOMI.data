@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-fonds-monetaires-et-epargne-de-precaution",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Fonds monétaires et épargne de précaution",
+  "includedEntities": [
+    {
+      "entityName": "épargne de précaution",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "placements",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les placements sans risque des épargnants.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "livrets",
+    "fonds monétaires",
+    "comptes à terme"
+  ],
+  "questions": [
+    "Quel rendement ?",
+    "Quelle collecte ?",
+    "Quelle tendance ?"
+  ],
+  "tags": [
+    "#EPARGNE",
+    "#TAUX"
+  ],
+  "events": [],
+  "signals": [
+    "!EPARGNE"
+  ],
+  "isDeleted": false
+}

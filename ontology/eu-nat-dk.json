@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Nationalité de l'Union européenne (la citoyenneté européenne) : Nationalité des citoyens de ce pays : Danemark.",
+  "id": "eu-nat-dk",
+  "dateCreated": "2026-10-31 20:18:17",
+  "name": "nationalité danoise",
+  "entityType": "NORP",
+  "description": "Nationalité des citoyens de ce pays : Danemark. Les ressortissants sont appelés danois.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-nationalites",
+  "sentencesExemples": [
+    "La nationalité danoise donne la citoyenneté européenne.",
+    "Les statistiques du personnel détaillent la répartition par nationalité, dont la nationalité danoise.",
+    "La nationalité danoise est représentée dans les institutions européennes."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDEAA",
+  "synonyms": [
+    "danois",
+    "danoise"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#NORP",
+    "#CITOYENNETEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=nationalit%C3%A9%20danoise"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Danemark",
+    "Margrethe Vestager",
+    "Dan Jørgensen"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

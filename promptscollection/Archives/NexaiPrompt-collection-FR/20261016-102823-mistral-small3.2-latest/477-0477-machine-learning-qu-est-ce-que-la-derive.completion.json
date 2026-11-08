@@ -1,0 +1,13 @@
+{
+  "index": 477,
+  "file": "0477-machine-learning-qu-est-ce-que-la-derive.prompt.json",
+  "prompt": "Qu'est-ce que la dérive des données (data drift) ?",
+  "promptWords": 9,
+  "completion": "La dérive des données, ou *data drift* en anglais, est un phénomène qui se produit lorsque les caractéristiques des données d'un modèle de machine learning changent au fil du temps, par rapport aux données sur lesquelles le modèle a été initialement entraîné. Cela peut entraîner une dégradation des performances du modèle, car celui-ci n'est plus adapté aux nouvelles données.\n\nIl existe plusieurs types de dérive des données :\n\n1. **Dérive conceptuelle (Concept Drift)** : Cela se produit lorsque la relation entre les caractéristiques d'entrée et la cible change. Par exemple, un modèle prédisant les prix de l'immobilier pourrait devenir moins précis si les préférences des acheteurs évoluent.\n\n2. **Dérive de covariate (Covariate Shift)** : Cela se produit lorsque la distribution des caractéristiques d'entrée change, mais que la relation entre ces caractéristiques et la cible reste la même. Par exemple, un modèle de crédit pourrait être entraîné sur des données de clients majoritairement jeunes, mais appliqué à des clients plus âgés.\n\n3. **Dérive de label (Label Shift)** : Cela se produit lorsque la distribution des classes cible change. Par exemple, un modèle de diagnostic médical pourrait être entraîné sur des données où la maladie est rare, mais appliqué à une population où la maladie est plus fréquente.\n\nPour détecter et gérer la dérive des données, plusieurs approches peuvent être utilisées :\n- **Surveillance continue** : Utiliser des métriques pour suivre les performances du modèle et détecter les changements.\n- **Ré-entraînement du modèle** : Mettre à jour le modèle avec de nouvelles données pour qu'il reste pertinent.\n- **Techniques de détection** : Utiliser des tests statistiques ou des méthodes de détection automatique pour identifier les changements dans les données.\n\nLa dérive des données est un défi important dans les systèmes de machine learning en production, car elle peut affecter la fiabilité et l'efficacité des modèles.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:52:44.6611326+02:00",
+  "durationSeconds": 8.31,
+  "stats": "mistral-small3.2:latest · 521 + 407 tokens · 8,3 s",
+  "isError": false,
+  "language": "FR"
+}

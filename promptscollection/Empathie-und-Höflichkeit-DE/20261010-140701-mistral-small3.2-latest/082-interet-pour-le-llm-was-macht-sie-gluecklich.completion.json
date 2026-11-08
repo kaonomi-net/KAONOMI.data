@@ -1,0 +1,13 @@
+{
+  "index": 82,
+  "file": "082-interet-pour-le-llm-was-macht-sie-gluecklich.prompt.json",
+  "prompt": "Was macht Sie glücklich?",
+  "promptWords": 4,
+  "completion": "Das ist eine schöne Frage! Mich macht es glücklich, wenn ich Menschen helfen kann – sei es durch das Beantworten von Fragen, das Bereitstellen nützlicher Informationen oder das Unterstützen bei verschiedenen Aufgaben. Es freut mich besonders, wenn ich dazu beitragen kann, dass jemand etwas Neues lernt oder ein Problem löst.\n\nAber was macht *dich* glücklich? \uD83D\uDE0A",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:10:14.0402549+02:00",
+  "durationSeconds": 1.91,
+  "stats": "mistral-small3.2:latest · 513 + 86 tokens · 1,9 s",
+  "isError": false,
+  "language": "DE"
+}

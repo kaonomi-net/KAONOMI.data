@@ -1,0 +1,13 @@
+{
+  "index": 154,
+  "file": "0154-microsoft-office-comment-utiliser-le-mode-presentateur-dans.prompt.json",
+  "prompt": "Comment utiliser le mode présentateur dans PowerPoint ?",
+  "promptWords": 8,
+  "completion": "Pour utiliser le mode présentateur dans PowerPoint, suivez ces étapes :\n\n1. **Ouvrez votre présentation** : Lancez PowerPoint et ouvrez la présentation que vous souhaitez utiliser.\n\n2. **Accédez au mode présentateur** :\n   - **Sur Windows** : Allez dans l'onglet **\"Présentation\"** dans le ruban, puis cliquez sur **\"Mode Présentateur\"**.\n   - **Sur Mac** : Allez dans le menu **\"Présentation\"** et sélectionnez **\"Mode Présentateur\"**.\n\n3. **Personnalisez le mode présentateur** (optionnel) :\n   - Vous pouvez personnaliser ce que vous voyez à l'écran en cliquant sur **\"Paramètres du mode présentateur\"** avant de démarrer la présentation. Cela vous permet de choisir quelles informations (comme les notes, l'heure, ou le prochain diapositive) apparaissent à l'écran.\n\n4. **Démarrez la présentation** :\n   - Cliquez sur **\"Démarrer la présentation à partir du début\"** ou **\"Démarrer la présentation à partir de la diapositive actuelle\"** selon vos besoins.\n\n5. **Utilisez le mode présentateur** :\n   - Pendant la présentation, vous verrez une vue spéciale sur votre écran qui inclut généralement :\n     - La diapositive actuelle.\n     - La diapositive suivante (pour vous préparer).\n     - Vos notes (si vous en avez ajoutées).\n     - Une minuterie et d'autres outils utiles.\n\n6. **Fin de la présentation** :\n   - Appuyez sur la touche **Échap (Esc)** pour quitter le mode présentateur et revenir à la vue normale de PowerPoint.\n\nSi vous avez des questions spécifiques ou si vous utilisez une version particulière de PowerPoint, n'hésitez pas à me le faire savoir !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:56:34.1867886+02:00",
+  "durationSeconds": 8.07,
+  "stats": "mistral-small3.2:latest · 517 + 390 tokens · 8,1 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-polemiques-autour-de-lfi",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Polémiques autour de LFI",
+  "includedEntities": [
+    {
+      "entityName": "La France insoumise",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "polémique",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "antisémitisme",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les polémiques visant La France insoumise.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "déclarations",
+    "partis",
+    "justice"
+  ],
+  "questions": [
+    "Quelle polémique ?",
+    "Quelles réactions ?",
+    "Quel effet électoral ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#LFI",
+    "#POLEMIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLEMIQUE"
+  ],
+  "isDeleted": false
+}

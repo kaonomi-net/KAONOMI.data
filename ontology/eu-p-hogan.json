@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'agriculture) : Ancien ministre irlandais de l'Environnement, commissaire à l'Agriculture (2014-2019) puis au Commerce, démissionnaire en août 2020.",
+  "id": "eu-p-hogan",
+  "dateCreated": "2026-10-31 20:18:13",
+  "name": "Phil Hogan",
+  "entityType": "PERSON",
+  "description": "Ancien ministre irlandais de l'Environnement, commissaire à l'Agriculture (2014-2019) puis au Commerce, démissionnaire en août 2020.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les manuels sur les institutions européennes citent Phil Hogan.",
+    "Le portrait de Phil Hogan figure dans le dossier consacré à l'agriculture.",
+    "La presse européenne a longuement commenté le parcours de Phil Hogan."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Hogan"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Phil%20Hogan"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité irlandaise",
+    "Fine Gael",
+    "Ministre de l'Environnement",
+    "Commissaire européen",
+    "Commerce (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Commerce",
+    "Agriculture et développement rural (Commission Juncker)",
+    "Commission Juncker",
+    "Agriculture",
+    "Mairead McGuinness",
+    "Démission de Phil Hogan"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

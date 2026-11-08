@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-menace",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "L'annonce d'un mal à venir.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:menace(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:menac(er|[ée]|[ée]e|ant|ante)|menace(s)?\\s+de\\s+mort)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:lettre(s)?\\s+de\\s+menace)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:intimidation(s)?)(?![\\w-])"
+  ],
+  "symbol": "menace",
+  "event": null,
+  "title": "Menace",
+  "tags": [
+    "#FEAR",
+    "#TERRORISME"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-cancer",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une maladie grave due à une tumeur maligne.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cancer(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:canc[ée]reu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tumeur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:m[ée]tastase(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:leuc[ée]mie(s)?)(?![\\w-])"
+  ],
+  "symbol": "cancer",
+  "event": null,
+  "title": "Cancer",
+  "tags": [
+    "#MALADIE",
+    "#MORT"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

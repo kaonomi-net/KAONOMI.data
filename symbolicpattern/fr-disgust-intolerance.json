@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-intolerance",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le refus des différences.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:intol[ée]rance(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:intol[ée]rant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:sectarisme(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bigoterie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]troitesse\\s+d['’]esprit)(?![\\w-])"
+  ],
+  "symbol": "intolérance",
+  "event": null,
+  "title": "Intolérance",
+  "tags": [
+    "#DISGUST",
+    "#MORAL"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

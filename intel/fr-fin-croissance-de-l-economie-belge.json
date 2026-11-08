@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-croissance-de-l-economie-belge",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Croissance de l'économie belge",
+  "includedEntities": [
+    {
+      "entityName": "croissance",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Belgique",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "PIB",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la croissance du PIB belge.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "BNB",
+    "Bureau du Plan",
+    "consommation"
+  ],
+  "questions": [
+    "Quel chiffre ?",
+    "Quelle révision ?",
+    "Quel moteur ?"
+  ],
+  "tags": [
+    "#ECONOMIE",
+    "#BELGIQUE"
+  ],
+  "events": [
+    "@PUBLICATION-INDICATEUR"
+  ],
+  "signals": [
+    "!ECONOMIE"
+  ],
+  "isDeleted": false
+}

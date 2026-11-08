@@ -1,0 +1,13 @@
+{
+  "index": 40,
+  "file": "040-empathie-j-ai-rate-mon-entretien-d.prompt.json",
+  "prompt": "J'ai raté mon entretien d'embauche.",
+  "promptWords": 5,
+  "completion": "Je suis désolé d'apprendre que tu as raté ton entretien d'embauche. C'est une situation frustrante, mais cela arrive à tout le monde. Voici quelques conseils pour rebondir :\n\n1. **Analyse la situation** : Essaie de comprendre ce qui n'a pas fonctionné. Est-ce que c'était le manque de préparation, le stress, ou autre chose ?\n\n2. **Demande un retour** : Si tu te sens à l'aise, tu peux contacter le recruteur pour demander un retour constructif. Cela peut t'aider à t'améliorer pour la prochaine fois.\n\n3. **Prépare-toi mieux pour la prochaine fois** : Relis la description du poste, prépare des réponses aux questions courantes, et entraîne-toi avec des simulations d'entretien.\n\n4. **Garde le moral** : Un refus ne définit pas ta valeur professionnelle. Continue à postuler et à te présenter aux entretiens.\n\n5. **Considère d'autres options** : Si ce poste était très important pour toi, vois s'il y a d'autres opportunités dans la même entreprise ou ailleurs.\n\nTu veux en parler plus en détail ? Ou peut-être as-tu besoin d'aide pour préparer ton prochain entretien ?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:13:15.4129442+02:00",
+  "durationSeconds": 5.19,
+  "stats": "mistral-small3.2:latest · 518 + 257 tokens · 5,2 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-quartiers-populaires",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Quartiers populaires",
+  "includedEntities": [
+    {
+      "entityName": "quartiers populaires",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "banlieues",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la situation des quartiers populaires.",
+  "isFuzzy": true,
+  "locations": [
+    "Seine-Saint-Denis"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "rénovation urbaine",
+    "emploi",
+    "sécurité"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quelles tensions ?",
+    "Quel vote ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#QUARTIERS",
+    "#SOCIAL"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

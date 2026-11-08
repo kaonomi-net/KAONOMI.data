@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-piraterie-au-large-de-la-somalie",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Piraterie au large de la Somalie",
+  "includedEntities": [
+    {
+      "entityName": "piraterie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Somalie",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "golfe d'Aden",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Surveiller les actes de piraterie dans l'océan Indien.",
+  "isFuzzy": true,
+  "locations": [
+    "golfe d'Aden",
+    "Somalie"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Atalante",
+    "navires marchands",
+    "otages"
+  ],
+  "questions": [
+    "Quel navire attaqué ?",
+    "Quel équipage ?",
+    "Quelle intervention ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#MARITIME",
+    "#PIRATERIE"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

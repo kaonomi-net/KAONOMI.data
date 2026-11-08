@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-mandat-d-arret-de-la-cpi-contre-poutine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Mandat d'arrêt de la CPI contre Poutine",
+  "includedEntities": [
+    {
+      "entityName": "Poutine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Cour pénale internationale",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "mandat d'arrêt",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 70,
+  "instructions": "Suivre les conséquences du mandat d'arrêt de la CPI contre Vladimir Poutine.",
+  "isFuzzy": true,
+  "locations": [
+    "La Haye"
+  ],
+  "times": [
+    "déplacements à l'étranger"
+  ],
+  "relatedEntities": [
+    "déportation d'enfants",
+    "États membres",
+    "Mongolie"
+  ],
+  "questions": [
+    "Dans quel pays se rend-il ?",
+    "Le pays est-il membre de la CPI ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#POUTINE",
+    "#CPI",
+    "#JUSTICE-INTERNATIONALE"
+  ],
+  "events": [
+    "@DEPLACEMENT"
+  ],
+  "signals": [
+    "!JUSTICE"
+  ],
+  "isDeleted": false
+}

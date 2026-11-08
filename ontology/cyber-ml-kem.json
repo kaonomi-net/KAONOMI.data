@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (la cryptographie post-quantique) : Mécanisme d'encapsulation de clé post-quantique fondé sur les réseaux euclidiens, issu de Kyber et standardisé dans le FIPS 203.",
+  "id": "cyber-ml-kem",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "ML-KEM",
+  "entityType": "ALGORITHM",
+  "description": "Mécanisme d'encapsulation de clé post-quantique fondé sur les réseaux euclidiens, issu de Kyber et standardisé dans le FIPS 203.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "Dans le domaine de la cryptographie post-quantique, ML-KEM reste une référence.",
+    "Pour ce projet, l'équipe a implémenté ML-KEM à l'aide d'une bibliothèque éprouvée.",
+    "Comprendre ML-KEM est une étape clé pour maîtriser la cryptographie post-quantique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "Kyber",
+    "CRYSTALS-Kyber"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CRYPTOGRAPHIEPOSTQUANTIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=ML-KEM"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Échange de clés Diffie-Hellman",
+    "Publication des standards post-quantiques du NIST"
+  ],
+  "isDeleted": false,
+  "startDate": "2024-01-01T00:00:00",
+  "endDate": null
+}

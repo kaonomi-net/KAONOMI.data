@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-opposition-russe-en-exil",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Opposition russe en exil",
+  "includedEntities": [
+    {
+      "entityName": "opposition en exil",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Ioulia Navalnaïa",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Khodorkovski",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'activité de l'opposition russe à l'étranger.",
+  "isFuzzy": true,
+  "locations": [
+    "Berlin",
+    "Vilnius"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Fondation anticorruption",
+    "exilés",
+    "diaspora"
+  ],
+  "questions": [
+    "Quelle initiative ?",
+    "Quelle division ?",
+    "Quelle audience ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#OPPOSITION",
+    "#EXIL"
+  ],
+  "events": [],
+  "signals": [
+    "!OPPOSITION"
+  ],
+  "isDeleted": false
+}

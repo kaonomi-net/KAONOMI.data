@@ -1,0 +1,13 @@
+{
+  "index": 184,
+  "file": "0184-microsoft-office-comment-partager-un-dossier-avec-un.prompt.json",
+  "prompt": "Comment partager un dossier avec un lien sécurisé dans OneDrive ?",
+  "promptWords": 11,
+  "completion": "Pour partager un dossier avec un lien sécurisé dans OneDrive, voici les étapes à suivre :\n\n1. **Connectez-vous à votre compte OneDrive** via un navigateur web ou l'application OneDrive.\n2. **Accédez au dossier** que vous souhaitez partager.\n3. **Sélectionnez le dossier** en cliquant dessus.\n4. **Cliquez sur le bouton \"Partager\"** (généralement situé en haut de la page ou dans le menu contextuel).\n5. **Choisissez l'option \"Personnes spécifiques\"** pour créer un lien sécurisé.\n6. **Saisissez les adresses e-mail** des personnes avec lesquelles vous souhaitez partager le dossier.\n7. **Personnalisez les autorisations** (lecture, modification, etc.) selon vos besoins.\n8. **Activez l'option \"Exiger une authentification\"** pour s'assurer que seuls les utilisateurs connectés à leur compte Microsoft peuvent accéder au dossier.\n9. **Cliquez sur \"Appliquer\"** ou \"Partager\" pour générer le lien sécurisé.\n10. **Copiez le lien** et partagez-le avec les destinataires.\n\nSi vous avez besoin d'instructions plus détaillées ou si l'interface a changé, je peux vous aider à trouver les informations les plus récentes.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:00:38.2799598+02:00",
+  "durationSeconds": 5.9,
+  "stats": "mistral-small3.2:latest · 521 + 282 tokens · 5,9 s",
+  "isError": false,
+  "language": "FR"
+}

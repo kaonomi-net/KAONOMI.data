@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-miracle",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un fait extraordinaire et heureux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:miracle(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:miraculeu(x|se|ses|sement))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:prodige(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:providentiel(le|s|les)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:inesp[ée]r[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "miracle",
+  "event": null,
+  "title": "Miracle",
+  "tags": [
+    "#ESPOIR",
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

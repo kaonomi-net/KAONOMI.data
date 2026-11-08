@@ -1,0 +1,13 @@
+{
+  "index": 31,
+  "file": "0031-architecture-entreprise-explain-the-togaf-framework-in-simple.prompt.json",
+  "prompt": "Explain the TOGAF framework in simple terms.",
+  "promptWords": 7,
+  "completion": "The TOGAF (The Open Group Architecture Framework) framework is a structured approach to designing, planning, implementing, and managing enterprise architecture. It helps organizations align their business goals with their IT infrastructure. Here's a simple breakdown:\n\n1. **Architecture Development Method (ADM)**: This is the core of TOGAF. It's a step-by-step process for developing an enterprise architecture. Think of it like a roadmap with phases such as understanding the business environment, defining the architecture vision, and implementing the architecture.\n\n2. **Enterprise Continuum**: This is a virtual repository of all the architecture artifacts (like models, patterns, and other documents) that an organization creates and uses. It helps in categorizing and managing these artifacts.\n\n3. **Resource Base**: This includes guidelines, templates, and other tools that help in the architecture development process.\n\n4. **Architecture Content Framework**: This defines the contents of an architecture, including building blocks and their relationships.\n\n5. **Enterprise Architecture Principles**: These are a set of guidelines that help in decision-making and ensure that the architecture supports the business goals.\n\nIn simple terms, TOGAF is like a blueprint for building and managing an organization's IT infrastructure in a way that supports its business needs. It provides a common language and a set of best practices to ensure everyone is on the same page.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:09:42.474281+02:00",
+  "durationSeconds": 6.62,
+  "stats": "mistral-small3.2:latest · 518 + 274 tokens · 6,6 s",
+  "isError": false,
+  "language": "EN"
+}

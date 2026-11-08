@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-islande-et-l-union-europeenne",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Islande et l'Union européenne",
+  "includedEntities": [
+    {
+      "entityName": "Islande",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "adhésion",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur une relance de la candidature islandaise.",
+  "isFuzzy": true,
+  "locations": [
+    "Reykjavik"
+  ],
+  "times": [
+    "référendum"
+  ],
+  "relatedEntities": [
+    "pêche",
+    "euro",
+    "sécurité"
+  ],
+  "questions": [
+    "Un référendum est-il prévu ?",
+    "Quelle opinion ?",
+    "Quelle réponse de Bruxelles ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ELARGISSEMENT",
+    "#ISLANDE"
+  ],
+  "events": [],
+  "signals": [
+    "!ELARGISSEMENT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,61 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les affaires intérieures) : Universitaire et ancienne ministre suédoise des Affaires européennes, commissaire aux Affaires intérieures (2010-2014) puis au Commerce (2014-2019).",
+  "id": "eu-p-malmstrom",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Cecilia Malmström",
+  "entityType": "PERSON",
+  "description": "Universitaire et ancienne ministre suédoise des Affaires européennes, commissaire aux Affaires intérieures (2010-2014) puis au Commerce (2014-2019).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "La presse européenne a longuement commenté le parcours de Cecilia Malmström.",
+    "Les manuels sur les institutions européennes citent Cecilia Malmström.",
+    "Le portrait de Cecilia Malmström figure dans le dossier consacré aux affaires intérieures."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Malmström",
+    "Malmstrom"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#AFFAIRESINTERIEURES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Cecilia%20Malmstr%C3%B6m"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité suédoise",
+    "Libéraux (Liberalerna)",
+    "Professeur d'université",
+    "Ministre des Affaires européennes",
+    "Commissaire européen",
+    "Commerce (Commission Juncker)",
+    "Commission Juncker",
+    "Commerce",
+    "Affaires intérieures (Commission Barroso II)",
+    "Commission Barroso II",
+    "Affaires intérieures et sécurité",
+    "Migration et asile"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

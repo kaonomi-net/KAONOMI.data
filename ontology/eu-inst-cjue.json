@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (la justice) : Juridiction de l'Union qui veille au respect du droit dans l'interprétation et l'application des traités.",
+  "id": "eu-inst-cjue",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Cour de justice de l'Union européenne",
+  "entityType": "ORGANISATION",
+  "description": "Juridiction de l'Union qui veille au respect du droit dans l'interprétation et l'application des traités.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-institutions",
+  "sentencesExemples": [
+    "« Cour de justice de l'Union européenne » joue un rôle dans la justice.",
+    "Les fonctionnaires de « Cour de justice de l'Union européenne » préparent les textes relatifs à la justice.",
+    "La délégation a rencontré des représentants de « Cour de justice de l'Union européenne »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "CJUE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#JUSTICE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Cour%20de%20justice%20de%20l%27Union%20europ%C3%A9enne"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Luxembourg",
+    "Union européenne",
+    "Justice",
+    "Arrêt du Tribunal sur les SMS Pfizer"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

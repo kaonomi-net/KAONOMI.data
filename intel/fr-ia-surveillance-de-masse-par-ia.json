@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-surveillance-de-masse-par-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Surveillance de masse par IA",
+  "includedEntities": [
+    {
+      "entityName": "surveillance",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "caméras",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Surveiller le déploiement de la surveillance automatisée.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "reconnaissance faciale",
+    "libertés",
+    "police"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Quelle technologie ?",
+    "Quel encadrement ?"
+  ],
+  "tags": [
+    "#IA",
+    "#SURVEILLANCE",
+    "#LIBERTES"
+  ],
+  "events": [],
+  "signals": [
+    "!VIGILANCE",
+    "!FEAR"
+  ],
+  "isDeleted": false
+}

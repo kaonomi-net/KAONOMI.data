@@ -1,0 +1,13 @@
+{
+  "index": 527,
+  "file": "0527-cybernetique-explique-la-regulation-des-systemes-de.prompt.json",
+  "prompt": "Explique la régulation des systèmes de façon simple.",
+  "promptWords": 8,
+  "completion": "La régulation des systèmes est un mécanisme qui permet de maintenir un équilibre ou une stabilité dans un environnement qui change. Imaginez un thermostat dans une maison : il mesure la température de la pièce et allume ou éteint le chauffage pour garder la température constante, même si l'extérieur devient plus froid ou plus chaud.\n\nVoici une explication simple avec des exemples :\n\n1. **Objectif** : Garder quelque chose dans une plage souhaitée (ex. : température, pression, vitesse).\n2. **Capteur** : Mesure la valeur actuelle (ex. : le thermostat mesure la température).\n3. **Comparaison** : Compare la valeur mesurée à la valeur souhaitée (ex. : 20°C).\n4. **Action** : Si la valeur est trop haute ou trop basse, le système agit pour la corriger (ex. : allumer le chauffage ou la climatisation).\n\n### Exemples concrets :\n- **Voiture** : Le régulateur de vitesse maintient une vitesse constante malgré les pentes ou le vent.\n- **Corps humain** : La régulation de la température corporelle (transpiration pour refroidir, frissons pour réchauffer).\n- **Industrie** : Les machines régulent la pression ou la vitesse pour éviter les surchauffes.\n\nEn résumé, la régulation permet d’adapter automatiquement un système pour qu’il reste efficace et stable malgré les perturbations.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:01:39.8061318+02:00",
+  "durationSeconds": 6.09,
+  "stats": "mistral-small3.2:latest · 518 + 296 tokens · 6,1 s",
+  "isError": false,
+  "language": "FR"
+}

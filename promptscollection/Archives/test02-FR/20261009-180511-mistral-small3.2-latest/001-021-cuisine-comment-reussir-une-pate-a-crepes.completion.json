@@ -1,0 +1,13 @@
+{
+  "index": 1,
+  "file": "021-cuisine-comment-reussir-une-pate-a-crepes.prompt.json",
+  "prompt": "Comment réussir une pâte à crêpes sans grumeaux ?",
+  "promptWords": 9,
+  "completion": "Pour réussir une pâte à crêpes sans grumeaux, voici quelques conseils et une méthode efficace :\n\n### **Ingrédients de base pour environ 8-10 crêpes :**\n- 250 g de farine (T45 ou T55)\n- 500 ml de lait (entier de préférence)\n- 2 œufs\n- 1 pincée de sel\n- 1 cuillère à soupe de sucre (facultatif, pour les crêpes sucrées)\n- 30 g de beurre fondu (ou d'huile neutre)\n- 1 sachet de sucre vanillé (facultatif)\n\n### **Méthode pour éviter les grumeaux :**\n\n1. **Mélangez les ingrédients secs** :\n   - Dans un saladier, versez la farine, le sel et le sucre (si vous en utilisez). Mélangez légèrement.\n\n2. **Ajoutez les œufs et le beurre fondu** :\n   - Faites un puits au centre de la farine et ajoutez les œufs et le beurre fondu. Mélangez progressivement avec un fouet en incorporant la farine petit à petit.\n\n3. **Incorporez le lait progressivement** :\n   - Versez le lait petit à petit en continuant de fouetter pour éviter la formation de grumeaux.\n   - Si vous avez un mixeur plongeant, vous pouvez l'utiliser pour obtenir une pâte parfaitement lisse.\n\n4. **Laissez reposer la pâte** :\n   - Couvrez le saladier avec un torchon et laissez reposer la pâte au moins 30 minutes à température ambiante. Cela permet à la farine de bien s'imprégner et d'obtenir des crêpes plus souples et moins cassantes.\n\n5. **Faites cuire les crêpes** :\n   - Faites chauffer une poêle antiadhésive à feu moyen et huilez-la légèrement avec un papier essuie-tout imbibé d'huile.\n   - Versez une petite louche de pâte et étalez-la rapidement en inclinant la poêle.\n   - Retournez la crêpe quand les bords se décollent et que le dessus est légèrement sec.\n\n### **Astuces supplémentaires :**\n- Utilisez un **fouet** plutôt qu'une cuillère en bois pour éviter les grumeaux.\n- Si des grumeaux persistent, passez la pâte au **tamis** avant de la laisser reposer.\n- Pour une pâte encore plus légère, vous pouvez **séparer les blancs des jaunes d'œufs**, monter les blancs en neige et les incorporer délicatement à la fin.\n\nAvec ces étapes, vous obtiendrez une pâte à crêpes lisse et homogène, parfaite pour des crêpes moelleuses et sans grumeaux ! \uD83E\uDD5E",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T18:05:11.8846631+02:00",
+  "durationSeconds": 19.98,
+  "stats": "mistral-small3.2:latest · 522 + 626 tokens · 20,0 s",
+  "isError": false,
+  "language": "FR"
+}

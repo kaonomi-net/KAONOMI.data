@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les modèles de langage) : Famille de modèles de langage de Meta publiés à partir de 2023, base de nombreux modèles ouverts.",
+  "id": "ia-llama",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "LLaMA",
+  "entityType": "SOFTWARE",
+  "description": "Famille de modèles de langage de Meta publiés à partir de 2023, base de nombreux modèles ouverts.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "En atelier, les élèves ont découvert LLaMA et ses possibilités.",
+    "L'équipe a comparé LLaMA avec d'autres outils des modèles de langage.",
+    "LLaMA figure parmi les logiciels marquants des modèles de langage."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Llama",
+    "Large Language Model Meta AI"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#MODELESLANGAGE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=LLaMA"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Transformeur",
+    "Publication de LLaMA",
+    "LoRA",
+    "llama.cpp"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-01-01T00:00:00",
+  "endDate": null
+}

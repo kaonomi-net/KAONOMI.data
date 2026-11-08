@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-wall-street",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Wall Street",
+  "includedEntities": [
+    {
+      "entityName": "Wall Street",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "S&P 500",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Dow Jones",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les séances de Wall Street et leur influence sur l'Europe.",
+  "isFuzzy": true,
+  "locations": [
+    "New York"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Nasdaq",
+    "Dow Jones",
+    "S&P 500"
+  ],
+  "questions": [
+    "Quel mouvement ?",
+    "Quel moteur ?",
+    "Quel effet sur Paris et Bruxelles ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#WALL-STREET"
+  ],
+  "events": [
+    "@SEANCE-BOURSE"
+  ],
+  "signals": [
+    "!MARCHE"
+  ],
+  "isDeleted": false
+}

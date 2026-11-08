@@ -1,0 +1,25 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-apprendre",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acquérir des connaissances.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:appren(dre|ds|d|ons|ez|nent|ait|tissage)|apprentissage(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]tudi(er|e|[ée]))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:connaissance(s)?)(?![\\w-])"
+  ],
+  "symbol": "apprendre",
+  "event": null,
+  "title": "Apprendre",
+  "tags": [
+    "#APPRENTISSAGE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

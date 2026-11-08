@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-prefets",
+  "dateCreated": "2026-11-08 17:55:46",
+  "name": "préfets",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Nominations par le président.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les nominations aux grandes fonctions de l'État."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "préfets",
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#NOMINATIONS"
+  ],
+  "events": [
+    "@NOMINATION"
+  ],
+  "signals": [
+    "!GOUVERNANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nomination",
+    "Élysée",
+    "Banque de France",
+    "Conseil constitutionnel",
+    "Emmanuel Macron"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,53 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-berd",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "BERD",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Reconstruction de l'Ukraine.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les conférences et financements pour la reconstruction."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "BERD",
+  "tags": [
+    "#UKRAINE",
+    "#RECONSTRUCTION",
+    "#FINANCEMENT"
+  ],
+  "events": [
+    "@CONFERENCE"
+  ],
+  "signals": [
+    "!RECONSTRUCTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Banque mondiale",
+    "reconstruction",
+    "Ukraine",
+    "Kyiv",
+    "Londres",
+    "Rome",
+    "investisseurs"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

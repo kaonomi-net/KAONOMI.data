@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (la protection des consommateurs) : Droits des consommateurs, sécurité des produits et équité dans le commerce en ligne.",
+  "id": "eu-dom-consommateurs",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Protection des consommateurs",
+  "entityType": "DOMAIN",
+  "description": "Droits des consommateurs, sécurité des produits et équité dans le commerce en ligne.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Le domaine « Protection des consommateurs » figure dans le programme de travail de la Commission.",
+    "Les propositions législatives relatives au domaine « Protection des consommateurs » passent par le Parlement et le Conseil.",
+    "La conférence portait sur la protection des consommateurs."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#PROTECTIONCONSOMMATEURS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Protection%20des%20consommateurs"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission du marché intérieur et de la protection des consommateurs (IMCO)",
+    "Conseil Emploi, politique sociale, santé et consommateurs (EPSCO)",
+    "Justice (Commission von der Leyen I)",
+    "Didier Reynders",
+    "Démocratie, justice, état de droit et protection des consommateurs (Commission von der Leyen II)",
+    "Michael McGrath",
+    "Justice, consommateurs et égalité des genres (Commission Juncker)",
+    "Věra Jourová",
+    "Protection des consommateurs (Commission Barroso II)",
+    "Neven Mimica",
+    "Direction générale de la justice et des consommateurs",
+    "Programme pour le marché unique"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

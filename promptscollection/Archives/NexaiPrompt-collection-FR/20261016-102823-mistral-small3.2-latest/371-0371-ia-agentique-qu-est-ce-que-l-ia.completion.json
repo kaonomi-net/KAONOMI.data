@@ -1,0 +1,13 @@
+{
+  "index": 371,
+  "file": "0371-ia-agentique-qu-est-ce-que-l-ia.prompt.json",
+  "prompt": "Qu'est-ce que l'IA agentique ?",
+  "promptWords": 5,
+  "completion": "L'IA agentique, ou \"agent intelligent\", désigne une forme d'intelligence artificielle capable d'agir de manière autonome pour accomplir des tâches spécifiques. Contrairement aux systèmes d'IA traditionnels qui se contentent de répondre à des requêtes ou d'analyser des données, les agents intelligents peuvent prendre des initiatives, interagir avec leur environnement et même collaborer avec d'autres systèmes ou humains pour atteindre des objectifs.\n\n### Caractéristiques principales de l'IA agentique :\n1. **Autonomie** : Les agents intelligents peuvent fonctionner sans intervention humaine constante.\n2. **Adaptabilité** : Ils peuvent s'adapter à des situations changeantes ou imprévues.\n3. **Interaction** : Ils peuvent communiquer avec d'autres systèmes, appareils ou utilisateurs.\n4. **Objectifs** : Ils sont conçus pour accomplir des tâches précises, comme la gestion de données, la prise de décision, ou l'exécution de processus.\n\n### Exemples d'applications :\n- **Assistants virtuels** (comme Siri ou Alexa) qui peuvent gérer des rendez-vous, contrôler des appareils domestiques intelligents, etc.\n- **Robots industriels** qui effectuent des tâches de fabrication ou de logistique de manière autonome.\n- **Systèmes de trading algorithmique** qui achètent et vendent des actions en fonction de critères prédéfinis.\n- **Agents de support client** qui répondent aux questions des utilisateurs via des chatbots ou des assistants vocaux.\n\n### Différence avec l'IA traditionnelle :\nL'IA traditionnelle est souvent passive et réactive, tandis que l'IA agentique est proactive et peut initier des actions. Par exemple, un système d'IA traditionnel pourrait analyser des données pour détecter une anomalie, mais un agent intelligent pourrait également envoyer une alerte et proposer des solutions pour corriger le problème.\n\nSi tu veux des informations plus spécifiques ou des exemples concrets, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:33:12.5045819+02:00",
+  "durationSeconds": 8.48,
+  "stats": "mistral-small3.2:latest · 517 + 417 tokens · 8,5 s",
+  "isError": false,
+  "language": "FR"
+}

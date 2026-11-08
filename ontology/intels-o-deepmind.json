@@ -1,0 +1,65 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-deepmind",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "DeepMind",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 5 intels : Nouveau modèle Gemini de Google ; AlphaFold et la biologie ; Intelligence artificielle générale ; Apprentissage par renforcement ; Annonce de Demis Hassabis.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'évolution de la famille Gemini et son intégration aux produits Google.",
+    "Suivre l'usage de l'IA pour prédire la structure des protéines.",
+    "Suivre le débat et les annonces sur l'arrivée d'une IA générale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "DeepMind",
+  "tags": [
+    "#IA",
+    "#LLM",
+    "#GOOGLE",
+    "#SCIENCE",
+    "#BIOLOGIE",
+    "#AGI"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE",
+    "@DECOUVERTE",
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!NOUVEAUTE",
+    "!PERCEE",
+    "!SPECULATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Londres",
+    "Demis Hassabis",
+    "Gemini",
+    "Google",
+    "AlphaFold",
+    "Android",
+    "Mountain View",
+    "Sundar Pichai",
+    "biologie",
+    "protéines"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

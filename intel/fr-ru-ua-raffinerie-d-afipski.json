@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-raffinerie-d-afipski",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Raffinerie d'Afipski",
+  "includedEntities": [
+    {
+      "entityName": "Afipski",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "raffinerie",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les attaques contre la raffinerie d'Afipski, dans la région de Krasnodar.",
+  "isFuzzy": true,
+  "locations": [
+    "Afipski",
+    "Krasnodar"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "drones",
+    "incendie",
+    "carburant"
+  ],
+  "questions": [
+    "Quels dégâts ?",
+    "Combien de temps à l'arrêt ?",
+    "Quelle confirmation ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#ENERGIE",
+    "#FRAPPES"
+  ],
+  "events": [
+    "@FRAPPE-ENERGIE"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 30,
+  "file": "050-intelligence-artificielle-qu-est-ce-que-l-apprentissage.prompt.json",
+  "prompt": "Qu'est-ce que l'apprentissage supervisé et non supervisé ?",
+  "promptWords": 8,
+  "completion": "L'apprentissage supervisé et non supervisé sont deux types fondamentaux d'apprentissage automatique (machine learning). Voici une explication de chacun :\n\n### Apprentissage supervisé\nL'apprentissage supervisé est une méthode d'apprentissage automatique où le modèle est entraîné sur un ensemble de données étiquetées. Cela signifie que chaque exemple d'entraînement est associé à une sortie connue (ou étiquette).\n\n**Caractéristiques :**\n- **Données étiquetées** : Les données d'entraînement contiennent des paires d'entrée-sortie.\n- **Objectif** : Apprendre une fonction de mapping qui prédit correctement la sortie pour une nouvelle entrée.\n- **Exemples d'applications** :\n  - Classification (par exemple, spam vs non-spam)\n  - Régression (par exemple, prédiction de prix de maisons)\n\n**Processus :**\n1. Un ensemble de données étiquetées est utilisé pour entraîner le modèle.\n2. Le modèle apprend à faire des prédictions en minimisant l'erreur entre ses prédictions et les étiquettes réelles.\n3. Le modèle est évalué sur un ensemble de test pour vérifier sa performance.\n\n### Apprentissage non supervisé\nL'apprentissage non supervisé est une méthode d'apprentissage automatique où le modèle est entraîné sur des données non étiquetées. Le but est de découvrir des structures cachées ou des motifs dans les données.\n\n**Caractéristiques :**\n- **Données non étiquetées** : Les données d'entraînement ne contiennent pas de sorties connues.\n- **Objectif** : Découvrir des structures intrinsèques dans les données.\n- **Exemples d'applications** :\n  - Clustering (par exemple, segmentation de clients)\n  - Réduction de dimension (par exemple, analyse en composantes principales)\n\n**Processus :**\n1. Un ensemble de données non étiquetées est utilisé pour entraîner le modèle.\n2. Le modèle identifie des motifs ou des structures dans les données.\n3. Les résultats sont interprétés pour en tirer des insights.\n\n### Comparaison\n- **Supervisé** : Utilise des données étiquetées pour prédire des sorties spécifiques.\n- **Non supervisé** : Utilise des données non étiquetées pour découvrir des structures ou des motifs.\n\nChaque approche a ses forces et ses faiblesses, et le choix entre les deux dépend du type de problème à résoudre et des données disponibles.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T17:22:12.0929043+02:00",
+  "durationSeconds": 11.17,
+  "stats": "mistral-small3.2:latest · 522 + 513 tokens · 11,2 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-ia-dans-l-agriculture",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "IA dans l'agriculture",
+  "includedEntities": [
+    {
+      "entityName": "agriculture",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "exploitation",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'usage de l'IA dans l'agriculture.",
+  "isFuzzy": true,
+  "locations": [
+    "champs",
+    "exploitations"
+  ],
+  "times": [
+    "saisons agricoles"
+  ],
+  "relatedEntities": [
+    "drones",
+    "capteurs",
+    "rendement"
+  ],
+  "questions": [
+    "Quel gain de rendement ?",
+    "Quel coût pour l'agriculteur ?",
+    "Quel impact environnemental ?"
+  ],
+  "tags": [
+    "#IA",
+    "#AGRICULTURE"
+  ],
+  "events": [],
+  "signals": [
+    "!OPPORTUNITE"
+  ],
+  "isDeleted": false
+}

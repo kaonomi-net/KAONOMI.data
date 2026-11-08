@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-psychologie-positive",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Psychologie positive",
+  "includedEntities": [
+    {
+      "entityName": "psychologie positive",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "bien-être",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les recherches et critiques de la psychologie positive.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "bonheur",
+    "forces",
+    "critiques"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quelle critique ?",
+    "Quelle application ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PSYCHOLOGIE-POSITIVE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "isDeleted": false
+}

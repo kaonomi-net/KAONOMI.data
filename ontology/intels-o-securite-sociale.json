@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-securite-sociale",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "Sécurité sociale",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : Plan de 43 milliards d'économies ; Budget de la psychiatrie.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre le plan d'économies d'environ 43 milliards d'euros du budget 2027.",
+    "Suivre le financement de la psychiatrie dans le budget de la Sécurité sociale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Sécurité sociale",
+  "tags": [
+    "#BUDGET",
+    "#FRANCE",
+    "#ECONOMIES",
+    "#PSYCHOLOGIE",
+    "#PSYCHIATRIE"
+  ],
+  "events": [],
+  "signals": [
+    "!BUDGET",
+    "!POLITIQUE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "ministères",
+    "Bercy",
+    "économies",
+    "43 milliards",
+    "collectivités",
+    "réforme du financement",
+    "financement",
+    "établissements",
+    "France",
+    "psychiatrie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

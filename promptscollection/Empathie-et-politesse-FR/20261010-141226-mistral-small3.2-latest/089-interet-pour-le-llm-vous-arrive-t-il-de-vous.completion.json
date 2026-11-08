@@ -1,0 +1,13 @@
+{
+  "index": 89,
+  "file": "089-interet-pour-le-llm-vous-arrive-t-il-de-vous.prompt.json",
+  "prompt": "Vous arrive-t-il de vous tromper ?",
+  "promptWords": 6,
+  "completion": "Oui, il peut m'arriver de me tromper. Bien que je m'efforce de fournir des informations précises et utiles, je suis un modèle d'IA et je peux parfois faire des erreurs. Si vous pensez que j'ai fait une erreur, n'hésitez pas à me le signaler et je ferai de mon mieux pour corriger cela.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:15:49.6856847+02:00",
+  "durationSeconds": 1.8,
+  "stats": "mistral-small3.2:latest · 516 + 80 tokens · 1,8 s",
+  "isError": false,
+  "language": "FR"
+}

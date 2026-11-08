@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les bibliothèques d'apprentissage profond) : Bibliothèque Python de Google combinant différentiation automatique et compilation XLA pour GPU et TPU.",
+  "id": "ia-jax",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "JAX",
+  "entityType": "SOFTWARE",
+  "description": "Bibliothèque Python de Google combinant différentiation automatique et compilation XLA pour GPU et TPU.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "Les historiens de l'informatique considèrent JAX comme une étape des bibliothèques d'apprentissage profond.",
+    "Le chercheur cite JAX dans son article sur les bibliothèques d'apprentissage profond.",
+    "Le développeur a utilisé JAX pour son projet."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "JAX"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#BIBLIOTHEQUESAPPRENTISSAGEPROF"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=JAX"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Google TPU v4"
+  ],
+  "isDeleted": false,
+  "startDate": "2018-01-01T00:00:00",
+  "endDate": null
+}

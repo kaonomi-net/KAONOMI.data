@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-deserts-medicaux",
+  "dateCreated": "2026-11-08 17:55:38",
+  "name": "déserts médicaux",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Hôpital et système de santé ; Déserts médicaux ; Pénurie de psychiatres.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre la situation des hôpitaux et des urgences.",
+    "Suivre les mesures contre les déserts médicaux.",
+    "Suivre la pénurie de psychiatres."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "déserts médicaux",
+  "tags": [
+    "#FRANCE",
+    "#SANTE",
+    "#SOCIAL",
+    "#TERRITOIRES",
+    "#PSYCHOLOGIE",
+    "#PSYCHIATRIE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL",
+    "!ACCES-AUX-SOINS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "soignants",
+    "santé",
+    "urgences",
+    "hôpital",
+    "budget",
+    "médecins",
+    "loi",
+    "zones rurales",
+    "régulation",
+    "Belgique"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

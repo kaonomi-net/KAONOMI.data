@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-surprise",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un événement inattendu et heureux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:surprise(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:surpris(e|es)?\\s+et\\s+(ravi|ravie|heureux|heureuse))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bonne\\s+nouvelle)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:agr[ée]able\\s+surprise)(?![\\w-])"
+  ],
+  "symbol": "surprise",
+  "event": null,
+  "title": "Surprise",
+  "tags": [
+    "#FETE",
+    "#JOIE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,56 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-union-europeenne-et-royaume-uni",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Union européenne et Royaume-Uni",
+  "includedEntities": [
+    {
+      "entityName": "Union européenne",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Royaume-Uni",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "relance",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la relance des relations post-Brexit.",
+  "isFuzzy": true,
+  "locations": [
+    "Londres",
+    "Bruxelles"
+  ],
+  "times": [
+    "sommets UE-Royaume-Uni"
+  ],
+  "relatedEntities": [
+    "défense",
+    "pêche",
+    "jeunesse"
+  ],
+  "questions": [
+    "Quel accord ?",
+    "Quelles concessions ?",
+    "Quel calendrier ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ROYAUME-UNI",
+    "#DIPLOMATIE"
+  ],
+  "events": [
+    "@SOMMET"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "isDeleted": false
+}

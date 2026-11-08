@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-capitalisation",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "capitalisation",
+  "entityType": "DOMAIN",
+  "description": "Cité par 4 intels : Composition du CAC 40 ; Poids lourds du CAC 40 ; Capitalisation boursière du CAC 40 ; Composition du BEL 20.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les entrées et sorties du CAC 40.",
+    "Suivre les plus fortes pondérations du CAC 40 (TotalEnergies, Schneider, Airbus, Air Liquide, L'Oréal).",
+    "Suivre la capitalisation des grandes entreprises françaises."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "capitalisation",
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#CAPITALISATION",
+    "#BEL20"
+  ],
+  "events": [
+    "@REVISION-INDICE"
+  ],
+  "signals": [
+    "!MARCHE",
+    "!INDICATEUR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "CAC 40",
+    "composition",
+    "indice",
+    "entrée",
+    "conseil scientifique",
+    "pondération",
+    "poids lourds",
+    "Hermès",
+    "TotalEnergies"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-resilience",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La capacité à se relever.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:r[ée]silience(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:r[ée]silient(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:se\\s+relever)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:relev[ée](e|s|es)?\\s+la\\s+t[êe]te)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:rebondir)(?![\\w-])"
+  ],
+  "symbol": "résilience",
+  "event": null,
+  "title": "Résilience",
+  "tags": [
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

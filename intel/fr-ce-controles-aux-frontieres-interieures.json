@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-controles-aux-frontieres-interieures",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Contrôles aux frontières intérieures",
+  "includedEntities": [
+    {
+      "entityName": "contrôles aux frontières",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Schengen",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les réintroductions de contrôles aux frontières intérieures.",
+  "isFuzzy": true,
+  "locations": [
+    "Allemagne",
+    "Pologne",
+    "Pays-Bas"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Schengen",
+    "migrations",
+    "Commission"
+  ],
+  "questions": [
+    "Quel pays ?",
+    "Quelle durée ?",
+    "Quelle réaction de la Commission ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SCHENGEN",
+    "#FRONTIERES"
+  ],
+  "events": [],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

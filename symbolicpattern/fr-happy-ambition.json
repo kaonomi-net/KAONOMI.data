@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-ambition",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Le désir d'accomplir de grandes choses.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:ambition(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:ambitieu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:grand(s)?\\s+dessein(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:projet(s)?\\s+d['’]avenir)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:viser\\s+haut)(?![\\w-])"
+  ],
+  "symbol": "ambition",
+  "event": null,
+  "title": "Ambition",
+  "tags": [
+    "#REUSSITE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

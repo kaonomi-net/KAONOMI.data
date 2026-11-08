@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cloudflare",
+  "dateCreated": "2026-11-08 17:55:37",
+  "name": "Cloudflare",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 4 intels : Attaques DDoS record ; Protection anti-DDoS ; TLS hybride ; Cloudflare.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Repérer les attaques DDoS d'un volume record.",
+    "Suivre les moyens de protection contre les attaques DDoS.",
+    "Suivre le déploiement des échanges de clés hybrides dans TLS."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Cloudflare",
+  "tags": [
+    "#CYBERSECURITE",
+    "#DDOS",
+    "#RECORD",
+    "#DEFENSE",
+    "#CRYPTOGRAPHIE",
+    "#TLS"
+  ],
+  "events": [
+    "@DDOS"
+  ],
+  "signals": [
+    "!INDICATEUR",
+    "!DEFENSE",
+    "!TRANSITION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "DDoS",
+    "post-quantique",
+    "botnets",
+    "record",
+    "objets connectés",
+    "térabits",
+    "atténuation",
+    "protection anti-DDoS",
+    "opérateurs",
+    "Akamai"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,56 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-armes",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "armes",
+  "entityType": "HARDWARE",
+  "description": "Cité par 2 intels : Suicide des policiers ; Moyens létaux et prévention.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-hardware",
+  "sentencesExemples": [
+    "Suivre la prévention du suicide chez les policiers et gendarmes.",
+    "Suivre la restriction de l'accès aux moyens létaux."
+  ],
+  "angryLevel": null,
+  "sadLevel": 50,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "armes",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PREVENTION-SUICIDE",
+    "#SECURITE"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD",
+    "!PREVENTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Belgique",
+    "soutien psychologique",
+    "suicide",
+    "syndicats",
+    "France",
+    "policiers",
+    "forces de l'ordre",
+    "ponts",
+    "moyens létaux",
+    "médicaments"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

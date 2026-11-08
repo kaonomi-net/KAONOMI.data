@@ -1,0 +1,13 @@
+{
+  "index": 47,
+  "file": "0047-architecture-entreprise-explain-the-c4-model-in-simple.prompt.json",
+  "prompt": "Explain the C4 model in simple terms.",
+  "promptWords": 7,
+  "completion": "The C4 model is a simple and intuitive way to describe software systems using diagrams. It helps people understand how a software system works by breaking it down into smaller, manageable parts. Here's a simple breakdown:\n\n1. **Levels of Abstraction**:\n   - **Level 1 (System Context Diagram)**: Shows the system as a single box and how it interacts with users and other systems. It's like a high-level map of the system's environment.\n   - **Level 2 (Container Diagram)**: Zooms in to show the major components (containers) of the system, such as web applications, databases, or mobile apps, and how they communicate.\n   - **Level 3 (Component Diagram)**: Dives deeper into a single container to show its parts (components) and their interactions.\n   - **Level 4 (Code Diagram)**: Shows the code-level structure of a single component, like classes or functions.\n\n2. **Elements**:\n   - **Containers**: Major runtime units (e.g., web servers, databases).\n   - **Components**: Parts within a container (e.g., a user authentication module).\n   - **People**: Users or external systems interacting with the software.\n\n3. **Relationships**:\n   - Arrows show how elements communicate (e.g., a web app sending data to a database).\n\nThe C4 model is useful for both technical and non-technical audiences because it provides clear, visual representations of complex systems. It's like a roadmap that helps everyone understand how the software is structured and how its parts work together.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:11:41.2148459+02:00",
+  "durationSeconds": 7.54,
+  "stats": "mistral-small3.2:latest · 517 + 319 tokens · 7,5 s",
+  "isError": false,
+  "language": "EN"
+}

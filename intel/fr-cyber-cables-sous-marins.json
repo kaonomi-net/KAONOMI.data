@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cables-sous-marins",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Câbles sous-marins",
+  "includedEntities": [
+    {
+      "entityName": "câbles sous-marins",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "sabotage",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les incidents et sabotages de câbles sous-marins.",
+  "isFuzzy": true,
+  "locations": [
+    "mer Baltique",
+    "mer Rouge"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "navires",
+    "Internet",
+    "OTAN"
+  ],
+  "questions": [
+    "Quel câble ?",
+    "Quelle cause ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#INFRASTRUCTURES",
+    "#CABLES"
+  ],
+  "events": [
+    "@SABOTAGE"
+  ],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

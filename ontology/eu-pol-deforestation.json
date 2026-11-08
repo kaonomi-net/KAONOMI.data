@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (l'environnement) : Règlement (UE) 2023/1115 sur les produits associés à la déforestation.",
+  "id": "eu-pol-deforestation",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Règlement sur la déforestation",
+  "entityType": "LAW",
+  "description": "Règlement (UE) 2023/1115 sur les produits associés à la déforestation.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Règlement sur la déforestation ».",
+    "La mise en œuvre de « Règlement sur la déforestation » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Règlement sur la déforestation »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [
+    "RDUE"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#ENVIRONNEMENT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=R%C3%A8glement%20sur%20la%20d%C3%A9forestation"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Environnement",
+    "Direction générale de l'environnement",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-05-31T00:00:00",
+  "endDate": null
+}

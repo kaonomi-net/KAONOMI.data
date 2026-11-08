@@ -1,0 +1,13 @@
+{
+  "index": 115,
+  "file": "0115-microsoft-office-how-do-i-use-form-fields.prompt.json",
+  "prompt": "How do I use form fields in Word?",
+  "promptWords": 8,
+  "completion": "To use form fields in Microsoft Word, you can follow these steps:\n\n### **1. Enable Developer Tab (if not visible)**\n- Go to **File** > **Options**.\n- Select **Customize Ribbon**.\n- In the right pane, check the **Developer** box.\n- Click **OK**.\n\n### **2. Insert Form Fields**\n- Go to the **Developer** tab.\n- Use the following controls:\n  - **Rich Text Content Control**: For multi-line text.\n  - **Plain Text Content Control**: For single-line text.\n  - **Dropdown List**: For selecting from predefined options.\n  - **Check Box**: For yes/no options.\n  - **Date Picker**: For selecting dates.\n\n### **3. Customize Form Fields**\n- Click on a form field to see its properties in the **Developer** tab.\n- You can set properties like:\n  - **Title** (for accessibility).\n  - **Tag** (for programming).\n  - **Default text**.\n  - **Dropdown options** (for lists).\n\n### **4. Protect the Form (Optional)**\n- Go to **Developer** > **Restrict Editing**.\n- Check **Allow only this type of editing in the document**:\n  - **Filling in forms**.\n- Set a password (optional).\n- Click **Yes, Start Enforcing Protection**.\n\n### **5. Distribute the Form**\n- Save the document as a **Word Template (.dotx)** or **Word Document (.docx)**.\n- Share it with others to fill out.\n\nWould you like more details on a specific type of form field?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:24:32.7793783+02:00",
+  "durationSeconds": 7.97,
+  "stats": "mistral-small3.2:latest · 516 + 327 tokens · 8,0 s",
+  "isError": false,
+  "language": "EN"
+}

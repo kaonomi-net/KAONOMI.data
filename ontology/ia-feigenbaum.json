@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personne de l'IA (les systèmes experts) : Informaticien américain de Stanford, considéré comme le père des systèmes experts (DENDRAL, MYCIN).",
+  "id": "ia-feigenbaum",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Edward Feigenbaum",
+  "entityType": "PERSON",
+  "description": "Informaticien américain de Stanford, considéré comme le père des systèmes experts (DENDRAL, MYCIN). Prix Turing 1994 avec Raj Reddy.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-personnalites",
+  "sentencesExemples": [
+    "Edward Feigenbaum est l'une des figures marquantes des systèmes experts.",
+    "Lors de la conférence, l'oratrice a cité Edward Feigenbaum pour illustrer les progrès des systèmes experts.",
+    "Une biographie de Edward Feigenbaum rappelle son rôle dans les systèmes experts."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Ed Feigenbaum"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#PERSON",
+    "#SYSTEMESEXPERTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Edward%20Feigenbaum"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "DENDRAL",
+    "MYCIN"
+  ],
+  "isDeleted": false,
+  "startDate": "1936-01-20T00:00:00",
+  "endDate": null
+}

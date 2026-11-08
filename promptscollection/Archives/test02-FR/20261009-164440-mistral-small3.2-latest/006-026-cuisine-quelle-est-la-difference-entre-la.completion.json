@@ -1,0 +1,13 @@
+{
+  "index": 6,
+  "file": "026-cuisine-quelle-est-la-difference-entre-la.prompt.json",
+  "prompt": "Quelle est la différence entre la levure chimique et la levure de boulanger ?",
+  "promptWords": 14,
+  "completion": "La levure chimique et la levure de boulanger sont deux ingrédients utilisés en cuisine pour faire lever les pâtes, mais elles fonctionnent de manière très différente. Voici les principales différences :\n\n### **1. Nature et composition**\n- **Levure de boulanger** : C'est un organisme vivant, un champignon unicellulaire (Saccharomyces cerevisiae), qui produit du dioxyde de carbone (CO₂) par fermentation en consommant des sucres.\n- **Levure chimique** : C'est un mélange de poudre (souvent du bicarbonate de soude, de l'acide tartrique et de l'amidon) qui réagit chimiquement avec un liquide pour produire du CO₂.\n\n### **2. Mode d'action**\n- **Levure de boulanger** : Elle agit par fermentation, ce qui prend du temps (plusieurs heures, voire une nuit pour certaines recettes). Elle est idéale pour les pâtes à pain, les brioches et les viennoiseries.\n- **Levure chimique** : Elle agit par réaction chimique immédiate (quelques minutes) et est utilisée pour les gâteaux, les crêpes, les pancakes et autres préparations rapides.\n\n### **3. Utilisation**\n- **Levure de boulanger** : Elle est généralement utilisée dans les recettes à base de farine, d'eau et de sucre, où la fermentation est souhaitée (pain, pizza, brioche).\n- **Levure chimique** : Elle est utilisée dans les recettes où une levée rapide est nécessaire (gâteaux, biscuits, muffins).\n\n### **4. Conservation**\n- **Levure de boulanger** : Elle est sensible à la chaleur et à l'humidité. Elle doit être conservée au réfrigérateur ou au congélateur.\n- **Levure chimique** : Elle se conserve à température ambiante dans un endroit sec.\n\n### **5. Substitution**\n- **Levure de boulanger** ne peut pas être remplacée par de la levure chimique, car leur mode d'action est différent.\n- **Levure chimique** peut parfois être remplacée par du bicarbonate de soude (mais avec des ajustements de recette).\n\nEn résumé, le choix entre les deux dépend du type de préparation et du temps de levée souhaité.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T16:45:39.951913+02:00",
+  "durationSeconds": 10.94,
+  "stats": "mistral-small3.2:latest · 526 + 499 tokens · 10,9 s",
+  "isError": false,
+  "language": "FR"
+}

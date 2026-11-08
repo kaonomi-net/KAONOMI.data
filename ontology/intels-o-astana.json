@@ -1,0 +1,57 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-astana",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "Astana",
+  "entityType": "CITY",
+  "description": "Cité par 2 intels : Asie centrale et Russie ; Union européenne et Asie centrale.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-city",
+  "sentencesExemples": [
+    "Suivre les relations entre la Russie et les pays d'Asie centrale.",
+    "Suivre les partenariats européens en Asie centrale."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Astana",
+  "tags": [
+    "#ASIE-CENTRALE",
+    "#RUSSIE",
+    "#INFLUENCE",
+    "#UNION-EUROPEENNE",
+    "#PARTENARIAT"
+  ],
+  "events": [],
+  "signals": [
+    "!INFLUENCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Asie centrale",
+    "Russie",
+    "migrants",
+    "Kazakhstan",
+    "sanctions",
+    "Chine",
+    "Tachkent",
+    "Bichkek",
+    "matières premières",
+    "Samarcande"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

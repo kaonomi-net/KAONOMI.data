@@ -1,0 +1,44 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-infertilite-et-sante-mentale",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Infertilité et santé mentale",
+  "includedEntities": [
+    {
+      "entityName": "infertilité",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "santé mentale",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les effets psychologiques de l'infertilité et de la PMA.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "PMA",
+    "couples",
+    "soutien"
+  ],
+  "questions": [
+    "Quelle étude ?",
+    "Quel soutien ?",
+    "Quel constat ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#PARENTALITE"
+  ],
+  "events": [],
+  "signals": [
+    "!SANTE-MENTALE"
+  ],
+  "isDeleted": false
+}

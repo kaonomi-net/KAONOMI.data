@@ -1,0 +1,63 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la politique industrielle) : Ancien député européen et ministre français des Affaires étrangères (2024), vice-président exécutif chargé de la prospérité et de la stratégie industrielle depuis 2024.",
+  "id": "eu-p-sejourne",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Stéphane Séjourné",
+  "entityType": "PERSON",
+  "description": "Ancien député européen et ministre français des Affaires étrangères (2024), vice-président exécutif chargé de la prospérité et de la stratégie industrielle depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Lors du point de presse de midi, une question portait sur Stéphane Séjourné.",
+    "Stéphane Séjourné est une figure de la politique industrielle.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Stéphane Séjourné."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Séjourné",
+    "Sejourne"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#POLITIQUEINDUSTRIELLE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=St%C3%A9phane%20S%C3%A9journ%C3%A9"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité française",
+    "Renaissance",
+    "Député européen",
+    "Ministre des Affaires étrangères",
+    "Commissaire européen",
+    "Prospérité et stratégie industrielle (Commission von der Leyen II)",
+    "Vice-président exécutif de la Commission",
+    "Commission von der Leyen II",
+    "Industrie",
+    "Marché intérieur",
+    "PME et startups",
+    "Thierry Breton",
+    "Direction générale du marché intérieur, de l'industrie, de l'entrepreneuriat et des PME",
+    "Démission de Thierry Breton"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

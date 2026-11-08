@@ -1,0 +1,51 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-swe-bench",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "SWE-bench",
+  "entityType": "SOFTWARE",
+  "description": "Cité par 1 intel : Benchmark battu par un modèle.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-software",
+  "sentencesExemples": [
+    "Suivre les records sur les bancs d'essai de l'IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "SWE-bench",
+  "tags": [
+    "#IA",
+    "#BENCHMARK",
+    "#PERFORMANCE"
+  ],
+  "events": [
+    "@RECORD"
+  ],
+  "signals": [
+    "!PERFORMANCE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "MMLU",
+    "ARC",
+    "record",
+    "modèle",
+    "benchmark"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

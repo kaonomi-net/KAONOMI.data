@@ -1,0 +1,45 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-rancongiciel-en-tant-que-service",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Rançongiciel en tant que service",
+  "includedEntities": [
+    {
+      "entityName": "rançongiciel en tant que service",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "affiliés",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les modèles d'affiliation des groupes de rançongiciels.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "RaaS",
+    "commissions",
+    "recrutement"
+  ],
+  "questions": [
+    "Quel groupe recrute ?",
+    "Quelles conditions ?",
+    "Quels affiliés ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#RANCONGICIEL",
+    "#RAAS"
+  ],
+  "events": [],
+  "signals": [
+    "!MENACE"
+  ],
+  "isDeleted": false
+}

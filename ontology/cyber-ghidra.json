@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (la rétro-ingénierie) : Suite de rétro-ingénierie développée par la NSA et publiée en logiciel libre en 2019.",
+  "id": "cyber-ghidra",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Ghidra",
+  "entityType": "SOFTWARE",
+  "description": "Suite de rétro-ingénierie développée par la NSA et publiée en logiciel libre en 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "Les historiens de l'informatique considèrent Ghidra comme une étape de la rétro-ingénierie.",
+    "Le rapport d'incident cite Ghidra à plusieurs reprises.",
+    "L'analyste a utilisé Ghidra pendant l'enquête."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Ghidra"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#RETROINGENIERIE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ghidra"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "IDA Pro"
+  ],
+  "isDeleted": false,
+  "startDate": "2019-01-01T00:00:00",
+  "endDate": null
+}

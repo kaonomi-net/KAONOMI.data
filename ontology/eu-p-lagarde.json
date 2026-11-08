@@ -1,0 +1,54 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (la vie politique européenne) : Avocate, ancienne ministre française de l'Économie et directrice générale du FMI, présidente de la Banque centrale européenne depuis 2019.",
+  "id": "eu-p-lagarde",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Christine Lagarde",
+  "entityType": "PERSON",
+  "description": "Avocate, ancienne ministre française de l'Économie et directrice générale du FMI, présidente de la Banque centrale européenne depuis 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-dirigeants",
+  "sentencesExemples": [
+    "Christine Lagarde est une figure de la vie politique européenne.",
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Christine Lagarde.",
+    "Lors du point de presse de midi, une question portait sur Christine Lagarde."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Lagarde"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#VIEPOLITIQUEEUROPEENNE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Christine%20Lagarde"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité française",
+    "Avocat",
+    "Ministre de l'Économie",
+    "Banquier central",
+    "Banque centrale européenne",
+    "Mario Draghi"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

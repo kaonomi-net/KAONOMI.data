@@ -1,0 +1,13 @@
+{
+  "index": 149,
+  "file": "0149-microsoft-office-how-do-i-use-the-slide.prompt.json",
+  "prompt": "How do I use the slide master in PowerPoint?",
+  "promptWords": 9,
+  "completion": "The Slide Master in PowerPoint is a powerful tool that allows you to control the layout, design, and formatting of all slides in your presentation consistently. Here’s how you can use it:\n\n### **Steps to Use the Slide Master in PowerPoint:**\n\n1. **Open the Slide Master:**\n   - In PowerPoint, go to the **View** tab.\n   - Click on **Slide Master** (or press `Ctrl + M`).\n\n2. **Understand the Slide Master View:**\n   - The left pane shows a hierarchy of slides, including the **Slide Master (topmost slide)** and **Layouts** (slides below it).\n   - The Slide Master controls the overall theme, fonts, colors, and effects.\n   - Layouts define placeholders for text, images, charts, etc.\n\n3. **Modify the Slide Master:**\n   - Make changes to the **Slide Master** to apply them to all slides.\n   - Adjust **fonts, colors, backgrounds, headers, and footers**.\n   - Add or remove **placeholders** (text boxes, images, etc.).\n\n4. **Edit Layouts:**\n   - Modify individual **Layouts** to customize specific slide types (e.g., Title Slide, Title and Content, etc.).\n   - Changes to a Layout will apply only to slides using that Layout.\n\n5. **Insert Slide Numbers or Footers:**\n   - Go to the **Slide Master** tab.\n   - Click **Footer** (or **Slide Number**) to add them to all slides.\n\n6. **Close the Slide Master:**\n   - Once done, click **Close Master View** to return to the normal editing mode.\n\n### **Why Use the Slide Master?**\n- Ensures **consistency** across all slides.\n- Saves time by applying changes globally.\n- Helps maintain a **professional** and cohesive design.\n\nWould you like help with a specific customization in the Slide Master?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:31:06.841948+02:00",
+  "durationSeconds": 10.14,
+  "stats": "mistral-small3.2:latest · 518 + 394 tokens · 10,1 s",
+  "isError": false,
+  "language": "EN"
+}

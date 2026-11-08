@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (le chiffrement par flot) : Chiffrement par flot de Daniel J.",
+  "id": "cyber-chacha20",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "ChaCha20",
+  "entityType": "ALGORITHM",
+  "description": "Chiffrement par flot de Daniel J. Bernstein, rapide en logiciel, utilisé dans TLS 1.3 et WireGuard.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "La chercheuse a présenté une analyse de ChaCha20 lors du séminaire.",
+    "ChaCha20 est enseigné dans tous les cours consacrés au chiffrement par flot.",
+    "L'audit vérifie que ChaCha20 est utilisé correctement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "ChaCha"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CHIFFREMENTPARFLOT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=ChaCha20"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Daniel J. Bernstein",
+    "RC4",
+    "Protocole TLS",
+    "WireGuard"
+  ],
+  "isDeleted": false,
+  "startDate": "2008-01-01T00:00:00",
+  "endDate": null
+}

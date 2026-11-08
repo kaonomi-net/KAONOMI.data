@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-moite",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Humide de sueur.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:moite(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mains\\s+moites)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:moiteur(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:suant(e|s|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]goulinant(e|s|es)?\\s+de\\s+sueur)(?![\\w-])"
+  ],
+  "symbol": "moite",
+  "event": null,
+  "title": "Moite",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

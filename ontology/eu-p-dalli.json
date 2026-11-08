@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'égalité) : Ancienne ministre maltaise des Affaires européennes et de l'Égalité, première commissaire européenne à l'Égalité (2019-2024).",
+  "id": "eu-p-dalli",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Helena Dalli",
+  "entityType": "PERSON",
+  "description": "Ancienne ministre maltaise des Affaires européennes et de l'Égalité, première commissaire européenne à l'Égalité (2019-2024).",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les manuels sur les institutions européennes citent Helena Dalli.",
+    "Le portrait de Helena Dalli figure dans le dossier consacré à l'égalité.",
+    "La presse européenne a longuement commenté le parcours de Helena Dalli."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Dalli"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#EGALITE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Helena%20Dalli"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité maltaise",
+    "Parti travailliste maltais",
+    "Ministre des Affaires européennes",
+    "Commissaire européen",
+    "Égalité (Commission von der Leyen I)",
+    "Commission von der Leyen I",
+    "Égalité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

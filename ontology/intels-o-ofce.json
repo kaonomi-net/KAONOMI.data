@@ -1,0 +1,48 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-ofce",
+  "dateCreated": "2026-11-08 17:55:44",
+  "name": "OFCE",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 1 intel : Chiffrage des programmes.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre les évaluations du coût des programmes."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "OFCE",
+  "tags": [
+    "#FRANCE",
+    "#PRESIDENTIELLE-2027",
+    "#DETTE"
+  ],
+  "events": [],
+  "signals": [
+    "!VERIFICATION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "programme",
+    "chiffrage",
+    "Institut Montaigne",
+    "économistes"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-bombardements",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "bombardements",
+  "entityType": "EVENT",
+  "description": "Cité par 3 intels : Ville de Kherson et rive droite ; Nikopol et la rive opposée de la centrale ; Centrale nucléaire de Zaporijia.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-event",
+  "sentencesExemples": [
+    "Surveiller les bombardements sur Kherson depuis la rive gauche.",
+    "Suivre les bombardements sur Nikopol, face à la centrale de Zaporijia.",
+    "Surveiller la sûreté de la centrale nucléaire de Zaporijia."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 33,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "bombardements",
+  "tags": [
+    "#UKRAINE",
+    "#CIVILS",
+    "#KHERSON",
+    "#NIKOPOL",
+    "#GEOPOLITIQUE",
+    "#NUCLEAIRE"
+  ],
+  "events": [
+    "@FRAPPE",
+    "@ALERTE-NUCLEAIRE"
+  ],
+  "signals": [
+    "!MENACE",
+    "!RISQUE",
+    "!FEAR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "civils",
+    "drones",
+    "Enerhodar",
+    "rive gauche",
+    "Kherson",
+    "Marhanets",
+    "Nikopol",
+    "centrale nucléaire",
+    "Zaporijia",
+    "AIEA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

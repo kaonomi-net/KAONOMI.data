@@ -1,0 +1,13 @@
+{
+  "index": 166,
+  "file": "0166-microsoft-office-how-do-i-share-my-calendar.prompt.json",
+  "prompt": "How do I share my calendar in Outlook?",
+  "promptWords": 8,
+  "completion": "Sharing your calendar in Outlook can be done in a few simple steps. Here’s how you can do it:\n\n### **On Outlook for Windows:**\n1. **Open Outlook** and go to the **Calendar** view.\n2. In the navigation pane, right-click on the calendar you want to share.\n3. Select **Share** > **Share Calendar**.\n4. In the **Share Calendar** dialog box, enter the email addresses of the people you want to share with.\n5. Choose the **permission level** (e.g., Availability only, Limited details, or Full details).\n6. Add an optional message if needed.\n7. Click **Send**.\n\n### **On Outlook for Mac:**\n1. **Open Outlook** and go to the **Calendar** view.\n2. In the left pane, right-click on the calendar you want to share.\n3. Select **Share** > **Share Calendar**.\n4. Enter the email addresses of the people you want to share with.\n5. Choose the **permission level**.\n6. Add an optional message if needed.\n7. Click **Send**.\n\n### **On Outlook on the Web (Outlook.com or Office 365):**\n1. **Sign in** to your Outlook account and go to the **Calendar** view.\n2. In the left pane, click on the calendar you want to share.\n3. Click the **Share** button (usually a downward arrow or three dots).\n4. Enter the email addresses of the people you want to share with.\n5. Choose the **permission level**.\n6. Add an optional message if needed.\n7. Click **Share**.\n\nWould you like help with a specific version of Outlook? Let me know!",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:33:53.6451263+02:00",
+  "durationSeconds": 9.15,
+  "stats": "mistral-small3.2:latest · 516 + 347 tokens · 9,1 s",
+  "isError": false,
+  "language": "EN"
+}

@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-sad-cauchemar",
+  "date": "2026-11-08T11:44:56.305032+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un rêve effrayant ; une situation pénible.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:cauchemar(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:cauchemardesque(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:mauvais\\s+r[êe]ve(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:terreur(s)?\\s+nocturne(s)?)(?![\\w-])"
+  ],
+  "symbol": "cauchemar",
+  "event": null,
+  "title": "Cauchemar",
+  "tags": [
+    "#FEAR"
+  ],
+  "events": [],
+  "signals": [
+    "!SAD"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

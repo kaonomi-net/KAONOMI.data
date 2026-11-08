@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-feuille-de-route-readiness-2030",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Feuille de route Readiness 2030",
+  "includedEntities": [
+    {
+      "entityName": "Readiness 2030",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "défense",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la feuille de route de préparation de la défense européenne pour 2030.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [
+    "2030"
+  ],
+  "relatedEntities": [
+    "achats conjoints",
+    "capacités",
+    "industrie"
+  ],
+  "questions": [
+    "Quels jalons ?",
+    "Quels retards ?",
+    "Quels financements ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#DEFENSE",
+    "#READINESS-2030"
+  ],
+  "events": [],
+  "signals": [
+    "!REARMEMENT"
+  ],
+  "isDeleted": false
+}

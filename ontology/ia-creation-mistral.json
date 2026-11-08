@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'IA (l'industrie de l'IA) : Création à Paris de Mistral AI par Arthur Mensch, Guillaume Lample et Timothée Lacroix.",
+  "id": "ia-creation-mistral",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "Fondation de Mistral AI",
+  "entityType": "EVENT",
+  "description": "Création à Paris de Mistral AI par Arthur Mensch, Guillaume Lample et Timothée Lacroix.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-evenements",
+  "sentencesExemples": [
+    "L'événement « Fondation de Mistral AI » a marqué durablement l'histoire de l'industrie de l'IA.",
+    "La frise chronologique de la salle de cours place « Fondation de Mistral AI » en bonne place.",
+    "Les journaux de l'époque ont largement commenté l'événement « Fondation de Mistral AI »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 2,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [
+    "création de Mistral AI"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#EVENT",
+    "#INDUSTRIEIA"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Fondation%20de%20Mistral%20AI"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Mistral 7B"
+  ],
+  "isDeleted": false,
+  "startDate": "2023-04-01T00:00:00",
+  "endDate": "2023-04-01T00:00:00"
+}

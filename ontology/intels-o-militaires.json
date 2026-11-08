@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-militaires",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "militaires",
+  "entityType": "PROFESSION",
+  "description": "Cité par 3 intels : Coups d'État en Afrique ; Santé mentale des policiers et militaires ; Stress post-traumatique.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Repérer les prises de pouvoir militaires sur le continent africain.",
+    "Suivre la santé mentale des forces de l'ordre et des armées.",
+    "Suivre l'actualité du trouble de stress post-traumatique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "militaires",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#GEOPOLITIQUE",
+    "#AFRIQUE",
+    "#COUP-ETAT",
+    "#SECURITE",
+    "#SANTE-MENTALE"
+  ],
+  "events": [
+    "@COUP-ETAT"
+  ],
+  "signals": [
+    "!SANTE-MENTALE",
+    "!INSTABILITE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "stress post-traumatique",
+    "CEDEAO",
+    "Afrique",
+    "junte",
+    "Union africaine",
+    "coup d'État",
+    "Belgique",
+    "suicides",
+    "santé mentale",
+    "France"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

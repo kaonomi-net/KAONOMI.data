@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-sabotage-ferroviaire-en-russie",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Sabotage ferroviaire en Russie",
+  "includedEntities": [
+    {
+      "entityName": "sabotage",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "voie ferrée",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Russie",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les sabotages contre le rail russe.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "renseignement militaire ukrainien",
+    "trains",
+    "logistique"
+  ],
+  "questions": [
+    "Quel sabotage ?",
+    "Quel impact ?",
+    "Qui revendique ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#SABOTAGE",
+    "#LOGISTIQUE"
+  ],
+  "events": [
+    "@SABOTAGE"
+  ],
+  "signals": [
+    "!CONFLIT"
+  ],
+  "isDeleted": false
+}

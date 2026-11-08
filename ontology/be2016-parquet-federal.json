@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:28:38.828039+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation des attentats de Bruxelles de 2016 (l'enquête) : Parquet belge compétent en matière de terrorisme, qui a dirigé l'enquête sur les attentats et soutenu l'accusation au procès.",
+  "id": "be2016-parquet-federal",
+  "dateCreated": "2026-10-31 19:28:41",
+  "name": "Parquet fédéral",
+  "entityType": "ORGANISATION",
+  "description": "Parquet belge compétent en matière de terrorisme, qui a dirigé l'enquête sur les attentats et soutenu l'accusation au procès.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "be2016-organisations",
+  "sentencesExemples": [
+    "L'organisation « Parquet fédéral » est citée dans les rapports consacrés aux attentats de 2016.",
+    "Les médias ont rapporté les communications de « Parquet fédéral ».",
+    "Les documents publics décrivent la place de « Parquet fédéral » dans l'enquête."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "federaal parket"
+  ],
+  "title": "",
+  "tags": [
+    "#ATTENTATS2016",
+    "#ORGANISATION",
+    "#ENQUETE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Parquet%20f%C3%A9d%C3%A9ral"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Image de vidéosurveillance de l'aéroport",
+    "Frédéric Van Leeuw",
+    "Eric Van der Sypt",
+    "Perquisition de la rue Max Roos",
+    "Procès des attentats de Bruxelles"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

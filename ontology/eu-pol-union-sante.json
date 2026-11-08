@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Acte de l'Union européenne (la santé publique) : Ensemble de propositions renforçant la préparation et la réaction aux crises sanitaires.",
+  "id": "eu-pol-union-sante",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Union européenne de la santé",
+  "entityType": "LAW",
+  "description": "Ensemble de propositions renforçant la préparation et la réaction aux crises sanitaires.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-politiques",
+  "sentencesExemples": [
+    "Les juristes de la Commission ont commenté « Union européenne de la santé ».",
+    "La mise en œuvre de « Union européenne de la santé » est suivie par la Commission.",
+    "Le Journal officiel de l'Union a publié « Union européenne de la santé »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "⚖",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#LAW",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Union%20europ%C3%A9enne%20de%20la%20sant%C3%A9"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Santé",
+    "Direction générale de la santé et de la sécurité alimentaire",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-11-11T00:00:00",
+  "endDate": null
+}

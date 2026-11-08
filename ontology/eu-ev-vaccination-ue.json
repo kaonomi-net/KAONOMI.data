@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Événement de l'Union européenne (la santé publique) : Début coordonné de la campagne de vaccination contre la COVID-19 dans l'Union.",
+  "id": "eu-ev-vaccination-ue",
+  "dateCreated": "2026-10-31 20:18:19",
+  "name": "Journées européennes de vaccination",
+  "entityType": "EVENT",
+  "description": "Début coordonné de la campagne de vaccination contre la COVID-19 dans l'Union.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-evenements",
+  "sentencesExemples": [
+    "Les archives audiovisuelles de la Commission conservent des images de « Journées européennes de vaccination ».",
+    "La presse européenne a largement couvert « Journées européennes de vaccination ».",
+    "« Journées européennes de vaccination » concerne la santé publique."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCC5",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#EVENT",
+    "#SANTEPUBLIQUE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Journ%C3%A9es%20europ%C3%A9ennes%20de%20vaccination"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Santé",
+    "Ursula von der Leyen",
+    "Stella Kyriakides",
+    "Commission von der Leyen I"
+  ],
+  "isDeleted": false,
+  "startDate": "2020-12-27T00:00:00",
+  "endDate": null
+}

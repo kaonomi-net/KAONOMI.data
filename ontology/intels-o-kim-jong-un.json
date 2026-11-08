@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-kim-jong-un",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Kim Jong-un",
+  "entityType": "PERSON",
+  "description": "Cité par 3 intels : Relation entre Poutine et Kim Jong-un ; Soldats nord-coréens en Russie ; Tirs de missiles nord-coréens.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre la coopération entre la Russie et la Corée du Nord.",
+    "Suivre la présence et le rôle des soldats nord-coréens aux côtés de la Russie.",
+    "Surveiller les essais et tirs de missiles de la Corée du Nord."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Kim Jong-un",
+  "tags": [
+    "#COREE-DU-NORD",
+    "#POUTINE",
+    "#ALLIANCE",
+    "#RUSSIE",
+    "#ARMEE",
+    "#GEOPOLITIQUE"
+  ],
+  "events": [
+    "@RENCONTRE-DIRIGEANTS",
+    "@TIR-MISSILE"
+  ],
+  "signals": [
+    "!ALLIANCE",
+    "!ESCALADE",
+    "!MENACE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Corée du Nord",
+    "Pyongyang",
+    "soldats nord-coréens",
+    "traité de défense",
+    "missiles",
+    "Poutine",
+    "Moscou",
+    "Koursk",
+    "traité",
+    "Russie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

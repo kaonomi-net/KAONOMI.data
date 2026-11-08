@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (la protection des cryptomonnaies) : Premier portefeuille matériel de cryptomonnaies, conçu par SatoshiLabs.",
+  "id": "cyber-trezor",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Trezor",
+  "entityType": "HARDWARE",
+  "description": "Premier portefeuille matériel de cryptomonnaies, conçu par SatoshiLabs.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "La fiche technique de Trezor détaille ses caractéristiques de sécurité.",
+    "Pour cet audit, l'équipe a comparé Trezor à d'autres solutions matérielles.",
+    "Trezor a marqué l'histoire du matériel consacré à la protection des cryptomonnaies."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Trezor One"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#PROTECTIONCRYPTOMONNAIES"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Trezor"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bitcoin",
+    "Ledger Nano S"
+  ],
+  "isDeleted": false,
+  "startDate": "2014-01-01T00:00:00",
+  "endDate": null
+}

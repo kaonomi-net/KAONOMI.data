@@ -1,0 +1,13 @@
+{
+  "index": 587,
+  "file": "0587-python-explique-les-f-strings-en-python.prompt.json",
+  "prompt": "Explique les f-strings en Python avec un exemple simple.",
+  "promptWords": 9,
+  "completion": "Les f-strings (formatted string literals) sont une manière élégante et puissante d'insérer des expressions Python directement dans des chaînes de caractères. Introduites dans Python 3.6, elles permettent d'évaluer des expressions au moment de l'exécution et de les insérer dans une chaîne de caractères.\n\n### Syntaxe de base\nLa syntaxe de base d'une f-string est la suivante :\n```python\nf\"texte {expression}\"\n```\n\n### Exemple simple\nVoici un exemple simple qui montre comment utiliser une f-string pour insérer une variable dans une chaîne de caractères :\n\n```python\nnom = \"Alice\"\nage = 25\n\n# Utilisation d'une f-string pour insérer les variables\nmessage = f\"Bonjour, je m'appelle {nom} et j'ai {age} ans.\"\nprint(message)\n```\n\n### Sortie\nLa sortie de ce code sera :\n```\nBonjour, je m'appelle Alice et j'ai 25 ans.\n```\n\n### Avantages des f-strings\n1. **Lisibilité** : Les f-strings rendent le code plus lisible et plus facile à comprendre.\n2. **Performance** : Elles sont généralement plus rapides que les autres méthodes de formatage de chaînes comme `str.format()` ou les opérateurs `%`.\n3. **Flexibilité** : Vous pouvez insérer n'importe quelle expression Python dans une f-string, pas seulement des variables.\n\n### Autres exemples\n1. **Expressions mathématiques** :\n```python\na = 5\nb = 3\nprint(f\"La somme de {a} et {b} est {a + b}.\")\n```\nSortie :\n```\nLa somme de 5 et 3 est 8.\n```\n\n2. **Appels de fonctions** :\n```python\ndef carre(x):\n    return x * x\n\nprint(f\"Le carré de 4 est {carre(4)}.\")\n```\nSortie :\n```\nLe carré de 4 est 16.\n```\n\nLes f-strings sont un outil puissant et pratique pour le formatage de chaînes en Python, rendant le code plus propre et plus efficace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:23:06.5984134+02:00",
+  "durationSeconds": 8.72,
+  "stats": "mistral-small3.2:latest · 520 + 440 tokens · 8,7 s",
+  "isError": false,
+  "language": "FR"
+}

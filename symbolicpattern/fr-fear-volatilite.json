@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-volatilite",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les variations brutales des marchés.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:volatilit[ée](s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:volatil(e|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:march[ée]s\\s+agit[ée]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:s[ée]ance\\s+noire)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:yo-yo\\s+des\\s+march[ée]s)(?![\\w-])"
+  ],
+  "symbol": "volatilité",
+  "event": null,
+  "title": "Volatilité",
+  "tags": [
+    "#FEAR",
+    "#ECONOMIE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

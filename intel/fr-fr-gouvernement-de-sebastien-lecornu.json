@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-gouvernement-de-sebastien-lecornu",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Gouvernement de Sébastien Lecornu",
+  "includedEntities": [
+    {
+      "entityName": "Sébastien Lecornu",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "gouvernement",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'action et la survie du gouvernement de Sébastien Lecornu.",
+  "isFuzzy": true,
+  "locations": [
+    "Matignon"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "ministres",
+    "Assemblée nationale",
+    "budget"
+  ],
+  "questions": [
+    "Quelle décision ?",
+    "Quelle menace de censure ?",
+    "Quel remaniement ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#GOUVERNEMENT",
+    "#LECORNU"
+  ],
+  "events": [],
+  "signals": [
+    "!CRISE-POLITIQUE"
+  ],
+  "isDeleted": false
+}

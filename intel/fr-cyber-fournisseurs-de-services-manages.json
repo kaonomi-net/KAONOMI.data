@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-fournisseurs-de-services-manages",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Fournisseurs de services managés",
+  "includedEntities": [
+    {
+      "entityName": "services managés",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "MSSP",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "SOC externalisé",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les prestataires de sécurité managée.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "PME",
+    "SOC",
+    "MDR"
+  ],
+  "questions": [
+    "Quel prestataire ?",
+    "Quelle offre ?",
+    "Quel incident ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SERVICES"
+  ],
+  "events": [],
+  "signals": [
+    "!DEFENSE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,50 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-metiers",
+  "dateCreated": "2026-11-08 17:55:43",
+  "name": "métiers",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Remplacement des emplois par l'IA.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les études sur l'impact de l'IA sur l'emploi."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": 100,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "métiers",
+  "tags": [
+    "#IA",
+    "#EMPLOI",
+    "#SOCIETE"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE-SOCIAL",
+    "!FEAR"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "OCDE",
+    "FMI",
+    "emplois",
+    "remplacement",
+    "IA"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

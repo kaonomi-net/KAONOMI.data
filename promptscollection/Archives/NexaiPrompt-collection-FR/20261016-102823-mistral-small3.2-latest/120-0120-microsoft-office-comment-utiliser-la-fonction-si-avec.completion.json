@@ -1,0 +1,13 @@
+{
+  "index": 120,
+  "file": "0120-microsoft-office-comment-utiliser-la-fonction-si-avec.prompt.json",
+  "prompt": "Comment utiliser la fonction SI avec plusieurs conditions dans Excel ?",
+  "promptWords": 11,
+  "completion": "Pour utiliser la fonction SI avec plusieurs conditions dans Excel, vous pouvez imbriquer plusieurs fonctions SI ou utiliser la fonction SI.EQ, SI.ET, SI.OU selon vos besoins. Voici quelques méthodes :\n\n### 1. Imbrication de fonctions SI\nLa méthode la plus courante consiste à imbriquer plusieurs fonctions SI. Voici la syntaxe de base :\n\n```excel\n=SI(condition1, valeur_si_vrai1, SI(condition2, valeur_si_vrai2, valeur_si_faux))\n```\n\n**Exemple :**\nSupposons que vous voulez attribuer une note en fonction d'une valeur :\n- Si la valeur est > 90, \"Excellent\"\n- Si la valeur est > 80, \"Bon\"\n- Si la valeur est > 70, \"Moyen\"\n- Sinon, \"Insuffisant\"\n\nLa formule serait :\n```excel\n=SI(A1>90, \"Excellent\", SI(A1>80, \"Bon\", SI(A1>70, \"Moyen\", \"Insuffisant\")))\n```\n\n### 2. Utilisation de SI.ET ou SI.OU pour des conditions combinées\nSi vous avez besoin de vérifier plusieurs conditions en même temps, vous pouvez utiliser les fonctions SI.ET ou SI.OU.\n\n**Exemple avec SI.ET :**\n```excel\n=SI.ET(condition1, condition2, valeur_si_vrai, valeur_si_faux)\n```\n\n**Exemple avec SI.OU :**\n```excel\n=SI.OU(condition1, condition2, valeur_si_vrai, valeur_si_faux)\n```\n\n### 3. Utilisation de la fonction CHOIX\nPour des cas où vous avez plusieurs conditions avec des valeurs spécifiques, la fonction CHOIX peut être plus simple :\n\n```excel\n=CHOIX(valeur, valeur1, résultat1, valeur2, résultat2, ...)\n```\n\n**Exemple :**\n```excel\n=CHOIX(A1, 100, \"Excellent\", 90, \"Bon\", 80, \"Moyen\", \"Insuffisant\")\n```\n\n### 4. Utilisation de la fonction SI.EQ pour des comparaisons exactes\nSi vous avez besoin de comparer une valeur à plusieurs valeurs exactes, vous pouvez utiliser SI.EQ :\n\n```excel\n=SI.EQ(A1, valeur1, résultat1, SI.EQ(A1, valeur2, résultat2, valeur_si_faux))\n```\n\n**Exemple :**\n```excel\n=SI.EQ(A1, \"Apple\", \"Fruit\", SI.EQ(A1, \"Carrot\", \"Légume\", \"Autre\"))\n```\n\n### Conseils :\n- Assurez-vous que vos conditions sont logiquement organisées pour éviter les erreurs.\n- Pour des formules complexes, envisagez d'utiliser des formules matricielles ou des tables de référence pour une meilleure lisibilité.\n\nSi vous avez un cas spécifique en tête, n'hésitez pas à le décrire et je pourrai vous aider à construire la formule appropriée !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:51:18.0567164+02:00",
+  "durationSeconds": 13.11,
+  "stats": "mistral-small3.2:latest · 518 + 653 tokens · 13,1 s",
+  "isError": false,
+  "language": "FR"
+}

@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-accord-sur-les-minerais-ukrainiens",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Accord sur les minerais ukrainiens",
+  "includedEntities": [
+    {
+      "entityName": "accord sur les minerais",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "terres rares",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'accord entre Washington et Kyiv sur les ressources minérales.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington",
+    "Kyiv"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "fonds d'investissement",
+    "lithium",
+    "titane"
+  ],
+  "questions": [
+    "Quels projets ?",
+    "Quels investissements ?",
+    "Quelle gouvernance ?"
+  ],
+  "tags": [
+    "#ETATS-UNIS",
+    "#UKRAINE",
+    "#MINERAIS"
+  ],
+  "events": [],
+  "signals": [
+    "!STRATEGIE"
+  ],
+  "isDeleted": false
+}

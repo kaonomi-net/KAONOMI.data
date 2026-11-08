@@ -1,0 +1,13 @@
+{
+  "index": 101,
+  "file": "0101-microsoft-office-comment-faire-un-publipostage-dans-word.prompt.json",
+  "prompt": "Comment faire un publipostage dans Word ?",
+  "promptWords": 7,
+  "completion": "Pour faire un publipostage dans Word, suivez ces étapes :\n\n1. **Préparez votre document principal** :\n   - Ouvrez un nouveau document Word ou utilisez un document existant.\n   - Créez le contenu de votre lettre ou document principal en laissant des espaces pour les informations variables (comme le nom, l'adresse, etc.).\n\n2. **Préparez votre liste de destinataires** :\n   - Créez une liste de destinataires dans Excel ou un autre tableau. Chaque colonne doit correspondre à un champ variable (nom, prénom, adresse, etc.).\n   - Enregistrez ce fichier Excel.\n\n3. **Insérez les champs de fusion** :\n   - Allez dans l'onglet **Publipostage** (Mailings en anglais).\n   - Cliquez sur **Démarrer la fusion et le publipostage** (Start Mail Merge) et choisissez **Lettres**.\n   - Cliquez sur **Sélectionner les destinataires** (Select Recipients) et choisissez **Utiliser une liste existante** (Use an Existing List). Sélectionnez votre fichier Excel.\n   - Placez le curseur à l'endroit où vous voulez insérer un champ variable.\n   - Cliquez sur **Insérer un champ de fusion** (Insert Merge Field) et sélectionnez le champ correspondant (par exemple, Prénom, Nom, Adresse, etc.).\n\n4. **Personnalisez votre document** :\n   - Répétez l'étape précédente pour tous les champs variables.\n   - Vous pouvez également ajouter des formules ou des conditions si nécessaire.\n\n5. **Prévisualisez les résultats** :\n   - Cliquez sur **Prévisualiser les résultats** (Preview Results) pour voir à quoi ressemblera chaque lettre avec les données des destinataires.\n\n6. **Terminez le publipostage** :\n   - Cliquez sur **Terminer et fusionner** (Finish & Merge).\n   - Choisissez **Éditer les lettres individuelles** (Edit Individual Letters) pour modifier chaque lettre avant de les envoyer, ou **Imprimer les documents** (Print Documents) pour les imprimer directement.\n\n7. **Enregistrez votre travail** :\n   - Enregistrez votre document principal et votre liste de destinataires pour une utilisation future.\n\nSi vous avez besoin d'aide supplémentaire ou si vous souhaitez des instructions plus détaillées pour une version spécifique de Word, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T10:48:38.5390206+02:00",
+  "durationSeconds": 10.51,
+  "stats": "mistral-small3.2:latest · 517 + 524 tokens · 10,5 s",
+  "isError": false,
+  "language": "FR"
+}

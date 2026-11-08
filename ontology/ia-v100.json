@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de l'IA (le calcul accéléré) : GPU de l'architecture Volta, premier à intégrer des Tensor Cores dédiés aux calculs matriciels de l'apprentissage profond.",
+  "id": "ia-v100",
+  "dateCreated": "2026-10-31 19:06:04",
+  "name": "NVIDIA Tesla V100",
+  "entityType": "HARDWARE",
+  "description": "GPU de l'architecture Volta, premier à intégrer des Tensor Cores dédiés aux calculs matriciels de l'apprentissage profond.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-materiel",
+  "sentencesExemples": [
+    "Lors du salon, le stand présentait NVIDIA Tesla V100 en démonstration.",
+    "Le laboratoire utilise NVIDIA Tesla V100 pour ses travaux dans le domaine du calcul accéléré.",
+    "Le technicien a installé NVIDIA Tesla V100 dans la salle des machines."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDDA5",
+  "synonyms": [
+    "V100"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#HARDWARE",
+    "#CALCULACCELERE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=NVIDIA%20Tesla%20V100"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "NVIDIA GeForce 256",
+    "NVIDIA A100",
+    "Connection Machine",
+    "Graphcore IPU"
+  ],
+  "isDeleted": false,
+  "startDate": "2017-01-01T00:00:00",
+  "endDate": null
+}

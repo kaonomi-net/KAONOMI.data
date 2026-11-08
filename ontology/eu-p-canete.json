@@ -1,0 +1,57 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (l'action pour le climat) : Ancien ministre espagnol de l'Agriculture, commissaire à l'Action pour le climat et à l'Énergie de 2014 à 2019.",
+  "id": "eu-p-canete",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Miguel Arias Cañete",
+  "entityType": "PERSON",
+  "description": "Ancien ministre espagnol de l'Agriculture, commissaire à l'Action pour le climat et à l'Énergie de 2014 à 2019.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Miguel Arias Cañete.",
+    "Lors du point de presse de midi, une question portait sur Miguel Arias Cañete.",
+    "Miguel Arias Cañete est une figure de l'action pour le climat."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Arias Cañete",
+    "Canete"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#ACTIONPOURCLIMAT"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Miguel%20Arias%20Ca%C3%B1ete"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité espagnole",
+    "Parti populaire (PP)",
+    "Ministre de l'Agriculture",
+    "Commissaire européen",
+    "Action pour le climat et énergie (Commission Juncker)",
+    "Commission Juncker",
+    "Action pour le climat",
+    "Énergie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

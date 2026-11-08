@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (le multilinguisme) : Centre de traduction des organes de l'Union européenne (CdT), organe de l'Union créé en 1994 et installé dans cette ville : Luxembourg.",
+  "id": "eu-ag-cdt",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Centre de traduction des organes de l'Union européenne (CdT)",
+  "entityType": "ORGANISATION",
+  "description": "Centre de traduction des organes de l'Union européenne (CdT), organe de l'Union créé en 1994 et installé dans cette ville : Luxembourg.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-agences",
+  "sentencesExemples": [
+    "La délégation a rencontré des représentants de « Centre de traduction des organes de l'Union européenne (CdT) ».",
+    "« Centre de traduction des organes de l'Union européenne (CdT) » joue un rôle dans le multilinguisme.",
+    "Les fonctionnaires de « Centre de traduction des organes de l'Union européenne (CdT) » préparent les textes relatifs au multilinguisme."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "CdT"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#MULTILINGUISME"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Centre%20de%20traduction%20des%20organes%20de%20l%27Union%20europ%C3%A9enne%20%28CdT%29"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Luxembourg",
+    "Multilinguisme",
+    "Union européenne"
+  ],
+  "isDeleted": false,
+  "startDate": "1994-01-01T00:00:00",
+  "endDate": null
+}

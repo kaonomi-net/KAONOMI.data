@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Matériel de la cybersécurité (l'audit de sécurité) : Point d'accès d'audit de Hak5 qui imite des réseaux Wi-Fi pour tester les attaques de l'homme du milieu.",
+  "id": "cyber-wifi-pineapple",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "WiFi Pineapple",
+  "entityType": "HARDWARE",
+  "description": "Point d'accès d'audit de Hak5 qui imite des réseaux Wi-Fi pour tester les attaques de l'homme du milieu.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-materiel",
+  "sentencesExemples": [
+    "Pour cet audit, l'équipe a comparé WiFi Pineapple à d'autres solutions matérielles.",
+    "WiFi Pineapple a marqué l'histoire du matériel consacré à l'audit de sécurité.",
+    "La fiche technique de WiFi Pineapple détaille ses caractéristiques de sécurité."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDEE1",
+  "synonyms": [
+    "Pineapple"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#HARDWARE",
+    "#AUDITSECURITE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=WiFi%20Pineapple"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Aircrack-ng"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

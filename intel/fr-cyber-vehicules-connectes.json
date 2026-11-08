@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-vehicules-connectes",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Véhicules connectés",
+  "includedEntities": [
+    {
+      "entityName": "véhicules connectés",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "piratage",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les failles des voitures connectées.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "constructeurs",
+    "clés sans fil",
+    "applications"
+  ],
+  "questions": [
+    "Quel véhicule ?",
+    "Quelle faille ?",
+    "Quel rappel ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#AUTOMOBILE",
+    "#IOT"
+  ],
+  "events": [
+    "@VULNERABILITE"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

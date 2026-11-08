@@ -1,0 +1,64 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-volatilite",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "volatilité",
+  "entityType": "DOMAIN",
+  "description": "Cité par 6 intels : CAC 40 ; Krach ou forte baisse des marchés ; Volatilité des marchés ; Yen et carry trade ; Bitcoin ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre l'évolution de l'indice phare de la Bourse de Paris.",
+    "Surveiller les fortes baisses des marchés et leurs causes.",
+    "Suivre les indices de volatilité et la nervosité des investisseurs."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "volatilité",
+  "tags": [
+    "#BOURSE",
+    "#CRYPTO",
+    "#CAC40",
+    "#RISQUE",
+    "#VOLATILITE",
+    "#CHANGE"
+  ],
+  "events": [
+    "@SEANCE-BOURSE",
+    "@CHUTE-BOURSIERE"
+  ],
+  "signals": [
+    "!VOLATILITE",
+    "!MARCHE",
+    "!ALERTE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "VIX",
+    "bitcoin",
+    "Paris",
+    "séance",
+    "valeurs du CAC 40",
+    "Euronext Paris",
+    "CAC 40",
+    "Bourse",
+    "krach",
+    "chute"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

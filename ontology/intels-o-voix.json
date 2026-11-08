@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-voix",
+  "dateCreated": "2026-11-08 17:55:49",
+  "name": "voix",
+  "entityType": "DOMAIN",
+  "description": "Cité par 3 intels : Modèle multimodal ; IA et diagnostic des troubles psychiques ; Anthropomorphisme et IA.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre les modèles qui comprennent texte, image, son et vidéo.",
+    "Suivre les outils d'IA de dépistage des troubles psychiques.",
+    "Suivre les recherches sur la tendance à prêter des émotions aux IA."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "voix",
+  "tags": [
+    "#IA",
+    "#PSYCHOLOGIE",
+    "#MULTIMODAL",
+    "#LLM",
+    "#DIAGNOSTIC",
+    "#COGNITION"
+  ],
+  "events": [
+    "@LANCEMENT-MODELE"
+  ],
+  "signals": [
+    "!NOUVEAUTE",
+    "!INNOVATION",
+    "!SOCIETE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "IA",
+    "multimodal",
+    "Gemini",
+    "image",
+    "GPT",
+    "Claude",
+    "troubles psychiques",
+    "diagnostic",
+    "textes",
+    "biais"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

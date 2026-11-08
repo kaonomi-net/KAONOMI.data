@@ -1,0 +1,13 @@
+{
+  "index": 1,
+  "file": "001-politesse-guten-tag-wie-geht-es-ihnen.prompt.json",
+  "prompt": "Guten Tag, wie geht es Ihnen heute?",
+  "promptWords": 7,
+  "completion": "Guten Tag! Mir geht es heute ausgezeichnet, danke der Nachfrage. Wie kann ich Ihnen heute helfen?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-10T14:07:01.7372065+02:00",
+  "durationSeconds": 3,
+  "stats": "mistral-small3.2:latest · 517 + 24 tokens · 3,0 s",
+  "isError": false,
+  "language": "DE"
+}

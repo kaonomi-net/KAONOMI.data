@@ -1,0 +1,13 @@
+{
+  "index": 649,
+  "file": "0649-python-donne-un-exemple-de-code-en.prompt.json",
+  "prompt": "Donne un exemple de code en Python qui illustre la sérialisation JSON.",
+  "promptWords": 12,
+  "completion": "Voici un exemple de code en Python qui illustre la sérialisation JSON en utilisant le module `json` :\n\n```python\nimport json\n\n# Exemple de données Python (un dictionnaire)\ndata = {\n    \"nom\": \"Jean\",\n    \"âge\": 30,\n    \"ville\": \"Paris\",\n    \"hobbies\": [\"lecture\", \"musique\", \"randonnée\"],\n    \"est_étudiant\": False\n}\n\n# Sérialisation des données Python en JSON\njson_data = json.dumps(data, indent=4, ensure_ascii=False)\n\n# Affichage du JSON sérialisé\nprint(\"JSON sérialisé :\")\nprint(json_data)\n\n# Sauvegarde du JSON dans un fichier\nwith open(\"data.json\", \"w\", encoding=\"utf-8\") as fichier:\n    json.dump(data, fichier, indent=4, ensure_ascii=False)\n\nprint(\"\\nLes données ont été sauvegardées dans le fichier 'data.json'.\")\n```\n\n### Explications :\n1. **`json.dumps()`** : Convertit un objet Python en une chaîne JSON.\n   - `indent=4` : Ajoute une indentation pour une meilleure lisibilité.\n   - `ensure_ascii=False` : Permet d'utiliser des caractères non-ASCII (comme les accents).\n\n2. **`json.dump()`** : Écrit directement les données JSON dans un fichier.\n\n### Résultat attendu dans `data.json` :\n```json\n{\n    \"nom\": \"Jean\",\n    \"âge\": 30,\n    \"ville\": \"Paris\",\n    \"hobbies\": [\n        \"lecture\",\n        \"musique\",\n        \"randonnée\"\n    ],\n    \"est_étudiant\": false\n}\n```\n\nSi tu as besoin d'autres exemples ou d'explications supplémentaires, n'hésite pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T12:38:00.0855199+02:00",
+  "durationSeconds": 7.94,
+  "stats": "mistral-small3.2:latest · 525 + 390 tokens · 7,9 s",
+  "isError": false,
+  "language": "FR"
+}

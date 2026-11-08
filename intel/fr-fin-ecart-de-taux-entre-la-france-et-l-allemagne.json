@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-ecart-de-taux-entre-la-france-et-l-allemagne",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Écart de taux entre la France et l'Allemagne",
+  "includedEntities": [
+    {
+      "entityName": "spread",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "OAT",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Bund",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'écart entre les taux à dix ans français et allemands, proche de 170 points de base fin octobre 2026.",
+  "isFuzzy": true,
+  "locations": [
+    "Paris",
+    "Francfort"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "budget",
+    "notation",
+    "BCE"
+  ],
+  "questions": [
+    "Quel niveau ?",
+    "Quel record ?",
+    "Quel facteur ?"
+  ],
+  "tags": [
+    "#DETTE",
+    "#FRANCE",
+    "#OBLIGATIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

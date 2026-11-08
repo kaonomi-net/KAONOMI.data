@@ -1,0 +1,60 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Personnalité de l'Union européenne (les PME et les startups) : Juriste, ancienne ministre bulgare des Affaires étrangères, commissaire aux Startups, à la Recherche et à l'Innovation depuis 2024.",
+  "id": "eu-p-zaharieva",
+  "dateCreated": "2026-10-31 20:18:14",
+  "name": "Ekaterina Zaharieva",
+  "entityType": "PERSON",
+  "description": "Juriste, ancienne ministre bulgare des Affaires étrangères, commissaire aux Startups, à la Recherche et à l'Innovation depuis 2024.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-commissaires",
+  "sentencesExemples": [
+    "Les journalistes accrédités à Bruxelles suivent de près les déclarations de Ekaterina Zaharieva.",
+    "Lors du point de presse de midi, une question portait sur Ekaterina Zaharieva.",
+    "Ekaterina Zaharieva est une figure de les PME et les startups."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDC64",
+  "synonyms": [
+    "Zaharieva"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#PERSON",
+    "#PMEETSTARTUPS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Ekaterina%20Zaharieva"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "nationalité bulgare",
+    "GERB",
+    "Juriste",
+    "Ministre des Affaires étrangères",
+    "Commissaire européen",
+    "Startups, recherche et innovation (Commission von der Leyen II)",
+    "Commission von der Leyen II",
+    "PME et startups",
+    "Recherche",
+    "Innovation",
+    "Centre commun de recherche",
+    "Direction générale de la recherche et de l'innovation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

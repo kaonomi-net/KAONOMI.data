@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-accord-avec-l-indonesie",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Accord avec l'Indonésie",
+  "includedEntities": [
+    {
+      "entityName": "Indonésie",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "accord",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'accord de partenariat économique avec l'Indonésie.",
+  "isFuzzy": true,
+  "locations": [
+    "Jakarta",
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "nickel",
+    "huile de palme",
+    "déforestation"
+  ],
+  "questions": [
+    "Où en est la ratification ?",
+    "Quels secteurs ?",
+    "Quelles critiques ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#COMMERCE",
+    "#INDONESIE"
+  ],
+  "events": [],
+  "signals": [
+    "!COMMERCE"
+  ],
+  "isDeleted": false
+}

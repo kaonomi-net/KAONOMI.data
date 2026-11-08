@@ -1,0 +1,52 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-ventes-du-luxe-en-chine",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Ventes du luxe en Chine",
+  "includedEntities": [
+    {
+      "entityName": "luxe",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "Chine",
+      "entityWeight": "40"
+    },
+    {
+      "entityName": "consommateurs",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la demande chinoise de luxe.",
+  "isFuzzy": true,
+  "locations": [
+    "Chine",
+    "Hong Kong"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Hainan",
+    "tourisme",
+    "confiance"
+  ],
+  "questions": [
+    "Quelle tendance ?",
+    "Quelle reprise ?",
+    "Quel effet sur les valeurs du luxe ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#LUXE",
+    "#CHINE"
+  ],
+  "events": [],
+  "signals": [
+    "!TENDANCE"
+  ],
+  "isDeleted": false
+}

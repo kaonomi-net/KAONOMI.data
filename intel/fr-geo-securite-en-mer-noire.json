@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-geo-securite-en-mer-noire",
+  "date": "2026-11-08T14:57:54.038687+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de la géopolitique",
+  "title": "Sécurité en mer Noire",
+  "includedEntities": [
+    {
+      "entityName": "mer Noire",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "navires",
+      "entityWeight": "20"
+    },
+    {
+      "entityName": "port",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la navigation et les incidents en mer Noire.",
+  "isFuzzy": true,
+  "locations": [
+    "Odessa",
+    "Crimée",
+    "Bosphore"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Turquie",
+    "exportations de céréales",
+    "flotte russe"
+  ],
+  "questions": [
+    "Quels incidents ?",
+    "Les corridors maritimes fonctionnent-ils ?",
+    "Quels navires touchés ?"
+  ],
+  "tags": [
+    "#GEOPOLITIQUE",
+    "#MER-NOIRE",
+    "#MARITIME"
+  ],
+  "events": [
+    "@INCIDENT-MARITIME"
+  ],
+  "signals": [
+    "!TENSION"
+  ],
+  "isDeleted": false
+}

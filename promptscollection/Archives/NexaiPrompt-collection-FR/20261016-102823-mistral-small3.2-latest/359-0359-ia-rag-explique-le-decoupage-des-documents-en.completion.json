@@ -1,0 +1,13 @@
+{
+  "index": 359,
+  "file": "0359-ia-rag-explique-le-decoupage-des-documents-en.prompt.json",
+  "prompt": "Explique le découpage des documents en chunks de façon simple.",
+  "promptWords": 10,
+  "completion": "Le découpage des documents en \"chunks\" (ou morceaux) est une technique utilisée pour organiser et traiter des informations de manière plus efficace, surtout dans le contexte de l'intelligence artificielle et du traitement du langage naturel. Voici une explication simple :\n\n### 1. **Qu'est-ce qu'un chunk ?**\nUn chunk est un petit morceau de texte ou de données. Par exemple, un paragraphe peut être divisé en plusieurs chunks, chacun contenant une idée ou une information spécifique.\n\n### 2. **Pourquoi découper en chunks ?**\n- **Facilité de traitement** : Les modèles d'IA comme moi peuvent mieux comprendre et analyser des petits morceaux de texte plutôt qu'un long document d'un seul coup.\n- **Efficacité** : Traiter des chunks permet de gérer de grandes quantités de données sans surcharger le système.\n- **Précision** : Cela aide à extraire des informations spécifiques plus facilement.\n\n### 3. **Comment ça marche ?**\n- **Définir la taille des chunks** : On choisit une taille fixe (par exemple, 100 mots par chunk).\n- **Découper le document** : Le texte est divisé en morceaux de cette taille.\n- **Traiter chaque chunk** : Chaque morceau est analysé ou utilisé séparément.\n\n### 4. **Exemple**\nImaginons un article de 500 mots. On peut le diviser en 5 chunks de 100 mots chacun. Chaque chunk peut ensuite être traité pour extraire des informations, répondre à des questions, etc.\n\n### 5. **Avantages**\n- **Meilleure compréhension** : Les chunks permettent de se concentrer sur des parties spécifiques du texte.\n- **Flexibilité** : On peut traiter les chunks dans n'importe quel ordre ou les combiner selon les besoins.\n\nEn résumé, découper un document en chunks, c'est comme couper une pizza en parts pour la partager plus facilement ! Cela rend le traitement des informations plus simple et plus efficace.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:31:00.7593932+02:00",
+  "durationSeconds": 8.61,
+  "stats": "mistral-small3.2:latest · 520 + 421 tokens · 8,6 s",
+  "isError": false,
+  "language": "FR"
+}

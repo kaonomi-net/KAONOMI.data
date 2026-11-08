@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les jeux) : Programme de dames de l'université de l'Alberta, premier programme à remporter un titre mondial face à des humains (1994) ; il a ensuite résolu le jeu de dames anglaises en 2007.",
+  "id": "ia-chinook",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "Chinook",
+  "entityType": "SOFTWARE",
+  "description": "Programme de dames de l'université de l'Alberta, premier programme à remporter un titre mondial face à des humains (1994) ; il a ensuite résolu le jeu de dames anglaises en 2007.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé Chinook avec d'autres outils des jeux.",
+    "Chinook figure parmi les logiciels marquants des jeux.",
+    "En atelier, les élèves ont découvert Chinook et ses possibilités."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Chinook"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#JEUX"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Chinook"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Élagage alpha-bêta"
+  ],
+  "isDeleted": false,
+  "startDate": "1989-01-01T00:00:00",
+  "endDate": null
+}

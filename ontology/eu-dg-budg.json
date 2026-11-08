@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Organisation de l'Union européenne (le budget de l'Union) : Direction générale du budget (DG BUDG), service de la Commission européenne compétent pour le budget de l'Union, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "id": "eu-dg-budg",
+  "dateCreated": "2026-10-31 20:18:15",
+  "name": "Direction générale du budget",
+  "entityType": "ORGANISATION",
+  "description": "Direction générale du budget (DG BUDG), service de la Commission européenne compétent pour le budget de l'Union, placé sous l'autorité de Piotr Serafin dans la Commission von der Leyen II.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-services",
+  "sentencesExemples": [
+    "« Direction générale du budget » joue un rôle dans le budget de l'Union.",
+    "Les fonctionnaires de « Direction générale du budget » préparent les textes relatifs au budget de l'Union.",
+    "La délégation a rencontré des représentants de « Direction générale du budget »."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83C\uDFDB",
+  "synonyms": [
+    "DG BUDG"
+  ],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#ORGANISATION",
+    "#BUDGETUNION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Direction%20g%C3%A9n%C3%A9rale%20du%20budget"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Commission européenne",
+    "Piotr Serafin",
+    "Budget",
+    "Règlement relatif au mécanisme de conditionnalité liée à l'état de droit",
+    "Cadre financier pluriannuel 2021-2027"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

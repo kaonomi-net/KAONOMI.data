@@ -1,0 +1,48 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-cloud-souverain-pour-l-ia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Cloud souverain pour l'IA",
+  "includedEntities": [
+    {
+      "entityName": "cloud souverain",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "IA",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 50,
+  "instructions": "Suivre les offres de cloud souverain pour héberger l'IA.",
+  "isFuzzy": true,
+  "locations": [
+    "France",
+    "Europe"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "OVHcloud",
+    "Scaleway",
+    "Outscale"
+  ],
+  "questions": [
+    "Quelle certification ?",
+    "Quels clients publics ?",
+    "Quelle capacité GPU ?"
+  ],
+  "tags": [
+    "#IA",
+    "#CLOUD",
+    "#SOUVERAINETE"
+  ],
+  "events": [],
+  "signals": [
+    "!SOUVERAINETE"
+  ],
+  "isDeleted": false
+}

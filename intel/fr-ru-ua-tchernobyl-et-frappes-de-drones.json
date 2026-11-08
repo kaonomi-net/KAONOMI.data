@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-tchernobyl-et-frappes-de-drones",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Tchernobyl et frappes de drones",
+  "includedEntities": [
+    {
+      "entityName": "Tchernobyl",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "drone",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les incidents touchant le site de Tchernobyl.",
+  "isFuzzy": true,
+  "locations": [
+    "Tchernobyl"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "arche de confinement",
+    "AIEA",
+    "radioactivité"
+  ],
+  "questions": [
+    "Quel incident ?",
+    "Quels dégâts ?",
+    "Quel niveau de radioactivité ?"
+  ],
+  "tags": [
+    "#NUCLEAIRE",
+    "#UKRAINE",
+    "#TCHERNOBYL"
+  ],
+  "events": [
+    "@ALERTE-NUCLEAIRE"
+  ],
+  "signals": [
+    "!RISQUE"
+  ],
+  "isDeleted": false
+}

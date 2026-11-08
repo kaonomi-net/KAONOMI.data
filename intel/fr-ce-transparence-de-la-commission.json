@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-transparence-de-la-commission",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Transparence de la Commission",
+  "includedEntities": [
+    {
+      "entityName": "transparence",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "accès aux documents",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "Médiatrice",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les critiques sur la transparence de la Commission.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles",
+    "Strasbourg"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Médiatrice européenne",
+    "journalistes",
+    "documents"
+  ],
+  "questions": [
+    "Quelle plainte ?",
+    "Quelle décision de la Médiatrice ?",
+    "Quelle réponse ?"
+  ],
+  "tags": [
+    "#COMMISSION-EUROPEENNE",
+    "#TRANSPARENCE"
+  ],
+  "events": [],
+  "signals": [
+    "!TRANSPARENCE"
+  ],
+  "isDeleted": false
+}

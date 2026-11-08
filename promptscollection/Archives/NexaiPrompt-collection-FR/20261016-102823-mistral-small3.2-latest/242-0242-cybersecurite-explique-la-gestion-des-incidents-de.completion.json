@@ -1,0 +1,13 @@
+{
+  "index": 242,
+  "file": "0242-cybersecurite-explique-la-gestion-des-incidents-de.prompt.json",
+  "prompt": "Explique la gestion des incidents de sécurité de façon simple.",
+  "promptWords": 10,
+  "completion": "La gestion des incidents de sécurité, c'est un peu comme gérer une urgence dans une entreprise ou une organisation pour protéger ses systèmes informatiques et ses données. Voici les étapes principales expliquées simplement :\n\n1. **Préparation** :\n   - Avoir un plan d'action prêt à l'avance (comme un plan d'urgence).\n   - Former les équipes à reconnaître et réagir aux incidents.\n\n2. **Détection** :\n   - Repérer qu'il y a un problème (par exemple, un virus, une intrusion, une fuite de données).\n   - Utiliser des outils pour alerter quand quelque chose d'anormal se passe.\n\n3. **Analyse** :\n   - Comprendre ce qui s'est passé : quel est l'incident, quelle est sa gravité, quelles sont les causes.\n\n4. **Containment (Confinement)** :\n   - Limiter les dégâts pour éviter que l'incident ne s'aggrave (par exemple, isoler un ordinateur infecté).\n\n5. **Éradication** :\n   - Éliminer la cause de l'incident (supprimer un virus, corriger une faille de sécurité).\n\n6. **Récupération** :\n   - Remettre les systèmes en marche et vérifier que tout fonctionne normalement.\n\n7. **Leçons apprises** :\n   - Analyser ce qui s'est passé pour éviter que cela ne se reproduise (améliorer les procédures, former davantage les employés).\n\nEn résumé, la gestion des incidents de sécurité vise à réagir rapidement et efficacement pour minimiser les impacts et renforcer la sécurité à long terme.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:09:22.2388578+02:00",
+  "durationSeconds": 6.9,
+  "stats": "mistral-small3.2:latest · 519 + 337 tokens · 6,9 s",
+  "isError": false,
+  "language": "FR"
+}

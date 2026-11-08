@@ -1,0 +1,13 @@
+{
+  "index": 414,
+  "file": "0414-llm-gateway-explique-la-limitation-de-debit-de.prompt.json",
+  "prompt": "Explique la limitation de débit de façon simple.",
+  "promptWords": 8,
+  "completion": "La limitation de débit est une technique utilisée pour contrôler la vitesse à laquelle les données sont transmises sur un réseau. Imaginez une autoroute : si trop de voitures (données) circulent en même temps, cela peut créer des embouteillages (surcharge du réseau). La limitation de débit permet de réguler le flux de données pour éviter ces congestions.\n\nEn termes simples, cela signifie que le débit (la quantité de données envoyées par seconde) est réduit pour certains utilisateurs ou applications, afin de garantir une utilisation équitable de la bande passante ou pour respecter des accords de service.\n\nPar exemple, un fournisseur d'accès Internet peut limiter le débit d'un utilisateur qui consomme beaucoup de données pour éviter de ralentir le réseau pour les autres. De même, une entreprise peut limiter le débit de certaines applications non essentielles pour prioriser les activités importantes.\n\nEn résumé, la limitation de débit est comme un régulateur de trafic qui permet de maintenir un bon fonctionnement du réseau en contrôlant la vitesse de transmission des données.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:40:57.595551+02:00",
+  "durationSeconds": 4.56,
+  "stats": "mistral-small3.2:latest · 517 + 218 tokens · 4,6 s",
+  "isError": false,
+  "language": "FR"
+}

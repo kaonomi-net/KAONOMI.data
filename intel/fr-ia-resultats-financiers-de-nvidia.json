@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ia-resultats-financiers-de-nvidia",
+  "date": "2026-11-08T14:51:15.103918+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : domaine de l'intelligence artificielle",
+  "title": "Résultats financiers de Nvidia",
+  "includedEntities": [
+    {
+      "entityName": "Nvidia",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "résultats",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 80,
+  "instructions": "Suivre les résultats trimestriels de Nvidia, baromètre de l'IA.",
+  "isFuzzy": false,
+  "locations": [
+    "Santa Clara"
+  ],
+  "times": [
+    "publication trimestrielle"
+  ],
+  "relatedEntities": [
+    "Jensen Huang",
+    "GPU",
+    "data centers"
+  ],
+  "questions": [
+    "Quel chiffre d'affaires ?",
+    "Quelle demande pour les GPU ?",
+    "Quelles prévisions ?"
+  ],
+  "tags": [
+    "#IA",
+    "#NVIDIA",
+    "#FINANCE"
+  ],
+  "events": [
+    "@RESULTATS-TRIMESTRIELS"
+  ],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-epargne-pension-belge",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Épargne-pension belge",
+  "includedEntities": [
+    {
+      "entityName": "épargne-pension",
+      "entityWeight": "70"
+    },
+    {
+      "entityName": "Belgique",
+      "entityWeight": "30"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'épargne-pension en Belgique.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [
+    "fin d'année"
+  ],
+  "relatedEntities": [
+    "plafond",
+    "fonds",
+    "avantage fiscal"
+  ],
+  "questions": [
+    "Quel plafond ?",
+    "Quel rendement ?",
+    "Quelle réforme ?"
+  ],
+  "tags": [
+    "#EPARGNE",
+    "#BELGIQUE",
+    "#RETRAITE"
+  ],
+  "events": [],
+  "signals": [
+    "!EPARGNE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-position-de-donald-trump-sur-l-ukraine",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Position de Donald Trump sur l'Ukraine",
+  "includedEntities": [
+    {
+      "entityName": "Trump",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "Ukraine",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "guerre",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre la politique de Donald Trump sur la guerre en Ukraine.",
+  "isFuzzy": true,
+  "locations": [
+    "Washington"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "Maison Blanche",
+    "Poutine",
+    "Zelensky"
+  ],
+  "questions": [
+    "Quelle déclaration ?",
+    "Quelle pression sur Kyiv ou Moscou ?",
+    "Quelle aide ?"
+  ],
+  "tags": [
+    "#ETATS-UNIS",
+    "#TRUMP",
+    "#UKRAINE"
+  ],
+  "events": [
+    "@DECLARATION"
+  ],
+  "signals": [
+    "!INCERTITUDE"
+  ],
+  "isDeleted": false
+}

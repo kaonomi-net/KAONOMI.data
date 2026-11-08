@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-papillon",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un insecte aux ailes colorées.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:papillon(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chenille(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:chrysalide(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:libellule(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coccinelle(s)?)(?![\\w-])"
+  ],
+  "symbol": "papillon",
+  "event": null,
+  "title": "Papillon",
+  "tags": [
+    "#NATURE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

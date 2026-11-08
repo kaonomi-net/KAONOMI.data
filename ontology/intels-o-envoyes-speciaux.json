@@ -1,0 +1,53 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-envoyes-speciaux",
+  "dateCreated": "2026-11-08 17:55:39",
+  "name": "envoyés spéciaux",
+  "entityType": "PROFESSION",
+  "description": "Cité par 1 intel : Plan de paix américain.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-profession",
+  "sentencesExemples": [
+    "Suivre les propositions de paix portées par Washington."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "envoyés spéciaux",
+  "tags": [
+    "#UKRAINE",
+    "#RUSSIE",
+    "#ETATS-UNIS",
+    "#NEGOCIATIONS"
+  ],
+  "events": [
+    "@PROPOSITION-PAIX"
+  ],
+  "signals": [
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Ukraine",
+    "Europe",
+    "Donald Trump",
+    "Washington",
+    "plan de paix",
+    "États-Unis"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

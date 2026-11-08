@@ -1,0 +1,13 @@
+{
+  "index": 496,
+  "file": "0496-recherche-operationnelle-qu-est-ce-que-la-recherche.prompt.json",
+  "prompt": "Qu'est-ce que la recherche opérationnelle ?",
+  "promptWords": 6,
+  "completion": "La recherche opérationnelle (RO) est une discipline scientifique qui vise à optimiser les processus de décision dans des contextes complexes, souvent impliquant des organisations ou des systèmes. Elle s'appuie sur des méthodes mathématiques, statistiques et informatiques pour modéliser des problèmes, analyser des données et proposer des solutions optimales ou quasi-optimales.\n\n### Domaines d'application :\nLa recherche opérationnelle est utilisée dans de nombreux secteurs, notamment :\n- **Logistique et transport** : Optimisation des itinéraires, gestion des stocks.\n- **Santé** : Planification des ressources hospitalières, gestion des urgences.\n- **Industrie** : Planification de la production, gestion des chaînes d'approvisionnement.\n- **Finance** : Gestion de portefeuille, évaluation des risques.\n- **Télécommunications** : Optimisation des réseaux.\n\n### Méthodes courantes :\n- **Programmation linéaire et non linéaire** : Pour résoudre des problèmes d'optimisation sous contraintes.\n- **Théorie des graphes** : Pour modéliser des réseaux et des flux.\n- **Simulation** : Pour tester des scénarios complexes.\n- **Méthodes stochastiques** : Pour gérer l'incertitude et les risques.\n\n### Objectifs :\nLa recherche opérationnelle cherche à améliorer l'efficacité, réduire les coûts, augmenter la productivité et prendre des décisions éclairées dans des environnements souvent incertains et dynamiques.\n\nSi vous avez des questions plus spécifiques sur un aspect particulier de la recherche opérationnelle, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:56:07.5869923+02:00",
+  "durationSeconds": 6.66,
+  "stats": "mistral-small3.2:latest · 516 + 327 tokens · 6,7 s",
+  "isError": false,
+  "language": "FR"
+}

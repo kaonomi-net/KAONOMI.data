@@ -1,0 +1,53 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ru-ua-contournement-des-sanctions-par-les-pays-tiers",
+  "date": "2026-11-08T15:12:17.541167+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : Poutine, la Russie et l'Ukraine (actualité de novembre 2026)",
+  "title": "Contournement des sanctions par les pays tiers",
+  "includedEntities": [
+    {
+      "entityName": "contournement",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "sanctions",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "exportations",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les circuits de contournement des sanctions.",
+  "isFuzzy": true,
+  "locations": [
+    "Kirghizstan",
+    "Arménie",
+    "Émirats arabes unis"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "biens à double usage",
+    "puces",
+    "réexportations"
+  ],
+  "questions": [
+    "Quel circuit ?",
+    "Quels produits ?",
+    "Quelle réponse occidentale ?"
+  ],
+  "tags": [
+    "#RUSSIE",
+    "#SANCTIONS",
+    "#CONTOURNEMENT"
+  ],
+  "events": [],
+  "signals": [
+    "!CONTOURNEMENT"
+  ],
+  "isDeleted": false
+}

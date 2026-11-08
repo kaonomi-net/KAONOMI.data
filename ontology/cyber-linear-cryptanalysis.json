@@ -1,0 +1,50 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Algorithme de la cybersécurité (la cryptanalyse) : Méthode qui approxime un chiffrement par des relations linéaires, proposée par Mitsuru Matsui et appliquée au DES.",
+  "id": "cyber-linear-cryptanalysis",
+  "dateCreated": "2026-10-31 19:16:44",
+  "name": "Cryptanalyse linéaire",
+  "entityType": "ALGORITHM",
+  "description": "Méthode qui approxime un chiffrement par des relations linéaires, proposée par Mitsuru Matsui et appliquée au DES.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-algorithmes",
+  "sentencesExemples": [
+    "L'audit vérifie que Cryptanalyse linéaire est utilisé correctement.",
+    "La chercheuse a présenté une analyse de Cryptanalyse linéaire lors du séminaire.",
+    "Cryptanalyse linéaire est enseigné dans tous les cours consacrés à la cryptanalyse."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDD10",
+  "synonyms": [
+    "linear cryptanalysis"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#ALGORITHM",
+    "#CRYPTANALYSE"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Cryptanalyse%20lin%C3%A9aire"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "DES",
+    "Cryptanalyse différentielle"
+  ],
+  "isDeleted": false,
+  "startDate": "1993-01-01T00:00:00",
+  "endDate": null
+}

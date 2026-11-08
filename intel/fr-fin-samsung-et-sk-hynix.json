@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fin-samsung-et-sk-hynix",
+  "date": "2026-11-08T15:45:09.255173+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : finance, Bourse, CAC 40, BEL 20 et valeurs IT/IA (actualité de novembre 2026)",
+  "title": "Samsung et SK Hynix",
+  "includedEntities": [
+    {
+      "entityName": "Samsung",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "SK Hynix",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les géants coréens de la mémoire.",
+  "isFuzzy": false,
+  "locations": [
+    "Séoul"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "HBM",
+    "Kospi",
+    "Nvidia"
+  ],
+  "questions": [
+    "Quel prix de la mémoire ?",
+    "Quelle demande ?",
+    "Quelle réaction ?"
+  ],
+  "tags": [
+    "#BOURSE",
+    "#IA",
+    "#SEMI-CONDUCTEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!VOLATILITE"
+  ],
+  "isDeleted": false
+}

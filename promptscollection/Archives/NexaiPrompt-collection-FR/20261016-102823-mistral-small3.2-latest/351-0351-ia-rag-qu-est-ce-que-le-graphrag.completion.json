@@ -1,0 +1,13 @@
+{
+  "index": 351,
+  "file": "0351-ia-rag-qu-est-ce-que-le-graphrag.prompt.json",
+  "prompt": "Qu'est-ce que le GraphRAG ?",
+  "promptWords": 5,
+  "completion": "Le GraphRAG (Graph-Retrieval-Augmented Generation) est une approche avancée en traitement automatique du langage (NLP) qui combine les techniques de graphes et de génération augmentée par récupération (RAG) pour améliorer la compréhension et la génération de texte.\n\nVoici les points clés du GraphRAG :\n\n1. **Graphes** : Les graphes sont utilisés pour représenter les relations entre les entités dans un texte. Cela permet de capturer des informations contextuelles et sémantiques qui peuvent être difficiles à modéliser avec des approches traditionnelles basées sur des séquences.\n\n2. **RAG (Retrieval-Augmented Generation)** : Le RAG est une technique où un modèle de langage utilise un mécanisme de récupération d'informations pour accéder à des données externes (comme une base de connaissances) avant de générer une réponse. Cela permet d'améliorer la précision et la pertinence des réponses.\n\n3. **Combinaison des deux** : Le GraphRAG utilise des graphes pour structurer les informations récupérées, ce qui permet de mieux comprendre les relations complexes entre les entités et de générer des réponses plus cohérentes et informées.\n\nCette approche est particulièrement utile dans des domaines où les relations entre les entités sont cruciales, comme la biologie, la médecine, ou la gestion de connaissances.\n\nSi vous avez besoin de plus de détails ou d'exemples spécifiques, n'hésitez pas à demander !",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:29:13.3855101+02:00",
+  "durationSeconds": 6.44,
+  "stats": "mistral-small3.2:latest · 516 + 310 tokens · 6,4 s",
+  "isError": false,
+  "language": "FR"
+}

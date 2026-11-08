@@ -1,0 +1,13 @@
+{
+  "index": 162,
+  "file": "0162-microsoft-office-how-do-i-create-a-rule.prompt.json",
+  "prompt": "How do I create a rule to sort messages in Outlook?",
+  "promptWords": 11,
+  "completion": "To create a rule to sort messages in Outlook, you can follow these steps. The exact steps may vary slightly depending on whether you're using Outlook on the web (Outlook.com) or the desktop application (Outlook for Windows or Mac). Here are the instructions for both:\n\n### For Outlook on the Web (Outlook.com):\n1. **Log in** to your Outlook account.\n2. **Click on the gear icon** (Settings) in the upper-right corner and select **View all Outlook settings** at the bottom.\n3. In the **Settings** pane, go to **Mail** > **Rules**.\n4. Click on **Add new rule**.\n5. **Name your rule** and set the conditions for the rule (e.g., from a specific sender, with specific keywords in the subject or body, etc.).\n6. Choose the action you want to take (e.g., move to a specific folder, categorize, etc.).\n7. Click **Save** to create the rule.\n\n### For Outlook Desktop Application (Windows or Mac):\n1. **Open Outlook** and go to the **Home** tab.\n2. Click on **Rules** > **Manage Rules & Alerts** (in Outlook for Windows) or **Tools** > **Rules** (in Outlook for Mac).\n3. In the **Rules and Alerts** dialog box, click **New Rule**.\n4. Select **Apply rule on messages I receive** and click **Next**.\n5. Choose the conditions for your rule (e.g., from a specific sender, with specific words in the subject, etc.).\n6. Click **Next** and select the actions you want to take (e.g., move to a specific folder, flag the message, etc.).\n7. Click **Next**, review your rule settings, and click **Finish**.\n8. Click **OK** to save the rule.\n\nWould you like more specific instructions for a particular version of Outlook or a specific type of rule?",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-09T19:33:11.8311497+02:00",
+  "durationSeconds": 10.29,
+  "stats": "mistral-small3.2:latest · 519 + 400 tokens · 10,3 s",
+  "isError": false,
+  "language": "EN"
+}

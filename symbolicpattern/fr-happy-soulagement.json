@@ -1,0 +1,26 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-soulagement",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "La fin d'une inquiétude.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:soulagement(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:soulag([ée]|[ée]e|[ée]s|[ée]es|er|eant)|ouf)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:d[ée]livr([ée]|[ée]e|[ée]s|ance)|rassur[ée](e|s|es)?)(?![\\w-])"
+  ],
+  "symbol": "soulagement",
+  "event": null,
+  "title": "Soulagement",
+  "tags": [
+    "#BIENETRE",
+    "#ESPOIR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

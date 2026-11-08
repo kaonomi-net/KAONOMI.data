@@ -1,0 +1,51 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:16:42.395777+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de la cybersécurité (les logiciels malveillants) : Ver de sabotage industriel visant les automates Siemens qui pilotaient les centrifugeuses iraniennes.",
+  "id": "cyber-stuxnet",
+  "dateCreated": "2026-10-31 19:16:45",
+  "name": "Stuxnet",
+  "entityType": "SOFTWARE",
+  "description": "Ver de sabotage industriel visant les automates Siemens qui pilotaient les centrifugeuses iraniennes.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "cyber-logiciels",
+  "sentencesExemples": [
+    "L'équipe a comparé Stuxnet avec d'autres outils des logiciels malveillants.",
+    "Stuxnet figure parmi les logiciels marquants des logiciels malveillants.",
+    "En atelier, les élèves ont découvert Stuxnet et son fonctionnement."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 0,
+  "fearLevel": 3,
+  "surpriseLevel": 3,
+  "disgustLevel": 1,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Stuxnet"
+  ],
+  "title": "",
+  "tags": [
+    "#CYBER",
+    "#SOFTWARE",
+    "#LOGICIELSMALVEILLANTS"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Stuxnet"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Eugène Kaspersky",
+    "Découverte de Stuxnet",
+    "Automate Siemens S7-300"
+  ],
+  "isDeleted": false,
+  "startDate": "2010-01-01T00:00:00",
+  "endDate": null
+}

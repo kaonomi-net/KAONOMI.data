@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-cessions",
+  "dateCreated": "2026-11-08 17:55:36",
+  "name": "cessions",
+  "entityType": "DOMAIN",
+  "description": "Cité par 7 intels : Kering ; Carrefour ; Société Générale ; Groupe Bruxelles Lambert ; Atos ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-domain",
+  "sentencesExemples": [
+    "Suivre le redressement de Kering et de Gucci.",
+    "Suivre l'action Carrefour et sa stratégie.",
+    "Suivre l'action Société Générale et son redressement."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "cessions",
+  "tags": [
+    "#BOURSE",
+    "#CAC40",
+    "#RESTRUCTURATION",
+    "#LUXE",
+    "#DISTRIBUTION",
+    "#BANQUES"
+  ],
+  "events": [
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!RESTRUCTURATION",
+    "!STRATEGIE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "dette",
+    "Kering",
+    "Gucci",
+    "Luca de Meo",
+    "prix",
+    "Alexandre Bompard",
+    "distribution",
+    "Carrefour",
+    "rentabilité"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

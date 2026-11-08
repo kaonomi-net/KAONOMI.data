@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-agence-de-l-union-pour-l-asile",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Agence de l'Union pour l'asile",
+  "includedEntities": [
+    {
+      "entityName": "Agence pour l'asile",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "asile",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les données et l'action de l'Agence de l'Union pour l'asile.",
+  "isFuzzy": true,
+  "locations": [
+    "La Valette"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "demandes d'asile",
+    "taux de reconnaissance",
+    "soutien"
+  ],
+  "questions": [
+    "Combien de demandes ?",
+    "Quelle tendance ?",
+    "Quels pays ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#ASILE",
+    "#INDICATEURS"
+  ],
+  "events": [],
+  "signals": [
+    "!INDICATEUR"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,13 @@
+{
+  "index": 425,
+  "file": "0425-deep-learning-qu-est-ce-qu-une-fonction.prompt.json",
+  "prompt": "Qu'est-ce qu'une fonction d'activation (ReLU, sigmoïde, softmax) ?",
+  "promptWords": 8,
+  "completion": "Une fonction d'activation est une fonction mathématique appliquée à la sortie d'un neurone artificiel dans un réseau de neurones. Elle introduit de la non-linéarité dans le modèle, permettant au réseau de capturer des relations complexes dans les données. Voici quelques-unes des fonctions d'activation couramment utilisées :\n\n1. **ReLU (Rectified Linear Unit)** :\n   - **Formule** : \\( f(x) = \\max(0, x) \\)\n   - **Description** : La fonction ReLU retourne l'entrée directement si elle est positive, sinon elle retourne zéro. Elle est largement utilisée dans les couches cachées des réseaux de neurones en raison de sa simplicité et de son efficacité à résoudre le problème de gradients disparus.\n   - **Avantages** : Calcul rapide, aide à éviter le problème de gradients disparus.\n   - **Inconvénients** : Peut souffrir du problème de \"neurones morts\" (neurones qui ne s'activent plus jamais).\n\n2. **Sigmoïde** :\n   - **Formule** : \\( f(x) = \\frac{1}{1 + e^{-x}} \\)\n   - **Description** : La fonction sigmoïde mappe toute valeur réelle à une valeur entre 0 et 1. Elle est souvent utilisée dans les couches de sortie pour les problèmes de classification binaire.\n   - **Avantages** : Sortie bornée entre 0 et 1, utile pour les probabilités.\n   - **Inconvénients** : Peut souffrir du problème de gradients disparus, calcul plus coûteux.\n\n3. **Softmax** :\n   - **Formule** : \\( f(x_i) = \\frac{e^{x_i}}{\\sum_{j=1}^{n} e^{x_j}} \\)\n   - **Description** : La fonction softmax est une généralisation de la fonction sigmoïde pour les problèmes de classification multiclasse. Elle convertit un vecteur de valeurs en une distribution de probabilités.\n   - **Avantages** : Utile pour les problèmes de classification multiclasse.\n   - **Inconvénients** : Peut aussi souffrir du problème de gradients disparus.\n\nChaque fonction d'activation a ses propres caractéristiques et est choisie en fonction du type de problème et de l'architecture du réseau de neurones.",
+  "model": "mistral-small3.2:latest",
+  "date": "2026-10-16T11:42:55.2147187+02:00",
+  "durationSeconds": 9.84,
+  "stats": "mistral-small3.2:latest · 528 + 487 tokens · 9,8 s",
+  "isError": false,
+  "language": "FR"
+}

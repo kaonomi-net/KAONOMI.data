@@ -1,0 +1,55 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-cyber-cyberattaque-chez-un-prestataire-de-l-efs",
+  "date": "2026-11-08T15:59:54.867552+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : cybersécurité, cryptographie, pentest et hacking (actualité de novembre 2026)",
+  "title": "Cyberattaque chez un prestataire de l'EFS",
+  "includedEntities": [
+    {
+      "entityName": "Établissement français du sang",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "cyberattaque",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "prestataire",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'incident du 2 novembre 2026 chez un prestataire d'équipements frigorifiques de l'EFS.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [
+    "2 novembre 2026"
+  ],
+  "relatedEntities": [
+    "chambres froides",
+    "sous-traitant",
+    "logiciel tiers"
+  ],
+  "questions": [
+    "Quel impact sur les stocks de sang ?",
+    "Quel prestataire ?",
+    "Quelles mesures ?"
+  ],
+  "tags": [
+    "#CYBERSECURITE",
+    "#SANTE",
+    "#FRANCE"
+  ],
+  "events": [
+    "@CYBERATTAQUE"
+  ],
+  "signals": [
+    "!ALERTE"
+  ],
+  "isDeleted": false
+}

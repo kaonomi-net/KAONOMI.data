@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-ce-prix-plafond-du-petrole-russe",
+  "date": "2026-11-08T15:59:57.446215+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la Commission européenne et Ursula von der Leyen (actualité de novembre 2026)",
+  "title": "Prix plafond du pétrole russe",
+  "includedEntities": [
+    {
+      "entityName": "prix plafond",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "pétrole russe",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre l'abaissement du plafond de prix du pétrole russe.",
+  "isFuzzy": true,
+  "locations": [
+    "Bruxelles"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "G7",
+    "Oural",
+    "flotte fantôme"
+  ],
+  "questions": [
+    "Quel plafond ?",
+    "Est-il respecté ?",
+    "Quelle révision ?"
+  ],
+  "tags": [
+    "#UNION-EUROPEENNE",
+    "#SANCTIONS",
+    "#PETROLE"
+  ],
+  "events": [
+    "@SANCTION"
+  ],
+  "signals": [
+    "!PRESSION-ECONOMIQUE"
+  ],
+  "isDeleted": false
+}

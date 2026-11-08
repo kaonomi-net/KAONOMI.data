@@ -1,0 +1,58 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-keir-starmer",
+  "dateCreated": "2026-11-08 17:55:42",
+  "name": "Keir Starmer",
+  "entityType": "PERSON",
+  "description": "Cité par 2 intels : Coalition des volontaires menée par Paris et Londres ; Macron et le Royaume-Uni.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-person",
+  "sentencesExemples": [
+    "Suivre la coalition franco-britannique pour garantir un cessez-le-feu.",
+    "Suivre la relation franco-britannique."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Keir Starmer",
+  "tags": [
+    "#FRANCE",
+    "#MACRON",
+    "#DEFENSE",
+    "#ROYAUME-UNI",
+    "#DIPLOMATIE"
+  ],
+  "events": [],
+  "signals": [
+    "!GARANTIES",
+    "!DIPLOMATIE"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Paris",
+    "Londres",
+    "Emmanuel Macron",
+    "Ukraine",
+    "Europe",
+    "force de réassurance",
+    "coalition des volontaires",
+    "défense",
+    "Manche",
+    "Royaume-Uni"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

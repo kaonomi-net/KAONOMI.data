@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-euthanasie-pour-souffrance-psychique",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Euthanasie pour souffrance psychique",
+  "includedEntities": [
+    {
+      "entityName": "euthanasie",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "souffrance psychique",
+      "entityWeight": "50"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre le débat sur l'euthanasie pour souffrance psychique en Belgique.",
+  "isFuzzy": true,
+  "locations": [
+    "Belgique"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "commission de contrôle",
+    "jeunes",
+    "psychiatres"
+  ],
+  "questions": [
+    "Quel cas ?",
+    "Quel débat ?",
+    "Quel rapport ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#BELGIQUE",
+    "#ETHIQUE"
+  ],
+  "events": [],
+  "signals": [
+    "!DEBAT"
+  ],
+  "isDeleted": false
+}

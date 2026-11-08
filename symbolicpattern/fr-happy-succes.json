@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-succes",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un résultat heureux.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:succ[èe]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:fructueu(x|se|ses))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:couronn[ée](e|s|es)?\\s+de\\s+succ[èe]s)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:carton\\s+plein)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:perc[ée]e(s)?)(?![\\w-])"
+  ],
+  "symbol": "succès",
+  "event": null,
+  "title": "Succès",
+  "tags": [
+    "#REUSSITE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

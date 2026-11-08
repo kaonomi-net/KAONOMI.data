@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-fear-putsch",
+  "date": "2026-11-08T12:23:24.901841+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Une prise du pouvoir par la force.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:putsch(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coup\\s+d['’][ée]tat)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:junte(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:putschiste(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:renversement(s)?\\s+du\\s+pouvoir)(?![\\w-])"
+  ],
+  "symbol": "putsch",
+  "event": null,
+  "title": "Putsch",
+  "tags": [
+    "#FEAR",
+    "#GUERRE"
+  ],
+  "events": [],
+  "signals": [
+    "!FEAR"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

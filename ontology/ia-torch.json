@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T19:06:04.237663+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Logiciel de l'IA (les bibliothèques d'apprentissage profond) : Bibliothèque de calcul scientifique et d'apprentissage automatique en Lua, ancêtre de PyTorch.",
+  "id": "ia-torch",
+  "dateCreated": "2026-10-31 19:06:05",
+  "name": "Torch",
+  "entityType": "SOFTWARE",
+  "description": "Bibliothèque de calcul scientifique et d'apprentissage automatique en Lua, ancêtre de PyTorch.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "ia-logiciels",
+  "sentencesExemples": [
+    "En atelier, les élèves ont découvert Torch et ses possibilités.",
+    "L'équipe a comparé Torch avec d'autres outils des bibliothèques d'apprentissage profond.",
+    "Torch figure parmi les logiciels marquants des bibliothèques d'apprentissage profond."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 2,
+  "fearLevel": 0,
+  "surpriseLevel": 1,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83D\uDCBE",
+  "synonyms": [
+    "Torch7"
+  ],
+  "title": "",
+  "tags": [
+    "#IA",
+    "#SOFTWARE",
+    "#BIBLIOTHEQUESAPPRENTISSAGEPROF"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Torch"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "PyTorch"
+  ],
+  "isDeleted": false,
+  "startDate": "2002-01-01T00:00:00",
+  "endDate": null
+}

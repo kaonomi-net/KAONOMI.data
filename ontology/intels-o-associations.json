@@ -1,0 +1,63 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-associations",
+  "dateCreated": "2026-11-08 17:55:35",
+  "name": "associations",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 11 intels : Pauvreté en France ; Sans-abri ; Racisme et discriminations ; Engagement civique et associations ; Santé mentale grande cause nationale 2026 ; ….",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre l'évolution de la pauvreté.",
+    "Suivre la situation des personnes sans domicile.",
+    "Suivre les actes racistes et les politiques de lutte."
+  ],
+  "angryLevel": null,
+  "sadLevel": 18,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "associations",
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#FRANCE",
+    "#SANTE-MENTALE",
+    "#PAUVRETE",
+    "#SOCIETE",
+    "#VIOLENCES-CONJUGALES"
+  ],
+  "events": [
+    "@CAMPAGNE"
+  ],
+  "signals": [
+    "!SOCIAL",
+    "!SAD",
+    "!PREVENTION"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "France",
+    "campagnes",
+    "santé mentale",
+    "Belgique",
+    "couple",
+    "Restos du cœur",
+    "pauvreté",
+    "INSEE",
+    "précarité",
+    "115"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

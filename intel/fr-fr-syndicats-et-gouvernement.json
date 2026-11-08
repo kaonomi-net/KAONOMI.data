@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-syndicats-et-gouvernement",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Syndicats et gouvernement",
+  "includedEntities": [
+    {
+      "entityName": "syndicats",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "CGT",
+      "entityWeight": "25"
+    },
+    {
+      "entityName": "CFDT",
+      "entityWeight": "25"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les relations entre les syndicats et l'exécutif.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "Sophie Binet",
+    "Marylise Léon",
+    "concertation"
+  ],
+  "questions": [
+    "Quelle concertation ?",
+    "Quelle rupture ?",
+    "Quelle revendication ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#SOCIAL",
+    "#SYNDICATS"
+  ],
+  "events": [],
+  "signals": [
+    "!SOCIAL"
+  ],
+  "isDeleted": false
+}

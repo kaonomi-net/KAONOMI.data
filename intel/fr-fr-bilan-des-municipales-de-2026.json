@@ -1,0 +1,49 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-fr-bilan-des-municipales-de-2026",
+  "date": "2026-11-08T15:21:48.947614+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : la France, la présidentielle de 2027, la dette et Emmanuel Macron (actualité de novembre 2026)",
+  "title": "Bilan des municipales de 2026",
+  "includedEntities": [
+    {
+      "entityName": "municipales",
+      "entityWeight": "50"
+    },
+    {
+      "entityName": "2026",
+      "entityWeight": "30"
+    },
+    {
+      "entityName": "bilan",
+      "entityWeight": "20"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les enseignements des municipales de mars 2026 pour 2027.",
+  "isFuzzy": true,
+  "locations": [],
+  "times": [],
+  "relatedEntities": [
+    "RN",
+    "LFI",
+    "LR"
+  ],
+  "questions": [
+    "Quels partis progressent ?",
+    "Quels enseignements pour la présidentielle ?",
+    "Quelles alliances ?"
+  ],
+  "tags": [
+    "#FRANCE",
+    "#MUNICIPALES",
+    "#ELECTIONS"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

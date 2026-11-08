@@ -1,0 +1,47 @@
+{
+  "appName": "KAONOMI.Intels",
+  "id": "fr-psy-mille-premiers-jours",
+  "date": "2026-11-08T16:26:02.207751+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Intel généré : psychologie et santé mentale (actualité de novembre 2026)",
+  "title": "Mille premiers jours",
+  "includedEntities": [
+    {
+      "entityName": "1000 premiers jours",
+      "entityWeight": "60"
+    },
+    {
+      "entityName": "développement",
+      "entityWeight": "40"
+    }
+  ],
+  "excludedEntities": [],
+  "triggerLevel": 60,
+  "instructions": "Suivre les politiques des mille premiers jours de l'enfant.",
+  "isFuzzy": true,
+  "locations": [
+    "France"
+  ],
+  "times": [],
+  "relatedEntities": [
+    "parentalité",
+    "congé de naissance",
+    "crèches"
+  ],
+  "questions": [
+    "Quelle mesure ?",
+    "Quel bilan ?",
+    "Quel budget ?"
+  ],
+  "tags": [
+    "#PSYCHOLOGIE",
+    "#ENFANCE",
+    "#PARENTALITE"
+  ],
+  "events": [],
+  "signals": [
+    "!POLITIQUE"
+  ],
+  "isDeleted": false
+}

@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-remede",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Ce qui guérit.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:rem[èe]de(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:traitement(s)?\\s+efficace(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:antidote(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:baume(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:panac[ée]e(s)?)(?![\\w-])"
+  ],
+  "symbol": "remède",
+  "event": null,
+  "title": "Remède",
+  "tags": [
+    "#SANTE"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

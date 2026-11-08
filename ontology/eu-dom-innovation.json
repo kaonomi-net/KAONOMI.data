@@ -1,0 +1,58 @@
+{
+  "appName": "KAONOMI.Chat",
+  "date": "2026-10-31T20:18:11.669117+01:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Domaine de l'Union européenne (l'innovation) : Soutien à l'innovation de rupture, aux startups et au transfert technologique.",
+  "id": "eu-dom-innovation",
+  "dateCreated": "2026-10-31 20:18:18",
+  "name": "Innovation",
+  "entityType": "DOMAIN",
+  "description": "Soutien à l'innovation de rupture, aux startups et au transfert technologique.",
+  "nodevirtualeftchildrenId": [],
+  "nodeparentId": "eu-domaines",
+  "sentencesExemples": [
+    "Les propositions législatives relatives au domaine « Innovation » passent par le Parlement et le Conseil.",
+    "La conférence portait sur l'innovation.",
+    "Le domaine « Innovation » figure dans le programme de travail de la Commission."
+  ],
+  "angryLevel": 0,
+  "sadLevel": 0,
+  "happyLevel": 1,
+  "fearLevel": 0,
+  "surpriseLevel": 0,
+  "disgustLevel": 0,
+  "isOntologyClass": false,
+  "symbol": "\uD83E\uDDED",
+  "synonyms": [],
+  "title": "",
+  "tags": [
+    "#COMMISSIONEUROPEENNE",
+    "#DOMAIN",
+    "#INNOVATION"
+  ],
+  "events": [],
+  "signals": [],
+  "relatedLinks": [
+    "https://fr.wikipedia.org/w/index.php?search=Innovation"
+  ],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Innovation, recherche, culture, éducation et jeunesse (Commission von der Leyen I)",
+    "Mariya Gabriel",
+    "Iliana Ivanova",
+    "Startups, recherche et innovation (Commission von der Leyen II)",
+    "Ekaterina Zaharieva",
+    "Recherche, science et innovation (Commission Juncker)",
+    "Carlos Moedas",
+    "Direction générale de la recherche et de l'innovation",
+    "Agence exécutive du Conseil européen de l'innovation et des PME (EISMEA)",
+    "Institut européen d'innovation et de technologie (EIT)",
+    "Horizon Europe",
+    "Fonds pour l'innovation"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

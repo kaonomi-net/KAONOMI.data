@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-acne",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Les boutons sur la peau.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:acn[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:acn[ée]ique(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:point(s)?\\s+noir(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bouton(s)?\\s+d['’]acn[ée])(?![\\w-])",
+    "(?i)(?<![\\w-])(?:peau\\s+grasse)(?![\\w-])"
+  ],
+  "symbol": "acné",
+  "event": null,
+  "title": "Acné",
+  "tags": [
+    "#DISGUST",
+    "#CORPS"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

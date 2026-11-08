@@ -1,0 +1,28 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-disgust-bacterie",
+  "date": "2026-11-08T12:10:32.092145+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Un micro-organisme, souvent porteur de maladie.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:bact[ée]rie(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:microbe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:germe(s)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:nid(s)?\\s+[àa]\\s+microbes)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:bouillon\\s+de\\s+culture)(?![\\w-])"
+  ],
+  "symbol": "bactérie",
+  "event": null,
+  "title": "Bactérie",
+  "tags": [
+    "#DISGUST",
+    "#INSALUBRITE"
+  ],
+  "events": [],
+  "signals": [
+    "!DISGUST"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}

@@ -1,0 +1,60 @@
+{
+  "appName": null,
+  "date": "0001-01-01T00:00:00",
+  "machineName": null,
+  "userName": null,
+  "comment": null,
+  "id": "intels-o-syensqo",
+  "dateCreated": "2026-11-08 17:55:48",
+  "name": "Syensqo",
+  "entityType": "ORGANISATION",
+  "description": "Cité par 2 intels : BEL 20 au-dessus de 6 000 points ; Syensqo.",
+  "nodevirtualeftchildrenId": null,
+  "nodeparentId": "intels-c-organisation",
+  "sentencesExemples": [
+    "Suivre le BEL 20, passé au-dessus de 6 000 points le 5 novembre 2026 après des records successifs.",
+    "Suivre l'action Syensqo et la chimie de spécialité."
+  ],
+  "angryLevel": null,
+  "sadLevel": null,
+  "happyLevel": null,
+  "fearLevel": null,
+  "surpriseLevel": null,
+  "disgustLevel": null,
+  "isOntologyClass": false,
+  "symbol": null,
+  "synonyms": [],
+  "title": "Syensqo",
+  "tags": [
+    "#BOURSE",
+    "#BEL20",
+    "#RECORD",
+    "#CHIMIE"
+  ],
+  "events": [
+    "@RECORD-BOURSIER",
+    "@PUBLICATION-RESULTATS"
+  ],
+  "signals": [
+    "!MARCHE",
+    "!RESULTATS"
+  ],
+  "relatedLinks": [],
+  "confidentiality": "PUBLIC(PU)",
+  "confidentialityLevel": 1,
+  "relatedEntities": [
+    "Bruxelles",
+    "6 000 points",
+    "argenx",
+    "record",
+    "Aperam",
+    "BEL 20",
+    "restructuration",
+    "matériaux",
+    "batteries",
+    "chimie"
+  ],
+  "isDeleted": false,
+  "startDate": null,
+  "endDate": null
+}

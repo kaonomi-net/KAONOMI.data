@@ -1,0 +1,27 @@
+{
+  "appName": "KAONOMI.SymbolicPatterns",
+  "id": "fr-happy-amoureux",
+  "date": "2026-11-08T11:54:06.698403+00:00",
+  "machineName": "RTX4090",
+  "userName": "JeromeFortias",
+  "comment": "Qui aime d'amour.",
+  "regexPatterns": [
+    "(?i)(?<![\\w-])(?:amoureu(x|se|ses|sement))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:[ée]pris(e|es)?)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:coup\\s+de\\s+foudre)(?![\\w-])",
+    "(?i)(?<![\\w-])(?:tomb(er|[ée]|[ée]e)\\s+amoureu(x|se))(?![\\w-])",
+    "(?i)(?<![\\w-])(?:b[ée]guin(s)?)(?![\\w-])"
+  ],
+  "symbol": "amoureux",
+  "event": null,
+  "title": "Amoureux",
+  "tags": [
+    "#AMOUR"
+  ],
+  "events": [],
+  "signals": [
+    "!HAPPY"
+  ],
+  "language": "FR",
+  "isDeleted": false
+}
